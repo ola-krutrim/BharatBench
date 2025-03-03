@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "সমীকরণে x কী?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "শেষ সমীকরণে d কী?",
+        "answer": "1. 25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "সমীকরণে x কী?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "নিচের বাম দিকের সমীকরণের উত্তর কী?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "ডানদিকের দ্বিতীয় সমীকরণের উত্তর কী?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "ডানদিকে দ্বিতীয় শেষ সমীকরণের উত্তর কী?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "শেষ সমীকরণে y কী?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"এক্স\" অপারেটরটি কীভাবে নতুন করে সংজ্ঞায়িত করা হয়েছে তার প্যাটার্নটি খুঁজে বের করুন এবং ছবিতে প্রদত্ত সমীকরণটির উত্তর দিন।",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "ডানদিকের মেয়েটি বোর্ডে কী লিখবে?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "50 ডলার দিয়ে আমি কত গ্যালন সর্বোচ্চ গ্যাসোলিন পেতে পারি?",
+        "answer": "13. 6 <অথবা> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "ডিজেল এবং নিয়মিত পেট্রোলের মধ্যে দামের পার্থক্য কী?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "ছবিতে দেখানো এক বোতল মেরলোট এবং এক বোতল ক্যাবারনেটের মোট দাম কত?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "তিন বোতল মোয়েট শ্যাম্পেইনের দাম কত?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "আমি একটি ফাঙ্গি পিৎজা এবং একটি প্রসিউটো পিৎজা পাচ্ছি। আমার মোট কত টাকা দিতে হবে?",
+        "answer": "14. 8 <অথবা> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "আমি দুটি মার্গারিটা পিৎজা এবং একটি ক্যালজোন পাচ্ছি। আমার মোট কত টাকা দিতে হবে?",
+        "answer": "25. 8 <অথবা> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "ছাড়ের আগে শুয়োরের মাংসের পেটের আসল দাম কত?",
+        "answer": "14",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "পেট্রোলের দাম কত?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "সামনের বাঁ দিকের ব্যক্তি যে টুপি পরেন তার রঙ কী?",
+        "answer": "নীল।",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "শ্যাম্পুর ডানদিকে কী অবস্থিত?",
+        "answer": "কন্ডিশনার",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "সবচেয়ে সঠিক বোতলে কী থাকে?",
+        "answer": "মুস।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "ফ্রিস্বি এবং মানুষের মধ্যে স্থানিক সম্পর্ক কী?",
+        "answer": "মানুষের উপরে <OR> উপরের বামে",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "পার্কিং স্পট 33-এ কোন গাড়িটি রয়েছে?",
+        "answer": "না <অথবা> খালি",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "কোন জায়গায় লাল গাড়ি পার্কিং করা আছে?",
+        "answer": "31",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "টমেটোর দাম কত?",
+        "answer": "আট <OR> 8.0",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "প্লামের কোন ফলের অধিকার রয়েছে?",
+        "answer": "কমলা",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "ছবির উপর ভিত্তি করে, টিনা ফে সম্পর্কে মোট আন্তর্জাতিক সচেতনতা কত?",
+        "answer": "35 শতাংশ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "ছবির উপর ভিত্তি করে, কোন দেশে টিনা ফে-র মোট সচেতনতার সর্বোচ্চ স্তর রয়েছে?",
+        "answer": "অস্ট্রেলিয়া",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "2 নম্বর পৃথিবীর কোন অভ্যন্তরীণ কাঠামো নির্দেশ করে?",
+        "answer": "ম্যান্টল",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "হলুদ স্যুট পরা মোটরসাইকেল চালকের মোটরসাইকেলের নম্বর কত?",
+        "answer": "16",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "ডানদিকে মোটরসাইকেলটিতে প্রদর্শিত নম্বরটি কী?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "এই দুটি বিমানের মধ্যে কোনটি আকারে বড়?",
+        "answer": "একই রকম",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "লোকটা কি গাড়ির চেয়েও বড়?",
+        "answer": "না",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "ময়দা টুকরো টুকরো করে ভাগ করার আগে ময়দা মেশানোর পর আমার কী করা উচিত?",
+        "answer": "উষ্ণ জায়গা <AND> 1 ঘন্টা",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "ডিম ও দুধ মেশানোর সময় কি আমার চিনি যোগ করা উচিত?",
+        "answer": "না",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "ভেষজ, সসেজ এবং মাশরুম কাটার আগে আমার কী করা উচিত?",
+        "answer": "প্যান সামান্য ভাঁজ করুন",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "যখন আমাদের সমস্ত উদ্দেশ্যের ময়দা যোগ করার প্রয়োজন হয় তখন পদক্ষেপের সূচক কী?",
+        "answer": "তৃতীয় <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "তৃতীয় ধাপে আমাদের কী যোগ করা উচিত?",
+        "answer": "দুধ।",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "আঙুল তোলার পর বাচ্চাদের কী করা উচিত?",
+        "answer": "এক পায়ে লাফ দিন",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "চতুর্থ ধাপে কী আঁকা উচিত?",
+        "answer": "নাক।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "টায়ারে ছিদ্র ছড়িয়ে দেওয়ার জন্য প্রোব ব্যবহার করার পরে কী পদক্ষেপ নেওয়া হয়?",
+        "answer": "মেরামত সরিয়ে ফেলুন",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "প্রস্তাবিত দ্বিতীয় ধাপটি কী?",
+        "answer": "আপনার শ্রোতাদের চিহ্নিত করুন",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "ছবিতে দেওয়া শেষ কৌশলটি কী?",
+        "answer": "একটি গান তৈরি করুন",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "ফোর্ড এফ150 ছাড়া গড় মোট জ্বালানী খরচ কত?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "সবচেয়ে বেশি জ্বালানি খরচ কত?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "তৈরি এবং ফেলে দেওয়া প্লাস্টিকের পরিমাণ বিবেচনা করে প্লাস্টিক পুনর্ব্যবহারের ক্ষেত্রে কোন বিভাগটি সবচেয়ে খারাপ কাজ করেছে?",
+        "answer": "প্যাকেজিং",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "উৎপাদিত প্লাস্টিকের পরিমাণ এবং ফেলে দেওয়া পরিমাণের মধ্যে মেট্রিক টনের পার্থক্য কী?",
+        "answer": "105",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "2023 সালের আনুমানিক গড় স্ট্যান্ডিং চার্জ কত?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "2023 সালের জন্য আনুমানিক মোট খরচ কত?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "বসার ঘরের জানালা কোন দিকে মুখ করে আছে?",
+        "answer": "উত্তর",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "এই ফ্লোরপ্ল্যানে রান্নাঘরের সরঞ্জামগুলি কী কী?",
+        "answer": "ওভেন <AND> ডিশওয়াশার",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "কোন ঘরটি বড়, ডাবল গ্যারেজ নাকি বসার ঘর?",
+        "answer": "ডাবল গ্যারেজ",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "কোন ঘরটা বড়, মাস্টার বেডরুম না প্যাটিও?",
+        "answer": "মাস্টার বেডরুম",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "যদি প্রদীপ জ্বালিয়ে দেওয়া হয় এবং বাল্বটি পুড়ে যায়, তাহলে এর সমাধান কী?",
+        "answer": "ব্লাব প্রতিস্থাপন করুন",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "ফ্লোচার্টের কোন ধাপটি হীরার আকৃতিতে আঁকা হয়?",
+        "answer": "জল ফুটিয়ে দেওয়া?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "বিছানা থেকে ওঠার জন্য গড় অপেক্ষার সময় কত?",
+        "answer": "15 মিনিট",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "কোন বছরে বাড়ির গড় মূল্যের সর্বোচ্চ বৃদ্ধির হার রয়েছে?",
+        "answer": "2008",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012 সালে জাপানের জি. ডি. পি কী?",
+        "answer": "6, 233.15 বিলিয়ন মার্কিন ডলার",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "কোন বছরগুলিতে রোয়িং এবং অ্যাথলেটিক্সে সমান সংখ্যক স্বর্ণপদক ছিল?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "কোন বিভাগ থেকে সবচেয়ে বেশি বেতন পান?",
+        "answer": "প্রশাসন",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "টেবিলের উপর ভিত্তি করে, উইলকিন্স কত উপার্জন করছে?",
+        "answer": "2500 <অথবা> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "কোন দেশের লাভের মার্জিন গড়ের নিচে?",
+        "answer": "ভারত",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "কোন দেশের লাভের মার্জিন সবচেয়ে বেশি?",
+        "answer": "অস্ট্রেলিয়া",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "কোন মাসে সর্বাধিক আয় হয়?",
+        "answer": "ফেব্রুয়ারি",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "মোট আয়ের ক্ষেত্রে বেতন কত শতাংশ অবদান রাখে?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "বাঁদিকের লোকটা কে?",
+        "answer": "কেইরা নাইটলি",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "ছবিতে থাকা ব্যক্তিটি কে?",
+        "answer": "মিশেল ইয়েহ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "নিচের ডানদিকে থাকা ব্যক্তিটি কে?",
+        "answer": "জেমি ডর্নান",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "কোনটি মিষ্টিহীন?",
+        "answer": "ওট।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "এই আপেল কি জৈব?",
+        "answer": "হ্যাঁ",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "পুরো ব্যাগের ক্যালোরি কত?",
+        "answer": "275",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "এই খাবারের নাম কি?",
+        "answer": "ম্যাপো তোফু",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "এই খাবারের নাম কি?",
+        "answer": "ক্যাপ্রিস সালাদ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "এই খাবারের নাম কি?",
+        "answer": "প্যাড থাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "বাঁ দিকের গাড়ির আকৃতি কী?",
+        "answer": "ভলকসওয়াগেন",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "এই কারখানাটি কী তৈরি করে?",
+        "answer": "ক্যামেরা",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "গাড়ির সবুজ লোগো কী?",
+        "answer": "দানব",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "এই ল্যান্ডমার্কের নাম কী?",
+        "answer": "ট্রেভি ফাউন্টেন",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "এই ল্যান্ডমার্কের নাম কী?",
+        "answer": "আনবারিয়া মসজিদ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "এই ল্যান্ডমার্কের নাম কী?",
+        "answer": "বাওচু প্যাগোডা",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "এই নোটের মুখ মূল্য কত?",
+        "answer": "পাঁচ <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "এই নোটটি কী?",
+        "answer": "দশ পাউন্ড <অথবা> 10 পাউন্ড <অথবা> ব্রিটিশ পাউন্ড",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "এই নোটটি কোন ধরনের মুদ্রার প্রতিনিধিত্ব করে?",
+        "answer": "সুইডিশ <OR> ক্রোনার",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "কোন বুকের এক্সরে রোগ পাওয়া যেতে পারে? (বিকল্পগুলির মধ্যে রয়েছেঃ অ্যাটেলেক্টাসিস; কার্ডিওমেগালি; এফ্যুশন; অনুপ্রবেশ; ভর; নোডুল; নিউমোনিয়া; নিউমোথোরাক্স; একীকরণ; এডিমা; এমফিসেমা; ফাইব্রোসিস; প্লুরাল থিকনিং; হার্নিয়া।)",
+        "answer": "কার্ডিওমেগালি",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "কোন বুকের এক্সরে রোগ পাওয়া যেতে পারে? (বিকল্পগুলির মধ্যে রয়েছেঃ অ্যাটেলেক্টাসিস; কার্ডিওমেগালি; এফ্যুশন; অনুপ্রবেশ; ভর; নোডুল; নিউমোনিয়া; নিউমোথোরাক্স; একীকরণ; এডিমা; এমফিসেমা; ফাইব্রোসিস; প্লুরাল থিকনিং; হার্নিয়া।)",
+        "answer": "হার্নিয়া",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "কোন বুকের এক্সরে রোগ পাওয়া যেতে পারে? (বিকল্পগুলির মধ্যে রয়েছেঃ অ্যাটেলেক্টাসিস; কার্ডিওমেগালি; এফ্যুশন; অনুপ্রবেশ; ভর; নোডুল; নিউমোনিয়া; নিউমোথোরাক্স; একীকরণ; এডিমা; এমফিসেমা; ফাইব্রোসিস; প্লুরাল থিকনিং; হার্নিয়া।)",
+        "answer": "অনুপ্রবেশ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "পাখির সংখ্যা কত?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "কত টমেটো আছে?",
+        "answer": "5.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "কয়টি বই আছে?",
+        "answer": "63",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "ছবির সমস্ত দৃশ্যের পাঠ্য কী?",
+        "answer": "এস3302সিডি",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "ছবির সমস্ত দৃশ্যের পাঠ্য কী?",
+        "answer": "লাক্সমি জুয়েলার্স",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "ছবির সমস্ত দৃশ্যের পাঠ্য কী?",
+        "answer": "নিজেকে একটি আনন্দময় ছোট্ট ক্রিসমাস দিন",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "ছবির সমস্ত দৃশ্যের পাঠ্য কী?",
+        "answer": "5: 30 পিএম <এবং> 88% <এবং> মারিয়ো কার্ট 8 ডিলাক্স <এবং> মেরিও কার্ট 8 ডিলাক্স <এবং> সুপার মেরিও ওডিসি <এবং> জেল্ডার বংশধর <এবং> বন্যার শ্বাস <এবং> বিকল্পগুলি <এবং> শুরু",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "ছবির সমস্ত দৃশ্যের পাঠ্য কী?",
+        "answer": "মিস্টার উইলিয়াম শেকস্পিয়ার্স <এবং> কমেডি, ইতিহাস এবং ট্র্যাজেডি। <এবং> ট্রু অরিজিনাল কপি অনুসারে প্রকাশিত।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "ছবির সমস্ত দৃশ্যের পাঠ্য কী?",
+        "answer": "1642 সালের কানেকটিকাট আইন যদি কোনও পুরুষ বা মহিলা ডাইনি হয়-অর্থাৎ কোনও পরিচিত আত্মার সাথে পরামর্শ করে বা পরামর্শ করে-তবে তাদের মৃত্যুদণ্ড দেওয়া হবে।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "এই যন্ত্রের ব্র্যান্ড কী?",
+        "answer": "মটোরোলা",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "লাইসেন্স প্লেট নম্বর কী?",
+        "answer": "এ. ই. ডি-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "ছবির সমস্ত ফরাসি দৃশ্যের পাঠ্য কী?",
+        "answer": "ফ্রান্সের ইতিহাস <এবং> পূর্বের ইতিহাস",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "ছবিতে সমস্ত চীনা দৃশ্যের পাঠ্য কী?",
+        "answer": "ম্যাম <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND>",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "কোন মহাদেশটি হাইলাইট করা হয়েছে?",
+        "answer": "এশিয়া",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "এই খাদ্য জালের উৎপাদক কারা?",
+        "answer": "ফাইটোপ্ল্যাঙ্কটন <AND> সামুদ্রিক শৈবাল",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "প্রতিটি নমুনায় কণাগুলির গড় গতিশক্তির তুলনা করুন। নীচের চিত্রগুলি অভিন্ন বদ্ধ, অনমনীয় পাত্রে গ্যাসের দুটি বিশুদ্ধ নমুনা দেখায়। প্রতিটি রঙিন বল একটি গ্যাস কণার প্রতিনিধিত্ব করে। উভয় নমুনায় একই সংখ্যক কণা রয়েছে। কোন নমুনার তাপমাত্রা বেশি? নমুনা এ নাকি নমুনা বি?",
+        "answer": "নমুনা এ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "এই হাইলাইট করা শহরগুলির মধ্যে কোনটি সবচেয়ে উত্তরে?",
+        "answer": "চিকাগো",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "এই ছবিটা কোথায় তোলা?",
+        "answer": "টার্কি <OR> সিরিয়া",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "এই ছবিটা কোথায় তোলা?",
+        "answer": "অস্কার <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "এই ছবিটা কোথায় তোলা?",
+        "answer": "কাতার",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "এই ছবিটি কোন দেশে তোলা হয়েছিল?",
+        "answer": "অস্ট্রেলিয়া",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "গাছগুলি কি জিরাফের চেয়ে লম্বা?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "এই বিমানটি কি উড্ডয়ন করছে নাকি অবতরণ করছে?",
+        "answer": "নামানো।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "কতজন লোক বসে আছে?",
+        "answer": "এক",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "আবর্জনা কি খালি নাকি ভরা?",
+        "answer": "খালি",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "জিরাফকে কি বিপজ্জনক বলে মনে হয়?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "জলে জেব্রার কোনও প্রতিফলন আছে কি?",
+        "answer": "হ্যাঁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "লোকটা কি সুখে আছে?",
+        "answer": "হ্যাঁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "সব কুকুরের রঙ কি একই?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "সেই ওয়াইনটা কি ব্যাকগ্রাউন্ডে আছে?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "লোকটা কি পড়ে যাবে?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "কোন জায়গার ছবি তোলা হয়েছে?",
+        "answer": "উপকূল",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "এটা কি বাইরে?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "আবহাওয়া কেমন?",
+        "answer": "পরিষ্কার করুন <অথবা> রৌদ্র",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "ধাতু দিয়ে তৈরি বেড়ার রঙ কী?",
+        "answer": "সবুজ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "লোকটির বাম দিকের ব্যক্তিটি কি বসে আছে বলে মনে হচ্ছে?",
+        "answer": "হ্যাঁ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "টেবিলের প্লেট কি নোংরা এবং রূপালী উভয়ই?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "পর্দাটি কি ছবির ডান দিকে নাকি বাম দিকে?",
+        "answer": "বাঁ দিকে",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "এই ছবিতে কি কোনো কম্পিউটার আছে?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "চালের বাঁ দিকে বাসনপত্রের নিচে কি ন্যাপকিন থাকে?",
+        "answer": "হ্যাঁ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "বাদাম বা সবজি আছে কি?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "এই ছবিতে কি প্লেট এবং কাঁটাচামচ উভয়ই রয়েছে?",
+        "answer": "হ্যাঁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "এই পাখিটার নাম কি?",
+        "answer": "তোতাপাখি <OR> কনুর",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "ছবির কোন প্রাণীটি বড়, বিড়াল না কুকুর?",
+        "answer": "বিড়াল",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "ডান ডেস্কে, ল্যাপটপের বাম দিকে কী থাকে?",
+        "answer": "টেবিল ল্যাম্প <অথবা> ডেস্ক ল্যাম্প",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "লোকটা কি ঘোড়ায় চড়ে?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "সার্ফার কি সার্ফবোর্ডের বাম দিকে নাকি ডানদিকে?",
+        "answer": "বাঁ দিকে",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "প্রদীপটা কী, সাইড টেবিল না নাইটস্ট্যান্ড?",
+        "answer": "পাশের টেবিল",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "স্টাম্প এবং বেড়া উভয়ের মধ্যে কী মিল রয়েছে?",
+        "answer": "উপাদান",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "চামচটি কি চপস্টিকের মতো একই উপাদান দিয়ে তৈরি?",
+        "answer": "হ্যাঁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "শার্টের রঙ কি ঘুড়ির থেকে আলাদা?",
+        "answer": "হ্যাঁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "এই সমস্ত লোকের কি একই লিঙ্গ রয়েছে?",
+        "answer": "না",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "এই দুটি প্রাণী কি আলাদা?",
+        "answer": "হ্যাঁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "লোকগুলো কোথায়? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "তারা কলেজের একটি শ্রেণিকক্ষে রয়েছে। আমি তাই মনে করি কারণ সে যুবতী মহিলাকে কলেজ বয়সী বলে মনে হয়, এবং তারা ডেস্ক এবং চেয়ার দ্বারা বেষ্টিত।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "লোকেরা কেন কালো পোশাক পরে? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "তারা একটি অন্ত্যেষ্টিক্রিয়ায় যাচ্ছে। আমি তা মনে করি কারণ অন্ত্যেষ্টিক্রিয়ায় মানুষের কালো পোশাক পরা ঐতিহ্যবাহী।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "মহিলারা কেন জামা পরে? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "সে বিছানার জন্য প্রস্তুত হচ্ছে। আমি তাই মনে করি কারণ ঘরটি একটি শয়নকক্ষ বলে মনে হচ্ছে এবং মহিলাটি তার বিছানার সাধারণ দিকে যাচ্ছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "এই ঘটনা কোথায় ঘটছে? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "এটি একটি অভিনব রেস্তোরাঁয় ঘটছে। আমি মনে করি কারণ লোকটি ফ্যানসিল পরিহিত এবং পটভূমিটি অভিনব।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "দৃশ্যে এখন কি গ্রীষ্মকাল? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "না, পড়ে গেছে মনে হচ্ছে। আমি মনে করি কারণ পটভূমিতে কুমড়ো রয়েছে এবং সেগুলি সাধারণত পতনের সাথে যুক্ত।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "লাল পরিহিত মহিলাটি কি পুরুষের উপর, পরিহিত মহিলার দিকে তাকানোর জন্য রেগে যাবে? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "হ্যাঁ, লাল পোশাকে থাকা মহিলা এবং পুরুষকে একটি দম্পতি বলে মনে হচ্ছে এবং লাল পোশাকে থাকা মহিলাটি পুরুষের অন্য women.I পরীক্ষা করার প্রশংসা করবে না কারণ একগামিতার সম্পর্কের ক্ষেত্রে, অংশীদাররা একে অপরের প্রতি বিশ্বস্ত থাকবে বলে আশা করা হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "কেন মহিলার দুটি হাত বাতাসে রয়েছে? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "সে সবেমাত্র একটি বাস্কেটবলকে গুলি করেছে। আমি তাই মনে করি কারণ তার বাহুগুলি একটি বাস্কেটবল শটের জন্য কোণযুক্ত এবং তারা একটি বাস্কেটবল অঙ্গনে রয়েছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "ছেলেটা কোন ধরনের স্কুলে যায়? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "ছেলেটি বেসরকারি স্কুলে যায়, সরকারি স্কুলে নয়। আমি মনে করি যেহেতু ছেলেটির সবাই স্যুট পরে আছে, পাবলিক স্কুলগুলিতে এর প্রয়োজন হয় না তবে কিছু বেসরকারী স্কুল তা করে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "লোকেরা কি এই বাড়িতে বাস করে? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "না, তারা তা করে না। আমি মনে করি কারণ তারা সবাই চারপাশে ছবি এবং সাজসজ্জার দিকে তাকিয়ে আছে, যা কেউ করত না যদি সেগুলি দেখতে অভ্যস্ত হত।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "সাদা পোশাকে পুরুষ ও মহিলা কেন একে অপরের এত কাছাকাছি? এর উত্তর দিন এবং যুক্তি দিন।",
+        "answer": "সবেমাত্র তাঁদের বিয়ে হয়েছে। আমি তাই মনে করি কারণ তারা বিয়ের পোশাকে রয়েছে এবং সবাই তাদের দিকে তাকিয়ে আছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "আপনি কি এই মিমটি ব্যাখ্যা করতে পারেন?",
+        "answer": "এই মিমটি বিলম্ব এবং একটি নির্দিষ্ট সময় পর্যন্ত কাজগুলি বিলম্বিত করার প্রবণতা সম্পর্কে একটি হাস্যকর ধারণা। মিমে থাকা ব্যক্তিটি 8 টায় কিছু করার পরিকল্পনা করে, কিন্তু যখন তারা কয়েক মিনিটের মধ্যে সেই সময়সীমাটি মিস করে, তখন তারা পরিবর্তে 9 টা পর্যন্ত অপেক্ষা করার সিদ্ধান্ত নেয়। বিছানায় শুয়ে থাকা কেরমিট দ্য ফ্রগের চিত্রটি ব্যক্তির অলসতা এবং কাজটি সম্পন্ন করার অনুপ্রেরণার অভাবের প্রতিনিধিত্ব করে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "আপনি কি এই মিমটি ব্যাখ্যা করতে পারেন?",
+        "answer": "এই মিমটি কোভিড-19 মহামারীর কারণে অনলাইন শিক্ষার বর্তমান পরিস্থিতির উপর একটি ভাষ্য। এটি দেখায় যে বিভিন্ন পক্ষ কীভাবে এর দ্বারা প্রভাবিত হয়। \\n\\n প্রথম দুটি ছবিতে জুম সংস্থা এবং শিক্ষকরা বাতাসে অর্থ নিক্ষেপ করছে, যা বোঝায় যে তারা পরিস্থিতি থেকে লাভবান হচ্ছে। জুম, বিশেষত, মহামারীর কারণে ব্যবহার এবং রাজস্ব বৃদ্ধি পেয়েছে। \\n\\n তৃতীয় চিত্রটি দেখায় যে ওয়াইফাই সংস্থাটিও বাতাসে অর্থ নিক্ষেপ করছে, যা বোঝায় যে তারা পরিস্থিতি থেকেও লাভবান হচ্ছে কারণ আরও বেশি লোক অনলাইন শিক্ষার জন্য ইন্টারনেট ব্যবহার করছে। \\n\\n শেষ চিত্রটি একটি দুঃখজনক ক্লাউন মুখ সহ একজন শিক্ষার্থীকে দেখায়, যা বোঝায় যে শিক্ষার্থীরা পরিস্থিতি থেকে উপকৃত হচ্ছে না এবং অনলাইন শিক্ষার সাথে লড়াই করছে। পটভূমিতে \"সুখী মুখে রাখুন\" চিহ্নটি এই ধারণার উপর আরও জোর দেয় যে শিক্ষার্থীরা তাদের সংগ্রাম সত্ত্বেও সাহসী মুখ পরে আছে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "আপনি কি এই মিমটি ব্যাখ্যা করতে পারেন?",
+        "answer": "আইসল্যান্ড এবং গ্রিনল্যান্ড দেশগুলির নাম বিভ্রান্তিকর বলে এই মিমটি মজা করছে। নাম সত্ত্বেও, আইসল্যান্ড তার সুন্দর সবুজ প্রাকৃতিক দৃশ্যের জন্য পরিচিত, যেখানে গ্রিনল্যান্ড বেশিরভাগ বরফ এবং তুষারে আবৃত। মিমটি বলছে যে ব্যক্তির আস্থার সমস্যা রয়েছে কারণ এই দেশগুলির নামগুলি সঠিকভাবে তাদের প্রাকৃতিক দৃশ্যের প্রতিনিধিত্ব করে না।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "আপনি কি এই মিমটি ব্যাখ্যা করতে পারেন?",
+        "answer": "এই মিমটি পরীক্ষা চলাকালীন একজন ছাত্রের হাতের লেখার কীভাবে অবনতি হয় তা নিয়ে মজা করছে। প্রথম দুটি পৃষ্ঠায় পরিষ্কার-পরিচ্ছন্ন হাতের লেখা, মাঝের পৃষ্ঠায় সামান্য অগোছালো হাতের লেখা এবং শেষ দুটি পৃষ্ঠায় সম্পূর্ণ অবৈধ হাতের লেখা দেখানো হয়েছে। এটি সম্ভবত পরীক্ষার অগ্রগতির সাথে সাথে শিক্ষার্থী ক্লান্ত বা তাড়াহুড়ো করার কারণে হয়।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "আপনি কি এই মিমটি ব্যাখ্যা করতে পারেন?",
+        "answer": "এই মিমটি একটি রসিকতা যে কীভাবে নতুন কলেজ ছাত্ররা (নবীন) প্রায়শই নোট নিতে এবং ক্লাসে তারা যা করতে পারে তা শিখতে আগ্রহী। ছবিটি স্পঞ্জবব স্কোয়ারপ্যান্টস কার্টুনের, যেখানে স্পঞ্জবব এবং প্যাট্রিক উন্মত্তভাবে নোট লিখছেন। ক্যাপশনটি বোঝায় যে নবীনরা জানতে এতটাই আগ্রহী যে তারা এমনকি অধ্যাপকের অভিবাদন লিখে রাখছে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "এই ছবিতে মজার কী আছে?",
+        "answer": "এটি একটি গণ্ডারের একটি কার্টুন যা একটি ছবি আঁকে এবং প্রতিটি ছবিতে তার গণ্ডারের শিং রয়েছে কারণ গণ্ডারের শিং তার চোখের সামনে বৃদ্ধি পায়। ক্যাপশনে বলা হয়েছে, \"আপনি বিশ্বকে নিজের মতো করে দেখেন!\" আমাদের দৃষ্টিভঙ্গি কীভাবে বিশ্ব সম্পর্কে আমাদের ধারণাকে রূপ দেয় সে সম্পর্কে এটি একটি কৌতুকপূর্ণ ভাষ্য।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "এই ছবিতে মজার কী আছে?",
+        "answer": "এই ছবি সম্পর্কে কিছু বিষয় মজার মনে হতে পারেঃ \\n\\n1। দুটি ছবির মধ্যে বৈপরীত্যঃ বাঁ দিকে, আমরা দুটি মহিলাকে দেখতে পাই যারা খুব আবেগপ্রবণ এবং রাগান্বিত, অন্যদিকে ডানদিকে, আমরা একটি বিড়ালকে দেখতে পাই যে শান্তভাবে একটি ডিনার টেবিলে বসে আছে। \\n\\n2। বিড়ালের পরিস্থিতির অযৌক্তিকতাঃ একটি বিড়ালকে ডিনার টেবিলে তার সামনে একটি প্লেট খাবার নিয়ে বসে থাকতে দেখা সাধারণ বিষয় নয়, তাই এই চিত্রটি অপ্রত্যাশিত এবং হাস্যকর। \\n\\n3। বিড়ালের অভিব্যক্তিঃ বিড়ালটি মহিলাদের চিৎকার দেখে ভয় পেয়েছে বলে মনে হচ্ছে, যা ছবির হাস্যরসকে আরও বাড়িয়ে তোলে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "কোন কোন অনুষ্ঠানে কেউ এই মিম ব্যবহার করবে?",
+        "answer": "ঘুমন্ত লোকটির সঙ্গে মিমটি এবং চীনা ক্যাপশনটি হল \"ঘুমের সময় ছাড়া আমি ঘুমাতে চাই না। কিন্তু অন্যান্য সময়ে, আমি ঘুমাতে চাই) বিভিন্ন অনুষ্ঠানে ব্যবহার করা যেতে পারে যেখানে ঘুম অনুভব করা বা পরস্পরবিরোধী আকাঙ্ক্ষা থাকা প্রাসঙ্গিক। এখানে কয়েকটি পরিস্থিতি রয়েছে যেখানে এই মিমটি উপযুক্ত হতে পারেঃ \n \n সম্পর্কিত ঘুমঃ দিনের বেলা ক্লান্ত বা ঘুমন্ত হওয়ার সম্পর্কিত অনুভূতি প্রকাশ করার সময় মিমটি সোশ্যাল মিডিয়ায় বা কথোপকথনে ভাগ করা যেতে পারে। এটি সেই সম্পর্কিত অভিজ্ঞতাটি প্রকাশ করার একটি হালকা মনের উপায় হিসাবে কাজ করতে পারে এবং যারা সম্পর্কিত হতে পারে তাদের কাছ থেকে একটি হাস্যকর প্রতিক্রিয়া তৈরি করতে পারে। \n \n কাজ বা অধ্যয়ন-সম্পর্কিত হাস্যরসঃ এই মিমটি কাজ বা অধ্যয়ন-সম্পর্কিত প্রসঙ্গে হাস্যকরভাবে ঘুমের ইচ্ছা বা মনোযোগ এবং মনোযোগের প্রয়োজন এমন কাজের সময় তন্দ্রাচ্ছন্ন বোধ করার জন্য ব্যবহার করা যেতে পারে। মেজাজ হালকা করতে এবং জেগে ও সতর্ক থাকার চ্যালেঞ্জগুলি সম্পর্কে একটি যৌথ বোঝাপড়া তৈরি করতে এটি সহকর্মী বা সহপাঠীদের মধ্যে ভাগ করা যেতে পারে। \n \n বিলম্ব হাস্যরসঃ উৎপাদনশীল ক্রিয়াকলাপে জড়িত হওয়ার পরিবর্তে ঘুম বা বিশ্রাম নেওয়ার ইচ্ছার মধ্যে অভ্যন্তরীণ সংগ্রামকে চিত্রিত করতেও মিমটি ব্যবহার করা যেতে পারে। দায়িত্ব এড়ানো এবং শিথিলতায় লিপ্ত হওয়ার ক্রমাগত আকাঙ্ক্ষার বিষয়ে বিলম্ব বা হাস্যকর আত্ম-প্রতিফলন নিয়ে আলোচনা করার সময় এটি ভাগ করা যেতে পারে। \n \n কৌতুক বিদ্রূপঃ ঘুমের সময় এবং অন্যান্য সময়ে ঘুমাতে চাওয়ার মধ্যে মিমের দ্বন্দ্বকে বিভিন্ন প্রসঙ্গে কৌতুক বিদ্রূপের একটি রূপ হিসাবে ব্যবহার করা যেতে পারে। এটি এমন পরিস্থিতি নিয়ে আলোচনা করার সময় ভাগ করা যেতে পারে যেখানে আমাদের ইচ্ছা বা আচরণগুলি প্রত্যাশিত বা উপযুক্তের বিরোধিতা করে, কথোপকথনে একটি হাস্যকর মোড় যোগ করে। \n \n শেষ পর্যন্ত, মিমটি বিভিন্ন পরিস্থিতিতে নিযুক্ত করা যেতে পারে যেখানে এর ঘুম, দ্বন্দ্বমূলক ইচ্ছা বা বিদ্রূপাত্মক পরিস্থিতি আলোচনা করা বিষয় বা অনুভূতির সাথে সামঞ্জস্যপূর্ণ, কথোপকথন বা অনলাইন মিথস্ক্রিয়ায় হাস্যরস এবং আপেক্ষিকতার ছোঁয়া যোগ করে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "কোন কোন অনুষ্ঠানে কেউ এই মিম ব্যবহার করবে?",
+        "answer": "এই মিম, যা সাধারণত \"স্ক্রিমিং পান্ডা\" নামে পরিচিত, সাধারণত শক, বিস্ময় বা ভয় প্রকাশ করতে ব্যবহৃত হয়। এটি একটি চমকপ্রদ বা অপ্রত্যাশিত ঘটনার প্রতিক্রিয়ায় বা আতঙ্ক বা সতর্কতার অনুভূতি জানাতে ব্যবহার করা যেতে পারে। কিছু সম্ভাব্য উপলক্ষ যেখানে কেউ এই মিমটি ব্যবহার করতে পারে তার মধ্যে রয়েছেঃ \\n\\n-একটি হরর মুভিতে লাফ দেওয়ার ভয়ের প্রতিক্রিয়া\\n-একটি টিভি শো বা বইয়ের একটি বিস্ময়কর প্লট টুইস্টের প্রতিক্রিয়া\\ন-একটি সংবাদ শিরোনাম বা বর্তমান ইভেন্টে শক প্রকাশ করা\\ন-আসন্ন সময়সীমা বা পরীক্ষা সম্পর্কে ভয় বা উদ্বেগ প্রকাশ করা\\ন-একটি স্পোর্টস গেম বা অন্যান্য প্রতিযোগিতায় অপ্রত্যাশিত ফলাফল দেখে অবাক করা।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "কোন কোন অনুষ্ঠানে কেউ এই মিম ব্যবহার করবে?",
+        "answer": "চীনা ক্যাপশন সহ \"কাঁদতে থাকা বিড়াল\" মিমটি \"মা!\" এটি সাধারণত দুঃখ, অসহায়তা বা সান্ত্বনা খোঁজার অনুভূতি প্রকাশ করতে ব্যবহৃত হয়। এখানে কিছু উপলক্ষ রয়েছে যেখানে কেউ এই মিমটি ব্যবহার করতে পারেঃ \n \n দুর্বলতা প্রকাশ করাঃ মিমটি দুর্বলতার একটি মুহূর্ত প্রকাশ করতে বা অভিভূত বোধ করতে ব্যবহার করা যেতে পারে। এটি হাস্যকরভাবে নিজের মাকে ডাকার ধারণাটি আহ্বান করে অন্যদের কাছ থেকে সমর্থন বা সহানুভূতি চাওয়ার অনুভূতি প্রকাশ করতে পারে। \n \n সান্ত্বনা বা সহানুভূতি চাওয়াঃ এই মিমটি বন্ধু বা অনলাইন সম্প্রদায়ের সহানুভূতি বা সমর্থন জাগিয়ে তোলার জন্য ভাগ করা যেতে পারে। একটি সম্পর্কিত এবং স্বীকৃত মিম বিন্যাস ব্যবহার করে, এটি কার্যকরভাবে দুঃখ, হতাশা বা মানসিক সমর্থনের প্রয়োজনীয়তার অনুভূতি প্রকাশ করতে পারে। \n \n স্ব-অবজ্ঞাপূর্ণ হাস্যরসঃ ব্যক্তিগত পরিস্থিতি বা ছোটখাটো দুর্ঘটনার আলো তৈরি করতে মিমটি স্ব-অবজ্ঞাপূর্ণ পদ্ধতিতেও ব্যবহার করা যেতে পারে। এটি ব্যক্তিদের সান্ত্বনা বা আশ্বাস প্রদানের জন্য অন্যদের আমন্ত্রণ জানানোর সময় তাদের নিজস্ব অনুভূত \"অসহায়ত্বের\" মুহূর্তগুলিকে হাস্যকরভাবে তুলে ধরার অনুমতি দেয়। \n \n কৌতুকপূর্ণ আবেগগত অতিরঞ্জিততাঃ মিমের নাটকীয় এবং অতিরঞ্জিত অভিব্যক্তিটি এমন একটি পরিস্থিতি বা ঘটনার উপর জোর দেওয়ার জন্য একটি কৌতুকপূর্ণ পদ্ধতিতে ব্যবহার করা যেতে পারে যা অগত্যা বেদনাদায়ক নয় তবে মনোযোগ বা যত্নের প্রয়োজন হতে পারে। ছোটখাটো অসুবিধা বা হাস্যকর অতিরঞ্জন প্রকাশ করার সময় এটি একটি হাস্যকর স্পর্শ যোগ করতে পারে। \n \n এটা লক্ষ্য করা গুরুত্বপূর্ণ যে মেমের ব্যবহার এবং ব্যাখ্যা পরিবর্তিত হতে পারে এবং ব্যক্তিরা এটিকে বিভিন্ন প্রসঙ্গে মানিয়ে নেওয়ার সৃজনশীল উপায় খুঁজে পেতে পারে। উপরের প্রস্তাবিত অনুষ্ঠানগুলি একটি সাধারণ বোঝাপড়া প্রদান করে যে কখন এই মিমটি তার সাধারণ থিম এবং মানসিক স্বরের উপর ভিত্তি করে ব্যবহার করা যেতে পারে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "কিভাবে এই খাবার রান্না করবেন?",
+        "answer": "এই খাবারটিকে \"হাঙ্গেরিয়ান মাশরুম স্যুপ\" বলা হয়। এই হাঙ্গেরিয়ান মাশরুমের স্যুপে প্রচুর স্বাদ রয়েছে এবং এটি তৈরি করা মোটামুটি দ্রুত। এটি মূলত একটি মাশরুমের স্যুপ, তবে এর বেশিরভাগ স্বাদ অন্যান্য উপাদান থেকে পাওয়া যায়। আমার পরিবার স্যুপ পছন্দ করে এবং এটি তাদের অন্যতম প্রিয়। \n \n \n প্রস্তুতির সময়ঃ \n 15 মিনিট \n রান্নার সময়ঃ \n 35 মিনিট \n মোট সময়ঃ \n 50 মিনিট \n পরিবেশনঃ \n 6 \n \n \n 4 টেবিল চামচ লবণহীন মাখন \n \n 2 কাপ কাটা পেঁয়াজ \n \n 1 পাউন্ড তাজা মাশরুম, কাটা \n \n \n 2 কাপ মুরগির ঝোল \n \n 1 টেবিল চামচ সয়া সস \n \n \n 1 টেবিল চামচ শুকনো দারুচিনি \n \n \n পেঁয়াজ যোগ করুন; রান্না করুন এবং নরম হওয়া পর্যন্ত নাড়ুন, প্রায় 5 মিনিট। মাশরুম যোগ করুন এবং আরও 5 মিনিটের জন্য রান্না করুন। ঝোল, সয়া সস, পেপারিকা এবং ডিল মিশিয়ে দিন; তাপ কমিয়ে দিন, ঢেকে রাখুন এবং 15 মিনিটের জন্য রান্না করুন। \n \n ধাপ 2 \n একটি পৃথক বাটিতে দুধ এবং ময়দা একসঙ্গে ঝাঁকিয়ে নিন; মিশ্রিত না হওয়া পর্যন্ত স্যুপে নাড়ুন। ঢেকে আরও 15 মিনিট রান্না করুন, মাঝে মাঝে নাড়ুন। \n \n ধাপ 3 \n টক ক্রিম, পার্সলে, লেবুর রস, লবণ এবং গুঁড়ো কালো মরিচ যোগ করুন; প্রায় 3 থেকে 5 মিনিট গরম না হওয়া পর্যন্ত কম তাপে নাড়ুন। সঙ্গে সঙ্গে পরিবেশন করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "কিভাবে এই কাজটি করা যায়?",
+        "answer": "একে বলা হয় \"স্পার্কলিং ক্যান্টালুপ আগুয়া ফ্রেস্কা\"। ক্যান্টালুপ এবং লেবুর রসের সাথে এই সতেজ আগুয়া ফ্রেস্কা ক্লাব সোডার সাথে শীর্ষে গরমের দিনে নিখুঁত। \n \n প্রস্তুতির সময়ঃ \n 15 মিনিট \n মোট সময়ঃ \n 15 মিনিট \n পরিবেশনঃ \n 8 \n \n উপাদান \n \n 2 পাউন্ড তাজা ক্যান্টালুপ কিউব (6 কাপ) \n \n 2 কাপ জল \n 6 টেবিল চামচ তাজা নিচু করা চুনের রস (2 চুন থেকে) \n \n 3 টেবিল চামচ মধু \n \n 1/4 চা চামচ ক্লাব সোডা \n \n 2 কাপ ক্লাব সোডা, শীতল \n \n \n ক্যান্টালুপ তরমুজের বল বা কিউব, সাজানোর জন্য \n চালনী দিয়ে চেপে রাখুন; কঠিন পদার্থ ফেলে দিন। একটি পাত্রে ছেঁকে নেওয়া রস দিন। \n \n ধাপ 2 \n পরিবেশন করার জন্য প্রস্তুত না হওয়া পর্যন্ত ঠাণ্ডা করুন। পরিবেশন করার ঠিক আগে ক্লাব সোডা যোগ করুন। বরফের উপর পরিবেশন করুন, এবং তরমুজ বল এবং চুন জেস্ট টুইস্ট দিয়ে চশমা সাজান।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "কিভাবে এই খাবার রান্না করবেন?",
+        "answer": "এই খাবারের নাম 'জিঞ্জার গ্লাজড মাহি মাহি \"। মাহি মাহির জন্য এই আদা সস স্বাদে ফেটে যায় এবং মিষ্টি এবং টক উভয় স্বাদের সংবেদনকে একত্রিত করে। এই রেসিপিটি একটি স্ন্যাপ এবং খুব সুস্বাদু। আপনার ভালো লাগবে! \n \n \n প্রস্তুতির সময়ঃ \n 5 মিনিট \n রান্নার সময়ঃ \n 10 মিনিট \n অতিরিক্ত সময়ঃ \n 20 মিনিট \n মোট সময়ঃ \n 35 মিনিট \n পরিবেশনঃ \n 4 \n \n উপাদান \n \n 3 টেবিল চামচ মধু \n \n 3 টেবিল চামচ সয়া সস \n \n 3 টেবিল চামচ বালসামিক ভিনেগার \n \n 2 টেবিল চামচ জলপাই তেল \n \n 1 চা চামচ ভাজা তাজা আদা মূল \n \n \n 1 লবঙ্গ রসুন, বা স্বাদমতো চূর্ণ \n \n \n লবণ এবং গোলমরিচ দিয়ে মাছের ফিলেটগুলি মরশুম করুন; এগুলি ম্যারিনেড দিয়ে থালাটিতে ত্বকের পাশে রাখুন। 20 মিনিটের জন্য ঢেকে ফ্রিজে রাখুন। \n \n ধাপ 2 \n মাঝারি-উচ্চ তাপে একটি বড় প্যানে উদ্ভিজ্জ তেল গরম করুন। মাছের ফিললেটগুলি সরিয়ে ফেলুন, ম্যারিনেড সংরক্ষণ করুন। প্রতিটি পাশে 4 থেকে 6 মিনিটের জন্য মাছ ভাজুন, শুধুমাত্র একবার ঘোরান, যতক্ষণ না একটি কাঁটাচামচ দিয়ে মাছ সহজেই ফ্লেক্স হয়। একটি পরিবেশন থালায় ফিলেটগুলি সরান এবং গরম রাখুন। \n \n ধাপ 3 \n সংরক্ষিত ম্যারিনেড প্যানে ঢেলে দিন; মাঝারি তাপে সেদ্ধ করুন যতক্ষণ না তা গ্লেজে পরিণত হয়। মাছের উপর চামচ দিয়ে জ্বাল দিন এবং পরিবেশন করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "কিভাবে এই খাবার রান্না করবেন?",
+        "answer": "এই খাবারটিকে \"স্ট্রবেরি রুবার্ব পাই\" বলা হয়। এই স্ট্রবেরি রুবার্ব পাই আমাদের বাড়ির একটি প্রিয় বসন্তকালীন মিষ্টি। ভরাট করার স্বাদ মিষ্টি-টক; আপনার প্রিয় পাই ক্রাস্টে বেক করুন এবং ভ্যানিলা আইসক্রিমের সাথে পরিবেশন করুন। \n \n প্রস্তুতির সময়ঃ \n 20 মিনিট \n রান্নার সময়ঃ \n 35 মিনিট \n অতিরিক্ত সময়ঃ \n 30 মিনিট \n মোট সময়ঃ \n 1 ঘন্টা 25 মিনিট \n পরিবেশনঃ \n 8 \n ফলনঃ \n 1 9 ইঞ্চি পাই \n \n উপাদান \n \n \n 1 কাপ সাদা চিনি \n \n 1 কাপ সমস্ত উদ্দেশ্যে ময়দা \n \n 1 পাউন্ড রুবার্ব, 1/4 ইঞ্চি স্লাইসে কাটা \n \n 2 পিন্ট স্ট্রবেরি, হুলড এবং কোয়ার্টারড \n \n 1 রেসিপি \n \n ধাপ 2 \n একটি বড় বাটিতে ময়দা এবং চিনি মিশিয়ে নিন। \n \n ধাপ 3 \n স্ট্রবেরি এবং কাটা রুবার্ব যোগ করুন। চিনি এবং ময়দা দিয়ে টস করুন এবং 30 মিনিটের জন্য দাঁড়াতে দিন। \n \n ধাপ 4 \n প্রস্তুত পাই ক্রাস্টে ভরাট করুন। মাখন দিয়ে শীর্ষে বিন্দু, এবং উপরের ভূত্বক দিয়ে ঢেকে দিন। উপরের এবং নীচের ভূত্বকের প্রান্তগুলি জল দিয়ে সিল করুন। \n \n ধাপ 5 \n একটি পেস্ট্রি ব্রাশ ব্যবহার করে পাইয়ের উপরে কুসুম প্রয়োগ করুন। \n \n ধাপ 6 \n চিনি দিয়ে ছিটিয়ে দিন। \n \n ধাপ 7 \n বাষ্প বেরিয়ে যেতে দেওয়ার জন্য উপরে ছোট ছোট গর্ত কেটে নিন। \n \n ধাপ 8 \n 400 ডিগ্রি ফারেনহাইট (200 ডিগ্রি সেলসিয়াস) এ 35 থেকে 40 মিনিটের জন্য বা বুদ্বুদ এবং বাদামী হওয়া পর্যন্ত বেক করুন। র্যাকের উপর শীতল করুন। \n \n ধাপ 9 \n উপভোগ করুন!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "কিভাবে এই খাবার রান্না করবেন?",
+        "answer": "এই খাবারটিকে \"প্রামাণিক চীনা ডিমের রোলস\" বলা হয়। এই চীনা ডিমের রোলগুলি আমার মায়ের কাছ থেকে এসেছে যিনি সর্বকালের সেরা রাঁধুনী-এবং আমি একজন সুস্বাদু ভক্ষক। যদি আমি এটা পছন্দ করি, তাহলে আপনি করবেন। এটি খুব খাঁটি কারণ আমার পরিবার চীনা এবং আমিও। এই রেসিপিটি লিঙ্গ পরিবারে কমপক্ষে 300 বছরের পুরনো। \n \n \n প্রস্তুতির সময়ঃ \n 1 ঘন্টা \n রান্নার সময়ঃ \n 30 মিনিট \n অতিরিক্ত সময়ঃ \n 1 ঘন্টা \n মোট সময়ঃ \n 2 ঘন্টা 30 মিনিট \n পরিবেশনঃ \n 20 \n ফলনঃ \n 20 টি ডিম রোল \n \n \n উপাদান \n \n 4 চা চামচ উদ্ভিজ্জ তেল, বিভক্ত \n \n 3 টি বড় ডিম, পিটানো \n \n 1 মাঝারি মাথা বাঁধাকপি, সূক্ষ্মভাবে কাটা \n \n [00 1⁄2 গাজর, জুলিয়েন \n \n \n 1 পাউন্ড চীনা বারবে গুঁড়ো করা ডিম ঢেলে দিন এবং নাড়ানো পর্যন্ত রান্না করুন। ডিমগুলি উল্টে দিন এবং অন্য দিকটি দৃঢ় করার জন্য অতিরিক্ত 20 সেকেন্ড রান্না করুন। ডিমের প্যানকেক ঠান্ডা করার জন্য আলাদা করে রাখুন, তারপর পাতলা টুকরো করে কেটে নিন। \n \n ধাপ 2 \n একটি কড়াই বা বড় কড়াইতে অবশিষ্ট উদ্ভিজ্জ তেল উচ্চ তাপে গরম করুন। বাঁধাকপি এবং গাজর মিশিয়ে দিন; শুকিয়ে যাওয়া পর্যন্ত 2 মিনিট রান্না করুন। শুয়োরের মাংস, বাঁশের অঙ্কুর, মাশরুম, সবুজ পেঁয়াজ, সয়া সস, লবণ, চিনি এবং এমএসজি যোগ করুন; প্রায় 6 মিনিট সবজি নরম না হওয়া পর্যন্ত রান্না করতে থাকুন। কাটা ডিম নাড়ুন, তারপর মিশ্রণটি একটি প্যানে ছড়িয়ে দিন এবং প্রায় 1 ঘন্টা ঠান্ডা হওয়া পর্যন্ত ফ্রিজে রাখুন। \n \n ডিমের রোলগুলি একত্রিত করার জন্য ধাপ 3 \n: আপনার কাজের পৃষ্ঠে একটি মোড়ক রাখুন যার একটি কোণ আপনার দিকে নির্দেশ করে। মোড়কের নিচের তৃতীয়াংশে প্রায় 3 টেবিল চামচ ঠান্ডা ভরাট রাখুন। মোড়কের উপরের দুটি প্রান্তে সামান্য ডিমের সাদা অংশ ব্রাশ করুন, তারপরে নিচের কোণটি ভর্তি করার উপরে ভাঁজ করুন এবং অর্ধেক বিন্দুতে দৃঢ়ভাবে রোল করুন। ডিমের রোলের উপর বাঁ এবং ডান দিকগুলি মসৃণভাবে ভাঁজ করুন, তারপরে রোলিং চালিয়ে যান যতক্ষণ না উপরের কোণগুলি ডিমের সাদা অংশ দিয়ে ডিমের রোলটি সিল করে দেয়। অবশিষ্ট ডিমের রোল মোড়ক দিয়ে পুনরাবৃত্তি করুন, শুকিয়ে যাওয়া থেকে রক্ষা পেতে প্লাস্টিকের মোড়ক দিয়ে সমাপ্ত ডিমের রোলগুলি ঢেকে দিন। \n \n ধাপ 4 \n একটি কড়াই বা ডিপ-ফ্রায়ারে প্রায় 6 ইঞ্চি তেল 350 ডিগ্রি ফারেনহাইট (175 ডিগ্রি সেলসিয়াস) তাপমাত্রায় গরম করুন। \n \n ধাপ 5 \n ফ্রাই ডিম একবারে 3 বা 4 রোল করে সোনালি বাদামী হওয়া পর্যন্ত, 5 থেকে 7 মিনিট। কাগজের তোয়ালে দিয়ে ধুয়ে ফেলুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "কিভাবে এই খাবার রান্না করবেন?",
+        "answer": "এই খাবারটিকে \"চকোলেট লেপা চিনাবাদাম বাটার ক্র্যাকার্স\" বলা হয়। \n \n প্রস্তুতির সময়ঃ \n 30 মিনিট \n রান্নার সময়ঃ \n 5 মিনিট \n অতিরিক্ত সময়ঃ \n 15 মিনিট \n মোট সময়ঃ \n 50 মিনিট \n পরিবেশনঃ \n 40 \n ফলনঃ \n 40টি স্যান্ডউইচ কুকিজ \n \n \n উপাদান \n 3⁄4 কাপ ক্রিমযুক্ত বা চকচকে চিনাবাদাম মাখন \n \n 2 পাউন্ড চকলেট বাদামের ছাল, টুকরো টুকরো করে ভাঙা \n \n 80টি বাটারির গোলাকার ক্র্যাকার (যেমন রিটজ®) \n \n 2⁄4 আউন্স রঙিন ক্যান্ডি স্প্রিংকল চিনাবাদাম মাখনে ভরা 40টি স্যান্ডউইচ কুকিজ তৈরি করতে চিনাবাদাম মাখনের দিকগুলি একসঙ্গে টিপুন। \n \n ধাপ 2 \n একটি ডাবল বয়লারের উপরে বাদামের ছাল গরম, কিন্তু ফুটন্ত নয়, জলের উপর গলিয়ে নিন। তাপ হ্রাস করুন এবং গলিত চকোলেটকে ডাবল বয়লারের উপরে ফুটন্ত জলের উপরে রাখুন। \n \n ধাপ 3 \n প্রতিটি স্যান্ডউইচ কুকিকে গলিত চকোলেটের মধ্যে ডুবিয়ে রাখুন, যাতে অতিরিক্ত পরিমাণ আবার পাত্রে চলে যায়। \n \n ধাপ 4 \n মোমের কাগজে লেপযুক্ত কুকিজ রাখুন এবং অবিলম্বে ক্যান্ডি ছিটিয়ে দিন যাতে তারা গলিত চকোলেটের সাথে লেগে থাকে। \n \n ধাপ 5 \n প্রায় 15 মিনিটের মধ্যে চকোলেট সেট না হওয়া পর্যন্ত ফ্রিজে কুকিজ রাখুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "কিভাবে এই খাবার রান্না করবেন?",
+        "answer": "এই খাবারটিকে \"ব্রকলি অ্যান্ড গাজর স্টার ফ্রাই\" বলা হয়। \n \n প্রস্তুতির সময়ঃ \n 10 মিনিট \n রান্নার সময়ঃ \n 16 মিনিট \n মোট সময়ঃ \n 26 মিনিট \n পরিবেশনঃ \n 5 \n \n উপাদান \n 5 1⁄2 কাপ ব্রকলি ফুল \n \n 1 গাজর, পাতলা করে কাটা \n \n 2 চা চামচ জল \n \n 1 চা চামচ কর্নস্টার্চ \n \n 1 চা চামচ চিকেন বুইলন গ্রানুল, বা স্বাদ নিতে \n \n \n লবণ \n \n \n 2 টেবিল চামচ ব্রকলি যোগ করুন এবং প্রায় 2 মিনিট উজ্জ্বল সবুজ না হওয়া পর্যন্ত রান্না করুন। একটি স্লটেড চামচ ব্যবহার করে এক বাটি বরফের জলে ব্রকলি স্থানান্তর করুন এবং রান্নার প্রক্রিয়া বন্ধ করতে কয়েক মিনিটের জন্য নিমজ্জিত করুন। নিষ্কাশন করুন। \n \n ধাপ 2 \n একই বড় পাত্রে জল আবার ফুটিয়ে নিন; কাটা গাজর যোগ করুন এবং 1 মিনিট রান্না করুন। নিষ্কাশন করুন। \n \n ধাপ 3 \n মসৃণ না হওয়া পর্যন্ত একটি বাটিতে জল এবং কর্নস্টার্চ একসঙ্গে মিশিয়ে নিন। মুরগির মাংসের সঙ্গে লবণ ও গোলমরিচ মিশিয়ে ভালো করে ব্লেন্ড করুন। \n \n ধাপ 4 \n উচ্চ তাপে একটি কড়াই বা বড় কড়াইতে চিনাবাদামের তেল গরম করুন; ব্রকলি এবং গাজর 2 মিনিটের জন্য ভাজুন। কর্নস্টার্চের মিশ্রণ যোগ করুন; রান্না করুন এবং নাড়ুন যতক্ষণ না শাকসবজি সমানভাবে আবৃত হয়, 1 থেকে 2 মিনিট।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "কিভাবে এই খাবার রান্না করবেন?",
+        "answer": "এই খাবারের নাম 'ক্রিম চিজ অ্যান্ড ক্র্যাব সুশি রোলস \"। \n \n প্রস্তুতির সময়ঃ \n 20 মিনিট \n রান্নার সময়ঃ \n 20 মিনিট \n মোট সময়ঃ \n 40 মিনিট \n পরিবেশনঃ \n 2 \n ফলনঃ \n 2 টি সুশি রোল \n \n \n উপাদান \n 1 কাপ রান্না না করা সাদা চাল \n \n 2 কাপ জল \n \n 2 টেবিল চামচ চালের ভিনেগার \n \n 1 চা চামচ লবণ \n \n \n 2 শীট নোরি সামুদ্রিক শৈবালের শীট \n \n \n 1⁄2 শসা, খোসা ছাড়ানো এবং লম্বা করে কাটা \n \n \n ধাপ 2 \n চাল এবং জল একটি সসপ্যানে উচ্চ তাপে ফুটিয়ে নিন। তাপ মাঝারি-কম করুন, ঢেকে রাখুন এবং চাল নরম না হওয়া পর্যন্ত রান্না করুন, এবং তরলটি 20 থেকে 25 মিনিট পর্যন্ত শোষিত হয়। চালের ভিনেগার ও লবণ মিশিয়ে নিন। পুরোপুরি ঠান্ডা হতে দিন। \n ধাপ 3 \n সামুদ্রিক শৈবালের চাদর তৈরি করুন। জল দিয়ে হাত ভিজিয়ে রাখুন, তারপর প্রতিটি পাতায় সমানভাবে ঠান্ডা চাল ছড়িয়ে দিন, এক প্রান্ত বরাবর দেড় ইঞ্চি ব্যবধান রেখে, দৈর্ঘ্যের দিক দিয়ে। চালের উপরে শসা, নকল কাঁকড়ার মাংস এবং ক্রিম পনিরের টুকরোগুলি ফাঁকের বিপরীত দিকে একটি সরলরেখায় সাজান। শীর্ষ থেকে সামুদ্রিক শৈবালের পাতার উন্মুক্ত প্রান্ত পর্যন্ত সুশি রোল করুন। \n ধাপ 4 \n একটি ধারালো ভেজা ছুরি ব্যবহার করে, প্রতিটি রোলকে 5 বা 6 টুকরো করে কেটে নিন। পাশে কাটা আদা দিয়ে পরিবেশন করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "কিভাবে এই খাবার রান্না করবেন?",
+        "answer": "এই খাবারটিকে \"ভেগান সুইট আলু চিকপি কারি\" বলা হয়। \n \n প্রস্তুতির সময়ঃ \n 10 মিনিট \n রান্নার সময়ঃ \n 20 মিনিট \n মোট সময়ঃ \n 30 মিনিট \n পরিবেশনঃ \n 3 টেবিল চামচ জলপাই তেল \n \n 1টি পেঁয়াজ, কাটা \n \n 2টি লবঙ্গ রসুন, কাটা \n \n 2টি চা চামচ তাজা আদার মূল \n \n 1 (15 আউন্স) ছোলা, নিষ্কাশিত \n \n 1 (14.5 আউন্স) টমেটো কেটে নিতে পারে \n \n 1 (14 আউন্স) পেঁয়াজ, রসুন এবং আদা গরম তেলে নরম হওয়া পর্যন্ত রান্না করুন, প্রায় 5 মিনিট। আলু, রসুন, মশলা এবং টমেটো স্লাইস যোগ করুন। একটি ফোঁড়া আনুন, তাপ কমিয়ে দিন এবং প্রায় 15 মিনিট নরম হওয়া পর্যন্ত রান্না করুন। \n ধাপ 2 \n গরম মশলা, জিরা, হলুদ, লবণ এবং চিলির টুকরো দিয়ে মরসুম করুন। পরিবেশন করার আগে আলু যোগ করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "কিভাবে এই খাবার রান্না করবেন?",
+        "answer": "এই খাবারটিকে \"লাইম চিকেন সফট টাকোস\" বলা হয়। \n \n প্রস্তুতির সময়ঃ \n 20 মিনিট \n রান্নার সময়ঃ \n 30 মিনিট \n মোট সময়ঃ \n 50 মিনিট \n ফলনঃ \n 10 বার পরিবেশন \n \n উপাদান \n 1⁄2 পাউন্ড ত্বকহীন, হাড়হীন মুরগির স্তন মাংস-কিউব করা \n \n 2টি সবুজ পেঁয়াজ, কাটা \n \n 1⁄2 কাপ রেড ওয়াইন ভিনেগার \n \n \n 1⁄2 চুন, রস \n 2টি লবঙ্গ রসুন, কাটা \n \n 1 চা চামচ শুকনো অরেগানো \n \n \n 1 চা চামচ সাদা চিনি \n \n সবুজ পেঁয়াজ, ভিনেগার, লেবুর রস, রসুন, অরেগানো, চিনি, লবণ এবং মরিচ যোগ করুন। 10 মিনিটের জন্য কম তাপে রান্না করুন। \n ধাপ 2 \n একটি লোহার কড়াই মাঝারি আঁচে গরম করুন। প্যানে একটি টর্টিলা রাখুন, গরম করুন এবং অন্য দিকে গরম করার জন্য ঘুরিয়ে দিন। অবশিষ্ট টর্টিলা দিয়ে পুনরাবৃত্তি করুন। গরম টর্টিলায় টমেটো, লেটুস, পনির এবং সালসার সঙ্গে চুনের মুরগির মিশ্রণ পরিবেশন করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "দ্য শশাঙ্ক রিডেম্পশন 1982 সালের স্টিফেন কিং উপন্যাসিকা রিতা হেওয়ার্থ এবং শশাঙ্ক রিডেম্পশন অবলম্বনে ফ্রাঙ্ক ডারাবন্ট রচিত ও পরিচালিত 1994 সালের মার্কিন নাট্য চলচ্চিত্র। চলচ্চিত্রটি ব্যাংকার অ্যান্ডি ডুফ্রেনের (টিম রবিনস) গল্প বলে, যাকে নির্দোষ দাবি করা সত্ত্বেও তার স্ত্রী এবং তার প্রেমিককে হত্যার দায়ে শশাঙ্ক রাজ্য কারাগারে যাবজ্জীবন কারাদণ্ড দেওয়া হয়। পরবর্তী দুই দশক ধরে, সে একজন সহকর্মী বন্দী, নিষিদ্ধ চোরাচালানকারী এলিস \"রেড\" রেডিং (মরগান ফ্রিম্যান)-এর সাথে বন্ধুত্ব করে এবং কারাগারের ওয়ার্ডেন স্যামুয়েল নর্টনের (বব গুন্টন) নেতৃত্বে একটি অর্থ পাচার অভিযানে গুরুত্বপূর্ণ ভূমিকা পালন করে। উইলিয়াম স্যাডলার, ক্ল্যান্সি ব্রাউন, গিল বেলোজ এবং জেমস হুইটমোর পার্শ্ব চরিত্রে অভিনয় করেছেন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "দ্য গডফাদার ফ্রান্সিস ফোর্ড কপোলা পরিচালিত 1972 সালের একটি মার্কিন অপরাধ চলচ্চিত্র, যিনি একই শিরোনামে 1969 সালে প্রকাশিত পুজোর সর্বাধিক বিক্রিত উপন্যাসের উপর ভিত্তি করে চিত্রনাট্য লিখেছেন। চলচ্চিত্রটিতে অভিনয় করেছেন মার্লন ব্র্যান্ডো, আল পাচিনো, জেমস কান, রিচার্ড ক্যাস্টেলানো, রবার্ট ডুভাল, স্টার্লিং হেইডেন, জন মার্লে, রিচার্ড কন্তে এবং ডায়ান কিটন। এটি দ্য গডফাদার ট্রিলজির প্রথম কিস্তি, যা 1945 থেকে 1955 সাল পর্যন্ত পিতৃপুরুষ ভিটো কর্লিওনের (ব্র্যান্ডো) অধীনে কর্লিওনি পরিবারের কাহিনী বর্ণনা করে। এটি তার কনিষ্ঠ পুত্র মাইকেল কর্লিওনের (পাচিনো) অনিচ্ছুক পারিবারিক বহিরাগত থেকে নির্মম মাফিয়া বসের রূপান্তরের উপর দৃষ্টি নিবদ্ধ করে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "দ্য ডার্ক নাইট ক্রিস্টোফার নোলান পরিচালিত 2008 সালের একটি সুপারহিরো চলচ্চিত্র, যেটির চিত্রনাট্য তিনি তাঁর ভাই জোনাথনের সাথে সহ-রচনা করেছিলেন। ডিসি কমিকস সুপারহিরো, ব্যাটম্যানের উপর ভিত্তি করে, এটি ব্যাটম্যান বিগিন্সের (2005) সিক্যুয়েল এবং দ্য ডার্ক নাইট ট্রিলজির দ্বিতীয় কিস্তি। চক্রান্তটি সতর্ক ব্যাটম্যান, পুলিশ লেফটেন্যান্ট জেমস গর্ডন এবং জেলা অ্যাটর্নি হার্ভি ডেন্টকে অনুসরণ করে, যারা গথাম সিটিতে সংগঠিত অপরাধ নির্মূল করার জন্য একটি জোট গঠন করে। তাদের প্রচেষ্টাকে পথভ্রষ্ট করে জোকার, একজন নৈরাজ্যবাদী মাস্টারমাইন্ড যিনি পরীক্ষা করতে চান যে ব্যাটম্যান শহরটিকে বিশৃঙ্খলা থেকে বাঁচাতে কতদূর যাবে। এই ছবিতে অভিনয় করেছেন ক্রিশ্চিয়ান বেল, মাইকেল কেইন, হিথ লেজার, গ্যারি ওল্ডম্যান, অ্যারন একহার্ট, ম্যাগি গিলেনহাল এবং মরগান ফ্রিম্যান।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "টুয়েলভ অ্যাংরি মেন একটি নরহত্যার বিচারের জুরি সম্পর্কে রেজিনাল্ড রোজ রচিত একটি আমেরিকান আদালত নাটক। এটি 1954 সালে প্রাথমিকভাবে একটি টেলিভিশন নাটক হিসাবে সম্প্রচারিত হয়েছিল। পরের বছর এটি মঞ্চের জন্য অভিযোজিত হয়। এটি সিডনি লুমেট পরিচালিত একই নামের একটি চলচ্চিত্রের জন্য অভিযোজিত হয়েছিল এবং 1957 সালে মুক্তি পায়। তারপর থেকে এটিকে অসংখ্য পুনর্নির্মাণ, অভিযোজন এবং শ্রদ্ধা জানানো হয়েছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "শিন্ডলার 'স লিস্ট 1993 সালে মুক্তিপ্রাপ্ত একটি মার্কিন মহাকাব্যিক ঐতিহাসিক নাট্য চলচ্চিত্র, যেটি পরিচালনা ও প্রযোজনা করেছেন স্টিভেন স্পিলবার্গ এবং চিত্রনাট্য লিখেছেন স্টিভেন জেইলিয়ান। এটি অস্ট্রেলিয়ান ঔপন্যাসিক টমাস কেনিলির 1982 সালের উপন্যাস শিন্ডলার 'স আর্ক অবলম্বনে নির্মিত। চলচ্চিত্রটি একজন জার্মান শিল্পপতি অস্কার শিন্ডলারকে অনুসরণ করে, যিনি দ্বিতীয় বিশ্বযুদ্ধের সময় তাঁর কারখানায় নিযুক্ত করে এক হাজারেরও বেশি বেশিরভাগ পোলিশ-ইহুদি শরণার্থীকে হলোকাস্ট থেকে বাঁচিয়েছিলেন। এতে শিন্ডলারের ভূমিকায় লিয়াম নিসন, এসএস অফিসার আমোন গথের ভূমিকায় রাল্ফ ফাইনেস এবং শিন্ডলারের ইহুদি হিসাবরক্ষক ইতজাক স্টার্নের ভূমিকায় বেন কিংসলি অভিনয় করেছেন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "দ্য লর্ড অফ দ্য রিংসঃ দ্য রিটার্ন অফ দ্য কিং ফ্রান ওয়ালশ, ফিলিপ্পা বোয়েন্স এবং জ্যাকসনের চিত্রনাট্য থেকে পিটার জ্যাকসন পরিচালিত 2003 সালের একটি মহাকাব্যিক ফ্যান্টাসি অ্যাডভেঞ্চার চলচ্চিত্র। এটি 1955 সালের জে. আর. আর. টলকিয়েনের দ্য লর্ড অফ দ্য রিংস উপন্যাসের তৃতীয় খণ্ড দ্য রিটার্ন অফ দ্য কিং-এর উপর ভিত্তি করে নির্মিত। 2002 সালের দ্য লর্ড অফ দ্য রিংসঃ দ্য টু টাওয়ার্স-এর সিক্যুয়েল, ছবিটি দ্য লর্ড অফ দ্য রিংস ট্রিলজির চূড়ান্ত কিস্তি। এতে এলিজা উড, ইয়ান ম্যাককেলেন, লিভ টাইলার, ভিগো মর্টেনসেন, শন অ্যাস্টিন, কেট ব্ল্যানচেট, জন রাইস-ডেভিস, বার্নার্ড হিল, বিলি বয়েড, ডমিনিক মোনাঘান, অরল্যান্ডো ব্লুম, হুগো উইভিং, মিরান্ডা অটো, ডেভিড ওয়েনহ্যাম, কার্ল আরবান, জন নোবেল, অ্যান্ডি সার্কিস, ইয়ান হোম এবং শন বিন সহ একটি দল রয়েছে। পূর্ববর্তী চলচ্চিত্রের কাহিনী অব্যাহত রেখে, ফ্রোডো, স্যাম এবং গোলুম ওয়ান রিং ধ্বংস করার জন্য মাউন্ট ডুমের দিকে তাদের চূড়ান্ত পথ তৈরি করছে, গোলুমের আসল উদ্দেশ্য সম্পর্কে অজ্ঞ, যখন মেরি, পিপিন, গ্যান্ডালফ, আরাগর্ন, লেগোলাস, গিমলি এবং অন্যরা মিনাস তিরিথে সৌরন এবং তার সৈন্যবাহিনীর বিরুদ্ধে একত্রিত হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "পাল্প ফিকশন 1994 সালে মুক্তিপ্রাপ্ত একটি মার্কিন অপরাধ চলচ্চিত্র, যা রজার অ্যাভারির সঙ্গে তাঁর কল্পনার গল্প থেকে কোয়েন্টিন টারান্টিনো লিখেছেন এবং পরিচালনা করেছেন। এটি ক্যালিফোর্নিয়ার লস অ্যাঞ্জেলেসে অপরাধ ও সহিংসতার চারটি আন্তঃসম্পর্কিত গল্প বলে। চলচ্চিত্রটিতে অভিনয় করেছেন জন ট্রাভোল্টা, স্যামুয়েল এল জ্যাকসন, ব্রুস উইলিস, টিম রথ, ভিং র্যামস এবং উমা থারম্যান। শিরোনামটি 20 শতকের মাঝামাঝি সময়ে জনপ্রিয় পাল্প ম্যাগাজিন এবং হার্ডবোইলড অপরাধ উপন্যাসগুলিকে বোঝায়, যা তাদের গ্রাফিক সহিংসতা এবং পাঞ্চি সংলাপের জন্য পরিচিত।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "দ্য লর্ড অফ দ্য রিংসঃ দ্য ফেলোশিপ অফ দ্য রিং 2001 সালের একটি মহাকাব্যিক ফ্যান্টাসি অ্যাডভেঞ্চার চলচ্চিত্র যা ফ্রান ওয়ালশ, ফিলিপ্পা বোয়েন্স এবং জ্যাকসনের চিত্রনাট্য থেকে পিটার জ্যাকসন পরিচালিত, 1954 সালের দ্য ফেলোশিপ অফ দ্য রিং-এর উপর ভিত্তি করে, জে. আর. আর. টলকিয়েনের দ্য লর্ড অফ দ্য রিংস উপন্যাসের প্রথম খণ্ড। ছবিটি দ্য লর্ড অফ দ্য রিংস ট্রিলজির প্রথম কিস্তি। এতে এলিজা উড, ইয়ান ম্যাককেলেন, লিভ টাইলার, ভিগো মর্টেনসেন, শন অ্যাস্টিন, কেট ব্ল্যানচেট, জন রাইস-ডেভিস, বিলি বয়েড, ডমিনিক মোনাঘান, অরল্যান্ডো ব্লুম, ক্রিস্টোফার লি, হুগো উইভিং, শন বিন, ইয়ান হোম এবং অ্যান্ডি সার্কিস সহ একটি দল রয়েছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "দ্য গডফাদার পার্ট 2 হল ফ্রান্সিস ফোর্ড কপোলা প্রযোজিত ও পরিচালিত 1974 সালের মার্কিন মহাকাব্যিক অপরাধ চলচ্চিত্র। চলচ্চিত্রটি আংশিকভাবে মারিয়ো পুজোর 1969 সালের উপন্যাস দ্য গডফাদারের উপর ভিত্তি করে নির্মিত, যিনি কপোলার সাথে চিত্রনাট্য সহ-রচনা করেছিলেন, এবং এটি 1972 সালের চলচ্চিত্র দ্য গডফাদারের সিক্যুয়েল এবং প্রিকুয়েল উভয়ই, যা সমান্তরাল নাটক উপস্থাপন করেঃ একজন 1958 সালের মাইকেল কর্লিওনের (আল পাচিনো) গল্পটি তুলে ধরে, যিনি কর্লিওন পরিবারের নতুন ডন, তার জীবনের উপর একটি প্রচেষ্টার পরে পারিবারিক ব্যবসা রক্ষা করে; প্রিকুয়েলটি তার বাবা ভিটো কর্লিওনের (রবার্ট ডি নিরো) সিসিলিয়ান শৈশব থেকে নিউ ইয়র্ক সিটিতে তার পারিবারিক উদ্যোগের প্রতিষ্ঠা পর্যন্ত যাত্রা কভার করে। এই ছবিতে আরও অভিনয় করেছেন রবার্ট ডুভাল, ডায়ান কিটন, তালিয়া শায়ার, মরগানা কিং, জন কাজেল, মারিয়ানা হিল এবং লি স্ট্রাসবার্গ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "আপনি কি এই চলচ্চিত্রের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "'ফেয়ারওয়েল মাই কনকিউবিন' 1993 সালে মুক্তিপ্রাপ্ত একটি চীনা ঐতিহাসিক নাট্য চলচ্চিত্র, যেটি পরিচালনা করেছেন চেন কাইগে, এতে অভিনয় করেছেন লেসলি চেউং, গং লি এবং ঝাং ফেঙ্গি। লিলিয়ান লি-র উপন্যাসের উপর ভিত্তি করে লু ওয়েই দ্বারা পর্দার জন্য অভিযোজিত, চলচ্চিত্রটি চীন প্রজাতন্ত্রের প্রাথমিক দিনগুলি থেকে সাংস্কৃতিক বিপ্লবের পরিণতি পর্যন্ত রাজনৈতিকভাবে অশান্ত 20 শতকের চীনে সেট করা হয়েছে। এটি দুই পিকিং অপেরা অভিনেতা এবং আজীবন বন্ধু চেং দাইয়ি (চেউং) এবং ডুয়ান জিয়াওলু (ঝাং) এবং জিয়াওলুয়ের স্ত্রী জুক্সিয়ানের (গং) মধ্যে অশান্ত সম্পর্কের কাহিনী বর্ণনা করে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "মোনালিসা হল ইতালীয় শিল্পী লিওনার্দো দা ভিঞ্চির অর্ধ দৈর্ঘ্যের প্রতিকৃতি। \n \n ইতালীয় রেনেসাঁর একটি প্রত্নতাত্ত্বিক মাস্টারপিস হিসাবে বিবেচিত, এটিকে \"বিশ্বের সর্বাধিক পরিচিত, সর্বাধিক পরিদর্শন করা, সর্বাধিক লিখিত, সর্বাধিক গাওয়া, সবচেয়ে ব্যঙ্গাত্মক শিল্পকর্ম\" হিসাবে বর্ণনা করা হয়েছে। চিত্রকলার অভিনব গুণাবলীর মধ্যে রয়েছে বিষয়টির রহস্যময় অভিব্যক্তি, রচনার স্মৃতিসৌধ, রূপগুলির সূক্ষ্ম মডেলিং এবং বায়ুমণ্ডলীয় বিভ্রম।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "গার্ল উইথ এ পার্ল ইয়ারিং (ওলন্দাজঃ মেইজে মেট দে পারেল) হল ওলন্দাজ স্বর্ণযুগের চিত্রশিল্পী জোহানেস ভার্মিরের 1665 খ্রিষ্টাব্দের একটি তৈলচিত্র। শতাব্দীর পর শতাব্দী ধরে বিভিন্ন নামে, এটি 20 শতকের শেষের দিকে সেখানে চিত্রিত মেয়েটির দ্বারা পরিহিত কানের দুলের পরে তার বর্তমান শিরোনাম দ্বারা পরিচিত হয়ে ওঠে। এই কাজটি 1902 সাল থেকে দ্য হেগের মৌরিতশুইসের সংগ্রহে রয়েছে এবং বিভিন্ন সাহিত্য ও চলচ্চিত্র প্রদর্শনের বিষয় হয়ে দাঁড়িয়েছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "দ্য স্টারি নাইট হল ডাচ পোস্ট-ইমপ্রেশনিস্ট চিত্রশিল্পী ভিনসেন্ট ভ্যান গগের একটি তৈলচিত্র। 1889 সালের জুন মাসে অঙ্কিত, এটি সূর্যোদয়ের ঠিক আগে সেন্ট-রেমি-ডি-প্রোভেন্সে তাঁর আশ্রয় কক্ষের পূর্বমুখী জানালা থেকে দৃশ্যকে চিত্রিত করে, একটি কাল্পনিক village.It যোগ করা হয়েছে যা 1941 সাল থেকে নিউইয়র্ক সিটির মিউজিয়াম অফ মডার্ন আর্টের স্থায়ী সংগ্রহে রয়েছে, যা লিলি পি ব্লিস উইলের মাধ্যমে অর্জিত হয়েছে। ব্যাপকভাবে ভ্যান গগের দুর্দান্ত কাজ হিসাবে বিবেচিত, দ্য স্টার্রি নাইট পশ্চিমা শিল্পের অন্যতম স্বীকৃত চিত্রকর্ম।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "চুম্বন (জার্মান ভাষায় ডের কুস) অস্ট্রিয়ান প্রতীকী চিত্রশিল্পী গুস্তাভ দ্বারা যুক্ত সোনার পাতা, রৌপ্য এবং প্ল্যাটিনাম সহ একটি তেল-অন-ক্যানভাস চিত্রকর্ম যা 1907 এবং 1908 সালের কোনও এক সময়ে আঁকা হয়েছিল, যা পণ্ডিতরা তাঁর \"স্বর্ণযুগ\" বলে অভিহিত করেছিলেন। প্রদর্শনীর ক্যাটালগ অনুসারে এটি 1908 সালে লাইবেস্পার (প্রেমীদের) শিরোনামে প্রদর্শিত হয়েছিল। চিত্রটিতে এক দম্পতিকে একে অপরকে আলিঙ্গন করতে দেখা যায়, তাদের দেহগুলি সমসাময়িক আর্ট নুভা শৈলী এবং পূর্ববর্তী শিল্প ও কারুশিল্প আন্দোলনের জৈব রূপ দ্বারা প্রভাবিত একটি শৈলীতে সজ্জিত বিস্তৃত সুন্দর পোশাকে জড়িয়ে রয়েছে। \n \n চিত্রকর্মটি এখন ভিয়েনার বেলভেডেরের অস্টেরিচিশে গ্যালারি বেলভেডের জাদুঘরে ঝুলছে এবং এটিকে ভিয়েনা সেসেশন (আর্ট নুভাউয়ের স্থানীয় সংস্করণ) এবং প্রথম অ্যাডেল ব্লচ-বাউয়ারের প্রতিকৃতির পরে ক্লিম্টের সবচেয়ে জনপ্রিয় কাজের একটি মাস্টারপিস হিসাবে বিবেচনা করা হয়। এটি অনেকের কাছে একটি বিখ্যাত শিল্পকর্ম হিসাবে বিবেচিত হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "দ্য বার্থ অফ ভেনাস হল ইতালীয় শিল্পী স্যান্ড্রো বটিসেল্লির একটি চিত্রকর্ম, যা সম্ভবত 1480-এর দশকের মাঝামাঝি সময়ে সম্পাদিত হয়েছিল। এটি চিত্রিত করে যে দেবী ভেনাস তার জন্মের পরে তীরে পৌঁছেছিলেন, যখন তিনি সমুদ্র থেকে পুরোপুরি বেড়ে উঠেছিলেন (যাকে ভেনাস আনাডিওমিন বলা হয় এবং প্রায়শই শিল্পে চিত্রিত করা হয়)। চিত্রকর্মটি ইতালির ফ্লোরেন্সে উফিজি গ্যালারিতে রয়েছে। \n \n যদিও দুটি জুটি নয়, চিত্রকর্মটি অনিবার্যভাবে বটিসেল্লির অন্যান্য খুব বড় পৌরাণিক চিত্রকর্ম, প্রাইমাভেরার সাথেও উফিজিতে আলোচনা করা হয়েছে। এগুলি বিশ্বের সবচেয়ে বিখ্যাত চিত্রকর্মগুলির মধ্যে একটি এবং ইতালীয় রেনেসাঁর প্রতীক; এই দুটির মধ্যে জন্মটি প্রাইমাভেরার চেয়ে বেশি পরিচিত। খুব বড় আকারে শাস্ত্রীয় পুরাণের বিষয়গুলির চিত্র হিসাবে এগুলি শাস্ত্রীয় প্রাচীনকাল থেকেই পশ্চিমা শিল্পে কার্যত অভূতপূর্ব ছিল, যেমন জন্মের সময় একটি নগ্ন মহিলা মূর্তির আকার এবং বিশিষ্টতা ছিল। আগে মনে করা হত যে তারা দুজনেই মেডিসি পরিবারের একই সদস্যের দ্বারা নিযুক্ত হয়েছিলেন, তবে এটি এখন অনিশ্চিত। \n \n শিল্প ইতিহাসবিদরা এগুলি অবিরাম বিশ্লেষণ করেছেন, যার মূল বিষয়গুলি হলঃ প্রাচীন চিত্রশিল্পীদের অনুকরণ এবং বিবাহ উদযাপনের প্রসঙ্গ (সাধারণত সম্মত), রেনেসাঁ নিও-প্লাটোনিজমের প্রভাব (কিছুটা বিতর্কিত), এবং কমিশনারদের পরিচয় (সম্মত নয়)। বেশিরভাগ শিল্প ইতিহাসবিদ অবশ্য একমত যে, জন্মের অর্থ ডিকোড করার জন্য জটিল বিশ্লেষণের প্রয়োজন হয় না, সম্ভবত প্রাইমাভেরার মতো। যদিও চিত্রকলায় সূক্ষ্মতা রয়েছে, তবে এর মূল অর্থ হল গ্রীক পুরাণের একটি ঐতিহ্যবাহী দৃশ্যের সরাসরি, যদি স্বতন্ত্র হয়, এবং এর আবেদন সংবেদনশীল এবং খুব সহজলভ্য, তাই এর প্রচুর জনপ্রিয়তা রয়েছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "গ্রে এবং ব্ল্যাক নং-এ সাজানো হয়েছে। 1, তার কথ্য নাম হুইসলার্স মাদার বা পোর্ট্রেট অফ আর্টিস্টস মাদার নামে সর্বাধিক পরিচিত, ক্যানভাসে তেলের একটি চিত্র যা 1871 সালে মার্কিন বংশোদ্ভূত চিত্রশিল্পী জেমস অ্যাবট ম্যাকনিল হুইসলার তৈরি করেছিলেন। চিত্রকর্মটির বিষয়বস্তু হলেন হুইসলারের মা অ্যানা ম্যাকনিল হুইসলার। চিত্রকর্মটি 56.81 বাই 63.94 ইঞ্চি (1,443 মিমি × 1,624 মিমি), যা হুইসলারের নিজস্ব নকশার একটি ফ্রেমে প্রদর্শিত হয়। এটি প্যারিসের মিউজি ডি 'ওরসে দ্বারা অনুষ্ঠিত হয়, যা 1891 সালে ফরাসি রাষ্ট্র কিনেছিল। এটি মার্কিন যুক্তরাষ্ট্রের বাইরে কোনও আমেরিকান শিল্পীর সবচেয়ে বিখ্যাত কাজগুলির মধ্যে একটি। এটিকে বিভিন্নভাবে আমেরিকান আইকন এবং ভিক্টোরিয়ান মোনালিসা হিসাবে বর্ণনা করা হয়েছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "আর্নলফিনি প্রতিকৃতি (অথবা আর্নলফিনি বিবাহ, আর্নলফিনি বিবাহ, জিওভান্নি আর্নলফিনি এবং তাঁর স্ত্রীর প্রতিকৃতি, বা অন্যান্য শিরোনাম) হল নেদারল্যান্ডসের প্রথমদিকের চিত্রশিল্পী জ্যান ভ্যান আইকের 1434 সালের একটি তৈলচিত্র। এটি একটি পূর্ণ দৈর্ঘ্যের দ্বৈত প্রতিকৃতি গঠন করে, যা ইতালীয় বণিক জিওভান্নি ডি নিকোলাও আর্নলফিনি এবং তার স্ত্রীকে চিত্রিত করে বলে মনে করা হয়, সম্ভবত ফ্লেমিশ শহর ব্রুগেসে তাদের বাসভবনে। \n \n এর সৌন্দর্য, জটিল মূর্তিবিদ্যা, জ্যামিতিক অর্থোগোনাল দৃষ্টিকোণ এবং আয়না ব্যবহার করে ছবির স্থান সম্প্রসারণের কারণে এটি পশ্চিমা শিল্পের সবচেয়ে মৌলিক এবং জটিল চিত্রগুলির মধ্যে একটি হিসাবে বিবেচিত হয়। আর্নস্ট গম্ব্রিচের মতে, \"এটি ইতালিতে ডোনাটেলো বা মাসাসিওর কাজের মতোই নতুন এবং বিপ্লবী ছিল। বাস্তব জগতের একটি সাধারণ কোণ হঠাৎ করে একটি প্যানেলে এমনভাবে বসানো হয়েছিল যেন জাদুবিদ্যার দ্বারা। ইতিহাসে প্রথমবারের মতো এই শিল্পী সত্যিকার অর্থে নিখুঁত প্রত্যক্ষদর্শী হয়ে ওঠেন। এরউইন পানোফস্কি এবং অন্যান্য কিছু শিল্প ইতিহাসবিদ এই প্রতিকৃতিকে বিবাহ চুক্তির একটি অনন্য রূপ হিসাবে বিবেচনা করেছেন, যা একটি চিত্র হিসাবে নথিভুক্ত করা হয়েছে। 1434 সালে ভ্যান আইক দ্বারা স্বাক্ষরিত এবং তারিখযুক্ত, এটি একই শিল্পী এবং তাঁর ভাই হুবার্টের গেন্ট আল্টারপিসের সাথে, টেম্পেরার পরিবর্তে তেলে সম্পাদিত প্রাচীনতম খুব বিখ্যাত প্যানেল পেইন্টিং। 1842 সালে লন্ডনের ন্যাশনাল গ্যালারি এই চিত্রকর্মটি কিনে নেয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "কিংমিং উৎসবের সময় নদীর তীরে (কিংমিং শ্যাংহে তু) সং রাজবংশের চিত্রশিল্পী ঝাং জেদুয়ান (1085-1145)-এর একটি হস্তলিখিত চিত্রকর্ম এবং পরবর্তী শতাব্দীগুলিতে বহুবার অনুলিপি করা হয়েছে। এটি উত্তর গানের সময় মানুষের দৈনন্দিন জীবন এবং রাজধানী বিয়ানজিং (বর্তমান কাইফেং)-এর প্রাকৃতিক দৃশ্য ধারণ করে। এই থিমটি প্রায়শই কিংমিং উৎসবে উৎসবের চেতনা এবং পার্থিব হৈচৈ উদযাপন করার জন্য বলা হয়, ছুটির আনুষ্ঠানিক দিকগুলির পরিবর্তে, যেমন সমাধি ঝাড়ু এবং প্রার্থনা। ডান থেকে বাম দিকে পড়ুন, যখন একজন দর্শক এটি উন্মোচন করেন, ধারাবাহিক দৃশ্যগুলি ধনী থেকে দরিদ্র পর্যন্ত সমাজের সমস্ত স্তরের জীবনযাত্রার পাশাপাশি গ্রামীণ অঞ্চল ও শহরের অর্থনৈতিক ক্রিয়াকলাপগুলি প্রকাশ করে এবং পিরিয়ড পোশাক এবং স্থাপত্যের ঝলক দেয়। এই চিত্রকর্মটিকে সমস্ত চীনা চিত্রকর্মের মধ্যে সবচেয়ে বিখ্যাত কাজ হিসাবে বিবেচনা করা হয় এবং এটিকে \"চীনের মোনালিসা\" বলা হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "ফুচুন পর্বতমালায় বসবাস চীনা চিত্রশিল্পী হুয়াং গংওয়াং (1269-1354)-এর বেঁচে থাকা কয়েকটি কাজের মধ্যে একটি এবং এটি তাঁর সর্বশ্রেষ্ঠ কাজগুলির মধ্যে একটি হিসাবে বিবেচিত হয়। 1348 থেকে 1350 খ্রিষ্টাব্দের মধ্যে আঁকা এই চিত্রকর্মটি 1650 খ্রিষ্টাব্দে দুটি অংশে পুড়িয়ে ফেলা হয়। আজ, একটি টুকরো হ্যাংঝুর ঝেজিয়াং প্রাদেশিক জাদুঘরে রাখা হয়েছে, এবং অন্য টুকরোটি তাইপেইয়ের জাতীয় প্রাসাদ জাদুঘরে রাখা হয়েছে। একত্রে বললে, পুরো চিত্রকর্মটি দৈর্ঘ্যে 691.3 সেমি পরিমাপ করবে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "আপনি কি এই চিত্রকর্মের একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "তাং রাজবংশ এবং তিব্বতের মধ্যে বন্ধুত্বপূর্ণ সংঘর্ষের চিত্র তুলে ধরার জন্য সম্রাট তাইজং তিব্বতের দূতকে গ্রহণ করছেন (যাকে আরও বলা হয়, বুনিয়ান তু) ইয়ান লিবেনের সিল্কের উপর একটি চিত্রকর্ম। চিত্রকর্মটি 129 সেন্টিমিটার (51 ইঞ্চি) লম্বা এবং 38.5 সেন্টিমিটার (15.2 ইঞ্চি) চওড়া। বুনিয়ান তু বেইজিংয়ের প্যালেস মিউজিয়ামে রয়েছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "সিডার আপেল জং (জিমনোস্পোরঞ্জিয়াম জুনিপেরি-ভার্জিনিয়ানি) একটি ছত্রাকজনিত রোগ যার জন্য জুনিপার গাছগুলিকে তার জটিল দুই বছরের জীবনচক্র সম্পূর্ণ করতে হয়। বিভিন্ন জুনিপার প্রজাতির তরুণ ডালগুলিতে লালচে-বাদামী পিত্ত হিসাবে শীতকালে বীজকণাগুলি থাকে। বসন্তের গোড়ার দিকে, আর্দ্র আবহাওয়ার সময়, এই গলগুলি ফুলে ওঠে এবং উজ্জ্বল কমলা রঙের বীজকণাগুলি বাতাসে উড়ে যায় যেখানে তারা সংবেদনশীল আপেল এবং কাঁকড়া-আপেল গাছগুলিকে সংক্রামিত করে। এই গাছগুলিতে যে বীজকণাগুলি তৈরি হয় সেগুলি কেবল পরের বছর জুনিপারদের সংক্রামিত করবে। বছরের পর বছর ধরে, রোগটি অবশ্যই জুনিপার থেকে আপেল থেকে জুনিপার পর্যন্ত যেতে হবে; এটি আপেল গাছের মধ্যে ছড়িয়ে পড়তে পারে না। \n \n আপেল এবং কাঁকড়া-আপেল গাছে, ফুল ফোটার পরপরই পাতার উপরের পৃষ্ঠে ফ্যাকাশে হলুদ পিনহেড আকারের দাগগুলি সন্ধান করুন। এগুলি ধীরে ধীরে উজ্জ্বল কমলা-হলুদ দাগগুলিতে প্রসারিত হয় যা রোগটি সনাক্ত করা সহজ করে তোলে। ফলের উপর কমলা দাগও দেখা দিতে পারে। ভারী সংক্রামিত পাতাগুলি অকালে পড়ে যেতে পারে। \n \n চিকিৎসা \n 1। উপলব্ধ থাকলে প্রতিরোধী চাষ বেছে নিন। \n 2। গাছের নিচে থেকে পড়ে যাওয়া পাতা এবং অন্যান্য ধ্বংসাবশেষ তুলে ফেলুন। \n 3। সংক্রামিত জুনিপার থেকে গলগুলি সরিয়ে ফেলুন। কিছু ক্ষেত্রে, জুনিপার গাছগুলি সম্পূর্ণরূপে অপসারণ করা উচিত। জুনিপার পোষক দ্বারা মুক্ত হওয়া বীজাণু থেকে গাছগুলিকে রক্ষা করার জন্য, কুঁড়ি ভাঙ্গা থেকে শুরু করে, প্রতি সপ্তাহে আপেলে ব্যবহারের জন্য লেবেলযুক্ত প্রতিরোধমূলক, রোগ-প্রতিরোধী ছত্রাকনাশক প্রয়োগ করুন। এটি বছরে মাত্র একবার ঘটে, তাই এই বসন্তকালের বিস্তারের পরে অতিরিক্ত আবেদনের প্রয়োজন হয় না। জুনিপারে, আগস্টের শেষের দিক থেকে অক্টোবরের শেষের দিকে কমপক্ষে চারবার তামার দ্রবণ (0.5 থেকে 2.0 আউন্স/গ্যালন জল) দিয়ে গাছগুলিকে স্প্রে করে জং নিয়ন্ত্রণ করা যেতে পারে। সেরনেড গার্ডেন দিয়ে বেশিরভাগ ছত্রাক এবং ব্যাকটেরিয়া রোগের নিরাপদে চিকিৎসা করুন। এই বিস্তৃত বর্ণালী জৈব-ছত্রাকনাশক জৈব ব্যবহারের জন্য নিবন্ধিত ব্যাসিলাস সাবটিলিসের একটি পেটেন্টযুক্ত স্ট্রেন ব্যবহার করে। সর্বোপরি, সেরনেড মৌমাছি এবং উপকারী পোকামাকড়ের জন্য সম্পূর্ণ অ-বিষাক্ত। সালফার এবং পাইরেথ্রিনযুক্ত, বোনাইড® অর্চার্ড স্প্রে পোকামাকড়ের আক্রমণ এবং ছত্রাকের সমস্যার জন্য একটি নিরাপদ, এক-হিট ঘনীভূত। সর্বোত্তম ফলাফলের জন্য, মরসুমের শুরুতে একটি সুরক্ষামূলক স্প্রে (2.5 ওজ/গ্যালন) হিসাবে প্রয়োগ করুন। যদি রোগ, পোকামাকড় বা আর্দ্র আবহাওয়া থাকে, তাহলে এক গ্যালন জলে 5 আউন্স মিশিয়ে নিন। উদ্ভিদের সমস্ত অংশ, বিশেষত নতুন অঙ্কুরগুলি পুঙ্খানুপুঙ্খভাবে স্প্রে করুন। আপনার এলাকার অন্যান্য সম্ভাব্য সমাধানের জন্য আপনার স্থানীয় কৃষি সম্প্রসারণ অফিসে যোগাযোগ করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "অ্যানথ্রাকনোস। এটি কোলেটোট্রিচাম গণের ছত্রাকের কারণে হয়, যা উদ্ভিদ রোগজীবাণুগুলির একটি সাধারণ গোষ্ঠী যা অনেক উদ্ভিদ প্রজাতির রোগের জন্য দায়ী। সংক্রামিত গাছপালা ডালপালা, পাতা বা ফলগুলিতে কালো, জলে ভিজিয়ে রাখা ক্ষত তৈরি করে। এই ক্ষতগুলির কেন্দ্রগুলি প্রায়শই গোলাপী, জেলটিনযুক্ত বীজাণুর ভর দিয়ে আচ্ছাদিত হয়ে যায়, বিশেষত আর্দ্র, উষ্ণ আবহাওয়ার সময়। অ্যানথ্রাকনোজ মাত্র কয়েক দিনের মধ্যে একটি সুন্দর ফসলকে পচা বর্জ্যে পরিণত করতে পারে। \n \n ছত্রাকের রোগটি বীজ, মাটি এবং বাগানের ধ্বংসাবশেষের মধ্যে এবং তার উপর অতিরিক্ত শীতকাল ধরে থাকে। শীতল আর্দ্র আবহাওয়া এর বিকাশকে উৎসাহিত করে এবং বীজাণুর ক্রমাগত বৃদ্ধির জন্য সর্বোত্তম তাপমাত্রা 75-85 ডিগ্রি ফারেনহাইটের মধ্যে থাকে। ছত্রাকের বিকাশ ও অঙ্কুরোদগমের পাশাপাশি উদ্ভিদের সংক্রমণের জন্য আর্দ্রতা প্রয়োজন। এটি বায়ু, বৃষ্টি, পোকামাকড় এবং বাগানের সরঞ্জাম দ্বারা ছড়িয়ে পড়ে। \n \n চিকিৎসা \n 1। সম্ভব হলে প্রতিরোধী উদ্ভিদের জাতগুলি বেছে নিন এবং পশ্চিমা উৎপাদিত বীজ ব্যবহার করুন যা রোগের সংস্পর্শে আসেনি। \n 2। যদি এই ছত্রাকের সমস্যা সাধারণ হয়, তাহলে আপনার নিজের বীজকে রোপণ থেকে বাঁচাবেন না। \n 3. রোগটি ছড়িয়ে পড়া এড়াতে, গাছপালা ভিজে থাকলে বাগানের বাইরে রাখুন এবং ব্যবহারের পরে বাগানের সমস্ত সরঞ্জাম (এক অংশ ব্লিচ থেকে 4 অংশ জল) জীবাণুমুক্ত করার বিষয়টি নিশ্চিত করুন। সংক্রামিত পাতা, ফল বা ডালপালা কম্পোস্ট করবেন না এবং শরৎকালে ফসল কাটার পরে বাগানের অঞ্চলগুলি পুঙ্খানুপুঙ্খভাবে পরিষ্কার করবেন না, যাতে ছত্রাকের বীজাণুগুলির জন্য শীতকালীন স্থানগুলি হ্রাস করা যায়। সেরনেড গার্ডেন দিয়ে বেশিরভাগ ছত্রাক এবং ব্যাকটেরিয়া রোগের নিরাপদে চিকিৎসা করুন। এই বিস্তৃত বর্ণালী জৈব-ছত্রাকনাশক জৈব ব্যবহারের জন্য নিবন্ধিত ব্যাসিলাস সাবটিলিসের একটি পেটেন্টযুক্ত স্ট্রেন ব্যবহার করে। সর্বোপরি, সেরনেড মৌমাছি এবং উপকারী পোকামাকড়ের জন্য সম্পূর্ণ অ-বিষাক্ত। তরল তামার স্প্রে এবং সালফার গুঁড়ো সাপ্তাহিকভাবে প্রয়োগ করা উচিত, যখন বসন্তের শুরুতে পাতাগুলি বিকশিত হতে শুরু করে এবং ক্রমবর্ধমান মরসুম জুড়ে অব্যাহত থাকে। দিনের শুরুতে স্প্রে করুন এবং গরম আবহাওয়ার সময় প্রয়োগগুলি এড়িয়ে চলুন। রোপণের আগে বীজও চিকিত্সা করা যেতে পারে। \n 7। নিম অয়েল স্প্রে একটি জৈব, বহুমুখী ছত্রাকনাশক/কীটনাশক/মাইটিসাইড যা ডিম, লার্ভা এবং পোকামাকড়ের প্রাপ্তবয়স্ক পর্যায়গুলিকে মেরে ফেলার পাশাপাশি উদ্ভিদের উপর ছত্রাকের আক্রমণ প্রতিরোধ করে। প্রতিরোধমূলক ব্যবস্থা হিসাবে প্রতি 7-14 দিনে অথবা বিদ্যমান সমস্যাগুলি দূর না হওয়া পর্যন্ত 7 দিনের সময়সূচীতে, বসন্তের উদীয়মান প্রথম লক্ষণের আগে প্রয়োগ করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "এটি ব্যাকটেরিয়াল ক্যানকার, যা চেরি এবং প্লামে সবচেয়ে বেশি দেখা যায়, তবে এপ্রিকট, পীচ এবং অন্যান্য অনেক ধরনের পাথরের ফলকেও প্রভাবিত করতে পারে। এই উদ্ভিদ রোগটি সন্দেহ করুন যদি শুঁকে যাওয়া, জলে ভিজিয়ে রাখা বা \"আঠালো\" ক্ষত ট্রাঙ্ক বা ডালগুলিতে তৈরি হয়। বসন্তে যখন গাছগুলি সক্রিয়ভাবে বৃদ্ধি পেতে শুরু করে, তখন এই ক্ষতিগ্রস্ত অঞ্চলগুলি থেকে একটি টক গন্ধযুক্ত রস বেরিয়ে আসতে পারে। ক্যানকারগুলি পার্শ্ববর্তী সুস্থ ছালের চেয়ে গাঢ় হয়ে যায় এবং অন্তর্নিহিত টিস্যু লালচে-বাদামী থেকে কালো এবং আর্দ্র হয়। \n \n দ্রষ্টব্যঃ ক্যানকাররা যদি শাখা বা কাণ্ডকে বেষ্টন করে, তবে রোগাক্রান্ত এলাকার উপরের পাতাগুলি কুঁকড়ে যায় এবং হলুদ হয়ে যায়। বৃদ্ধি বন্ধ হয়ে যায় এবং শাখা বা গাছটি শেষ পর্যন্ত মারা যায়। \n \n ব্যাকটেরিয়া যা ক্যানকার সৃষ্টি করে, সিউডোমোনাস সিরিঞ্জ, আহত ছাল বা বিদ্যমান ক্ষতের মাধ্যমে গাছে প্রবেশ করে, যেমন একটি ডাল বা শাখায় ছাঁটাই কাটা। বসন্তে তুষারপাতের ক্ষতি অতিরিক্ত সংক্রমণকে উৎসাহিত করতে পারে। ব্যাকটেরিয়াল ক্যান্সার সংক্রমণ শরৎ, শীত এবং বসন্তের প্রথম দিকে (শীতল, আর্দ্র আবহাওয়ার সময়) ঘটে এবং বৃষ্টি বা জল এবং ছাঁটাইয়ের সরঞ্জাম দ্বারা ছড়িয়ে পড়ে। সক্রিয় ক্যান্সার, সংক্রামিত কুঁড়ি এবং সংক্রামিত এবং সুস্থ গাছ এবং আগাছার পৃষ্ঠে ব্যাকটেরিয়া অতিরিক্ত শীতকাল। \n \n চিকিৎসা \n 1। ফুল ফোটার সময় ফুলের গাছ কেটে ফেলুন যখন ক্ষত দ্রুত নিরাময় হয়। \n 2 আক্রান্ত এলাকার নিচে শুকনো বা মৃত অঙ্গগুলি সরিয়ে ফেলুন। \n 3. বসন্তের প্রথম দিকে এবং শরৎকালে যখন ব্যাকটেরিয়া সবচেয়ে বেশি সক্রিয় থাকে তখন ছাঁটাই করা এড়িয়ে চলুন। \n 4 সমস্ত ছাঁটাই কাটা অবিলম্বে ট্যাঙ্গলফুট ® ট্রি ছাঁটাই সিলার দিয়ে চিকিত্সা করুন এবং প্রতিটি কাটার পরে আপনার ছাঁটাই সরঞ্জাম-এক অংশ ব্লিচ থেকে 4 অংশ জল-জীবাণুমুক্ত করার বিষয়টি নিশ্চিত করুন। যদি গাছের গোড়ার চারপাশে স্ট্রিং ট্রিমার ব্যবহার করা হয় তবে সংক্রমণ প্রতিরোধের জন্য শ্বাস-প্রশ্বাসযোগ্য ট্রি র্যাপ দিয়ে ক্ষতিগ্রস্থ ছাল এড়িয়ে চলুন। \n 6 বাকল-ক্ষতিকারক তাপমাত্রার ওঠানামা কমাতে সাদা ল্যাটেক্স পেইন্ট দিয়ে ব্রাশ করুন। \n 7। গবেষণায় দেখা গেছে যে এই পাথরের ফলের সমস্যার বিরুদ্ধে তামার ছত্রাকনাশকগুলি কিছুটা সাফল্য পেয়েছে। তবে ফলাফল অসামঞ্জস্যপূর্ণ। আমরা এটিকে মোট পরিচালন কর্মসূচির একটি অংশ হিসাবে ব্যবহার করার পরামর্শ দিই। \n 8। বায়ু সঞ্চালন উন্নত করতে এবং কাণ্ড এবং মুকুট শুকনো রাখতে তরুণ গাছের গোড়ার চারপাশ থেকে আগাছা এবং ঘাস সরিয়ে ফেলুন। \n 9 অর্গানোসাইড® উদ্ভিদ ডাক্তার একটি পৃথিবী-বান্ধব পদ্ধতিগত ছত্রাকনাশক যা পুরো উদ্ভিদ জুড়ে শোভাময়, তৃণভূমি, ফল এবং আরও অনেক রোগের বিরুদ্ধে লড়াই করার জন্য কাজ করে। প্রতি গ্যালন জলে 1/3 থেকে 3/4 আউন্স মিশিয়ে কাটা ক্ষত এবং আশেপাশের অঞ্চলে রঙ বা স্প্রে করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "এটি ফুলের শেষ পচন। টমেটো, গোলমরিচ, শসা এবং বেগুনগুলির একটি গুরুতর ব্যাধি, ফুলের শেষ পচন একটি পরিবেশগত সমস্যা (ছত্রাক নয়) যা প্রায়শই অসম জলের কারণে বা ক্যালসিয়ামের ঘাটতির কারণে ঘটে। (এগুলি সম্পর্কিত হতে পারে; অসম জল ক্যালসিয়াম গ্রহণের ক্ষেত্রে হস্তক্ষেপ করতে পারে।) এই সাধারণ বাগানের \"রোগ\" প্রায়শই অত্যধিক সার, উচ্চ লবণের মাত্রা বা খরার কারণে দ্রুত বৃদ্ধি পায়। \n \n সবুজ এবং পাকা ফল উভয় ক্ষেত্রেই ফুলের শেষ পচনের লক্ষণ দেখা যায় এবং জলে ভিজিয়ে রাখা অঞ্চলগুলি দ্বারা চিহ্নিত করা হয় যা ধীরে ধীরে নীচের প্রান্তে ডুবে যাওয়া, বাদামী, চামড়ার দাগগুলিতে পরিণত হয়। অনেক ক্ষেত্রে, গৌণ প্যাথোজেনগুলি, যা একটি কালো, অস্পষ্ট-জাতীয় বৃদ্ধি হিসাবে প্রদর্শিত হয়, আক্রান্ত অঞ্চলে আক্রমণ করে এবং ফলের সম্পূর্ণ পচন ঘটায়। ফুলের শেষ পচন উদ্ভিদ থেকে উদ্ভিদে ছড়িয়ে পড়বে না। \n \n চিকিৎসা \n যেহেতু এই উদ্ভিদের সমস্যাটি শারীরবৃত্তীয় প্রকৃতির, তাই ছত্রাকনাশকগুলি নিয়ন্ত্রণ ব্যবস্থা হিসাবে কাজ করবে না। আমরা নিম্নলিখিতগুলি সুপারিশ করিঃ \n \n 1। যখনই সম্ভব প্রতিরোধী সবজির জাত বেছে নিন। \n 2 মাটি সমানভাবে আর্দ্র রেখে এবং কেল্প বা ক্যালসিয়াম দ্রবণ দিয়ে পাতাগুলি স্প্রে করে সমস্যাগুলি প্রতিরোধ করুন। \n 3 রোপণের সময় মাটিতে উচ্চ মাত্রার ক্যালসিয়াম-হাড়ের খাবার, ঝিনুকের খোসা বা জিপসাম-যোগ করা সাধারণত এই সমস্যাটিকে বিকশিত হতে বাধা দেয়। মাল্চের একটি স্তর (খড়, কম্পোস্ট, ঘাস) জুলাই এবং আগস্টের গরম, শুষ্ক দিনগুলিতে মাটির আর্দ্রতা সংরক্ষণে সহায়তা করবে। এই প্রয়োজনীয় পুষ্টির ঘাটতিগুলি সংশোধন বা প্রতিরোধ করতে তরল ক্যালসিয়ামের পাতাযুক্ত প্রয়োগ 5 শতাংশ (1-2 টেবিল চামচ/গ্যালন জল) ব্যবহার করা যেতে পারে। সর্বোত্তম ফলাফলের জন্য, আঠালো বৃদ্ধি করতে একটি প্রাকৃতিক সার্ফ্যাক্ট্যান্টের সাথে একত্রিত করুন এবং রান-অফের বিন্দুতে পাতা স্প্রে করুন। \n 6 মালচিং উদ্ভিদ আর্দ্রতা সংরক্ষণ করতে এবং আরও অভিন্ন জল সরবরাহ করতে সহায়তা করবে। \n 7। উচ্চ নাইট্রোজেন সার ব্যবহার করা এড়িয়ে চলুন যা উদ্ভিজ্জ বৃদ্ধিকে ত্বরান্বিত করে এবং উদ্ভিদের দ্বারা ক্যালসিয়াম গ্রহণ হ্রাস করে। প্ল্যানেট ন্যাচারালে প্রচুর পরিমাণে সুষম জৈব সার পাওয়া যায়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "এটি হল ব্রাউন রট (মনিলিনিয়া ফ্রুক্টিকোলা), সবচেয়ে সাধারণ ছত্রাকজনিত রোগ যা বাদাম, খুবানী, চেরি, পীচ এবং প্লামের ফুল এবং ফলকে প্রভাবিত করে। এটি মমি করা ফল (গাছে এবং মাটিতে) এবং সংক্রামিত ডালগুলিতে অতিরিক্ত শীতকাল দেয়। \n \n রোগটি প্রথমে বসন্তে ফুলকে সংক্রামিত করে এবং ক্যানকার সৃষ্টি করতে ছোট শাখায় ফিরে আসে যা কান্ডকে মেরে ফেলতে পারে। রোগটি গুরুতর হলে প্রচুর সংখ্যক ফুল বহনকারী কান্ড মারা যায়। মৃত ফুলগুলি প্রায়শই গ্রীষ্মে সংযুক্ত থাকে। বিকাশমান বা পরিপক্ক ফলগুলিতে বৃত্তাকার বা বাদামী দাগ দেখা যায় যা পৃষ্ঠের উপর দ্রুত ছড়িয়ে পড়ে এবং পচা অঞ্চলে হালকা ধূসর রঙের বীজকণিকা তৈরি হয়। পচা টিস্যু তুলনামূলকভাবে দৃঢ় এবং শুষ্ক থাকে। \n \n বাদামী পচা বীজাণু বাতাস, বৃষ্টি এবং পোকামাকড় দ্বারা খোলা বা না খোলা ফুল এবং তরুণ অঙ্কুরগুলিতে বহন করা হয়। যদি ফুলের পৃষ্ঠে বৃষ্টি, শিশির বা জল থেকে জল থাকে তবে বীজকণাগুলি অঙ্কুরিত হতে পারে এবং গাছে প্রবেশ করতে পারে। রোগের বিকাশ একটি বিস্তৃত তাপমাত্রার পরিসরে ঘটে এবং ফুলগুলি পাপড়ি পড়ে যাওয়া পর্যন্ত পাপড়ি খোলার সময় থেকে সংক্রামিত হতে পারে। অনুকূল পরিস্থিতিতে, বাদামী পচা দ্রুত ছড়িয়ে পড়ে এবং একটি সম্পূর্ণ ফসল গাছে সম্পূর্ণরূপে ধ্বংস করা যেতে পারে। \n \n চিকিত্সা \n 1। যখনই সম্ভব প্রতিরোধী জাতগুলি বেছে নিন। সংক্রামিত উদ্ভিদের অংশগুলি দ্রুত অপসারণ এবং ধ্বংস করা পৃথক গাছ এবং ছোট বাগানে রোগের জীবনচক্রকে ভেঙে ফেলতে সহায়তা করে এবং ক্ষতিকারক মাত্রার নিচে বাদামী পচন বজায় রাখতে যথেষ্ট হতে পারে। গাছের নিচে পড়ে যাওয়া কোনও ফল বা ধ্বংসাবশেষ সংগ্রহ করা এবং অপসারণ করা গুরুত্বপূর্ণ। \n 4. বায়ু সঞ্চালন উন্নত করতে মাঝে মাঝে গাছ কেটে ফেলুন। এছাড়াও, ফুল, পাতা এবং ফলগুলিকে ভিজে যাওয়া থেকে রক্ষা করার জন্য নীচের থেকে জল। \n 5। সমস্ত কাটা এবং ক্ষত সিল করতে এবং পোকামাকড় এবং রোগজীবাণু থেকে রক্ষা করতে ট্যাংলফুট প্রিনিং সিলার ব্যবহার করুন। \n 6। ব্যবহারের জন্য প্রস্তুত তামার ছত্রাকনাশক বা সালফার গুঁড়ো সংক্রামিত গাছগুলিতে সাপ্তাহিকভাবে প্রয়োগ করা উচিত যখন ফুলগুলি সবেমাত্র খুলতে শুরু করে এবং ক্রমবর্ধমান মরসুম জুড়ে অব্যাহত থাকে। যদি সম্ভব হয়, সময় প্রয়োগ যাতে 12 ঘন্টা শুষ্ক আবহাওয়া প্রয়োগ অনুসরণ করে। \n 7। অর্গানোসাইড® উদ্ভিদ ডাক্তার একটি পৃথিবী-বান্ধব পদ্ধতিগত ছত্রাকনাশক যা পুরো উদ্ভিদ জুড়ে শোভাময়, তৃণভূমি, ফল এবং আরও অনেক রোগের বিরুদ্ধে লড়াই করার জন্য কাজ করে। এই ধ্বংসাত্মক পাথরের ফলের সমস্যা মোকাবেলায় পাতার স্প্রে (1 চা চামচ/গ্যালন জল) হিসাবে প্রয়োগ করুন। সালফার এবং পাইরেথ্রিনযুক্ত, বোনাইড® অর্চার্ড স্প্রে পোকামাকড়ের আক্রমণ এবং ছত্রাকের সমস্যার জন্য একটি নিরাপদ, এক-হিট ঘনীভূত। সর্বোত্তম ফলাফলের জন্য, মরসুমের শুরুতে একটি সুরক্ষামূলক স্প্রে (2.5 ওজ/গ্যালন) হিসাবে প্রয়োগ করুন। যদি রোগ, পোকামাকড় বা আর্দ্র আবহাওয়া থাকে, তাহলে এক গ্যালন জলে 5 আউন্স মিশিয়ে নিন। উদ্ভিদের সমস্ত অংশ, বিশেষ করে নতুন অঙ্কুরগুলি পুঙ্খানুপুঙ্খভাবে স্প্রে করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "এটি ক্লাব রুট। বেশিরভাগ ব্রাসিকা ফসলের (বাঁধাকপি, ব্রকলি, ফুলকপি ইত্যাদি) উপর এর প্রভাব পড়ে।), ক্লাব রুট উত্তর আমেরিকার বাড়ির বাগানে একটি গুরুতর উদ্ভিদ রোগ। এটি মাটি-বাহিত ছত্রাক প্লাজমোডিওফোরা ব্রাসিকার কারণে হয় যা শিকড়ের চুলের মাধ্যমে সংবেদনশীল গাছগুলিকে সংক্রামিত করে। রোগাক্রান্ত শিকড়গুলি ফুলে যায়, ভুল আকার ধারণ করে এবং প্রায়শই ফাটল ধরে এবং পচতে থাকে। ফলস্বরূপ, উদ্ভিদের জল এবং পুষ্টি সঠিকভাবে শোষণ করতে অসুবিধা হয়। \n \n দিনের উত্তাপে গাছপালা প্রায়শই খারাপভাবে বৃদ্ধি পায় এবং শুকিয়ে যায়; ঠান্ডা রাতে গাছপালা প্রায়শই পুনরুজ্জীবিত হয়। বাইরের পাতাগুলি হলুদ, বেগুনি বা বাদামী হয়ে যেতে পারে। ক্লাব রুট ফলন হ্রাস করবে এবং মোট ফসলের ব্যর্থতার কারণ হতে পারে। \n \n ছত্রাকের বীজকণাগুলি বাতাস, জল এবং বাগানের সরঞ্জাম দ্বারা ছড়িয়ে পড়তে পারে। রোগের বিকাশ বিভিন্ন পরিস্থিতিতে ঘটতে পারে, তবে অত্যধিক আর্দ্রতা, মাটির নিম্ন পিএইচ এবং মাটির তাপমাত্রা 64 থেকে 77 ডিগ্রি ফারেনহাইটের মধ্যে থাকে। বীজকণিকা মাটিতে 10 বছর পর্যন্ত বেঁচে থাকতে পারে। \n \n চিকিৎসা \n 1। ছত্রাকনাশক এই মাটিতে বসবাসকারী অণুজীবের চিকিৎসা করবে না। \n 2। সম্ভব হলে প্রতিরোধী চাষ বেছে নিন। \n 3। একটি পরিষ্কার বাগান এবং ঘূর্ণায়মান ফসল রাখার মাধ্যমে এই রোগের ঘটনা রোধ করার চেষ্টা করুন। \n 4। মনে রাখবেন যে এই রোগের বীজকণিকা মাটিতে 20 বছর পর্যন্ত স্থায়ী হতে পারে। যদি ক্লাব রুট উপস্থিত থাকে তবে আপনি মাটি সৌরায়ন করতে চাইতে পারেন। * \n 5 সংবেদনশীল আগাছা-সরিষা, মূলা, মেষপালকের পার্স-নিয়ন্ত্রণ করুন যা রোগের সম্ভাব্য বৃদ্ধি কমাতে সংক্রামিত হতে পারে। \n 6 ব্যবহারের পরে সাবধানে সংক্রামিত গাছপালা সরিয়ে ফেলুন এবং বাগানের সরঞ্জামগুলি জীবাণুমুক্ত করুন (এক অংশ ব্লিচ 4 অংশ জলে)। শরত্কালে আপনার বাগানে ঝিনুকের খোসা বা ডলোমাইট চুন মিশিয়ে আপনার মাটির পিএইচকে আরও ক্ষারীয় 7.2-এ উন্নীত করুন। প্রায়শই পিএইচ পরীক্ষা করার জন্য সহজ এবং সাশ্রয়ী মূল্যের মাটি পরীক্ষার কিট পাওয়া যায়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "এটি কর্ন স্মুট। প্রায়শই বাড়ির পিছনের বাগান এবং ছোট খামারে পাওয়া যায়, ভুট্টার দাগ উস্তিলাগো জি ছত্রাকের কারণে হয় এবং ডালপালা, পাতা, টাসেল বা কানে দেখা দিতে পারে। লক্ষণগুলি সাধারণত লক্ষ্য করা যায় যখন কান মাশরুমের মতো টিউমার বা গল তৈরি করে। এই \"ফোলাভাব\" ছোট, সাদা-ধূসর অনিয়ম হিসাবে শুরু হয় যা বিস্তার লাভ করে এবং বীজাণু দিয়ে পূর্ণ হওয়ার সাথে সাথে কালো হয়ে যায়। কানের গলগুলি 4 থেকে 5 ইঞ্চি ব্যাস পর্যন্ত বাড়তে পারে এবং ফেটে যাওয়ার সাথে সাথে হাজার হাজার বীজাণু ছেড়ে দিতে পারে। এই ছত্রাকের বীজকণাগুলি নতুন গাছগুলিকে সংক্রামিত করার জন্য যথেষ্ট দূরত্বে বাতাসের দ্বারা প্রবাহিত হয়। পাতার গলগুলি ছোট থাকে এবং শেষ পর্যন্ত শক্ত ও শুকনো হয়ে যায়। \n \n বাগানের ধ্বংসাবশেষ এবং মাটিতে কর্ন স্মুট ওভারউইন্টার। এটি বাতাস, বৃষ্টি এবং সেচ দ্বারা বহন করা হয় এবং গরম, শুষ্ক আবহাওয়ায় সবচেয়ে ভাল কাজ করে। বীজকণিকা 5 থেকে 7 বছর পর্যন্ত কার্যকর থাকতে পারে। চাষাবাদ এবং প্রবাহিত মাটি থেকে ঘর্ষণ সহ বিভিন্ন আঘাতের ক্ষতগুলি ছত্রাকটিকে উদ্ভিদে প্রবেশের জন্য পয়েন্ট সরবরাহ করে। \n \n চিকিৎসা \n 1। যখন পাওয়া যায় তখন সেরা প্রতিরোধী জাতগুলি বেছে নিন, যেমন সিলভার কিং, ফ্যান্টাসিয়া, ব্রিলিয়ান্ট এবং সেনেকা সেনসেশন। বাড়ির পিছনের উঠোনে কালো ছত্রাকের বীজকণাগুলি মুক্ত হওয়ার আগে গল সংগ্রহ এবং ধ্বংস করার পরামর্শ দেওয়া হয়। এটি উপলব্ধ ছত্রাকের বীজাণুর সংখ্যা সীমিত করবে এবং রোগ-চক্র ভাঙতে সাহায্য করবে। \n 3 চাষের সময় শিকড়, ডালপালা এবং পাতার ক্ষতি এড়ানোর মাধ্যমে সংক্রমণ পয়েন্ট হ্রাস করুন। \n 4। মন্টেরি গার্ডেন কীটপতঙ্গ স্প্রে বা অন্যান্য জৈব কীটনাশক দিয়ে ভুট্টা বোরারের মতো পোকামাকড় থেকে ক্ষতি প্রতিরোধ করুন। \n 5। ছত্রাকনাশক একটি কার্যকর নিয়ন্ত্রণ বিকল্প নয় কারণ রোগটি এতটাই বিস্তৃত এবং মাটিতে বছরের পর বছর ধরে স্থায়ী হতে পারে। উচ্চ নাইট্রোজেন সার রোগের তীব্রতা বাড়িয়ে দিতে পারে-উদ্ভিজ্জ বাগানে একটি ভারসাম্যপূর্ণ জৈব সার ব্যবহার করুন। ফসল কাটার পর বাগানের সমস্ত ধ্বংসাবশেষ সরিয়ে ফেলুন এবং পরের বছর ফসল আবর্তনের অনুশীলন করুন। ব্যাগ বা সংক্রমিত উদ্ভিদের অংশ পুড়িয়ে ফেলুন-কম্পোস্ট তৈরি করবেন না।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "এটি হল ক্রাউন গল, মাটি-বাহিত ব্যাকটেরিয়া অ্যাগ্রোব্যাকটেরিয়াম টিউমেফ্যাসিয়েন্স দ্বারা সৃষ্ট একটি সাধারণ উদ্ভিদ রোগ। এটি সারা বিশ্ব জুড়ে পাওয়া যায় এবং আঙ্গুর, রাস্পবেরি, ব্ল্যাকবেরি এবং গোলাপ সহ কাঠের গুল্ম এবং ভেষজ উদ্ভিদে পাওয়া যায়। \n \n ক্রাউন গলের লক্ষণগুলির মধ্যে রয়েছে গোলাকার, আঁচিলের মতো বৃদ্ধি-2 ইঞ্চি বা ব্যাসের বড়-যা মাটির রেখার ঠিক উপরে বা নীচের শাখা এবং কান্ডে প্রদর্শিত হয়। বেশ কয়েকটি গলযুক্ত গাছপালা কাণ্ডের উপরে জল এবং পুষ্টি সরাতে অক্ষম হতে পারে এবং দুর্বল, অবিকশিত এবং অনুত্পাদক হয়ে উঠতে পারে। গল টিস্যু তৈরি করে তরুণ গাছগুলিকে মেরে ফেলা যেতে পারে। \n \n ক্রাউন গলের জন্য দায়ী ব্যাকটেরিয়া বহু বছর ধরে মাটিতে থাকতে পারে এবং যখন গলগুলি আর্দ্রতায় স্যাচুরেটেড হয়ে যায় বা পুরানো গলগুলি পচতে থাকে তখন মুক্তি পায়। সংবেদনশীল গাছগুলি তাজা ক্ষত বা ঘর্ষণের মাধ্যমে সংক্রামিত হয়, যার মধ্যে অনেকগুলি ছাঁটাই, হিমায়িত আঘাত, মাটির পোকামাকড়, চাষ এবং অন্যান্য কারণগুলির ফলে হয় যা উদ্ভিদের ক্ষতি করতে পারে। নার্সারি স্টক প্রায়শই কলম এবং উদীয়মান দাগের মাধ্যমে সংক্রামিত হয়। \n \n চিকিৎসা \n 1। সম্ভব হলে প্রতিরোধী চাষাবাদ বেছে নিন এবং একটি নামী নার্সারি থেকে গাছ কিনুন। \n 2 এমন গাছ কিনবেন না যা ফোলা বা গলার লক্ষণ দেখায়। \n 3 সংবেদনশীল উদ্ভিদের যত্ন নেওয়ার সময়, মাটির সংস্পর্শে আসতে পারে এমন আঘাত বা ছাঁটাইয়ের ক্ষত এড়িয়ে চলুন। \n 4 স্ট্রিং ট্রিমারের ক্ষতি থেকে রক্ষা পেতে এবং আপনার বাগানের সরঞ্জামগুলি পরিষ্কার রাখতে ট্রি র্যাপ ব্যবহার করুন। প্রাকৃতিক বারল্যাপ দিয়ে শীতকালীন সুরক্ষা প্রদান করুন যাতে ছাল ফেটে না যায়। \n 6। অনেক ক্ষেত্রে, বিদ্যমান গলগুলি একটি ধারালো ছাঁটাই ছুরি দিয়ে অপসারণ করা যেতে পারে। সংক্রামিত উদ্ভিদের টিস্যু ধ্বংস করুন এবং ছাঁটাই সিলার দিয়ে ক্ষতটির চিকিৎসা করুন। যদি উদ্ভিদটি পুনরুদ্ধার না হয় তবে এটি অপসারণ এবং ধ্বংস করুন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "এটি ধূসর ছাঁচ (বোট্রিটিস সিনেরিয়া)। বিভিন্ন ধরনের উদ্ভিদে পাওয়া যায় (উল্লেখ করার মতো অনেক বেশি), ধূসর ছাঁচ একটি ছত্রাকজনিত রোগ যা বাগানের মধ্য দিয়ে দ্রুত ভ্রমণ করে, বিশেষ করে আর্দ্র, শীতল থেকে হালকা আবহাওয়ার সময়। রোগের লক্ষণগুলি পাতা, কান্ড, ফুল এবং উৎপাদনে ধূসর রঙের নরম, মসৃণ দাগ হিসাবে প্রদর্শিত হয়। দাগগুলি ধূসর ছত্রাকের বীজাণুর আবরণ দিয়ে ঢেকে যেতে পারে, বিশেষ করে যদি আর্দ্রতা বেশি থাকে। ফল বা গাছপালা সঙ্কুচিত এবং পচতে থাকে এবং প্রায়শই কালো, পাথরের মতো স্ক্লেরোটিয়া-শক্ত ছত্রাকের ফিলামেন্টের একটি কম্প্যাক্ট ভর-পচা অংশের নিচে বিকশিত হয়। \n \n ধূসর ছাঁচ প্রায়শই মাটির পৃষ্ঠের কাছাকাছি বা উদ্ভিদের চাঁদোয়ার ঘন অঞ্চলে পাওয়া যায়। এটি প্রথমে শুকনো ফুলের উপর বিকশিত হয়, তারপর উদ্ভিদের অন্যান্য অংশে দ্রুত ছড়িয়ে পড়ে। এই রোগটি সংগ্রহস্থলগুলিতেও ঘটতে পারে যার ফলে কাটা ফল এবং শাকসবজি পচতে পারে। \n \n বোট্রিটিস ব্লাইট গাছে, মাটিতে বা মাটিতে এবং স্ক্লেরোটিয়া হিসাবে অতিরিক্ত শীতকাল দেয়। যখন পরিস্থিতি অনুকূল হয় তখন স্পোরগুলি বিকশিত হয় এবং বাতাস বা স্প্ল্যাশিং জলের দ্বারা ফুল বা তরুণ পাতাগুলিতে স্থানান্তরিত হয়, যেখানে তারা অঙ্কুরিত হয় এবং উদ্ভিদে প্রবেশ করে। বীজাণুর অঙ্কুরোদগমের জন্য শীতল তাপমাত্রা (45-60 এফ) এবং উচ্চ আর্দ্রতা (93 শতাংশ এবং তার বেশি) প্রয়োজন। অঙ্কুরিত বীজাণু খুব কমই সরাসরি সবুজ, সুস্থ টিস্যুতে প্রবেশ করে, তবে ক্রমবর্ধমান উদ্ভিদের ক্ষতের মাধ্যমে প্রবেশ করতে পারে। কাটিং বিশেষ করে সংক্রমণের জন্য সংবেদনশীল। \n \n চিকিৎসা \n 1। উদ্ভিদের মধ্যে বায়ু সঞ্চালন উন্নত করতে গাছ কাটা বা দাঁড় করানো। প্রতিটি কাটার পরে আপনার ছাঁটাইয়ের সরঞ্জামগুলি (এক অংশ ব্লিচ থেকে 4 অংশ জল) জীবাণুমুক্ত করার বিষয়টি নিশ্চিত করুন। যদি বাড়ির অভ্যন্তরে বেড়ে ওঠা যায় তবে বায়ুপ্রবাহ উন্নত করতে একটি ছোট ক্লিপ-অন ফ্যান ব্যবহার করুন। \n 3 গাছের নিচের মাটি পরিষ্কার রাখুন এবং যে কোনও পতিত ধ্বংসাবশেষ সংগ্রহ করুন। \n 4। উদ্ভিদের নিচে প্রচুর পরিমাণে জৈব সার বা মাল্চ যোগ করুন। মল্চগুলি ছত্রাকের বীজকণাগুলিকে আবার ফুল এবং পাতায় ছড়িয়ে পড়তে বাধা দেবে। \n 5। দিনের বেলা গাছগুলিকে শুকিয়ে যাওয়ার সময় দেওয়ার জন্য খুব ভোরে জল দিন, অথবা একটি সোয়েকার পায়ের পাতার মোজাবিশেষ ব্যবহার করুন। \n 6 সংক্রামিত উদ্ভিদ পাতা বা ডালপালা কম্পোস্ট করবেন না এবং শরৎকালে বাগানের অঞ্চলগুলি পুঙ্খানুপুঙ্খভাবে পরিষ্কার করুন যাতে ছত্রাকের বীজাণুগুলির জন্য শীতকালীন স্থানগুলি হ্রাস করা যায়। \n 7 কপার-সোপ ছত্রাকনাশক উদ্ভিদকে রোগের বীজকণিকা থেকে রক্ষা করতে সাহায্য করবে। ফুল ফোটার শুরুতে প্রয়োগ করুন এবং ফসল কাটার আগে পর্যন্ত প্রতি 7-10 দিনে প্রয়োগ করুন। ছত্রাকনাশক স্প্রে বিশেষভাবে নিশ্চিত করা হয় যখন আবহাওয়ার পূর্বাভাস শীতল, আর্দ্র আবহাওয়ার দীর্ঘ সময়ের পূর্বাভাস দেয়। \n 8 সেরনেড গার্ডেন দিয়ে বোট্রিটিস ব্লাইট সহ বেশিরভাগ ছত্রাকজনিত রোগের নিরাপদে চিকিৎসা করুন। এই বিস্তৃত বর্ণালী জৈব-ছত্রাকনাশক জৈব ব্যবহারের জন্য নিবন্ধিত ব্যাসিলাস সাবটিলিসের একটি পেটেন্টযুক্ত স্ট্রেন ব্যবহার করে। সর্বোপরি, সেরনেড মৌমাছি এবং উপকারী পোকামাকড়ের জন্য সম্পূর্ণ অ-বিষাক্ত। \n 9 মাইকোস্টপ, জৈব ব্যবহারের জন্য অনুমোদিত একটি জৈবিক ছত্রাকনাশক, রোগটির দমন দেখিয়েছে। সংবেদনশীল পাতা, ফুল এবং ফলগুলিতে সরাসরি স্প্রে (5 গ্রাম/50 লিটার জল) করুন। প্রতি 2 থেকে 3 সপ্তাহ অন্তর অথবা রোগের চাপের উপর নির্ভর করে প্রয়োজন অনুযায়ী প্রয়োগ করুন। সবুজ নিরাময় ছত্রাকনাশকের মধ্যে পটাসিয়াম বাইকার্বনেটের একটি পেটেন্টযুক্ত সূত্র রয়েছে-যা সাধারণত খাদ্য পণ্যগুলিতে ব্যবহৃত হয়-যা সংস্পর্শে আসার পরে অনেক উদ্ভিদ রোগকে মেরে ফেলে এবং 2 সপ্তাহ পর্যন্ত অবশিষ্ট সুরক্ষা প্রদান করে। রোগের প্রথম লক্ষণে, 1-2 টেবিল চামচ/গ্যালন জল মিশিয়ে উদ্ভিদের সমস্ত উন্মুক্ত পৃষ্ঠে প্রয়োগ করুন। সর্বোত্তম সুরক্ষার জন্য, 1-2 সপ্তাহের ব্যবধানে পুনরাবৃত্তি করুন যতক্ষণ না রোগ বিকাশের জন্য পরিস্থিতি আর অনুকূল না হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "এই রোগটি কী (সংক্ষিপ্ত ভূমিকা দিন) এবং কীভাবে এর চিকিৎসা করা যায়?",
+        "answer": "এটি প্রাথমিক রোগ। টমেটো এবং আলু গাছগুলিতে সাধারণ, প্রাথমিক রোগটি আল্টার্নারিয়া সোলানি ছত্রাকের কারণে হয় এবং মার্কিন যুক্তরাষ্ট্র জুড়ে ঘটে। লক্ষণগুলি প্রথমে নীচের, পুরানো পাতাগুলিতে ঘনীভূত বলয় সহ ছোট বাদামী দাগ হিসাবে প্রদর্শিত হয় যা একটি \"ষাঁড়ের চোখের\" প্যাটার্ন গঠন করে। রোগটি পরিপক্ক হওয়ার সাথে সাথে এটি পাতার পৃষ্ঠে বাইরের দিকে ছড়িয়ে পড়ে যার ফলে এটি হলুদ হয়ে যায়, শুকিয়ে যায় এবং মারা যায়। অবশেষে গাছের কান্ড, ফল এবং উপরের অংশ সংক্রামিত হবে। ফসলের ব্যাপক ক্ষতি হতে পারে। \n \n সংক্রামিত উদ্ভিদ টিস্যুতে প্রারম্ভিক ব্লাইট ওভারউইন্টার হয় এবং বৃষ্টি, সেচ, পোকামাকড় এবং বাগানের সরঞ্জাম ছিঁড়ে ছড়িয়ে পড়ে। এই রোগটি টমেটোর বীজ এবং আলুর কন্দগুলিতেও বহন করা হয়। এর নাম থাকা সত্ত্বেও, প্রারম্ভিক ব্রণ ক্রমবর্ধমান মরশুম জুড়ে যে কোনও সময় ঘটতে পারে। উচ্চ তাপমাত্রা (80-85 ডিগ্রি ফারেনহাইট) এবং আর্দ্র, আর্দ্র পরিস্থিতি এর দ্রুত বিস্তারকে উৎসাহিত করে। অনেক ক্ষেত্রে, দুর্বলভাবে পুষ্ট বা চাপযুক্ত গাছগুলি আক্রান্ত হয়। \n \n চিকিৎসা \n বায়ু সঞ্চালন উন্নত করতে এবং ছত্রাকের সমস্যা কমাতে ছাঁটাই বা স্ট্যাক উদ্ভিদ। \n প্রতিটি কাটার পরে আপনার ছাঁটাই কাঁচি (এক অংশ ব্লিচ থেকে 4 অংশ জল) জীবাণুমুক্ত করার বিষয়টি নিশ্চিত করুন। \n গাছের নিচের মাটি পরিষ্কার এবং বাগানের ধ্বংসাবশেষ মুক্ত রাখুন। জৈব সারের একটি স্তর যোগ করুন যাতে বীজকণাগুলি আবার গাছপালার উপর ছিটকে না যায়। \n ড্রিপ সেচ এবং সোয়েকার পায়ের পাতাগুলি শুকনো রাখতে সহায়তা করতে ব্যবহার করা যেতে পারে। \n সর্বোত্তম নিয়ন্ত্রণের জন্য, সাধারণত রোগ দেখা দেওয়ার দুই সপ্তাহ আগে বা আবহাওয়ার পূর্বাভাস যখন আর্দ্র আবহাওয়ার দীর্ঘ সময়ের পূর্বাভাস দেয় তখন তামার ভিত্তিক ছত্রাকনাশক প্রয়োগ করুন। বিকল্পভাবে, যখন রোগ প্রথম দেখা দেয় তখন চিকিৎসা শুরু করুন এবং যতদিন প্রয়োজন ততদিন প্রতি 7-10 দিনে পুনরাবৃত্তি করুন। \n তামা এবং পাইরেথ্রিনযুক্ত, বোনাইড ® গার্ডেন ডাস্ট অনেক পোকামাকড়ের আক্রমণ এবং ছত্রাকের সমস্যার জন্য একটি নিরাপদ, এক-পদক্ষেপ নিয়ন্ত্রণ। সর্বোত্তম ফলাফলের জন্য, পাতার উপরের এবং নিচের অংশ উভয়ই পাতলা ইউনিফর্ম ফিল্ম বা ধুলো দিয়ে ঢেকে দিন। পাতার ঘনত্বের উপর নির্ভর করে, 10 আউন্স 625 বর্গফুট জুড়ে থাকবে। প্রয়োজন অনুযায়ী প্রতি 7-10 দিনে প্রয়োগ পুনরাবৃত্তি করুন। \n সেরেনেড গার্ডেন একটি বিস্তৃত বর্ণালী, প্রতিরোধমূলক জৈব-ছত্রাকনাশক যা অনেক গুরুত্বপূর্ণ উদ্ভিদ রোগ নিয়ন্ত্রণ বা দমন করার জন্য সুপারিশ করা হয়। সর্বোত্তম ফলাফলের জন্য, পাতার রোগের বিকাশের আগে বা সংক্রমণের প্রথম লক্ষণ অনুযায়ী চিকিৎসা করুন। 7 দিনের ব্যবধানে বা প্রয়োজন অনুযায়ী পুনরাবৃত্তি করুন। \n ফসল কাটার পর বাগানের সমস্ত ধ্বংসাবশেষ সরিয়ে ফেলুন এবং পরের বছর ফসল আবর্তনের অনুশীলন করুন। \n সংক্রমিত উদ্ভিদের অংশ পুড়িয়ে ফেলুন বা ঝোল দিন। কম্পোস্ট করবেন না।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "স্যার আইজাক নিউটন এফ. আর. এস (25 ডিসেম্বর 1642-20 মার্চ) ছিলেন একজন ইংরেজ গণিতবিদ, পদার্থবিজ্ঞানী, জ্যোতির্বিজ্ঞানী, রসায়নবিদ, ধর্মতত্ত্ববিদ এবং লেখক, যাঁকে তাঁর সময়ে একজন প্রাকৃতিক দার্শনিক হিসাবে বর্ণনা করা হয়েছিল। তিনি বৈজ্ঞানিক বিপ্লব এবং পরবর্তী আলোকিতকরণের মূল ব্যক্তিত্ব ছিলেন। 1687 সালে প্রথম প্রকাশিত তাঁর অগ্রণী বই ফিলোসফি ন্যাচারালিস প্রিন্সিপিয়া ম্যাথমেটিকা (প্রাকৃতিক দর্শনের গাণিতিক নীতি) পূর্ববর্তী অনেক ফলাফলকে সুসংহত করে এবং শাস্ত্রীয় বলবিজ্ঞান প্রতিষ্ঠা করে। নিউটন আলোকবিজ্ঞানেও মৌলিক অবদান রেখেছিলেন এবং অসীম ক্যালকুলাস বিকাশের জন্য জার্মান গণিতবিদ গটফ্রিড উইলহেম লেইবনিজের সাথে কৃতিত্ব ভাগ করে নিয়েছিলেন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "কনফুসিয়াস (চীনাঃ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; কনফুসিয়াসের শিক্ষা ও দর্শন পূর্ব এশীয় সংস্কৃতি ও সমাজের ভিত্তি, যা আজও চীন ও পূর্ব এশিয়া জুড়ে প্রভাবশালী।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "কাই লুন (চীনাঃ; সৌজন্যে নাম জিংজং; c. 50-62-121 খ্রিষ্টাব্দ), পূর্বে সাই লুন নামে রোমানীকৃত, পূর্ব হান রাজবংশের একজন চীনা নপুংসক আদালতের কর্মকর্তা ছিলেন। তাঁকে ঐতিহ্যগতভাবে কাগজের উদ্ভাবক এবং আধুনিক কাগজ তৈরির প্রক্রিয়া হিসাবে বিবেচনা করা হয়। যদিও খ্রিস্টপূর্ব 3য় শতাব্দী থেকে কাগজের প্রাথমিক রূপগুলি বিদ্যমান ছিল, গাছের ছাল এবং শিংয়ের প্রান্তের মাধ্যমে সজ্জা যোগ করার কারণে তিনি কাগজের ইতিহাসে একটি গুরুত্বপূর্ণ স্থান দখল করেছেন যার ফলে বড় আকারের উৎপাদন এবং বিশ্বব্যাপী কাগজ ছড়িয়ে পড়ে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "ক্রিস্টোফার কলম্বাস (25শে আগস্ট থেকে 31শে অক্টোবর 1451-20শে মে 1506) ছিলেন জেনোয়া প্রজাতন্ত্রের একজন ইতালীয় অভিযাত্রী এবং নাবিক, যিনি ক্যাথলিক সম্রাটদের পৃষ্ঠপোষকতায় আটলান্টিক মহাসাগর জুড়ে চারটি স্প্যানিশ-ভিত্তিক সমুদ্রযাত্রা সম্পন্ন করেছিলেন, যা আমেরিকাতে ব্যাপক ইউরোপীয় অনুসন্ধান এবং ইউরোপীয় উপনিবেশ স্থাপনের পথ উন্মুক্ত করেছিল। তাঁর অভিযানগুলি ছিল ক্যারিবিয়ান এবং মধ্য ও দক্ষিণ আমেরিকার সাথে প্রথম পরিচিত ইউরোপীয় যোগাযোগ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "আলবার্ট আইনস্টাইন (14 মার্চ 1879-18 এপ্রিল 1955) জার্মান বংশোদ্ভূত তাত্ত্বিক পদার্থবিজ্ঞানী ছিলেন। তিনি আপেক্ষিকতা তত্ত্বের বিকাশের জন্য সর্বাধিক পরিচিত, তিনি কোয়ান্টাম বলবিজ্ঞানের তত্ত্বের বিকাশে এবং এইভাবে আধুনিক পদার্থবিজ্ঞানেও গুরুত্বপূর্ণ অবদান রেখেছিলেন। তাঁর ভর-শক্তি সমতুল্য সূত্র E = mc2, যা আপেক্ষিকতা তত্ত্ব থেকে উদ্ভূত, তাকে \"বিশ্বের সবচেয়ে বিখ্যাত সমীকরণ\" বলা হয়েছে। তাঁর কাজ বিজ্ঞান দর্শনের উপর প্রভাবের জন্যও পরিচিত। তিনি 1921 সালে পদার্থবিজ্ঞানে নোবেল পুরস্কার পেয়েছিলেন \"তাত্ত্বিক পদার্থবিজ্ঞানে তাঁর সেবার জন্য, এবং বিশেষত ফটোইলেক্ট্রিক প্রভাবের আইন আবিষ্কারের জন্য\", যা কোয়ান্টাম তত্ত্বের বিকাশের একটি গুরুত্বপূর্ণ পদক্ষেপ। পর্যায় সারণির অন্যতম কৃত্রিম উপাদান আইনস্টাইনিয়াম তাঁর সম্মানে নামকরণ করা হয়েছিল।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "লুই পাস্তুর ফরমেমআরএস (27 ডিসেম্বর 1822-28 সেপ্টেম্বর 1895) একজন ফরাসি রসায়নবিদ এবং অণুজীববিজ্ঞানী ছিলেন যিনি টিকা, মাইক্রোবিয়াল ফার্মেন্টেশন এবং পাস্তুরাইজেশনের নীতি আবিষ্কারের জন্য বিখ্যাত, যার মধ্যে শেষটির নামকরণ তাঁর নামে করা হয়েছিল। রসায়নে তাঁর গবেষণা রোগের কারণ এবং প্রতিরোধের বোঝার ক্ষেত্রে উল্লেখযোগ্য অগ্রগতি ঘটায়, যা স্বাস্থ্য, জনস্বাস্থ্য এবং বেশিরভাগ আধুনিক ওষুধের ভিত্তি স্থাপন করে। জলাতঙ্ক এবং অ্যানথ্রাক্সের টিকা তৈরির মাধ্যমে লক্ষ লক্ষ মানুষের জীবন বাঁচানোর কৃতিত্ব পাস্তুরের কাজকে দেওয়া হয়। তাঁকে আধুনিক ব্যাকটেরিয়াবিজ্ঞানের অন্যতম প্রতিষ্ঠাতা হিসাবে বিবেচনা করা হয় এবং \"ব্যাকটেরিয়াবিজ্ঞানের জনক\" এবং \"অণুজীববিজ্ঞানের জনক\" হিসাবে সম্মানিত করা হয় (রবার্ট কোচের সাথে; পরবর্তী উপাধিটিও অ্যান্টোনি ভ্যান লিউয়েনহুককে দেওয়া হয়)।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "গ্যালিলিও ডি ভিনসেনজো বোনাইউতি ডি গ্যালিলি (15 ফেব্রুয়ারি 1564-8 জানুয়ারী 1642) একজন ইতালীয় জ্যোতির্বিজ্ঞানী, পদার্থবিজ্ঞানী এবং প্রকৌশলী ছিলেন, যাকে কখনও কখনও বহুবিদ্যাবিদ্ হিসাবে বর্ণনা করা হয়। সাধারণত গ্যালিলিও হিসাবে উল্লেখ করা হয়, তার নাম উচ্চারিত হয় ˌɡælɪˈleɪ.iˌ (গ্যাল-ইহ-লে-ওহ গ্যাল-ইহ-লে-ই, ইতালীয়ঃ [gaaliːlːo gaaliːi])। তিনি পিসা শহরে জন্মগ্রহণ করেছিলেন, যা তখন ফ্লোরেন্সের ডাচির অংশ ছিল। গ্যালিলিওকে পর্যবেক্ষণমূলক জ্যোতির্বিজ্ঞান, আধুনিক যুগের শাস্ত্রীয় পদার্থবিজ্ঞান, বৈজ্ঞানিক পদ্ধতি এবং আধুনিক বিজ্ঞানের জনক বলা হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "জোশুয়া আব্রাহাম নর্টন (4ঠা ফেব্রুয়ারি, 1818-8ই জানুয়ারি, 1880), যিনি সম্রাট নর্টন নামে পরিচিত, ক্যালিফোর্নিয়ার সান ফ্রান্সিসকোর বাসিন্দা ছিলেন, যিনি 1859 সালে নিজেকে \"প্রথম নর্টন, মার্কিন যুক্তরাষ্ট্রের সম্রাট\" বলে ঘোষণা করেছিলেন। 1863 সালে তৃতীয় নেপোলিয়ন মেক্সিকো আক্রমণ করার পর তিনি \"মেক্সিকোর রক্ষাকর্তা\" উপাধি গ্রহণ করেন।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "লিওনেল আন্দ্রেস মেসি (স্পেনীয় উচ্চারণঃ লিওনেল আন্দ্রেস মেসি; জন্ম 24শে জুন 1987), যিনি লিও মেসি নামেও পরিচিত, একজন আর্জেন্টিনীয় পেশাদার ফুটবল খেলোয়াড় যিনি লিগ 1 ক্লাব প্যারিস সেন্ট জার্মেইয়ের হয়ে একজন ফরোয়ার্ড হিসেবে খেলেন এবং আর্জেন্টিনা জাতীয় দলের অধিনায়ক। সর্বকালের অন্যতম সেরা খেলোয়াড় হিসাবে ব্যাপকভাবে বিবেচিত, মেসি রেকর্ড সাতটি ব্যালন ডি 'অর পুরস্কার এবং রেকর্ড ছয়টি ইউরোপীয় গোল্ডেন জুতা জিতেছেন এবং 2020 সালে তাকে ব্যালন ডি' অর ড্রিম দলে নাম দেওয়া হয়েছিল। 2021 সালে ক্লাব ছাড়ার আগে, তিনি তার পুরো পেশাদার জীবন বার্সেলোনার সাথে কাটিয়েছিলেন, যেখানে তিনি দশটি লা লিগা শিরোপা, সাতটি কোপা দেল রে শিরোপা এবং চারবার উয়েফা চ্যাম্পিয়ন্স লিগ সহ ক্লাব-রেকর্ড 34 টি ট্রফি জিতেছিলেন। তার দেশের সাথে, তিনি 2021 কোপা আমেরিকা এবং 2022 ফিফা বিশ্বকাপ জিতেছেন। লা লিগায় সর্বাধিক গোল (474), লা লিগা ও উয়েফা চ্যাম্পিয়ন্স লিগে সর্বাধিক হ্যাটট্রিক (36) এবং লা লিগা ও কোপা আমেরিকায় সর্বাধিক অ্যাসিস্ট করার রেকর্ড রয়েছে মেসির। দক্ষিণ আমেরিকার পুরুষদের মধ্যেও তাঁর সর্বাধিক আন্তর্জাতিক গোল রয়েছে (102)। মেসি ক্লাব এবং দেশের হয়ে 800টিরও বেশি সিনিয়র ক্যারিয়ার গোল করেছেন এবং একটি ক্লাবের হয়ে একজন খেলোয়াড়ের দ্বারা সর্বাধিক গোল করেছেন (672)।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "আপনি কি এই ব্যক্তির একটি সংক্ষিপ্ত পরিচয় দিতে পারেন?",
+        "answer": "অ্যালান ম্যাথিসন টুরিং ও. বি. ই. এফ. আর. এস (ইংরেজিঃ Alan Mathion Turing OBE FRS; 23শে জুন 1912-7ই জুন 1954) ছিলেন একজন ইংরেজ গণিতবিদ, কম্পিউটার বিজ্ঞানী, যুক্তিবিদ, ক্রিপ্ট্যানালিস্ট, দার্শনিক এবং তাত্ত্বিক জীববিজ্ঞানী। তাত্ত্বিক কম্পিউটার বিজ্ঞানের বিকাশে টুরিং অত্যন্ত প্রভাবশালী ছিলেন, যা টুরিং মেশিনের সাথে অ্যালগরিদম এবং গণনার ধারণাগুলির একটি আনুষ্ঠানিকতা প্রদান করে, যা একটি সাধারণ-উদ্দেশ্য কম্পিউটারের মডেল হিসাবে বিবেচিত হতে পারে। তাঁকে তাত্ত্বিক কম্পিউটার বিজ্ঞান এবং কৃত্রিম বুদ্ধিমত্তার জনক হিসাবে ব্যাপকভাবে বিবেচনা করা হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "নীচের গ্রাফটি দীর্ঘমেয়াদী আন্তর্জাতিক অভিবাসন, ইউকে, 1999-2008 দেখায়। \n \n প্রধান বৈশিষ্ট্যগুলি নির্বাচন ও প্রতিবেদন করে তথ্যের সারসংক্ষেপ তৈরি করুন এবং যেখানে প্রাসঙ্গিক সেখানে তুলনা করুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "চার্টটি 1999 থেকে 2008 সালের মধ্যে যুক্তরাজ্যের অভিবাসন, অভিবাসন এবং নিট অভিবাসন সম্পর্কে তথ্য দেয়। \n \n অভিবাসন এবং অভিবাসনের হার উভয়ই দেখানো সময়ের মধ্যে বেড়েছে, তবে অভিবাসনের পরিসংখ্যান উল্লেখযোগ্যভাবে বেশি ছিল। 2004 এবং 2007 সালে মোট অভিবাসন শীর্ষে ছিল। \n \n 1999 সালে, 450,000 এরও বেশি লোক যুক্তরাজ্যে বসবাস করতে এসেছিল, যেখানে অভিবাসীদের সংখ্যা ছিল মাত্র 300,000 এর নিচে। মোট অভিবাসনের সংখ্যা ছিল প্রায় 1,60,000, এবং 2003 সাল পর্যন্ত এটি একই স্তরে ছিল। 1999 থেকে 2004 সাল পর্যন্ত অভিবাসনের হার প্রায় 1,50,000 জন বৃদ্ধি পেলেও অভিবাসনের হার অনেক কম ছিল। 2004 সালে মোট অভিবাসন প্রায় 2,50,000 জনের শীর্ষে পৌঁছেছিল। \n \n 2004 সালের পর অভিবাসনের হার বেশি ছিল, কিন্তু অভিবাসনের সংখ্যা ওঠানামা করছিল। 2008 সালে প্রায় 4,20,000 মানুষের শীর্ষে পৌঁছনোর আগে 2007 সালে অভিবাসন হঠাৎ করে কমে যায়। ফলস্বরূপ, 2007 সালে মোট অভিবাসনের সংখ্যা বেড়ে দাঁড়ায় প্রায় 240,000-এ, কিন্তু 2008 সালে তা কমে দাঁড়ায় প্রায় 160,000-এ।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "নীচের গ্রাফ এবং টেবিলটি বিশ্বব্যাপী জলের ব্যবহার এবং দুটি ভিন্ন দেশে জলের ব্যবহার সম্পর্কে তথ্য দেয়। \n \n প্রধান বৈশিষ্ট্যগুলি নির্বাচন ও প্রতিবেদন করে তথ্যের সারসংক্ষেপ তৈরি করুন এবং যেখানে প্রাসঙ্গিক সেখানে তুলনা করুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "চার্টে বিশ্বজুড়ে কৃষি, শিল্প ও বাড়ির জন্য ব্যবহৃত জলের পরিমাণ এবং ব্রাজিল ও গণতান্ত্রিক কঙ্গো প্রজাতন্ত্রের জলের ব্যবহারের তুলনা করা হয়েছে। \n \n এটা স্পষ্ট যে 1900 থেকে 2000 সালের মধ্যে বিশ্বব্যাপী জলের চাহিদা উল্লেখযোগ্যভাবে বৃদ্ধি পেয়েছিল এবং ব্যবহৃত জলের বৃহত্তম অনুপাত ছিল কৃষিতে। আমরা এটাও দেখতে পাচ্ছি যে, কঙ্গোর তুলনায় ব্রাজিলে জলের ব্যবহার যথেষ্ট বেশি ছিল। \n \n 1900 সালে, বিশ্বব্যাপী কৃষি খাতে প্রায় 500 বর্গ কিলোমিটার জল ব্যবহার করা হত। শিল্প ও গার্হস্থ্য জল ব্যবহারের পরিসংখ্যান সেই পরিমাণের প্রায় এক পঞ্চমাংশ ছিল। 2000 সালের মধ্যে, কৃষির জন্য বিশ্বব্যাপী জলের ব্যবহার প্রায় 3000 বর্গ কিলোমিটার বৃদ্ধি পেয়েছিল, শিল্পের জলের ব্যবহার সেই পরিমাণের অর্ধেকেরও কম বৃদ্ধি পেয়েছিল এবং গার্হস্থ্য ব্যবহার প্রায় 500 বর্গ কিলোমিটার পৌঁছেছিল। \n \n 2000 সালে, ব্রাজিল এবং কঙ্গোর জনসংখ্যা ছিল যথাক্রমে 176 মিলিয়ন এবং 5.2 মিলিয়ন। ব্রাজিলে জনপ্রতি জল খরচ, 359 মি. 3, কঙ্গোর তুলনায় অনেক বেশি ছিল, মাত্র 8 মি. 3, এবং এটি এই সত্য দ্বারা ব্যাখ্যা করা যেতে পারে যে ব্রাজিলের 265 গুণ বেশি সেচযুক্ত জমি ছিল।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "নীচের চার্টগুলি 1970 থেকে 2000 সালের মধ্যে মার্কিন যুক্তরাষ্ট্রের বিবাহ এবং বিবাহবিচ্ছেদের হার এবং দুই বছরের মধ্যে প্রাপ্তবয়স্ক আমেরিকানদের বৈবাহিক অবস্থা সম্পর্কে তথ্য দেয়। \n \n প্রধান বৈশিষ্ট্যগুলি নির্বাচন ও প্রতিবেদন করে তথ্যের সারসংক্ষেপ তৈরি করুন এবং যেখানে প্রাসঙ্গিক সেখানে তুলনা করুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "প্রথম বার চার্ট মার্কিন যুক্তরাষ্ট্রে বিবাহ এবং বিবাহবিচ্ছেদের সংখ্যার পরিবর্তন দেখায় এবং দ্বিতীয় চার্টটি 1970 এবং 2000 সালে আমেরিকান প্রাপ্তবয়স্কদের বৈবাহিক অবস্থার পরিসংখ্যান দেখায়। \n \n এটা স্পষ্ট যে 1970 থেকে 2000 সালের মধ্যে মার্কিন যুক্তরাষ্ট্রে বিবাহের সংখ্যা হ্রাস পেয়েছিল। বেশিরভাগ প্রাপ্তবয়স্ক আমেরিকান উভয় বছরেই বিবাহিত ছিলেন, তবে 2000 সালে একক প্রাপ্তবয়স্কদের অনুপাত বেশি ছিল। \n \n 1970 সালে মার্কিন যুক্তরাষ্ট্রে 25 লক্ষ বিবাহ এবং 10 লক্ষ বিবাহবিচ্ছেদ হয়েছিল। 1980 সালে বিবাহের হার স্থিতিশীল ছিল, কিন্তু 2000 সালের মধ্যে তা 20 লক্ষে নেমে আসে। বিপরীতে, বিবাহবিচ্ছেদের হার 1980 সালে প্রায় 15 লক্ষ বিবাহবিচ্ছেদের শীর্ষে পৌঁছেছিল, সেই সময়ের শেষে \n 1 মিলিয়নে ফিরে আসার আগে। \n \n মার্কিন প্রাপ্তবয়স্কদের প্রায় 70 শতাংশ 1970 সালে বিবাহ বন্ধনে আবদ্ধ হয়েছিলেন, কিন্তু 2000 সালের মধ্যে এই সংখ্যা 60 শতাংশের নিচে নেমে আসে। একই সময়ে, অবিবাহিত এবং বিবাহবিচ্ছেদপ্রাপ্তদের অনুপাত মোট প্রায় 10 শতাংশ বৃদ্ধি পেয়েছে। 2000 সালে বিধবা আমেরিকানদের অনুপাত কিছুটা কম ছিল।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "নীচের চার্টটি চারটি ইউরোপীয় দেশে ছয়টি ভোগ্যপণ্যের জন্য ব্যয় করা পরিমাণ দেখায়। \n \n নীচে দেখানো তথ্য বর্ণনা করে বিশ্ববিদ্যালয়ের একজন প্রভাষকের জন্য একটি প্রতিবেদন লিখুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "বার চার্টটি জার্মানি, ইতালি, ফ্রান্স এবং ব্রিটেনের ছয়টি ভিন্ন পণ্যের ভোক্তা ব্যয়ের তুলনা করে। \n \n এটা স্পষ্ট যে ব্রিটিশ জনগণ ছয়টি পণ্যের জন্য অন্যান্য তিনটি দেশের মানুষের তুলনায় উল্লেখযোগ্যভাবে বেশি অর্থ ব্যয় করেছে। ছয়টি পণ্যের মধ্যে গ্রাহকরা ফটোগ্রাফিক ফিল্মে সবচেয়ে বেশি অর্থ ব্যয় করেছেন। \n \n ব্রিটেনের লোকেরা ফটোগ্রাফিক চলচ্চিত্রের জন্য মাত্র 170,000 পাউন্ড ব্যয় করেছে, যা চার্টে দেখানো সর্বোচ্চ সংখ্যা। বিপরীতে, জার্মানরা ছিল সর্বনিম্ন সামগ্রিক ব্যয়কারী, ছয়টি পণ্যের প্রত্যেকটির জন্য মোটামুটি একই পরিসংখ্যান (মাত্র 150,000 পাউন্ডের নিচে)। \n \n ফ্রান্স এবং ইতালি উভয় দেশেই খেলনার জন্য ব্যয়ের পরিসংখ্যান একই ছিল, প্রায় 160,000 পাউন্ড। যাইহোক, ফরাসী লোকেরা ফটোগ্রাফিক ফিল্ম এবং সিডিতে ইতালীয়দের চেয়ে বেশি ব্যয় করলেও, ইতালীয়রা ব্যক্তিগত স্টেরিও, টেনিস র্যাকেট এবং পারফিউমের জন্য বেশি অর্থ প্রদান করে। টেনিস র্যাকেটের জন্য ফরাসিদের দ্বারা ব্যয় করা পরিমাণ, প্রায় 1,45,000 পাউন্ড, চার্টে দেখানো সর্বনিম্ন সংখ্যা।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "নীচের সারণিতে ছয়টি শহরের ভূগর্ভস্থ রেল ব্যবস্থা সম্পর্কে তথ্য দেওয়া হয়েছে। \n \n প্রধান বৈশিষ্ট্যগুলি নির্বাচন ও প্রতিবেদন করে তথ্যের সারসংক্ষেপ তৈরি করুন এবং যেখানে প্রাসঙ্গিক সেখানে তুলনা করুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "টেবিলটি ছয়টি প্রধান শহরের ভূগর্ভস্থ রেল নেটওয়ার্ক সম্পর্কে তথ্য দেখায়। \n \n টেবিলটি ছয়টি নেটওয়ার্ককে তাদের বয়স, আকার এবং প্রতি বছর তাদের ব্যবহারকারী মানুষের সংখ্যার পরিপ্রেক্ষিতে তুলনা করে। এটা স্পষ্ট যে তিনটি প্রাচীনতম ভূগর্ভস্থ ব্যবস্থা বড় এবং নতুন ব্যবস্থার তুলনায় উল্লেখযোগ্যভাবে বেশি যাত্রী পরিবেশন করে। \n \n লন্ডনের ভূগর্ভস্থ হল প্রাচীনতম ব্যবস্থা, যা 1863 সালে খোলা হয়েছিল। এটি 394 কিলোমিটার পথ সহ বৃহত্তম ব্যবস্থা। প্যারিসের দ্বিতীয় বৃহত্তম ব্যবস্থাটি 199 কিলোমিটার পথ সহ লন্ডনের ভূগর্ভস্থ অংশের মাত্র অর্ধেক আকারের। তবে, এটি প্রতি বছর আরও বেশি লোককে পরিষেবা দেয়। আকারের দিক থেকে মাত্র তৃতীয় হলেও, প্রতি বছর 1927 মিলিয়ন যাত্রী নিয়ে টোকিও ব্যবস্থাটি সহজেই সবচেয়ে বেশি ব্যবহৃত হয়। \n \n তিনটি নতুন নেটওয়ার্কের মধ্যে, কিয়োটো এবং লস অ্যাঞ্জেলেস সিস্টেমের জন্য মাত্র 11 কিলোমিটার এবং 28 কিলোমিটারের তুলনায় 126 কিলোমিটার পথ সহ ওয়াশিংটন ডিসি ভূগর্ভস্থ সবচেয়ে বিস্তৃত। 2001 সালে খোলা লস অ্যাঞ্জেলেস নেটওয়ার্কটি সবচেয়ে নতুন, যেখানে কিয়োটো নেটওয়ার্কটি সবচেয়ে ছোট এবং প্রতি বছর মাত্র 45 মিলিয়ন যাত্রীকে পরিষেবা দেয়।",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "নীচের সারণিতে 2002 সালে পাঁচটি ভিন্ন দেশে বিভিন্ন পণ্যের জন্য ভোক্তাদের ব্যয় সম্পর্কিত তথ্য দেওয়া হয়েছে। \n \n প্রধান বৈশিষ্ট্যগুলি নির্বাচন ও প্রতিবেদন করে তথ্যের সারসংক্ষেপ তৈরি করুন এবং যেখানে প্রাসঙ্গিক সেখানে তুলনা করুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "টেবিলটি 2002 সালে পাঁচটি দেশে তিনটি বিভাগের পণ্য ও পরিষেবার জন্য ভোক্তা ব্যয়ের শতাংশ দেখায়। \n \n এটা স্পষ্ট যে প্রতিটি দেশে ভোক্তা ব্যয়ের বৃহত্তম অনুপাত খাদ্য, পানীয় এবং তামাকের জন্য ব্যয় করা হয়েছিল। অন্যদিকে, অবসর/শিক্ষা বিভাগে সবচেয়ে কম শতাংশ রয়েছে। \n \n পাঁচটি দেশের মধ্যে, খাদ্য, পানীয় এবং তামাকের জন্য ভোক্তা ব্যয় উল্লেখযোগ্যভাবে বেশি ছিল তুরস্কে, 32.14%, এবং আয়ারল্যান্ডে, প্রায় 29%। অবসর এবং শিক্ষায় ব্যয়ের অনুপাতও তুরস্কে সর্বোচ্চ ছিল, 4.35%, যেখানে পোশাক এবং জুতোর জন্য ব্যয় ইতালিতে উল্লেখযোগ্যভাবে বেশি ছিল, 9 শতাংশ, অন্য যে কোনও দেশের তুলনায়। \n \n এটা দেখা যায় যে সুইডেনে খাদ্য/পানীয়/তামাক এবং পোশাক/জুতোর জন্য জাতীয় ভোক্তা ব্যয়ের সর্বনিম্ন শতাংশ ছিল যথাক্রমে প্রায় 16 শতাংশ এবং মাত্র 5 শতাংশের বেশি। স্পেনে এই বিভাগগুলির জন্য সামান্য বেশি পরিসংখ্যান ছিল, তবে অবসর/শিক্ষার জন্য সর্বনিম্ন সংখ্যা ছিল শুধুমাত্র 1.98%।",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "নীচের পাই চার্টগুলি 1980 এবং 2000 সালে অস্ট্রেলিয়া এবং ফ্রান্সে জ্বালানি উৎস দ্বারা বিদ্যুৎ উৎপাদনের এককগুলি দেখায়। \n \n প্রধান বৈশিষ্ট্যগুলি নির্বাচন ও প্রতিবেদন করে তথ্যের সারসংক্ষেপ তৈরি করুন এবং যেখানে প্রাসঙ্গিক সেখানে তুলনা করুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "পাই চার্ট দুটি পৃথক বছরে দুটি দেশে জ্বালানির পাঁচটি ভিন্ন উৎস ব্যবহার করে উৎপাদিত বিদ্যুতের পরিমাণের তুলনা করে। \n \n অস্ট্রেলিয়া এবং ফ্রান্স উভয় দেশেই 1980 থেকে 2000 সাল পর্যন্ত মোট বিদ্যুৎ উৎপাদন নাটকীয়ভাবে বৃদ্ধি পেয়েছে। যদিও উভয় দেশের মোট পরিমাণ একই ছিল, তবে ব্যবহৃত জ্বালানির উৎসের মধ্যে বড় পার্থক্য ছিল। \n \n 1980 সালে অস্ট্রেলিয়ায় মোট 100 ইউনিট বিদ্যুতের মধ্যে 50 টি বিদ্যুৎ উৎপাদনে কয়লা ব্যবহার করা হয়েছিল, যা 2000 সালে 170 ইউনিটের মধ্যে 130-এ উন্নীত হয়েছিল। এর বিপরীতে, 2000 সালে পারমাণবিক শক্তি ফ্রান্সের সবচেয়ে গুরুত্বপূর্ণ জ্বালানির উৎস হয়ে ওঠে, যা দেশের বিদ্যুতের প্রায় 75 শতাংশ উৎপাদন করে। \n \n অস্ট্রেলিয়া উভয় বছরেই তার বিদ্যুতের মাত্র 25 শতাংশের জন্য জলবিদ্যুৎ শক্তির উপর নির্ভরশীল ছিল, কিন্তু ফ্রান্সে এই ধরনের বিদ্যুৎ ব্যবহার করে উৎপাদিত বিদ্যুতের পরিমাণ 5 থেকে কমে মাত্র 2 ইউনিটে দাঁড়িয়েছে। অন্যদিকে, ফ্রান্সে তেল তুলনামূলকভাবে গুরুত্বপূর্ণ জ্বালানির উৎস হিসাবে রয়ে গেছে, তবে অস্ট্রেলিয়ায় এর ব্যবহার হ্রাস পেয়েছে। উভয় দেশই বিদ্যুৎ উৎপাদনের জন্য 2000 সালের তুলনায় 1980 সালে উল্লেখযোগ্যভাবে বেশি প্রাকৃতিক গ্যাসের উপর নির্ভর করেছিল।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "চার্লিউড লন্ডনের নিকটবর্তী একটি গ্রাম যার জনসংখ্যা ঊনবিংশ শতাব্দীর মাঝামাঝি থেকে অবিচ্ছিন্নভাবে বৃদ্ধি পেয়েছে। নীচের মানচিত্রে গ্রামের উন্নয়ন দেখানো হয়েছে। \n \n গ্রামের উন্নয়ন বর্ণনা করে বিশ্ববিদ্যালয়ের একজন প্রভাষকের জন্য একটি প্রতিবেদন লিখুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "এই মানচিত্রে 1868 থেকে 1994 সালের মধ্যে চার্লিউড নামে একটি গ্রামের বৃদ্ধি দেখানো হয়েছে। \n \n এটা স্পষ্ট যে পরিবহন পরিকাঠামো উন্নত হওয়ার সাথে সাথে গ্রামটি বৃদ্ধি পেয়েছিল। মানচিত্রে উন্নয়নের চারটি পর্যায় দেখানো হয়েছে এবং প্রতিটি জনবহুল এলাকা প্রধান সড়ক, রেলপথ বা মোটরওয়ের কাছাকাছি। \n \n 1868 থেকে 1883 সাল পর্যন্ত, চার্লিউড একটি প্রধান সড়কের পাশে একটি ছোট এলাকা জুড়ে ছিল। চার্লিউড পার্ক এবং গল্ফ কোর্স এখন এই মূল গ্রাম এলাকার পাশে অবস্থিত। 1883 থেকে 1922 সালের মধ্যে গ্রামটি দক্ষিণের প্রধান সড়ক বরাবর বৃদ্ধি পেয়েছিল এবং 1909 সালে পশ্চিম থেকে পূর্ব দিকে এই অঞ্চলটি অতিক্রম করে একটি রেললাইন নির্মিত হয়েছিল। চার্লিউড স্টেশনটি গ্রামের এই অংশে অবস্থিত। \n \n 1970 সাল পর্যন্ত রেলপথের পাশাপাশি পূর্ব ও পশ্চিমে চার্লিউডের সম্প্রসারণ অব্যাহত ছিল। সেই সময়ে, গ্রামের পূর্বে একটি মোটরওয়ে নির্মিত হয়েছিল এবং 1970 থেকে 1994 সাল পর্যন্ত, রেলপথ এবং অন্যতম প্রধান সড়কের সাথে মোটরওয়ে ছেদগুলির চারপাশে গ্রামের আরও উন্নয়ন ঘটেছিল।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "নীচের মানচিত্রটি গার্লসডন শহরের। শহরের জন্য একটি নতুন সুপারমার্কেট (এস) পরিকল্পনা করা হয়েছে। মানচিত্রে সুপারমার্কেটের জন্য দুটি সম্ভাব্য স্থান দেখানো হয়েছে। \n \n প্রধান বৈশিষ্ট্যগুলি নির্বাচন ও প্রতিবেদন করে তথ্যের সারসংক্ষেপ তৈরি করুন এবং যেখানে প্রাসঙ্গিক সেখানে তুলনা করুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "মানচিত্রটি গার্লসডন নামে একটি শহরে একটি নতুন সুপারমার্কেটের জন্য দুটি সম্ভাব্য অবস্থান (এস1 এবং এস2) দেখায়। \n \n দুটি স্থানের মধ্যে প্রধান পার্থক্য হল যে এস1 শহরের বাইরে, যেখানে এস2 শহরের কেন্দ্রে অবস্থিত। সড়ক বা রেলপথে প্রবেশের ক্ষেত্রে এবং তিনটি ছোট শহরের তুলনায় তাদের অবস্থানের ক্ষেত্রেও এই স্থানগুলির তুলনা করা যেতে পারে। \n \n আরও বিস্তারিত তথ্যের দিকে তাকালে, এস1 গার্লসডনের উত্তর-পশ্চিমে গ্রামাঞ্চলে অবস্থিত, তবে এটি শহরের আবাসিক এলাকার কাছাকাছি। এস2 আবাসন এলাকারও কাছাকাছি, যা শহরের কেন্দ্রকে ঘিরে রেখেছে। \n \n হিন্ডন, ব্র্যানসডন এবং ক্র্যানসডন থেকে গার্লসডন টাউন সেন্টার পর্যন্ত প্রধান সড়ক রয়েছে, তবে এটি একটি নো ট্র্যাফিক জোন, তাই গাড়িতে এস2-এ কোনও প্রবেশাধিকার থাকবে না। বিপরীতে, এস1 হিন্ডনের প্রধান রাস্তায় অবস্থিত, তবে ব্র্যানসডন এবং ক্র্যানসডন থেকে পৌঁছানো আরও কঠিন হবে। উভয় সুপারমার্কেটই হিন্ডন থেকে ক্র্যানসডন পর্যন্ত গার্লসডনের মধ্য দিয়ে যাওয়া রেলপথের কাছাকাছি।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "নীচের চিত্রটি দেখায় যে কীভাবে অস্ট্রেলিয়ান আবহাওয়া ব্যুরো নির্ভরযোগ্য পূর্বাভাস তৈরি করার জন্য আবহাওয়ার উপর আপ-টু-মিনিট তথ্য সংগ্রহ করে। \n \n নীচে দেখানো তথ্য বর্ণনা করে বিশ্ববিদ্যালয়ের একজন প্রভাষকের জন্য একটি প্রতিবেদন লিখুন। \n \n আপনার কমপক্ষে 150 শব্দ লেখা উচিত।",
+        "answer": "এই চিত্রটি আবহাওয়ার পূর্বাভাস দেওয়ার জন্য অস্ট্রেলিয়ান আবহাওয়া ব্যুরো দ্বারা ব্যবহৃত প্রক্রিয়াটিকে চিত্রিত করে। \n \n এই প্রক্রিয়ার চারটি পর্যায় রয়েছে, যা আবহাওয়া সম্পর্কে তথ্য সংগ্রহের মাধ্যমে শুরু হয়। এই তথ্য তারপর বিশ্লেষণ করা হয়, উপস্থাপনার জন্য প্রস্তুত করা হয় এবং অবশেষে জনসাধারণের কাছে সম্প্রচার করা হয়। \n \n প্রক্রিয়াটির প্রথম এবং দ্বিতীয় পর্যায়ের দিকে তাকালে, আবহাওয়ার তথ্য সংগ্রহের তিনটি উপায় এবং এটি বিশ্লেষণের তিনটি উপায় রয়েছে। প্রথমত, আগত তথ্য উপগ্রহের মাধ্যমে গ্রহণ করা যেতে পারে এবং উপগ্রহের ছবি হিসাবে বিশ্লেষণের জন্য উপস্থাপন করা যেতে পারে। একই তথ্য একটি রাডার স্টেশনে প্রেরণ করা যেতে পারে এবং একটি রাডার স্ক্রিন বা সিনপটিক চার্টে উপস্থাপন করা যেতে পারে। দ্বিতীয়ত, আগত তথ্য সরাসরি রাডার দ্বারা সংগ্রহ করা যেতে পারে এবং রাডার স্ক্রিন বা সিনপটিক চার্টে বিশ্লেষণ করা যেতে পারে। পরিশেষে, প্রবাহিত বয়গুলিও তথ্য গ্রহণ করে যা একটি সিনপটিক চার্টে দেখানো যেতে পারে। \n \n প্রক্রিয়াটির তৃতীয় পর্যায়ে, আবহাওয়ার সম্প্রচার কম্পিউটারে প্রস্তুত করা হয়। অবশেষে, এটি টেলিভিশনে, রেডিওতে বা রেকর্ড করা টেলিফোন ঘোষণা হিসাবে জনসাধারণের কাছে পৌঁছে দেওয়া হয়।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

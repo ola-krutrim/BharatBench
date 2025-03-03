@@ -1,0 +1,60 @@
+{"image": "001.jpg", "text": "ছবির এই বিখ্যাত দৃশ্যটির নাম কী?", "category": "conv", "question_id": 0}
+{"image": "001.jpg", "text": "এই ছবিটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 1}
+{"image": "001.jpg", "text": "এই দৃষ্টিশক্তির গঠনের সম্ভাব্য কারণগুলি কী কী?", "category": "complex", "question_id": 2}
+{"image": "001.jpg", "text": "এই জায়গায় সাম্প্রতিক ভ্রমণ সম্পর্কে একটি আকর্ষণীয় ভ্রমণ ব্লগ পোস্ট লিখুন, যা ছবিতে দেখা আকর্ষণ এবং অন্যান্য অবশ্যই দেখার আকর্ষণগুলি সহ সাংস্কৃতিক অভিজ্ঞতা এবং অবশ্যই দেখার আকর্ষণগুলি তুলে ধরে।", "category": "complex", "question_id": 3}
+{"image": "002.jpg", "text": "এটা কি ধরনের ফল?", "category": "conv", "question_id": 4}
+{"image": "002.jpg", "text": "ছবিতে কতগুলি কাটা ফল রয়েছে?", "category": "conv", "question_id": 5}
+{"image": "002.jpg", "text": "এই ছবিটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 6}
+{"image": "002.jpg", "text": "ছবিতে ফলের সুগন্ধটি কল্পনা করুন। এমন কাউকে আপনি কীভাবে এটি বর্ণনা করবেন যিনি আগে কখনও এই ফলটি খাননি?", "category": "complex", "question_id": 7}
+{"image": "003.jpg", "text": "এই ছবিটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 8}
+{"image": "003.jpg", "text": "এই চিত্রকর্মের উদ্দেশ্য কী হতে পারে?", "category": "complex", "question_id": 9}
+{"image": "003.jpg", "text": "একটি ধ্রুপদী শিল্পকর্মের উপর এই সৃজনশীল মোড়টি কীভাবে বিভিন্ন দর্শকদের দ্বারা ভিন্নভাবে ব্যাখ্যা করা যেতে পারে তা আলোচনা করুন।", "category": "complex", "question_id": 10}
+{"image": "004.jpg", "text": "ছবির লোকটির নাম কী?", "category": "conv", "question_id": 11}
+{"image": "004.jpg", "text": "কোন আইকনিক চলচ্চিত্রের দৃশ্যটি মিমে প্যারোডি করা হচ্ছে?", "category": "conv", "question_id": 12}
+{"image": "004.jpg", "text": "এই মিমটি কীভাবে ইলন মাস্কের জনসাধারণের ভাবমূর্তি, ব্যক্তিত্ব বা ক্রিয়াকলাপকে প্রতিফলিত করে বা মন্তব্য করে?", "category": "complex", "question_id": 13}
+{"image": "005.jpg", "text": "দয়া করে মিমটি বিস্তারিতভাবে ব্যাখ্যা করুন।", "category": "detail", "question_id": 14}
+{"image": "005.jpg", "text": "এই মিমটি যে একই অনুভূতি প্রকাশ করছে তা অন্য কোন উপায়ে কেউ প্রকাশ করতে পারে?", "category": "complex", "question_id": 15}
+{"image": "006.jpg", "text": "আপনি কি জানেন কে এটি আঁকেন?", "category": "conv", "question_id": 16}
+{"image": "006.jpg", "text": "এই চিত্রকর্মটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 17}
+{"image": "006.jpg", "text": "শিল্প জগতে এই চিত্রকলার ঐতিহাসিক প্রভাব এবং তাৎপর্য নিয়ে আলোচনা করুন।", "category": "complex", "question_id": 18}
+{"image": "007.jpg", "text": "এই ছবিটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 19}
+{"image": "007.jpg", "text": "এই জায়গাটি দেখার জন্য আবহাওয়া, মরসুম, দিনের সেরা সময় কোনটি? এই ছবি তোলার সময়টি কি এই জায়গাটি দেখার জন্য ভাল সময়?", "category": "complex", "question_id": 20}
+{"image": "008.jpg", "text": "ছবির চরিত্রটির নাম কী?", "category": "conv", "question_id": 21}
+{"image": "008.jpg", "text": "এই চরিত্রটির ব্যক্তিত্ব কী? চরিত্রটির নকশার কোন উপাদান বা দিকগুলি এর জনপ্রিয়তায় অবদান রাখতে পারে তা ব্যাখ্যা করুন।", "category": "complex", "question_id": 22}
+{"image": "009.jpg", "text": "এখানে আসার সময় আমার কী কী বিষয়ে সতর্ক থাকা উচিত?", "category": "complex", "question_id": 23}
+{"image": "009.jpg", "text": "আপনি যদি একজন ফটোগ্রাফার হতেন যিনি এই জায়গার সারমর্ম তুলে ধরতে চাইতেন, তাহলে দিনের কোন সময় এবং আবহাওয়ার পরিস্থিতি আপনি বেছে নিতেন? আপনার পছন্দের পিছনে কারণগুলি বর্ণনা করুন।", "category": "complex", "question_id": 24}
+{"image": "010.jpg", "text": "এই ছবিটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 25}
+{"image": "010.jpg", "text": "এই ছবিতে অস্বাভাবিক কী?", "category": "complex", "question_id": 26}
+{"image": "011.jpg", "text": "ফ্রিজের বাম অংশে কোন ফল থাকে?", "category": "conv", "question_id": 27}
+{"image": "011.jpg", "text": "ব্লুবেরি দিয়ে স্বাদযুক্ত দইয়ের ব্র্যান্ড কী?", "category": "conv", "question_id": 28}
+{"image": "011.jpg", "text": "ফ্রিজে স্ট্রবেরির স্বাদযুক্ত কোনও দই আছে কি?", "category": "conv", "question_id": 29}
+{"image": "011.jpg", "text": "এই ছবিটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 30}
+{"image": "011.jpg", "text": "এগুলি দিয়ে আমি কী কী খাবার রান্না করতে পারি?", "category": "complex", "question_id": 31}
+{"image": "012.jpg", "text": "সেটটিতে কতগুলি কফি মগ রয়েছে?", "category": "conv", "question_id": 32}
+{"image": "012.jpg", "text": "এর জন্য একটি আকর্ষণীয় পণ্যের বিবরণ লিখুন।", "category": "complex", "question_id": 33}
+{"image": "013.jpg", "text": "এই খাবারের বিস্তারিত রেসিপি দেখান।", "category": "complex", "question_id": 34}
+{"image": "014.jpg", "text": "আপনি কি এই মিমটি বিস্তারিতভাবে ব্যাখ্যা করতে পারেন?", "category": "complex", "question_id": 35}
+{"image": "015.jpg", "text": "মিমে উল্লিখিত দুটি মেশিন লার্নিং ধারণা কী কী?", "category": "conv", "question_id": 36}
+{"image": "015.jpg", "text": "এই মিমের বিস্তারিত বিবরণ দিন।", "category": "detail", "question_id": 37}
+{"image": "015.jpg", "text": "আপনি কি ব্যাখ্যা করতে পারেন কেন এটি মজার। ধাপে ধাপে এটি সম্পর্কে চিন্তা করুন।", "category": "complex", "question_id": 38}
+{"image": "016.jpg", "text": "এই ছবির বিস্তারিত বিবরণ দিন। প্রতিটি প্যানেলে এটি বর্ণনা করুন।", "category": "detail", "question_id": 39}
+{"image": "016.jpg", "text": "এই ছবিতে মজার কী আছে? প্রতিটি প্যানেলে এটি বর্ণনা করুন।", "category": "complex", "question_id": 40}
+{"image": "017.jpg", "text": "কোন উপাদানটি প্রাণীটিকে তৈরি করে বলে মনে হয়?", "category": "conv", "question_id": 41}
+{"image": "017.jpg", "text": "এটি এল. এল. এ. এম. এ স্থাপত্যের উপর ভিত্তি করে এল. এল. এ. ভি. এ, লার্জ ল্যাঙ্গুয়েজ এবং ভিশন অ্যাসিস্ট্যান্টের লোগো। দয়া করে এই লোগোটি বিস্তারিতভাবে ব্যাখ্যা করুন এবং এর নকশা সম্পর্কে আপনি কী ভাবেন।", "category": "complex", "question_id": 42}
+{"image": "018.jpg", "text": "চিত্রকলার প্রাণীগুলি কী এবং তারা কী করছে?", "category": "conv", "question_id": 43}
+{"image": "018.jpg", "text": "এই চিত্রকর্মের উপর ভিত্তি করে একটি রূপকথার গল্প লিখুন।", "category": "complex", "question_id": 44}
+{"image": "019.jpg", "text": "এই রেখাচিত্রটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 45}
+{"image": "019.jpg", "text": "এই নকলকে একটি রঙিন ওয়েবসাইটে পরিণত করার জন্য সংক্ষিপ্ত এইচটিএমএল/জেএস লিখুন, যেখানে কৌতুকগুলি দুটি আসল রসিকতা দ্বারা প্রতিস্থাপিত হয়।", "category": "complex", "question_id": 46}
+{"image": "020.jpg", "text": "এই রেখাচিত্রটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 47}
+{"image": "020.jpg", "text": "এই নকলটিকে একটি রঙিন এবং ইন্টারেক্টিভ ওয়েবসাইটে পরিণত করতে সংক্ষিপ্ত এইচটিএমএল/জেএস লিখুন, যেখানে রসিকতাটিকে একটি আসল রসিকতা দ্বারা প্রতিস্থাপিত করা হয়।", "category": "complex", "question_id": 48}
+{"image": "021.jpg", "text": "এই ছবির শেষটা কী?", "category": "conv", "question_id": 49}
+{"image": "021.jpg", "text": "চলচ্চিত্রের প্রেক্ষাপটে এই দৃশ্যের তাৎপর্য কী?", "category": "complex", "question_id": 50}
+{"image": "022.jpg", "text": "এই খাবারগুলি পরিবেশন করা রেস্তোরাঁর নাম কী?", "category": "conv", "question_id": 51}
+{"image": "022.jpg", "text": "এই ছবিটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 52}
+{"image": "022.jpg", "text": "যদি কেউ এই খাবারে একটি নতুন স্বাদ বা টপিং সুপারিশ করেন, তবে এই পরিবর্তনের কারণ এবং এটি কীভাবে সামগ্রিক স্বাদে পরিবর্তন আনতে পারে তা বর্ণনা করুন।", "category": "complex", "question_id": 53}
+{"image": "023.jpg", "text": "এই বিজ্ঞাপনে কোন ব্র্যান্ডটি প্রদর্শিত হয়েছে?", "category": "conv", "question_id": 54}
+{"image": "023.jpg", "text": "এই ছবিটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 55}
+{"image": "023.jpg", "text": "বাড়িতে এটি রান্না করার জন্য আমাকে একটি বিস্তারিত রেসিপি দেখান।", "category": "complex", "question_id": 56}
+{"image": "024.jpg", "text": "এই ছবিটি বিস্তারিতভাবে বর্ণনা করুন।", "category": "detail", "question_id": 57}
+{"image": "024.jpg", "text": "এই শহরটি কী সমস্যার সম্মুখীন হতে পারে? কিছু সম্ভাব্য সমাধান কী?", "category": "complex", "question_id": 58}
+{"image": "024.jpg", "text": "বর্তমান ট্রাফিক পরিস্থিতি নির্দেশ করে এমন সমস্ত ইঙ্গিত ব্যাখ্যা করুন।", "category": "complex", "question_id": 59}

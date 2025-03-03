@@ -1,0 +1,19 @@
+=================================
+Processing: review_Telugu
+all 9.5 94.5 9.0
+llava_bench_complex 9.7 91.8 8.9
+llava_bench_conv 9.9 94.7 9.4
+llava_bench_detail 8.7 99.3 8.7
+=================================
+Processing: review_Telugu
+all 9.5 94.5 9.0
+llava_bench_complex 9.7 91.8 8.9
+llava_bench_conv 9.9 94.7 9.4
+llava_bench_detail 8.7 99.3 8.7
+=================================
+Processing: review_Telugu
+all 9.5 94.5 9.0
+llava_bench_complex 9.7 91.8 8.9
+llava_bench_conv 9.9 94.7 9.4
+llava_bench_detail 8.7 99.3 8.7
+=================================

@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "சமன்பாட்டில் x என்றால் என்ன?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "கடைசி சமன்பாட்டில் d என்றால் என்ன?",
+        "answer": "1. 25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "சமன்பாட்டில் x என்றால் என்ன?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "கீழ் இடது சமன்பாட்டிற்கான பதில் என்ன?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "வலதுபுறத்தில் உள்ள இரண்டாவது சமன்பாட்டிற்கான பதில் என்ன?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "வலதுபுறத்தில் உள்ள இரண்டாவது கடைசி சமன்பாட்டிற்கான பதில் என்ன?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "கடைசி சமன்பாட்டில் y என்றால் என்ன?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"எக்ஸ்\" ஆபரேட்டர் எவ்வாறு மறுவரையறை செய்யப்படுகிறது என்பதற்கான வடிவத்தைக் கண்டறிந்து, படத்தில் கொடுக்கப்பட்டுள்ள சமன்பாட்டிற்கு பதிலளிக்கவும்.",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "வலதுபுறத்தில் உள்ள பெண் பலகையில் என்ன எழுதுவார்?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "50 டாலருடன் எத்தனை கேலன் உச்ச எரிபொருளை நான் பெற முடியும்?",
+        "answer": "13. 6 <அல்லது> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "டீசலுக்கும் வழக்கமான பெட்ரோலுக்கும் உள்ள விலை வேறுபாடு என்ன?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "படத்தில் காட்டப்பட்டுள்ள ஒரு பாட்டில் மெர்லோட் மற்றும் ஒரு பாட்டில் கேபர்நெட் ஆகியவற்றின் மொத்த விலை என்ன?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "மோயட் ஷாம்பெயின் மூன்று பாட்டில்களின் விலை என்ன?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "எனக்கு ஒரு ஃபுங்கி பீட்சா மற்றும் ஒரு ப்ரோசியூட்டோ பீட்சா கிடைக்கிறது. நான் மொத்தம் எவ்வளவு செலுத்த வேண்டும்?",
+        "answer": "14. 8 <அல்லது> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "எனக்கு இரண்டு மார்கரிட்டா பீட்சா மற்றும் ஒரு கால்ஸோன் கிடைக்கிறது. நான் மொத்தம் எவ்வளவு செலுத்த வேண்டும்?",
+        "answer": "25. 8 <அல்லது> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "தள்ளுபடிக்கு முன் பன்றி வயிற்றின் அசல் விலை என்ன?",
+        "answer": "14.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "பெட்ரோல் விலை என்ன?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "முன் இடதுபுறத்தில் உள்ள நபர் அணிந்திருக்கும் தொப்பியின் நிறம் என்ன?",
+        "answer": "நீலம்",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "ஷாம்பூவின் வலதுபுறத்தில் என்ன அமைந்துள்ளது?",
+        "answer": "கண்டிஷனர்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "சரியான பாட்டிலில் என்ன இருக்கிறது?",
+        "answer": "மவுஸ்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "ஃப்ரிஸ்பீக்கும் மனிதனுக்கும் இடையிலான இடஞ்சார்ந்த உறவு என்ன?",
+        "answer": "மனிதனுக்கு மேலே <OR> மேல் இடது",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "பார்க்கிங் ஸ்பாட் 33 இல் எந்த கார் உள்ளது?",
+        "answer": "இல்லை <அல்லது> காலியாக இல்லை",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "சிவப்பு கார் பார்க்கிங் எந்த இடத்தில் உள்ளது?",
+        "answer": "31.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "வெங்காயத்தின் விலை என்ன?",
+        "answer": "எட்டு <அல்லது> 8.0",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "பிளம்ஸின் உரிமை என்ன?",
+        "answer": "ஆரஞ்சு",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "படத்தின் அடிப்படையில், டினா ஃபேயின் மொத்த சர்வதேச விழிப்புணர்வு என்ன?",
+        "answer": "35 சதவீதம்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "படத்தின் அடிப்படையில், டினா ஃபே எந்த நாட்டில் மிக உயர்ந்த அளவிலான மொத்த விழிப்புணர்வைக் கொண்டுள்ளார்?",
+        "answer": "ஆஸ்திரேலியா",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "எண் 2 பூமியின் உட்புற அமைப்பு என்ன என்பதைக் குறிக்கிறது?",
+        "answer": "மேன்டில்",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "மஞ்சள் நிற சூட் அணிந்த மோட்டார் சைக்கிள் ஓட்டுநர் சவாரி செய்யும் மோட்டார் சைக்கிளில் காட்டப்படும் எண் என்ன?",
+        "answer": "16.",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "வலதுபுறத்தில் மோட்டார் சைக்கிளில் காட்டப்பட்டுள்ள எண் என்ன?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "இந்த இரண்டு விமானங்களில் எது பெரியது?",
+        "answer": "அதே",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "அந்த நபர் காரை விட பெரியவரா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "மாவை துண்டுகளாகப் பிரிப்பதற்கு முன்பு நான் என்ன செய்ய வேண்டும்?",
+        "answer": "சூடான இடம் <AND> 1 மணி நேரம்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "முட்டையையும் பாலையும் கலக்கும்போது நான் சர்க்கரை சேர்க்க வேண்டுமா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "மூலிகைகள், தொத்திறைச்சி மற்றும் காளான்களை வெட்டுவதற்கு முன்பு நான் என்ன செய்ய வேண்டும்?",
+        "answer": "வாணலியை சற்று சாய்க்கவும்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "நாம் அனைத்து நோக்க மாவு சேர்க்க வேண்டும் போது படி குறியீடு என்ன?",
+        "answer": "மூன்றாவது <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "மூன்றாவது கட்டத்தில் நாம் என்ன சேர்க்க வேண்டும்?",
+        "answer": "பால்",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "விரல்களைத் துடைத்த பிறகு குழந்தைகள் என்ன செய்ய வேண்டும்?",
+        "answer": "ஒரு காலில் குதிக்கவும்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "நான்காவது கட்டத்தில் என்ன வரையப்பட வேண்டும்?",
+        "answer": "மூக்கு",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "டயர் பஞ்சரைப் பரப்ப புரோப்பைப் பயன்படுத்திய பிறகு என்ன படி?",
+        "answer": "பழுதுபார்ப்பதை அகற்றவும்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "பரிந்துரைக்கப்பட்ட இரண்டாவது படி என்ன?",
+        "answer": "உங்கள் பார்வையாளர்களை அடையாளம் காணவும்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "படத்தில் கொடுக்கப்பட்டுள்ள கடைசி உத்தி என்ன?",
+        "answer": "ஒரு பாடலை உருவாக்குங்கள்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "ஃபோர்டு எஃப்150 தவிர மற்ற கார்களின் சராசரி மொத்த எரிபொருள் செலவு என்ன?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "மிக அதிக எரிபொருள் செலவு என்ன?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "பிளாஸ்டிக் மறுசுழற்சியில் எந்த வகை மிக மோசமான வேலையைச் செய்தது, தயாரிக்கப்பட்ட மற்றும் வெளியேற்றப்பட்ட பிளாஸ்டிக்கின் அளவைக் கருத்தில் கொண்டு?",
+        "answer": "பேக்கேஜிங்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "உற்பத்தி செய்யப்படும் பிளாஸ்டிக்கின் அளவிற்கும் தூக்கி எறியப்படும் அளவிற்கும் உள்ள மெட்ரிக் டன் வித்தியாசம் என்ன?",
+        "answer": "105",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "2023 ஆம் ஆண்டிற்கான மதிப்பிடப்பட்ட சராசரி நிலையான கட்டணம் என்ன?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "2023 ஆம் ஆண்டிற்கான மதிப்பிடப்பட்ட மொத்த செலவு என்ன?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "வாழ்க்கை அறை ஜன்னல் எந்த திசையில் உள்ளது?",
+        "answer": "வடக்கு",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "இந்த தரைத்தளத்தில் சமையலறையில் உள்ள உபகரணங்கள் யாவை?",
+        "answer": "அடுப்பு <AND> பாத்திரங்கழுவி",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "எந்த அறை பெரியது, இரட்டை கேரேஜ் அல்லது வாழ்க்கை அறை?",
+        "answer": "இரட்டை கேரேஜ்",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "எந்த அறை பெரியது, மாஸ்டர் படுக்கையறை அல்லது உள் முற்றம்?",
+        "answer": "மாஸ்டர் படுக்கையறை",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "விளக்கு பொருத்தப்பட்டு விளக்கு எரிந்துவிட்டால் என்ன தீர்வு?",
+        "answer": "ப்ளப்பை மாற்றவும்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "ஃப்ளோசார்ட்டில் எந்த படி வைர வடிவத்துடன் வரையப்படுகிறது?",
+        "answer": "தண்ணீர் கொதிக்க வைக்கிறதா?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "படுக்கையை விட்டு எழுவதற்கு சராசரி காத்திருப்பு நேரம் என்ன?",
+        "answer": "15 நிமிடம்",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "சராசரி வீட்டு விலையின் மிக உயர்ந்த வளர்ச்சி விகிதம் எந்த ஆண்டில் உள்ளது?",
+        "answer": "2008 ஆம் ஆண்டு",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012இல் ஜப்பானின் ஜிடிபி என்ன?",
+        "answer": "6, 233.15 பில்லியன் அமெரிக்க டாலர்கள்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "எந்த ஆண்டுகளில் படகோட்டுதல் மற்றும் தடகளத்தில் ஒரே எண்ணிக்கையிலான தங்கப் பதக்கங்கள் இருந்தன?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "அதிக சம்பளம் பெறும் நபர் எந்தத் துறையைச் சேர்ந்தவர்?",
+        "answer": "நிர்வாகம்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "அட்டவணையின் அடிப்படையில், வில்கின்ஸ் எவ்வளவு சம்பாதிக்கிறார்?",
+        "answer": "2500 <அல்லது> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "எந்த நாடு சராசரிக்கும் குறைவான லாப வரம்பைக் கொண்டுள்ளது?",
+        "answer": "இந்தியா",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "எந்த நாடு அதிக லாப வரம்பைக் கொண்டுள்ளது?",
+        "answer": "ஆஸ்திரேலியா",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "எந்த மாதத்தில் அதிக வருமானம் ஈட்டப்படுகிறது?",
+        "answer": "பிப்ரவரி",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "மொத்த வருமானத்தில் சம்பளம் எவ்வளவு சதவீதம் பங்களிக்கிறது?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "இடது புறத்தில் இருப்பவர் யார்?",
+        "answer": "கெய்ரா நைட்லி",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "படத்தில் உள்ள நபர் யார்?",
+        "answer": "மைக்கேல் யோஹ்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "கீழ் வலதுபுறத்தில் உள்ள நபர் யார்?",
+        "answer": "ஜேமி டோர்னன்",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "இனிப்பு இல்லாதது எது?",
+        "answer": "ஓட்ஸ்",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "இந்த ஆப்பிள் ஆர்கானிக்?",
+        "answer": "ஆம்",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "முழு பையிலும் உள்ள கலோரிகள் என்ன?",
+        "answer": "275",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "இந்த உணவின் பெயர் என்ன?",
+        "answer": "மேப்போ டோஃபு",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "இந்த உணவின் பெயர் என்ன?",
+        "answer": "கேப்ரெஸ் சாலட்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "இந்த உணவின் பெயர் என்ன?",
+        "answer": "பாட் தாய்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "இடதுபுறத்தில் உள்ள காரின் வடிவம் என்ன?",
+        "answer": "வோல்க்ஸ்வேகன்",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "இந்த தொழிற்சாலை என்ன செய்கிறது?",
+        "answer": "கேமரா",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "காரில் உள்ள பச்சை லோகோ என்ன?",
+        "answer": "அசுரன்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "இந்த மைல்கல்லின் பெயர் என்ன?",
+        "answer": "ட்ரெவி நீரூற்று",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "இந்த மைல்கல்லின் பெயர் என்ன?",
+        "answer": "அன்பாரியா மசூதி",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "இந்த மைல்கல்லின் பெயர் என்ன?",
+        "answer": "பாவோச்சு பகோடா",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "இந்த பணத்தாளின் முக மதிப்பு என்ன?",
+        "answer": "ஐந்து <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "இது என்ன பணத்தாள்?",
+        "answer": "பத்து பவுண்ட் <அல்லது> 10 பவுண்ட் <அல்லது> பிரிட்டிஷ் பவுண்ட்",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "இந்த பணத்தாள் எந்த வகையான நாணயத்தைக் குறிக்கிறது?",
+        "answer": "ஸ்வீடன் <OR> குரோனர்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "எந்த மார்பு எக்ஸ்ரே நோயைக் கண்டறியலாம்? (விருப்பங்களில் பின்வருவன அடங்கும்ஃ அட்டெலெக்டாஸிஸ்; கார்டியோமெகாலி; எஃப்யூஷன்; ஊடுருவல்; மாஸ்; நோடுல்; நிமோனியா; நிமோத்தோராக்ஸ்; ஒருங்கிணைப்பு; எடிமா; எம்பிஸிமா; ஃபைப்ரோஸிஸ்; பிளூரல் தடிமன்; ஹெர்னியா.)",
+        "answer": "இருதயநோய்",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "எந்த மார்பு எக்ஸ்ரே நோயைக் கண்டறியலாம்? (விருப்பங்களில் பின்வருவன அடங்கும்ஃ அட்டெலெக்டாஸிஸ்; கார்டியோமெகாலி; எஃப்யூஷன்; ஊடுருவல்; மாஸ்; நோடுல்; நிமோனியா; நிமோத்தோராக்ஸ்; ஒருங்கிணைப்பு; எடிமா; எம்பிஸிமா; ஃபைப்ரோஸிஸ்; பிளூரல் தடிமன்; ஹெர்னியா.)",
+        "answer": "ஹெர்னியா",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "எந்த மார்பு எக்ஸ்ரே நோயைக் கண்டறியலாம்? (விருப்பங்களில் பின்வருவன அடங்கும்ஃ அட்டெலெக்டாஸிஸ்; கார்டியோமெகாலி; எஃப்யூஷன்; ஊடுருவல்; மாஸ்; நோடுல்; நிமோனியா; நிமோத்தோராக்ஸ்; ஒருங்கிணைப்பு; எடிமா; எம்பிஸிமா; ஃபைப்ரோஸிஸ்; பிளூரல் தடிமன்; ஹெர்னியா.)",
+        "answer": "ஊடுருவல்",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "எத்தனை பறவைகள் உள்ளன?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "எத்தனை தக்காளி இருக்கிறது?",
+        "answer": "5.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "எத்தனை புத்தகங்கள் உள்ளன?",
+        "answer": "63",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "படத்தில் உள்ள அனைத்து காட்சி உரைகளும் என்ன?",
+        "answer": "S3302CD",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "படத்தில் உள்ள அனைத்து காட்சி உரைகளும் என்ன?",
+        "answer": "லட்சுமி ஜுவல்லர்ஸ்",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "படத்தில் உள்ள அனைத்து காட்சி உரைகளும் என்ன?",
+        "answer": "நீங்களே ஒரு மகிழ்ச்சியான சிறிய கிறிஸ்துமஸ் வேண்டும்",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "படத்தில் உள்ள அனைத்து காட்சி உரைகளும் என்ன?",
+        "answer": "5: 30 PM <AND> 88 சதவீதம் <AND> மரியோ கார்ட் 8 டீலக்ஸ் <AND> மரியோ கார்ட் 8 டீலக்ஸ் <AND> சூப்பர் மரியோ ஆடிஸ்ஸி <AND> ஜெல்டாவின் லெஜெண்ட் <AND> பிரீத் ஆஃப் வில்ட் <AND> விருப்பங்கள் <AND> ஸ்டார்ட்",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "படத்தில் உள்ள அனைத்து காட்சி உரைகளும் என்ன?",
+        "answer": "திரு. வில்லியம் ஷேக்ஸ்பியர்ஸ் <மற்றும்> நகைச்சுவைகள், வரலாறுகள் & புதைகுழிகள். <மற்றும்> உண்மையான அசல் பிரதிகளின் படி வெளியிடப்பட்டது.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "படத்தில் உள்ள அனைத்து காட்சி உரைகளும் என்ன?",
+        "answer": "1642 ஆம் ஆண்டின் கனெக்டிகட் சட்டம் எந்தவொரு ஆணும் பெண்ணும் ஒரு சூனியக்காரியாக இருந்தால்-அதாவது, பழக்கமான ஆவியுடன் ஆலோசனை செய்தால்-அவர்கள் கொல்லப்படுவார்கள்.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "இந்த சாதனத்தின் பிராண்ட் என்ன?",
+        "answer": "மோட்டோரோலா",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "உரிமத் தகடு எண் என்றால் என்ன?",
+        "answer": "AED-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "படத்தில் உள்ள அனைத்து பிரெஞ்சு காட்சி உரைகளும் என்ன?",
+        "answer": "பிரான்சின் வரலாறு <மற்றும்> டி லா பிரிஹிஸ்டோர் அன்ஸ் ஜர்ஸ் <மற்றும்> குயில் ஹிஸ்டோர்",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "படத்தில் உள்ள அனைத்து சீன காட்சி உரைகளும் என்ன?",
+        "answer": "<AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "எந்த கண்டம் சிறப்பித்துக் காட்டப்படுகிறது?",
+        "answer": "ஆசியா",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "இந்த உணவு வலையில் உற்பத்தியாளர்கள் யார்?",
+        "answer": "பைட்டோபிளாங்க்டன் <AND> கடற்பாசி",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "ஒவ்வொரு மாதிரியிலும் உள்ள துகள்களின் சராசரி இயக்க ஆற்றல்களை ஒப்பிடுக. கீழே உள்ள வரைபடங்கள் ஒரே மாதிரியான மூடிய, கடினமான கொள்கலன்களில் இரண்டு தூய வாயு மாதிரிகளைக் காட்டுகின்றன. ஒவ்வொரு வண்ண பந்து ஒரு வாயு துகள் குறிக்கிறது. இரண்டு மாதிரிகளும் ஒரே எண்ணிக்கையிலான துகள்களைக் கொண்டுள்ளன. எந்த மாதிரியில் அதிக வெப்பநிலை உள்ளது? மாதிரி ஏ அல்லது மாதிரி பி?",
+        "answer": "மாதிரி ஏ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "இந்த சிறப்பிக்கப்பட்ட நகரங்களில் எது வடக்கே மிகத் தொலைவில் உள்ளது?",
+        "answer": "சிகாகோ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "இந்த புகைப்படம் எங்கே எடுக்கப்பட்டது?",
+        "answer": "துருக்கி <OR> சிரியா",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "இந்த புகைப்படம் எங்கே எடுக்கப்பட்டது?",
+        "answer": "ஆஸ்கர் <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "இந்த புகைப்படம் எங்கே எடுக்கப்பட்டது?",
+        "answer": "கத்தார்",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "இந்த புகைப்படம் எந்த நாட்டில் எடுக்கப்பட்டது?",
+        "answer": "ஆஸ்திரேலியா",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "மரங்கள் ஒட்டகச்சிவிங்கிகளை விட உயரமானவையா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "இந்த விமானம் புறப்படுகிறதா அல்லது தரையிறங்குகிறதா?",
+        "answer": "தூக்கி எறிதல்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "எத்தனை பேர் கீழே அமர்ந்திருக்கிறார்கள்?",
+        "answer": "ஒன்று.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "குப்பைகள் காலியாக உள்ளதா அல்லது நிரம்பியுள்ளனவா?",
+        "answer": "காலியாக உள்ளது",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "ஒட்டகச்சிவிங்கி ஆபத்தானதாகத் தெரிகிறதா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "தண்ணீரில் வரிக்குதிரை ஏதேனும் பிரதிபலிக்கிறதா?",
+        "answer": "ஆம்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "அந்த மனிதர் மகிழ்ச்சியாக இருக்கிறாரா?",
+        "answer": "ஆம்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "எல்லா பூனைகளும் ஒரே நிறத்தில் உள்ளனவா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "பின்னணியில் அந்த மது இருக்கிறதா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "அந்த மனிதர் கீழே விழுவாரா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "எந்த இடத்தில் படம் எடுக்கப்பட்டுள்ளது?",
+        "answer": "கடற்கரை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "அது வெளியில் உள்ளதா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "வானிலை எப்படி இருக்கிறது?",
+        "answer": "தெளிவான <அல்லது> வெயில்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "உலோகத்தால் செய்யப்பட்ட வேலியின் நிறம் என்ன?",
+        "answer": "பச்சை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "மனிதனின் இடதுபுறத்தில் உள்ள நபர் அமர்ந்திருப்பது போல் தெரிகிறதா?",
+        "answer": "ஆம்",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "மேசையின் தட்டு அழுக்காகவும் வெள்ளியாகவும் இருக்கிறதா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "திரைச்சீலை படத்தின் வலது பக்கத்தில் உள்ளதா அல்லது இடதுபுறத்தில் உள்ளதா?",
+        "answer": "இடதுபுறம்",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "இந்த புகைப்படத்தில் கணினி உள்ளதா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "அரிசியின் இடதுபுறத்தில் உள்ள பாத்திரத்தின் கீழ் நாப்கின்கள் உள்ளதா?",
+        "answer": "ஆம்",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "பருப்பு வகைகள் அல்லது காய்கறிகள் உள்ளனவா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "இந்த படத்தில் தட்டுகள் மற்றும் முட்கரண்டி இரண்டும் உள்ளதா?",
+        "answer": "ஆம்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "இந்தப் பறவையின் பெயர் என்ன?",
+        "answer": "கிளி <OR> கூம்பு",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "படத்தில் உள்ள எந்த விலங்கு பெரியது, பூனை அல்லது நாய்?",
+        "answer": "பூனை",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "வலது மேசையில், மடிக்கணினியின் இடதுபுறத்தில் என்ன இருக்கிறது?",
+        "answer": "மேஜை விளக்கு <அல்லது> மேசை விளக்கு",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "மனிதன் குதிரை சவாரி செய்கிறானா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "சர்ஃபர் சர்ஃப்போர்டின் இடது அல்லது வலதுபுறத்தில் உள்ளதா?",
+        "answer": "இடதுபுறம்",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "விளக்கு, ஒரு பக்க மேஜை அல்லது ஒரு நைட்ஸ்டாண்ட் என்ன?",
+        "answer": "பக்க மேஜை",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "ஸ்டம்ப் மற்றும் வேலி இரண்டிற்கும் பொதுவானது என்ன?",
+        "answer": "பொருள்.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "கரண்டி சாப்ஸ்டிக்குகள் போன்ற அதே பொருளால் செய்யப்பட்டதா?",
+        "answer": "ஆம்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "சட்டைக்கு காத்தாடியை விட வித்தியாசமான நிறம் இருக்கிறதா?",
+        "answer": "ஆம்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "இவர்கள் அனைவரும் ஒரே பாலினத்தைச் சேர்ந்தவர்களா?",
+        "answer": "இல்லை",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "இந்த இரண்டு விலங்குகளும் வெவ்வேறு இனங்களைச் சேர்ந்தவையா?",
+        "answer": "ஆம்",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "மக்கள் எங்கே? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "அவர்கள் ஒரு கல்லூரி வகுப்பறையில் உள்ளனர். அவர் கல்லூரி வயதுடைய இளம் பெண்ணாகத் தோன்றுவதால், அவர்கள் மேசைகள் மற்றும் நாற்காலிகளால் சூழப்பட்டிருப்பதால் நான் அவ்வாறு நினைக்கிறேன்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "மக்கள் ஏன் கருப்பு ஆடைகளை அணிந்துகொள்கிறார்கள்? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "அவர்கள் ஒரு இறுதிச் சடங்கிற்குச் செல்கிறார்கள். ஒரு இறுதிச் சடங்கிற்கு மக்கள் கருப்பு நிற ஆடைகளை அணிவது பாரம்பரியமானது என்பதால் நான் அவ்வாறு நினைக்கிறேன்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "பெண் ஏன் ஆடையை அணிந்திருக்கிறாள்? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "படுக்கைக்குத் தயாராகிக் கொண்டிருக்கிறாள். அறை ஒரு படுக்கையறை போல் தோன்றுவதாலும், பெண் தனது படுக்கையின் பொதுவான திசையில் செல்வதாலும் நான் அவ்வாறு நினைக்கிறேன்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "இது எங்கே நடக்கிறது? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "இது ஒரு ஆடம்பரமான உணவகத்தில் நடக்கிறது. நான் அவ்வாறு நினைக்கிறேன், ஏனென்றால் அந்த மனிதர் ஃபேன்சிலி உடையணிந்துள்ளார் மற்றும் பின்னணி ஆடம்பரமானது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "காட்சியில் கோடை காலம் இருக்கிறதா? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "இல்லை, அது வீழ்ச்சியடைந்ததாகத் தெரிகிறது. பின்னணியில் பூசணிக்காய்கள் இருப்பதால் அவை பொதுவாக வீழ்ச்சியுடன் தொடர்புடையவை என்பதால் நான் அவ்வாறு நினைக்கிறேன்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "சிவப்பு நிற உடையில் இருக்கும் பெண், அந்த ஆணைப் பார்த்து கோபப்படுவாரா? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "ஆமாம், சிவப்பு நிறத்தில் உள்ள பெண்ணும் ஆணும் ஒரு ஜோடியாகத் தோன்றுகிறார்கள், சிவப்பு நிறத்தில் உள்ள பெண் மற்ற women.I ஐப் பார்க்கும் ஆணைப் பாராட்ட மாட்டார், ஏனெனில் ஒரு ஒற்றைத் திருமண உறவில், கூட்டாளர்கள் ஒருவருக்கொருவர் விசுவாசமாக இருக்க வேண்டும் என்று எதிர்பார்க்கப்படுகிறது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "அந்தப் பெண்ணின் இரண்டு கைகளும் ஏன் காற்றில் உள்ளன? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "அவள் ஒரு கூடைப்பந்தாட்டத்தை மட்டுமே சுட்டாள். அவரது கைகள் ஒரு கூடைப்பந்து ஷாட்டுக்கு கோணமாக இருப்பதால் அவர்கள் ஒரு கூடைப்பந்து அரங்கில் இருப்பதால் நான் அவ்வாறு நினைக்கிறேன்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "அந்தப் பையன் எந்த வகையான பள்ளிக்குச் செல்கிறான்? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "சிறுவன் ஒரு தனியார் பள்ளிக்குச் செல்கிறான், ஒரு பொதுப் பள்ளிக்கு அல்ல. சிறுவன் அனைவரும் ஒரு சூட் அணிந்திருப்பதால், பொதுப் பள்ளிகளுக்கு அது தேவையில்லை, ஆனால் சில தனியார் பள்ளிகள் அவ்வாறு செய்கின்றன.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "இந்த வீட்டில் மக்கள் வசிக்கிறார்களா? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "இல்லை, அவர்கள் செய்யவில்லை. அவர்கள் அனைவரும் ஓவியங்களையும் அலங்காரங்களையும் சுற்றிப் பார்ப்பதால் நான் அவ்வாறு நினைக்கிறேன், அவற்றைப் பார்க்கப் பழகிவிட்டால் ஒருவர் அதைச் செய்ய மாட்டார்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "வெள்ளை நிற உடையில் உள்ள ஆணும் பெண்ணும் ஏன் ஒருவருக்கொருவர் மிகவும் நெருக்கமாக உள்ளனர்? அதற்கு பதிலளித்து காரணத்தைக் கூறுங்கள்.",
+        "answer": "அவர்கள் இப்போதுதான் திருமணம் செய்து கொண்டனர். அவர்கள் திருமண உடையில் இருப்பதால், எல்லோரும் அவர்களைப் பார்க்கிறார்கள் என்று நான் நினைக்கிறேன்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "இந்த நினைவுக் குறிப்பை உங்களால் விளக்க முடியுமா?",
+        "answer": "இந்த நினைவுக் குறிப்பு ஒரு நகைச்சுவையான ஒத்திவைப்பு மற்றும் ஒரு குறிப்பிட்ட நேரம் வரை பணிகளை தாமதப்படுத்தும் போக்கு. நினைவுக் குறிப்பில் உள்ள நபர் 8 மணிக்கு ஏதாவது செய்யத் திட்டமிட்டுள்ளார், ஆனால் அவர்கள் அந்த காலக்கெடுவை சில நிமிடங்களில் தவறவிட்டால், அதற்கு பதிலாக 9 மணி வரை காத்திருக்க முடிவு செய்கிறார்கள். படுக்கையில் படுத்திருக்கும் கெர்மிட் தவளை உருவம் அந்த நபரின் சோம்பல் மற்றும் பணியை முடிக்க உந்துதல் இல்லாததைக் குறிக்கிறது.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "இந்த நினைவுக் குறிப்பை உங்களால் விளக்க முடியுமா?",
+        "answer": "இந்த நினைவுக் குறிப்பு கோவிட்-19 தொற்றுநோய் காரணமாக ஆன்லைன் கற்றலின் தற்போதைய நிலைமை குறித்த வர்ணனை ஆகும். வெவ்வேறு தரப்பினர் இதனால் எவ்வாறு பாதிக்கப்படுகிறார்கள் என்பதை இது காட்டுகிறது. \\n\\n முதல் இரண்டு படங்கள் ஜூம் நிறுவனமும் ஆசிரியர்களும் காற்றில் பணத்தை வீசுவதைக் காட்டுகின்றன, இது அவர்கள் சூழ்நிலையிலிருந்து லாபம் ஈட்டுவதாகக் குறிக்கிறது. ஜூம், குறிப்பாக, தொற்றுநோய் காரணமாக பயன்பாடு மற்றும் வருவாயில் ஒரு எழுச்சியைக் கண்டுள்ளது. \\n\\n மூன்றாவது படம் வைஃபை நிறுவனமும் காற்றில் பணத்தை வீசுவதைக் காட்டுகிறது, இது ஆன்லைன் கற்றலுக்காக அதிகமான மக்கள் இணையத்தைப் பயன்படுத்துவதால் அவர்களும் இந்த சூழ்நிலையிலிருந்து லாபம் ஈட்டுகிறார்கள் என்பதைக் குறிக்கிறது. \\n\\n கடைசி படம் சோகமான கோமாளி முகத்துடன் ஒரு மாணவரைக் காட்டுகிறது, இது மாணவர்கள் சூழ்நிலையிலிருந்து பயனடையவில்லை மற்றும் ஆன்லைன் கற்றலில் சிரமப்படுகிறார்கள் என்பதைக் குறிக்கிறது. பின்னணியில் உள்ள \"மகிழ்ச்சியான முகத்தை அணியுங்கள்\" என்ற அடையாளம் மாணவர்கள் தங்கள் போராட்டங்கள் இருந்தபோதிலும் தைரியமான முகத்தை அணிந்துகொள்கிறார்கள் என்ற கருத்தை மேலும் வலியுறுத்துகிறது.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "இந்த நினைவுக் குறிப்பை உங்களால் விளக்க முடியுமா?",
+        "answer": "ஐஸ்லாந்து மற்றும் கிரீன்லாந்து நாடுகளின் பெயர்கள் தவறாக வழிநடத்தப்படுகின்றன என்ற உண்மையை இந்த மீம் கேலி செய்கிறது. அதன் பெயர் இருந்தபோதிலும், ஐஸ்லாந்து அதன் அழகான பச்சை நிலப்பரப்புகளுக்கு பெயர் பெற்றது, அதே நேரத்தில் கிரீன்லாந்து பெரும்பாலும் பனி மற்றும் பனியால் மூடப்பட்டுள்ளது. இந்த நாடுகளின் பெயர்கள் அவற்றின் நிலப்பரப்புகளை துல்லியமாக பிரதிநிதித்துவப்படுத்தாததால் அந்த நபருக்கு நம்பிக்கை பிரச்சினைகள் இருப்பதாக மீம் கூறுகிறது.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "இந்த நினைவுக் குறிப்பை உங்களால் விளக்க முடியுமா?",
+        "answer": "ஒரு தேர்வின் போது ஒரு மாணவரின் கையெழுத்து எவ்வாறு மோசமடைகிறது என்பதை இந்த மீம் கேலி செய்கிறது. முதல் இரண்டு பக்கங்கள் நேர்த்தியான மற்றும் தெளிவான கையெழுத்தைக் காட்டுகின்றன, நடுத்தரப் பக்கம் சற்று குழப்பமான கையெழுத்தைக் காட்டுகிறது, கடைசி இரண்டு பக்கங்கள் முற்றிலும் சட்டவிரோதமான எழுத்துக்களைக் காட்டுகின்றன. தேர்வு முன்னேறும்போது மாணவர் சோர்வாகவோ அல்லது அவசரமாகவோ இருப்பது இதற்கு காரணமாக இருக்கலாம்.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "இந்த நினைவுக் குறிப்பை உங்களால் விளக்க முடியுமா?",
+        "answer": "இந்த மீம் என்பது புதிய கல்லூரி மாணவர்கள் (புதியவர்கள்) பெரும்பாலும் குறிப்புகளை எடுக்கவும், வகுப்பில் தங்களால் முடிந்த அனைத்தையும் கற்றுக்கொள்ளவும் ஆர்வமாக இருப்பதைப் பற்றிய ஒரு நகைச்சுவையாகும். இந்த படம் ஸ்பான்ஜ் பாப் ஸ்கொயர் பேண்ட்ஸ் என்ற கார்ட்டூனில் இருந்து எடுக்கப்பட்டது, அங்கு ஸ்பான்ஜ் பாப் மற்றும் பேட்ரிக் வெறித்தனமாக குறிப்புகளை எழுதுகிறார்கள். பேராசிரியரின் வாழ்த்துச் செய்தியை கூட அவர்கள் எழுதுகிறார்கள் என்பதை அறிய புதியவர்கள் மிகவும் ஆர்வமாக உள்ளனர் என்பதை தலைப்பு குறிக்கிறது.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "இந்த படத்தில் வேடிக்கையாக என்ன இருக்கிறது?",
+        "answer": "காண்டாமிருக கொம்பு அதன் கண்களுக்கு முன்னால் வளர்வதால் ஒவ்வொரு படமும் அதன் காண்டாமிருக கொம்பைக் கொண்டிருப்பதால் இது ஒரு காண்டாமிருகத்தின் கார்ட்டூன் ஆகும். தலைப்பு \"நீங்கள் எப்படி இருக்கிறீர்களோ அப்படியே உலகைப் பார்க்கிறீர்கள்!\" நமது முன்னோக்கு உலகத்தைப் பற்றிய நமது கருத்தை எவ்வாறு வடிவமைக்கிறது என்பதற்கான ஒரு விளையாட்டுத்தனமான வர்ணனை.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "இந்த படத்தில் வேடிக்கையாக என்ன இருக்கிறது?",
+        "answer": "இந்தப் படத்தைப் பற்றி மக்கள் வேடிக்கையாகக் கருதக்கூடிய சில விஷயங்கள் உள்ளனஃ \\n\\n1. இரண்டு படங்களுக்கும் இடையிலான வேறுபாடுஃ இடதுபுறத்தில், மிகவும் உணர்ச்சிவசப்பட்ட மற்றும் கோபமாக இருக்கும் இரண்டு பெண்களைக் காண்கிறோம், அதே நேரத்தில் வலதுபுறத்தில், ஒரு பூனை அமைதியாக இரவு உணவு மேஜையில் அமர்ந்திருப்பதைக் காண்கிறோம். \\n\\n2. பூனையின் நிலைமையின் அபத்தமானதுஃ ஒரு பூனை ஒரு இரவு உணவு மேஜையில் அதன் முன் ஒரு தட்டு உணவுடன் அமர்ந்திருப்பதைப் பார்ப்பது பொதுவானதல்ல, எனவே இந்த படம் எதிர்பாராதது மற்றும் அபத்தமானது. \\n\\n3. பூனையின் வெளிப்பாடுஃ பெண்களின் கூக்குரலால் பூனை பயப்படுவதாகத் தெரிகிறது, இது படத்தின் நகைச்சுவையை அதிகரிக்கிறது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "எந்த சந்தர்ப்பங்களில் யாராவது இந்த மீம்ஸைப் பயன்படுத்துவார்கள்?",
+        "answer": "தூங்கும் மனிதருடன் மீம் மற்றும் சீனத் தலைப்பு \"சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம் சீக்கிரம்\" (தூங்கும் நேரத்தைத் தவிர, நான் தூங்க விரும்பவில்லை. ஆனால் மற்ற நேரங்களில், நான் தூங்க விரும்புகிறேன்) தூக்கத்தை உணரும் அல்லது முரண்பட்ட ஆசைகளைக் கொண்டிருப்பதன் கருப்பொருள் பொருத்தமான பல்வேறு சந்தர்ப்பங்களில் பயன்படுத்தப்படலாம். இந்த மீம் பொருத்தமாக இருக்கக்கூடிய சில காட்சிகள் இங்கேஃ \n \n தொடர்புடைய தூக்கம்ஃ பகலில் சோர்வாக அல்லது தூக்கத்தில் இருப்பதாக தொடர்புடைய உணர்வை வெளிப்படுத்தும் போது மீம் சமூக ஊடகங்களில் அல்லது உரையாடல்களில் பகிரப்படலாம். அந்த தொடர்புபடுத்தக்கூடிய அனுபவத்தை வெளிப்படுத்துவதற்கும், தொடர்புபடுத்தக்கூடிய மற்றவர்களிடமிருந்து நகைச்சுவையான பதிலை உருவாக்குவதற்கும் இது ஒரு லேசான இதயப்பூர்வமான வழியாக செயல்பட முடியும். \n \n வேலை அல்லது படிப்பு தொடர்பான நகைச்சுவைஃ கவனம் மற்றும் கவனம் தேவைப்படும் பணிகளின் போது தூங்குவதற்கான விருப்பத்தை அல்லது தூக்கமின்மையை நகைச்சுவையாக வெளிப்படுத்த இந்த மீம்ஸை வேலை அல்லது படிப்பு தொடர்பான சூழல்களில் பயன்படுத்தலாம். மனநிலையை மென்மையாக்கவும், விழிப்புடனும் விழிப்புடனும் இருப்பதன் சவால்களைப் பற்றிய பகிரப்பட்ட புரிதலை உருவாக்கவும் சக ஊழியர்கள் அல்லது வகுப்பு தோழர்களிடையே இதைப் பகிர்ந்து கொள்ளலாம். \n \n தள்ளிப்போடுதல் நகைச்சுவைஃ உற்பத்தி நடவடிக்கைகளில் ஈடுபடுவதற்குப் பதிலாக தூங்க அல்லது ஓய்வெடுக்க விரும்புவதற்கு இடையிலான உள் போராட்டத்தை சித்தரிக்க மீம்ஸைப் பயன்படுத்தலாம். பொறுப்புகளைத் தவிர்ப்பதற்கும் ஓய்வில் ஈடுபடுவதற்கும் தொடர்ச்சியான ஆசை குறித்து ஒத்திவைப்பு அல்லது நகைச்சுவையான சுய பிரதிபலிப்புகளைப் பற்றி விவாதிக்கும்போது இதைப் பகிர்ந்து கொள்ளலாம். \n \n நகைச்சுவை முரண்பாடுஃ தூக்க நேரத்திற்கும் மற்ற நேரங்களில் தூங்க விரும்புவதற்கும் இடையிலான மீமின் முரண்பாடு பல்வேறு சூழல்களில் நகைச்சுவை முரண்பாட்டின் ஒரு வடிவமாக பயன்படுத்தப்படலாம். நமது ஆசைகள் அல்லது நடத்தைகள் எதிர்பார்க்கப்பட்ட அல்லது பொருத்தமானவற்றுக்கு முரணாக இருக்கும் சூழ்நிலைகளைப் பற்றி விவாதிக்கும்போது அதைப் பகிர்ந்து கொள்ளலாம், இது உரையாடலுக்கு ஒரு நகைச்சுவையான திருப்பத்தை சேர்க்கிறது. \n \n இறுதியில், மீம் வெவ்வேறு சூழ்நிலைகளில் பயன்படுத்தப்படலாம், அங்கு அதன் கருப்பொருள் தூக்கம், முரண்பட்ட ஆசைகள் அல்லது முரண்பாடான சூழ்நிலைகள் விவாதிக்கப்படும் தலைப்பு அல்லது உணர்வுடன் ஒத்துப்போகின்றன, இது உரையாடல் அல்லது ஆன்லைன் தொடர்புக்கு நகைச்சுவை மற்றும் தொடர்புத்திறனை சேர்க்கிறது.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "எந்த சந்தர்ப்பங்களில் யாராவது இந்த மீம்ஸைப் பயன்படுத்துவார்கள்?",
+        "answer": "பொதுவாக \"ஸ்க்ரீமிங் பாண்டா\" என்று அழைக்கப்படும் இந்த மீம், பொதுவாக அதிர்ச்சி, ஆச்சரியம் அல்லது பயத்தை வெளிப்படுத்த பயன்படுத்தப்படுகிறது. இது ஒரு அதிர்ச்சியூட்டும் அல்லது எதிர்பாராத நிகழ்வுக்கு பதிலளிக்கும் வகையில் அல்லது பீதி அல்லது எச்சரிக்கை உணர்வை வெளிப்படுத்த பயன்படுத்தப்படலாம். யாராவது இந்த மீம்ஸைப் பயன்படுத்தக்கூடிய சில சாத்தியமான சந்தர்ப்பங்களில் பின்வருவன அடங்கும்ஃ ஒரு திகில் திரைப்படத்தில் குதிக்கும் பயத்திற்கு எதிர்வினையாற்றுதல்-ஒரு தொலைக்காட்சி நிகழ்ச்சி அல்லது புத்தகத்தில் ஒரு ஆச்சரியமான சதி திருப்பத்திற்கு பதிலளித்தல்-ஒரு செய்தி தலைப்பு அல்லது தற்போதைய நிகழ்வில் அதிர்ச்சியை வெளிப்படுத்துதல்-வரவிருக்கும் காலக்கெடுவைப் பற்றி பயம் அல்லது கவலையை வெளிப்படுத்துதல் அல்லது தேர்வு-ஒரு விளையாட்டு விளையாட்டு அல்லது பிற போட்டியில் எதிர்பாராத முடிவைக் கண்டு ஆச்சரியத்தைக் காண்பிப்பது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "எந்த சந்தர்ப்பங்களில் யாராவது இந்த மீம்ஸைப் பயன்படுத்துவார்கள்?",
+        "answer": "\"அழும் பூனை\" மீம் சீன தலைப்புடன் \"அம்மா!\" இது பொதுவாக துயரம், உதவியற்ற தன்மை அல்லது ஆறுதல் உணர்வை வெளிப்படுத்த பயன்படுத்தப்படுகிறது. யாராவது இந்த நினைவுக் குறிப்பைப் பயன்படுத்தக்கூடிய சில சந்தர்ப்பங்கள் இங்கேஃ \n \n பாதிப்பை வெளிப்படுத்துதல்ஃ ஒரு பாதிப்பின் தருணத்தை வெளிப்படுத்த அல்லது அதிகமாக உணரும்போது நினைவுக் குறிப்பைப் பயன்படுத்தலாம். ஒருவரின் தாயை அழைக்கும் யோசனையை நகைச்சுவையாகத் தூண்டுவதன் மூலம் மற்றவர்களிடமிருந்து ஆதரவு அல்லது பச்சாதாபம் கோரும் உணர்வை இது வெளிப்படுத்தலாம். \n \n ஆறுதல் அல்லது அனுதாபத்தைத் தேடுதல்ஃ நண்பர்கள் அல்லது ஆன்லைன் சமூகங்களிடமிருந்து அனுதாபம் அல்லது ஆதரவைத் தூண்டுவதற்காக இந்த மீம்ஸைப் பகிரலாம். தொடர்புபடுத்தக்கூடிய மற்றும் அடையாளம் காணக்கூடிய மீம் வடிவமைப்பைப் பயன்படுத்துவதன் மூலம், இது சோகம், ஏமாற்றம் அல்லது உணர்ச்சி ஆதரவு தேவைப்படும் உணர்வுகளை திறம்பட தொடர்பு கொள்ளலாம். \n \n சுய-இழிவுபடுத்தும் நகைச்சுவைஃ தனிப்பட்ட சூழ்நிலைகள் அல்லது சிறிய விபத்துக்களை வெளிச்சம் போட்டுக் காட்ட சுய-இழிவுபடுத்தும் முறையிலும் மீம்ஸைப் பயன்படுத்தலாம். இது தனிநபர்கள் தங்கள் சொந்த \"உதவியற்ற\" தருணங்களை நகைச்சுவையாக முன்னிலைப்படுத்த அனுமதிக்கிறது, அதே நேரத்தில் ஆறுதல் அல்லது உறுதியளிப்பை வழங்க மற்றவர்களை அழைக்கிறது. \n \n விளையாட்டுத்தனமான உணர்ச்சி மிகைப்படுத்தல்ஃ மீமின் வியத்தகு மற்றும் மிகைப்படுத்தப்பட்ட வெளிப்பாட்டை ஒரு சூழ்நிலை அல்லது நிகழ்வை வலியுறுத்த ஒரு விளையாட்டுத்தனமான முறையில் பயன்படுத்தலாம், இது துன்பகரமானதாக இல்லை, ஆனால் கவனம் அல்லது கவனிப்பு தேவைப்படலாம். சிறிய அசௌகரியங்கள் அல்லது நகைச்சுவையான மிகைப்படுத்தல்களை வெளிப்படுத்தும் போது இது ஒரு நகைச்சுவையான தொடுதலைச் சேர்க்கலாம். \n \n மீம் பயன்பாடு மற்றும் விளக்கம் மாறுபடும் என்பதைக் குறிப்பிடுவது முக்கியம், மேலும் தனிநபர்கள் அதை வெவ்வேறு சூழல்களுக்கு ஏற்ப மாற்றியமைக்க ஆக்கபூர்வமான வழிகளைக் காணலாம். மேலே பரிந்துரைக்கப்பட்ட சந்தர்ப்பங்கள் இந்த மீம் அதன் பொதுவான கருப்பொருள்கள் மற்றும் உணர்ச்சி தொனியின் அடிப்படையில் எப்போது பயன்படுத்தப்படலாம் என்பதற்கான பொதுவான புரிதலை வழங்குகின்றன.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "இந்த உணவை எப்படி சமைப்பது?",
+        "answer": "இந்த உணவு \"ஹங்கேரிய காளான் சூப்\" என்று அழைக்கப்படுகிறது. இந்த ஹங்கேரிய காளான் சூப் நிறைய சுவையைக் கொண்டுள்ளது மற்றும் மிகவும் விரைவாக தயாரிக்கப்படுகிறது. இது முதன்மையாக ஒரு காளான் சூப், ஆனால் அதன் சுவையை மற்ற பொருட்களிலிருந்து பெறுகிறது. என் குடும்பத்திற்கு சூப் பிடிக்கும், இது அவர்களுக்கு மிகவும் பிடித்த ஒன்றாகும். \n \n \n தயாரிக்கும் நேரம்ஃ \n 15 நிமிடங்கள் \n சமைக்கும் நேரம்ஃ \n 35 நிமிடங்கள் \n மொத்த நேரம்ஃ \n 50 நிமிடங்கள் \n \n பொருட்கள்ஃ \n 6 \n \n 4 தேக்கரண்டி உப்பு சேர்க்காத வெண்ணெய் \n \n 2 கப் நறுக்கப்பட்ட வெங்காயங்கள் \n \n 1 பவுண்டு புதிய காளான்கள், வெட்டப்பட்ட \n \n 2 கப் கோழி குழம்பு \n \n 1 தேக்கரண்டி சோயா சாஸ் \n \n \n 1 தேக்கரண்டி மிளகுத்தூள் \n \n \n 2 தேக்கரண்டி உலர்ந்த வெந்தயம் \n \n வெங்காயத்தைச் சேர்க்கவும்; சுமார் 5 நிமிடங்கள் மென்மையாகும் வரை சமைக்கவும், கிளறவும். காளான்களைச் சேர்த்து மேலும் 5 நிமிடங்கள் வறுக்கவும். குழம்பு, சோயா சாஸ், மிளகுத்தூள் மற்றும் வெந்தயத்தில் கலக்கவும்; வெப்பத்தை குறைத்து, மூடி, 15 நிமிடங்கள் கொதிக்க வைக்கவும். \n \n படி 2 \n பால் மற்றும் மாவை ஒரு தனி கிண்ணத்தில் ஒன்றாக கலக்கவும்; கலக்கும் வரை சூப்பில் கிளறவும். மூடி வைத்து மேலும் 15 நிமிடங்கள் கொதிக்க வைக்கவும், அவ்வப்போது கிளறவும். \n \n படி 3 \n புளிப்பு கிரீம், வோக்கோசு, எலுமிச்சை சாறு, உப்பு மற்றும் கருப்பு மிளகு ஆகியவற்றைச் சேர்க்கவும்; சுமார் 3 முதல் 5 நிமிடங்கள் வரை வெப்பமடையும் வரை குறைந்த வெப்பத்தில் கிளறவும். உடனே பரிமாறவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "இதை எப்படிச் செய்வது?",
+        "answer": "இது \"ஸ்பார்க்லிங் கான்டலூப் அகுவா ஃப்ரெஸ்கா\" என்று அழைக்கப்படுகிறது. கேண்டலோப் மற்றும் எலுமிச்சை சாறுடன் கிளப் சோடாவுடன் இந்த புத்துணர்ச்சியூட்டும் அகுவா ஃப்ரெஸ்கா ஒரு சூடான நாளில் சரியானது. \n \n தயாரிப்பு நேரம்ஃ \n 15 நிமிடங்கள் \n மொத்த நேரம்ஃ \n 15 நிமிடங்கள் \n பரிமாறல்கள்ஃ \n 8 \n \n பொருட்கள் \n \n 2 பவுண்டுகள் புதிய கேண்டலோப் க்யூப்ஸ் (6 கப்) \n \n 2 கப் தண்ணீர் \n \n 6 தேக்கரண்டி புதிதாக அழுகிய எலுமிச்சை சாறு (2 எலுமிச்சையிலிருந்து) \n \n 3 தேக்கரண்டி தேன் \n \n 1/4 தேக்கரண்டி உப்பு \n \n 2 கப் கிளப் சோடா, குளிர்ந்த \n \n \n கேண்டலோப் முலாம்பழம் பந்துகள் அல்லது க்யூப்ஸ், அலங்கரிக்க \n ஒரு சல்லடை மூலம் அழுத்தவும்; திடப்பொருட்களை நிராகரிக்கவும். வடிகட்டிய பாலை ஒரு கிண்ணத்தில் சேர்க்கவும். \n \n படி 2 \n பரிமாறத் தயாராக இருக்கும் வரை குளிர்விக்கவும். பரிமாறுவதற்கு முன்பு கிளப் சோடாவைச் சேர்க்கவும். பனிக்கட்டி மேல் பரிமாறவும், முலாம்பழம் பந்துகள் மற்றும் எலுமிச்சை ஜெஸ்ட் திருப்பங்களுடன் கண்ணாடிகளை அலங்கரிக்கவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "இந்த உணவை எப்படி சமைப்பது?",
+        "answer": "இந்த உணவு \"இஞ்சி மெருகூட்டப்பட்ட மஹி மஹி\" என்று அழைக்கப்படுகிறது. மஹி மஹிக்கான இந்த இஞ்சி சாஸ் சுவையுடன் வெடிக்கும் மற்றும் இனிப்பு மற்றும் புளிப்பு சுவை உணர்வுகளை ஒருங்கிணைக்கிறது. இந்த ரெசிபி ஒரு ஸ்னாப் மற்றும் மிகவும் சுவையாக இருக்கிறது. நீங்கள் அதை விரும்புவீர்கள்! \n \n \n தயாரிக்கும் நேரம்ஃ \n 5 நிமிடங்கள் \n சமைக்கும் நேரம்ஃ \n 10 நிமிடங்கள் \n கூடுதல் நேரம்ஃ \n 20 நிமிடங்கள் \n மொத்த நேரம்ஃ \n 35 நிமிடங்கள் \n பரிமாறல்கள்ஃ \n 4 \n \n பொருட்கள் \n \n 3 தேக்கரண்டி தேன் \n \n 3 தேக்கரண்டி சோயா சாஸ் \n \n 3 தேக்கரண்டி பால்சமிக் வினிகர் \n \n 2 தேக்கரண்டி ஆலிவ் எண்ணெய் \n \n 1 தேக்கரண்டி துண்டாக்கப்பட்ட புதிய இஞ்சி வேர் \n \n 1 கிராம்பு பூண்டு, அல்லது ருசிக்க நொறுக்கப்பட்டது \n \n உப்பு மற்றும் மிளகுடன் சீசன் மீன் ஃபில்லெட்டுகள்; அவற்றை இறைச்சியுடன் டிஷ் மீது தோல் பக்கங்கள் கீழே வைக்கவும். மூடி, 20 நிமிடங்கள் குளிர்விக்கவும். \n \n படி 2 \n காய்கறி எண்ணெயை ஒரு பெரிய வாணலியில் நடுத்தர உயர் வெப்பத்தில் சூடாக்கவும். மீன் ஃபில்லட்டுகளை அகற்றி, இறைச்சியை முன்பதிவு செய்யுங்கள். ஒவ்வொரு பக்கத்திலும் 4 முதல் 6 நிமிடங்கள் வரை மீன் வறுக்கவும், ஒரு முறை மட்டுமே திரும்பவும், மீன் செதில்கள் ஒரு முட்கரண்டி மூலம் எளிதில் மாறும் வரை. ஒரு பரிமாறும் தட்டில் ஃபில்லட்டுகளை அகற்றி, சூடாக வைத்திருங்கள். \n \n படி 3 \n ஒதுக்கப்பட்ட இறைச்சியை வாணலியில் ஊற்றவும்; ஒரு மெருகூட்டல் வரை குறைக்கப்படும் வரை நடுத்தர வெப்பத்தில் கொதிக்க வைக்கவும். மீனை ஒரு ஸ்பூன் கிளாஸ் செய்து பரிமாறவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "இந்த உணவை எப்படி சமைப்பது?",
+        "answer": "இந்த உணவு \"ஸ்ட்ராபெரி ரூபார்ப் பை\" என்று அழைக்கப்படுகிறது. இந்த ஸ்ட்ராபெரி ரூபார்ப் பை எங்கள் வீட்டில் ஒரு பிடித்த வசந்தகால இனிப்பு ஆகும். நிரப்புதல் ஒரு இனிப்பு-புளிப்பு சுவையைக் கொண்டுள்ளது; உங்களுக்கு பிடித்த பை மேலோடு சுடவும், வெண்ணிலா ஐஸ்கிரீமுடன் பரிமாறவும். \n \n தயாரிக்கும் நேரம்ஃ \n 20 நிமிடங்கள் \n சமைக்கும் நேரம்ஃ \n 35 நிமிடங்கள் \n கூடுதல் நேரம்ஃ \n 30 நிமிடங்கள் \n மொத்த நேரம்ஃ \n 1 மணி நேரம் 25 நிமிடங்கள் \n பரிமாறல்கள்ஃ \n 8 \n விளைச்சல்ஃ \n 1 9 அங்குல பை \n \n பொருட்கள் \n \n 1 கப் வெள்ளை சர்க்கரை \n \n 1⁄2 கப் அனைத்து நோக்க மாவு \n \n 1 பவுண்ட் ருபார்ப், 1/4 அங்குல துண்டுகளாக வெட்டப்பட்டது \n \n 2 பின்ட் ஸ்ட்ராபெர்ரி, ஹல் மற்றும் குவார்ட்டர் செய்யப்பட்ட \n \n 1 ரெசிபி \n \n படி 2 \n ஒரு பெரிய கிண்ணத்தில், மாவு மற்றும் சர்க்கரையை கலக்கவும். \n \n படி 3 \n ஸ்ட்ராபெர்ரி மற்றும் நறுக்கப்பட்ட ரூபார்ப் சேர்க்கவும். சர்க்கரை மற்றும் மாவுடன் சேர்த்து 30 நிமிடங்கள் வைக்கவும். \n \n படி 4 \n தயாராக பை மேலோடு நிரப்புதல் ஊற்றவும். மேலே வெண்ணெய் தடவி, மேல் மேலோடு கொண்டு மூடவும். மேல் மற்றும் கீழ் மேலோடு விளிம்புகளை தண்ணீரில் மூடவும். \n \n படி 5 \n ஒரு பேஸ்ட்ரி தூரிகையைப் பயன்படுத்தி, பையின் மேல் மஞ்சள் கருவைப் பயன்படுத்துங்கள். \n \n படி 6 \n சர்க்கரையுடன் தெளிக்கவும். \n \n படி 7 \n நீராவி தப்பிக்க அனுமதிக்க மேலே சிறிய துளைகளை வெட்டுங்கள். \n \n படி 8 \n 400 டிகிரி ஃபாரன்ஹீட்டில் (200 டிகிரி செல்சியஸ்), 35 முதல் 40 நிமிடங்கள் அல்லது குமிழி மற்றும் பழுப்பு நிறமாக இருக்கும் வரை சுட்டுக்கொள்ளவும். ரேக்கில் குளிர்விக்கவும். \n \n படி 9 \n ரசியுங்கள்!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "இந்த உணவை எப்படி சமைப்பது?",
+        "answer": "இந்த உணவு \"உண்மையான சீன முட்டை ரோல்ஸ்\" என்று அழைக்கப்படுகிறது. இந்த சீன முட்டை உருட்டிகள் என் அம்மாவிடமிருந்து வந்தவை, அவர் எப்போதும் சிறந்த சமையல்காரர்-நான் ஒரு தேர்ந்த உணவு. எனக்கு இது பிடித்திருந்தால், நீங்கள் விரும்புவீர்கள். இது மிகவும் உண்மையானது, ஏனென்றால் எனது குடும்பம் சீனர்கள், நானும் கூட. இந்த சமையல் குறைந்தது லிங் குடும்பத்தில் 300 ஆண்டுகள் பழமையானது. \n \n \n தயாரிக்கும் நேரம்ஃ \n 1 மணி \n சமைக்கும் நேரம்ஃ \n 30 நிமிடங்கள் \n கூடுதல் நேரம்ஃ \n 1 மணி \n மொத்த நேரம்ஃ \n 2 மணி \n விளைச்சல்ஃ \n 20 முட்டை உருண்டைகள் \n \n \n பொருட்கள் \n \n 4 தேக்கரண்டி காய்கறி எண்ணெய், பிரிக்கப்பட்ட \n \n 3 பெரிய முட்டைகள், அடிக்கப்பட்ட \n \n 1 நடுத்தர தலை முட்டைக்கோஸ், நன்றாக துண்டாக்கப்பட்ட \n \n [00 1⁄2 கேரட், ஜூலியன் \n \n 1 பவுண்ட் சீன பார்பே நொறுக்கப்பட்ட முட்டைகளை ஊற்றி, கிளறாமல், உறுதியான வரை சமைக்கவும். முட்டைகளை உருட்டி, மறுபுறம் உறுதியாக இருக்க கூடுதலாக 20 விநாடிகள் சமைக்கவும். முட்டை பான்கேக்கை குளிர்விக்க ஒதுக்கி வைக்கவும், பின்னர் மெல்லிய துண்டுகளாக வெட்டவும். \n \n படி 2 \n மீதமுள்ள தாவர எண்ணெயை ஒரு வாணலியில் அல்லது பெரிய வாணலியில் அதிக வெப்பத்தில் சூடாக்கவும். முட்டைக்கோஸ் மற்றும் கேரட்டைக் கலக்கவும்; 2 நிமிடங்கள் வேகும் வரை சமைக்கவும். பன்றி இறைச்சி, மூங்கில் தளிர்கள், காளான், பச்சை வெங்காயங்கள், சோயா சாஸ், உப்பு, சர்க்கரை மற்றும் எம். எஸ். ஜி ஆகியவற்றைச் சேர்க்கவும்; காய்கறிகள் மென்மையாகும் வரை தொடர்ந்து சமைக்கவும், சுமார் 6 நிமிடங்கள். துண்டுகளாக்கப்பட்ட முட்டையில் கிளறி, பின்னர் கலவையை ஒரு வாணலியில் பரப்பி, சுமார் 1 மணி நேரம் குளிர்ச்சியடையும் வரை குளிர்விக்கவும். \n \n படி 3 \n முட்டை சுருள்களை இணைக்கஃ உங்கள் வேலை மேற்பரப்பில் ஒரு மூலை உங்களை நோக்கி சுட்டிக்காட்டி ஒரு ரேப்பரை வைக்கவும். சுமார் 3 தேக்கரண்டி குளிர்ந்த நிரப்புதலை ஒரு குவியலில் ரேப்பரின் கீழ் மூன்றில் ஒரு பங்கு வைக்கவும். ஒரு சிறிய முட்டையின் வெள்ளையை ரேப்பரின் மேல் இரண்டு விளிம்புகளில் துலக்குங்கள், பின்னர் கீழ் மூலையை நிரப்புவதற்கு மேல் மடித்து பாதியிலேயே உறுதியாக உருட்டவும். முட்டை உருளைக்கு மேல் இடது மற்றும் வலது பக்கங்களை மென்மையாக மடியுங்கள், பின்னர் மேல் மூலைகள் முட்டையின் வெள்ளையுடன் முட்டையின் சுருளை மூடும் வரை தொடர்ந்து உருட்டவும். மீதமுள்ள முட்டை ரோல் ரேப்பர்களுடன் மீண்டும் செய்யவும், முடிக்கப்பட்ட முட்டை ரோல்களை பிளாஸ்டிக் மடக்குடன் மூடி உலராமல் இருக்கவும். \n \n படி 4 \n ஒரு வாணலியில் அல்லது ஆழமான உலர்த்தியில் சுமார் 6 அங்குல எண்ணெயை 350 டிகிரி ஃபாரன்ஹீட் (175 டிகிரி செல்சியஸ்) வரை சூடாக்கவும். \n \n படி 5 \n 5 முதல் 7 நிமிடங்கள் வரை தங்க பழுப்பு நிறமாக இருக்கும் வரை ஒரு நேரத்தில் 3 அல்லது 4 முட்டைகளை வறுக்கவும். காகித துண்டுகளில் வடிகட்டவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "இந்த உணவை எப்படி சமைப்பது?",
+        "answer": "இந்த உணவு \"சாக்லேட் பூசப்பட்ட வேர்க்கடலை வெண்ணெய் பட்டாசுகள்\" என்று அழைக்கப்படுகிறது. \n \n தயாரிக்கும் நேரம்ஃ \n 30 நிமிடங்கள் \n சமைக்கும் நேரம்ஃ \n 5 நிமிடங்கள் \n கூடுதல் நேரம்ஃ \n 15 நிமிடங்கள் \n மொத்த நேரம்ஃ \n 50 நிமிடங்கள் \n பரிமாறல்கள்ஃ \n 40 \n விளைச்சல்ஃ \n 40 சாண்ட்விச் குக்கீகள் \n \n \n பொருட்கள் \n 3⁄4 கப் கிரீமி அல்லது சங்கி வேர்க்கடலை வெண்ணெய் \n \n 2 பவுண்டுகள் சாக்லேட் பாதாம் பட்டை, துண்டுகளாக உடைக்கப்பட்டது \n \n 80 வெண்ணெய் வட்ட பட்டாசுகள் (ரிட்ஸ் போன்றவை) \n \n 2⁄4 அவுன்ஸ் வண்ண மிட்டாய் தெளிப்புகள் வேர்க்கடலை வெண்ணெய் நிரப்பப்பட்ட 40 சாண்ட்விச் குக்கீகளை உருவாக்க வேர்க்கடலை வெண்ணெய் பக்கங்களை ஒன்றாக அழுத்தவும். \n \n படி 2 \n ஒரு இரட்டை கொதிகலனின் மேல் பாதாம் பட்டையை சூடான, ஆனால் கொதிக்கும் தண்ணீருக்கு மேல் உருக்கவும். வெப்பத்தைக் குறைத்து, உருகிய சாக்லேட்டை இரட்டை கொதிகலனின் மேல் கொதிக்கும் தண்ணீருக்கு மேல் வைக்கவும். \n \n படி 3 \n ஒவ்வொரு சாண்ட்விச் குக்கீயையும் உருகிய சாக்லேட்டில் நனைத்து, அதிகப்படியானதை மீண்டும் பானையில் வடிகட்ட அனுமதிக்கிறது. \n \n படி 4 \n பூசப்பட்ட குக்கீகளை மெழுகு காகிதத்தில் வைக்கவும், உடனடியாக மிட்டாய் தெளிப்புகளுடன் தெளிக்கவும், இதனால் அவை உருகிய சாக்லேட்டுடன் ஒட்டிக்கொள்கின்றன. \n \n படி 5 \n சாக்லேட் செட் ஆகும் வரை குளிர்சாதன பெட்டியில் குக்கீகளை வைக்கவும், சுமார் 15 நிமிடங்கள்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "இந்த உணவை எப்படி சமைப்பது?",
+        "answer": "இந்த உணவு \"ப்ரோக்கோலி மற்றும் கேரட் கலவை ஃப்ரை\" என்று அழைக்கப்படுகிறது. \n \n தயாரிக்கும் நேரம்ஃ \n 10 நிமிடங்கள் \n சமைக்கும் நேரம்ஃ \n 16 நிமிடங்கள் \n மொத்த நேரம்ஃ \n 26 நிமிடங்கள் \n விளைச்சல்ஃ \n 5 கப் \n \n பொருட்கள் \n 5 1⁄2 கப் ப்ரோக்கோலி பூக்கள் \n \n 1 கேரட், மெல்லியதாக வெட்டப்பட்ட \n \n 2 தேக்கரண்டி தண்ணீர் \n \n 1 தேக்கரண்டி கார்ன்ஸ்டார்ச் \n \n \n 1 தேக்கரண்டி கோழி புல்லன் துகள்கள், அல்லது சுவைக்க \n \n \n உப்பு \n \n \n 2 தேக்கரண்டி ப்ரோக்கோலியைச் சேர்த்து, பிரகாசமான பச்சை நிறம் வரை, சுமார் 2 நிமிடங்கள் வரை சமைக்கவும். ப்ரோக்கோலியை ஒரு கிண்ணம் ஐஸ் வாட்டருக்கு ஒரு ஸ்லாட்டட் ஸ்பூனைப் பயன்படுத்தி மாற்றவும், சமையல் செயல்முறையை நிறுத்த பல நிமிடங்கள் மூழ்கவும். வடிகட்டவும். \n \n படி 2 \n அதே பெரிய பானையில் தண்ணீரை மீண்டும் கொதிக்க வைக்கவும்; வெட்டப்பட்ட கேரட் சேர்த்து 1 நிமிடம் சமைக்கவும். வடிகட்டவும். \n \n படி 3 \n தண்ணீர் மற்றும் சோள மாவு ஆகியவற்றை ஒரு கிண்ணத்தில் மென்மையாக கலக்கவும். கோழித் துண்டுகள், உப்பு சேர்த்து நன்றாகக் கலக்கவும். \n \n படி 4 \n வேர்க்கடலை எண்ணெயை ஒரு வாணலியில் அல்லது பெரிய வாணலியில் அதிக வெப்பத்தில் சூடாக்கவும்; ப்ரோக்கோலி மற்றும் கேரட்டை 2 நிமிடங்கள் வறுக்கவும். சோள மாவு கலவையைச் சேர்க்கவும்; காய்கறிகள் சமமாக பூசப்படும் வரை, 1 முதல் 2 நிமிடங்கள் வரை சமைக்கவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "இந்த உணவை எப்படி சமைப்பது?",
+        "answer": "இந்த உணவு \"கிரீம் சீஸ் மற்றும் நண்டு சுஷி ரோல்ஸ்\" என்று அழைக்கப்படுகிறது. \n \n தயாரிக்கும் நேரம்ஃ \n 20 நிமிடங்கள் \n சமைக்கும் நேரம்ஃ \n 20 நிமிடங்கள் \n மொத்த நேரம்ஃ \n 40 நிமிடங்கள் \n விளைச்சல்ஃ \n 2 சுஷி ரோல்ஸ் \n \n \n பொருட்கள் \n 1 கப் சமைக்கப்படாத வெள்ளை அரிசி \n \n 2 கப் தண்ணீர் \n \n 2 தேக்கரண்டி அரிசி வினிகர் \n \n 1 தேக்கரண்டி உப்பு \n \n \n 2 தாள்கள் நோரி கடற்பாசி தாள்கள் \n \n \n வெள்ளரிக்காய், உரிக்கப்பட்டு நீளமாக வெட்டப்பட்டது \n \n \n படி 2 \n அரிசி மற்றும் தண்ணீரை ஒரு அடுப்பில் அதிக வெப்பத்தில் கொதிக்க வைக்கவும். வெப்பத்தை நடுத்தரமாக குறைத்து, மூடி, அரிசி மென்மையாகும் வரை கொதிக்க வைத்து, திரவம் உறிஞ்சப்படும் வரை, 20 முதல் 25 நிமிடங்கள் வரை சமைக்கவும். அரிசி வினிகர் மற்றும் உப்பு சேர்த்து கலக்கவும். அதை முழுவதுமாகக் குளிர அனுமதிக்கவும். \n படி 3 \n கடற்பாசி தாள்களை அமைக்கவும். கைகளை தண்ணீரில் ஈரப்படுத்துங்கள், பின்னர் குளிர்ந்த அரிசியை ஒவ்வொரு தாளிலும் சமமாக பரப்புங்கள், ஒரு விளிம்பில் ஒன்றரை அங்குல இடைவெளியை விட்டு, நீளம் வாரியாக. வெள்ளரிக்காய் துண்டுகள், போலி நண்டு மற்றும் கிரீம் சீஸ் ஆகியவற்றை அரிசியின் மேல் இடைவெளிக்கு எதிரே ஒரு நேர் கோட்டில் ஏற்பாடு செய்யுங்கள். சுஷியை மேல்புறத்திலிருந்து கடற்பாசி தாளின் வெளிப்புற முனை வரை உருட்டவும். \n படி 4 \n ஒரு கூர்மையான ஈரமான கத்தியைப் பயன்படுத்தி, ஒவ்வொரு உருளையையும் 5 அல்லது 6 துண்டுகளாக வெட்டவும். பக்கத்தில் பொடியாக நறுக்கிய இஞ்சியுடன் பரிமாறவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "இந்த உணவை எப்படி சமைப்பது?",
+        "answer": "இந்த உணவு \"சைவ இனிப்பு உருளைக்கிழங்கு சிக்கன் கறி\" என்று அழைக்கப்படுகிறது. \n \n தயாரிக்கும் நேரம்ஃ \n 10 நிமிடங்கள் \n சமைக்கும் நேரம்ஃ \n 20 நிமிடங்கள் \n மொத்த நேரம்ஃ \n 30 நிமிடங்கள் \n பொருட்கள்ஃ \n 3 தேக்கரண்டி ஆலிவ் எண்ணெய் \n \n 1 வெங்காயம், வெட்டப்பட்ட \n \n 2 கிராம்பு பூண்டு, துண்டாக்கப்பட்ட \n \n 2 தேக்கரண்டி துண்டாக்கப்பட்ட புதிய இஞ்சி வேர் \n \n 1 (15 அவுன்ஸ்) கொண்டைக்கடலை, வடிகட்டிய \n \n 1 (14.5 அவுன்ஸ்) கொண்டைக்கடலை \n \n 1 (14 அவுன்ஸ்) கொண்டைக்கடலை மிளகு, பூண்டு மற்றும் இஞ்சியை சூடான எண்ணெயில் மென்மையாக்கும் வரை சமைக்கவும், சுமார் 5 நிமிடங்கள். உருளைக்கிழங்கு, பூண்டு, மிளகுத்தூள் மற்றும் சீமை சுரைக்காய் சேர்க்கவும். ஒரு கொதி நிலைக்கு கொண்டு வாருங்கள், வெப்பத்தை குறைவாகக் குறைத்து, சுமார் 15 நிமிடங்கள் மென்மையாகும் வரை சமைக்கவும். \n படி 2 \n கரம் மசாலா, சீரகம், மஞ்சள், உப்பு மற்றும் மிளகாய் செதில்களுடன் சீசன். பரிமாறுவதற்கு முன்பு கீரை சேர்க்கவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "இந்த உணவை எப்படி சமைப்பது?",
+        "answer": "இந்த உணவு \"லைம் சிக்கன் சாஃப்ட் டகோஸ்\" என்று அழைக்கப்படுகிறது. \n \n தயாரிக்கும் நேரம்ஃ \n 20 நிமிடங்கள் \n சமைக்கும் நேரம்ஃ \n 30 நிமிடங்கள் \n மொத்த நேரம்ஃ \n 50 நிமிடங்கள் \n விளைச்சல்ஃ \n 10 பரிமாறல்கள் \n \n பொருட்கள் \n 1 1⁄2 பவுண்டுகள் தோலற்ற, எலும்பற்ற கோழி மார்பக இறைச்சி-க்யூப்ஸ் \n \n 2 பச்சை வெங்காயங்கள், வெட்டப்பட்ட \n \n 1⁄2 கப் சிவப்பு ஒயின் வினிகர் \n \n 1⁄2 எலுமிச்சை, ஜூஸ் \n \n 2 கிராம்பு பூண்டு, துண்டாக்கப்பட்ட \n \n 1 தேக்கரண்டி உலர்ந்த ஆர்கனோ \n \n \n 1 தேக்கரண்டி வெள்ளை சர்க்கரை \n \n இஞ்சி, பூண்டு, பச்சை மிளகாய் விழுது, மிளகாய்த்தூள், உப்பு, மஞ்சள்தூள், கரம் மசாலாத்தூள் சேர்த்துக் கிளறவும். குறைந்த தீயில் 10 நிமிடங்கள் கொதிக்க வைக்கவும். \n படி 2 \n ஒரு இரும்பு வாணலியை நடுத்தர வெப்பத்தில் சூடாக்கவும். வாணலியில் ஒரு டார்டில்லாவை வைத்து, சூடுபடுத்தி, மறுபுறம் சூடாக்கவும். மீதமுள்ள டோர்டில்லாக்களுடன் மீண்டும் செய்யவும். சுண்ணாம்பு கோழி கலவையை சூடான டோர்டில்லாக்களில் பரிமாறவும், அதன் மேல் தக்காளி, கீரை, பாலாடைக்கட்டி மற்றும் சல்சா இருக்கும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "தி ஷாஷாங்க் ரிடெம்ப்ஷன் என்பது 1982 ஆம் ஆண்டு ஸ்டீபன் கிங் நாவலான ரீட்டா ஹேவொர்த் மற்றும் ஷாஷாங்க் ரிடெம்ப்ஷனை அடிப்படையாகக் கொண்டு ஃபிராங்க் டாராபாண்ட் எழுதி இயக்கிய 1994 அமெரிக்க நாடகத் திரைப்படமாகும். இந்த படம் வங்கியாளர் ஆண்டி டுஃப்ரெஸ்னேவின் (டிம் ராபின்ஸ்) கதையைச் சொல்கிறது, அவர் குற்றமற்றவர் என்று கூறினாலும், அவரது மனைவி மற்றும் அவரது காதலனின் கொலைகளுக்காக ஷாஷாங்க் மாநில சிறைச்சாலையில் ஆயுள் தண்டனை விதிக்கப்படுகிறார். அடுத்த இரண்டு தசாப்தங்களில், அவர் ஒரு சக கைதி, தடைசெய்யப்பட்ட கடத்தல்காரர் எல்லிஸ் \"ரெட்\" ரெடிங் (மோர்கன் ஃப்ரீமேன்) உடன் நட்பு கொள்கிறார், மேலும் சிறைக் காவலர் சாமுவேல் நார்டன் (பாப் குண்டன்) தலைமையிலான பணமோசடி நடவடிக்கையில் முக்கிய பங்கு வகிக்கிறார். வில்லியம் சாட்லர், கிளான்சி பிரவுன், கில் பெல்லோஸ் மற்றும் ஜேம்ஸ் விட்மோர் ஆகியோர் துணை வேடங்களில் நடிக்கின்றனர்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "தி காட்பாதர் என்பது 1972 ஆம் ஆண்டு வெளியான அமெரிக்க குற்றத் திரைப்படமாகும், இது பிரான்சிஸ் ஃபோர்டு கொப்போலா இயக்கியது, அவர் மரியோ புசோவுடன் இணைந்து திரைக்கதையை எழுதினார், அதே தலைப்பில் புசோவின் 1969 ஆம் ஆண்டின் சிறந்த விற்பனையான நாவலை அடிப்படையாகக் கொண்டது. இத்திரைப்படத்தில் மார்லன் பிராண்டோ, அல் பசினோ, ஜேம்ஸ் கான், ரிச்சர்ட் காஸ்டெல்லனோ, ராபர்ட் டுவால், ஸ்டெர்லிங் ஹேடன், ஜான் மார்லி, ரிச்சர்ட் கோண்டே மற்றும் டயான் கீட்டன் ஆகியோர் நடித்துள்ளனர். 1945 முதல் 1955 வரை மூதாதையர் விடோ கார்லியோனின் (பிராண்டோ) கீழ் கார்லியோன் குடும்பத்தை விவரிக்கும் தி காட்பாதர் முத்தொகுப்பின் முதல் தவணை இதுவாகும். இது அவரது இளைய மகன் மைக்கேல் கார்லியோன் (பசினோ), தயக்கம் காட்டும் குடும்ப வெளியாட்களில் இருந்து இரக்கமற்ற மாஃபியா முதலாளியாக மாறுவதை மையமாகக் கொண்டுள்ளது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "தி டார்க் நைட் என்பது கிறிஸ்டோபர் நோலன் தனது சகோதரர் ஜொனாதனுடன் இணைந்து எழுதிய திரைக்கதையிலிருந்து 2008 ஆம் ஆண்டு சூப்பர் ஹீரோ திரைப்படமாகும். டிசி காமிக்ஸ் சூப்பர் ஹீரோ பேட்மேனை அடிப்படையாகக் கொண்டு, இது பேட்மேன் பிகின்ஸ் (2005) இன் தொடர்ச்சியும், தி டார்க் நைட் முத்தொகுப்பின் இரண்டாவது தவணையும் ஆகும். இந்த சதி கோதம் நகரில் ஒழுங்கமைக்கப்பட்ட குற்றங்களை அகற்ற ஒரு கூட்டணியை உருவாக்கும் விழிப்புடன் பேட்மேன், போலீஸ் லெப்டினன்ட் ஜேம்ஸ் கார்டன் மற்றும் மாவட்ட வழக்கறிஞர் ஹார்வி டென்ட் ஆகியோரைப் பின்தொடர்கிறது. நகரத்தை குழப்பத்திலிருந்து காப்பாற்ற பேட்மேன் எவ்வளவு தூரம் செல்வார் என்பதை சோதிக்க முற்படும் அராஜகவாத சூத்திரதாரி ஜோக்கரால் அவர்களின் முயற்சிகள் தடம் புரளுகின்றன. குழும நடிகர்களில் கிறிஸ்டியன் பேல், மைக்கேல் கெய்ன், ஹீத் லெட்ஜர், கேரி ஓல்ட்மேன், ஆரோன் எக்கார்ட், மேகி கில்லென்ஹால் மற்றும் மோர்கன் ஃப்ரீமேன் ஆகியோர் அடங்குவர்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "பன்னிரண்டு கோபமான ஆண்கள் என்பது ஒரு கொலை விசாரணையின் நடுவர் மன்றத்தைப் பற்றி ரெஜினால்ட் ரோஸ் எழுதிய ஒரு அமெரிக்க நீதிமன்ற நாடகமாகும். இது முதலில் 1954 இல் ஒரு தொலைக்காட்சி நாடகமாக ஒளிபரப்பப்பட்டது. அடுத்த ஆண்டு அது மேடைக்கு தழுவி எடுக்கப்பட்டது. இது சிட்னி லுமெட் இயக்கிய அதே பெயரில் ஒரு படத்திற்கு தழுவி 1957 இல் வெளியிடப்பட்டது. அப்போதிருந்து இதற்கு ஏராளமான மறு ஆக்கங்கள், தழுவல்கள் மற்றும் அஞ்சலி வழங்கப்பட்டுள்ளன.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "ஷிண்ட்லர்ஸ் லிஸ்ட் என்பது 1993 ஆம் ஆண்டு வெளியான அமெரிக்க காவிய வரலாற்று நாடகத் திரைப்படமாகும், இது ஸ்டீவன் ஸ்பீல்பெர்க் இயக்கி தயாரித்தது மற்றும் ஸ்டீவன் சைலியன் எழுதியது. இது ஆஸ்திரேலிய நாவலாசிரியர் தாமஸ் கெனேலியின் 1982 நாவலான ஷிண்ட்லர்ஸ் ஆர்க்கை அடிப்படையாகக் கொண்டது. இரண்டாம் உலகப் போரின் போது தனது தொழிற்சாலைகளில் பணிபுரிந்ததன் மூலம் ஆயிரத்திற்கும் மேற்பட்ட போலிஷ்-யூத அகதிகளை ஹோலோகாஸ்டில் இருந்து காப்பாற்றிய ஜெர்மன் தொழிலதிபர் ஆஸ்கர் ஷிண்ட்லரை இந்த படம் பின்தொடர்கிறது. இதில் ஷிண்ட்லராக லியாம் நீசன், எஸ்எஸ் அதிகாரி அமோன் கோத்தாக ரால்ப் ஃபைன்ஸ் மற்றும் ஷிண்ட்லரின் யூத கணக்காளர் இட்ஜாக் ஸ்டெர்னாக பென் கிங்ஸ்லி ஆகியோர் நடித்துள்ளனர்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "தி லார்ட் ஆஃப் தி ரிங்ஸ்ஃ தி ரிட்டர்ன் ஆஃப் தி கிங் என்பது 2003 ஆம் ஆண்டு பீட்டர் ஜாக்சன் இயக்கிய காவிய கற்பனை சாகச திரைப்படமாகும், இது ஃபிரான் வால்ஷ், பிலிப்பா பாயன்ஸ் மற்றும் ஜாக்சன் ஆகியோரின் திரைக்கதையிலிருந்து. இது ஜே. ஆர். ஆர். டோல்கீன் எழுதிய தி லார்ட் ஆஃப் தி ரிங்ஸ் நாவலின் மூன்றாவது தொகுதியான 1955 ஆம் ஆண்டின் தி ரிட்டர்ன் ஆஃப் தி கிங்கை அடிப்படையாகக் கொண்டது. 2002 ஆம் ஆண்டின் தி லார்ட் ஆஃப் தி ரிங்ஸ்ஃ தி டூ டவர்ஸின் தொடர்ச்சியான இந்த படம் தி லார்ட் ஆஃப் தி ரிங்ஸ் முத்தொகுப்பின் இறுதி பாகமாகும். இதில் எலிஜா வூட், இயன் மெக்கெல்லன், லிவ் டைலர், விக்கோ மோர்டென்சன், சீன் ஆஸ்டின், கேட் பிளான்செட், ஜான் ரைஸ்-டேவிஸ், பெர்னார்ட் ஹில், பில்லி பாய்ட், டொமினிக் மோனகன், ஆர்லாண்டோ ப்ளூம், ஹ்யூகோ வீவிங், மிராண்டா ஓட்டோ, டேவிட் வென்ஹாம், கார்ல் அர்பன், ஜான் நோபல், ஆண்டி செர்கிஸ், இயன் ஹோல்ம் மற்றும் சீன் பீன் உள்ளிட்ட குழும நடிகர்கள் நடித்துள்ளனர். முந்தைய படத்தின் கதைக்களத்தைத் தொடர்ந்து, ஃப்ரோடோ, சாம் மற்றும் கோலம் ஆகியோர் கோலமின் உண்மையான நோக்கங்களைப் பற்றி அறியாமல், ஒன் ரிங்கை அழிக்க டூம் மலையை நோக்கி தங்கள் இறுதி வழியை உருவாக்குகிறார்கள், அதே நேரத்தில் மெர்ரி, பிப்பின், காண்டால்ஃப், அராகோர்ன், லெகோலாஸ், கிம்லி மற்றும் பிறர் மினாஸ் திரித்தில் சவுரோன் மற்றும் அவரது படைகளுக்கு எதிராக ஒன்றிணைகிறார்கள்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "பல்ப் ஃபிக்ஷன் என்பது 1994 ஆம் ஆண்டு வெளியான அமெரிக்க குற்றத் திரைப்படமாகும், இது ரோஜர் அவேரியுடன் அவர் கருத்தரித்த ஒரு கதையிலிருந்து குவென்டின் டரான்டினோ எழுதி இயக்கியது. இது கலிபோர்னியாவின் லாஸ் ஏஞ்சல்ஸில் நடந்த குற்றம் மற்றும் வன்முறை பற்றிய நான்கு பின்னிப் பிணைந்த கதைகளைச் சொல்கிறது. இத்திரைப்படத்தில் ஜான் டிராவோல்டா, சாமுவேல் எல். ஜாக்சன், புரூஸ் வில்லிஸ், டிம் ரோத், விங் ரேம்ஸ் மற்றும் உமா துர்மன் ஆகியோர் நடித்துள்ளனர். தலைப்பு 20 ஆம் நூற்றாண்டின் நடுப்பகுதியில் பிரபலமான கூழ் இதழ்கள் மற்றும் கடின வேகவைத்த குற்ற நாவல்களைக் குறிக்கிறது, அவை கிராஃபிக் வன்முறை மற்றும் பஞ்ச் உரையாடலுக்கு பெயர் பெற்றவை.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "தி லார்ட் ஆஃப் தி ரிங்ஸ்ஃ தி ஃபெல்லோஷிப் ஆஃப் தி ரிங் என்பது 2001 ஆம் ஆண்டு பீட்டர் ஜாக்சன் இயக்கிய காவிய கற்பனை சாகச திரைப்படமாகும், இது ஃபிரான் வால்ஷ், பிலிப்பா பாயன்ஸ் மற்றும் ஜாக்சன் ஆகியோரின் திரைக்கதையிலிருந்து 1954 ஆம் ஆண்டின் தி ஃபெல்லோஷிப் ஆஃப் தி ரிங்கை அடிப்படையாகக் கொண்டது, இது ஜே. ஆர். ஆர் டோல்கீன் எழுதிய தி லார்ட் ஆஃப் தி ரிங்ஸ் நாவலின் முதல் தொகுதியாகும். இந்த படம் தி லார்ட் ஆஃப் தி ரிங்ஸ் முத்தொகுப்பின் முதல் பாகமாகும். இதில் எலிஜா வூட், இயன் மெக்கெல்லன், லிவ் டைலர், விக்கோ மோர்டென்சன், சீன் ஆஸ்டின், கேட் பிளான்செட், ஜான் ரைஸ்-டேவிஸ், பில்லி பாய்ட், டொமினிக் மோனகன், ஆர்லாண்டோ ப்ளூம், கிறிஸ்டோபர் லீ, ஹ்யூகோ வீவிங், சீன் பீன், இயன் ஹோல்ம் மற்றும் ஆண்டி செர்கிஸ் உள்ளிட்ட குழும நடிகர்கள் நடித்துள்ளனர்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "தி காட்பாதர் பார்ட் II என்பது 1974 ஆம் ஆண்டு வெளியான அமெரிக்க காவிய குற்றத் திரைப்படமாகும், இது பிரான்சிஸ் ஃபோர்டு கொப்போலா தயாரித்து இயக்கியது. கொப்போலாவுடன் இணைந்து திரைக்கதையை எழுதிய மரியோ பூசோ எழுதிய 1969 நாவலான தி காட்ஃபாதர் நாவலை அடிப்படையாகக் கொண்டு இந்த படம் உருவாக்கப்பட்டது, மேலும் இது 1972 ஆம் ஆண்டு வெளியான தி காட்ஃபாதர் திரைப்படத்தின் தொடர்ச்சியும், முன்னோடியும் ஆகும், இது இணையான நாடகங்களை வழங்குகிறதுஃ ஒருவர் 1958 ஆம் ஆண்டு கார்லியோன் குடும்பத்தின் புதிய டான் மைக்கேல் கார்லியோனின் (அல் பாசினோ) கதையை எடுத்துக்கொள்கிறார், அவரது வாழ்க்கையில் ஒரு முயற்சிக்குப் பிறகு குடும்ப வணிகத்தைப் பாதுகாத்தார்; அவரது தந்தை விடோ கார்லியோன் (ராபர்ட் டி நிரோ), அவரது சிசிலியன் குழந்தைப் பருவத்திலிருந்து நியூயார்க் நகரில் அவரது குடும்ப நிறுவனத்தை நிறுவுவது வரை பயணத்தை உள்ளடக்கியது. இந்த குழுமத்தில் ராபர்ட் டுவால், டயான் கீட்டன், தாலியா ஷைர், மோர்கனா கிங், ஜான் கஸேல், மரியானா ஹில் மற்றும் லீ ஸ்ட்ராஸ்பெர்க் ஆகியோரும் நடிக்கின்றனர்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "இந்தப் படத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தைக் கூற முடியுமா?",
+        "answer": "பிரியாவிடை எனது மறுமனையாட்டி என்பது 1993 ஆம் ஆண்டு சென் கைஜ் இயக்கிய சீன வரலாற்று நாடகத் திரைப்படமாகும், இதில் லெஸ்லி சியுங், காங் லி மற்றும் ஜாங் ஃபெங்கி ஆகியோர் நடித்துள்ளனர். லிலியன் லீ எழுதிய நாவலை அடிப்படையாகக் கொண்டு லூ வெய் திரைக்குத் தழுவி எடுக்கப்பட்ட இந்த படம், சீனக் குடியரசின் ஆரம்ப நாட்களிலிருந்து கலாச்சாரப் புரட்சியின் பின்விளைவு வரை அரசியல் ரீதியாக கொந்தளிப்பான 20 ஆம் நூற்றாண்டின் சீனாவில் அமைக்கப்பட்டுள்ளது. இது இரண்டு பீக்கிங் ஓபரா நடிகர்கள் மற்றும் வாழ்நாள் நண்பர்கள் செங் டையி (சியுங்) மற்றும் துவான் சியாவோலோ (ஜாங்) மற்றும் சியாவோலோவின் மனைவி ஜுக்ஸியன் (காங்) ஆகியோருக்கு இடையிலான சிக்கலான உறவுகளை விவரிக்கிறது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "மோனா லிசா என்பது இத்தாலிய கலைஞர் லியோனார்டோ டா வின்சி வரைந்த அரை நீள உருவப்படம் ஆகும். \n \n இத்தாலிய மறுமலர்ச்சியின் ஒரு தொல்பொருள் தலைசிறந்த படைப்பாகக் கருதப்படும் இது, \"மிகவும் பிரபலமான, அதிகம் பார்வையிடப்பட்ட, அதிகம் எழுதப்பட்ட, அதிகம் பாடப்பட்ட, உலகின் மிகவும் கேலிக்குரிய கலைப் படைப்பு\" என்று விவரிக்கப்பட்டுள்ளது. ஓவியத்தின் புதுமையான குணங்களில் பொருளின் புதிரான வெளிப்பாடு, கலவையின் நினைவுச்சின்னம், வடிவங்களின் நுட்பமான மாடலிங் மற்றும் வளிமண்டல மாயை ஆகியவை அடங்கும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "ஒரு முத்து காதணி கொண்ட பெண் (டச்சுஃ மீஸ்ஜே மெட் டி பரேல்) என்பது டச்சு பொற்கால ஓவியர் ஜோஹன்னஸ் வெர்மீர் வரைந்த ஒரு எண்ணெய் ஓவியம் ஆகும், இது கி. பி. 1665 தேதியிட்டது. பல நூற்றாண்டுகளாக பல்வேறு பெயர்களால் அறியப்பட்ட இது, 20 ஆம் நூற்றாண்டின் இறுதியில் அங்கு சித்தரிக்கப்பட்ட பெண் அணிந்திருந்த காதணியை அடுத்து அதன் தற்போதைய பெயரால் அறியப்பட்டது. இந்த படைப்பு 1902 முதல் தி ஹேக்கில் உள்ள மொரிட்சுயிஸின் தொகுப்பில் உள்ளது மற்றும் பல்வேறு இலக்கிய மற்றும் சினிமா சிகிச்சைகளுக்கு உட்பட்டுள்ளது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "தி ஸ்டாரி நைட் என்பது டச்சு பிந்தைய இம்ப்ரெஷனிஸ்ட் ஓவியர் வின்சென்ட் வான் கோஹ் வரைந்த ஒரு எண்ணெய்-மீது-கேன்வாஸ் ஓவியம் ஆகும். ஜூன் 1889 இல் வர்ணம் பூசப்பட்ட இது, சூரிய உதயத்திற்கு சற்று முன்பு, செயிண்ட்-ரெமி-டி-ப்ரோவென்ஸில் உள்ள அவரது புகலிடம் அறையின் கிழக்கு நோக்கிய ஜன்னலிலிருந்து காட்சியை சித்தரிக்கிறது, ஒரு கற்பனையான village.It 1941 முதல் நியூயார்க் நகரத்தில் உள்ள நவீன கலை அருங்காட்சியகத்தின் நிரந்தர சேகரிப்பில் உள்ளது, இது லில்லி பி. பிளிஸ் பெக்வெஸ்ட் மூலம் பெறப்பட்டது. வான் கோகின் மகத்தான படைப்பாக பரவலாகக் கருதப்படும் தி ஸ்டாரி நைட் மேற்கத்திய கலையில் மிகவும் அங்கீகரிக்கப்பட்ட ஓவியங்களில் ஒன்றாகும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "முத்தம் (ஜெர்மன் மொழியில் டெர் குஸ்) என்பது ஆஸ்திரிய குறியீட்டு ஓவியர் குஸ்டாவ் 1907 மற்றும் 1908 ஆம் ஆண்டுகளில் ஒரு கட்டத்தில் வரையப்பட்ட தங்க இலை, வெள்ளி மற்றும் பிளாட்டினம் ஆகியவற்றைக் கொண்ட ஒரு எண்ணெய்-மீது-கேன்வாஸ் ஓவியம் ஆகும், இது அறிஞர்கள் அவரது \"தங்கக் காலம்\" என்று அழைக்கும் உச்சத்தில் இருந்தது. கண்காட்சியின் பட்டியலில் குறிப்பிடப்பட்டுள்ளபடி இது 1908 ஆம் ஆண்டில் லீபஸ்பார் (காதலர்கள்) என்ற தலைப்பில் காட்சிக்கு வைக்கப்பட்டது. இந்த ஓவியம் ஒரு ஜோடி ஒருவருக்கொருவர் தழுவுவதை சித்தரிக்கிறது, அவர்களின் உடல்கள் சமகால ஆர்ட் நோவியூ பாணி மற்றும் முந்தைய கலை மற்றும் கைவினை இயக்கத்தின் கரிம வடிவங்களால் ஈர்க்கப்பட்ட பாணியில் அலங்கரிக்கப்பட்ட விரிவான அழகான ஆடைகளில் பிணைக்கப்பட்டுள்ளன. \n \n இந்த ஓவியம் இப்போது வியன்னாவின் பெல்வெடெரில் உள்ள ஓஸ்டெரிச்சிஷ் கேலரி பெல்வெடெர் அருங்காட்சியகத்தில் தொங்குகிறது, மேலும் இது வியன்னா பிரிவின் (ஆர்ட் நோவியோவின் உள்ளூர் மாறுபாடு) ஒரு தலைசிறந்த படைப்பாகவும், அடேல் ப்ளோச்-பாயர் I இன் உருவப்படத்திற்குப் பிறகு கிளிம்ட்டின் மிகவும் பிரபலமான படைப்பாகவும் கருதப்படுகிறது. இது ஒரு பிரபலமான கலைப் படைப்பாக பலரால் கருதப்படுகிறது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "வீனஸின் பிறப்பு என்பது இத்தாலிய கலைஞர் சாண்ட்ரோ பொட்டிஸெல்லியின் ஓவியமாகும், இது 1480 களின் நடுப்பகுதியில் நிறைவேற்றப்பட்டிருக்கலாம். வீனஸ் தேவி தனது பிறப்புக்குப் பிறகு கரைக்கு வருவதை இது சித்தரிக்கிறது, அவள் கடலில் இருந்து முழுமையாக வளர்ந்தபோது (வீனஸ் அனடியோமீன் என்று அழைக்கப்படுகிறது மற்றும் பெரும்பாலும் கலையில் சித்தரிக்கப்படுகிறது). இந்த ஓவியம் இத்தாலியின் புளோரன்ஸ் நகரில் உள்ள உஃபிசி கேலரியில் உள்ளது. \n \n இவை இரண்டும் ஒரு ஜோடி அல்ல என்றாலும், இந்த ஓவியம் தவிர்க்க முடியாமல் பொட்டிஸெல்லியின் மற்ற மிகப் பெரிய புராண ஓவியமான ப்ரைமாவேராவுடன் விவாதிக்கப்படுகிறது. அவை உலகின் மிகவும் பிரபலமான ஓவியங்களில் ஒன்றாகும், மேலும் இத்தாலிய மறுமலர்ச்சியின் சின்னங்களாகும்; இரண்டில், பிறப்பு ப்ரைமாவேராவை விட நன்கு அறியப்பட்டதாகும். கிளாசிக்கல் புராணங்களில் இருந்து பாடங்களின் சித்தரிப்புகள் மிகப் பெரிய அளவில் அவை கிளாசிக்கல் பழங்காலத்திலிருந்து மேற்கத்திய கலையில் கிட்டத்தட்ட முன்னோடியில்லாத வகையில் இருந்தன, அதே போல் பிறப்பில் ஒரு நிர்வாண பெண் உருவத்தின் அளவு மற்றும் முக்கியத்துவம் இருந்தது. அவர்கள் இருவரும் மெடிசி குடும்பத்தின் ஒரே உறுப்பினரால் நியமிக்கப்பட்டதாக கருதப்பட்டது, ஆனால் இது இப்போது நிச்சயமற்றது. \n \n கலை வரலாற்றாசிரியர்களால் அவை முடிவில்லாமல் பகுப்பாய்வு செய்யப்பட்டுள்ளன, முக்கிய கருப்பொருள்கள்ஃ பண்டைய ஓவியர்களைப் பின்பற்றுதல் மற்றும் திருமணக் கொண்டாட்டங்களின் சூழல் (பொதுவாக ஒப்புக் கொள்ளப்பட்டது), மறுமலர்ச்சி நியோ-பிளாட்டோனிசத்தின் செல்வாக்கு (ஓரளவு சர்ச்சைக்குரியது), மற்றும் ஆணையர்களின் அடையாளம் (ஒப்புக் கொள்ளப்படவில்லை). இருப்பினும், பிறப்புக்கு அதன் அர்த்தத்தை டிகோட் செய்ய சிக்கலான பகுப்பாய்வு தேவையில்லை என்று பெரும்பாலான கலை வரலாற்றாசிரியர்கள் ஒப்புக்கொள்கிறார்கள். ஓவியத்தில் நுணுக்கங்கள் இருந்தாலும், அதன் முக்கிய பொருள் கிரேக்க புராணங்களில் இருந்து ஒரு பாரம்பரிய காட்சியின் நேரடியான, தனிப்பட்ட, சிகிச்சையாகும், மேலும் அதன் முறையீடு உணர்ச்சி மற்றும் மிகவும் அணுகக்கூடியது, எனவே அதன் மகத்தான புகழ்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "சாம்பல் மற்றும் கருப்பு எண். 1, விஸ்லரின் தாய் அல்லது கலைஞரின் தாயின் உருவப்படம் என்ற பேச்சுவழக்கு பெயரில் நன்கு அறியப்பட்ட இது, 1871 ஆம் ஆண்டில் அமெரிக்காவில் பிறந்த ஓவியர் ஜேம்ஸ் அபோட் மெக்நீல் விஸ்லர் உருவாக்கிய கேன்வாஸில் உள்ள எண்ணெய்களில் வரையப்பட்ட ஓவியம் ஆகும். ஓவியத்தின் பொருள் விஸ்லரின் தாயார் அன்னா மெக்நீல் விஸ்லர் ஆவார். ஓவியம் 56.81 ஆல் 63.94 அங்குலங்கள் (1,443 மிமீ × 1,624 மிமீ), விஸ்லரின் சொந்த வடிவமைப்பின் சட்டகத்தில் காட்டப்பட்டுள்ளது. இது 1891 ஆம் ஆண்டில் பிரெஞ்சு அரசால் வாங்கப்பட்ட பாரிஸில் உள்ள மியூஸி டி ஓர்சேவால் நடத்தப்படுகிறது. இது அமெரிக்காவிற்கு வெளியே ஒரு அமெரிக்க கலைஞரின் மிகவும் பிரபலமான படைப்புகளில் ஒன்றாகும். இது ஒரு அமெரிக்க ஐகான் மற்றும் ஒரு விக்டோரியன் மோனா லிசா என்று பல்வேறு வகையில் விவரிக்கப்பட்டுள்ளது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "அர்னோல்ஃபினி உருவப்படம் (அல்லது அர்னோல்ஃபினி திருமணம், அர்னோல்ஃபினி திருமணம், ஜியோவானி அர்னோல்ஃபினி மற்றும் அவரது மனைவியின் உருவப்படம் அல்லது பிற தலைப்புகள்) ஆரம்பகால நெதர்லாந்து ஓவியர் ஜான் வான் ஐக் ஓக் பலகையில் 1434 ஆம் ஆண்டு வரைந்த எண்ணெய் ஓவியம் ஆகும். இது ஒரு முழு நீள இரட்டை உருவப்படத்தை உருவாக்குகிறது, இது இத்தாலிய வணிகர் ஜியோவானி டி நிக்கோலோ அர்னால்பினி மற்றும் அவரது மனைவியை சித்தரிக்கிறது என்று நம்பப்படுகிறது, அநேகமாக ஃப்ளெமிஷ் நகரமான ப்ரூகஸில் உள்ள அவர்களின் இல்லத்தில். அதன் அழகு, சிக்கலான உருவப்படம், வடிவியல் ஆர்த்தோகனல் முன்னோக்கு மற்றும் கண்ணாடியைப் பயன்படுத்தி பட இடத்தின் விரிவாக்கம் காரணமாக இது மேற்கத்திய கலையில் மிகவும் அசல் மற்றும் சிக்கலான ஓவியங்களில் ஒன்றாக கருதப்படுகிறது. எர்ன்ஸ்ட் கோம்ப்ரிச்சின் கூற்றுப்படி, \"இத்தாலியில் டோனடெல்லோ அல்லது மசாசியோவின் படைப்புகளைப் போலவே இது அதன் சொந்த வழியில் புதியதாகவும் புரட்சிகரமாகவும் இருந்தது. நிஜ உலகின் ஒரு எளிய மூலையில் திடீரென்று மந்திரத்தால் செய்யப்பட்டதைப் போல ஒரு பலகையில் பொருத்தப்பட்டது. வரலாற்றில் முதல் முறையாக கலைஞர் இந்த வார்த்தையின் உண்மையான அர்த்தத்தில் சரியான கண் சாட்சியாக ஆனார் \". இந்த உருவப்படம் எர்வின் பனோஃப்ஸ்கி மற்றும் சில கலை வரலாற்றாசிரியர்களால் திருமண ஒப்பந்தத்தின் தனித்துவமான வடிவமாக கருதப்படுகிறது, இது ஒரு ஓவியமாக பதிவு செய்யப்பட்டுள்ளது. 1434 ஆம் ஆண்டில் வான் ஐக் கையெழுத்திட்டு தேதியிட்டது, அதே கலைஞர் மற்றும் அவரது சகோதரர் ஹூபர்ட் ஆகியோரால் கென்ட் அல்டார்பீஸுடன், டெம்பராவை விட எண்ணெய்களில் செயல்படுத்தப்பட்ட மிகப் பழமையான மிகவும் பிரபலமான குழு ஓவியம் இது. இந்த ஓவியம் 1842 இல் லண்டனில் உள்ள நேஷனல் கேலரியால் வாங்கப்பட்டது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "கிங்மிங் திருவிழாவின் போது ஆற்றின் குறுக்கே (கிங்மிங் ஷாங்கே து) என்பது சாங் வம்ச ஓவியர் ஜாங் சேதுவான் (1085-1145) வரைந்த ஒரு கைப்படம் மற்றும் அடுத்தடுத்த நூற்றாண்டுகளில் பல முறை நகலெடுக்கப்பட்டது. இது மக்களின் அன்றாட வாழ்க்கையையும், வடக்கு பாடலின் போது தலைநகரான பியாஞ்சிங்கின் (இன்றைய கைஃபெங்) நிலப்பரப்பையும் படம் பிடிக்கிறது. கல்லறை துடைத்தல் மற்றும் பிரார்த்தனைகள் போன்ற விடுமுறையின் சடங்கு அம்சங்களைக் காட்டிலும், கிங்மிங் திருவிழாவில் பண்டிகை உணர்வு மற்றும் உலகளாவிய குழப்பத்தைக் கொண்டாடுவதாக இந்த கருப்பொருள் பெரும்பாலும் கூறப்படுகிறது. வலமிருந்து இடமாக படியுங்கள், ஒரு பார்வையாளர் அதை வெளியிடும்போது, அடுத்தடுத்த காட்சிகள் பணக்காரர்கள் முதல் ஏழைகள் வரை சமூகத்தின் அனைத்து மட்டங்களின் வாழ்க்கை முறையையும், கிராமப்புறங்கள் மற்றும் நகரங்களில் பொருளாதார நடவடிக்கைகளையும் வெளிப்படுத்துகின்றன, மேலும் கால ஆடை மற்றும் கட்டிடக்கலையின் காட்சிகளை வழங்குகின்றன. இந்த ஓவியம் அனைத்து சீன ஓவியங்களிலும் மிகவும் புகழ்பெற்ற படைப்பாகக் கருதப்படுகிறது, மேலும் இது \"சீனாவின் மோனா லிசா\" என்று அழைக்கப்படுகிறது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "ஃபுச்சுன் மலைகளில் வசிப்பது சீன ஓவியர் ஹுவாங் கோங்வாங்கின் (1269-1354) எஞ்சியிருக்கும் சில படைப்புகளில் ஒன்றாகும், மேலும் இது அவரது மிகச்சிறந்த படைப்புகளில் ஒன்றாக கருதப்படுகிறது. 1348 மற்றும் 1350 க்கு இடையில் வரையப்பட்ட இந்த ஓவியம் 1650 ஆம் ஆண்டில் இரண்டு துண்டுகளாக எரிக்கப்பட்டது. இன்று, ஒரு துண்டு ஹாங்ஜோவில் உள்ள ஜெஜியாங் மாகாண அருங்காட்சியகத்தில் வைக்கப்பட்டுள்ளது, மற்ற துண்டு தைபேயில் உள்ள தேசிய அரண்மனை அருங்காட்சியகத்தில் வைக்கப்பட்டுள்ளது. மொத்தத்தில், முழு ஓவியமும் 691.3 செமீ நீளத்தை அளவிடும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "இந்த ஓவியத்தைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "பேரரசர் தைசோங் திபெத்திய தூதரைப் பெறுவது (மேலும் அழைக்கப்படுகிறது) என்பது டாங் வம்சத்திற்கும் திபெத்துக்கும் இடையிலான நட்பான சந்திப்பைக் காண்பிப்பதற்காக யான் லிபென் வரைந்த பட்டு ஓவியம் ஆகும். இந்த ஓவியம் 129 சென்டிமீட்டர் (51 அங்குலம்) நீளமும் 38.5 சென்டிமீட்டர் (15.2 அங்குலம்) அகலமும் கொண்டது. புனியன் து பெய்ஜிங்கில் உள்ள அரண்மனை அருங்காட்சியகத்தில் உள்ளது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "சிடார் ஆப்பிள் துரு (ஜிம்னோஸ்போரஞ்சியம் ஜூனிபேரி-விர்ஜினியே) என்பது ஒரு பூஞ்சை நோயாகும், இதற்கு ஜூனிபர் தாவரங்கள் அதன் சிக்கலான இரண்டு ஆண்டு வாழ்க்கைச் சுழற்சியை முடிக்க வேண்டும். பல்வேறு ஜூனிபர் இனங்களின் இளம் கிளைகளில் சிவப்பு-பழுப்பு பித்தமாக வித்திகள் குளிர்காலத்தில் உள்ளன. வசந்த காலத்தின் தொடக்கத்தில், ஈரமான காலநிலையின் போது, இந்த கால்கள் வீங்கி, பிரகாசமான ஆரஞ்சு நிற வித்துக்கள் காற்றால் வீசப்படுகின்றன, அங்கு அவை பாதிக்கப்படக்கூடிய ஆப்பிள் மற்றும் நண்டு-ஆப்பிள் மரங்களை பாதிக்கின்றன. இந்த மரங்களில் உருவாகும் வித்திகள் அடுத்த ஆண்டு ஜூனிபர்களை மட்டுமே பாதிக்கும். ஆண்டுதோறும், இந்த நோய் ஜூனிபர்களிடமிருந்து ஆப்பிள்களுக்கு மீண்டும் ஜூனிபர்களுக்கு பரவ வேண்டும்; இது ஆப்பிள் மரங்களுக்கு இடையில் பரவ முடியாது. \n \n ஆப்பிள் மற்றும் நண்டு-ஆப்பிள் மரங்களில், பூத்த சிறிது நேரத்திலேயே இலைகளின் மேல் மேற்பரப்பில் வெளிர் மஞ்சள் முள் முனை அளவிலான புள்ளிகளைப் பாருங்கள். இவை படிப்படியாக பிரகாசமான ஆரஞ்சு-மஞ்சள் புள்ளிகளாக விரிவடைகின்றன, இது நோயை எளிதில் அடையாளம் காண உதவுகிறது. பழத்திலும் ஆரஞ்சு நிற புள்ளிகள் உருவாகலாம். அதிக அளவில் பாதிக்கப்பட்ட இலைகள் முன்கூட்டியே விழக்கூடும். \n \n சிகிச்சை \n 1. கிடைக்கும் போது எதிர்ப்பு சாகுபடியைத் தேர்ந்தெடுக்கவும். \n 2. மரங்களுக்கு அடியில் இருந்து விழுந்த இலைகள் மற்றும் பிற குப்பைகளை எழுப்பி அப்புறப்படுத்துங்கள். \n 3. பாதிக்கப்பட்ட ஜூனிபர்களிடமிருந்து கால்ஸ்களை அகற்றவும். சில சந்தர்ப்பங்களில், ஜூனிபர் செடிகளை முழுவதுமாக அகற்ற வேண்டும். \n 4. ஜூனிபர் புரவலன் வெளியிடும் வித்திகளிலிருந்து மரங்களைப் பாதுகாக்க, மொட்டு உடைப்பதில் தொடங்கி, ஆப்பிள்களில் வாரந்தோறும் பயன்படுத்துவதற்கு பெயரிடப்பட்ட தடுப்பு, நோயை எதிர்த்துப் போராடும் பூஞ்சைக் கொல்லிகளைப் பயன்படுத்துங்கள். இது வருடத்திற்கு ஒரு முறை மட்டுமே நிகழ்கிறது, எனவே இந்த வசந்தகால பரவலுக்குப் பிறகு கூடுதல் விண்ணப்பங்கள் தேவையில்லை. ஜூனிபரில், ஆகஸ்ட் பிற்பகுதிக்கும் அக்டோபர் பிற்பகுதிக்கும் இடையில் குறைந்தது நான்கு முறை செம்பு கரைசலை (0.5 முதல் 2 அவுன்ஸ்/கேலன் தண்ணீர்) கொண்டு தாவரங்களை தெளித்து துருவைக் கட்டுப்படுத்தலாம். பெரும்பாலான பூஞ்சை மற்றும் பாக்டீரியா நோய்களுக்கு செரெனேட் கார்டன் மூலம் பாதுகாப்பாக சிகிச்சையளிக்கவும். இந்த பரந்த ஸ்பெக்ட்ரம் பயோ-பூஞ்சைக் கொல்லி கரிம பயன்பாட்டிற்காக பதிவுசெய்யப்பட்ட பேசிலஸ் சப்டிலிஸின் காப்புரிமை பெற்ற திரிபைப் பயன்படுத்துகிறது. எல்லாவற்றிற்கும் மேலாக, செரெனேட் தேனீக்கள் மற்றும் நன்மை பயக்கும் பூச்சிகளுக்கு முற்றிலும் நச்சுத்தன்மையற்றது. \n 7. கந்தகம் மற்றும் பைரெத்ரின்களைக் கொண்ட, போனைடு ஆர்ச்சர்ட் ஸ்ப்ரே ஒரு பாதுகாப்பான, பூச்சி தாக்குதல்கள் மற்றும் பூஞ்சை பிரச்சினைகளுக்கு ஒரு வெற்றி செறிவு ஆகும். சிறந்த முடிவுகளுக்கு, பருவத்தின் தொடக்கத்தில் ஒரு பாதுகாப்பு தெளிப்பாக (2.5 அவுன்ஸ்/கேலன்) பயன்படுத்துங்கள். நோய், பூச்சிகள் அல்லது ஈரமான வானிலை இருந்தால், ஒரு கேலன் தண்ணீரில் 5 அவுன்ஸ் கலக்கவும். தாவரத்தின் அனைத்து பகுதிகளையும், குறிப்பாக புதிய தளிர்களை முழுமையாக தெளிக்கவும். உங்கள் பகுதியில் உள்ள பிற சாத்தியமான தீர்வுகளுக்கு உங்கள் உள்ளூர் வேளாண் விரிவாக்க அலுவலகத்தைத் தொடர்பு கொள்ளுங்கள்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "ஆந்த்ராக்னோஸ். இது கொலிட்டோட்ரிச்சம் இனத்தில் உள்ள பூஞ்சைகளால் ஏற்படுகிறது, இது பல தாவர இனங்களில் நோய்களுக்கு காரணமான தாவர நோய்க்கிருமிகளின் பொதுவான குழுவாகும். பாதிக்கப்பட்ட தாவரங்கள் தண்டுகள், இலைகள் அல்லது பழங்களில் இருண்ட, நீரில் நனைந்த புண்களை உருவாக்குகின்றன. இந்த புண்களின் மையங்கள் பெரும்பாலும் இளஞ்சிவப்பு, ஜெலட்டினஸ் வித்திகளால் மூடப்பட்டிருக்கும், குறிப்பாக ஈரப்பதமான, சூடான காலநிலையின் போது. ஆந்த்ராக்னோஸ் ஒரு அழகான அறுவடையை ஒரு சில நாட்களில் அழுகிய கழிவுகளாகக் குறைக்கும். \n \n பூஞ்சை நோய் விதைகள், மண் மற்றும் தோட்ட இடிபாடுகளுக்குள் மற்றும் அதிகப்படியான குளிர்காலத்தில் பரவுகிறது. குளிர்ந்த ஈரமான வானிலை அதன் வளர்ச்சியை ஊக்குவிக்கிறது, மேலும் வித்திகளின் தொடர்ச்சியான வளர்ச்சிக்கான உகந்த வெப்பநிலை 75-85 °F க்கு இடையில் உள்ளது. பூஞ்சையின் வளர்ச்சி மற்றும் முளைப்புக்கும், தாவரத்தின் தொற்றுக்கும் ஈரப்பதம் தேவைப்படுகிறது. இது காற்று, மழை, பூச்சிகள் மற்றும் தோட்ட கருவிகளால் பரவுகிறது. \n \n சிகிச்சை \n 1. முடிந்தவரை எதிர்க்கும் தாவர வகைகளைத் தேர்ந்தெடுத்து, நோயால் பாதிக்கப்படாத மேற்கத்திய வளர்க்கப்பட்ட விதைகளைப் பயன்படுத்துங்கள். \n 2. இந்த பூஞ்சை பிரச்சனை பொதுவானதாக இருந்தால், உங்கள் சொந்த விதையை நடவு செய்வதிலிருந்து காப்பாற்ற வேண்டாம். \n 3. நோய் பரவுவதைத் தவிர்க்க, தாவரங்கள் ஈரமாக இருக்கும்போது தோட்டங்களுக்கு வெளியே இருங்கள் மற்றும் பயன்படுத்திய பிறகு அனைத்து தோட்டக் கருவிகளையும் (ஒரு பகுதி ப்ளீச் 4 பகுதி தண்ணீரில்) கிருமி நீக்கம் செய்வதை உறுதிப்படுத்திக் கொள்ளுங்கள். பூஞ்சை வித்திகளுக்கான குளிர்கால தளங்களைக் குறைக்க, பாதிக்கப்பட்ட இலைகள், பழங்கள் அல்லது தண்டுகளை உரம் தயாரிக்கவும், இலையுதிர்காலத்தில், அறுவடைக்குப் பிறகு, தோட்டப் பகுதிகளை முழுமையாக சுத்தம் செய்யவும் வேண்டாம். \n 5. பெரும்பாலான பூஞ்சை மற்றும் பாக்டீரியா நோய்களுக்கு செரெனேட் கார்டன் மூலம் பாதுகாப்பாக சிகிச்சையளிக்கவும். இந்த பரந்த ஸ்பெக்ட்ரம் பயோ-பூஞ்சைக் கொல்லி கரிம பயன்பாட்டிற்காக பதிவுசெய்யப்பட்ட பேசிலஸ் சப்டிலிஸின் காப்புரிமை பெற்ற திரிபைப் பயன்படுத்துகிறது. எல்லாவற்றிற்கும் மேலாக, செரெனேட் தேனீக்கள் மற்றும் நன்மை பயக்கும் பூச்சிகளுக்கு முற்றிலும் நச்சுத்தன்மையற்றது. \n 6. திரவ செம்பு ஸ்ப்ரேக்கள் மற்றும் கந்தக பொடிகள் வாரந்தோறும் பயன்படுத்தப்பட வேண்டும், இது வசந்த காலத்தின் தொடக்கத்தில் இலைகள் உருவாகத் தொடங்கும் போது தொடங்கி வளரும் பருவம் முழுவதும் தொடரும். நாளின் முற்பகுதியில் தெளிக்கவும், வெப்பமான காலநிலைகளில் பயன்பாடுகளைத் தவிர்க்கவும். நடவு செய்வதற்கு முன்பு விதைகளையும் சுத்திகரிக்கலாம். \n 7. வேப்ப எண்ணெய் தெளிப்பு என்பது ஒரு கரிம, பல்நோக்கு பூஞ்சைக் கொல்லி/பூச்சிக்கொல்லி/மிட்டிஸைடு ஆகும், இது முட்டைகள், லார்வாக்கள் மற்றும் பூச்சிகளின் வயதுவந்த நிலைகளைக் கொல்வதோடு தாவரங்கள் மீதான பூஞ்சைத் தாக்குதலையும் தடுக்கிறது. வசந்த காலத்தில் வளரும் முதல் அறிகுறியாக, ஒவ்வொரு 7-14 நாட்களுக்கும் ஒரு தடுப்பு நடவடிக்கையாக அல்லது ஏற்கனவே உள்ள பிரச்சினைகள் நீங்கும் வரை 7 நாள் அட்டவணையில் முன்கூட்டியே விண்ணப்பிக்கவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "இது பாக்டீரியா புற்றுநோயாகும், இது செர்ரி மற்றும் பிளம்ஸில் மிகவும் பொதுவானது, ஆனால் ஆப்ரிகாட், பீச் மற்றும் பல வகையான கல் பழங்களையும் பாதிக்கலாம். தண்டு அல்லது கிளைகளில் மூழ்கிய, தண்ணீரில் நனைந்த அல்லது \"கம்மி\" புண்கள் ஏற்பட்டால் இந்த தாவர நோயை சந்தேகிக்கவும். வசந்த காலத்தில் மரங்கள் சுறுசுறுப்பான வளர்ச்சியைத் தொடங்கும் போது, இந்த காயமடைந்த பகுதிகளிலிருந்து ஒரு புளிப்பு வாசனை சாறு வெளியேறக்கூடும். கேன்கர்கள் சுற்றியுள்ள ஆரோக்கியமான பட்டையை விட இருண்டதாக மாறும், மேலும் அடிப்படை திசு சிவப்பு-பழுப்பு நிறத்தில் கருப்பு மற்றும் ஈரப்பதமாக இருக்கும். \n \n குறிப்புஃ கான்கர்கள் கிளைகள் அல்லது தண்டுகளை கட்டினால், நோயுற்ற பகுதிக்கு மேலே உள்ள இலைகள் சுருண்டு மஞ்சள் நிறமாக மாறும். வளர்ச்சி நிறுத்தப்பட்டு, கிளை அல்லது மரம் இறுதியில் இறந்துவிடும். \n \n புற்றுநோயை ஏற்படுத்தும் பாக்டீரியா, சூடோமோனாஸ் சிரிங்கே, காயமடைந்த பட்டை அல்லது ஒரு கிளையில் அல்லது கிளையில் வெட்டப்பட்ட சீரமைப்பு போன்ற ஏற்கனவே உள்ள காயம் மூலம் மரங்களுக்குள் நுழைகிறது. வசந்த காலத்தில் உறைபனி சேதம் கூடுதல் நோய்த்தொற்றுகளை ஊக்குவிக்கக்கூடும். பாக்டீரியா புற்றுநோய் நோய்த்தொற்றுகள் இலையுதிர் காலம், குளிர்காலம் மற்றும் வசந்த காலத்தின் தொடக்கத்தில் (குளிர்ந்த, ஈரமான காலநிலையின் போது) ஏற்படுகின்றன, மேலும் அவை மழை அல்லது தண்ணீர் மற்றும் சீரமைப்பு கருவிகளால் பரவுகின்றன. செயலில் உள்ள புற்றுநோய்கள், பாதிக்கப்பட்ட மொட்டுகள் மற்றும் பாதிக்கப்பட்ட மற்றும் ஆரோக்கியமான மரங்கள் மற்றும் களைகளின் மேற்பரப்பில் பாக்டீரியா அதிக குளிர்காலம். \n \n சிகிச்சை \n 1. காயங்கள் விரைவாக குணமடையும் போது பூக்கும் மரங்களை வெட்டவும். \n 2. பாதிக்கப்பட்ட பகுதிகளுக்குக் கீழே அழுகிய அல்லது இறந்த கைகால்களை அகற்றவும். \n 3. வசந்த காலத்தின் தொடக்கத்தில் சீரமைப்பு செய்வதையும், பாக்டீரியாக்கள் மிகவும் சுறுசுறுப்பாக இருக்கும்போது வீழ்ச்சியடைவதையும் தவிர்க்கவும். அனைத்து சீரமைப்பு வெட்டுக்களுக்கும் உடனடியாக டாங்கிள்ஃபுட் மரம் சீரமைப்பு முத்திரை மூலம் சிகிச்சையளிக்கவும், ஒவ்வொரு வெட்டுக்கும் பிறகு உங்கள் சீரமைப்பு உபகரணங்களை கிருமி நீக்கம் செய்வதை உறுதிப்படுத்திக் கொள்ளுங்கள்-ஒரு பகுதி ப்ளீச் 4 பகுதி தண்ணீருக்கு. மரங்களின் அடிப்பகுதியைச் சுற்றி சரம் டிரிம்மர்களைப் பயன்படுத்தினால், தொற்றுநோயைத் தடுக்க சுவாசிக்கக்கூடிய மரம் மடக்குடன் பட்டையை சேதப்படுத்துவதைத் தவிர்க்கவும். \n 6. பட்டையை சேதப்படுத்தும் வெப்பநிலை ஏற்ற இறக்கங்களைக் குறைக்க தண்ணீரில் நீர்த்த வெள்ளை லேடெக்ஸ் வண்ணப்பூச்சுடன் பட்டையை துலக்குங்கள். \n 7. இந்த கல் பழப் பிரச்சினைக்கு எதிராக செம்பு பூஞ்சைக் கொல்லிகள் சில வெற்றிகளைக் கொண்டுள்ளன என்று ஆராய்ச்சி காட்டுகிறது. இருப்பினும், முடிவுகள் சீரற்றவை. மொத்த மேலாண்மை திட்டத்தின் ஒரு பகுதியாக இதைப் பயன்படுத்த பரிந்துரைக்கிறோம். \n 8. காற்று சுழற்சியை மேம்படுத்தவும், தண்டு மற்றும் கிரீடம் உலர வைக்கவும் இளம் மரங்களின் அடிப்பகுதியைச் சுற்றியுள்ள களைகள் மற்றும் புல்லை அகற்றவும். \n 9. ஆர்கானோசைட்® தாவர மருத்துவர் ஒரு பூமிக்கு உகந்த முறையான பூஞ்சைக் கொல்லியாகும், இது அலங்காரங்கள், தரை, பழம் மற்றும் பலவற்றில் ஏராளமான நோய்களை எதிர்த்துப் போராட முழு தாவரத்திலும் செயல்படுகிறது. ஒரு கேலன் தண்ணீருக்கு 1/3 முதல் 3/4 அவுன்ஸ் வரை கலந்து, சீரமைப்பு காயங்கள் மற்றும் சுற்றியுள்ள பகுதிகளில் வண்ணம் பூசவும் அல்லது தெளிக்கவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "இது மலர் முனை அழுகல் ஆகும். தக்காளி, மிளகு, வெள்ளரிக்காய் மற்றும் கத்திரிக்காய் ஆகியவற்றின் கடுமையான கோளாறு, மலர் முனை அழுகல் என்பது ஒரு சுற்றுச்சூழல் பிரச்சினையாகும் (பூஞ்சை அல்ல) இது பெரும்பாலும் சீரற்ற நீர்ப்பாசனம் அல்லது கால்சியம் குறைபாட்டால் ஏற்படுகிறது. (இவை தொடர்புடையதாக இருக்கலாம்; சீரற்ற நீர்ப்பாசனம் கால்சியம் உறிஞ்சப்படுவதைத் தடுக்கலாம்.) இந்த பொதுவான தோட்ட \"நோய்\" பெரும்பாலும் அதிகப்படியான உரம், அதிக உப்பு அளவு அல்லது வறட்சியின் விரைவான வளர்ச்சியால் ஏற்படுகிறது. \n \n மலர் முனை அழுகல் அறிகுறிகள் பச்சை மற்றும் பழுத்த பழங்கள் இரண்டிலும் நிகழ்கின்றன, மேலும் இது தண்ணீரில் நனைந்த பகுதிகளால் அடையாளம் காணப்படுகிறது, அவை படிப்படியாக விரிவடைந்து கீழ் முனையில் மூழ்கிய, பழுப்பு, தோல் புள்ளிகளாக முதிர்ச்சியடைகின்றன. பல சந்தர்ப்பங்களில், கருப்பு, தெளிவற்ற போன்ற வளர்ச்சியாகத் தோன்றும் இரண்டாம் நிலை நோய்க்கிருமிகள், பாதிக்கப்பட்ட பகுதியைத் தாக்கி பழத்தை முழுமையாக அழுகச் செய்கின்றன. மலர் அழுகல் ஒரு தாவரத்திலிருந்து மற்றொரு தாவரத்திற்கு பரவாது. \n \n சிகிச்சை \n இந்த தாவரப் பிரச்சினை உடலியல் இயல்புடையது என்பதால், பூஞ்சைக் கொல்லிகள் ஒரு கட்டுப்பாட்டு நடவடிக்கையாக செயல்படாது. பின்வருவனவற்றை நாங்கள் பரிந்துரைக்கிறோம்ஃ \n \n 1. முடிந்தவரை எதிர்க்கும் காய்கறி வகைகளைத் தேர்ந்தெடுக்கவும். \n 2. மண்ணை சமமாக ஈரப்பதமாக வைத்திருப்பதன் மூலமும், இலைகளால் தாவரங்களை கெல்ப் அல்லது கால்சியம் கரைசலுடன் தெளித்து பிரச்சினைகளைத் தடுக்கவும். \n 3. அதிக அளவு கால்சியம்-எலும்பு உணவு, சிப்பி ஷெல் அல்லது ஜிப்சம்-நடவு நேரத்தில் மண்ணில் சேர்ப்பது பொதுவாக இந்த சிக்கலை வளர்ப்பதைத் தடுக்கிறது. தழைக்கூளம் (வைக்கோல், உரம், புல்) ஒரு அடுக்கு ஜூலை மற்றும் ஆகஸ்ட் மாதங்களின் வெப்பமான, வறண்ட நாட்களில் மண்ணின் ஈரப்பதத்தைப் பாதுகாக்க உதவும். இந்த அத்தியாவசிய ஊட்டச்சத்தின் குறைபாடுகளை சரிசெய்ய அல்லது தடுக்க திரவ கால்சியம் 5 சதவீதத்தின் (1 முதல் 2 தேக்கரண்டி/கேலன் நீர்) இலை பயன்பாடுகள் பயன்படுத்தப்படலாம். சிறந்த முடிவுகளுக்கு, ஒட்டுதலை அதிகரிக்க இயற்கையான சர்ஃபாக்டண்டுடன் இணைத்து, ஓடக்கூடிய அளவிற்கு இலைகளை தெளிக்கவும். \n 6. முல்சிங் தாவரங்கள் ஈரப்பதத்தைப் பாதுகாக்கவும், மேலும் சீரான நீர் விநியோகத்தை வழங்கவும் உதவும். \n 7. தாவர வளர்ச்சியை துரிதப்படுத்தும் மற்றும் தாவரங்கள் கால்சியம் உறிஞ்சுவதைக் குறைக்கும் அதிக நைட்ரஜன் உரங்களைப் பயன்படுத்துவதைத் தவிர்க்கவும். பிளானட் நேச்சுரலில் ஏராளமான சீரான கரிம உரங்கள் கிடைக்கின்றன.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "இது பழுப்பு அழுகல் (மோனிலினியா ஃப்ருக்டிகோலா) ஆகும், இது பாதாம், ஆப்ரிகாட், செர்ரி, பீச் மற்றும் பிளம்ஸ் ஆகியவற்றின் பூக்கள் மற்றும் பழங்களை பாதிக்கும் மிகவும் பொதுவான பூஞ்சை நோயாகும். இது மம்மியாக்கப்பட்ட பழங்கள் (மரத்திலும் தரையிலும்) மற்றும் பாதிக்கப்பட்ட கிளைகளில் அதிகமாக குளிர்விக்கிறது. \n \n இந்த நோய் முதலில் வசந்த காலத்தில் பூக்களைப் பாதிக்கிறது மற்றும் சிறிய கிளைகளாக மீண்டும் வளர்ந்து தண்டுகளைக் கொல்லக்கூடிய புற்றுநோய்களை ஏற்படுத்துகிறது. நோய் கடுமையானதாக இருக்கும்போது ஏராளமான மலர் தாங்கும் தண்டுகள் கொல்லப்படுகின்றன. இறந்த பூக்கள் பெரும்பாலும் கோடையில் இணைக்கப்படுகின்றன. வளரும் அல்லது முதிர்ந்த பழங்கள் வட்ட அல்லது பழுப்பு நிற புள்ளிகளைக் காட்டுகின்றன, அவை மேற்பரப்பில் வேகமாக பரவுகின்றன மற்றும் அழுகிய பகுதிகளில் வெளிர் சாம்பல் நிற வித்துக்கள் உற்பத்தி செய்யப்படுகின்றன. அழுகிய திசு ஒப்பீட்டளவில் உறுதியாகவும் வறண்டதாகவும் இருக்கும். \n \n பழுப்பு அழுகல் வித்திகள் காற்று, மழை மற்றும் பூச்சிகளால் திறந்த அல்லது திறக்கப்படாத மலர்கள் மற்றும் இளம் தளிர்களுக்கு கொண்டு செல்லப்படுகின்றன. நீர் இருந்தால்-மழை, பனி அல்லது நீர்ப்பாசனம் ஆகியவற்றிலிருந்து-பூக்களின் மேற்பரப்பில் வித்திகள் முளைத்து தாவரத்திற்குள் ஊடுருவலாம். நோய் வளர்ச்சி ஒரு பரந்த வெப்பநிலை வரம்பில் நடைபெறுகிறது மற்றும் மொட்டுகள் திறக்கும் நேரத்திலிருந்து இதழ்கள் விழும் வரை பூக்கள் பாதிக்கப்படலாம். சாதகமான சூழ்நிலைகளில், பழுப்பு அழுகல் விரைவாக பரவுகிறது மற்றும் ஒரு முழு பயிரையும் மரத்தின் மீது முழுமையாக அழிக்க முடியும். \n \n சிகிச்சை \n 1. முடிந்தவரை எதிர்க்கும் வகைகளைத் தேர்ந்தெடுக்கவும். \n 2. பாதிக்கப்பட்ட தாவர பாகங்களை உடனடியாக அகற்றுவதும் அழிப்பதும் தனிப்பட்ட மரங்கள் மற்றும் சிறிய பழத்தோட்டங்களில் நோயின் வாழ்க்கைச் சுழற்சியை உடைக்க உதவுகிறது, மேலும் பழுப்பு அழுகலை சேதப்படுத்தும் அளவுகளுக்குக் கீழே வைத்திருக்க இது போதுமானதாக இருக்கலாம். மரங்களுக்கு அடியில் விழுந்த பழங்கள் அல்லது குப்பைகளை அகற்றுவது முக்கியம். \n 4. காற்றுச் சுழற்சியை மேம்படுத்த மரங்களை அவ்வப்போது வெட்டவும். மேலும், பூக்கள், இலைகள் மற்றும் பழங்கள் ஈரமாகாமல் இருக்க கீழே இருந்து தண்ணீர் ஊற்றவும். \n 5. அனைத்து வெட்டுக்களையும் காயங்களையும் மூடுவதற்கும் பூச்சிகள் மற்றும் நோய் உயிரினங்களிலிருந்து பாதுகாப்பதற்கும் டாங்கிள்ஃபுட் சீரமைப்பு முத்திரையைப் பயன்படுத்தவும். \n 6. பயன்படுத்தத் தயாராக உள்ள செம்பு பூஞ்சைக் கொல்லிகள் அல்லது கந்தகத் தூள்களை பாதிக்கப்பட்ட மரங்களுக்கு வாரந்தோறும் பூக்கள் திறக்கத் தொடங்கும் போது தொடங்கி வளரும் பருவம் முழுவதும் தொடர்ந்து பயன்படுத்த வேண்டும். முடிந்தால், 12 மணிநேர வறண்ட வானிலைக்கான நேர பயன்பாடுகள் பயன்பாட்டைப் பின்பற்றுகின்றன. \n 7. ஆர்கானோசைட்® தாவர மருத்துவர் ஒரு பூமிக்கு உகந்த முறையான பூஞ்சைக் கொல்லியாகும், இது அலங்காரங்கள், தரை, பழம் மற்றும் பலவற்றில் ஏராளமான நோய்களை எதிர்த்துப் போராட முழு தாவரத்திலும் செயல்படுகிறது. இந்த அழிவுகரமான கல் பழப் பிரச்சினையை எதிர்த்துப் போராட ஒரு இலை தெளிப்பாக (1 தேக்கரண்டி/கேலன் தண்ணீர்) பயன்படுத்துங்கள். \n 8. கந்தகம் மற்றும் பைரெத்ரின்களைக் கொண்ட, போனைடு ஆர்ச்சர்ட் ஸ்ப்ரே ஒரு பாதுகாப்பான, பூச்சி தாக்குதல்கள் மற்றும் பூஞ்சை பிரச்சினைகளுக்கு ஒரு வெற்றி செறிவு ஆகும். சிறந்த முடிவுகளுக்கு, பருவத்தின் தொடக்கத்தில் ஒரு பாதுகாப்பு தெளிப்பாக (2.5 அவுன்ஸ்/கேலன்) பயன்படுத்துங்கள். நோய், பூச்சிகள் அல்லது ஈரமான வானிலை இருந்தால், ஒரு கேலன் தண்ணீரில் 5 அவுன்ஸ் கலக்கவும். தாவரத்தின் அனைத்து பகுதிகளையும், குறிப்பாக புதிய தளிர்களை முழுமையாக தெளிக்கவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "இது கிளப் ரூட் ஆகும். பெரும்பாலான பித்தளை பயிர்களை (முட்டைக்கோஸ், ப்ரோக்கோலி, காலிஃபிளவர் போன்றவை) பாதிக்கிறது.), கிளப் ரூட் என்பது வட அமெரிக்க வீட்டுத் தோட்டங்களில் ஒரு தீவிரமான தாவர நோயாகும். இது மண்ணால் பரவும் பிளாஸ்மோடியோபோரா பிராசிகா என்ற பூஞ்சையால் ஏற்படுகிறது, இது வேர் முடிகள் மூலம் எளிதில் பாதிக்கப்படக்கூடிய தாவரங்களை பாதிக்கிறது. நோய்வாய்ப்பட்ட வேர்கள் வீங்கி, தவறாக வடிவமைக்கப்பட்டு, சிதைந்து (இணைக்கப்பட்ட) அடிக்கடி விரிசல் அடைந்து அழுகுகின்றன. இதன் விளைவாக, தாவரங்கள் தண்ணீரையும் ஊட்டச்சத்துக்களையும் சரியாக உறிஞ்சுவதில் சிரமம் ஏற்படுகின்றன. \n \n தாவரங்கள் பெரும்பாலும் மோசமாக வளர்ந்து பகலில் வெப்பத்தின் போது வாடிவிடுகின்றன; தாவரங்கள் பெரும்பாலும் குளிர்ந்த இரவுகளில் புத்துயிர் பெறுகின்றன. வெளிப்புற இலைகள் மஞ்சள், ஊதா அல்லது பழுப்பு நிறமாக மாறலாம். கிளப் ரூட் விளைச்சலைக் குறைக்கும் மற்றும் மொத்த பயிர் தோல்வியை ஏற்படுத்தும். \n \n பூஞ்சை வித்திகள் காற்று, நீர் மற்றும் தோட்டக் கருவிகள் மூலம் பரவுகின்றன. நோய் வளர்ச்சி பரந்த அளவிலான நிலைமைகளில் ஏற்படலாம், ஆனால் அதிகப்படியான ஈரப்பதம், குறைந்த மண்ணின் pH மற்றும் மண்ணின் வெப்பநிலை 64 முதல் 77 டிகிரி பாரன்ஹீட் வரை இருப்பதால் இது விரும்பப்படுகிறது. வித்திகள் மண்ணில் 10 ஆண்டுகள் வரை உயிர்வாழ முடியும். \n \n சிகிச்சை \n 1. பூஞ்சைக் கொல்லிகள் இந்த மண்ணில் வசிக்கும் நுண்ணுயிரிகளுக்கு சிகிச்சையளிக்காது. \n 2. முடிந்தால் எதிர்ப்பு சாகுபடியைத் தேர்ந்தெடுக்கவும். \n 3. ஒரு சுத்தமான தோட்டம் மற்றும் சுழலும் பயிர்களை வைத்திருப்பதன் மூலம் இந்த நோய் ஏற்படுவதைத் தடுக்க முயற்சிக்கவும். \n 4. நோய் வித்திகள் மண்ணில் 20 ஆண்டுகள் வரை நீடிக்கும் என்பதை நினைவில் கொள்ளுங்கள். கிளப் ரூட் இருந்தால் நீங்கள் மண்ணை சூரிய ஒளி மயமாக்க விரும்பலாம். * நோய்த்தொற்றின் சாத்தியமான கட்டமைப்பைக் குறைக்க பாதிக்கப்படக்கூடிய களைகள்-கடுகு, முள்ளங்கி, மேய்ப்பரின் பர்ஸ் ஆகியவற்றைக் கட்டுப்படுத்தவும். \n 6. பாதிக்கப்பட்ட தாவரங்களை கவனமாக அகற்றி, தோட்டக் கருவிகளை (ஒரு பகுதி ப்ளீச் 4 பகுதி தண்ணீரில்) பயன்படுத்திய பிறகு கிருமி நீக்கம் செய்யுங்கள். \n 7. இலையுதிர்காலத்தில் உங்கள் தோட்டத்தில் சிப்பி ஷெல் அல்லது டோலோமைட் சுண்ணாம்பு கலப்பதன் மூலம் உங்கள் மண்ணின் pH ஐ மேலும் காரமான 7.2 ஆக உயர்த்தவும். pH ஐ அடிக்கடி சரிபார்க்க எளிய மற்றும் மலிவு விலை மண் சோதனை கருவிகள் கிடைக்கின்றன.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "இது சோளம் பூசணி ஆகும். கொல்லைப்புற தோட்டங்கள் மற்றும் சிறிய பண்ணைகளில் அடிக்கடி காணப்படும் சோளம் புண் உஸ்டிலாகோ ஜீ என்ற பூஞ்சையால் ஏற்படுகிறது மற்றும் தண்டுகள், இலைகள், தொங்குதிரைகள் அல்லது காதுகளில் தோன்றலாம். காதுகள் காளான் போன்ற கட்டிகள் அல்லது வாய்ப் புண்களை உருவாக்கும் போது அறிகுறிகள் பொதுவாகக் காணப்படுகின்றன. இந்த \"வீக்கங்கள்\" சிறிய, வெள்ளை-சாம்பல் நிற முறைகேடுகளாகத் தொடங்குகின்றன, அவை வித்திகளால் நிரப்பப்படும்போது விரிவடைந்து கருப்பு நிறமாக மாறுகின்றன. காதுகுழாய்கள் 4 முதல் 5 அங்குல விட்டம் வரை வளரும் மற்றும் அவை உடைந்து போகும்போது ஆயிரக்கணக்கான வித்திகளை வெளியிடும். இந்த பூஞ்சை வித்திகள் புதிய தாவரங்களைப் பாதிக்க கணிசமான தூரம் காற்றினால் வீசப்படுகின்றன. இலைகளில் உள்ள கால்கள் சிறியதாக இருக்கும், இறுதியில் கடினமாகவும் உலர்ந்ததாகவும் மாறும். \n \n தோட்ட இடிபாடுகள் மற்றும் மண்ணில் சோளம் உறிஞ்சப்படுகிறது. இது காற்று, மழை மற்றும் நீர்ப்பாசனம் மூலம் கொண்டு செல்லப்படுகிறது மற்றும் வெப்பமான, வறண்ட காலநிலைகளில் சிறப்பாக செயல்படுகிறது. வித்திகள் 5 முதல் 7 ஆண்டுகளுக்கு சாத்தியமானதாக இருக்கலாம். சாகுபடி மற்றும் மண்ணை ஊதுவதால் ஏற்படும் சிராய்ப்பு உள்ளிட்ட பல்வேறு காயங்களால் ஏற்படும் காயங்கள், பூஞ்சை தாவரத்திற்குள் நுழைய புள்ளிகளை வழங்குகின்றன. \n \n சிகிச்சை \n 1. கிடைக்கும்போது சில்வர் கிங், ஃபாண்டாசியா, புத்திசாலித்தனம் மற்றும் செனிகா சென்சேஷன் போன்ற சிறந்த எதிர்ப்பு வகைகளைத் தேர்ந்தெடுக்கவும். \n 2. கொல்லைப்புற தோட்டங்களில், இருண்ட பூஞ்சை வித்திகள் வெளியிடப்படுவதற்கு முன்பு கால்ஸ் சேகரித்து அழிக்க பரிந்துரைக்கப்படுகிறது. இது கிடைக்கக்கூடிய பூஞ்சை வித்திகளின் எண்ணிக்கையைக் கட்டுப்படுத்தும் மற்றும் நோய் சுழற்சியை உடைக்க உதவும். \n 3. சாகுபடியின் போது வேர்கள், தண்டுகள் மற்றும் இலைகளில் காயம் ஏற்படுவதைத் தவிர்ப்பதன் மூலம் தொற்று புள்ளிகளைக் குறைக்கவும். மான்டேரி கார்டன் பூச்சி தெளிப்பு அல்லது பிற கரிம பூச்சிக்கொல்லிகளுடன் சோளம் போரர்கள் போன்ற பூச்சிகளால் ஏற்படும் சேதத்தைத் தடுக்கவும். \n 5. பூஞ்சைக் கொல்லிகள் ஒரு பயனுள்ள கட்டுப்பாட்டு வழி அல்ல, ஏனெனில் நோய் மிகவும் பரவலாக உள்ளது மற்றும் பல ஆண்டுகளாக மண்ணில் நீடிக்கும். \n 6. அதிக நைட்ரஜன் உரங்கள் நோயின் தீவிரத்தை அதிகரிக்கலாம்-காய்கறி தோட்டத்தில் ஒரு சீரான கரிம உரத்தைப் பயன்படுத்தவும். \n 7. அறுவடைக்குப் பிறகு அனைத்து தோட்டக் குப்பைகளையும் அகற்றி அழித்து, அடுத்த ஆண்டு பயிர் சுழற்சி பயிற்சி செய்யுங்கள். பாதிக்கப்பட்ட தாவர பாகங்களை பையில் போடுங்கள் அல்லது எரிக்கவும்-உரம் தயாரிக்க வேண்டாம்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "இது கிரவுன் பித்தம் ஆகும், இது மண்ணால் பரவும் பாக்டீரியம் அக்ரோபாக்டீரியம் டுமேஃபாசியன்ஸால் ஏற்படும் ஒரு பொதுவான தாவர நோயாகும். இது உலகம் முழுவதும் காணப்படுகிறது மற்றும் திராட்சை, ராஸ்பெர்ரி, பிளாக்பெர்ரி மற்றும் ரோஜாக்கள் உள்ளிட்ட மர புதர்கள் மற்றும் மூலிகை தாவரங்களில் காணப்படுகிறது. கிரவுன் பித்த அறிகுறிகளில் சுற்று, மருக்கள் போன்ற வளர்ச்சிகள் அடங்கும்-2 அங்குலம் அல்லது பெரிய விட்டம்-அவை மண் கோட்டில் அல்லது அதற்கு சற்று மேலே அல்லது கீழ் கிளைகள் மற்றும் தண்டுகளில் தோன்றும். பல கூழாங்கற்களைக் கொண்ட தாவரங்கள் தண்ணீரையும் ஊட்டச்சத்துக்களையும் தண்டுக்கு மேலே நகர்த்த முடியாமல் பலவீனமடைந்து, வளர்ச்சி குன்றியதாகவும், பலனளிக்காததாகவும் மாறக்கூடும். பித்த திசுக்களை உருவாக்குவதன் மூலம் இளம் தாவரங்களை கொல்ல முடியும். \n \n கிரவுன் பித்தத்திற்கு காரணமான பாக்டீரியாக்கள் மண்ணில் பல ஆண்டுகள் நீடிக்கும், மேலும் கால்ஸ் ஈரப்பதத்துடன் நிறைவுற்றால் அல்லது பழைய கால்ஸ் சிதைந்தால் வெளியிடப்படுகின்றன. புதிய காயங்கள் அல்லது சிராய்ப்புகள் மூலம் பாதிக்கப்படக்கூடிய தாவரங்கள், அவற்றில் பல சீரமைப்பு, உறைந்த காயம், மண் பூச்சிகள், சாகுபடி மற்றும் தாவரங்களை சேதப்படுத்தும் பிற காரணிகளின் விளைவாகும். நர்சரி ஸ்டாக் பெரும்பாலும் ஒட்டுதல் மற்றும் வளரும் வடுக்கள் மூலம் பாதிக்கப்படுகிறது. \n \n சிகிச்சை \n 1. முடிந்தால் எதிர்ப்பு சாகுபடியைத் தேர்ந்தெடுத்து, புகழ்பெற்ற நாற்றங்காலில் இருந்து தாவரங்களை வாங்குங்கள். \n 2. வீக்கம் அல்லது வீக்கத்தின் அறிகுறிகளைக் காட்டும் தாவரங்களை வாங்க வேண்டாம். \n 3. பாதிக்கப்படக்கூடிய தாவரங்களைப் பராமரிக்கும் போது, மண்ணுடன் தொடர்பு கொள்ளக்கூடிய காயங்கள் அல்லது சீரமைப்பு காயங்களைத் தவிர்க்கவும். \n 4. ஸ்ட்ரிங் டிரிம்மர் சேதத்திலிருந்து பாதுகாக்கவும், உங்கள் தோட்டக் கருவிகளைச் சுத்தமாக வைத்திருக்கவும் ட்ரீ ராப் பயன்படுத்தவும். \n 5. இயற்கையான பர்லாப் மூலம் குளிர்கால பாதுகாப்பை வழங்கவும், இதனால் பட்டை உடைவதில்லை. \n 6. பல சந்தர்ப்பங்களில், ஏற்கனவே இருக்கும் கால்ஸ் ஒரு கூர்மையான சீரமைப்பு கத்தி மூலம் அகற்றப்படலாம். பாதிக்கப்பட்ட தாவர திசுக்களை அழித்து, காயத்தை சீரமைப்பு சீலர் மூலம் சிகிச்சை செய்யுங்கள். ஆலை மீட்கப்படாவிட்டால், அதை அகற்றி அழிக்கவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "இது சாம்பல் நிற அச்சு (போட்ரிடிஸ் சினெரியா) ஆகும். பரந்த அளவிலான தாவரங்களில் காணப்படும் சாம்பல் அச்சு என்பது ஒரு பூஞ்சை நோயாகும், இது தோட்டங்கள் வழியாக விரைவாக பயணிக்கிறது, குறிப்பாக ஈரமான, குளிர்ந்த முதல் லேசான வானிலை வரை. நோய் அறிகுறிகள் இலைகள், தண்டுகள், பூக்கள் மற்றும் விளைச்சலில் சாம்பல் நிற மென்மையான, மென்மையான புள்ளிகளாகத் தோன்றுகின்றன. குறிப்பாக ஈரப்பதம் அதிகமாக இருந்தால், சாம்பல் பூஞ்சை வித்திகளின் பூச்சு மூலம் இடங்கள் மூடப்படலாம். பழங்கள் அல்லது தாவரங்கள் சுருங்கி அழுகி பெரும்பாலும் கருப்பு, கல் போன்ற ஸ்க்லெரோட்டியாவை உருவாக்குகின்றன-கடினப்படுத்தப்பட்ட பூஞ்சை இழைகளின் ஒரு சிறிய நிறை-அழுகிய பகுதிகளின் கீழ். \n \n சாம்பல் நிற அச்சு பெரும்பாலும் மண்ணின் மேற்பரப்புக்கு அருகில் அல்லது தாவர விதானத்தின் அடர்த்தியான பகுதிகளில் காணப்படுகிறது. இது முதலில் அழுகிய பூக்களில் உருவாகிறது, பின்னர் தாவரத்தின் பிற பகுதிகளுக்கு விரைவாக பரவுகிறது. அறுவடை செய்யப்பட்ட பழங்கள் மற்றும் காய்கறிகளை அழுகச் செய்யும் சேமிப்புப் பகுதிகளிலும் இந்த நோய் ஏற்படலாம். \n \n பொட்ரிடிஸ் பூஞ்சை தாவரங்கள், மண்ணில் அல்லது மண்ணில் மற்றும் ஸ்க்லெரோட்டியாவாக அதிகப்படியான குளிர்காலத்தை ஏற்படுத்துகிறது. நிலைமைகள் உகந்ததாக இருக்கும்போது வித்திகள் உருவாகின்றன, மேலும் அவை காற்று அல்லது தெறிக்கும் தண்ணீரால் பூக்கள் அல்லது இளம் இலைகள் மீது நகர்த்தப்படுகின்றன, அங்கு அவை முளைத்து தாவரத்திற்குள் நுழைகின்றன. வித்திகள் முளைப்பதற்கு குளிர்ந்த வெப்பநிலை (45-60 F.) மற்றும் அதிக ஈரப்பதம் (93 சதவீதம் மற்றும் அதற்கு மேல்) தேவைப்படுகிறது. முளைக்கும் வித்திகள் அரிதாகவே பச்சை, ஆரோக்கியமான திசுக்களில் நேரடியாக ஊடுருவிச் செல்கின்றன, ஆனால் வளர்ந்து வரும் தாவரங்களில் ஏற்படும் காயங்கள் வழியாக நுழையலாம். வெட்டுக்கள் குறிப்பாக நோய்த்தொற்றுக்கு ஆளாகின்றன. \n \n சிகிச்சை \n 1. தாவரங்களுக்கிடையேயான காற்றுச் சுழற்சியை மேம்படுத்துவதற்காக செடிகளை வெட்டவும் அல்லது பங்கிடவும். ஒவ்வொரு வெட்டுக்கும் பிறகு உங்கள் சீரமைப்பு உபகரணங்களை (ஒரு பகுதி ப்ளீச் 4 பகுதி தண்ணீருக்கு) கிருமி நீக்கம் செய்ய மறக்காதீர்கள். உட்புறத்தில் வளர்ந்தால், காற்றின் ஓட்டத்தை மேம்படுத்த ஒரு சிறிய கிளிப்-ஆன் விசிறியைப் பயன்படுத்தவும். தாவரங்களின் கீழ் உள்ள மண்ணை சுத்தமாக வைத்திருங்கள் மற்றும் விழுந்த குப்பைகளை அடுக்கவும். \n 4. தாவரங்களின் கீழ் நல்ல அளவு கரிம உரம் அல்லது தழைக்கூளம் சேர்க்கவும். பூஞ்சை வித்துக்கள் பூக்கள் மற்றும் இலைகளில் மீண்டும் தெறிவதைத் தடுக்கும். \n 5. அதிகாலையில் தண்ணீர் ஊற்றி, அல்லது பகலில் தாவரங்கள் உலர நேரம் கொடுக்க ஊறவைக்கும் குழாயைப் பயன்படுத்தவும். \n 6. பாதிக்கப்பட்ட தாவர இலைகள் அல்லது தண்டுகளை உரம் தயாரிக்க வேண்டாம், மேலும் பூஞ்சை வித்திகளுக்கான குளிர்கால தளங்களைக் குறைக்க இலையுதிர்காலத்தில் தோட்டப் பகுதிகளை முழுமையாக சுத்தம் செய்யுங்கள். \n 7. செம்பு-சோப் பூஞ்சைக் கொல்லிகள் தாவரங்களை நோய் வித்திகளிலிருந்து பாதுகாப்பதன் மூலம் உதவும். பூக்கும் தொடக்கத்தில் பயன்படுத்துங்கள் மற்றும் அறுவடை வரை ஒவ்வொரு 7-10 நாட்களுக்கும் தொடரவும். வானிலை முன்னறிவிப்புகள் குளிர்ந்த, ஈரமான வானிலை நீண்ட காலத்தை கணிக்கும் போது பூஞ்சை எதிர்ப்பு ஸ்ப்ரேக்கள் குறிப்பாக உத்தரவாதம் அளிக்கப்படுகின்றன. \n 8. பொட்ரிடிஸ் புண் உள்ளிட்ட பெரும்பாலான பூஞ்சை நோய்களுக்கு செரெனேட் கார்டன் மூலம் பாதுகாப்பாக சிகிச்சையளிக்கவும். இந்த பரந்த ஸ்பெக்ட்ரம் பயோ-பூஞ்சைக் கொல்லி கரிம பயன்பாட்டிற்காக பதிவுசெய்யப்பட்ட பேசிலஸ் சப்டிலிஸின் காப்புரிமை பெற்ற திரிபைப் பயன்படுத்துகிறது. எல்லாவற்றிற்கும் மேலாக, செரெனேட் தேனீக்கள் மற்றும் நன்மை பயக்கும் பூச்சிகளுக்கு முற்றிலும் நச்சுத்தன்மையற்றது. \n 9. கரிம பயன்பாட்டிற்காக அங்கீகரிக்கப்பட்ட உயிரியல் பூஞ்சைக் கொல்லியான மைகோஸ்டாப், நோயை அடக்குவதைக் காட்டியுள்ளது. எளிதில் பாதிக்கப்படக்கூடிய இலைகள், பூக்கள் மற்றும் பழங்களுக்கு நேரடி தெளிப்பு (5 கிராம்/50 லிட்டர் தண்ணீர்). ஒவ்வொரு 2 முதல் 3 வாரங்களுக்கும் அல்லது நோய் அழுத்தத்தைப் பொறுத்து தேவைக்கேற்ப விண்ணப்பிக்கவும். \n 10. பச்சைக் குணப்படுத்தும் பூஞ்சைக் கொல்லியில் பொட்டாசியம் பைகார்பனேட்டின் காப்புரிமை பெற்ற சூத்திரம் உள்ளது-இது பொதுவாக உணவுப் பொருட்களில் பயன்படுத்தப்படுகிறது-இது பல தாவர நோய்களைத் தொடர்புகொண்டு கொல்லும் மற்றும் 2 வாரங்கள் வரை எஞ்சிய பாதுகாப்பை வழங்குகிறது. நோயின் முதல் அறிகுறியாக, 1 முதல் 2 தேக்கரண்டி/கேலன் தண்ணீரை கலந்து, தாவரத்தின் அனைத்து வெளிப்படும் மேற்பரப்புகளிலும் தடவவும். சிறந்த பாதுகாப்பிற்காக, நோய் வளர்ச்சிக்கு நிலைமைகள் இனி சாதகமாக இல்லாத வரை 1 முதல் 2 வார இடைவெளியில் மீண்டும் செய்யவும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "இந்த நோய் என்ன (சுருக்கமான அறிமுகத்தைக் கொடுங்கள்) மற்றும் அதை எப்படிக் கையாள்வது?",
+        "answer": "இது ஆரம்பகால நோயாகும். தக்காளி மற்றும் உருளைக்கிழங்கு தாவரங்களில் பொதுவானது, ஆரம்பகால நோய் அல்டர்னேரியா சோலானி என்ற பூஞ்சையால் ஏற்படுகிறது மற்றும் அமெரிக்கா முழுவதும் ஏற்படுகிறது. அறிகுறிகள் முதலில் கீழ், பழைய இலைகளில் சிறிய பழுப்பு நிற புள்ளிகளாக செறிவூட்டப்பட்ட வளையங்களுடன் \"காளையின் கண்\" வடிவத்தை உருவாக்குகின்றன. நோய் முதிர்ச்சியடையும் போது, அது இலை மேற்பரப்பில் வெளிப்புறமாக பரவுகிறது, இதனால் அது மஞ்சள் நிறமாக மாறி, வாடி, இறந்து விடுகிறது. இறுதியில் தண்டு, பழம் மற்றும் தாவரத்தின் மேல் பகுதி பாதிக்கப்படும். பயிர்கள் கடுமையாக சேதமடையக்கூடும். \n \n ஆரம்பகால பூஞ்சை நோய் பாதிக்கப்பட்ட தாவர திசுக்களில் அதிகப்படியான குளிர்காலத்தை ஏற்படுத்துகிறது மற்றும் மழை, நீர்ப்பாசனம், பூச்சிகள் மற்றும் தோட்டக் கருவிகளை தெளிப்பதன் மூலம் பரவுகிறது. இந்த நோய் தக்காளி விதைகள் மற்றும் உருளைக்கிழங்கு கிழங்குகளிலும் பரவுகிறது. அதன் பெயர் இருந்தபோதிலும், ஆரம்பகால நோய்த்தொற்று வளரும் பருவத்தில் எந்த நேரத்திலும் ஏற்படலாம். அதிக வெப்பநிலை (80-85 °F.) ஈரமான, ஈரப்பதமான நிலைமைகள் அதன் விரைவான பரவலை ஊக்குவிக்கின்றன. பல சந்தர்ப்பங்களில், மோசமான ஊட்டச்சத்து அல்லது அழுத்தமான தாவரங்கள் தாக்கப்படுகின்றன. \n \n சிகிச்சை \n காற்று சுழற்சியை மேம்படுத்துவதற்கும் பூஞ்சை பிரச்சினைகளைக் குறைப்பதற்கும் செதுக்குதல் அல்லது பங்குத் தாவரங்கள். \n ஒவ்வொரு வெட்டுக்கும் பிறகு உங்கள் சீரமைப்பு கத்தரிக்கோல்களை (ஒரு பகுதி ப்ளீச் 4 பகுதி தண்ணீருக்கு) கிருமி நீக்கம் செய்ய மறக்காதீர்கள். \n தாவரங்களின் கீழ் உள்ள மண்ணை சுத்தமாகவும் தோட்ட குப்பைகள் இல்லாமல் வைத்திருக்கவும். தாவரங்கள் மீது வித்துக்கள் மீண்டும் தெறிவதைத் தடுக்க கரிம உரத்தின் ஒரு அடுக்கைச் சேர்க்கவும். \n சொட்டு நீர்ப்பாசனம் மற்றும் ஊறவைக்கும் குழாய்களைப் பயன்படுத்தி இலைகளை உலர வைக்கலாம். \n சிறந்த கட்டுப்பாட்டிற்கு, செம்பு அடிப்படையிலான பூஞ்சைக் கொல்லிகளை ஆரம்பத்தில் பயன்படுத்துங்கள், நோய் பொதுவாக தோன்றுவதற்கு இரண்டு வாரங்களுக்கு முன்பு அல்லது வானிலை முன்னறிவிப்புகள் நீண்ட கால ஈரமான வானிலைக்கு முன்னறிவிக்கும் போது. மாற்றாக, நோய் முதன்முதலில் தோன்றும்போது சிகிச்சையைத் தொடங்குங்கள், மேலும் தேவைப்படும் வரை ஒவ்வொரு 7-10 நாட்களுக்கும் மீண்டும் செய்யவும். \n செம்பு மற்றும் பைரெத்ரின்களைக் கொண்ட, போனைடு கார்டன் டஸ்ட் பல பூச்சி தாக்குதல்கள் மற்றும் பூஞ்சை பிரச்சினைகளுக்கு ஒரு பாதுகாப்பான, ஒரு படி கட்டுப்பாடு ஆகும். சிறந்த முடிவுகளுக்கு, இலைகளின் மேற்பகுதி மற்றும் அடிப்பகுதி இரண்டையும் மெல்லிய சீருடை படலம் அல்லது தூசியால் மூடவும். இலை அடர்த்தியைப் பொறுத்து, 10 அவுன்ஸ் 625 சதுர அடி பரப்பளவைக் கொண்டிருக்கும். தேவைக்கேற்ப ஒவ்வொரு 7-10 நாட்களுக்கும் பயன்பாடுகளை மீண்டும் செய்யவும். \n செரெனேட் தோட்டம் ஒரு பரந்த ஸ்பெக்ட்ரம், பல முக்கியமான தாவர நோய்களைக் கட்டுப்படுத்த அல்லது அடக்குவதற்கு பரிந்துரைக்கப்பட்ட தடுப்பு உயிர் பூஞ்சைக் கொல்லி ஆகும். சிறந்த முடிவுகளுக்கு, இலை நோய் வளர்ச்சிக்கு முன் அல்லது நோய்த்தொற்றின் முதல் அறிகுறியில் சிகிச்சை செய்யுங்கள். 7 நாள் இடைவெளியில் அல்லது தேவைக்கேற்ப மீண்டும் செய்யவும். \n அறுவடைக்குப் பிறகு அனைத்து தோட்டக் குப்பைகளையும் அகற்றி அழித்து, அடுத்த ஆண்டு பயிர் சுழற்சி பயிற்சி செய்யுங்கள். \n பாதிக்கப்பட்ட தாவர பாகங்களை எரிக்கவும் அல்லது பையில் வைக்கவும். உரம் தயாரிக்க வேண்டாம்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "சர் ஐசக் நியூட்டன் எஃப்ஆர்எஸ் (25 டிசம்பர் 1642-20 மார்ச்) ஒரு ஆங்கில கணிதவியலாளர், இயற்பியலாளர், வானியலாளர், இரசவாதி, இறையியலாளர் மற்றும் எழுத்தாளர் ஆவார், அவர் தனது காலத்தில் ஒரு இயற்கை தத்துவஞானி என்று விவரிக்கப்பட்டார். அறிவியல் புரட்சி மற்றும் அதைத் தொடர்ந்து வந்த அறிவொளி ஆகியவற்றில் அவர் ஒரு முக்கிய நபராக இருந்தார். 1687 ஆம் ஆண்டில் முதன்முதலில் வெளியிடப்பட்ட அவரது முன்னோடி புத்தகமான தத்துவஞானி நேச்சுரலிஸ் பிரின்சிபியா மேத்தமேடிகா (இயற்கை தத்துவத்தின் கணிதக் கோட்பாடுகள்), முந்தைய பல முடிவுகளை ஒருங்கிணைத்து பாரம்பரிய இயக்கவியலை நிறுவியது. நியூட்டன் ஒளியியலில் அடிப்படை பங்களிப்புகளையும் செய்தார், மேலும் எண்ணற்ற கால்குலஸை உருவாக்கியதற்காக ஜெர்மன் கணிதவியலாளர் காட்ஃபிரைட் வில்ஹெல்ம் லீப்னிஸுடன் பாராட்டைப் பகிர்ந்து கொள்கிறார்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "கன்பூசியஸ் (கன்பூசியஸ்) (கி. மு. 551-கி. மு. 479) ஒரு சீன தத்துவஞானியும், வசந்த மற்றும் இலையுதிர் காலத்தின் அரசியல்வாதியும் ஆவார், இவர் பாரம்பரியமாக சீன முனிவர்களின் முன்னுதாரணமாகக் கருதப்படுகிறார். கன்பூசியஸின் போதனைகள் மற்றும் தத்துவம் கிழக்கு ஆசிய கலாச்சாரம் மற்றும் சமூகத்தை ஆதரிக்கின்றன, இன்று வரை சீனா மற்றும் கிழக்கு ஆசியா முழுவதும் செல்வாக்கு செலுத்துகின்றன.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "காய் லுன் (Cai Lun) (சீன மொழிஃ சீன்; மரியாதைக்குரிய பெயர்ஃ ஜிங்ஜோங் (சி); c. 50-62-கிபி 121), முன்பு சாய் லுன் என்று ரோமானியம் செய்யப்பட்டது, கிழக்கு ஹான் வம்சத்தின் ஒரு சீன திருநங்கை அரசவை அதிகாரி ஆவார். அவர் பாரம்பரியமாக காகிதத்தின் கண்டுபிடிப்பாளராகவும், நவீன காகிதத் தயாரிப்பு செயல்முறையாகவும் கருதப்படுகிறார். ஆரம்பகால காகித வடிவங்கள் கிமு 3 ஆம் நூற்றாண்டிலிருந்து இருந்தபோதிலும், மரப்பட்டை மற்றும் சணல் முனைகள் வழியாக கூழ் சேர்க்கப்பட்டதால் காகித வரலாற்றில் அவர் ஒரு முக்கிய இடத்தை வகிக்கிறார், இதன் விளைவாக பெரிய அளவிலான உற்பத்தி மற்றும் உலகளவில் காகிதம் பரவியது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "கிறிஸ்டோபர் கொலம்பஸ் (25 ஆகஸ்ட் மற்றும் 31 அக்டோபர் 1451-20 மே 1506) ஜெனோவா குடியரசைச் சேர்ந்த ஒரு இத்தாலிய ஆய்வாளர் மற்றும் நேவிகேட்டர் ஆவார், அவர் கத்தோலிக்க மன்னர்களால் நிதியுதவி செய்யப்பட்ட அட்லாண்டிக் பெருங்கடலில் நான்கு ஸ்பானிஷ் அடிப்படையிலான பயணங்களை முடித்தார், இது பரவலான ஐரோப்பிய ஆய்வு மற்றும் அமெரிக்காவின் ஐரோப்பிய காலனித்துவத்திற்கு வழிவகுத்தது. அவரது பயணங்கள் கரீபியன் மற்றும் மத்திய மற்றும் தென் அமெரிக்காவுடனான முதல் அறியப்பட்ட ஐரோப்பிய தொடர்பு ஆகும்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "ஆல்பர்ட் ஐன்ஸ்டீன் (14 மார்ச் 1879-18 ஏப்ரல் 1955) ஜெர்மனியில் பிறந்த கோட்பாட்டு இயற்பியலாளர் ஆவார். சார்பியல் கோட்பாட்டை உருவாக்கியதற்காக நன்கு அறியப்பட்ட இவர், குவாண்டம் இயக்கவியல் கோட்பாட்டின் வளர்ச்சிக்கும், இதனால் நவீன இயற்பியலுக்கும் முக்கிய பங்களிப்புகளை வழங்கினார். சார்பியல் கோட்பாட்டிலிருந்து எழும் அவரது வெகுஜன-ஆற்றல் சமநிலை சூத்திரம் E = mc2, \"உலகின் மிகவும் பிரபலமான சமன்பாடு\" என்று அழைக்கப்படுகிறது. அவரது படைப்புகள் அறிவியல் தத்துவத்தில் அதன் தாக்கத்திற்காகவும் அறியப்படுகின்றன. 1921 ஆம் ஆண்டு இயற்பியலுக்கான நோபல் பரிசை \"கோட்பாட்டு இயற்பியலுக்கான அவரது சேவைகளுக்காகவும், குறிப்பாக ஒளிமின்னழுத்த விளைவின் விதியைக் கண்டுபிடித்ததற்காகவும்\" பெற்றார், இது குவாண்டம் கோட்பாட்டின் வளர்ச்சியில் ஒரு முக்கிய படியாகும். கால அட்டவணையில் உள்ள செயற்கை கூறுகளில் ஒன்றான ஐன்ஸ்டீனியம் அவரது நினைவாக பெயரிடப்பட்டது.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "லூயிஸ் பாஸ்டர் ஃபார்மெர்ஸ் (27 டிசம்பர் 1822-28 செப்டம்பர் 1895) ஒரு பிரெஞ்சு வேதியியலாளரும் நுண்ணுயிரியலாளரும் ஆவார், தடுப்பூசி, நுண்ணுயிர் நொதித்தல் மற்றும் பேஸ்டுரைசேஷன் ஆகியவற்றின் கொள்கைகளை கண்டுபிடித்ததற்காக புகழ்பெற்றவர், அவற்றில் கடைசியாக அவரது பெயர் சூட்டப்பட்டது. வேதியியலில் அவரது ஆராய்ச்சி நோய்களின் காரணங்கள் மற்றும் தடுப்புகள் பற்றிய புரிதலில் குறிப்பிடத்தக்க முன்னேற்றங்களுக்கு வழிவகுத்தது, இது சுகாதாரம், பொது சுகாதாரம் மற்றும் நவீன மருத்துவத்தின் பெரும்பகுதிக்கு அடித்தளமாக அமைந்தது. ரேபிஸ் மற்றும் ஆந்த்ராக்ஸுக்கான தடுப்பூசிகளின் வளர்ச்சியின் மூலம் மில்லியன் கணக்கான உயிர்களைக் காப்பாற்றிய பெருமை பாஸ்டரின் படைப்புகளுக்கு உண்டு. அவர் நவீன நுண்ணுயிரியலின் நிறுவனர்களில் ஒருவராகக் கருதப்படுகிறார், மேலும் \"நுண்ணுயிரியலின் தந்தை\" மற்றும் \"நுண்ணுயிரியலின் தந்தை\" (ராபர்ட் கோக்குடன் சேர்ந்து; பிந்தைய புனைப்பெயர் அன்டோனி வான் லீயுவென்ஹோக்கிற்குக் காரணம்) என்று கௌரவிக்கப்பட்டார்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "கலிலியோ டி வின்சென்சோ போனாயுட்டி டி கலிலி (15 பிப்ரவரி 1564-8 ஜனவரி 1642) ஒரு இத்தாலிய வானியலாளர், இயற்பியலாளர் மற்றும் பொறியாளர் ஆவார். பொதுவாக கலிலியோ என்று குறிப்பிடப்படும் அவரது பெயர் உச்சரிக்கப்படுகிறது. அவர் அப்போது புளோரன்ஸ் டச்சியின் ஒரு பகுதியாக இருந்த பீசா நகரில் பிறந்தார். கலிலியோ கண்காணிப்பு வானியல், நவீன கால பாரம்பரிய இயற்பியல், அறிவியல் முறை மற்றும் நவீன அறிவியலின் தந்தை என்று அழைக்கப்படுகிறார்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "பேரரசர் நார்டன் என்று அழைக்கப்படும் ஜோசுவா ஆபிரகாம் நார்டன் (பிப்ரவரி 4,1818-ஜனவரி 8,1880), கலிபோர்னியாவின் சான் பிரான்சிஸ்கோவில் வசிப்பவர், அவர் 1859 இல் தன்னை \"அமெரிக்காவின் பேரரசர் நார்டன் I\" என்று அறிவித்தார். 1863 ஆம் ஆண்டில், மூன்றாம் நெப்போலியன் மெக்சிகோ மீது படையெடுத்த பிறகு, அவர் \"மெக்சிகோவின் பாதுகாவலர்\" என்ற இரண்டாம் பட்டத்தை பெற்றார்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "லியோனல் ஆண்ட்ரேஸ் மெஸ்ஸி (லியோனல் ஆண்ட்ரேஸ் மெஸ்ஸி என்றும் அழைக்கப்படும் லியோனல் ஆண்ட்ரேஸ் மெஸ்ஸி (ஸ்பானிஷ் உச்சரிப்புஃ லியோனல் அனல் அன்ட்ரெஸ் மெஸ்ஸி) (கேளுங்கள்) (பிறப்பு 24 ஜூன் 1987), ஒரு அர்ஜென்டினா தொழில்முறை கால்பந்து வீரர் ஆவார், அவர் லிகு 1 கிளப் பாரிஸ் செயிண்ட்-ஜெர்மைனுக்கு முன்னோக்கி விளையாடுகிறார் மற்றும் அர்ஜென்டினா தேசிய அணியின் கேப்டனாக உள்ளார். எல்லா காலத்திலும் மிகச்சிறந்த வீரர்களில் ஒருவராக பரவலாகக் கருதப்படும் மெஸ்ஸி, ஏழு பாலன் டி 'ஓர் விருதுகளையும், ஆறு ஐரோப்பிய கோல்டன் ஷூக்களையும் வென்றுள்ளார், மேலும் 2020 ஆம் ஆண்டில் அவர் பாலன் டி' ஓர் ட்ரீம் அணியில் பெயரிடப்பட்டார். 2021 ஆம் ஆண்டில் கிளப்பை விட்டு வெளியேறும் வரை, அவர் தனது முழு தொழில் வாழ்க்கையையும் பார்சிலோனாவுடன் கழித்தார், அங்கு அவர் பத்து லா லிகா பட்டங்கள், ஏழு கோபா டெல் ரே பட்டங்கள் மற்றும் நான்கு முறை யுஇஎஃப்ஏ சாம்பியன்ஸ் லீக் உட்பட 34 கோப்பைகளை வென்றார். தனது நாட்டுடன், அவர் 2021 கோபா அமெரிக்கா மற்றும் 2022 ஃபிஃபா உலகக் கோப்பையை வென்றார். ஒரு சிறந்த கோல் அடித்தவர் மற்றும் ஆக்கபூர்வமான பிளேமேக்கர், லா லிகாவில் அதிக கோல்கள் (474), லா லிகா (36) மற்றும் யுஇஎஃப்ஏ சாம்பியன்ஸ் லீக் (எட்டு) ஆகியவற்றில் அதிக ஹாட்ரிக் மற்றும் லா லிகா (192) மற்றும் கோபா அமெரிக்கா (17) ஆகியவற்றில் அதிக உதவிகள் செய்த சாதனைகளை மெஸ்ஸி வைத்திருக்கிறார். ஒரு தென் அமெரிக்க ஆண் (102) மூலம் அதிக சர்வதேச கோல்களையும் அவர் பெற்றுள்ளார். கிளப் மற்றும் நாட்டிற்காக 800 க்கும் மேற்பட்ட மூத்த தொழில்முறை கோல்களை மெஸ்ஸி அடித்துள்ளார், மேலும் ஒரு கிளப்பிற்காக ஒரு வீரர் அதிக கோல்களை அடித்துள்ளார் (672).",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "இந்த நபரைப் பற்றி ஒரு சிறிய அறிமுகத்தை வழங்க முடியுமா?",
+        "answer": "ஆலன் மதிசன் டூரிங் OBE FRS (23 ஜூன் 1912-7 ஜூன் 1954) ஒரு ஆங்கில கணிதவியலாளர், கணினி விஞ்ஞானி, தர்க்கவாதி, குறியாக்க ஆய்வாளர், தத்துவஞானி மற்றும் கோட்பாட்டு உயிரியலாளர் ஆவார். கோட்பாட்டு கணினி அறிவியலின் வளர்ச்சியில் டூரிங் மிகவும் செல்வாக்கு செலுத்தினார், இது டூரிங் இயந்திரத்துடன் வழிமுறை மற்றும் கணக்கீட்டு கருத்தாக்கங்களின் முறைப்படுத்தலை வழங்கியது, இது ஒரு பொது-நோக்க கணினியின் மாதிரியாக கருதப்படலாம். அவர் கோட்பாட்டு கணினி அறிவியல் மற்றும் செயற்கை நுண்ணறிவின் தந்தை என்று பரவலாக கருதப்படுகிறார்.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "கீழே உள்ள வரைபடம் நீண்ட கால சர்வதேச இடம்பெயர்வு, UK, 1999-2008 ஐக் காட்டுகிறது. \n \n முக்கிய அம்சங்களைத் தேர்ந்தெடுத்து அறிக்கையிடுவதன் மூலம் தகவல்களைச் சுருக்கவும், பொருத்தமான இடங்களில் ஒப்பீடுகளைச் செய்யவும். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "இந்த விளக்கப்படம் 1999 மற்றும் 2008 க்கு இடையில் இங்கிலாந்து குடியேற்றம், குடியேற்றம் மற்றும் நிகர இடம்பெயர்வு பற்றிய தகவல்களை வழங்குகிறது. \n \n குடியேற்றம் மற்றும் குடியேற்ற விகிதங்கள் இரண்டும் காட்டப்பட்ட காலகட்டத்தில் உயர்ந்தன, ஆனால் குடியேற்றத்திற்கான புள்ளிவிவரங்கள் கணிசமாக அதிகமாக இருந்தன. நிகர இடம்பெயர்வு 2004 மற்றும் 2007 ஆம் ஆண்டுகளில் உச்சத்தை அடைந்தது. \n \n 1999 ஆம் ஆண்டில், 450,000 க்கும் மேற்பட்ட மக்கள் இங்கிலாந்தில் வசிக்க வந்தனர், அதே நேரத்தில் குடியேறியவர்களின் எண்ணிக்கை 300,000 க்கும் குறைவாக இருந்தது. நிகர இடம்பெயர்வுக்கான எண்ணிக்கை சுமார் 160,000 ஆக இருந்தது, இது 2003 வரை இதே மட்டத்தில் இருந்தது. 1999 முதல் 2004 வரை, குடியேற்ற விகிதம் கிட்டத்தட்ட 150,000 மக்களால் உயர்ந்தது, ஆனால் குடியேற்றத்தில் மிகக் குறைந்த அதிகரிப்பு இருந்தது. நிகர இடம்பெயர்வு 2004 ஆம் ஆண்டில் கிட்டத்தட்ட 250,000 மக்களை எட்டியது. \n \n 2004 க்குப் பிறகு, குடியேற்ற விகிதம் அதிகமாக இருந்தது, ஆனால் குடியேறியவர்களின் எண்ணிக்கை ஏற்ற இறக்கமாக இருந்தது. 2008ஆம் ஆண்டில் சுமார் 420,000 பேரின் உச்சத்தை எட்டுவதற்கு முன்பு, 2007ஆம் ஆண்டில் குடிபெயர்வு திடீரென்று குறைந்தது. இதன் விளைவாக, 2007 ஆம் ஆண்டில் நிகர இடம்பெயர்வு எண்ணிக்கை சுமார் 240,000 ஆக உயர்ந்தது, ஆனால் 2008 ஆம் ஆண்டில் சுமார் 160,000 ஆக குறைந்தது.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "கீழேயுள்ள வரைபடமும் அட்டவணையும் உலகளாவிய நீர் பயன்பாடு மற்றும் இரண்டு வெவ்வேறு நாடுகளில் நீர் நுகர்வு பற்றிய தகவல்களைத் தருகின்றன. \n \n முக்கிய அம்சங்களைத் தேர்ந்தெடுத்து அறிக்கையிடுவதன் மூலம் தகவல்களைச் சுருக்கவும், பொருத்தமான இடங்களில் ஒப்பீடுகளைச் செய்யவும். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "உலகெங்கிலும் உள்ள விவசாயம், தொழில்துறை மற்றும் வீடுகளுக்கு பயன்படுத்தப்படும் நீரின் அளவையும், பிரேசில் மற்றும் காங்கோ ஜனநாயகக் குடியரசில் நீர் பயன்பாட்டையும் இந்த விளக்கப்படங்கள் ஒப்பிடுகின்றன. \n \n உலகளாவிய நீர் தேவைகள் 1900 மற்றும் 2000 க்கு இடையில் கணிசமாக உயர்ந்தன என்பது தெளிவாகிறது, மேலும் பயன்படுத்தப்படும் தண்ணீரின் மிகப்பெரிய விகிதத்திற்கு விவசாயம் காரணமாக இருந்தது. காங்கோவை விட பிரேசிலில் நீர் நுகர்வு கணிசமாக அதிகமாக இருந்ததையும் நாம் காணலாம். \n \n 1900 ஆம் ஆண்டில், உலகளவில் விவசாயத் துறையால் சுமார் 500 சதுர கிலோமீட்டர் நீர் பயன்படுத்தப்பட்டது. தொழில்துறை மற்றும் உள்நாட்டு நீர் நுகர்வு புள்ளிவிவரங்கள் அந்த தொகையில் ஐந்தில் ஒரு பங்காக இருந்தன. 2000 வாக்கில், விவசாயத்திற்கான உலகளாவிய நீர் பயன்பாடு சுமார் 3000 சதுர கிலோமீட்டராக உயர்ந்தது, தொழில்துறை நீர் பயன்பாடு அந்த தொகையில் பாதிக்கும் குறைவாக உயர்ந்தது, மேலும் உள்நாட்டு நுகர்வு சுமார் 500 சதுர கிலோமீட்டரை எட்டியது. 2000 ஆம் ஆண்டில், பிரேசில் மற்றும் காங்கோவின் மக்கள் தொகை முறையே 176 மில்லியன் மற்றும் 5.2 மில்லியனாக இருந்தது. பிரேசிலில் ஒரு நபருக்கு 359 மீ3 என்ற அளவில் நீர் நுகர்வு காங்கோவை விட 8 மீ3 மட்டுமே அதிகமாக இருந்தது, மேலும் பிரேசிலில் 265 மடங்கு அதிக நீர்ப்பாசன நிலம் இருந்ததால் இதை விளக்க முடியும்.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "கீழே உள்ள விளக்கப்படங்கள் 1970 மற்றும் 2000 க்கு இடையில் அமெரிக்க திருமணம் மற்றும் விவாகரத்து விகிதங்கள் மற்றும் இரண்டு ஆண்டுகளில் வயது வந்த அமெரிக்கர்களின் திருமண நிலை பற்றிய தகவல்களைத் தருகின்றன. \n \n முக்கிய அம்சங்களைத் தேர்ந்தெடுத்து அறிக்கையிடுவதன் மூலம் தகவல்களைச் சுருக்கவும், பொருத்தமான இடங்களில் ஒப்பீடுகளைச் செய்யவும். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "முதல் பட்டை விளக்கப்படம் அமெரிக்காவில் திருமணங்கள் மற்றும் விவாகரத்துகளின் எண்ணிக்கையில் ஏற்படும் மாற்றங்களைக் காட்டுகிறது, இரண்டாவது விளக்கப்படம் 1970 மற்றும் 2000 ஆம் ஆண்டுகளில் அமெரிக்க பெரியவர்களின் திருமண நிலை குறித்த புள்ளிவிவரங்களைக் காட்டுகிறது. \n \n 1970 மற்றும் 2000 க்கு இடையில் அமெரிக்காவில் திருமணங்களின் எண்ணிக்கை குறைந்தது என்பது தெளிவாகிறது. பெரும்பாலான வயது வந்த அமெரிக்கர்கள் இரண்டு ஆண்டுகளிலும் திருமணம் செய்து கொண்டனர், ஆனால் 2000 ஆம் ஆண்டில் ஒற்றை பெரியவர்களின் விகிதம் அதிகமாக இருந்தது. \n \n 1970 ஆம் ஆண்டில், அமெரிக்காவில் 25 லட்சம் திருமணங்களும் 1 மில்லியன் விவாகரத்துகளும் இருந்தன. 1980 ஆம் ஆண்டில் திருமண விகிதம் நிலையாக இருந்தது, ஆனால் 2000 ஆம் ஆண்டில் 2 மில்லியனாக குறைந்தது. இதற்கு நேர்மாறாக, விவாகரத்து விகிதம் 1980 இல் உச்சத்தை அடைந்தது, கிட்டத்தட்ட 15 லட்சம் விவாகரத்துகள், அந்தக் காலத்தின் முடிவில் 1 மில்லியனாக வீழ்ச்சியடைவதற்கு முன்பு. \n \n அமெரிக்க பெரியவர்களில் சுமார் 70 சதவீதம் பேர் 1970 இல் திருமணம் செய்து கொண்டனர், ஆனால் இந்த எண்ணிக்கை 2000 ஆம் ஆண்டில் 60 சதவீதத்திற்கும் குறைவாகக் குறைந்தது. அதே நேரத்தில், திருமணமாகாதவர்கள் மற்றும் விவாகரத்து பெற்றவர்களின் விகிதம் மொத்தம் சுமார் 10 சதவீதம் உயர்ந்துள்ளது. 2000 ஆம் ஆண்டில் விதவை அமெரிக்கர்களின் விகிதம் சற்று குறைவாக இருந்தது.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "நான்கு ஐரோப்பிய நாடுகளில் ஆறு நுகர்வோர் பொருட்களுக்காக செலவிடப்பட்ட தொகையை கீழே உள்ள விளக்கப்படம் காட்டுகிறது. \n \n கீழே காட்டப்பட்டுள்ள தகவல்களை விவரிக்கும் ஒரு பல்கலைக்கழக விரிவுரையாளருக்கு ஒரு அறிக்கையை எழுதுங்கள். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "பார் விளக்கப்படம் ஜெர்மனி, இத்தாலி, பிரான்ஸ் மற்றும் பிரிட்டனில் உள்ள ஆறு வெவ்வேறு பொருட்களுக்கான நுகர்வோர் செலவினங்களை ஒப்பிடுகிறது. \n \n மற்ற மூன்று நாடுகளில் உள்ள மக்களை விட பிரிட்டிஷ் மக்கள் ஆறு பொருட்களுக்கும் கணிசமாக அதிக பணத்தை செலவிட்டனர் என்பது தெளிவாகிறது. ஆறு பொருட்களில், நுகர்வோர் அதிக பணத்தை புகைப்படத் திரைப்படத்திற்காக செலவிட்டனர். \n \n பிரிட்டனில் உள்ள மக்கள் புகைப்படத் திரைப்படத்திற்காக 170,000 பவுண்டுகளுக்கு மேல் செலவிட்டனர், இது தரவரிசையில் காட்டப்பட்டுள்ள மிக உயர்ந்த எண்ணிக்கையாகும். இதற்கு மாறாக, ஜேர்மனியர்கள் மிகக் குறைந்த ஒட்டுமொத்த செலவாளர்களாக இருந்தனர், ஆறு தயாரிப்புகளில் ஒவ்வொன்றிற்கும் தோராயமாக அதே புள்ளிவிவரங்கள் (150,000 பவுண்டுகளுக்குக் கீழே) இருந்தன. \n \n பொம்மைகளுக்கான செலவு புள்ளிவிவரங்கள் பிரான்ஸ் மற்றும் இத்தாலி ஆகிய இரு நாடுகளிலும் ஒரே மாதிரியாக இருந்தன, கிட்டத்தட்ட 160,000 பவுண்டுகள். இருப்பினும், ஃப்ரெஞ்சு மக்கள் இத்தாலியர்களை விட புகைப்படத் திரைப்படம் மற்றும் குறுந்தகடுகளுக்கு அதிக செலவு செய்தாலும், இத்தாலியர்கள் தனிப்பட்ட ஸ்டீரியோக்கள், டென்னிஸ் ராக்கெட்டுகள் மற்றும் வாசனை திரவியங்களுக்கு அதிக பணம் செலுத்தினர். டென்னிஸ் ராக்கெட்டுகளுக்காக பிரெஞ்சு மக்கள் செலவழித்த தொகை, சுமார் 145,000 பவுண்டுகள், தரவரிசையில் காட்டப்பட்டுள்ள மிகக் குறைந்த எண்ணிக்கையாகும்.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "கீழேயுள்ள அட்டவணை ஆறு நகரங்களில் நிலத்தடி ரயில் அமைப்புகள் பற்றிய தகவல்களை வழங்குகிறது. \n \n முக்கிய அம்சங்களைத் தேர்ந்தெடுத்து அறிக்கையிடுவதன் மூலம் தகவல்களைச் சுருக்கவும், பொருத்தமான இடங்களில் ஒப்பீடுகளைச் செய்யவும். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "ஆறு முக்கிய நகரங்களில் நிலத்தடி ரயில் நெட்வொர்க்குகள் பற்றிய தரவுகளை அட்டவணை காட்டுகிறது. \n \n அட்டவணை ஆறு நெட்வொர்க்குகளை அவற்றின் வயது, அளவு மற்றும் ஒவ்வொரு ஆண்டும் அவற்றைப் பயன்படுத்தும் நபர்களின் எண்ணிக்கை ஆகியவற்றின் அடிப்படையில் ஒப்பிடுகிறது. மூன்று பழமையான நிலத்தடி அமைப்புகள் பெரியவை மற்றும் புதிய அமைப்புகளை விட கணிசமாக அதிக பயணிகளுக்கு சேவை செய்கின்றன என்பது தெளிவாகிறது. \n \n லண்டன் நிலத்தடி அமைப்பு மிகப் பழமையானது, இது 1863 இல் திறக்கப்பட்டது. 394 கிலோமீட்டர் பாதையுடன் இது மிகப்பெரிய அமைப்பாகும். பாரிஸில் உள்ள இரண்டாவது பெரிய அமைப்பு, லண்டன் நிலத்தடி பாதையின் பாதி அளவு மட்டுமே, 199 கிலோமீட்டர் பாதையுடன் உள்ளது. இருப்பினும், இது ஆண்டுக்கு அதிகமான மக்களுக்கு சேவை செய்கிறது. அளவைப் பொறுத்தவரை மூன்றாவது இடத்தில் இருக்கும்போது, டோக்கியோ அமைப்பு எளிதில் பயன்படுத்தப்படுகிறது, ஆண்டுக்கு 1927 மில்லியன் பயணிகள் உள்ளனர். \n \n மூன்று புதிய நெட்வொர்க்குகளில், வாஷிங்டன் டி. சி நிலத்தடி மிகவும் விரிவானது, 126 கிலோமீட்டர் பாதையுடன், கியோட்டோ மற்றும் லாஸ் ஏஞ்சல்ஸ் அமைப்புகளுக்கு 11 கிலோமீட்டர் மற்றும் 28 கிலோமீட்டர்களுடன் ஒப்பிடும்போது. லாஸ் ஏஞ்சல்ஸ் நெட்வொர்க் புதியது, இது 2001 இல் திறக்கப்பட்டது, அதே நேரத்தில் கியோட்டோ நெட்வொர்க் மிகச்சிறியது மற்றும் ஆண்டுக்கு 45 மில்லியன் பயணிகளுக்கு மட்டுமே சேவை செய்கிறது.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "கீழேயுள்ள அட்டவணை 2002 ஆம் ஆண்டில் ஐந்து வெவ்வேறு நாடுகளில் வெவ்வேறு பொருட்களுக்கான நுகர்வோர் செலவு பற்றிய தகவல்களை வழங்குகிறது. \n \n முக்கிய அம்சங்களைத் தேர்ந்தெடுத்து அறிக்கையிடுவதன் மூலம் தகவல்களைச் சுருக்கவும், பொருத்தமான இடங்களில் ஒப்பீடுகளைச் செய்யவும். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "அட்டவணை 2002 ஆம் ஆண்டில் ஐந்து நாடுகளில் மூன்று வகை தயாரிப்புகள் மற்றும் சேவைகளுக்கான நுகர்வோர் செலவினங்களின் சதவீதத்தைக் காட்டுகிறது. \n \n ஒவ்வொரு நாட்டிலும் நுகர்வோர் செலவினங்களில் மிகப்பெரிய விகிதம் உணவு, பானங்கள் மற்றும் புகையிலைக்கு சென்றது என்பது தெளிவாகிறது. மறுபுறம், ஓய்வு/கல்வி வகை அட்டவணையில் மிகக் குறைந்த சதவீதங்களைக் கொண்டுள்ளது. \n \n ஐந்து நாடுகளில், உணவு, பானங்கள் மற்றும் புகையிலைக்கான நுகர்வோர் செலவு துருக்கியில் 32.14% ஆகவும், அயர்லாந்தில் கிட்டத்தட்ட 29 சதவீதமாகவும் இருந்தது. ஓய்வு நேரம் மற்றும் கல்விக்கான செலவினங்களின் விகிதம் துருக்கியில் மிக அதிகமாக இருந்தது, அதே நேரத்தில் ஆடை மற்றும் காலணிகளுக்கான செலவு இத்தாலியில் மற்ற நாடுகளை விட 9 சதவீதம் அதிகமாக இருந்தது. \n \n ஸ்வீடனில் உணவு/பானங்கள்/புகையிலை மற்றும் ஆடை/காலணிகளுக்கான தேசிய நுகர்வோர் செலவினங்களில் மிகக் குறைந்த சதவீதம் முறையே கிட்டத்தட்ட 16 சதவீதம் மற்றும் 5 சதவீதத்திற்கும் குறைவாக இருந்தது என்பதைக் காணலாம். இந்த பிரிவுகளுக்கு ஸ்பெயின் சற்றே அதிக எண்ணிக்கையைக் கொண்டிருந்தது, ஆனால் ஓய்வு/கல்விக்கான மிகக் குறைந்த எண்ணிக்கை, 1.98% மட்டுமே.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "கீழே உள்ள பை விளக்கப்படங்கள் 1980 மற்றும் 2000 ஆம் ஆண்டுகளில் ஆஸ்திரேலியா மற்றும் பிரான்சில் எரிபொருள் மூலம் மின்சார உற்பத்தியின் அலகுகளைக் காட்டுகின்றன. \n \n முக்கிய அம்சங்களைத் தேர்ந்தெடுத்து அறிக்கையிடுவதன் மூலம் தகவல்களைச் சுருக்கவும், பொருத்தமான இடங்களில் ஒப்பீடுகளைச் செய்யவும். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "பை விளக்கப்படங்கள் இரண்டு வெவ்வேறு ஆண்டுகளில் இரண்டு நாடுகளில் ஐந்து வெவ்வேறு எரிபொருள் ஆதாரங்களைப் பயன்படுத்தி உற்பத்தி செய்யப்படும் மின்சாரத்தின் அளவை ஒப்பிடுகின்றன. \n \n ஆஸ்திரேலியா மற்றும் பிரான்ஸ் ஆகிய இரு நாடுகளிலும் 1980 முதல் 2000 வரை மொத்த மின்சார உற்பத்தி வியத்தகு அளவில் அதிகரித்தது. இரு நாடுகளுக்கும் மொத்த எண்ணிக்கை ஒரே மாதிரியாக இருந்தபோதிலும், பயன்படுத்தப்பட்ட எரிபொருள் ஆதாரங்களில் பெரிய வேறுபாடுகள் இருந்தன. 1980 ஆம் ஆண்டில் ஆஸ்திரேலியாவில் மொத்த 100 யூனிட் மின்சாரத்தில் 50 ஐ உற்பத்தி செய்ய நிலக்கரி பயன்படுத்தப்பட்டது, 2000 ஆம் ஆண்டில் 170 யூனிட்டுகளில் 130 ஆக உயர்ந்தது. இதற்கு மாறாக, 2000 ஆம் ஆண்டில் பிரான்சில் அணுசக்தி மிக முக்கியமான எரிபொருள் ஆதாரமாக மாறியது, இது நாட்டின் மின்சாரத்தில் கிட்டத்தட்ட 75 சதவீதத்தை உற்பத்தி செய்தது. \n \n ஆஸ்திரேலியா இரண்டு ஆண்டுகளிலும் அதன் மின்சாரத்தில் வெறும் 25 சதவீதத்திற்கும் குறைவாக நீர் மின்சாரத்தை நம்பியிருந்தது, ஆனால் இந்த வகை மின்சாரத்தைப் பயன்படுத்தி உற்பத்தி செய்யப்படும் மின்சாரத்தின் அளவு பிரான்சில் 5 முதல் 2 யூனிட்டுகளாக மட்டுமே குறைந்தது. மறுபுறம், பிரான்சில் எண்ணெய் ஒப்பீட்டளவில் முக்கியமான எரிபொருள் ஆதாரமாக இருந்தது, ஆனால் ஆஸ்திரேலியாவில் அதன் பயன்பாடு குறைந்தது. இரு நாடுகளும் மின்சார உற்பத்திக்கு இயற்கை எரிவாயுவை 2000ஆம் ஆண்டை விட 1980ஆம் ஆண்டில் கணிசமாக அதிகமாக நம்பியிருந்தன.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "சார்லிவுட் என்பது லண்டனுக்கு அருகிலுள்ள ஒரு கிராமமாகும், அதன் மக்கள் தொகை பத்தொன்பதாம் நூற்றாண்டின் நடுப்பகுதியில் இருந்து சீராக அதிகரித்துள்ளது. கீழே உள்ள வரைபடம் கிராமத்தின் வளர்ச்சியைக் காட்டுகிறது. \n \n கிராமத்தின் வளர்ச்சியை விவரிக்கும் ஒரு பல்கலைக்கழக விரிவுரையாளருக்கு ஒரு அறிக்கையை எழுதுங்கள். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "1868 மற்றும் 1994 க்கு இடையில் சார்லிவுட் என்ற கிராமத்தின் வளர்ச்சியை வரைபடம் காட்டுகிறது. \n \n போக்குவரத்து உள்கட்டமைப்பு மேம்படுத்தப்பட்டதால் கிராமம் வளர்ந்தது என்பது தெளிவாகிறது. வளர்ச்சியின் நான்கு காலகட்டங்கள் வரைபடத்தில் காட்டப்பட்டுள்ளன, மேலும் மக்கள் தொகை கொண்ட பகுதிகள் ஒவ்வொன்றும் முக்கிய சாலைகள், ரயில்வே அல்லது மோட்டார் பாதைக்கு அருகில் உள்ளன. 1868 முதல் 1883 வரை, சார்லிவுட் முக்கிய சாலைகளில் ஒன்றுக்கு அடுத்துள்ள ஒரு சிறிய பகுதியை உள்ளடக்கியது. சார்லிவுட் பூங்கா மற்றும் கோல்ஃப் மைதானம் இப்போது இந்த அசல் கிராமப் பகுதிக்கு அருகில் அமைந்துள்ளது. 1883 மற்றும் 1922 க்கு இடையில் தெற்கே பிரதான சாலையின் குறுக்கே இந்த கிராமம் வளர்ந்தது, 1909 ஆம் ஆண்டில் மேற்கிலிருந்து கிழக்கே இந்த பகுதியைக் கடந்து ஒரு ரயில் பாதை கட்டப்பட்டது. கிராமத்தின் இந்தப் பகுதியில் சார்லிவுட் நிலையம் உள்ளது. \n \n சார்லிவுட்டின் விரிவாக்கம் 1970 வரை ரயில் பாதையுடன் கிழக்கு மற்றும் மேற்கு நோக்கி தொடர்ந்தது. அந்த நேரத்தில், கிராமத்தின் கிழக்கே ஒரு மோட்டார் பாதை கட்டப்பட்டது, 1970 முதல் 1994 வரை, கிராமத்தின் மேலும் மேம்பாடு ரயில்வே மற்றும் முக்கிய சாலைகளில் ஒன்றான மோட்டார் பாதை சந்திப்புகளைச் சுற்றி நடந்தது.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "கீழே உள்ள வரைபடம் கார்ல்ஸ்டன் நகரத்தைச் சேர்ந்தது. நகரத்திற்கு ஒரு புதிய பல்பொருள் அங்காடி (எஸ்) திட்டமிடப்பட்டுள்ளது. இந்த வரைபடம் பல்பொருள் அங்காடிக்கான இரண்டு சாத்தியமான தளங்களைக் காட்டுகிறது. \n \n முக்கிய அம்சங்களைத் தேர்ந்தெடுத்து அறிக்கையிடுவதன் மூலம் தகவல்களைச் சுருக்கவும், பொருத்தமான இடங்களில் ஒப்பீடுகளைச் செய்யவும். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "கார்ல்டன் என்ற நகரத்தில் ஒரு புதிய பல்பொருள் அங்காடிக்கான இரண்டு சாத்தியமான இடங்களை (எஸ் 1 மற்றும் எஸ் 2) வரைபடம் காட்டுகிறது. \n \n இரண்டு தளங்களுக்கும் இடையிலான முக்கிய வேறுபாடு என்னவென்றால், எஸ் 1 நகரத்திற்கு வெளியே உள்ளது, அதே நேரத்தில் எஸ் 2 நகர மையத்தில் உள்ளது. சாலை அல்லது ரயில் மூலம் அணுகல் மற்றும் மூன்று சிறிய நகரங்களுடன் ஒப்பிடுகையில் அவற்றின் நிலைகள் ஆகியவற்றின் அடிப்படையில் தளங்களை ஒப்பிடலாம். \n \n தகவல்களை மேலும் விரிவாகப் பார்க்கும்போது, எஸ் 1 கார்ல்டனின் வடமேற்கில் உள்ள கிராமப்புறங்களில் உள்ளது, ஆனால் இது நகரத்தின் குடியிருப்பு பகுதிக்கு அருகில் உள்ளது. எஸ் 2 நகர மையத்தைச் சுற்றியுள்ள வீட்டுப் பகுதிக்கு அருகில் உள்ளது. \n \n ஹிண்டன், பிரான்டன் மற்றும் கிரான்டனில் இருந்து கார்ல்டன் டவுன் சென்டர் வரை முக்கிய சாலைகள் உள்ளன, ஆனால் இது போக்குவரத்து இல்லாத மண்டலம், எனவே கார் மூலம் எஸ் 2 க்கு அணுகல் இருக்காது. இதற்கு மாறாக, எஸ் 1 ஹிண்டனுக்குச் செல்லும் பிரதான சாலையில் அமைந்துள்ளது, ஆனால் பிராண்டன் மற்றும் கிரான்டனில் இருந்து செல்வது மிகவும் கடினமாக இருக்கும். இரண்டு பல்பொருள் அங்காடி தளங்களும் கார்ல்டன் வழியாக ஹிண்டனில் இருந்து கிரான்டன் வரை செல்லும் ரயில்வேக்கு அருகில் உள்ளன.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "கீழேயுள்ள வரைபடம், நம்பகமான கணிப்புகளை உருவாக்குவதற்காக ஆஸ்திரேலிய வானிலை ஆய்வு பணியகம் வானிலை குறித்த நிமிடத் தகவல்களை எவ்வாறு சேகரிக்கிறது என்பதைக் காட்டுகிறது. \n \n கீழே காட்டப்பட்டுள்ள தகவல்களை விவரிக்கும் ஒரு பல்கலைக்கழக விரிவுரையாளருக்கு ஒரு அறிக்கையை எழுதுங்கள். \n \n நீங்கள் குறைந்தது 150 வார்த்தைகளை எழுத வேண்டும்.",
+        "answer": "வானிலை முன்னறிவிப்புக்கு ஆஸ்திரேலிய வானிலை ஆய்வு பணியகம் பயன்படுத்தும் செயல்முறையை இந்த படம் விளக்குகிறது. \n \n வானிலை பற்றிய தகவல்களைச் சேகரிப்பதில் தொடங்கி, இந்த செயல்பாட்டில் நான்கு நிலைகள் உள்ளன. இந்தத் தகவல் பின்னர் பகுப்பாய்வு செய்யப்பட்டு, விளக்கக்காட்சிக்குத் தயாரிக்கப்பட்டு, இறுதியாக பொதுமக்களுக்கு ஒளிபரப்பப்படுகிறது. \n \n செயல்முறையின் முதல் மற்றும் இரண்டாவது கட்டங்களைப் பார்க்கும்போது, வானிலைத் தரவுகளைச் சேகரிக்க மூன்று வழிகளும் அதை பகுப்பாய்வு செய்ய மூன்று வழிகளும் உள்ளன. முதலாவதாக, உள்வரும் தகவல்களை செயற்கைக்கோள் மூலம் பெறலாம் மற்றும் செயற்கைக்கோள் புகைப்படமாக பகுப்பாய்விற்காக வழங்கலாம். அதே தரவை ஒரு ரேடார் நிலையத்திற்கும் அனுப்பலாம் மற்றும் ரேடார் திரை அல்லது ஒத்திசைவு விளக்கப்படத்தில் வழங்கலாம். இரண்டாவதாக, உள்வரும் தகவல்கள் ரேடார் மூலம் நேரடியாக சேகரிக்கப்பட்டு ரேடார் திரை அல்லது ஒத்திசைவு விளக்கப்படத்தில் பகுப்பாய்வு செய்யப்படலாம். இறுதியாக, மிதக்கும் பாய்களும் தரவைப் பெறுகின்றன, அவை ஒரு ஒத்திசைவு விளக்கப்படத்தில் காட்டப்படலாம். \n \n செயல்முறையின் மூன்றாவது கட்டத்தில், வானிலை ஒளிபரப்பு கணினிகளில் தயாரிக்கப்படுகிறது. இறுதியாக, இது தொலைக்காட்சியில், வானொலியில் அல்லது பதிவு செய்யப்பட்ட தொலைபேசி அறிவிப்பாக பொதுமக்களுக்கு வழங்கப்படுகிறது.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

@@ -1,0 +1,60 @@
+{"image": "001.jpg", "text": "छायाचित्रातील या प्रसिद्ध दृश्याचे नाव काय आहे?", "category": "conv", "question_id": 0}
+{"image": "001.jpg", "text": "या छायाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 1}
+{"image": "001.jpg", "text": "ही दृष्टी निर्माण होण्याची संभाव्य कारणे कोणती आहेत?", "category": "complex", "question_id": 2}
+{"image": "001.jpg", "text": "या ठिकाणच्या अलीकडील सहलीबद्दल एक मनोरंजक प्रवास ब्लॉग पोस्ट लिहा, ज्यात सांस्कृतिक अनुभव आणि फोटोमध्ये दिसणारे आकर्षण आणि इतर पाहण्यासारखी आकर्षणे या दोन्हींचा समावेश आहे.", "category": "complex", "question_id": 3}
+{"image": "002.jpg", "text": "हे कोणत्या प्रकारचे फळ आहे?", "category": "conv", "question_id": 4}
+{"image": "002.jpg", "text": "प्रतिमेत किती न कापलेली फळे आहेत?", "category": "conv", "question_id": 5}
+{"image": "002.jpg", "text": "या छायाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 6}
+{"image": "002.jpg", "text": "प्रतिमेतील फळांच्या सुगंधाची कल्पना करा. ज्या व्यक्तीने हे फळ यापूर्वी कधीही खाल्ले नाही अशा व्यक्तीला तुम्ही याचे वर्णन कसे कराल?", "category": "complex", "question_id": 7}
+{"image": "003.jpg", "text": "या छायाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 8}
+{"image": "003.jpg", "text": "या चित्राचा हेतू काय असू शकतो?", "category": "complex", "question_id": 9}
+{"image": "003.jpg", "text": "अभिजात कलाकृतीवरील या सर्जनशील वळणाचा विविध प्रेक्षक वेगवेगळ्या प्रकारे कसा अर्थ लावू शकतात यावर चर्चा करा.", "category": "complex", "question_id": 10}
+{"image": "004.jpg", "text": "फोटोतील माणसाचे नाव काय आहे?", "category": "conv", "question_id": 11}
+{"image": "004.jpg", "text": "चित्रपटातील कोणत्या प्रतिष्ठित दृश्याचे मिममध्ये विडंबन केले जात आहे?", "category": "conv", "question_id": 12}
+{"image": "004.jpg", "text": "हा मिम एलोन मस्कची सार्वजनिक प्रतिमा, व्यक्तिमत्व किंवा कृती कशी प्रतिबिंबित करतो किंवा त्यावर टिप्पणी करतो?", "category": "complex", "question_id": 13}
+{"image": "005.jpg", "text": "कृपया मीम तपशीलवार समजावून सांगा.", "category": "detail", "question_id": 14}
+{"image": "005.jpg", "text": "ही मिम जी भावना व्यक्त करत आहे तीच भावना कोणी इतर कोणत्या मार्गांनी व्यक्त करू शकेल?", "category": "complex", "question_id": 15}
+{"image": "006.jpg", "text": "हे कोण रंगवत आहे हे तुम्हाला माहीत आहे का?", "category": "conv", "question_id": 16}
+{"image": "006.jpg", "text": "या चित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 17}
+{"image": "006.jpg", "text": "कला जगतात या चित्रकलेचा ऐतिहासिक प्रभाव आणि महत्त्व यावर चर्चा करा.", "category": "complex", "question_id": 18}
+{"image": "007.jpg", "text": "या छायाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 19}
+{"image": "007.jpg", "text": "या ठिकाणाला भेट देण्यासाठी सर्वोत्तम हवामान, हंगाम, दिवसाची वेळ कोणती? ही छायाचित्रे काढण्याची वेळ या ठिकाणाला भेट देण्यासाठी योग्य वेळ आहे का?", "category": "complex", "question_id": 20}
+{"image": "008.jpg", "text": "प्रतिमेतील पात्राचे नाव काय आहे?", "category": "conv", "question_id": 21}
+{"image": "008.jpg", "text": "या पात्राचे व्यक्तिमत्व काय आहे? पात्राच्या रचनेतील कोणते घटक किंवा पैलू त्याच्या लोकप्रियतेस कारणीभूत असू शकतात हे स्पष्ट करा.", "category": "complex", "question_id": 22}
+{"image": "009.jpg", "text": "मी येथे भेट देताना कोणत्या गोष्टींची काळजी घेतली पाहिजे?", "category": "complex", "question_id": 23}
+{"image": "009.jpg", "text": "जर तुम्ही या ठिकाणाचे सार टिपण्याचा विचार करणारे छायाचित्रकार असाल, तर दिवसाची कोणती वेळ आणि हवामानाची स्थिती तुम्ही निवडाल? तुमच्या निवडीमागील कारणांचे वर्णन करा.", "category": "complex", "question_id": 24}
+{"image": "010.jpg", "text": "या छायाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 25}
+{"image": "010.jpg", "text": "या प्रतिमेमध्ये काय असामान्य आहे?", "category": "complex", "question_id": 26}
+{"image": "011.jpg", "text": "फ्रीजच्या डाव्या भागात कोणते फळ असते?", "category": "conv", "question_id": 27}
+{"image": "011.jpg", "text": "ब्लूबेरीची चव असलेल्या दहीचा ब्रँड कोणता आहे?", "category": "conv", "question_id": 28}
+{"image": "011.jpg", "text": "फ्रीजमध्ये स्ट्रॉबेरीच्या चवीचे दही आहे का?", "category": "conv", "question_id": 29}
+{"image": "011.jpg", "text": "या छायाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 30}
+{"image": "011.jpg", "text": "ह्यासह मी कोणते अन्न शिजवू शकतो?", "category": "complex", "question_id": 31}
+{"image": "012.jpg", "text": "सेटमध्ये किती कॉफी मग आहेत?", "category": "conv", "question_id": 32}
+{"image": "012.jpg", "text": "यासाठी उत्पादनाचे आकर्षक वर्णन लिहा.", "category": "complex", "question_id": 33}
+{"image": "013.jpg", "text": "या पदार्थाची सविस्तर पाककृती दाखवा.", "category": "complex", "question_id": 34}
+{"image": "014.jpg", "text": "तुम्ही हा मिम तपशीलवार समजावून सांगू शकता का?", "category": "complex", "question_id": 35}
+{"image": "015.jpg", "text": "मिमेमध्ये नमूद केलेल्या दोन मशीन लर्निंग संकल्पना कोणत्या आहेत?", "category": "conv", "question_id": 36}
+{"image": "015.jpg", "text": "या मिमेचे तपशीलवार वर्णन द्या.", "category": "detail", "question_id": 37}
+{"image": "015.jpg", "text": "हे का मजेदार आहे हे तुम्ही स्पष्ट करू शकता का? त्याचा टप्प्याटप्प्याने विचार करा.", "category": "complex", "question_id": 38}
+{"image": "016.jpg", "text": "या प्रतिमेचे तपशीलवार वर्णन द्या. पटलानुसार त्याचे वर्णन करा.", "category": "detail", "question_id": 39}
+{"image": "016.jpg", "text": "या प्रतिमेत काय मजेदार आहे? प्रत्येक पटलावर त्याचे वर्णन करा.", "category": "complex", "question_id": 40}
+{"image": "017.jpg", "text": "प्राणी बनवण्यासाठी कोणती सामग्री दिसते?", "category": "conv", "question_id": 41}
+{"image": "017.jpg", "text": "एल. एल. ए. एम. ए. संरचनेवर आधारित एल. एल. ए. व्ही. ए., लार्ज लँग्वेज अँड व्हिजन असिस्टंटचा हा लोगो आहे. कृपया हा लोगो तपशीलवार समजावून सांगा आणि त्याच्या रचनेबद्दल तुम्हाला कसे वाटते.", "category": "complex", "question_id": 42}
+{"image": "018.jpg", "text": "चित्रातील प्राणी कोणते आहेत आणि ते काय करत आहेत?", "category": "conv", "question_id": 43}
+{"image": "018.jpg", "text": "या चित्रावर आधारित एक परीकथा लिहा.", "category": "complex", "question_id": 44}
+{"image": "019.jpg", "text": "या रेखाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 45}
+{"image": "019.jpg", "text": "या मॉक-अपचे एका रंगीबेरंगी संकेतस्थळात रूपांतर करण्यासाठी संक्षिप्त एच. टी. एम. एल./जे. एस. लिहा, जिथे विनोदांच्या जागी दोन वास्तविक विनोद केले जातात.", "category": "complex", "question_id": 46}
+{"image": "020.jpg", "text": "या रेखाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 47}
+{"image": "020.jpg", "text": "या मॉक-अपचे एका रंगीबेरंगी आणि परस्परसंवादी संकेतस्थळात रूपांतर करण्यासाठी संक्षिप्त एच. टी. एम. एल./जे. एस. लिहा, जिथे विनोदाची जागा खऱ्या विनोदाने घेतली जाते.", "category": "complex", "question_id": 48}
+{"image": "021.jpg", "text": "या चित्रपटाचा शेवट काय आहे?", "category": "conv", "question_id": 49}
+{"image": "021.jpg", "text": "चित्रपटाच्या संदर्भात या दृश्याचे महत्त्व काय आहे?", "category": "complex", "question_id": 50}
+{"image": "022.jpg", "text": "हे पदार्थ दिल्या जाणाऱ्या उपाहारगृहाचे नाव काय आहे?", "category": "conv", "question_id": 51}
+{"image": "022.jpg", "text": "या छायाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 52}
+{"image": "022.jpg", "text": "जर कोणी खाद्यपदार्थाला नवीन चव किंवा वर चढवण्याची शिफारस करत असेल, तर या बदलाचे कारण आणि त्यामुळे एकूण चव कशी बदलू शकते याचे वर्णन करा.", "category": "complex", "question_id": 53}
+{"image": "023.jpg", "text": "या जाहिरातीत कोणता ब्रँड आहे?", "category": "conv", "question_id": 54}
+{"image": "023.jpg", "text": "या छायाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 55}
+{"image": "023.jpg", "text": "हे घरी शिजवण्याची सविस्तर पाककृती मला दाखवा.", "category": "complex", "question_id": 56}
+{"image": "024.jpg", "text": "या छायाचित्राचे तपशीलवार वर्णन करा.", "category": "detail", "question_id": 57}
+{"image": "024.jpg", "text": "या शहराला कोणत्या समस्येला सामोरे जावे लागत आहे? काही संभाव्य उपाय काय आहेत?", "category": "complex", "question_id": 58}
+{"image": "024.jpg", "text": "सध्याची रहदारीची स्थिती दर्शविणारे सर्व संकेत स्पष्ट करा.", "category": "complex", "question_id": 59}

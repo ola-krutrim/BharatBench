@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "ସମୀକରଣରେ x କ \"ଣ?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "ଶେଷ ସମୀକରଣରେ d କ \"ଣ?",
+        "answer": "1. 25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "ସମୀକରଣରେ x କ \"ଣ?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "ତଳ ବାମ ସମୀକରଣର ଉତ୍ତର କ \"ଣ?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "ଡାହାଣ ପଟେ ଥିବା ଦ୍ୱିତୀଯ଼ ସମୀକରଣର ଉତ୍ତର କ \"ଣ?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "ଡାହାଣ ପଟେ ଥିବା ଦ୍ୱିତୀଯ଼ ଶେଷ ସମୀକରଣର ଉତ୍ତର କ \"ଣ?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "ଶେଷ ସମୀକରଣରେ y କ \"ଣ?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"X\" ଅପରେଟରକୁ କିପରି ପୁନଃ ପରିଭାଷିତ କରାଯାଏ ତାହାର ଢାଞ୍ଚା ଖୋଜନ୍ତୁ, ଏବଂ ପ୍ରତିଛବିରେ ଦିଆଯାଇଥିବା ସମୀକରଣର ଉତ୍ତର ଦିଅନ୍ତୁ।",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "ଡାହାଣ ପଟେ ଥିବା ଝିଅଟି ବୋର୍ଡରେ କ \"ଣ ଲେଖିବ?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "$50 ସହିତ ମୁଁ କେତେ ଗ୍ଯ଼ାଲନ୍ ସର୍ବୋଚ୍ଚ ପେଟ୍ରୋଲ ପାଇପାରିବି?",
+        "answer": "13. 6 <କିମ୍ବା> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "ଡିଜେଲ ଏବଂ ସାଧାରଣ ପେଟ୍ରୋଲ ମଧ୍ଯ଼ରେ ମୂଲ୍ଯ଼ର ପାର୍ଥକ୍ଯ଼ କ \"ଣ?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "ପ୍ରତିଛବିରେ ଦର୍ଶାଯାଇଥିବା ଏକ ବୋତଲ ମେର୍ଲୋଟ୍ ଏବଂ ଏକ ବୋତଲ କାବର୍ନେଟ୍ ର ମୋଟ ମୂଲ୍ଯ଼ କେତେ?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "ମୋଏଟ୍ ଚାମ୍ପେନ୍ ର ତିନୋଟି ବୋତଲର ମୂଲ୍ଯ଼ କେତେ?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "ମୁଁ ଗୋଟିଏ ଫଙ୍ଗି ପିଜ୍ଜା ଏବଂ ଗୋଟିଏ ପ୍ରୋସିଉଟୋ ପିଜ୍ଜା ନେଉଛି। ମୁଁ ମୋଟ କେତେ ପଇଠ କରିବି?",
+        "answer": "14. 8 <କିମ୍ବା> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "ମୁଁ ଦୁଇଟି ମାର୍ଗେରିଟା ପିଜ୍ଜା ଏବଂ ଗୋଟିଏ କାଲଜୋନ୍ ନେଉଛି। ମୁଁ ମୋଟ କେତେ ପଇଠ କରିବି?",
+        "answer": "25. 8 <କିମ୍ବା> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "ରିହାତି ପୂର୍ବରୁ ଘୁଷୁରି ମାଂସର ମୂଳ ମୂଲ୍ଯ଼ କେତେ?",
+        "answer": "14",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "ପେଟ୍ରୋଲର ମୂଲ୍ଯ଼ କେତେ?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "ଆଗ ବାମ ପାର୍ଶ୍ୱରେ ଥିବା ବ୍ଯ଼କ୍ତି ପିନ୍ଧିଥିବା ଟୋପର ରଙ୍ଗ କ \"ଣ?",
+        "answer": "ନୀଳ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "ଶାମ୍ପୁର ଡାହାଣ ପଟେ କ \"ଣ ରହିଛି?",
+        "answer": "କଣ୍ଡିସନର",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "ସବୁଠାରୁ ସଠିକ୍ ବୋତଲରେ କ \"ଣ ଅଛି?",
+        "answer": "ମୁସ୍",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "ଫ୍ରିସ୍ବି ଏବଂ ମଣିଷ ମଧ୍ଯ଼ରେ ସ୍ଥାନିକ ସମ୍ପର୍କ କ \"ଣ?",
+        "answer": "ମଣିଷ ଉପରେ <OR> ଉପର ବାମ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "ପାର୍କିଂ ସ୍ପଟ୍ 33 ରେ କେଉଁ କାର୍ ଅଛି?",
+        "answer": "ନାହିଁ <OR> ଖାଲି",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "ଲାଲ କାର ପାର୍କିଂ କେଉଁ ସ୍ଥାନରେ ଅଛି?",
+        "answer": "31",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "ଟମାଟୋର ମୂଲ୍ଯ଼ କେତେ?",
+        "answer": "ଆଠ <OR> 8.0",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "କଦଳୀର କେଉଁ ଫଳର ଅଧିକାର ଅଛି?",
+        "answer": "କମଳା",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "ଚିତ୍ରକୁ ଆଧାର କରି, ଟିନା ଫେଙ୍କ ବିଷଯ଼ରେ ମୋଟ ଆନ୍ତର୍ଜାତୀଯ଼ ସଚେତନତା କେତେ?",
+        "answer": "35 ପ୍ରତିଶତ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "ଚିତ୍ରକୁ ଆଧାର କରି, କେଉଁ ଦେଶରେ ଟିନା ଫେଙ୍କର ସର୍ବୋଚ୍ଚ ସ୍ତରର ମୋଟ ସଚେତନତା ଅଛି?",
+        "answer": "ଅଷ୍ଟ୍ରେଲିଆ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "2 ନମ୍ବର ପୃଥିବୀର କେଉଁ ଆଭ୍ଯ଼ନ୍ତରୀଣ ସଂରଚନାକୁ ସୂଚିତ କରେ?",
+        "answer": "ମେଣ୍ଟଲ୍",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "ହଳଦିଆ ସୁଟ୍ ପିନ୍ଧିଥିବା ମୋଟର ସାଇକେଲ ଚାଳକଙ୍କ ଦ୍ୱାରା ପରିଚାଳିତ ମୋଟର ସାଇକେଲରେ କେଉଁ ନମ୍ବର ପ୍ରଦର୍ଶିତ ହୋଇଛି?",
+        "answer": "16",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "ଡାହାଣ ପଟେ ମୋଟର ସାଇକେଲରେ କେଉଁ ନମ୍ବର ପ୍ରଦର୍ଶିତ ହୋଇଛି?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "ଏହି ଦୁଇଟି ବିମାନ ମଧ୍ଯ଼ରୁ କେଉଁଟି ଆକାରରେ ବଡ଼?",
+        "answer": "ସମାନ।",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "ବ୍ଯ଼କ୍ତି ଜଣକ କାରଠାରୁ ବଡ଼ କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "ମଇଦାକୁ ଖଣ୍ଡ ଖଣ୍ଡ କରି ଭାଗ କରିବା ପୂର୍ବରୁ ମଇଦାକୁ ଘାଣ୍ଟିବା ପରେ ମୁଁ କ \"ଣ କରିବି?",
+        "answer": "ଉଷ୍ମ ସ୍ଥାନ <AND> 1 ଘଣ୍ଟା",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "ଅଣ୍ଡା ଏବଂ କ୍ଷୀର ମିଶାଇବା ସମଯ଼ରେ ମୁଁ ଚିନି ମିଶାଇବା ଉଚିତ କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "ଜଡିବୁଟି, ସସେଜ୍ ଏବଂ ଛତୁ କାଟିବା ପୂର୍ବରୁ ମୁଁ କ \"ଣ କରିବା ଉଚିତ?",
+        "answer": "ପ୍ଯ଼ାନ୍କୁ ସାମାନ୍ଯ଼ ଟିଲ୍ଟ କରନ୍ତୁ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "ଯେତେବେଳେ ଆମେ ସମସ୍ତ ଉଦ୍ଦେଶ୍ଯ଼ଯୁକ୍ତ ଅଟା ଯୋଗ କରିବା ଆବଶ୍ଯ଼କ ସେତେବେଳେ ପଦକ୍ଷେପର ସୂଚକାଙ୍କ କ \"ଣ?",
+        "answer": "ତୃତୀଯ଼ <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "ତୃତୀଯ଼ ପର୍ଯ୍ଯ଼ାଯ଼ରେ ଆମେ କ \"ଣ ଯୋଗ କରିବା ଉଚିତ?",
+        "answer": "କ୍ଷୀର",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "ଆଙ୍ଗୁଠି କାଟିବା ପରେ ପିଲାମାନେ କ \"ଣ କରିବା ଉଚିତ?",
+        "answer": "ଗୋଟିଏ ପାଦରେ ହପ୍ କରନ୍ତୁ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "ଚତୁର୍ଥ ପର୍ଯ୍ଯ଼ାଯ଼ରେ କ \"ଣ କରାଯିବା ଉଚିତ?",
+        "answer": "ନାକ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "ଟାଯ଼ାର ପଞ୍ଚର ବିସ୍ତାର କରିବା ପାଇଁ ପ୍ରୋବ ବ୍ଯ଼ବହାର କରିବା ପରେ ପଦକ୍ଷେପ କ \"ଣ?",
+        "answer": "ମରାମତି ହଟାନ୍ତୁ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "ଦ୍ୱିତୀଯ଼ ପଦକ୍ଷେପଟି କ \"ଣ?",
+        "answer": "ଆପଣଙ୍କ ଦର୍ଶକଙ୍କୁ ଚିହ୍ନଟ କରନ୍ତୁ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "ଚିତ୍ରରେ ଦିଆଯାଇଥିବା ଶେଷ ରଣନୀତି କ \"ଣ?",
+        "answer": "ଏକ ଗୀତ ତିଆରି କରନ୍ତୁ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "Ford F150 ବ୍ଯ଼ତୀତ ହାରାହାରି ମୋଟ ଇନ୍ଧନ ମୂଲ୍ଯ଼ କେତେ?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "ସବୁଠାରୁ ଅଧିକ ଇନ୍ଧନ ଖର୍ଚ୍ଚ କେତେ?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "ତିଆରି ହୋଇଥିବା ଏବଂ ଫିଙ୍ଗି ଦିଆଯାଇଥିବା ପ୍ଲାଷ୍ଟିକ୍ ପରିମାଣକୁ ବିଚାରକୁ ନେଇ, ପ୍ଲାଷ୍ଟିକ୍ ରିସାଇକ୍ଲିଂରେ କେଉଁ ବର୍ଗ ସବୁଠାରୁ ଖରାପ କାମ କଲା?",
+        "answer": "ପ୍ଯ଼ାକେଜିଂ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "ଉତ୍ପାଦିତ ପ୍ଲାଷ୍ଟିକ ପରିମାଣ ଏବଂ ପରିତ୍ଯ଼କ୍ତ ପରିମାଣ ମଧ୍ଯ଼ରେ ମେଟ୍ରିକ ଟନ୍ର ପାର୍ଥକ୍ଯ଼ କ \"ଣ?",
+        "answer": "105",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "2023 ବର୍ଷ ପାଇଁ ଆନୁମାନିକ ହାରାହାରି ସ୍ଥାଯ଼ୀ ଶୁଳ୍କ କେତେ?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "2023 ବର୍ଷ ପାଇଁ ଆନୁମାନିକ ମୋଟ ମୂଲ୍ଯ଼ କେତେ?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "ଲିଭିଙ୍ଗ୍ ରୁମ୍ର ଝରକା କେଉଁ ଦିଗକୁ ମୁହଁ କରିଛି?",
+        "answer": "ଉତ୍ତର",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "ଏହି ଫ୍ଲୋରପ୍ଲାନ୍ରେ ରୋଷେଇ ଘରେ ଥିବା ଉପକରଣଗୁଡ଼ିକ କ \"ଣ?",
+        "answer": "ଓଭନ୍ <AND> ଡିଶ୍ ୱାଶର୍",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "କେଉଁ କୋଠରୀଟି ବଡ଼, ଡବଲ୍ ଗ୍ଯ଼ାରେଜ୍ ନା ଲିଭିଂ ରୁମ୍?",
+        "answer": "ଡବଲ୍ ଗ୍ଯ଼ାରେଜ୍",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "କେଉଁ କୋଠରୀଟି ବଡ଼, ମାଷ୍ଟର ବେଡରୁମ ନା ପ୍ଯ଼ାଟିଯ଼ୋ?",
+        "answer": "ମାଷ୍ଟର ଶଯ଼ନକକ୍ଷ",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "ଯଦି ଦୀପଟି ଜଳିଯାଏ ଏବଂ ବଲ୍ବଟି ଜଳିଯାଏ, ତେବେ ଏହାର ସମାଧାନ କ \"ଣ?",
+        "answer": "ବ୍ଲବ୍ ବଦଳାନ୍ତୁ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "ଫ୍ଲୋଚାର୍ଟରେ କେଉଁ ପଦକ୍ଷେପ ହୀରା ଆକୃତିରେ ଅଙ୍କିତ ହୋଇଛି?",
+        "answer": "ପାଣି ସିଝୁଛି କି?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "ବିଛଣାରୁ ଉଠିବା ପାଇଁ ହାରାହାରି ଅପେକ୍ଷା ସମଯ଼ କେତେ?",
+        "answer": "15 ମିନିଟ",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "କେଉଁ ବର୍ଷରେ ମଧ୍ଯ଼ମ ଗୃହ ମୂଲ୍ଯ଼ର ସର୍ବାଧିକ ଅଭିବୃଦ୍ଧି ହାର ରହିଛି?",
+        "answer": "2008",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012ରେ ଜାପାନର ଜି. ଡି. ପି. କେତେ?",
+        "answer": "6, 233.15 ବିଲିଯ଼ନ ଆମେରିକୀଯ଼ ଡଲାର",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "କେଉଁ ବର୍ଷଗୁଡ଼ିକରେ ରୋଇଂ ଏବଂ ଆଥଲେଟିକ୍ସରେ ସମାନ ସଂଖ୍ଯ଼କ ସ୍ୱର୍ଣ୍ଣ ପଦକ ଥିଲା?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "କେଉଁ ବିଭାଗରୁ ସର୍ବାଧିକ ଦରମା ପାଉଥିବା ବ୍ଯ଼କ୍ତି?",
+        "answer": "ପ୍ରଶାସନ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "ଟେବୁଲ ଆଧାରରେ, ୱିଲକିନ୍ସ କେତେ ରୋଜଗାର କରୁଛନ୍ତି?",
+        "answer": "2500 <କିମ୍ବା> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "କେଉଁ ଦେଶରେ ହାରାହାରି ଠାରୁ କମ୍ ଲାଭ ମାର୍ଜିନ ରହିଛି?",
+        "answer": "ଭାରତ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "କେଉଁ ଦେଶରେ ସର୍ବାଧିକ ଲାଭ ମାର୍ଜିନ ରହିଛି?",
+        "answer": "ଅଷ୍ଟ୍ରେଲିଆ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "କେଉଁ ମାସରେ ସର୍ବାଧିକ ଆଯ଼ ହୋଇଥାଏ?",
+        "answer": "ଫେବୃଆରୀ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "ମୋଟ ଆଯ଼ରେ ଦରମା କେତେ ପ୍ରତିଶତ ଯୋଗଦାନ କରିଥାଏ?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "ବାମ ପଟେ ଥିବା ବ୍ଯ଼କ୍ତି ଜଣକ କିଏ?",
+        "answer": "କେଇରା ନାଇଟଲି",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "ଫଟୋରେ ଥିବା ବ୍ଯ଼କ୍ତି ଜଣକ କିଏ?",
+        "answer": "ମିଶେଲ ଯ଼େହ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "ତଳେ ଡାହାଣ ପଟେ ଥିବା ବ୍ଯ଼କ୍ତି ଜଣକ କିଏ?",
+        "answer": "ଜେମି ଡୋର୍ନାନ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "କେଉଁଟି ମିଠା ବିହୀନ?",
+        "answer": "ଓଟ୍।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "ଏହି ସେଓ ଜୈବିକ କି?",
+        "answer": "ହଁ",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "ସମ୍ପୂର୍ଣ୍ଣ ବ୍ଯ଼ାଗ ପାଇଁ କ୍ଯ଼ାଲୋରୀ କେତେ?",
+        "answer": "275",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "ଏହି ଖାଦ୍ଯ଼ର ନାମ କ \"ଣ?",
+        "answer": "ମ୍ଯ଼ାପୋ ଟୋଫୁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼ର ନାମ କ \"ଣ?",
+        "answer": "କାପ୍ରିସ୍ ସାଲାଡ୍",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "ଏହି ଖାଦ୍ଯ଼ର ନାମ କ \"ଣ?",
+        "answer": "ପାଦ୍ ଥାଇ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "ବାମ ପାର୍ଶ୍ୱରେ ଥିବା କାରର ଆକୃତି କ \"ଣ?",
+        "answer": "ଭଲ୍କ୍ସୱାଗାନ୍",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "ଏହି କାରଖାନା କ \"ଣ ତିଆରି କରେ?",
+        "answer": "କ୍ଯ଼ାମେରା",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "କାରରେ ସବୁଜ ଲୋଗୋ କ \"ଣ?",
+        "answer": "ରାକ୍ଷସ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "ଏହି ଲ୍ଯ଼ାଣ୍ଡମାର୍କର ନାମ କ \"ଣ?",
+        "answer": "ଟ୍ରେଭି ଫାଉଣ୍ଟେନ୍",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "ଏହି ଲ୍ଯ଼ାଣ୍ଡମାର୍କର ନାମ କ \"ଣ?",
+        "answer": "ଅନବରିଯ଼ା ମସଜିଦ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "ଏହି ଲ୍ଯ଼ାଣ୍ଡମାର୍କର ନାମ କ \"ଣ?",
+        "answer": "ବାଓଚୁ ପାଗୋଡା",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "ଏହି ବ୍ଯ଼ାଙ୍କ୍ ନୋଟ୍ର ମୁଖ ମୂଲ୍ଯ଼ କେତେ?",
+        "answer": "ପାଞ୍ଚ <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "ଏହି ବ୍ଯ଼ାଙ୍କ ନୋଟ୍ କ \"ଣ?",
+        "answer": "ଦଶ ପାଉଣ୍ଡ <କିମ୍ବା> 10 ପାଉଣ୍ଡ <କିମ୍ବା> ବ୍ରିଟିଶ ପାଉଣ୍ଡ",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "ଏହି ବ୍ଯ଼ାଙ୍କ୍ ନୋଟ୍ କେଉଁ ପ୍ରକାରର ମୁଦ୍ରାକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+        "answer": "ସ୍ୱିଡେନ୍ <OR> କ୍ରୋନର୍",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "କେଉଁ ଛାତି ଏକ୍ସ-ରେ ରୋଗ ଦେଖାଯାଇପାରେ? (ବିକଳ୍ପଗୁଡ଼ିକ ମଧ୍ଯ଼ରେ ରହିଛିଃ ଆଟେଲେକ୍ଟାସିସ୍; କାର୍ଡିଓମେଗାଲି; ଏଫ୍ଯ଼ୁଜନ୍; ଇନ୍ଫିଲ୍ଟ୍ରେସନ୍; ମାସ୍; ନୋଡ୍ଯ଼ୁଲ୍; ନିମୋନିଆ; ନିମୋଥୋରାକ୍ସ; କନ୍ସୋଲିଡେସନ୍; ଏଡିମା; ଏମ୍ଫିସେମା; ଫାଇବ୍ରୋସିସ୍; ପ୍ଲୁରାଲ୍ ଥିକନିଂ; ହାର୍ନିଆ।)",
+        "answer": "କାର୍ଡିଓମେଗାଲି",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "କେଉଁ ଛାତି ଏକ୍ସ-ରେ ରୋଗ ଦେଖାଯାଇପାରେ? (ବିକଳ୍ପଗୁଡ଼ିକ ମଧ୍ଯ଼ରେ ରହିଛିଃ ଆଟେଲେକ୍ଟାସିସ୍; କାର୍ଡିଓମେଗାଲି; ଏଫ୍ଯ଼ୁଜନ୍; ଇନ୍ଫିଲ୍ଟ୍ରେସନ୍; ମାସ୍; ନୋଡ୍ଯ଼ୁଲ୍; ନିମୋନିଆ; ନିମୋଥୋରାକ୍ସ; କନ୍ସୋଲିଡେସନ୍; ଏଡିମା; ଏମ୍ଫିସେମା; ଫାଇବ୍ରୋସିସ୍; ପ୍ଲୁରାଲ୍ ଥିକନିଂ; ହାର୍ନିଆ।)",
+        "answer": "ହର୍ନିଯ଼ା",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "କେଉଁ ଛାତି ଏକ୍ସ-ରେ ରୋଗ ଦେଖାଯାଇପାରେ? (ବିକଳ୍ପଗୁଡ଼ିକ ମଧ୍ଯ଼ରେ ରହିଛିଃ ଆଟେଲେକ୍ଟାସିସ୍; କାର୍ଡିଓମେଗାଲି; ଏଫ୍ଯ଼ୁଜନ୍; ଇନ୍ଫିଲ୍ଟ୍ରେସନ୍; ମାସ୍; ନୋଡ୍ଯ଼ୁଲ୍; ନିମୋନିଆ; ନିମୋଥୋରାକ୍ସ; କନ୍ସୋଲିଡେସନ୍; ଏଡିମା; ଏମ୍ଫିସେମା; ଫାଇବ୍ରୋସିସ୍; ପ୍ଲୁରାଲ୍ ଥିକନିଂ; ହାର୍ନିଆ।)",
+        "answer": "ଅନୁପ୍ରବେଶ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "କେତେ ପକ୍ଷୀ ଅଛନ୍ତି?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "କେତେ ଟମାଟୋ ଅଛି?",
+        "answer": "5.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "କେତେ ପୁସ୍ତକ ଅଛି?",
+        "answer": "63",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "ଚିତ୍ରରେ ଥିବା ସମସ୍ତ ଦୃଶ୍ଯ଼ର ପାଠ୍ଯ଼ କ \"ଣ?",
+        "answer": "S3302CD",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "ଚିତ୍ରରେ ଥିବା ସମସ୍ତ ଦୃଶ୍ଯ଼ର ପାଠ୍ଯ଼ କ \"ଣ?",
+        "answer": "ଲକ୍ଷ୍ମୀ ଜୁଏଲର୍ସ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "ଚିତ୍ରରେ ଥିବା ସମସ୍ତ ଦୃଶ୍ଯ଼ର ପାଠ୍ଯ଼ କ \"ଣ?",
+        "answer": "ନିଜ ପାଇଁ ଏକ ଛୋଟ ଖ୍ରୀଷ୍ଟମାସର ଆନନ୍ଦ ନିଅନ୍ତୁ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "ଚିତ୍ରରେ ଥିବା ସମସ୍ତ ଦୃଶ୍ଯ଼ର ପାଠ୍ଯ଼ କ \"ଣ?",
+        "answer": "5: 30 ଅପରାହ୍ନ <ଏବଂ> 88% <ଏବଂ> ମାରିଯ଼ୋ କାର୍ଟ 8 ଡିଲକ୍ସ <ଏବଂ> ମାରିଯ଼ୋ କାର୍ଟ 8 ଡିଲକ୍ସ <ଏବଂ> ସୁପର ମାରିଯ଼ୋ ଓଡିସୀ <ଏବଂ> ଜେଲ୍ଡାର ଲିଜେଣ୍ଡ <ଏବଂ> ୱାଇଲ୍ଡର ଶ୍ୱାସକ୍ରିଯ଼ା <ଏବଂ> ବିକଳ୍ପ <ଏବଂ> ଆରମ୍ଭ କରନ୍ତୁ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "ଚିତ୍ରରେ ଥିବା ସମସ୍ତ ଦୃଶ୍ଯ଼ର ପାଠ୍ଯ଼ କ \"ଣ?",
+        "answer": "ମି. ୱିଲିଯ଼ମ୍ ଶେକ୍ସ୍ପିଯ଼ାର୍ସ୍ <ଏବଂ> କମେଡି, ଇତିହାସ, ଏବଂ ଟ୍ରେଜିସ୍. <ଏବଂ> ଟ୍ରୁ ଅରିଜିନାଲ୍ କପି ଅନୁଯାଯ଼ୀ ପ୍ରକାଶିତ |",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "ଚିତ୍ରରେ ଥିବା ସମସ୍ତ ଦୃଶ୍ଯ଼ର ପାଠ୍ଯ଼ କ \"ଣ?",
+        "answer": "1642 ର କନେକ୍ଟିକଟ୍ ଆଇନ ଯଦି କୌଣସି ପୁରୁଷ କିମ୍ବା ମହିଳା ଡାଇନୀ ହୁଅନ୍ତି-ଅର୍ଥାତ୍, ଏକ ପରିଚିତ ଆତ୍ମା ସହିତ ପରାମର୍ଶ କରନ୍ତି-ସେମାନଙ୍କୁ ମୃତ୍ଯ଼ୁଦଣ୍ଡ ଦିଆଯିବ |",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "ଏହି ଉପକରଣର ବ୍ରାଣ୍ଡ କ \"ଣ?",
+        "answer": "ମଟୋରୋଲା",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "ଲାଇସେନ୍ସ ପ୍ଲେଟ୍ ନମ୍ବର କ \"ଣ?",
+        "answer": "ଏ. ଇ. ଡି-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "ପ୍ରତିଛବିରେ ଥିବା ସମସ୍ତ ଫରାସୀ ଦୃଶ୍ଯ଼ର ପାଠ୍ଯ଼ କ \"ଣ?",
+        "answer": "ଫ୍ରାନ୍ସର ଇତିହାସ <ଏବଂ> ଦି ଲା ପ୍ରିହିସ୍ଟୋର ଏ ଆନସ୍ ଜର୍ସ <ଏବଂ> କୁଇଲେ ଇତିହାସ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "ଚିତ୍ରରେ ଥିବା ସମସ୍ତ ଚାଇନିଜ୍ ଦୃଶ୍ଯ଼ ପାଠ୍ଯ଼ କ 'ଣ?",
+        "answer": "<AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND>",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "କେଉଁ ମହାଦେଶ ଉପରେ ଗୁରୁତ୍ୱ ଦିଆଯାଇଛି?",
+        "answer": "ଏସିଆ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "ଏହି ଖାଦ୍ଯ଼ ୱେବରେ କେଉଁ ଉତ୍ପାଦକ ଅଛନ୍ତି?",
+        "answer": "ଫାଇଟୋପ୍ଲାଣ୍ଟନ୍ <AND> ସାମୁଦ୍ରିକ ଶୈବାଳ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "ପ୍ରତ୍ଯ଼େକ ନମୁନାରେ କଣିକାର ହାରାହାରି ଗତିଜ ଶକ୍ତିକୁ ତୁଳନା କରନ୍ତୁ। ନିମ୍ନରେ ଦିଆଯାଇଥିବା ରେଖାଚିତ୍ରରେ ସମାନ ବନ୍ଦ, କଠୋର ପାତ୍ରରେ ଗ୍ଯ଼ାସର ଦୁଇଟି ଶୁଦ୍ଧ ନମୁନା ଦେଖାଯାଇଛି। ପ୍ରତ୍ଯ଼େକ ରଙ୍ଗିନ ବଲ୍ ଗୋଟିଏ ଗ୍ଯ଼ାସ୍ କଣିକାକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ | ଉଭଯ଼ ନମୁନାରେ ସମାନ ସଂଖ୍ଯ଼କ କଣିକା ରହିଛି। କେଉଁ ନମୁନାର ତାପମାତ୍ରା ଅଧିକ? ନମୁନା ଏ ନା ନମୁନା ବି?",
+        "answer": "ନମୁନା ଏ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "ଏହି ହାଇଲାଇଟ ହୋଇଥିବା ସହରଗୁଡ଼ିକ ମଧ୍ଯ଼ରୁ କେଉଁଟି ଉତ୍ତରରେ ସବୁଠାରୁ ଦୂରରେ ଅଛି?",
+        "answer": "ଚିକାଗୋ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "ଏହି ଫଟୋ କେଉଁଠାରେ ଉଠାଯାଇଛି?",
+        "answer": "ତୁର୍କୀ <OR> ସିରିଆ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "ଏହି ଫଟୋ କେଉଁଠାରେ ଉଠାଯାଇଛି?",
+        "answer": "ଓସ୍କାର <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "ଏହି ଫଟୋ କେଉଁଠାରେ ଉଠାଯାଇଛି?",
+        "answer": "କାତାର",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "ଏହି ଫଟୋ କେଉଁ ଦେଶରେ ନିଆଯାଇଥିଲା?",
+        "answer": "ଅଷ୍ଟ୍ରେଲିଆ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "ଏହି ଗଛଗୁଡ଼ିକ ଜିରାଫମାନଙ୍କ ଠାରୁ ଲମ୍ବା କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "ଏହି ବିମାନ ଉଡ଼ାଣ କରୁଛି ନା ଅବତରଣ କରୁଛି?",
+        "answer": "ବାହାର କରିବା",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "କେତେ ଲୋକ ବସିଛନ୍ତି?",
+        "answer": "ଗୋଟିଏ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "ଆବର୍ଜନା ଖାଲି ଅଛି ନା ଭରି ରହିଛି?",
+        "answer": "ଖାଲି",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "ଜିରାଫ ବିପଜ୍ଜନକ ଦେଖାଯାଉଛି କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "ଜଳରେ ଜେବ୍ରାର କୌଣସି ପ୍ରତିଫଳନ ଅଛି କି?",
+        "answer": "ହଁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "ଲୋକଟି ଖୁସି ଅଛି କି?",
+        "answer": "ହଁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "ସବୁ କୁକୁରର ରଙ୍ଗ ସମାନ କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "ପୃଷ୍ଠଭୂମିରେ ସେହି ମଦ ଅଛି କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "ଲୋକଟି ତଳେ ପଡ଼ିଯିବ କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "କେଉଁ ସ୍ଥାନ ଚିତ୍ରିତ ହୋଇଛି?",
+        "answer": "ଉପକୂଳ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "ଏହା ବାହାରେ ଅଛି କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "ପାଣିପାଗ କେମିତି ଅଛି?",
+        "answer": "ସଫା କରନ୍ତୁ <କିମ୍ବା> ସୂର୍ଯ୍ଯ଼କିରଣ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "ଧାତୁରେ ନିର୍ମିତ ବାଡ଼ର ରଙ୍ଗ କ \"ଣ?",
+        "answer": "ସବୁଜ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "ମଣିଷର ବାମ ପାର୍ଶ୍ୱରେ ଥିବା ବ୍ଯ଼କ୍ତି ବସିଥିବା ପରି ଦେଖାଯାଉଛି କି?",
+        "answer": "ହଁ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "ଟେବୁଲର ପ୍ଲେଟ୍ ଉଭଯ଼ ମଇଳା ଏବଂ ରୂପା କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "ପରଦାଟି ଚିତ୍ରର ଡାହାଣ ପାର୍ଶ୍ୱରେ ନା ବାମ ପାର୍ଶ୍ୱରେ?",
+        "answer": "ବାମ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "ଏହି ଫଟୋରେ କମ୍ପ୍ଯ଼ୁଟର ଅଛି କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "ଚାଉଳର ବାମ ପାର୍ଶ୍ୱରେ ଥିବା ବାସନ ତଳେ ନାପକିନ୍ ଅଛି କି?",
+        "answer": "ହଁ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "ସେଠାରେ ବାଦାମ କିମ୍ବା ପନିପରିବା ଅଛି କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "ଏହି ଚିତ୍ରରେ ଉଭଯ଼ ପ୍ଲେଟ ଏବଂ ଫୋର୍କ ଅଛି କି?",
+        "answer": "ହଁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "ଏହି ପକ୍ଷୀଟିର ନାମ କ \"ଣ?",
+        "answer": "ତୋତା <OR> କୋନୁର୍",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "ଚିତ୍ରରେ ଥିବା କେଉଁ ପଶୁ ବଡ଼, ବିଲେଇ ନା କୁକୁର?",
+        "answer": "ବିରାଡ଼ି",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "ଡାହାଣ ଟେବୁଲରେ, ଲାପଟପ୍ର ବାମ ପଟେ କ \"ଣ ଅଛି?",
+        "answer": "ଟେବୁଲ୍ ଲ୍ଯ଼ାମ୍ପ <OR> ଡେସ୍କ ଲ୍ଯ଼ାମ୍ପ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "ମଣିଷ ଘୋଡା ଚଢୁଛି କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "ସର୍ଫର୍ ସର୍ଫବୋର୍ଡର ବାମ କିମ୍ବା ଡାହାଣ ପଟେ ଅଛନ୍ତି କି?",
+        "answer": "ବାମ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "ଦୀପଟି କ \"ଣ, ପାର୍ଶ୍ୱ ଟେବୁଲ ନା ନାଇଟ୍ ଷ୍ଟାଣ୍ଡ?",
+        "answer": "ପାର୍ଶ୍ୱ ଟେବୁଲ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "ଷ୍ଟମ୍ପ ଏବଂ ବାଡ଼ ମଧ୍ଯ଼ରେ କ \"ଣ ସମାନତା ରହିଛି?",
+        "answer": "ସାମଗ୍ରୀ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "ଚାମଚଟି ଚପଷ୍ଟିକ୍ ଭଳି ସମାନ ପଦାର୍ଥରେ ତିଆରି ହୋଇଛି କି?",
+        "answer": "ହଁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "ଏହି ସାର୍ଟର ରଙ୍ଗ ଗୁଡ଼ିଠାରୁ ଭିନ୍ନ କି?",
+        "answer": "ହଁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "ଏହି ସମସ୍ତ ଲୋକମାନଙ୍କର ସମାନ ଲିଙ୍ଗ ଅଛି କି?",
+        "answer": "ନାହିଁ।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "ଏହି ଦୁଇଟି ପ୍ରାଣୀ କ \"ଣ ଭିନ୍ନ ପ୍ରଜାତିର?",
+        "answer": "ହଁ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "ଲୋକମାନେ କେଉଁଠି ଅଛନ୍ତି? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ସେମାନେ ଏକ କଲେଜ ଶ୍ରେଣୀଗୃହରେ ଅଛନ୍ତି। ମୁଁ ଏପରି ଭାବୁଛି କାରଣ ସେ ଯୁବତୀ ଜଣକ କଲେଜ ବଯ଼ସର ଦେଖାଯାଉଛନ୍ତି, ଏବଂ ସେମାନେ ଡେସ୍କ ଏବଂ ଚେଯ଼ାର ଦ୍ୱାରା ଘେରି ରହିଛନ୍ତି।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "ଲୋକମାନେ କାହିଁକି କଳା ପୋଷାକ ପିନ୍ଧିଛନ୍ତି? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ସେମାନେ ଏକ ଅନ୍ତିମ ସଂସ୍କାରକୁ ଯାଉଛନ୍ତି। ମୁଁ ଏପରି ଭାବୁଛି କାରଣ ଲୋକମାନେ ଅନ୍ତିମ ସଂସ୍କାରରେ କଳା ପିନ୍ଧିବା ପାରମ୍ପାରିକ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "ମହିଳା ଜଣକ କାହିଁକି ଲୁଗାପଟା ପିନ୍ଧିଛନ୍ତି? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ସେ ବିଛଣା ପାଇଁ ପ୍ରସ୍ତୁତ ହେଉଛନ୍ତି। ମୁଁ ଏପରି ଭାବୁଛି କାରଣ କୋଠରୀଟି ଏକ ଶଯ଼ନକକ୍ଷ ପରି ଦେଖାଯାଏ ଏବଂ ମହିଳା ତାଙ୍କ ଶଯ୍ଯ଼ାର ସାଧାରଣ ଦିଗରେ ଯାଉଛନ୍ତି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "କେଉଁଠି ଘଟୁଛି ଏଭଳି ଘଟଣା? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ଏହା ଏକ ଚମତ୍କାର ରେଷ୍ଟୁରାଣ୍ଟରେ ଘଟୁଛି। ମୁଁ ଏପରି ଭାବୁଛି କାରଣ ବ୍ଯ଼କ୍ତି ଜଣକ ଫ୍ଯ଼ାନ୍ସି ପୋଷାକ ପିନ୍ଧିଛନ୍ତି ଏବଂ ପୃଷ୍ଠଭୂମି ଚମତ୍କାର |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "ଦୃଶ୍ଯ଼ରେ ଗ୍ରୀଷ୍ମ ସମଯ଼ ଅଛି କି? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ନା, ଏହା ପଡ଼ିଯାଇଥିବା ପରି ଲାଗୁଛି। ମୁଁ ଏପରି ଭାବୁଛି କାରଣ ପୃଷ୍ଠଭୂମିରେ କଦଳୀ ଅଛି ଏବଂ ସେଗୁଡ଼ିକ ସାଧାରଣତଃ ପତନ ସହିତ ଜଡିତ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "ଲାଲ ପୋଷାକ ପିନ୍ଧିଥିବା ମହିଳା କ \"ଣ ପୁରୁଷଙ୍କ ଉପରେ ରାଗି ଯିବେ, ପୋଷାକ ପିନ୍ଧିଥିବା ମହିଳାଙ୍କୁ ଦେଖି? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ହଁ, ଲାଲ ପୋଷାକ ପିନ୍ଧିଥିବା ମହିଳା ଏବଂ ପୁରୁଷ ଏକ ଦମ୍ପତି ପରି ଦେଖାଯାଆନ୍ତି ଏବଂ ଲାଲ ପୋଷାକ ପିନ୍ଧିଥିବା ମହିଳା ଅନ୍ଯ଼ women.I କୁ ଯାଞ୍ଚ କରୁଥିବା ପୁରୁଷଙ୍କୁ ପ୍ରଶଂସା କରିବେ ନାହିଁ କାରଣ ଏକ ଏକବିବାହିତ ସମ୍ପର୍କରେ, ଅଂଶୀଦାରମାନେ ପରସ୍ପର ପ୍ରତି ବିଶ୍ୱସ୍ତ ହେବା ଆଶା କରାଯାଏ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "ମହିଳାଟିର ଉଭଯ଼ ହାତ ଆକାଶରେ କାହିଁକି ଅଛି? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ସେ କେବଳ ଏକ ବାସ୍କେଟବଲ୍ ଗୁଳି ଚଳାଇଥିଲେ। ମୁଁ ଏପରି ଭାବୁଛି କାରଣ ତାଙ୍କ ବାହୁ ଏକ ବାସ୍କେଟବଲ୍ ସଟ୍ ପାଇଁ କୋଣରେ ଅଛି ଏବଂ ସେମାନେ ଏକ ବାସ୍କେଟବଲ୍ ପଡ଼ିଆରେ ଅଛନ୍ତି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "ପୁଅଟି କେଉଁ ପ୍ରକାରର ବିଦ୍ଯ଼ାଳଯ଼କୁ ଯାଏ? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ପୁଅଟି ଏକ ଘରୋଇ ବିଦ୍ଯ଼ାଳଯ଼କୁ ଯାଏ, ସରକାରୀ ବିଦ୍ଯ଼ାଳଯ଼କୁ ନୁହେଁ। ମୁଁ ଭାବୁଛି ଯେହେତୁ ପୁଅଟି ସମସ୍ତେ ଏକ ସୁଟ୍ ପିନ୍ଧିଛନ୍ତି, ସରକାରୀ ବିଦ୍ଯ଼ାଳଯ଼ଗୁଡିକ ତାହା ଆବଶ୍ଯ଼କ କରନ୍ତି ନାହିଁ କିନ୍ତୁ କିଛି ଘରୋଇ ବିଦ୍ଯ଼ାଳଯ଼ କରନ୍ତି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "ଏହି ଲୋକମାନେ ଏହି ଘରେ ରୁହନ୍ତି କି? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ନା, ସେମାନେ କରନ୍ତି ନାହିଁ। ମୁଁ ଏପରି ଭାବୁଛି କାରଣ ସେମାନେ ସମସ୍ତେ ଚିତ୍ରକଳା ଏବଂ ସାଜସଜ୍ଜା ଉପରେ ନଜର ରଖିଛନ୍ତି, ଯଦି ସେଗୁଡ଼ିକ ଦେଖିବାକୁ ଅଭ୍ଯ଼ସ୍ତ ହୋଇଥାଆନ୍ତେ, ତେବେ କେହି ଏପରି କରିନଥାଆନ୍ତେ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "ଧଳା ପୋଷାକ ପିନ୍ଧିଥିବା ପୁରୁଷ ଏବଂ ମହିଳା କାହିଁକି ପରସ୍ପରର ଏତେ ନିକଟତର? ଏହାର ଉତ୍ତର ଦିଅନ୍ତୁ ଏବଂ ଯଥାର୍ଥତା ପ୍ରଦାନ କରନ୍ତୁ।",
+        "answer": "ସେମାନେ କେବଳ ବିବାହ କରିଛନ୍ତି। ମୁଁ ଏପରି ଭାବୁଛି କାରଣ ସେମାନେ ବିବାହ ପୋଷାକରେ ଅଛନ୍ତି ଏବଂ ସମସ୍ତେ ସେମାନଙ୍କୁ ଦେଖୁଛନ୍ତି।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "ଆପଣ ଏହି ମିମକୁ ବ୍ଯ଼ାଖ୍ଯ଼ା କରିପାରିବେ କି?",
+        "answer": "ଏହି ମିମ୍ ହେଉଛି ବିଳମ୍ବ ଏବଂ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ସମଯ଼ ପର୍ଯ୍ଯ଼ନ୍ତ କାର୍ଯ୍ଯ଼କୁ ବିଳମ୍ବ କରିବାର ପ୍ରବୃତ୍ତି ଉପରେ ଏକ ହାସ୍ଯ଼ାସ୍ପଦ ଗ୍ରହଣ | ମିମରେ ଥିବା ବ୍ଯ଼କ୍ତି 8ଟାରେ କିଛି କରିବାକୁ ଯୋଜନା କରନ୍ତି, କିନ୍ତୁ ଯେତେବେଳେ ସେମାନେ ସେହି ସମଯ଼ସୀମା କିଛି ମିନିଟ୍ ମଧ୍ଯ଼ରେ ହାତଛଡ଼ା କରନ୍ତି, ସେମାନେ ଏହା ପରିବର୍ତ୍ତେ 9ଟା ପର୍ଯ୍ଯ଼ନ୍ତ ଅପେକ୍ଷା କରିବାକୁ ନିଷ୍ପତ୍ତି ନିଅନ୍ତି | ଶଯ୍ଯ଼ାରେ ପଡ଼ିଥିବା କର୍ମିଟ୍ ଦି ଫ୍ରଗ୍ ର ଚିତ୍ର ବ୍ଯ଼କ୍ତିର ଅଳସୁଆପଣ ଏବଂ କାର୍ଯ୍ଯ଼ ସମାପ୍ତ କରିବା ପାଇଁ ପ୍ରେରଣାର ଅଭାବକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ |",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "ଆପଣ ଏହି ମିମକୁ ବ୍ଯ଼ାଖ୍ଯ଼ା କରିପାରିବେ କି?",
+        "answer": "ଏହି ମିମ୍ ହେଉଛି କୋଭିଡ-19 ମହାମାରୀ କାରଣରୁ ଅନ୍ଲାଇନ ଶିକ୍ଷଣର ବର୍ତ୍ତମାନର ପରିସ୍ଥିତି ଉପରେ ଏକ ମନ୍ତବ୍ଯ଼। ଏହା ଦର୍ଶାଏ ଯେ ବିଭିନ୍ନ ପକ୍ଷ ଏହା ଦ୍ୱାରା କିପରି ପ୍ରଭାବିତ ହୁଅନ୍ତି | \\n\\n ପ୍ରଥମ ଦୁଇଟି ଚିତ୍ର ଜୁମ୍ କମ୍ପାନୀ ଏବଂ ଶିକ୍ଷକମାନେ ପବନରେ ଟଙ୍କା ଫିଙ୍ଗୁଥିବା ଦେଖାଯାଇଛି, ଯାହା ସୂଚିତ କରେ ଯେ ସେମାନେ ପରିସ୍ଥିତିରୁ ଲାଭବାନ ହେଉଛନ୍ତି | ବିଶେଷ କରି ମହାମାରୀ କାରଣରୁ ଜୁମ୍ ବ୍ଯ଼ବହାର ଏବଂ ରାଜସ୍ୱରେ ବୃଦ୍ଧି ଘଟିଛି। \\n\\n ତୃତୀଯ଼ ଚିତ୍ରଟି ୱାଇଫାଇ କମ୍ପାନୀକୁ ମଧ୍ଯ଼ ଆକାଶରେ ଟଙ୍କା ଫିଙ୍ଗୁଥିବା ଦର୍ଶାଉଛି, ଯାହା ସୂଚିତ କରେ ଯେ ସେମାନେ ମଧ୍ଯ଼ ପରିସ୍ଥିତିରୁ ଲାଭବାନ ହେଉଛନ୍ତି କାରଣ ଅଧିକ ଲୋକ ଅନଲାଇନ୍ ଶିକ୍ଷା ପାଇଁ ଇଣ୍ଟରନେଟ୍ ବ୍ଯ଼ବହାର କରୁଛନ୍ତି | \\n\\n ଶେଷ ଚିତ୍ରଟି ଏକ ଦୁଃଖିତ ଜୋକର୍ ମୁହଁ ସହିତ ଜଣେ ଛାତ୍ରଙ୍କୁ ଦର୍ଶାଉଛି, ଯାହା ସୂଚିତ କରେ ଯେ ଛାତ୍ରମାନେ ପରିସ୍ଥିତିରୁ ଉପକୃତ ହେଉ ନାହାଁନ୍ତି ଏବଂ ଅନଲାଇନ୍ ଶିକ୍ଷା ସହିତ ସଂଘର୍ଷ କରୁଛନ୍ତି | ପୃଷ୍ଠଭୂମିରେ \"ଏକ ସୁଖୀ ଚେହେରାରେ ରଖନ୍ତୁ\" ଚିହ୍ନଟି ଏହି ଧାରଣାକୁ ଆହୁରି ଗୁରୁତ୍ୱ ଦେଇଥାଏ ଯେ ଛାତ୍ରମାନେ ସେମାନଙ୍କର ସଂଘର୍ଷ ସତ୍ତ୍ୱେ ଏକ ସାହସୀ ମୁହଁ ପିନ୍ଧିଛନ୍ତି |",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "ଆପଣ ଏହି ମିମକୁ ବ୍ଯ଼ାଖ୍ଯ଼ା କରିପାରିବେ କି?",
+        "answer": "ଆଇସଲ୍ଯ଼ାଣ୍ଡ ଏବଂ ଗ୍ରୀନଲ୍ଯ଼ାଣ୍ଡ ଦେଶର ନାମ ବିଭ୍ରାନ୍ତିକର ବୋଲି ଏହି ମିମ୍ ମଜା କରୁଛି | ଏହାର ନାମ ସତ୍ତ୍ୱେ, ଆଇସଲ୍ଯ଼ାଣ୍ଡ ଏହାର ସୁନ୍ଦର ସବୁଜ ପ୍ରାକୃତିକ ଦୃଶ୍ଯ଼ ପାଇଁ ଜଣାଶୁଣା, ଯେତେବେଳେ ଗ୍ରୀନଲ୍ଯ଼ାଣ୍ଡ ମୁଖ୍ଯ଼ତଃ ବରଫ ଏବଂ ବରଫରେ ଆଚ୍ଛାଦିତ | ମିମ୍ କହୁଛି ଯେ ବ୍ଯ଼କ୍ତିଙ୍କର ବିଶ୍ୱାସ ସମ୍ବନ୍ଧୀଯ଼ ସମସ୍ଯ଼ା ରହିଛି କାରଣ ଏହି ଦେଶଗୁଡ଼ିକର ନାମ ସେମାନଙ୍କର ପ୍ରାକୃତିକ ଦୃଶ୍ଯ଼କୁ ସଠିକ୍ ଭାବରେ ପ୍ରତିନିଧିତ୍ୱ କରେ ନାହିଁ |",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "ଆପଣ ଏହି ମିମକୁ ବ୍ଯ଼ାଖ୍ଯ଼ା କରିପାରିବେ କି?",
+        "answer": "ଏହି ମିମ୍ ପରୀକ୍ଷା ସମଯ଼ରେ ଜଣେ ଛାତ୍ରଙ୍କ ହସ୍ତାକ୍ଷର କିପରି ଖରାପ ହୁଏ ତାହା ଉପରେ ମଜା କରୁଛି | ପ୍ରଥମ ଦୁଇଟି ପୃଷ୍ଠାରେ ପରିଷ୍କାର ଏବଂ ସୁପାଠ୍ଯ଼ ହସ୍ତାକ୍ଷର ଦେଖାଯାଏ, ମଧ୍ଯ଼ମ ପୃଷ୍ଠାରେ ଟିକିଏ ଅସ୍ପଷ୍ଟ ହସ୍ତାକ୍ଷର ଦେଖାଯାଏ, ଏବଂ ଶେଷ ଦୁଇଟି ପୃଷ୍ଠାରେ ସମ୍ପୂର୍ଣ୍ଣ ଅବୈଧ ସ୍କ୍ରିବଲ୍ ଦେଖାଯାଏ | ଏହା ସମ୍ଭବତଃ ପରୀକ୍ଷା ଆଗକୁ ବଢ଼ିବା ସହିତ ଛାତ୍ର କ୍ଳାନ୍ତ କିମ୍ବା ତରବର ହେବା କାରଣରୁ ହୋଇଥାଏ।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "ଆପଣ ଏହି ମିମକୁ ବ୍ଯ଼ାଖ୍ଯ଼ା କରିପାରିବେ କି?",
+        "answer": "ଏହି ମିମ୍ ହେଉଛି ଏକ ଥଟ୍ଟା ଯେ କିପରି ନୂତନ କଲେଜ ଛାତ୍ରମାନେ (ନବୀନ) ପ୍ରାଯ଼ତଃ ନୋଟ୍ ନେବାକୁ ଏବଂ ଶ୍ରେଣୀରେ ସେମାନେ ଯାହା କରିପାରିବେ ତାହା ଶିଖିବାକୁ ଆଗ୍ରହୀ | ଏହି ଚିତ୍ରଟି ସ୍ପଞ୍ଜ୍ ବବ୍ ସ୍କ୍ୱେଯ଼ାରପାଣ୍ଟସ୍ କାର୍ଟୁନ୍ରୁ ଆସିଛି, ଯେଉଁଠାରେ ସ୍ପଞ୍ଜ୍ ବବ୍ ଏବଂ ପ୍ଯ଼ାଟ୍ରିକ୍ ଉନ୍ମତ୍ତ ଭାବରେ ନୋଟ୍ ଲେଖୁଛନ୍ତି | କ୍ଯ଼ାପସନ୍ ସୂଚିତ କରେ ଯେ ନୂତନ ଲୋକମାନେ ଜାଣିବା ପାଇଁ ଏତେ ଆଗ୍ରହୀ ଯେ ସେମାନେ ପ୍ରଫେସରଙ୍କ ଅଭିବାଦନ ମଧ୍ଯ଼ ଲେଖୁଛନ୍ତି |",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "ଏହି ଫଟୋରେ ହାସ୍ଯ଼ାସ୍ପଦ କ \"ଣ ରହିଛି?",
+        "answer": "ଏହା ଏକ ଚିତ୍ର ଅଙ୍କନ କରୁଥିବା ଗଣ୍ଡାଙ୍କର ଏକ କାର୍ଟୁନ୍ ଏବଂ ପ୍ରତ୍ଯ଼େକ ଚିତ୍ରରେ ଏହାର ଗଣ୍ଡା ଶିଙ୍ଗ ଅଛି କାରଣ ଗଣ୍ଡା ଶିଙ୍ଗ ଏହାର ଆଖି ସାମ୍ନାରେ ବଢିଥାଏ | ଏହାର ଶୀର୍ଷକ ଥିଲା, \"ଆପଣ ଦୁନିଆକୁ ଆପଣ ଯେମିତି ଅଛନ୍ତି ସେମିତି ଦେଖନ୍ତି!\" ଆମର ଦୃଷ୍ଟିକୋଣ କିପରି ବିଶ୍ୱ ବିଷଯ଼ରେ ଆମର ଧାରଣାକୁ ଆକାର ଦିଏ ତାହା ଉପରେ ଏକ ଖେଳପଡ଼ିଆ ମନ୍ତବ୍ଯ଼ |",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "ଏହି ଫଟୋରେ ହାସ୍ଯ଼ାସ୍ପଦ କ \"ଣ ରହିଛି?",
+        "answer": "କିଛି ଜିନିଷ ଅଛି ଯାହା ଲୋକଙ୍କୁ ଏହି ପ୍ରତିଛବି ବିଷଯ଼ରେ ମଜାଳିଆ ଲାଗିପାରେଃ \\n\\n1। ଦୁଇଟି ପ୍ରତିଛବି ମଧ୍ଯ଼ରେ ପାର୍ଥକ୍ଯ଼ଃ ବାମ ପାର୍ଶ୍ୱରେ, ଆମେ ଦୁଇ ଜଣ ମହିଳାଙ୍କୁ ଦେଖୁଛୁ ଯେଉଁମାନେ ଅତ୍ଯ଼ନ୍ତ ଭାବପ୍ରବଣ ଏବଂ କ୍ରୋଧିତ, ଯେତେବେଳେ ଡାହାଣ ପାର୍ଶ୍ୱରେ, ଆମେ ଏକ ବିରାଡ଼ି ଦେଖୁଛୁ ଯିଏ ଶାନ୍ତ ଭାବରେ ଏକ ଡିନର ଟେବୁଲରେ ବସିଛି | \\n\\n2 ବିରାଡ଼ିଙ୍କ ସ୍ଥିତିର ଅଯୌକ୍ତିକତାଃ ଏକ ବିଲେଇକୁ ତା 'ସମ୍ମୁଖରେ ଏକ ଥାଳି ଖାଦ୍ଯ଼ ସହିତ ରାତ୍ରିଭୋଜନ ଟେବୁଲରେ ବସିଥିବାର ଦେଖିବା ସାଧାରଣ କଥା ନୁହେଁ, ତେଣୁ ଏହି ଚିତ୍ରଟି ଅପ୍ରତ୍ଯ଼ାଶିତ ଏବଂ ହାସ୍ଯ଼ାସ୍ପଦ | \\n\\n3 ବିରାଡ଼ିଟିର ଅଭିବ୍ଯ଼କ୍ତିଃ ବିରାଡ଼ିଟି ମହିଳାଙ୍କ ଚିତ୍କାର ଦ୍ୱାରା ଭଯ଼ଭୀତ ହୋଇଥିବା ପରି ଜଣାପଡ଼େ, ଯାହା ପ୍ରତିଛବିର ହାସ୍ଯ଼କୁ ଯୋଡିଥାଏ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "କେଉଁ ଅବସରରେ କେହି ଏହି ମିମ ବ୍ଯ଼ବହାର କରିବେ?",
+        "answer": "ଶୋଇଥିବା ମଣିଷ ସହିତ ମିମ ଏବଂ ଚାଇନିଜ୍ କ୍ଯ଼ାପସନ୍ \"ହ୍ୱାଇଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ହିଟ୍ କିନ୍ତୁ ଅନ୍ଯ଼ ସମଯ଼ରେ, ମୁଁ ଶୋଇବାକୁ ଚାହେଁ) ବିଭିନ୍ନ ସମଯ଼ରେ ବ୍ଯ଼ବହୃତ ହୋଇପାରେ ଯେଉଁଠାରେ ନିଦ୍ରା ଅନୁଭବ କରିବା କିମ୍ବା ପରସ୍ପର ବିରୋଧୀ ଇଚ୍ଛା ରଖିବା ବିଷଯ଼ବସ୍ତୁ ପ୍ରାସଙ୍ଗିକ | ଏଠାରେ କିଛି ଦୃଶ୍ଯ଼ ଅଛି ଯେଉଁଠାରେ ଏହି ମେମ୍ ଉପଯୁକ୍ତ ହୋଇପାରେଃ \n \n ସମ୍ପର୍କିତ ନିଦ୍ରାହୀନତାଃ ଦିନରେ କ୍ଳାନ୍ତ କିମ୍ବା ଶୋଇବାର ସମ୍ବନ୍ଧୀଯ଼ ଭାବନା ପ୍ରକାଶ କରିବା ସମଯ଼ରେ ସୋସିଆଲ ମିଡିଆରେ କିମ୍ବା ବାର୍ତ୍ତାଳାପରେ ମେମ୍ ସେଯ଼ାର କରାଯାଇପାରିବ | ସେହି ସମ୍ପର୍କଯୁକ୍ତ ଅଭିଜ୍ଞତାକୁ ଜଣାଇବା ପାଇଁ ଏହା ଏକ ହାଲୁକା ଉପାଯ଼ ଭାବରେ କାର୍ଯ୍ଯ଼ କରିପାରିବ ଏବଂ ଅନ୍ଯ଼ମାନଙ୍କଠାରୁ ଏକ ହାସ୍ଯ଼ାତ୍ମକ ପ୍ରତିକ୍ରିଯ଼ା ସୃଷ୍ଟି କରିପାରିବ ଯେଉଁମାନେ ସମ୍ପର୍କ କରିପାରିବେ | \n \n କାର୍ଯ୍ଯ଼ କିମ୍ବା ଅଧ୍ଯ଼ଯ଼ନ ସମ୍ବନ୍ଧୀଯ଼ ହାସ୍ଯ଼ରସଃ ଧ୍ଯ଼ାନ ଏବଂ ଧ୍ଯ଼ାନ ଆବଶ୍ଯ଼କ କରୁଥିବା କାର୍ଯ୍ଯ଼ ସମଯ଼ରେ ଶୋଇବା କିମ୍ବା ନିଦ୍ରାହୀନତା ଅନୁଭବ କରିବାର ଇଚ୍ଛାକୁ ହାସ୍ଯ଼ାସ୍ପଦ ଭାବରେ ପ୍ରକାଶ କରିବା ପାଇଁ କାର୍ଯ୍ଯ଼ କିମ୍ବା ଅଧ୍ଯ଼ଯ଼ନ ସମ୍ବନ୍ଧୀଯ଼ ସନ୍ଦର୍ଭରେ ଏହି ମେମ୍ ବ୍ଯ଼ବହାର କରାଯାଇପାରିବ | ମନୋବଳକୁ ହାଲୁକା କରିବା ଏବଂ ଜାଗ୍ରତ ଏବଂ ସତର୍କ ରହିବାର ଆହ୍ୱାନଗୁଡ଼ିକ ବିଷଯ଼ରେ ଏକ ସହଭାଗୀ ବୁଝାମଣା ସୃଷ୍ଟି କରିବା ପାଇଁ ଏହାକୁ ସହକର୍ମୀ କିମ୍ବା ସହପାଠୀମାନଙ୍କ ମଧ୍ଯ଼ରେ ବାଣ୍ଟାଯାଇପାରିବ। \n \n ବିଳମ୍ବ ହାସ୍ଯ଼ରସଃ ଉତ୍ପାଦକ କାର୍ଯ୍ଯ଼କଳାପରେ ନିଯ଼ୋଜିତ ହେବା ପରିବର୍ତ୍ତେ ଶୋଇବାକୁ କିମ୍ବା ବିଶ୍ରାମ କରିବାକୁ ଇଚ୍ଛା କରିବା ମଧ୍ଯ଼ରେ ଆଭ୍ଯ଼ନ୍ତରୀଣ ସଂଘର୍ଷକୁ ଚିତ୍ରଣ କରିବାକୁ ମଧ୍ଯ଼ ମେମ୍ ବ୍ଯ଼ବହାର କରାଯାଇପାରେ | ଦାଯ଼ିତ୍ୱ ଏଡ଼ାଇବା ଏବଂ ଆରାମରେ ଲିପ୍ତ ହେବାର ନିରନ୍ତର ଇଚ୍ଛା ଉପରେ ବିଳମ୍ବ କିମ୍ବା ହାସ୍ଯ଼ାତ୍ମକ ଆତ୍ମ-ପ୍ରତିଫଳନ ବିଷଯ଼ରେ ଆଲୋଚନା କରିବା ସମଯ଼ରେ ଏହାକୁ ଅଂଶୀଦାର କରାଯାଇପାରିବ | \n \n ହାସ୍ଯ଼ରସାତ୍ମକ ବିଦ୍ରୂପଃ ଶୋଇବା ସମଯ଼ ଏବଂ ଅନ୍ଯ଼ ସମଯ଼ରେ ଶୋଇବାକୁ ଇଚ୍ଛା କରିବା ମଧ୍ଯ଼ରେ ମିମ୍ ର ବିରୋଧାଭାଷ ବିଭିନ୍ନ ସନ୍ଦର୍ଭରେ ହାସ୍ଯ଼ରସାତ୍ମକ ବିଦ୍ରୂପର ଏକ ରୂପ ଭାବରେ ବ୍ଯ଼ବହୃତ ହୋଇପାରେ | ଯେତେବେଳେ ଆମର ଇଚ୍ଛା କିମ୍ବା ଆଚରଣ ଯାହା ଆଶା କରାଯାଏ କିମ୍ବା ଉପଯୁକ୍ତ ତାହାର ବିରୋଧ କରେ, ସେହି ପରିସ୍ଥିତି ବିଷଯ଼ରେ ଆଲୋଚନା କରିବା ସମଯ଼ରେ ଏହାକୁ ବାଣ୍ଟାଯାଇପାରିବ, ଯାହା ବାର୍ତ୍ତାଳାପରେ ଏକ ହାସ୍ଯ଼ାସ୍ପଦ ମୋଡ଼ ଯୋଗ କରେ | \n \n ପରିଶେଷରେ, ମେମ୍ ବିଭିନ୍ନ ପରିସ୍ଥିତିରେ ବ୍ଯ଼ବହୃତ ହୋଇପାରେ ଯେଉଁଠାରେ ଏହାର ନିଦ୍ରାହୀନତା, ପରସ୍ପର ବିରୋଧୀ ଇଚ୍ଛା, କିମ୍ବା ବିଦ୍ରୂପାତ୍ମକ ପରିସ୍ଥିତି ଆଲୋଚନା କରାଯାଉଥିବା ବିଷଯ଼ କିମ୍ବା ଭାବନା ସହିତ ମେଳ ଖାଆନ୍ତି, ବାର୍ତ୍ତାଳାପ କିମ୍ବା ଅନଲାଇନ୍ କଥାବାର୍ତ୍ତା ସହିତ ହାସ୍ଯ଼ରସ ଏବଂ ଆପେକ୍ଷିକତାର ସ୍ପର୍ଶ ଯୋଗ କରନ୍ତି |",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "କେଉଁ ଅବସରରେ କେହି ଏହି ମିମ ବ୍ଯ଼ବହାର କରିବେ?",
+        "answer": "ଏହି ମେମ୍, ସାଧାରଣତଃ \"ସ୍କ୍ରିମିଙ୍ଗ୍ ପାଣ୍ଡା\" ଭାବରେ ଜଣାଶୁଣା, ସାଧାରଣତଃ ଆଘାତ, ଆଶ୍ଚର୍ଯ୍ଯ଼ କିମ୍ବା ଭଯ଼ ପ୍ରକାଶ କରିବାକୁ ବ୍ଯ଼ବହୃତ ହୁଏ | ଏକ ଆଶ୍ଚର୍ଯ୍ଯ଼ଜନକ କିମ୍ବା ଅପ୍ରତ୍ଯ଼ାଶିତ ଘଟଣାର ପ୍ରତିକ୍ରିଯ଼ାରେ କିମ୍ବା ଆତଙ୍କିତ କିମ୍ବା ସତର୍କତାର ଭାବନା ଜଣାଇବା ପାଇଁ ଏହା ବ୍ଯ଼ବହୃତ ହୋଇପାରେ | କିଛି ସମ୍ଭାବ୍ଯ଼ ଅବସର ଯେଉଁଠାରେ କେହି ଏହି ମିମ ବ୍ଯ଼ବହାର କରିପାରନ୍ତି ସେଗୁଡ଼ିକ ମଧ୍ଯ଼ରେ ରହିଛିଃ \\n\\n-ଏକ ଭଯ଼ଙ୍କର ଚଳଚ୍ଚିତ୍ରରେ ଡେଇଁବାର ଭଯ଼ ପ୍ରତି ପ୍ରତିକ୍ରିଯ଼ା | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "କେଉଁ ଅବସରରେ କେହି ଏହି ମିମ ବ୍ଯ଼ବହାର କରିବେ?",
+        "answer": "\"କାନ୍ଦୁଥିବା ବିରାଡ଼ି\" ମିମ୍ ସହିତ ଚାଇନାର କ୍ଯ଼ାପସନ୍ \"ମା!\" ଏହା ସାଧାରଣତଃ ଦୁଃଖ, ଅସହାଯ଼ତା, କିମ୍ବା ସାନ୍ତ୍ବନା ଖୋଜୁଥିବା ଭାବନାକୁ ପ୍ରକାଶ କରିବା ପାଇଁ ବ୍ଯ଼ବହୃତ ହୁଏ | ଏଠାରେ କିଛି ଅବସର ଅଛି ଯେଉଁଠାରେ କେହି ଏହି ମେମ୍ ବ୍ଯ଼ବହାର କରିପାରନ୍ତିଃ \n \n ଦୁର୍ବଳତା ପ୍ରକାଶ କରିବାଃ ଏକ ଦୁର୍ବଳତା ମୁହୂର୍ତ୍ତକୁ ପ୍ରକାଶ କରିବା ପାଇଁ କିମ୍ବା ଅଭିଭୂତ ଅନୁଭବ କରିବା ସମଯ଼ରେ ମେମ୍ ବ୍ଯ଼ବହାର କରାଯାଇପାରେ | ନିଜ ମାଆଙ୍କୁ ଡାକିବାର ଚିନ୍ତାଧାରାକୁ ହାସ୍ଯ଼ରସାତ୍ମକ ଭାବରେ ଆହ୍ୱାନ କରି ଏହା ଅନ୍ଯ଼ମାନଙ୍କଠାରୁ ସମର୍ଥନ କିମ୍ବା ସହାନୁଭୂତି ମାଗିବା ଭାବନା ପ୍ରକାଶ କରିପାରେ | \n \n ସାନ୍ତ୍ବନା କିମ୍ବା ସହାନୁଭୂତି ଖୋଜିବାଃ ବନ୍ଧୁ କିମ୍ବା ଅନଲାଇନ୍ ସମ୍ପ୍ରଦାଯ଼ରୁ ସହାନୁଭୂତି କିମ୍ବା ସମର୍ଥନ ଜାଗ୍ରତ କରିବା ପାଇଁ ଏହି ମେମ୍ ଅଂଶୀଦାର କରାଯାଇପାରେ | ଏକ ସମ୍ପର୍କଯୁକ୍ତ ଏବଂ ସ୍ୱୀକୃତିପ୍ରାପ୍ତ ମେମ୍ ଫର୍ମାଟ୍ ବ୍ଯ଼ବହାର କରି, ଏହା ପ୍ରଭାବଶାଳୀ ଭାବରେ ଦୁଃଖ, ନିରାଶା କିମ୍ବା ଭାବପ୍ରବଣ ସମର୍ଥନ ଆବଶ୍ଯ଼କ କରୁଥିବା ଭାବନାକୁ ଯୋଗାଯୋଗ କରିପାରିବ | \n \n ଆତ୍ମ-ଅବମାନନାକାରୀ ହାସ୍ଯ଼ରସଃ ବ୍ଯ଼କ୍ତିଗତ ପରିସ୍ଥିତି କିମ୍ବା ଛୋଟ ଛୋଟ ଦୁର୍ଘଟଣାକୁ ଆଲୋକିତ କରିବା ପାଇଁ ମେମ୍କୁ ଆତ୍ମ-ଅବମାନନାକାରୀ ଢଙ୍ଗରେ ମଧ୍ଯ଼ ବ୍ଯ଼ବହାର କରାଯାଇପାରିବ | ଏହା ବ୍ଯ଼କ୍ତିବିଶେଷଙ୍କୁ ସେମାନଙ୍କ ଅନୁଭୂତ \"ଅସହାଯ଼ତା\" ର ମୁହୂର୍ତ୍ତଗୁଡ଼ିକୁ ହାସ୍ଯ଼ାସ୍ପଦ ଭାବରେ ହାଇଲାଇଟ୍ କରିବାକୁ ଅନୁମତି ଦେଇଥାଏ ଏବଂ ଅନ୍ଯ଼ମାନଙ୍କୁ ଆରାମ କିମ୍ବା ଆଶ୍ୱାସନା ପ୍ରଦାନ କରିବାକୁ ନିମନ୍ତ୍ରଣ କରେ | \n \n କୌତୁକିଆ ଭାବପ୍ରବଣ ଅତିରଞ୍ଜିତତାଃ ମେମର ନାଟକୀଯ଼ ଏବଂ ଅତିରଞ୍ଜିତ ଅଭିବ୍ଯ଼କ୍ତି ଏକ ପରିସ୍ଥିତି କିମ୍ବା ଘଟଣା ଉପରେ ଗୁରୁତ୍ୱ ଦେବା ପାଇଁ ଏକ ଖେଳପଡ଼ିଆ ଢଙ୍ଗରେ ବ୍ଯ଼ବହୃତ ହୋଇପାରେ ଯାହା ଜରୁରୀ ନୁହେଁ ଯେ ଦୁଃଖର ବିଷଯ଼ ନୁହେଁ କିନ୍ତୁ ଧ୍ଯ଼ାନ କିମ୍ବା ଯତ୍ନ ଆବଶ୍ଯ଼କ କରିପାରେ | ସାମାନ୍ଯ଼ ଅସୁବିଧା କିମ୍ବା ହାସ୍ଯ଼ାତ୍ମକ ଅତିରଞ୍ଜନ ପ୍ରକାଶ କରିବା ସମଯ଼ରେ ଏହା ଏକ ହାସ୍ଯ଼ରସାତ୍ମକ ସ୍ପର୍ଶ ଯୋଗ କରିପାରେ | \n \n ଏହା ଧ୍ଯ଼ାନ ଦେବା ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଯେ ମେମ୍ ବ୍ଯ଼ବହାର ଏବଂ ବ୍ଯ଼ାଖ୍ଯ଼ା ଭିନ୍ନ ହୋଇପାରେ, ଏବଂ ବ୍ଯ଼କ୍ତିମାନେ ଏହାକୁ ବିଭିନ୍ନ ସନ୍ଦର୍ଭରେ ଖାପଖୁଆଇବା ପାଇଁ ସୃଜନଶୀଳ ଉପାଯ଼ ଖୋଜିପାରନ୍ତି | ଉପରୋକ୍ତ ପ୍ରସ୍ତାବିତ ଅବସରଗୁଡିକ ଏହାର ସାଧାରଣ ବିଷଯ଼ବସ୍ତୁ ଏବଂ ଭାବପ୍ରବଣ ସ୍ୱର ଉପରେ ଆଧାର କରି ଏହି ମିମକୁ କେବେ ବ୍ଯ଼ବହାର କରାଯାଇପାରିବ ସେ ବିଷଯ଼ରେ ଏକ ସାଧାରଣ ବୁଝାମଣା ପ୍ରଦାନ କରେ |",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼କୁ କିପରି ରାନ୍ଧିବେ?",
+        "answer": "ଏହି ଖାଦ୍ଯ଼କୁ \"ହଙ୍ଗେରୀଯ଼ ମଶ୍ରୁମ୍ ସୁପ୍\" କୁହାଯାଏ | ଏହି ହଙ୍ଗେରୀଯ଼ ଛତୁ ସୁପ୍ ର ପ୍ରଚୁର ସ୍ୱାଦ ଅଛି ଏବଂ ଏହା ପ୍ରସ୍ତୁତ କରିବା ଅତ୍ଯ଼ନ୍ତ ଶୀଘ୍ର | ଏହା ମୁଖ୍ଯ଼ତଃ ଏକ ଛତୁ ସୁପ୍, କିନ୍ତୁ ଏହାର ସ୍ୱାଦ ଅନ୍ଯ଼ ସାମଗ୍ରୀରୁ ଆସିଥାଏ। ମୋ ପରିବାର ସୁପ୍ ପସନ୍ଦ କରନ୍ତି ଏବଂ ଏହା ସେମାନଙ୍କର ପ୍ରିଯ଼ ମଧ୍ଯ଼ରୁ ଗୋଟିଏ | \n \n \n ପ୍ରସ୍ତୁତି ସମଯ଼ଃ \n 15 ମିନିଟ୍ \n ରୋଷେଇ ସମଯ଼ଃ \n 35 ମିନିଟ୍ \n ମୋଟ ସମଯ଼ଃ \n 50 ମିନିଟ୍ \n ପରିବେଶନଃ \n 6 \n \n \n ସାମଗ୍ରୀ \n \n 4 ଚାମଚ ଲବଣହୀନ ମାଖନ \n \n 2 କପ୍ କଟା ପିଆଜ୍ \n \n 1 ପାଉଣ୍ଡ ତାଜା ଛତୁ, କଟା \n \n \n 2 କପ୍ ଚିକେନ୍ ବ୍ରଥ୍ \n \n 1 ଚାମଚ ସୋଯ଼ା ସସ୍ \n \n \n 1 ଚାମଚ ଶୁଖିଲା ଧନିଆ ପତ୍ରିକା \n \n \n ରସୁଣ ପକାନ୍ତୁ; ରାନ୍ଧନ୍ତୁ ଏବଂ ନରମ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ଘାଣ୍ଟନ୍ତୁ, ପ୍ରାଯ଼ 5 ମିନିଟ୍ | ଏଥିରେ ଚିକେନ୍ ପକାଇ ଆଉ 5 ମିନିଟ ଭାଜନ୍ତୁ। ସୋରିଷ, ସୋଯ଼ା ସସ୍, ପେପରିକା ଏବଂ ଧନିଆ ପତ୍ରକୁ ଗୋଳାନ୍ତୁ; ନିଆଁକୁ କମ୍ କରନ୍ତୁ, ଢାଙ୍କି ଦିଅନ୍ତୁ ଏବଂ 15 ମିନିଟ୍ ପାଇଁ ସିଝାନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n କ୍ଷୀର ଏବଂ ମଇଦାକୁ ଏକ ଅଲଗା ପାତ୍ରରେ ମିଶାନ୍ତୁ; ମିଶ୍ରଣ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ସୁପ୍ ରେ ଘାଣ୍ଟନ୍ତୁ | ଆଚ୍ଛାଦନ କରନ୍ତୁ ଏବଂ ଆଉ 15 ମିନିଟ୍ ପାଇଁ ସିଝାନ୍ତୁ, ବେଳେବେଳେ ଗୋଳାନ୍ତୁ | \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 3 \n ସୋର କ୍ରିମ, ପାର୍ସଲେ, ଲେମ୍ବୁ ରସ, ଲୁଣ, ଏବଂ କଳା ଗୋଲମରିଚ ମିଶାନ୍ତୁ; ପ୍ରାଯ଼ 3 ରୁ 5 ମିନିଟ୍ ପର୍ଯ୍ଯ଼ନ୍ତ ଗରମ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ କମ୍ ତାପମାତ୍ରାରେ ଘାଣ୍ଟନ୍ତୁ। ତୁରନ୍ତ ପରଷନ୍ତୁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "ଏହା କିପରି କରିବେ?",
+        "answer": "ଏହାକୁ \"ସ୍ପାର୍କଲିଙ୍ଗ୍ କ୍ଯ଼ାଣ୍ଟାଲୁପ୍ ଆଗୁଆ ଫ୍ରେସ୍କା\" କୁହାଯାଏ। କ୍ଯ଼ାଣ୍ଟାଲୋପ୍ ଏବଂ କ୍ଲବ୍ ସୋଡା ସହିତ ଲେମ୍ବୁ ରସ ସହିତ ଏହି ସତେଜ ଆଗୁଆ ଫ୍ରେସ୍କା ଏକ ଗରମ ଦିନରେ ଉପଯୁକ୍ତ | \n \n ପ୍ରସ୍ତୁତି ସମଯ଼ଃ \n 15 ମିନିଟ୍ \n ମୋଟ ସମଯ଼ଃ \n 15 ମିନିଟ୍ \n ପରିବେଶନଃ \n 8 \n \n ସାମଗ୍ରୀ \n \n 2 ପାଉଣ୍ଡ ତାଜା କ୍ଯ଼ାଣ୍ଟାଲୁପ୍ କ୍ଯ଼ୁବ୍ସ୍ (6 କପ୍) \n \n 2 କପ୍ ପାଣି \n \n 6 ଚାମଚ ତାଜା ଛାଣି ହୋଇଥିବା ଲେମ୍ବୁ ରସ (2 ଲେମ୍ବୁରୁ) \n \n 3 ଚାମଚ ମହୁ \n \n 1/4 ଚାମଚ ଲୁଣ \n \n \n 2 କପ୍ କ୍ଲବ୍ ସୋଡା, ଥଣ୍ଡା \n \n \n କ୍ଯ଼ାଣ୍ଟାଲୁପ୍ ତରଭୁଜ ବଲ୍ କିମ୍ବା କ୍ଯ଼ୁବ୍ସ୍, ସଜାଇବା ପାଇଁ \n \n ଏକ ଚାଳଣୀ ମାଧ୍ଯ଼ମରେ ଦବାନ୍ତୁ; କଠିନ ପଦାର୍ଥଗୁଡ଼ିକୁ ପରିତ୍ଯ଼ାଗ କରନ୍ତୁ। ଏକ ପାତ୍ରରେ ଛଣା ଯାଇଥିବା ଜୁସ୍ ପକାନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n ପରଷିବାକୁ ପ୍ରସ୍ତୁତ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ଥଣ୍ଡା କରନ୍ତୁ। ପରଷିବା ପୂର୍ବରୁ କ୍ଲବ ସୋଡା ପକାନ୍ତୁ। ବରଫ ଉପରେ ପରଷନ୍ତୁ, ଏବଂ ତରଭୁଜ ବଲ୍ ଏବଂ ଲେମ୍ବୁ ଜେଷ୍ଟ ଟୁଇଷ୍ଟ ସହିତ ଚଷମା ସଜାନ୍ତୁ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼କୁ କିପରି ରାନ୍ଧିବେ?",
+        "answer": "ଏହି ଖାଦ୍ଯ଼କୁ \"ଜିଞ୍ଜର୍ ଗ୍ଲେଜଡ୍ ମାହି ମାହି\" କୁହାଯାଏ | ମାହି ମାହି ପାଇଁ ଏହି ଅଦା ସସ୍ ସ୍ୱାଦରେ ପରିପୂର୍ଣ୍ଣ ଏବଂ ଉଭଯ଼ ମିଠା ଏବଂ ଖଟା ସ୍ୱାଦ ସମ୍ବେଦନଶୀଳତାକୁ ମିଶ୍ରଣ କରେ | ଏହି ରେସିପି ଏକ ସ୍ୱାଦିଷ୍ଟ ଏବଂ ଅତି ସ୍ୱାଦିଷ୍ଟ। ଆପଣଙ୍କୁ ଭଲ ଲାଗିବ! \n \n \n ପ୍ରସ୍ତୁତି ସମଯ଼ଃ \n 5 ମିନିଟ୍ \n ରୋଷେଇ ସମଯ଼ଃ \n 10 ମିନିଟ୍ \n ଅତିରିକ୍ତ ସମଯ଼ଃ \n 20 ମିନିଟ୍ \n ମୋଟ ସମଯ଼ଃ \n 35 ମିନିଟ୍ \n ପରିବେଶନଃ \n 4 \n \n ସାମଗ୍ରୀ \n \n 3 ଚାମଚ ମହୁ \n \n 3 ଚାମଚ ସୋଯ଼ା ସସ୍ \n \n 3 ଚାମଚ ବାଲାସାମିକ୍ ଭିନେଗର୍ \n \n 2 ଚାମଚ ଅଲିଭ୍ ତେଲ \n \n 1 ଚାମଚ କଟା ତାଜା ଅଦା ମୂଳ \n \n 1 ଲବଙ୍ଗ ରସୁଣ, କିମ୍ବା ସ୍ୱାଦ ଅନୁଯାଯ଼ୀ କଟା \n \n \n ଲବଣ ଏବଂ ଗୋଲମରିଚ ସହିତ ସିଜନ୍ ମାଛ ଫିଲେଟ୍; ସେଗୁଡ଼ିକୁ ମ୍ଯ଼ାରିନେଡ୍ ସହିତ ଥାଳିରେ ଚର୍ମ-ପାର୍ଶ୍ୱରେ ରଖନ୍ତୁ | ଆଚ୍ଛାଦନ କରନ୍ତୁ ଏବଂ 20 ମିନିଟ୍ ପାଇଁ ଫ୍ରିଜ୍ କରନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n ମଧ୍ଯ଼ମ-ଉଚ୍ଚ ଉତ୍ତାପରେ ଏକ ବଡ଼ ବାଣିରେ ବନସ୍ପତି ତେଲ ଗରମ କରନ୍ତୁ। ମାଛ ଫିଲେଟ୍ ବାହାର କରନ୍ତୁ, ମ୍ଯ଼ାରିନେଡ୍ ସଂରକ୍ଷଣ କରନ୍ତୁ | ପ୍ରତ୍ଯ଼େକ ପାର୍ଶ୍ୱରେ ମାଛକୁ 4 ରୁ 6 ମିନିଟ୍ ପର୍ଯ୍ଯ଼ନ୍ତ ଫ୍ରାଏ କରନ୍ତୁ, କେବଳ ଥରେ ଘୁଞ୍ଚନ୍ତୁ, ଯେପର୍ଯ୍ଯ଼ନ୍ତ ମାଛ ଏକ ଫୋର୍କ ସହିତ ସହଜରେ ଫ୍ଲେକ୍ ହୁଏ | ଏକ ସର୍ଭିଙ୍ଗ୍ ଥାଳିରେ ଫିଲେଟ୍ ବାହାର କରନ୍ତୁ ଏବଂ ଗରମ ରଖନ୍ତୁ | \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 3 \n ସଂରକ୍ଷିତ ମାରିନେଡ୍ କୁ ସ୍କିଲେଟ୍ ରେ ପକାନ୍ତୁ; ମଧ୍ଯ଼ମ ଉତ୍ତାପରେ ଏକ ଗ୍ଲେଜ୍ କୁ ହ୍ରାସ ନହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ସିଝାନ୍ତୁ | ମାଛ ଉପରେ ଚାମଚ ପକାଇ ପରଷନ୍ତୁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼କୁ କିପରି ରାନ୍ଧିବେ?",
+        "answer": "ଏହି ଖାଦ୍ଯ଼କୁ \"ଷ୍ଟ୍ରବେରୀ ରୁବାର୍ବ ପାଇ\" କୁହାଯାଏ | ଏହି ଷ୍ଟ୍ରବେରୀ ରୁବାର୍ବ ପାଇ ଆମ ଘରେ ଏକ ପ୍ରିଯ଼ ବସନ୍ତକାଳୀନ ମିଠା | ପୂରଣରେ ଏକ ମିଠା-ମିଠା ସ୍ୱାଦ ଅଛି; ଆପଣଙ୍କର ପ୍ରିଯ଼ ପାଇ କ୍ରଷ୍ଟରେ ସେକ୍ କରନ୍ତୁ ଏବଂ ଭାନିଲା ଆଇସ୍କ୍ରିମ୍ ସହିତ ପରଷନ୍ତୁ | \n \n ପ୍ରସ୍ତୁତି ସମଯ଼ଃ \n 20 ମିନିଟ୍ \n ରୋଷେଇ ସମଯ଼ଃ \n 35 ମିନିଟ୍ \n ଅତିରିକ୍ତ ସମଯ଼ଃ \n 30 ମିନିଟ୍ \n ମୋଟ ସମଯ଼ଃ \n 1 ଘଣ୍ଟା 25 ମିନିଟ୍ \n ପରିବେଶନଃ \n 8 \n ଅମଳଃ \n 1 9 ଇଞ୍ଚ ପାଇ \n \n ସାମଗ୍ରୀ \n \n 1 କପ୍ ଧଳା ଚିନି \n \n 1⁄2 କପ୍ ସର୍ବ-ଉଦ୍ଦେଶ୍ଯ଼ ଆଟା \n \n 1 ପାଉଣ୍ଡ ରୁବାର୍ବ, 1/4 ଇଞ୍ଚ ଖଣ୍ଡରେ କାଟି \n \n 2 ପିଣ୍ଟ ଷ୍ଟ୍ରବେରୀ, ହାଲ୍ଡ ଏବଂ ଚତୁର୍ଥାଂଶ \n \n 1 ରେସିପି \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n ଏକ ବଡ଼ ପାତ୍ରରେ, ମଇଦା ଏବଂ ଚିନି ମିଶାନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 3 \n ଏଥିରେ ଷ୍ଟ୍ରବେରୀ ଏବଂ କଟା ରୁବାର୍ବ ମିଶାନ୍ତୁ। ଚିନି ଏବଂ ଅଟା ସହିତ ଗୋଳାନ୍ତୁ ଏବଂ 30 ମିନିଟ୍ ପାଇଁ ଛିଡ଼ା ହେବାକୁ ଦିଅନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 4 \n ପ୍ରସ୍ତୁତ ପାଇ କ୍ରଷ୍ଟରେ ପୂରଣ କରନ୍ତୁ। ଉପରେ ବଟର ପକାନ୍ତୁ, ଏବଂ ଉପର କ୍ରଷ୍ଟରେ ଘୋଡାଇ ଦିଅନ୍ତୁ। ଉପର ଏବଂ ତଳ କ୍ରଷ୍ଟର ଧାରକୁ ପାଣି ସହିତ ସିଲ୍ କରନ୍ତୁ | \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 5 \n ଏକ ପେଷ୍ଟ୍ରି ବ୍ରଶ୍ ବ୍ଯ଼ବହାର କରି ପାଇ ଉପରେ ହଳଦିଆ ଅଂଶ ଲଗାନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 6 \n ଚିନି ସହିତ ସିଞ୍ଚନ କରନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 7 \n ବାଷ୍ପ ବାହାରକୁ ବାହାରିବା ପାଇଁ ଉପରେ ଛୋଟ ଛୋଟ ଛିଦ୍ର କାଟି ଦିଅନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 8 \n 400 ଡିଗ୍ରୀ ଫାରେନ୍ହାଇଟ୍ (200 ଡିଗ୍ରୀ ସେଲସିଯ଼ସ୍) ରେ, 35 ରୁ 40 ମିନିଟ୍ ପାଇଁ, କିମ୍ବା ବୁଦ୍ବୁଦ ଏବଂ ବାଦାମୀ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ବେକ କରନ୍ତୁ। ରାକ୍ ଉପରେ ଥଣ୍ଡା କରନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 9 \n ଉପଭୋଗ କରନ୍ତୁ!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼କୁ କିପରି ରାନ୍ଧିବେ?",
+        "answer": "ଏହି ଖାଦ୍ଯ଼କୁ \"ପ୍ରାମାଣିକ ଚାଇନିଜ୍ ଅଣ୍ଡା ରୋଲ୍ସ୍\" କୁହାଯାଏ | ଏହି ଚାଇନିଜ୍ ଅଣ୍ଡା ରୋଲ୍ ମୋ ମା 'ଙ୍କ ଠାରୁ ଆସିଛି ଯିଏ ଏପର୍ଯ୍ଯ଼ନ୍ତ ସର୍ବୋତ୍ତମ ରୋଷେଇ କରନ୍ତି-ଏବଂ ମୁଁ ଜଣେ ପିକ୍ ଖାଉଛି | ଯଦି ମୁଁ ଏହା ପସନ୍ଦ କରେ, ତେବେ ଆପଣ କରିବେ। ଏହା ଅତ୍ଯ଼ନ୍ତ ପ୍ରାମାଣିକ କାରଣ ମୋ ପରିବାର ଚାଇନିଜ୍ ଏବଂ ମୁଁ ମଧ୍ଯ଼। ଏହି ରେସିପି ଲିଙ୍ଗ ପରିବାରରେ ଅତି କମରେ 300 ବର୍ଷ ପୁରୁଣା | \n \n \n ପ୍ରସ୍ତୁତ ସମଯ଼ଃ \n 1 ଘଣ୍ଟା \n ରୋଷେଇ ସମଯ଼ଃ \n 30 ମିନିଟ୍ \n ଅତିରିକ୍ତ ସମଯ଼ଃ \n 1 ଘଣ୍ଟା \n ମୋଟ ସମଯ଼ଃ \n 2 ଘଣ୍ଟା 30 ମିନିଟ୍ \n ପରିସେବାଃ \n 20 \n ଅମଳଃ \n 20 ଅଣ୍ଡା ରୋଲ \n \n \n ସାମଗ୍ରୀ \n \n 4 ଚାମଚ ପନିପରିବା ତେଲ, ବିଭାଜିତ \n \n 3 ବଡ଼ ଅଣ୍ଡା, ପିଟାଯାଇଥିବା \n \n \n 1 ମଧ୍ଯ଼ମ ମୁଣ୍ଡ କାବେଜ, ସୂକ୍ଷ୍ମ ଭାବରେ କଟା \n \n [00 1⁄2 ଗାଜର, ଜୁଲିଆନ୍ \n \n \n 1 ପାଉଣ୍ଡ ଚାଇନିଜ୍ ବାର୍ବେ ଭାଙ୍ଗିଯାଇଥିବା ଅଣ୍ଡାରେ ପକାନ୍ତୁ ଏବଂ ଘାଣ୍ଟିବା ବିନା, ଦୃଢ଼ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ରାନ୍ଧନ୍ତୁ | ଅଣ୍ଡାକୁ ଓଲଟାଇ ଦିଅନ୍ତୁ ଏବଂ ଅନ୍ଯ଼ ପାର୍ଶ୍ୱକୁ ଦୃଢ଼ କରିବା ପାଇଁ ଅତିରିକ୍ତ 20 ସେକେଣ୍ଡ ପାଇଁ ରାନ୍ଧନ୍ତୁ। ଅଣ୍ଡା ପାନ୍କେକ୍କୁ ଥଣ୍ଡା ହେବା ପାଇଁ ଅଲଗା ରଖନ୍ତୁ, ତା \"ପରେ ଏହାକୁ ଛୋଟ ଛୋଟ ଖଣ୍ଡରେ କାଟି ଦିଅନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n ଅବଶିଷ୍ଟ ବନସ୍ପତି ତେଲକୁ ଏକ ବଡ଼ କଡ଼ାଇ କିମ୍ବା କଡ଼ାଇରେ ଅଧିକ ଗରମ କରନ୍ତୁ। ବନ୍ଧାକୋବି ଏବଂ ଗାଜରରେ ଘାଣ୍ଟନ୍ତୁ; ଶୁଖିଲା ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ 2 ମିନିଟ୍ ପର୍ଯ୍ଯ଼ନ୍ତ ରାନ୍ଧନ୍ତୁ। ଏଥିରେ ଘୁଷୁରୀ ମାଂସ, ବାଉଁଶ ଅଙ୍କୁର, ଛତୁ, ସବୁଜ ଲଙ୍କା, ସୋଯ଼ା ସସ୍, ଲୁଣ, ଚିନି ଏବଂ ଏମ୍. ଏସ୍. ଜି. ପକାନ୍ତୁ; ପ୍ରାଯ଼ 6 ମିନିଟ୍ ପର୍ଯ୍ଯ଼ନ୍ତ ପନିପରିବା ନରମ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ରାନ୍ଧନ୍ତୁ। କଟା ଅଣ୍ଡାରେ ଘାଣ୍ଟନ୍ତୁ, ତା 'ପରେ ମିଶ୍ରଣକୁ ଏକ ପ୍ଯ଼ାନରେ ବିସ୍ତାର କରନ୍ତୁ, ଏବଂ ଥଣ୍ଡା ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ଫ୍ରିଜ୍ କରନ୍ତୁ, ପ୍ରାଯ଼ 1 ଘଣ୍ଟା | \n \n ଷ୍ଟେପ୍ 3 \n ଅଣ୍ଡା ରୋଲ୍ ଏକତ୍ର କରିବା ପାଇଁଃ ଆପଣଙ୍କ କାର୍ଯ୍ଯ଼ ପୃଷ୍ଠରେ ଏକ ରାପର ରଖନ୍ତୁ ଏବଂ ଗୋଟିଏ କୋଣ ଆପଣଙ୍କ ଆଡକୁ ନିର୍ଦ୍ଦେଶ କରେ | ରାପର୍ର ତଳ ତୃତୀଯ଼ାଂଶରେ ଏକ ଗହ୍ୱରରେ ପ୍ରାଯ଼ 3 ଚାମଚ ଥଣ୍ଡା ଭର୍ତ୍ତି ରଖନ୍ତୁ | ଆବରଣର ଉପର ଦୁଇଟି ପାର୍ଶ୍ୱରେ ଟିକେ ଭାଙ୍ଗି ଯାଇଥିବା ଅଣ୍ଡାର ଧଳା ଅଂଶକୁ ବ୍ରସ୍ କରନ୍ତୁ, ତା 'ପରେ ତଳ କୋଣକୁ ପୂରଣ ଉପରେ ଫୋଲ୍ଡ କରନ୍ତୁ ଏବଂ ଅଧା ପଏଣ୍ଟକୁ ଦୃଢ ଭାବରେ ରୋଲ କରନ୍ତୁ | ଅଣ୍ଡା ରୋଲ ଉପରେ ବାମ ଏବଂ ଡାହାଣ ପାର୍ଶ୍ୱକୁ ଭଲ ଭାବରେ ଫୋଲ୍ଡ କରନ୍ତୁ, ତା 'ପରେ ଉପର କୋଣରେ ଅଣ୍ଡାର ଧଳା ଅଂଶ ସହିତ ଅଣ୍ଡା ରୋଲକୁ ସିଲ୍ କରିବା ପର୍ଯ୍ଯ଼ନ୍ତ ରୋଲିଂ ଜାରି ରଖନ୍ତୁ | ଅବଶିଷ୍ଟ ଅଣ୍ଡା ରୋଲ୍ ରାପର ସହିତ ପୁନରାବୃତ୍ତି କରନ୍ତୁ, ଶୁଖିବାକୁ ରୋକିବା ପାଇଁ ପ୍ଲାଷ୍ଟିକ୍ ରାପ୍ ସହିତ ସମାପ୍ତ ଅଣ୍ଡା ରୋଲ୍ ଆଚ୍ଛାଦନ କରନ୍ତୁ | \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 4 \n ପ୍ରାଯ଼ 6 ଇଞ୍ଚ ତେଲକୁ ଏକ ୱକ୍ କିମ୍ବା ଡିପ୍-ଫ୍ରାଯ଼ାର୍ରେ 350 ଡିଗ୍ରୀ ଫାରେନ୍ହାଇଟ୍ (175 ଡିଗ୍ରୀ ସେଲସିଯ଼ସ୍) ପର୍ଯ୍ଯ଼ନ୍ତ ଗରମ କରନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 5 \n 5 ରୁ 7 ମିନିଟ ପର୍ଯ୍ଯ଼ନ୍ତ ଗୋଲ୍ଡେନ୍ ବ୍ରାଉନ୍ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ଫ୍ରାଏ ଅଣ୍ଡା ଏକ ସମଯ଼ରେ 3 କିମ୍ବା 4 ରୋଲ କରେ | କାଗଜ ଟାୱେଲରେ ଡ୍ରେନ୍ କରନ୍ତୁ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼କୁ କିପରି ରାନ୍ଧିବେ?",
+        "answer": "ଏହି ଖାଦ୍ଯ଼କୁ \"ଚକୋଲେଟ୍ ଲେପିତ ଚିନାବାଦାମ ବଟର କ୍ରାକରସ୍\" କୁହାଯାଏ | \n \n ପ୍ରସ୍ତୁତି ସମଯ଼ଃ \n 30 ମିନିଟ୍ \n ରୋଷେଇ ସମଯ଼ଃ \n 5 ମିନିଟ୍ \n ଅତିରିକ୍ତ ସମଯ଼ଃ \n 15 ମିନିଟ୍ \n ମୋଟ ସମଯ଼ଃ \n 50 ମିନିଟ୍ \n ପରିବେଶନଃ \n 40 \n ଅମଳଃ \n 40 ସ୍ଯ଼ାଣ୍ଡୱିଚ୍ କୁକିଜ୍ \n \n \n ସାମଗ୍ରୀ \n 3⁄4 କପ୍ କ୍ରିମି କିମ୍ବା ଚଙ୍କି ଚିନାବାଦାମ ବଟର \n \n 2 ପାଉଣ୍ଡ ଚକୋଲେଟ୍ ବାଦାମ ଛାଲ, ଖଣ୍ଡ ଖଣ୍ଡରେ ଭାଙ୍ଗି \n \n 80 ବଟରିର ଗୋଲ କ୍ରାକର (ଯେପରିକି ରିଟ୍ଜ୍®) \n \n ଚିନାବାଦାମ ବଟରରେ ଭର୍ତ୍ତି 40ଟି ସ୍ଯ଼ାଣ୍ଡୱିଚ୍ କୁକିଜ ତିଆରି କରିବା ପାଇଁ ଚିନାବାଦାମ ବଟରର ପାର୍ଶ୍ୱକୁ ଏକାଠି ଦବାନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n ଏକ ଡବଲ୍ ବଏଲର୍ ଉପରେ ବାଦାମ ଛାଲକୁ ଗରମ, କିନ୍ତୁ ଫୁଟନ୍ତା ପାଣି ଉପରେ ତରଳାନ୍ତୁ। ଉତ୍ତାପ କମ୍ କରନ୍ତୁ ଏବଂ ତରଳ ଚକୋଲେଟକୁ ଡବଲ୍ ବଏଲର୍ ଉପରେ ସିଝୁଥିବା ପାଣି ଉପରେ ରଖନ୍ତୁ | \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 3 \n ପ୍ରତ୍ଯ଼େକ ସ୍ଯ଼ାଣ୍ଡୱିଚ୍ କୁକିକୁ ତରଳ ଚକୋଲେଟରେ ବୁଡ଼ାଇ ଦିଅନ୍ତୁ, ଯାହାଦ୍ୱାରା ଅତିରିକ୍ତ ଜିନିଷ ପୁଣି ପାତ୍ରରେ ନିଷ୍କାସିତ ହୋଇପାରିବ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 4 \n ମଇଳା କାଗଜ ଉପରେ ଲେପିତ କୁକିଜ ରଖନ୍ତୁ ଏବଂ ତୁରନ୍ତ କ୍ଯ଼ାଣ୍ଡି ସ୍ପ୍ରିଂକଲ ସହିତ ଛିଞ୍ଚନ୍ତୁ ଯାହା ଦ୍ୱାରା ସେମାନେ ତରଳ ଚକୋଲେଟକୁ ବାନ୍ଧି ରଖନ୍ତି | \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 5 \n ଚକୋଲେଟ୍ ସେଟ୍ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ରେଫ୍ରିଜରେଟରରେ କୁକିଜ୍ ରଖନ୍ତୁ, ପ୍ରାଯ଼ 15 ମିନିଟ୍ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼କୁ କିପରି ରାନ୍ଧିବେ?",
+        "answer": "ଏହି ଖାଦ୍ଯ଼କୁ \"ବ୍ରୋକୋଲି ଏବଂ ଗାଜର ଷ୍ଟିର ଫ୍ରାଇ\" କୁହାଯାଏ | \n \n ପ୍ରସ୍ତୁତି ସମଯ଼ଃ \n 10 ମିନିଟ୍ \n ରୋଷେଇ ସମଯ଼ଃ \n 16 ମିନିଟ୍ \n ମୋଟ ସମଯ଼ଃ \n 26 ମିନିଟ୍ \n ପରିବେଶନଃ \n 5 କପ୍ \n \n ସାମଗ୍ରୀ \n 5 1⁄2 କପ୍ ବ୍ରୋକୋଲି ଫୁଲ \n \n 1 ଗାଜର, ପତଳା କଟା \n \n 2 ଚାମଚ ପାଣି \n \n 1 ଚାମଚ କର୍ଣ୍ଣଷ୍ଟାର୍ଚ \n \n \n 1 ଚାମଚ ଚିକେନ ବୁଇଲନ ଗ୍ରାନୁଲସ୍, କିମ୍ବା ସ୍ୱାଦ ପାଇଁ \n \n \n 2 ଚାମଚ ଲୁଣ \n \n \n ବ୍ରୋକୋଲି ପକାନ୍ତୁ ଏବଂ ଉଜ୍ଜ୍ୱଳ ସବୁଜ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ଖୋଲା ରଖନ୍ତୁ, ପ୍ରାଯ଼ 2 ମିନିଟ୍ | ବ୍ରୋକୋଲିକୁ ଏକ ସ୍ଲଟେଡ୍ ଚାମଚ ବ୍ଯ଼ବହାର କରି ବରଫ ପାଣିର ଏକ ପାତ୍ରକୁ ସ୍ଥାନାନ୍ତର କରନ୍ତୁ ଏବଂ ରୋଷେଇ ପ୍ରକ୍ରିଯ଼ା ବନ୍ଦ କରିବା ପାଇଁ ଅନେକ ମିନିଟ୍ ପାଇଁ ବୁଡ଼ାନ୍ତୁ | ଜଳ ନିଷ୍କାସନ କରନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n ସେହି ବଡ଼ ପାତ୍ରରେ ପାଣି ପୁଣି ଫୁଟାନ୍ତୁ; କଟା ଗାଜର ପକାନ୍ତୁ ଏବଂ 1 ମିନିଟ୍ ପାଇଁ ରାନ୍ଧନ୍ତୁ। ଜଳ ନିଷ୍କାସନ କରନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 3 \n ପାଣି ଏବଂ କର୍ଣ୍ଣଷ୍ଟାର୍ଚକୁ ଏକ ପାତ୍ରରେ ମସୃଣ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ମିଶାନ୍ତୁ। ସେଥିରେ ଲୁଣ ଓ ରାଗ ଗୁଣ୍ଡ ପକାଇ ଭଲ ଭାବେ ମିଶାଇ ଦିଅନ୍ତୁ। \n \n ପର୍ଯ୍ଯ଼ାଯ଼ 4 \n ଏକ କଡ଼ାଇ କିମ୍ବା ବଡ଼ କଡ଼ାଇରେ ଚିନାବାଦାମ ତେଲକୁ ଅଧିକ ଗରମ କରନ୍ତୁ; ବ୍ରୋକୋଲି ଏବଂ ଗାଜରକୁ 2 ମିନିଟ୍ ପାଇଁ ଭାଜନ୍ତୁ। କର୍ଣ୍ଣଷ୍ଟାର୍ଚ ମିଶ୍ରଣ ପକାନ୍ତୁ; ରାନ୍ଧନ୍ତୁ ଏବଂ 1 ରୁ 2 ମିନିଟ୍ ପର୍ଯ୍ଯ଼ନ୍ତ ପନିପରିବା ସମାନ ଭାବରେ ଲେପିତ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ଘାଣ୍ଟନ୍ତୁ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼କୁ କିପରି ରାନ୍ଧିବେ?",
+        "answer": "ଏହି ଖାଦ୍ଯ଼କୁ \"କ୍ରିମ୍ ଚିଜ୍ ଏବଂ କ୍ରାବ୍ ସୁଶି ରୋଲ୍ସ୍\" କୁହାଯାଏ | \n \n ପ୍ରସ୍ତୁତି ସମଯ଼ଃ \n 20 ମିନିଟ୍ \n ରୋଷେଇ ସମଯ଼ଃ \n 20 ମିନିଟ୍ \n ମୋଟ ସମଯ଼ଃ \n 40 ମିନିଟ୍ \n ପରଷିବାଃ \n 2 ସୁଶି ରୋଲ୍ \n \n \n ସାମଗ୍ରୀ \n 1 କପ୍ ରନ୍ଧା ଧଳା ଚାଉଳ \n \n \n 2 କପ୍ ପାଣି \n \n 2 ଚାମଚ ଚାଉଳ ଭିନେଗାର \n \n 1 ଚାମଚ ଲୁଣ \n \n \n 2 ଚାଦର ନୋରି ସିୱିଡ୍ ଶୀଟ୍ \n \n \n 1⁄2 କାକୁଡ଼ି, ଛାଣି ଏବଂ ଲମ୍ବ ଅନୁସାରେ କଟା \n \n \n 2 \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n ଅଧିକ ଉତ୍ତାପରେ ଏକ ପାତ୍ରରେ ଚାଉଳ ଏବଂ ପାଣି ଗରମ କରନ୍ତୁ। ଉତ୍ତାପକୁ ମଧ୍ଯ଼ମ-ନିମ୍ନକୁ ହ୍ରାସ କରନ୍ତୁ, ଘୋଡାଇ ରଖନ୍ତୁ ଏବଂ ଚାଉଳ ନରମ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ସିଝାନ୍ତୁ, ଏବଂ ତରଳ ପଦାର୍ଥ 20 ରୁ 25 ମିନିଟ୍ ପର୍ଯ୍ଯ଼ନ୍ତ ଅବଶୋଷିତ ହୋଇଛି। ଚାଉଳ ଭିନେଗାର ଏବଂ ଲୁଣ ମିଶାନ୍ତୁ। ଏହାକୁ ସମ୍ପୂର୍ଣ୍ଣ ଥଣ୍ଡା ହେବାକୁ ଦିଅନ୍ତୁ। \n ପର୍ଯ୍ଯ଼ାଯ଼ 3 \n ସାମୁଦ୍ରିକ ଶୈବାଳ ଚାଦର ବିଛାନ୍ତୁ। ପାଣି ସହିତ ହାତକୁ ଆର୍ଦ୍ର କରନ୍ତୁ, ତା 'ପରେ ପ୍ରତ୍ଯ଼େକ ଶୀଟ୍ ଉପରେ ସମାନ ଭାବରେ ଥଣ୍ଡା ଚାଉଳ ବିସ୍ତାର କରନ୍ତୁ, ଏକ ଧାର ସହିତ ଅଧା ଇଞ୍ଚ ବ୍ଯ଼ବଧାନ ଛାଡି, ଲମ୍ବ ଦିଗରେ | ଚାଉଳର ଉପର ପାର୍ଶ୍ୱରେ ଥିବା ଫାଟର ବିପରୀତ ପାର୍ଶ୍ୱରେ ଏକ ସରଳ ରେଖାରେ ଚାଉଳର ଉପରେ କାକୁଡ଼ି, ଅନୁକରଣୀଯ଼ କ୍ରାବ୍ ମିଟ୍ ଏବଂ କ୍ରିମ୍ ଚିଜ୍ ସଜାନ୍ତୁ। ସୁଶି ଗୁଡ଼ିକୁ ଉପର ପଟରୁ ସମୁଦ୍ର ଶୈବାଳ ଚାଦରର ଉନ୍ମୁକ୍ତ ଶେଷ ପର୍ଯ୍ଯ଼ନ୍ତ ରୋଲ କରନ୍ତୁ। \n ପର୍ଯ୍ଯ଼ାଯ଼ 4 \n ଏକ ତୀକ୍ଷ୍ଣ ଭିଜା ଛୁରୀ ବ୍ଯ଼ବହାର କରି, ପ୍ରତ୍ଯ଼େକ ରୋଲ୍କୁ 5 କିମ୍ବା 6 ଖଣ୍ଡରେ କାଟି ଦିଅନ୍ତୁ। ପାର୍ଶ୍ୱରେ କଟା ଅଦା ସହିତ ପରଷନ୍ତୁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼କୁ କିପରି ରାନ୍ଧିବେ?",
+        "answer": "ଏହି ଖାଦ୍ଯ଼କୁ \"ଭେଗାନ ମିଠା ଆଳୁ ଚିକେନ୍ ତରକାରୀ\" କୁହାଯାଏ | \n \n ପ୍ରସ୍ତୁତି ସମଯ଼ଃ \n 10 ମିନିଟ୍ \n ରୋଷେଇ ସମଯ଼ଃ \n 20 ମିନିଟ୍ \n ମୋଟ ସମଯ଼ଃ \n 30 ମିନିଟ୍ \n ପରିବେଶନଃ \n 3 ଚାମଚ ଅଲିଭ୍ ତେଲ \n \n 1 ପିଆଜ୍, କଟା \n \n 2 ଲବଙ୍ଗ ରସୁଣ, କଟା \n \n 2 ଚାମଚ କଟା ତାଜା ଅଦା ମୂଳ \n \n 1 (15 ଆଉନ୍ସ) ଚଣା, ନିଷ୍କାସିତ \n \n 1 (14.5 ଆଉନ୍ସ) ଟମାଟୋ କାଟି ପାରିବେ \n \n 1 (14.5 ଆଉନ୍ସ) ଗରମ ତେଲରେ ପିଆଜ, ରସୁଣ ଏବଂ ଅଦାକୁ ନରମ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ରାନ୍ଧନ୍ତୁ, ପ୍ରାଯ଼ 5 ମିନିଟ୍। ସେଥିରେ ଟମାଟୋ, ହଳଦୀ ଗୁଣ୍ଡ, ଧନିଆ ଜିରା ଗୁଣ୍ଡ, ଲଙ୍କା ଗୁଣ୍ଡ ପକାନ୍ତୁ। ଏକ ଫୋଡ଼ା ଆଣନ୍ତୁ, ତାପକୁ କମ୍ କରନ୍ତୁ, ଏବଂ ନରମ ହେବା ପର୍ଯ୍ଯ଼ନ୍ତ ସିଝାନ୍ତୁ, ପ୍ରାଯ଼ 15 ମିନିଟ୍ | \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n ଗରମ ମସଲା, ଜିରା, ହଳଦୀ, ଲୁଣ, ଏବଂ ଚିଲି ଫ୍ଲେକ୍ସ ସହିତ ଋତୁ। ପରଷିବା ପୂର୍ବରୁ ସେଥିରେ ଧନିଆ ପତ୍ର ପକାନ୍ତୁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "ଏହି ଖାଦ୍ଯ଼କୁ କିପରି ରାନ୍ଧିବେ?",
+        "answer": "ଏହି ଖାଦ୍ଯ଼କୁ \"ଲାଇମ୍ ଚିକେନ୍ ସଫ୍ଟ ଟାକୋସ୍\" କୁହାଯାଏ | \n \n ପ୍ରସ୍ତୁତି ସମଯ଼ଃ \n 20 ମିନିଟ୍ \n ରୋଷେଇ ସମଯ଼ଃ \n 30 ମିନିଟ୍ \n ମୋଟ ସମଯ଼ଃ \n 50 ମିନିଟ୍ \n ଉତ୍ପାଦଃ \n 10 ସର୍ଭିଙ୍ଗ୍ \n \n ସାମଗ୍ରୀ \n 1⁄2 ପାଉଣ୍ଡ୍ ଚର୍ମହୀନ, ଅସ୍ଥିହୀନ ଚିକେନ୍ ସ୍ତନ ମାଂସ-କ୍ଯ଼ୁବ୍ \n \n 2 ସବୁଜ ପିଆଜ୍, କଟା \n \n 1⁄2 କପ୍ ରେଡ୍ ୱାଇନ୍ ଭିନେଗର୍ \n \n \n 1⁄2 ଚିକେନ୍ ରସୁଣ, କଟା \n \n 1 ଚାମଚ ଶୁଖିଲା ଓରେଗାନୋ \n \n 1 ଚାମଚ ଧଳା ଚିନି \n \n \n ସେଥିରେ ଲୁଣ, ଜିରାଗୁଣ୍ଡ, କଞ୍ଚାଲଙ୍କା, ମୁଗ ଭଜା, ଧନିଆ ପତ୍ର, ଲୁଣ ଓ ଧନିଆ ପତ୍ର ପକାନ୍ତୁ। କମ୍ ଆଞ୍ଚରେ 10 ମିନିଟ୍ ପର୍ଯ୍ଯ଼ନ୍ତ ସିଝାନ୍ତୁ। \n ପର୍ଯ୍ଯ଼ାଯ଼ 2 \n ଏକ ଲୁହା ପାତ୍ରକୁ ମଧ୍ଯ଼ମ ଆଞ୍ଚରେ ଗରମ କରନ୍ତୁ। ପ୍ଯ଼ାନରେ ଏକ ଟର୍ଟିଲା ରଖନ୍ତୁ, ଗରମ କରନ୍ତୁ, ଏବଂ ଅନ୍ଯ଼ ପାର୍ଶ୍ୱକୁ ଗରମ କରିବା ପାଇଁ ବୁଲାନ୍ତୁ | ଅବଶିଷ୍ଟ ଟର୍ଟିଲା ସହିତ ପୁନରାବୃତ୍ତି କରନ୍ତୁ। ଗରମ ଟର୍ଟିଲାରେ ଲେମ୍ବୁ ଚିକେନ୍ ମିଶ୍ରଣକୁ ଟମାଟୋ, ଲେଟୁସ୍, ଚିଜ୍ ଏବଂ ସାଲସା ସହିତ ପରଷନ୍ତୁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଦ ଶଶାଙ୍କ ରିଡେମ୍ପସନ ହେଉଛି ଫ୍ରାଙ୍କ ଡାରାବଣ୍ଟଙ୍କ ଦ୍ୱାରା ଲିଖିତ ଏବଂ ନିର୍ଦ୍ଦେଶିତ ଏକ 1994 ଆମେରିକୀଯ଼ ଡ୍ରାମା ଚଳଚ୍ଚିତ୍ର, ଯାହା 1982 ଷ୍ଟିଫେନ କିଙ୍ଗ ଉପନ୍ଯ଼ାସ ରୀତା ହେୱର୍ଥ ଏବଂ ଶଶାଙ୍କ ରିଡେମ୍ପସନ ଉପରେ ଆଧାରିତ | ଏହି ଚଳଚ୍ଚିତ୍ରଟି ବ୍ଯ଼ାଙ୍କର ଆଣ୍ଡି ଡୁଫ୍ରେନ୍ (ଟିମ୍ ରବିନ୍ସ) ଙ୍କ କାହାଣୀ କୁ ବର୍ଣ୍ଣନା କରେ, ଯିଏ ନିର୍ଦ୍ଦୋଷ ବୋଲି ଦାବି କରିବା ସତ୍ତ୍ୱେ ତାଙ୍କ ପତ୍ନୀ ଏବଂ ତାଙ୍କ ପ୍ରେମିକଙ୍କ ହତ୍ଯ଼ା ପାଇଁ ଶଶାଙ୍କ ରାଜ୍ଯ଼ କାରାଗାରରେ ଆଜୀବନ କାରାଦଣ୍ଡରେ ଦଣ୍ଡିତ ହୋଇଥିଲେ। ପରବର୍ତ୍ତୀ ଦୁଇ ଦଶନ୍ଧି ମଧ୍ଯ଼ରେ, ସେ ଜଣେ ସାଥୀ କଏଦୀ, ନିଷିଦ୍ଧ ଚୋରା ଚାଲାଣକାରୀ ଏଲିସ୍ \"ରେଡ୍\" ରେଡିଙ୍ଗ୍ (ମୋର୍ଗାନ୍ ଫ୍ରିମ୍ଯ଼ାନ୍) ଙ୍କ ସହ ବନ୍ଧୁତା ସ୍ଥାପନ କରିଥିଲେ ଏବଂ ଜେଲ୍ ୱାର୍ଡେନ୍ ସାମୁଏଲ୍ ନର୍ଟନ୍ (ବବ୍ ଗୁଣ୍ଟନ୍) ଙ୍କ ନେତୃତ୍ୱରେ ଏକ ମନି ଲଣ୍ଡରିଂ ଅପରେସନରେ ପ୍ରମୁଖ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲେ। ୱିଲିଯ଼ମ୍ ସାଡଲର୍, କ୍ଲେନ୍ସି ବ୍ରାଉନ୍, ଗିଲ୍ ବେଲୋଜ୍ ଏବଂ ଜେମ୍ସ ହ୍ୱିଟମୋର୍ ସହାଯ଼କ ଭୂମିକାରେ ଅଭିନଯ଼ କରନ୍ତି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଦ ଗଡଫାଦର ହେଉଛି 1972 ମସିହାର ଏକ ଆମେରିକୀଯ଼ ଅପରାଧ ଚଳଚ୍ଚିତ୍ର, [2] ଯାହାର ନିର୍ଦ୍ଦେଶନା ଦେଇଥିଲେ ଫ୍ରାନ୍ସିସ୍ ଫୋର୍ଡ କୋପୋଲା, ଯିଏକି 1969 ମସିହାରେ ପ୍ରକାଶିତ ପୁଜୋଙ୍କ ସର୍ବାଧିକ ବିକ୍ରି ହୋଇଥିବା ଉପନ୍ଯ଼ାସ ଉପରେ ଆଧାରିତ ଏହି ଚଳଚ୍ଚିତ୍ରର ଚିତ୍ରନାଟ୍ଯ଼ ସହ-ରଚନା କରିଥିଲେ। ଏହି ଚଳଚ୍ଚିତ୍ରରେ ମାର୍ଲନ୍ ବ୍ରାଣ୍ଡୋ, ଅଲ୍ ପାଚିନୋ, ଜେମ୍ସ କାନ, ରିଚାର୍ଡ କାଷ୍ଟେଲାନୋ, ରବର୍ଟ ଡୁଭାଲ, ଷ୍ଟର୍ଲିଂ ହେଡେନ୍, ଜନ୍ ମାର୍ଲେ, ରିଚାର୍ଡ କୋଣ୍ଟେ ଏବଂ ଡାଯ଼ାନ୍ କିଟନ୍ ଅଭିନଯ଼ କରିଛନ୍ତି। 1945 ରୁ 1955 ପର୍ଯ୍ଯ଼ନ୍ତ ପିତୃପୁରୁଷ ଭିଟୋ କର୍ଲିଓନ୍ (ବ୍ରାଣ୍ଡୋ) ଙ୍କ ଅଧୀନରେ କର୍ଲିଓନ୍ ପରିବାରକୁ କ୍ରୋନିକାଲ୍ କରୁଥିବା ଦ ଗଡଫାଦର ତ୍ରଯ଼ୀର ଏହା ହେଉଛି ପ୍ରଥମ କିସ୍ତି | ଏଥିରେ ତାଙ୍କ ସାନ ପୁଅ ମାଇକେଲ୍ କର୍ଲିଓନେ (ପାଚିନୋ) ଙ୍କ ଅନିଚ୍ଛୁକ ପରିବାର ବାହାର ଲୋକଙ୍କ ଠାରୁ ନିର୍ଦ୍ଦଯ଼ ମାଫିଆ ମାଲିକକୁ ପରିବର୍ତ୍ତନ ଉପରେ ଧ୍ଯ଼ାନ ଦିଆଯାଇଛି।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "'ଦ ଡାର୍କ ନାଇଟ୍' ହେଉଛି ଖ୍ରୀଷ୍ଟୋଫର୍ ନୋଲାନ୍ଙ୍କ ଦ୍ୱାରା ନିର୍ଦ୍ଦେଶିତ 2008 ମସିହାର ଏକ ସୁପରହିରୋ ଚଳଚ୍ଚିତ୍ର, ଯାହାର ଚିତ୍ରନାଟ୍ଯ଼ ସେ ତାଙ୍କ ଭାଇ ଜୋନାଥନ୍ଙ୍କ ସହ ମିଶି ଲେଖିଥିଲେ। ଡିସି କମିକ୍ସ ସୁପରହିରୋ, ବ୍ଯ଼ାଟ୍ମ୍ଯ଼ାନ୍ ଉପରେ ଆଧାରିତ, ଏହା ବ୍ଯ଼ାଟ୍ମ୍ଯ଼ାନ୍ ବିଗିନ୍ସ (2005) ର ସିକ୍ୱେଲ୍ ଏବଂ ଦି ଡାର୍କ ନାଇଟ୍ ଟ୍ରିଲୋଜିର ଦ୍ୱିତୀଯ଼ କିସ୍ତି | ଏହି ପ୍ଲଟ୍ ସତର୍କ ବ୍ଯ଼ାଟ୍ମ୍ଯ଼ାନ୍, ପୋଲିସ୍ ଲେଫ୍ଟନାଣ୍ଟ୍ ଜେମ୍ସ ଗର୍ଡନ୍ ଏବଂ ଜିଲ୍ଲା ଆଟର୍ଣ୍ଣି ହାର୍ଭେ ଡେଣ୍ଟଙ୍କୁ ଅନୁସରଣ କରେ, ଯିଏ ଗୋଥାମ ସହରରେ ସଂଗଠିତ ଅପରାଧକୁ ଭାଙ୍ଗିବା ପାଇଁ ଏକ ମେଣ୍ଟ ଗଠନ କରନ୍ତି | ସହରର ବିଶୃଙ୍ଖଳାରୁ ରକ୍ଷା ପାଇବା ପାଇଁ ବ୍ଯ଼ାଟ୍ମ୍ଯ଼ାନ୍ କେତେ ଦୂର ଯିବେ ତାହା ପରୀକ୍ଷା କରିବାକୁ ଚାହୁଁଥିବା ଜଣେ ଅରାଜକବାଦୀ ମାଷ୍ଟରମାଇଣ୍ଡ ଜୋକରଙ୍କ ଦ୍ୱାରା ସେମାନଙ୍କର ପ୍ରଯ଼ାସ ପଥଚ୍ଯ଼ୁତ ହୋଇଛି। କଳାକାରମାନଙ୍କ ମଧ୍ଯ଼ରେ କ୍ରିଷ୍ଟିଆନ୍ ବେଲ୍, ମାଇକେଲ୍ କେନ୍, ହିଥ୍ ଲେଜର, ଗ୍ଯ଼ାରୀ ଓଲ୍ଡମ୍ଯ଼ାନ୍, ଆରୋନ୍ ଏକହାର୍ଟ, ମ୍ଯ଼ାଗି ଗିଲେନହାଲ୍ ଏବଂ ମୋର୍ଗାନ୍ ଫ୍ରିମ୍ଯ଼ାନ୍ ଅନ୍ତର୍ଭୁକ୍ତ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଦ୍ୱାଦଶ ଆଙ୍ଗ୍ରି ମ୍ଯ଼ାନ୍ ହେଉଛି ଏକ ନରହତ୍ଯ଼ା ବିଚାରର ଜୁରି ବିଷଯ଼ରେ ରେଜିନାଲ୍ଡ ରୋଜ୍ଙ୍କ ଦ୍ୱାରା ଲିଖିତ ଏକ ଆମେରିକୀଯ଼ କୋର୍ଟ ରୁମ୍ ଡ୍ରାମା | ଏହା ପ୍ରଥମେ 1954 ରେ ଏକ ଟେଲିଭିଜନ ନାଟକ ଭାବରେ ପ୍ରସାରିତ ହୋଇଥିଲା | ପରବର୍ତ୍ତୀ ବର୍ଷ ଏହାକୁ ମଞ୍ଚ ପାଇଁ ରୂପାନ୍ତରିତ କରାଯାଇଥିଲା। ଏହା ସମାନ ନାମରେ ଏକ ଚଳଚ୍ଚିତ୍ର ପାଇଁ ରୂପାନ୍ତରିତ ହୋଇଥିଲା, ଯାହାର ନିର୍ଦ୍ଦେଶନା ଦେଇଥିଲେ ସିଡ୍ନୀ ଲୁମେଟ୍ ଏବଂ ଏହା 1957ରେ ମୁକ୍ତିଲାଭ କରିଥିଲା। ସେବେଠାରୁ ଏହାକୁ ଅନେକ ରିମେକ୍, ରୂପାନ୍ତର ଏବଂ ଶ୍ରଦ୍ଧାଞ୍ଜଳି ଦିଆଯାଇଛି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଷ୍ଟିଭେନ୍ ସ୍ପିଲବର୍ଗଙ୍କ ଦ୍ୱାରା ନିର୍ଦ୍ଦେଶିତ ଏବଂ ପ୍ରଯୋଜିତ ଏବଂ ଷ୍ଟିଭେନ୍ ଜାଇଲିଆନଙ୍କ ଦ୍ୱାରା ଲିଖିତ ଶିଣ୍ଡଲରଙ୍କ ତାଲିକା ହେଉଛି 1993 ମସିହାର ଏକ ଆମେରିକୀଯ଼ ମହାକାବ୍ଯ଼ ଐତିହାସିକ ଡ୍ରାମା ଚଳଚ୍ଚିତ୍ର। ଏହା ଅଷ୍ଟ୍ରେଲୀଯ଼ ଉପନ୍ଯ଼ାସକାର ଥୋମାସ୍ କେନେଲିଙ୍କ 1982 ମସିହାର ଉପନ୍ଯ଼ାସ 'ଶିଣ୍ଡଲର୍' ସ୍ ଆର୍କ୍ 'ଉପରେ ଆଧାରିତ। ଏହି ଚଳଚ୍ଚିତ୍ରଟି ଜର୍ମାନ ଶିଳ୍ପପତି ଓସ୍କାର ଶିଣ୍ଡଲରଙ୍କୁ ଅନୁସରଣ କରେ, ଯିଏ ଦ୍ୱିତୀଯ଼ ବିଶ୍ୱଯୁଦ୍ଧ ସମଯ଼ରେ ତାଙ୍କ କାରଖାନାରେ ନିଯୁକ୍ତ କରି ଏକ ହଜାରରୁ ଅଧିକ ଅଧିକାଂଶ ପୋଲାଣ୍ଡ-ଇହୁଦୀ ଶରଣାର୍ଥୀଙ୍କୁ ହୋଲୋକଷ୍ଟରୁ ରକ୍ଷା କରିଥିଲେ। ଏଥିରେ ଶିଣ୍ଡଲର ଭୂମିକାରେ ଲିଆମ୍ ନିସନ୍, ଏସ୍. ଏସ୍. ଅଧିକାରୀ ଆମୋନ୍ ଗୋଥ୍ ଭୂମିକାରେ ରାଲ୍ଫ୍ ଫିଏନ୍ସ ଏବଂ ଶିଣ୍ଡଲରଙ୍କ ଇହୁଦୀ ଆକାଉଣ୍ଟାଣ୍ଟ ଇଟ୍ଜାକ୍ ଷ୍ଟର୍ନ ଭୂମିକାରେ ବେନ୍ କିଙ୍ଗସ୍ଲେ ଅଭିନଯ଼ କରିଛନ୍ତି।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଦ ଲର୍ଡ ଅଫ ଦ ରିଙ୍ଗସଃ ଦ ରିଟର୍ଣ୍ଣ ଅଫ ଦ କିଙ୍ଗ ହେଉଛି 2003 ମସିହାର ଏକ ମହାକାବ୍ଯ଼ କାଳ୍ପନିକ ଦୁଃସାହସିକ ଚଳଚ୍ଚିତ୍ର, ଯାହାର ନିର୍ଦ୍ଦେଶନା ଦେଇଛନ୍ତି ପିଟର ଜ୍ଯ଼ାକ୍ସନ ଏବଂ ଏହାର ଚିତ୍ରନାଟ୍ଯ଼ ରଚନା କରିଛନ୍ତି ଫ୍ରାନ ୱାଲ୍ଶ, ଫିଲିପ୍ପା ବୋଏନ୍ସ ଏବଂ ଜ୍ଯ଼ାକ୍ସନ। ଏହା ଜେ. ଆର. ଆର. ଟୋଲ୍କିଏନଙ୍କ ଉପନ୍ଯ଼ାସ 'ଦ ଲର୍ଡ ଅଫ ଦ ରିଙ୍ଗସ୍ \"ର ତୃତୀଯ଼ ଖଣ୍ଡ' ଦ ରିଟର୍ଣ୍ଣ ଅଫ ଦ କିଙ୍ଗ\" ଉପରେ ଆଧାରିତ। 2002ର 'ଦ ଲର୍ଡ ଅଫ୍ ଦ ରିଙ୍ଗସ୍ଃ ଦ ଟୁ ଟାୱାର୍ସ \"ର ପରବର୍ତ୍ତୀ ଭାଗ, ଏହି ଚଳଚ୍ଚିତ୍ରଟି' ଦ ଲର୍ଡ ଅଫ୍ ଦ ରିଙ୍ଗସ୍\" ତ୍ରଯ଼ୀର ଅନ୍ତିମ ଭାଗ। ଏଥିରେ ଏଲିଜା ଉଡ୍, ଇଆନ୍ ମ୍ଯ଼ାକ୍କେଲେନ୍, ଲିଭ୍ ଟାଇଲର୍, ଭିଗୋ ମୋର୍ଟେନସନ୍, ସିନ୍ ଆଷ୍ଟିନ୍, କେଟ୍ ବ୍ଲାନଚେଟ୍, ଜନ୍ ରାଇସ୍-ଡେଭିସ୍, ବର୍ନାର୍ଡ ହିଲ୍, ବିଲି ବଏଡ୍, ଡୋମିନିକ୍ ମୋନାଘାନ୍, ଅର୍ଲାଣ୍ଡୋ ବ୍ଲୁମ୍, ହୁଗୋ ୱିଭିଂ, ମିରାଣ୍ଡା ଓଟୋ, ଡେଭିଡ୍ ୱେନହାମ୍, କାର୍ଲ ଅର୍ବାନ୍, ଜନ୍ ନୋବଲ୍, ଆଣ୍ଡି ସର୍କିସ୍, ଇଆନ୍ ହୋମ୍ ଏବଂ ସିନ୍ ବିନ୍ଙ୍କ ସମେତ ଏକ ଦଳ ରହିଛି | ପୂର୍ବ ଚଳଚ୍ଚିତ୍ରର କାହାଣୀକୁ ଜାରି ରଖି, ଫ୍ରୋଡୋ, ସାମ୍ ଏବଂ ଗୋଲୁମ୍ ଗୋଲୁମ୍ଙ୍କ ପ୍ରକୃତ ଉଦ୍ଦେଶ୍ଯ଼ ବିଷଯ଼ରେ ଅଜ୍ଞ, ୱାନ୍ ରିଙ୍ଗ୍କୁ ଧ୍ୱଂସ କରିବା ପାଇଁ ମାଉଣ୍ଟ ଡୁମ୍ ଆଡକୁ ସେମାନଙ୍କର ଅନ୍ତିମ ରାସ୍ତା କରୁଛନ୍ତି, ଯେତେବେଳେ କି ମେରି, ପିପ୍ପିନ୍, ଗାଣ୍ଡାଲ୍ଫ୍, ଆରାଗୋର୍ନ୍, ଲେଗୋଲାସ୍, ଗିମଲି ଏବଂ ଅନ୍ଯ଼ମାନେ ମିନାସ୍ ତିରିଥରେ ସୌରନ୍ ଏବଂ ତାଙ୍କ ସୈନ୍ଯ଼ବାହିନୀ ବିରୁଦ୍ଧରେ ମିଳିତ ଭାବରେ ଯୋଗ ଦିଅନ୍ତି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ପଲ୍ପ ଫିକସନ୍ ହେଉଛି 1994 ମସିହାର ଏକ ଆମେରିକୀଯ଼ ଅପରାଧ ଚଳଚ୍ଚିତ୍ର, ଯାହା ରୋଜର ଆଭାରୀଙ୍କ ସହ ସେ କଳ୍ପନା କରିଥିବା ଏକ କାହାଣୀରୁ କ୍ୱେଣ୍ଟିନ୍ ଟାରାଣ୍ଟିନୋଙ୍କ ଦ୍ୱାରା ଲିଖିତ ଏବଂ ନିର୍ଦ୍ଦେଶିତ | [3] ଏହା କାଲିଫର୍ଣ୍ଣିଆର ଲସ୍ ଆଞ୍ଜେଲସରେ ଅପରାଧ ଏବଂ ହିଂସାର ଚାରୋଟି ପରସ୍ପର ଜଡ଼ିତ କାହାଣୀ କୁ କୁହେ | ଏହି ଚଳଚ୍ଚିତ୍ରରେ ଜନ୍ ଟ୍ରାଭୋଲ୍ଟା, ସାମୁଏଲ୍ ଏଲ୍. ଜ୍ଯ଼ାକ୍ସନ୍, ବ୍ରୁସ୍ ୱିଲିସ୍, ଟିମ୍ ରୋଥ୍, ଭିଙ୍ଗ୍ ରେମ୍ସ୍ ଏବଂ ଉମା ଥର୍ମାନ୍ ଅଭିନଯ଼ କରିଛନ୍ତି। ଶୀର୍ଷକଟି 20ଶ ଶତାବ୍ଦୀର ମଧ୍ଯ଼ଭାଗରେ ଲୋକପ୍ରିଯ଼ ଲୁଗାପଟା ପତ୍ରିକା ଏବଂ କଠୋର ଭାବେ ସିଝାଯାଇଥିବା ଅପରାଧ ଉପନ୍ଯ଼ାସଗୁଡ଼ିକୁ ସୂଚିତ କରେ, ଯାହା ସେମାନଙ୍କର ଗ୍ରାଫିକ୍ ହିଂସା ଏବଂ ପଞ୍ଚି ସଂଳାପ ପାଇଁ ଜଣାଶୁଣା |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଦ ଲର୍ଡ ଅଫ୍ ଦ ରିଙ୍ଗସ୍ଃ ଦ ଫେଲୋସିପ୍ ଅଫ୍ ଦ ରିଙ୍ଗ ହେଉଛି 2001 ମସିହାର ଏକ ମହାକାବ୍ଯ଼ କାଳ୍ପନିକ ଦୁଃସାହସିକ ଚଳଚ୍ଚିତ୍ର, ଯାହାର ନିର୍ଦ୍ଦେଶନା ପିଟର ଜ୍ଯ଼ାକ୍ସନ ଦେଇଥିଲେ ଏବଂ ଏହାର ଚିତ୍ରନାଟ୍ଯ଼ ଫ୍ରାଁ ୱାଲ୍ଶ, ଫିଲିପ୍ପା ବୋଏନ୍ସ ଏବଂ ଜ୍ଯ଼ାକ୍ସନ ଲେଖିଥିଲେ, ଯାହାକି 1954 ମସିହାର ଦ ଫେଲୋସିପ୍ ଅଫ୍ ଦ ରିଙ୍ଗ ଉପରେ ଆଧାରିତ, ଯାହାକି ଜେ. ଆର. ଆର. ଟୋଲ୍କିଏନଙ୍କ ଉପନ୍ଯ଼ାସ 'ଦ ଲର୍ଡ ଅଫ୍ ଦ ରିଙ୍ଗସ୍' ର ପ୍ରଥମ ଖଣ୍ଡ। ଏହି ଚଳଚ୍ଚିତ୍ରଟି 'ଦ ଲର୍ଡ ଅଫ୍ ଦ ରିଙ୍ଗସ୍ \"ତ୍ରଯ଼ୀର ପ୍ରଥମ ଭାଗ। ଏଥିରେ ଏଲିଜା ଉଡ୍, ଇଆନ୍ ମ୍ଯ଼ାକ୍କେଲେନ୍, ଲିଭ୍ ଟାଇଲର୍, ଭିଗୋ ମୋର୍ଟେନସନ୍, ସିନ୍ ଆଷ୍ଟିନ୍, କେଟ୍ ବ୍ଲାନଚେଟ୍, ଜନ୍ ରାଇସ୍-ଡେଭିସ୍, ବିଲି ବଏଡ୍, ଡୋମିନିକ୍ ମୋନାଘାନ୍, ଅର୍ଲାଣ୍ଡୋ ବ୍ଲୁମ୍, ଖ୍ରୀଷ୍ଟୋଫର୍ ଲି, ହୁଗୋ ୱିଭିଂ, ସିନ୍ ବିନ୍, ଇଆନ୍ ହୋମ୍ ଏବଂ ଆଣ୍ଡି ସର୍କିସ୍ଙ୍କ ସମେତ ଏକ ଦଳ ରହିଛି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଦ ଗଡଫାଦର ପାର୍ଟ 2 ହେଉଛି ଏକ 1974 ଆମେରିକୀଯ଼ ମହାକାବ୍ଯ଼ ଅପରାଧ ଚଳଚ୍ଚିତ୍ର ଯାହା ଫ୍ରାନ୍ସିସ୍ ଫୋର୍ଡ କୋପୋଲାଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ଏବଂ ନିର୍ଦ୍ଦେଶିତ | ଏହି ଚଳଚ୍ଚିତ୍ରଟି ଆଂଶିକ ଭାବରେ ମାରିଯ଼ୋ ପୁଜୋଙ୍କ 1969 ଉପନ୍ଯ଼ାସ 'ଦ ଗଡଫାଦର' ଉପରେ ଆଧାରିତ, ଯିଏ କୋପୋଲାଙ୍କ ସହ ଚିତ୍ରନାଟ୍ଯ଼ ସହ-ରଚନା କରିଥିଲେ, ଏବଂ ଏହା ଉଭଯ଼ 1972 ଚଳଚ୍ଚିତ୍ର 'ଦ ଗଡଫାଦର' ର ଏକ ସିକ୍ୱେଲ ଏବଂ ଏକ ପ୍ରିକ୍ୱେଲ, ଯାହା ସମାନ୍ତରାଳ ନାଟକ ଉପସ୍ଥାପନ କରେଃ ଜଣେ 1958 କାହାଣୀକୁ ଉଠାନ୍ତି ମାଇକେଲ୍ କର୍ଲିଓନ୍ (ଅଲ୍ ପାଚିନୋ), କର୍ଲିଓନ୍ ପରିବାରର ନୂତନ ଡନ୍, ତାଙ୍କ ଜୀବନ ଉପରେ ଏକ ପ୍ରଯ଼ାସ ପରେ ପାରିବାରିକ ବ୍ଯ଼ବସାଯ଼କୁ ସୁରକ୍ଷା ଦେବା; ପ୍ରିକ୍ୱେଲ୍ ତାଙ୍କ ପିତା ଭିଟୋ କର୍ଲିଓନ୍ (ରବର୍ଟ ଡି ନିରୋ) ଙ୍କ ସିସିଲିଆନ୍ ପିଲାଦିନରୁ ନ୍ଯ଼ୁଯ଼ର୍କ ସହରରେ ତାଙ୍କ ପାରିବାରିକ ଉଦ୍ଯ଼ୋଗର ପ୍ରତିଷ୍ଠା ପର୍ଯ୍ଯ଼ନ୍ତ ଯାତ୍ରା କଭର କରେ | ଏଥିରେ ରବର୍ଟ ଡୁଭାଲ, ଡାଯ଼ାନ୍ କିଟନ୍, ତାଲିଆ ଶାଯ଼ାର, ମୋର୍ଗାନା କିଙ୍ଗ, ଜନ୍ କାଜାଲେ, ମାରିଆନା ହିଲ୍ ଏବଂ ଲି ଷ୍ଟ୍ରାସବର୍ଗ ମଧ୍ଯ଼ ଅଭିନଯ଼ କରିଛନ୍ତି।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "ଆପଣ ଏହି ଚଳଚ୍ଚିତ୍ର ବିଷଯ଼ରେ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଫେଯ଼ାରୱେଲ୍ ମାଇଁ କନ୍କ୍ଯ଼ୁବିନ୍ ହେଉଛି 1993 ମସିହାର ଏକ ଚାଇନିଜ୍ ଐତିହାସିକ ଡ୍ରାମା ଚଳଚ୍ଚିତ୍ର, ଯାହାର ନିର୍ଦ୍ଦେଶନା ଦେଇଥିଲେ ଚେନ୍ କାଇଜ୍, ଯେଉଁଥିରେ ଲେସ୍ଲି ଚେଙ୍ଗ୍, ଗୋଙ୍ଗ୍ ଲି ଏବଂ ଝାଙ୍ଗ୍ ଫେଙ୍ଗି ଅଭିନଯ଼ କରିଥିଲେ। ଲିଲିଆନ୍ ଲିଙ୍କ ଉପନ୍ଯ଼ାସ ଉପରେ ଆଧାରିତ ଲୁ ୱେଇଙ୍କ ଦ୍ୱାରା ପରଦାକୁ ରୂପାନ୍ତରିତ ହୋଇଥିବା ଏହି ଚଳଚ୍ଚିତ୍ରଟି ଚୀନ୍ ଗଣତନ୍ତ୍ରର ପ୍ରାରମ୍ଭିକ ଦିନଠାରୁ ସାଂସ୍କୃତିକ ବିପ୍ଳବର ପରିଣାମ ପର୍ଯ୍ଯ଼ନ୍ତ ରାଜନୈତିକ ଭାବରେ ଅଶାନ୍ତ ବିଂଶ ଶତାବ୍ଦୀର ଚୀନ୍ ଉପରେ ଆଧାରିତ | ଏହା ଦୁଇ ପେକିଂ ଅପେରା ଅଭିନେତା ଏବଂ ଆଜୀବନ ବନ୍ଧୁ ଚେଙ୍ଗ ଦେଇ (ଚେଉଙ୍ଗ) ଏବଂ ଡୁଆନ ଜିଆଓଲୁ (ଝାଙ୍ଗ) ଏବଂ ଜିଆଓଲୁଙ୍କ ପତ୍ନୀ ଜୁସିଆନ (ଗୋଙ୍ଗ) ଙ୍କ ମଧ୍ଯ଼ରେ ଅଶାନ୍ତ ସମ୍ପର୍କକୁ ବର୍ଣ୍ଣନା କରେ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ମୋନାଲିସା ହେଉଛି ଇଟାଲୀଯ଼ କଳାକାର ଲିଓନାର୍ଡୋ ଦା ଭିଞ୍ଚିଙ୍କ ଦ୍ୱାରା ଅଙ୍କିତ ଏକ ଅର୍ଦ୍ଧ-ଲମ୍ବ ଚିତ୍ରକଳା। \n \n ଇଟାଲୀଯ଼ ନବଜାଗରଣର ଏକ ପ୍ରତ୍ନତାତ୍ୱିକ ଶ୍ରେଷ୍ଠ କୃତି ଭାବରେ ବିବେଚିତ, ଏହାକୁ \"ବିଶ୍ୱର ସବୁଠାରୁ ଜଣାଶୁଣା, ସର୍ବାଧିକ ପରିଦର୍ଶନ, ସର୍ବାଧିକ ଲିଖିତ, ସର୍ବାଧିକ ଗୀତ, ସବୁଠାରୁ ବ୍ଯ଼ଙ୍ଗାତ୍ମକ କଳାକୃତି\" ଭାବରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି | ଚିତ୍ରକଳାର ଅଭିନବ ଗୁଣଗୁଡ଼ିକ ମଧ୍ଯ଼ରେ ବିଷଯ଼ଟିର ରହସ୍ଯ଼ମଯ଼ ଅଭିବ୍ଯ଼କ୍ତି, ରଚନାର ସ୍ମାରକୀତା, ରୂପଗୁଡ଼ିକର ସୂକ୍ଷ୍ମ ମଡେଲିଂ ଏବଂ ବାଯ଼ୁମଣ୍ଡଳୀଯ଼ ବିଭ୍ରମବାଦ ଅନ୍ତର୍ଭୁକ୍ତ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଗର୍ଲ ୱିଥ୍ ଏ ପର୍ଲ୍ ଇଯ଼ାରିଂ (ଡଚ୍ଃ ମେଇଜେ ମେଟ୍ ଡି ପାରେଲ୍) ହେଉଛି 1665 ମସିହାର ଡଚ୍ ସୁବର୍ଣ୍ଣ ଯୁଗର ଚିତ୍ରକର ଜୋହାନ୍ସ୍ ଭର୍ମୀର୍ଙ୍କ ଦ୍ୱାରା ଅଙ୍କିତ ଏକ ତୈଳ ଚିତ୍ରକଳା। ଶତାବ୍ଦୀ ଶତାବ୍ଦୀ ଧରି ବିଭିନ୍ନ ନାମରେ ଯାଇ, ବିଂଶ ଶତାବ୍ଦୀର ଶେଷ ଆଡ଼କୁ ଝିଅଟି ପିନ୍ଧିଥିବା କାନଫୁଲରେ ଚିତ୍ରିତ ହେବା ପରେ ଏହା ଏହାର ବର୍ତ୍ତମାନର ନାମ ଦ୍ୱାରା ଜଣାଶୁଣା ହେଲା | ଏହି କାର୍ଯ୍ଯ଼ 1902 ମସିହାରୁ ଦି ହେଗରେ ମୌରିତଶୁଇଙ୍କ ସଂଗ୍ରହରେ ରହିଛି ଏବଂ ବିଭିନ୍ନ ସାହିତ୍ଯ଼ିକ ଏବଂ ସିନେମାଟିକ୍ ଚିକିତ୍ସାର ବିଷଯ଼ ହୋଇଛି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଷ୍ଟାରି ନାଇଟ୍ ହେଉଛି ଡଚ୍ ପୋଷ୍ଟ-ଇମ୍ପ୍ରେସନିଷ୍ଟ୍ ଚିତ୍ରକର ଭିନସେଣ୍ଟ୍ ଭାନ୍ ଗଗ୍ଙ୍କ ଦ୍ୱାରା ଏକ ତୈଳ-ଉପରେ-କ୍ଯ଼ାନଭାସ୍ ଚିତ୍ରକଳା | ଜୁନ୍ 1889 ରେ ଚିତ୍ରିତ, ଏହା ସୂର୍ଯ୍ଯ଼ୋଦଯ଼ର ଠିକ୍ ପୂର୍ବରୁ, ସେଣ୍ଟ୍-ରେମି-ଡି-ପ୍ରୋଭେନ୍ସରେ ଥିବା ତାଙ୍କ ଆଶ୍ରଯ଼ କୋଠରୀର ପୂର୍ବମୁଖୀ ଝରକାରୁ ଦୃଶ୍ଯ଼କୁ ଚିତ୍ରିତ କରେ, ଏକ କାଳ୍ପନିକ village.It ଯୋଡିବା ସହିତ 1941 ରୁ ନ୍ଯ଼ୁଯ଼ର୍କ ସହରର ମ୍ଯ଼ୁଜିଯ଼ମ୍ ଅଫ୍ ମଡର୍ଣ୍ଣ ଆର୍ଟର ସ୍ଥାଯ଼ୀ ସଂଗ୍ରହରେ ଅଛି, ଲିଲି ପି. ବ୍ଲିସ୍ ବେକ୍ୱେଷ୍ଟ ମାଧ୍ଯ଼ମରେ ଅଧିଗ୍ରହଣ | ଭାନ୍ ଗଗ୍ଙ୍କ ମହାନ କୃତି ଭାବରେ ବ୍ଯ଼ାପକ ଭାବରେ ବିବେଚିତ, ଦି ଷ୍ଟାରି ନାଇଟ୍ ପାଶ୍ଚାତ୍ଯ଼ କଳାର ସବୁଠାରୁ ସ୍ୱୀକୃତିପ୍ରାପ୍ତ ଚିତ୍ରକଳା ମଧ୍ଯ଼ରୁ ଗୋଟିଏ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଦି କିସ୍ (ଜର୍ମାନ ଭାଷାରେ Der Kuss) ହେଉଛି ଅଷ୍ଟ୍ରିଆର ପ୍ରତୀକବାଦୀ ଚିତ୍ରକର ଗୁସ୍ତାଭ Klimt.It ଙ୍କ ଦ୍ୱାରା ଅଙ୍କିତ ସୁନା ପତ୍ର, ରୂପା ଏବଂ ପ୍ଲାଟିନମ୍ ସହିତ ଏକ ତୈଳ-ଉପରେ-କ୍ଯ଼ାନଭାସ୍ ଚିତ୍ରକଳା, ଯାହା 1907 ଏବଂ 1908 ମସିହାରେ କୌଣସି ଏକ ସମଯ଼ରେ ଅଙ୍କିତ ହୋଇଥିଲା, ଯାହାକୁ ବିଦ୍ୱାନମାନେ ତାଙ୍କର \"ସୁବର୍ଣ୍ଣ ସମଯ଼\" ବୋଲି ଅଭିହିତ କରନ୍ତି। ପ୍ରଦର୍ଶନୀର ସୂଚୀରେ ଉଲ୍ଲେଖ କରାଯାଇଥିବା ଅନୁଯାଯ଼ୀ ଏହା 1908 ମସିହାରେ ଲାଇବେସ୍ପାର (ପ୍ରେମୀ) ନାମରେ ପ୍ରଦର୍ଶିତ ହୋଇଥିଲା। ଏହି ଚିତ୍ରରେ ଏକ ଦମ୍ପତି ପରସ୍ପରକୁ ଆଲିଙ୍ଗନ କରୁଥିବା ଚିତ୍ରିତ ହୋଇଛି, ସେମାନଙ୍କର ଶରୀର ସମସାମଯ଼ିକ ଆର୍ଟ ନୁୱେଉ ଶୈଳୀ ଏବଂ ପୂର୍ବ କଳା ଏବଂ ହସ୍ତଶିଳ୍ପ ଆନ୍ଦୋଳନର ଜୈବିକ ରୂପ ଦ୍ୱାରା ପ୍ରଭାବିତ ଶୈଳୀରେ ସଜ୍ଜିତ ବିସ୍ତୃତ ସୁନ୍ଦର ପୋଷାକରେ ଜଡିତ | \n \n ଏହି ଚିତ୍ରକଳା ଏବେ ଭିଏନାର ବେଲ୍ଭେଡେର୍ରେ ଥିବା ଓଷ୍ଟେରିଚିସେ ଗାଲେରୀ ବେଲ୍ଭେଡେର ସଂଗ୍ରହାଳଯ଼ରେ ଝୁଲୁଛି, ଏବଂ ଏହାକୁ ଭିଏନା ସେସେସନ୍ (ଆର୍ଟ ନୁୱେଉର ସ୍ଥାନୀଯ଼ ଭିନ୍ନତା) ଏବଂ ପୋର୍ଟ୍ରେଟ୍ ଅଫ୍ ଆଡେଲେ ବ୍ଲୋଚ୍-ବାଉର୍ I ପରେ କ୍ଲିମ୍ଟଙ୍କ ସବୁଠାରୁ ଲୋକପ୍ରିଯ଼ କାର୍ଯ୍ଯ଼ର ଏକ ଶ୍ରେଷ୍ଠ କୃତି ଭାବରେ ବିବେଚନା କରାଯାଏ | ଏହାକୁ ଅନେକଙ୍କ ଦ୍ୱାରା ଏକ ପ୍ରସିଦ୍ଧ କଳାକୃତି ଭାବରେ ବିବେଚନା କରାଯାଏ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଶୁକ୍ରର ଜନ୍ମ ହେଉଛି ଇଟାଲୀଯ଼ କଳାକାର ସାଣ୍ଡ୍ରୋ ବୋଟିସେଲିଙ୍କ ଏକ ଚିତ୍ରକଳା, ଯାହା ସମ୍ଭବତଃ 1480 ଦଶକର ମଧ୍ଯ଼ଭାଗରେ ନିଷ୍ପାଦିତ ହୋଇଥିଲା | ଏଥିରେ ଦର୍ଶାଯାଇଛି ଯେ ଦେବୀ ଶୁକ୍ର ତାଙ୍କ ଜନ୍ମ ପରେ କୂଳରେ ପହଞ୍ଚିଥିଲେ, ଯେତେବେଳେ ସେ ସମୁଦ୍ରରୁ ସମ୍ପୂର୍ଣ୍ଣ ବିକଶିତ ହୋଇଥିଲେ (ଯାହାକୁ ଭେନସ୍ ଆନାଡିଓମେନ୍ କୁହାଯାଏ ଏବଂ ପ୍ରାଯ଼ତଃ କଳାରେ ଚିତ୍ରିତ କରାଯାଏ)। ଏହି ଚିତ୍ରକଳା ଇଟାଲୀର ଫ୍ଲୋରେନ୍ସ୍ର ଉଫିଜି ଗ୍ଯ଼ାଲେରୀରେ ରହିଛି। \n \n ଯଦିଓ ଉଭଯ଼ ଏକ ଯୋଡ଼ି ନୁହଁନ୍ତି, ଚିତ୍ରକଳାଟି ଅନିବାର୍ଯ୍ଯ଼ ଭାବରେ ବୋଟିସେଲିଙ୍କ ଅନ୍ଯ଼ ଏକ ବହୁତ ବଡ଼ ପୌରାଣିକ ଚିତ୍ରକଳା, ପ୍ରାଇମାଭେରା ସହିତ ମଧ୍ଯ଼ ଉଫିଜିରେ ଆଲୋଚନା କରାଯାଇଛି। ସେଗୁଡ଼ିକ ବିଶ୍ୱର ସବୁଠାରୁ ପ୍ରସିଦ୍ଧ ଚିତ୍ରକଳା ମଧ୍ଯ଼ରେ ରହିଛି, ଏବଂ ଇଟାଲୀଯ଼ ନବଜାଗରଣର ପ୍ରତୀକ; ଏହି ଦୁଇଟି ମଧ୍ଯ଼ରୁ, ଜନ୍ମ ପ୍ରାଇମାଭେରା ଠାରୁ ଅଧିକ ଜଣାଶୁଣା। ଶାସ୍ତ୍ରୀଯ଼ ପୌରାଣିକ କାହାଣୀର ବିଷଯ଼ଗୁଡ଼ିକର ଏକ ବହୁତ ବଡ଼ ସ୍ତରରେ ଚିତ୍ରଣ ଭାବରେ ସେଗୁଡ଼ିକ ଶାସ୍ତ୍ରୀଯ଼ ପ୍ରାଚୀନ କାଳରୁ ପାଶ୍ଚାତ୍ଯ଼ କଳାରେ ପ୍ରକୃତରେ ଅଭୂତପୂର୍ବ ଥିଲା, ଯେପରି ଜନ୍ମ ସମଯ଼ରେ ଏକ ନଗ୍ନ ମହିଳା ମୂର୍ତ୍ତିର ଆକାର ଏବଂ ପ୍ରାଧାନ୍ଯ଼ ଥିଲା | ଏହା ଚିନ୍ତା କରାଯାଉଥିଲା ଯେ ଉଭଯ଼ ମେଡିସି ପରିବାରର ସମାନ ସଦସ୍ଯ଼ଙ୍କ ଦ୍ୱାରା ନିଯୁକ୍ତ ହୋଇଥିଲେ, କିନ୍ତୁ ଏହା ବର୍ତ୍ତମାନ ଅନିଶ୍ଚିତ। \n \n କଳା ଐତିହାସିକମାନଙ୍କ ଦ୍ୱାରା ସେଗୁଡ଼ିକର ଅନ୍ତହୀନ ବିଶ୍ଳେଷଣ କରାଯାଇଛି, ଯାହାର ମୁଖ୍ଯ଼ ବିଷଯ଼ବସ୍ତୁ ହେଉଛିଃ ପ୍ରାଚୀନ ଚିତ୍ରକରମାନଙ୍କ ଅନୁକରଣ ଏବଂ ବିବାହ ଉତ୍ସବର ପ୍ରସଙ୍ଗ (ସାଧାରଣତଃ ସହମତ), ନବଜାଗରଣ ନବ-ପ୍ଲାଟୋନିଜମ୍ର ପ୍ରଭାବ (କିଛି ମାତ୍ରାରେ ବିବାଦୀଯ଼), ଏବଂ କମିଶନରମାନଙ୍କ ପରିଚଯ଼ (ସହମତ ହୋଇନଥିବା)। ତେବେ ଅଧିକାଂଶ କଳା ଐତିହାସିକମାନେ ସହମତ ଯେ ଜନ୍ମର ଅର୍ଥକୁ ଡିକୋଡ୍ କରିବା ପାଇଁ ଜଟିଳ ବିଶ୍ଳେଷଣର ଆବଶ୍ଯ଼କତା ନାହିଁ, ଯେପରି ସମ୍ଭବତଃ ପ୍ରାଇମେଭେରା କରେ | ଚିତ୍ରକଳାରେ ସୂକ୍ଷ୍ମତା ରହିଥିବାବେଳେ, ଏହାର ମୁଖ୍ଯ଼ ଅର୍ଥ ହେଉଛି ଗ୍ରୀକ୍ ପୁରାଣର ଏକ ପାରମ୍ପାରିକ ଦୃଶ୍ଯ଼ର ସିଧାସଳଖ, ଯଦି ବ୍ଯ଼କ୍ତିଗତ, ଚିକିତ୍ସା, ଏବଂ ଏହାର ଆବେଦନ ସମ୍ବେଦନଶୀଳ ଏବଂ ଅତ୍ଯ଼ନ୍ତ ସୁଲଭ, ତେଣୁ ଏହାର ବିପୁଳ ଲୋକପ୍ରିଯ଼ତା |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଧୂସର ଏବଂ କଳା ନମ୍ବରରେ ବ୍ଯ଼ବସ୍ଥା | 1, ଏହାର କଥୋପକଥନ ନାମ ହ୍ୱିସ୍ଲର୍ସ ମଦର କିମ୍ବା ପୋର୍ଟ୍ରେଟ୍ ଅଫ୍ ଆର୍ଟିଷ୍ଟସ୍ ମଦର ନାମରେ ଜଣାଶୁଣା, କ୍ଯ଼ାନଭାସ୍ ଉପରେ ତେଲରେ ଏକ ଚିତ୍ରକଳା ଯାହା 1871 ରେ ଆମେରିକାରେ ଜନ୍ମିତ ଚିତ୍ରକର ଜେମ୍ସ ଆବୋଟ୍ ମ୍ଯ଼ାକନିଲ୍ ହ୍ୱିସ୍ଲରଙ୍କ ଦ୍ୱାରା ସୃଷ୍ଟି କରାଯାଇଥିଲା | ଚିତ୍ରକଳାର ବିଷଯ଼ବସ୍ତୁ ହେଉଛି ହ୍ୱିସ୍ଲରଙ୍କ ମାଆ ଆନ୍ନା ମ୍ଯ଼ାକନିଲ୍ ହ୍ୱିସ୍ଲର। ଚିତ୍ରଟି 56.81 ବାଇ 63.94 ଇଞ୍ଚ (1,443 ମି. ମି. × 1,624 ମି. ମି.), ଯାହା ହ୍ୱିସଲରଙ୍କ ନିଜସ୍ୱ ଡିଜାଇନ୍ ଫ୍ରେମରେ ପ୍ରଦର୍ଶିତ ହୋଇଛି। ଏହା ପ୍ଯ଼ାରିସର ମ୍ଯ଼ୁସି ଡି 'ଓରସେ ଦ୍ୱାରା ଅନୁଷ୍ଠିତ ହୋଇଛି, ଯାହା 1891 ରେ ଫ୍ରାନ୍ସ ରାଜ୍ଯ଼ ଦ୍ୱାରା କିଣାଯାଇଥିଲା | ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ବାହାରେ ଜଣେ ଆମେରିକୀଯ଼ କଳାକାରଙ୍କ ଦ୍ୱାରା ଏହା ସବୁଠାରୁ ପ୍ରସିଦ୍ଧ କାର୍ଯ୍ଯ଼ ମଧ୍ଯ଼ରୁ ଗୋଟିଏ | ଏହାକୁ ଏକ ଆମେରିକୀଯ଼ ଆଇକନ୍ ଏବଂ ଭିକ୍ଟୋରିଆନ୍ ମୋନା ଲିସା ଭାବରେ ବିଭିନ୍ନ ଭାବରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଆର୍ନୋଲଫିନି ପ୍ରତିକୃତି (କିମ୍ବା ଆର୍ନୋଲଫିନି ବିବାହ, ଆର୍ନୋଲଫିନି ବିବାହ, ଜିଓଭାନ୍ନି ଆର୍ନୋଲଫିନି ଏବଂ ତାଙ୍କ ପତ୍ନୀଙ୍କ ପ୍ରତିକୃତି, କିମ୍ବା ଅନ୍ଯ଼ାନ୍ଯ଼ ଶୀର୍ଷକ) ହେଉଛି ପ୍ରାରମ୍ଭିକ ନେଦରଲ୍ଯ଼ାଣ୍ଡର ଚିତ୍ରକର ଜାନ ଭାନ୍ ଆଇକ୍ଙ୍କ ଦ୍ୱାରା ଓକ ପ୍ଯ଼ାନେଲରେ ଏକ 1434 ତୈଳ ଚିତ୍ର | ଏହା ଏକ ପୂର୍ଣ୍ଣ-ଦୈର୍ଘ୍ଯ଼ ଦ୍ୱୈତ ପ୍ରତିକୃତି ଗଠନ କରେ, ଯାହା ଇଟାଲୀଯ଼ ବ୍ଯ଼ବସାଯ଼ୀ ଜିଓଭାନ୍ନି ଡି ନିକୋଲାଓ ଆର୍ନୋଲଫିନି ଏବଂ ତାଙ୍କ ପତ୍ନୀଙ୍କୁ ଚିତ୍ରିତ କରେ ବୋଲି ବିଶ୍ୱାସ କରାଯାଏ, ସମ୍ଭବତଃ ଫ୍ଲେମିଶ୍ ସହର ବ୍ରୁଗ୍ସ୍ରେ ସେମାନଙ୍କ ବାସଭବନରେ | \n \n ଏହାର ସୌନ୍ଦର୍ଯ୍ଯ଼, ଜଟିଳ ପ୍ରତିମୂର୍ତ୍ତି, ଜ୍ଯ଼ାମିତିକ ଅର୍ଥୋଗୋନାଲ୍ ଦୃଷ୍ଟିକୋଣ ଏବଂ ଦର୍ପଣର ବ୍ଯ଼ବହାର ସହିତ ଚିତ୍ର ସ୍ଥାନର ବିସ୍ତାର ହେତୁ ଏହାକୁ ପାଶ୍ଚାତ୍ଯ଼ କଳାର ସବୁଠାରୁ ମୂଳ ଏବଂ ଜଟିଳ ଚିତ୍ରକଳା ମଧ୍ଯ଼ରୁ ଗୋଟିଏ ଭାବରେ ବିବେଚନା କରାଯାଏ | ଆର୍ଣ୍ଣଷ୍ଟ ଗୋମ୍ବ୍ରିଚ୍ଙ୍କ ଅନୁଯାଯ଼ୀ, \"ନିଜସ୍ୱ ଶୈଳୀରେ ଏହା ଇଟାଲୀରେ ଡୋନାଟେଲୋ କିମ୍ବା ମାସାସିଓଙ୍କ କାର୍ଯ୍ଯ଼ ଭଳି ନୂତନ ଏବଂ ବୈପ୍ଳବିକ ଥିଲା। ବାସ୍ତବ ଦୁନିଆର ଏକ ସରଳ କୋଣ ହଠାତ୍ ଏକ ପ୍ଯ଼ାନେଲରେ ସ୍ଥିର ହୋଇଯାଇଥିଲା ଯେପରି ଯାଦୁ ଦ୍ୱାରା | ଇତିହାସରେ ପ୍ରଥମ ଥର ପାଇଁ କଳାକାର ଶବ୍ଦର ପ୍ରକୃତ ଅର୍ଥରେ ସଠିକ୍ ଚକ୍ଷୁ-ସାକ୍ଷୀ ହୋଇଥିଲେ | ଏର୍ଭିନ ପାନୋଫ୍ସ୍କି ଏବଂ ଅନ୍ଯ଼ କେତେକ କଳା ଐତିହାସିକଙ୍କ ଦ୍ୱାରା ଏହି ପ୍ରତିକୃତିକୁ ବିବାହ ଚୁକ୍ତିର ଏକ ଅନନ୍ଯ଼ ରୂପ ଭାବରେ ବିବେଚନା କରାଯାଇଛି, ଯାହା ଏକ ଚିତ୍ରକଳା ଭାବରେ ରେକର୍ଡ କରାଯାଇଛି | 1434 ରେ ଭାନ୍ ଆଇକ୍ଙ୍କ ଦ୍ୱାରା ସ୍ୱାକ୍ଷରିତ ଏବଂ ତାରିଖ, ଏହା ସେହି ସମାନ କଳାକାର ଏବଂ ତାଙ୍କ ଭାଇ ହୁବର୍ଟଙ୍କ ଦ୍ୱାରା ଗେଣ୍ଟ୍ ଅଲ୍ଟାର୍ପିସ୍ ସହିତ, ଟେମ୍ପେରା ପରିବର୍ତ୍ତେ ତେଲରେ ନିଷ୍ପାଦିତ ହୋଇଥିବା ସବୁଠାରୁ ପୁରୁଣା ପ୍ରସିଦ୍ଧ ପ୍ଯ଼ାନେଲ୍ ଚିତ୍ର | ଏହି ଚିତ୍ରକଳାଟି 1842 ମସିହାରେ ଲଣ୍ଡନର ନ୍ଯ଼ାସନାଲ ଗ୍ଯ଼ାଲେରୀ ଦ୍ୱାରା କିଣାଯାଇଥିଲା।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "କିଙ୍ଗମିଂ ଫେଷ୍ଟିଭାଲ ସମଯ଼ରେ ନଦୀ କୂଳରେ (କିଙ୍ଗମିଂ ସାଙ୍ଗେ ତୁ) ହେଉଛି ସଙ୍ଗ୍ ରାଜବଂଶର ଚିତ୍ରକର ଝାଙ୍ଗ ଜେଡୁଆନ୍ (1085-1145) ଙ୍କ ଦ୍ୱାରା ଏକ ହ୍ଯ଼ାଣ୍ଡସ୍କ୍ରୋଲ୍ ଚିତ୍ରକଳା ଏବଂ ପରବର୍ତ୍ତୀ ଶତାବ୍ଦୀରେ ଅନେକ ଥର ନକଲ କରାଯାଇଥିଲା | ଏହା ଉତ୍ତର ସଙ୍ଗ ସମଯ଼ରେ ଲୋକଙ୍କ ଦୈନନ୍ଦିନ ଜୀବନ ଏବଂ ରାଜଧାନୀ ବିଆଞ୍ଜିଙ୍ଗ (ବର୍ତ୍ତମାନର କାଇଫେଙ୍ଗ) ର ଦୃଶ୍ଯ଼କୁ ଧାରଣ କରେ | ଏହି ବିଷଯ଼ବସ୍ତୁ ପ୍ରାଯ଼ତଃ ଛୁଟିଦିନର ଆନୁଷ୍ଠାନିକ ଦିଗ, ଯେପରିକି ସମାଧି ଝାଡ଼ୁ ଏବଂ ପ୍ରାର୍ଥନା ପରିବର୍ତ୍ତେ, କିଙ୍ଗ୍ମିଙ୍ଗ୍ ମହୋତ୍ସବରେ ଉତ୍ସବର ଉତ୍ସାହ ଏବଂ ସାଂସାରିକ ଗଣ୍ଡଗୋଳକୁ ପାଳନ କରିବାକୁ କୁହାଯାଏ | ଡାହାଣରୁ ବାମକୁ ପଢ଼ନ୍ତୁ, ଯେତେବେଳେ ଜଣେ ଦର୍ଶକ ଏହାକୁ ଖୋଲନ୍ତି, କ୍ରମାଗତ ଦୃଶ୍ଯ଼ଗୁଡିକ ସମାଜର ସମସ୍ତ ସ୍ତରର ଜୀବନଶୈଳୀକୁ ଧନୀରୁ ଗରିବ ତଥା ଗ୍ରାମାଞ୍ଚଳ ତଥା ସହରର ଅର୍ଥନୈତିକ କାର୍ଯ୍ଯ଼କଳାପକୁ ପ୍ରକାଶ କରେ, ଏବଂ ପିରିଯ଼ଡ୍ ପୋଷାକ ଏବଂ ସ୍ଥାପତ୍ଯ଼ର ଝଲକ ପ୍ରଦାନ କରେ | ଏହି ପେଣ୍ଟିଂକୁ ସମସ୍ତ ଚାଇନିଜ୍ ପେଣ୍ଟିଂ ମଧ୍ଯ଼ରେ ସବୁଠାରୁ ପ୍ରସିଦ୍ଧ କାର୍ଯ୍ଯ଼ ଭାବରେ ବିବେଚନା କରାଯାଏ, ଏବଂ ଏହାକୁ \"ଚାଇନାର ମୋନା ଲିସା\" କୁହାଯାଏ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଫୁଚୁନ୍ ପର୍ବତରେ ବାସ କରିବା ହେଉଛି ଚାଇନାର ଚିତ୍ରକର ହୁଆଙ୍ଗ ଗୋଙ୍ଗୱାଙ୍ଗ (1269-1354) ଙ୍କ ଦ୍ୱାରା ବଞ୍ଚିଥିବା ଅଳ୍ପ କିଛି କାର୍ଯ୍ଯ଼ ମଧ୍ଯ଼ରୁ ଗୋଟିଏ ଏବଂ ଏହାକୁ ତାଙ୍କର ସର୍ବଶ୍ରେଷ୍ଠ କାର୍ଯ୍ଯ଼ ମଧ୍ଯ଼ରେ ବିବେଚନା କରାଯାଏ | 1348ରୁ 1350 ମସିହା ମଧ୍ଯ଼ରେ ଅଙ୍କିତ ଏହି ଚିତ୍ରକଳା 1650 ମସିହାରେ ଦୁଇ ଖଣ୍ଡରେ ଜଳିଯାଇଥିଲା। ଆଜି, ଗୋଟିଏ ଖଣ୍ଡ ହାଙ୍ଗଝୁରେ ଥିବା ଝେଜିଆଙ୍ଗ ପ୍ରାଦେଶିକ ସଂଗ୍ରହାଳଯ଼ରେ ରଖାଯାଇଛି, ଏବଂ ଅନ୍ଯ଼ ଖଣ୍ଡଟି ତାଇପେଇର ଜାତୀଯ଼ ପ୍ରାସାଦ ସଂଗ୍ରହାଳଯ଼ରେ ରଖାଯାଇଛି। ଏକତ୍ର ରଖିଲେ, ସମଗ୍ର ଚିତ୍ରକଳାର ଦୈର୍ଘ୍ଯ଼ 691.3 ସେ. ମି. ହେବ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "ଆପଣ ଏହି ଚିତ୍ରକଳାର ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ତାଙ୍ଗ ରାଜବଂଶ ଏବଂ ତିବ୍ବତ ମଧ୍ଯ଼ରେ ବନ୍ଧୁତ୍ୱପୂର୍ଣ୍ଣ ମୁକାବିଲାକୁ ଦର୍ଶାଇବା ପାଇଁ ସମ୍ରାଟ ତାଇଜୋଙ୍ଗ ତିବ୍ଦତୀଯ଼ ରାଷ୍ଟ୍ରଦୂତଙ୍କୁ ଗ୍ରହଣ କରିବା (ଯାହାକୁ ମଧ୍ଯ଼ କୁହାଯାଏ) ହେଉଛି ଯ଼ାନ୍ ଲିବେନଙ୍କ ଦ୍ୱାରା ରେଶମ ଉପରେ ଏକ ଚିତ୍ରକଳା | ଏହି ଚିତ୍ରଟି 129 ସେଣ୍ଟିମିଟର (51 ଇଞ୍ଚ) ଲମ୍ବା ଏବଂ 38.5 ସେଣ୍ଟିମିଟର (15.2 ଇଞ୍ଚ) ଚଉଡ଼ା। ବୁନିଯ଼ାନ୍ ତୁ ବେଜିଂର ପ୍ଯ଼ାଲେସ୍ ମ୍ଯ଼ୁଜିଯ଼ମରେ ଅଛି |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ସିଡର ଆପଲ୍ ରଷ୍ଟ୍ (ଜିମ୍ନୋସ୍ପୋରାଞ୍ଜିଯ଼ମ୍ ଜୁନିପେରି-ଭର୍ଜିନିଆନି) ଏକ ଫଙ୍ଗାଲ୍ ରୋଗ ଯାହା ଜୁନିପର୍ ଗଛକୁ ଏହାର ଜଟିଳ ଦୁଇ ବର୍ଷର ଜୀବନ ଚକ୍ର ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ଆବଶ୍ଯ଼କ କରେ | ବିଭିନ୍ନ ଜୁନିପର ପ୍ରଜାତିର ଛୋଟ ଛୋଟ ଡାଳ ଉପରେ ଲାଲ-ବାଦାମୀ ପିତ୍ତ ଭାବରେ ଶୀତ ଋତୁରେ ବୀଜାଣୁ ସୃଷ୍ଟି ହୁଏ | ବସନ୍ତ ଋତୁର ପ୍ରାରମ୍ଭରେ, ଆର୍ଦ୍ର ପାଗ ସମଯ଼ରେ, ଏହି ଗଲ୍ସ ଫୁଲିଯାଏ ଏବଂ ଉଜ୍ଜ୍ୱଳ କମଳା ରଙ୍ଗର ବୀଜାଣୁ ପବନ ଦ୍ୱାରା ପ୍ରବାହିତ ହୁଏ ଯେଉଁଠାରେ ସେମାନେ ସମ୍ବେଦନଶୀଳ ସେଓ ଏବଂ କଙ୍କଡ଼ା-ସେଓ ଗଛକୁ ସଂକ୍ରମିତ କରନ୍ତି | ଏହି ଗଛଗୁଡ଼ିକରେ ବିକଶିତ ହେଉଥିବା ବୀଜାଣୁ କେବଳ ଜୁନିପରମାନଙ୍କୁ ପରବର୍ତ୍ତୀ ବର୍ଷ ସଂକ୍ରମିତ କରିବ। ବର୍ଷକୁ ବର୍ଷ, ଏହି ରୋଗ ଜୁନିପରରୁ ସେଓରୁ ଜୁନିପରକୁ ଫେରିବାକୁ ପଡ଼ିବ; ଏହା ସେଓ ଗଛ ମଧ୍ଯ଼ରେ ବ୍ଯ଼ାପିପାରିବ ନାହିଁ। \n \n ସେଓ ଏବଂ କଙ୍କଡ଼ା-ସେଓ ଗଛରେ, ଫୁଲ ଫୁଟିବାର କିଛି ସମଯ଼ ପରେ ପତ୍ରର ଉପର ପୃଷ୍ଠରେ ଫିକା ହଳଦିଆ ପିନ୍ହେଡ୍ ଆକାରର ଦାଗ ଖୋଜନ୍ତୁ | ଏଗୁଡ଼ିକ ଧୀରେ ଧୀରେ ଉଜ୍ଜ୍ୱଳ କମଳା-ହଳଦିଆ ଦାଗକୁ ବୃଦ୍ଧି ପାଇଥାଏ ଯାହା ରୋଗକୁ ଚିହ୍ନଟ କରିବା ସହଜ କରିଥାଏ | ଫଳ ଉପରେ କମଳା ରଙ୍ଗର ଦାଗ ମଧ୍ଯ଼ ପଡ଼ିପାରେ। ଅତ୍ଯ଼ଧିକ ସଂକ୍ରମିତ ପତ୍ରଗୁଡ଼ିକ ସମଯ଼ ପୂର୍ବରୁ ଖସିଯାଇପାରେ। \n \n ଚିକିତ୍ସା \n 1. ଉପଲବ୍ଧ ଥିବା ସମଯ଼ରେ ପ୍ରତିରୋଧକ ଚାଷ ଚଯ଼ନ କରନ୍ତୁ। \n 2. ଗଛ ତଳେ ପଡ଼ି ରହିଥିବା ପତ୍ର ଏବଂ ଅନ୍ଯ଼ାନ୍ଯ଼ ଭଗ୍ନାବଶେଷକୁ ଉଠାନ୍ତୁ ଏବଂ ନଷ୍ଟ କରନ୍ତୁ। \n 3. ସଂକ୍ରମିତ ଜୁନିପରରୁ ଗଲ୍କୁ ବାହାର କରନ୍ତୁ। କେତେକ କ୍ଷେତ୍ରରେ ଜୁନିପର ଗଛକୁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ହଟାଇବା ଉଚିତ। ଜୁନିପର ହୋଷ୍ଟ ଦ୍ୱାରା ମୁକ୍ତ ହେଉଥିବା ବୀଜାଣୁରୁ ଗଛକୁ ରକ୍ଷା କରିବା ପାଇଁ, ପ୍ରତି ସପ୍ତାହରେ ସେଓ ଉପରେ ବ୍ଯ଼ବହାର ପାଇଁ ଲେବେଲ ହୋଇଥିବା ପ୍ରତିଷେଧକ, ରୋଗ-ପ୍ରତିରୋଧକ ଫଙ୍ଗିସାଇଡ୍ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ, ଯାହା କଳ ଭାଙ୍ଗିବା ସହିତ ଆରମ୍ଭ ହୁଏ | ଏହା ବର୍ଷକୁ କେବଳ ଥରେ ହୋଇଥାଏ, ତେଣୁ ଏହି ବସନ୍ତକାଳୀନ ପ୍ରସାର ପରେ ଅତିରିକ୍ତ ଆବେଦନ ଆବଶ୍ଯ଼କ ହୁଏ ନାହିଁ। ଜୁନିପରରେ, ଅଗଷ୍ଟ ଶେଷ ଏବଂ ଅକ୍ଟୋବର ଶେଷ ମଧ୍ଯ଼ରେ ଅତି କମରେ ଚାରି ଥର ତମ୍ବା ଦ୍ରବଣ (0.5 ରୁ 2.0 oz/ଗ୍ଯ଼ାଲନ୍ ପାଣି) ସହିତ ଗଛ ସ୍ପ୍ରେ କରି ଜଙ୍କ ନିଯ଼ନ୍ତ୍ରଣ କରାଯାଇପାରିବ | ସେରନେଡ୍ ଗାର୍ଡେନ୍ ସହିତ ଅଧିକାଂଶ ଫଙ୍ଗାଲ୍ ଏବଂ ବ୍ଯ଼ାକ୍ଟେରିଆ ରୋଗକୁ ସୁରକ୍ଷିତ ଭାବରେ ଚିକିତ୍ସା କରନ୍ତୁ | ଏହି ବ୍ଯ଼ାପକ ଜୈବ-କବକନାଶକ ବ୍ଯ଼ାସିଲସ୍ ସବ୍ଟିଲିସ୍ ର ଏକ ପେଟେଣ୍ଟ ଷ୍ଟ୍ରେନ୍ ବ୍ଯ଼ବହାର କରେ ଯାହା ଜୈବିକ ବ୍ଯ଼ବହାର ପାଇଁ ପଞ୍ଜୀକୃତ | ସବୁଠାରୁ ଭଲ କଥା ହେଉଛି, ସେରନେଡ୍ ମହୁମାଛି ଏବଂ ଉପକାରୀ କୀଟପତଙ୍ଗ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ବିଷାକ୍ତ ନୁହେଁ। ଗନ୍ଧକ ଏବଂ ପାଇରେଥ୍ରିନ୍ ଯୁକ୍ତ, ବୋନାଇଡ୍ ® ଅର୍ଚାର୍ଡ ସ୍ପ୍ରେ କୀଟ ଆକ୍ରମଣ ଏବଂ ଫଙ୍ଗସ୍ ସମସ୍ଯ଼ା ପାଇଁ ଏକ ନିରାପଦ, ଏକ-ହିଟ୍ ସାନ୍ଦ୍ର | ସର୍ବୋତ୍ତମ ଫଳାଫଳ ପାଇଁ, ଋତୁର ପ୍ରାରମ୍ଭରେ ଏକ ସୁରକ୍ଷାତ୍ମକ ସ୍ପ୍ରେ (2.5 ଓଜ୍/ଗ୍ଯ଼ାଲନ୍) ଭାବରେ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ | ଯଦି ରୋଗ, କୀଟପତଙ୍ଗ କିମ୍ବା ଆର୍ଦ୍ର ପାଣିପାଗ ଥାଏ, ତେବେ ଗୋଟିଏ ଗ୍ଯ଼ାଲନ୍ ପାଣିରେ 5 ଆଉନ୍ସ ମିଶାନ୍ତୁ। ଗଛର ସମସ୍ତ ଅଂଶ, ବିଶେଷ କରି ନୂତନ ଅଙ୍କୁରକୁ ଭଲ ଭାବେ ସିଞ୍ଚନ କରନ୍ତୁ। ଆପଣଙ୍କ ଅଞ୍ଚଳରେ ଅନ୍ଯ଼ାନ୍ଯ଼ ସମ୍ଭାବ୍ଯ଼ ସମାଧାନ ପାଇଁ ଆପଣଙ୍କ ସ୍ଥାନୀଯ଼ କୃଷି ସମ୍ପ୍ରସାରଣ କାର୍ଯ୍ଯ଼ାଳଯ଼ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ଆନ୍ଥ୍ରାକ୍ନୋଜ୍। ଏହା କୋଲେଟୋଟ୍ରିଚମ୍ ବଂଶର ଫଙ୍ଗସ୍ ଦ୍ୱାରା ହୋଇଥାଏ, ଯାହା ଉଦ୍ଭିଦ ରୋଗ ଜୀବାଣୁଗୁଡ଼ିକର ଏକ ସାଧାରଣ ଗୋଷ୍ଠୀ ଯାହା ଅନେକ ଉଦ୍ଭିଦ ପ୍ରଜାତି ଉପରେ ରୋଗ ପାଇଁ ଦାଯ଼ୀ | ସଂକ୍ରମିତ ଉଦ୍ଭିଦଗୁଡ଼ିକ କାଣ୍ଡ, ପତ୍ର କିମ୍ବା ଫଳ ଉପରେ କଳା, ପାଣିରେ ଭିଜିଥିବା କ୍ଷତ ସୃଷ୍ଟି କରନ୍ତି | ବିଶେଷ କରି ଆର୍ଦ୍ର, ଉଷ୍ମ ପାଗ ସମଯ଼ରେ ଏହି କ୍ଷତଗୁଡ଼ିକର କେନ୍ଦ୍ରଗୁଡ଼ିକ ପ୍ରାଯ଼ତଃ ଗୋଲାପୀ, ଜିଲେଟିନସ୍ ବୀଜାଣୁ ଦ୍ୱାରା ଆଚ୍ଛାଦିତ ହୋଇଯାଏ | ଆନ୍ଥ୍ରାକ୍ନୋଜ୍ ମାତ୍ର କିଛି ଦିନ ମଧ୍ଯ଼ରେ ଏକ ସୁନ୍ଦର ଫସଲକୁ ସଡି ଯାଇଥିବା ବର୍ଜ୍ଯ଼ବସ୍ତୁରେ ପରିଣତ କରିପାରେ | \n \n ଫଙ୍ଗଲ୍ ରୋଗ ମଞ୍ଜି, ମାଟି ଏବଂ ବଗିଚାର ଭଗ୍ନାବଶେଷରେ ଏବଂ ଉପରେ ଅତ୍ଯ଼ଧିକ ଶୀତଳ ହୁଏ | ଶୀତଳ ଆର୍ଦ୍ର ପାଣିପାଗ ଏହାର ବିକାଶକୁ ପ୍ରୋତ୍ସାହିତ କରେ, ଏବଂ ବୀଜାଣୁଗୁଡ଼ିକର ନିରନ୍ତର ବୃଦ୍ଧି ପାଇଁ ସର୍ବୋତ୍ତମ ତାପମାତ୍ରା 75-85 âF ମଧ୍ଯ଼ରେ ଥାଏ | ଫଙ୍ଗସର ବିକାଶ ଏବଂ ଅଙ୍କୁରୋଦଗମ ତଥା ଗଛର ସଂକ୍ରମଣ ପାଇଁ ଆର୍ଦ୍ରତା ଆବଶ୍ଯ଼କ | ଏହା ପବନ, ବର୍ଷା, କୀଟପତଙ୍ଗ ଏବଂ ବଗିଚା ଉପକରଣ ଦ୍ୱାରା ବ୍ଯ଼ାପିଥାଏ | \n \n ଚିକିତ୍ସା \n 1 ଯେତେବେଳେ ସମ୍ଭବ ପ୍ରତିରୋଧକ ଉଦ୍ଭିଦ କିସମ ବାଛନ୍ତୁ ଏବଂ ପାଶ୍ଚାତ୍ଯ଼ ଉତ୍ପାଦିତ ମଞ୍ଜି ବ୍ଯ଼ବହାର କରନ୍ତୁ ଯାହା ରୋଗ ସଂସ୍ପର୍ଶରେ ଆସିନାହିଁ | \n 2 ଯଦି ଏହି ଫଙ୍ଗସ୍ ସମସ୍ଯ଼ା ସାଧାରଣ, ତେବେ ରୋପଣରୁ ନିଜ ବୀଜକୁ ବଞ୍ଚାନ୍ତୁ ନାହିଁ। \n 3. ରୋଗ ବିସ୍ତାରକୁ ଏଡ଼ାଇବା ପାଇଁ, ଯେତେବେଳେ ଗଛଗୁଡ଼ିକ ଓଦା ଥାଏ ସେତେବେଳେ ବଗିଚାଠାରୁ ଦୂରରେ ରୁହନ୍ତୁ ଏବଂ ବ୍ଯ଼ବହାର ପରେ ସମସ୍ତ ବଗିଚା ଉପକରଣ (ଗୋଟିଏ ଭାଗ ବ୍ଲିଚ୍ ସହିତ 4 ଭାଗ ପାଣି) ବିଶୋଧନ କରିବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ | \n 4 ସଂକ୍ରମିତ ପତ୍ର, ଫଳ କିମ୍ବା କାଣ୍ଡକୁ କମ୍ପୋଷ୍ଟ କରନ୍ତୁ ନାହିଁ ଏବଂ ଶରତ ଋତୁରେ ବଗିଚା ଅଞ୍ଚଳକୁ ଭଲ ଭାବରେ ସଫା କରନ୍ତୁ, ଅମଳ ପରେ, ଫଙ୍ଗାଲ୍ ବୀଜାଣୁ ପାଇଁ ଶୀତକାଳୀନ ସାଇଟକୁ ହ୍ରାସ କରନ୍ତୁ | \n 5 ସେରନେଡ୍ ଗାର୍ଡେନ୍ ସହିତ ଅଧିକାଂଶ ଫଙ୍ଗାଲ୍ ଏବଂ ବ୍ଯ଼ାକ୍ଟେରିଆ ରୋଗକୁ ସୁରକ୍ଷିତ ଭାବରେ ଚିକିତ୍ସା କରନ୍ତୁ | ଏହି ବ୍ଯ଼ାପକ ଜୈବ-କବକନାଶକ ବ୍ଯ଼ାସିଲସ୍ ସବ୍ଟିଲିସ୍ ର ଏକ ପେଟେଣ୍ଟ ଷ୍ଟ୍ରେନ୍ ବ୍ଯ଼ବହାର କରେ ଯାହା ଜୈବିକ ବ୍ଯ଼ବହାର ପାଇଁ ପଞ୍ଜୀକୃତ | ସର୍ବୋପରି, ସେରନେଡ୍ ମହୁମାଛି ଏବଂ ଉପକାରୀ କୀଟପତଙ୍ଗ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ବିଷାକ୍ତ ନୁହେଁ | \n 6 ତରଳ ତମ୍ବା ସ୍ପ୍ରେ ଏବଂ ଗନ୍ଧକ ପାଉଡର ସାପ୍ତାହିକ ଭାବରେ ପ୍ରଯ଼ୋଗ କରାଯିବା ଉଚିତ, ଯେତେବେଳେ ବସନ୍ତ ଋତୁର ପ୍ରାରମ୍ଭରେ ପତ୍ରପତ୍ରିକା ବିକଶିତ ହେବା ଆରମ୍ଭ ହୁଏ ଏବଂ ସମଗ୍ର ବୃଦ୍ଧି ଋତୁରେ ଜାରି ରହେ | ଦିନର ପ୍ରାରମ୍ଭରେ ସ୍ପ୍ରେ କରନ୍ତୁ, ଏବଂ ଗରମ ପାଗ ସମଯ଼ରେ ପ୍ରଯ଼ୋଗରୁ ଦୂରେଇ ରୁହନ୍ତୁ | ରୋପଣ ପୂର୍ବରୁ ମଞ୍ଜି ମଧ୍ଯ଼ ଚିକିତ୍ସା କରାଯାଇପାରେ। \n 7. ନିମ୍ବ ତେଲ ସ୍ପ୍ରେ ହେଉଛି ଏକ ଜୈବିକ, ବହୁମୁଖୀ ଫଙ୍ଗିସାଇଡ୍/କୀଟନାଶକ/ମାଇଟିସାଇଡ୍ ଯାହା ଅଣ୍ଡା, ଲାର୍ଭା ଏବଂ କୀଟପତଙ୍ଗର ବଯ଼ସ୍କ ପର୍ଯ୍ଯ଼ାଯ଼କୁ ମାରିବା ସହିତ ଉଦ୍ଭିଦ ଉପରେ ଫଙ୍ଗାଲ୍ ଆକ୍ରମଣକୁ ରୋକିଥାଏ | ପ୍ରତି 7-14 ଦିନରେ ଏକ ପ୍ରତିଷେଧକ ପଦକ୍ଷେପ ଭାବରେ କିମ୍ବା ବିଦ୍ଯ଼ମାନ ସମସ୍ଯ଼ା ଦୂର ନହେବା ପର୍ଯ୍ଯ଼ନ୍ତ 7 ଦିନର କାର୍ଯ୍ଯ଼ସୂଚୀରେ, ବସନ୍ତ ବଡିଂଗ୍ର ପ୍ରଥମ ସଙ୍କେତରେ, ଶୀଘ୍ର ପ୍ରଯ଼ୋଗ କରନ୍ତୁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ଏହା ଏକ ବ୍ଯ଼ାକ୍ଟେରିଆ କର୍କଟ, ଯାହା ଚେର ଏବଂ ପ୍ଲମରେ ସବୁଠାରୁ ସାଧାରଣ, କିନ୍ତୁ ଏହା ଆପ୍ରିକାଟ୍, ପୀଚ୍ ଏବଂ ଅନ୍ଯ଼ାନ୍ଯ଼ ଅନେକ ପ୍ରକାରର ପଥର ଫଳକୁ ମଧ୍ଯ଼ ପ୍ରଭାବିତ କରିପାରେ | ଏହି ଉଦ୍ଭିଦ ରୋଗକୁ ସନ୍ଦେହ କରନ୍ତୁ ଯଦି ଶୁଖିଲା, ପାଣିରେ ଭିଜିଥିବା କିମ୍ବା \"ଜିମି\" କ୍ଷତ କାଣ୍ଡ କିମ୍ବା ଡାଳରେ ସୃଷ୍ଟି ହୁଏ | ଯେତେବେଳେ ବସନ୍ତ ଋତୁରେ ଗଛଗୁଡ଼ିକ ସକ୍ରିଯ଼ ଭାବେ ବଢ଼ିବା ଆରମ୍ଭ କରନ୍ତି, ସେତେବେଳେ ଏହି କ୍ଷତିଗ୍ରସ୍ତ ଅଞ୍ଚଳରୁ ଏକ ତିକ୍ତ ଗନ୍ଧଯୁକ୍ତ ରସ ନିର୍ଗତ ହୋଇପାରେ। କ୍ଯ଼ାନକର୍ଗୁଡ଼ିକ ଆଖପାଖର ସୁସ୍ଥ ଛାଲ ଅପେକ୍ଷା ଗାଢ଼ ହୋଇଯାଏ, ଏବଂ ଅନ୍ତର୍ନିହିତ ତନ୍ତୁ ଲାଲ-ବାଦାମୀରୁ କଳା ଏବଂ ଆର୍ଦ୍ର | \n \n ଧ୍ଯ଼ାନ ଦିଅନ୍ତୁଃ ଯଦି କର୍କଟମାନେ ଶାଖା କିମ୍ବା କାଣ୍ଡକୁ କଟି ଦିଅନ୍ତି, ତେବେ ରୋଗାକ୍ରାନ୍ତ ସ୍ଥାନ ଉପରେ ଥିବା ପତ୍ରଗୁଡ଼ିକ ବକ୍ର ହୋଇଯାଏ ଏବଂ ହଳଦିଆ ହୋଇଯାଏ। ବୃଦ୍ଧି ବନ୍ଦ ହୋଇଯାଏ ଏବଂ ଶାଖା କିମ୍ବା ଗଛ ଶେଷରେ ମରିଯାଏ | \n \n କର୍କଟ ସୃଷ୍ଟି କରୁଥିବା ଜୀବାଣୁ, ସ୍ଯ଼ୁଡୋମୋନାସ୍ ସିରିଙ୍ଗେ, ଆହତ ଛାଲ କିମ୍ବା ବିଦ୍ଯ଼ମାନ କ୍ଷତ ମାଧ୍ଯ଼ମରେ ଗଛରେ ପ୍ରବେଶ କରେ, ଯେପରିକି ଏକ ଡାଳି କିମ୍ବା ଶାଖାରେ କଟା କଟା | ବସନ୍ତ ଋତୁରେ ତୁଷାରପାତ ଜନିତ କ୍ଷତି ଅତିରିକ୍ତ ସଂକ୍ରମଣକୁ ପ୍ରୋତ୍ସାହିତ କରିପାରେ। ବ୍ଯ଼ାକ୍ଟେରିଆଲ୍ କର୍କଟ ସଂକ୍ରମଣ ଶରତ, ଶୀତ ଏବଂ ବସନ୍ତ ଆରମ୍ଭରେ (ଥଣ୍ଡା, ଆର୍ଦ୍ର ପାଣିପାଗ ସମଯ଼ରେ) ହୁଏ ଏବଂ ବର୍ଷା କିମ୍ବା ପାଣି ଏବଂ ଛାଣିବା ଉପକରଣ ଦ୍ୱାରା ବ୍ଯ଼ାପିଥାଏ | ସକ୍ରିଯ଼ କର୍କଟରେ, ସଂକ୍ରମିତ କଳିରେ ଏବଂ ସଂକ୍ରମିତ ଏବଂ ସୁସ୍ଥ ଗଛ ଏବଂ ଆଗାଛାର ପୃଷ୍ଠରେ ବ୍ଯ଼ାକ୍ଟେରିଆ ଅତ୍ଯ଼ଧିକ ଶୀତଳ | \n \n ଚିକିତ୍ସା \n 1 ଫୁଲ ଫୁଟିବା ସମଯ଼ରେ ଫୁଲ ଗଛ କାଟି ଦିଅନ୍ତୁ ଯେତେବେଳେ କ୍ଷତ ଶୀଘ୍ର ଭଲ ହୋଇଯାଏ | \n 2 ସଂକ୍ରମିତ ସ୍ଥାନର ତଳେ ଥିବା ଶୁଖିଲା କିମ୍ବା ମୃତ ଅଙ୍ଗଗୁଡ଼ିକୁ ବାହାର କରନ୍ତୁ। \n 3. ଯେତେବେଳେ ବ୍ଯ଼ାକ୍ଟେରିଆ ସବୁଠାରୁ ଅଧିକ ସକ୍ରିଯ଼ ଥାଏ, ସେତେବେଳେ ବସନ୍ତ ଋତୁ ଆରମ୍ଭରେ ଏବଂ ଶରତ ଋତୁରେ ଛାଣିବା ଠାରୁ ଦୂରେଇ ରୁହନ୍ତୁ। \n 4. ସମସ୍ତ ଛାଣିବା କାଟକୁ ତୁରନ୍ତ ଟାଙ୍ଗଲଫୁଟ୍ ® ଗଛ ଛାଣିବା ସିଲର୍ ସହିତ ଚିକିତ୍ସା କରନ୍ତୁ ଏବଂ ପ୍ରତ୍ଯ଼େକ କାଟିବା ପରେ ଆପଣଙ୍କ ଛାଣିବା ଉପକରଣକୁ ଜୀବାଣୁହୀନ କରିବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ-ଗୋଟିଏ ଅଂଶ ବ୍ଲିଚ୍ 4 ଅଂଶ ପାଣିରେ | \n 5 ଯଦି ଗଛର ପାଦଦେଶ ଚାରିପଟେ ଷ୍ଟ୍ରିଙ୍ଗ ଟ୍ରିମର ବ୍ଯ଼ବହାର କରାଯାଏ, ତେବେ ସଂକ୍ରମଣକୁ ରୋକିବା ପାଇଁ ଶ୍ୱାସକ୍ରିଯ଼ାକ୍ଷମ ବୃକ୍ଷ ଆବରଣ ଦ୍ୱାରା ଛାଲକୁ କ୍ଷତି ପହଞ୍ଚାଇବା ଠାରୁ ଦୂରେଇ ରୁହନ୍ତୁ। \n 6 ଛାଲ-କ୍ଷତିକାରକ ତାପମାତ୍ରାର ପରିବର୍ତ୍ତନକୁ ହ୍ରାସ କରିବା ପାଇଁ ପାଣିରେ ପତଳା ହୋଇଥିବା ଧଳା ଲେଟେକ୍ସ ରଙ୍ଗ ସହିତ ଛାଲକୁ ବ୍ରଶ୍ କରନ୍ତୁ | \n 7 ଗବେଷଣା ଦର୍ଶାଇଛି ଯେ ଏହି ପଥର ଫଳ ସମସ୍ଯ଼ା ବିରୁଦ୍ଧରେ ତମ୍ବା ଫଙ୍ଗିସାଇଡ୍ କିଛି ସଫଳତା ପାଇଛି | ତେବେ ଫଳାଫଳ ଅସଙ୍ଗତ ରହିଛି। ଆମେ ଏହାକୁ ସମ୍ପୂର୍ଣ୍ଣ ପରିଚାଳନା କାର୍ଯ୍ଯ଼କ୍ରମର ଏକ ଅଂଶ ଭାବରେ ବ୍ଯ଼ବହାର କରିବାକୁ ପରାମର୍ଶ ଦେଉଛୁ। \n 8 ବାଯ଼ୁ ସଞ୍ଚାଳନକୁ ଉନ୍ନତ କରିବା ଏବଂ କାଣ୍ଡ ଏବଂ ମୁକୁଟକୁ ଶୁଖିଲା ରଖିବା ପାଇଁ ଛୋଟ ଗଛର ପାଦଦେଶରୁ ଆଗାଛା ଏବଂ ଘାସ ବାହାର କରନ୍ତୁ | \n 9 ଅର୍ଗାନୋସାଇଡ୍ ® ପ୍ଲାଣ୍ଟ ଡକ୍ଟର ହେଉଛି ଏକ ପୃଥିବୀ-ଅନୁକୂଳ ସିଷ୍ଟମିକ୍ ଫଙ୍ଗିସାଇଡ୍ ଯାହା ଅଳଙ୍କାର, ଟର୍ଫ, ଫଳ ଏବଂ ଅଧିକ ଉପରେ ବହୁ ସଂଖ୍ଯ଼କ ରୋଗର ମୁକାବିଲା ପାଇଁ ସମଗ୍ର ଉଦ୍ଭିଦ ମାଧ୍ଯ଼ମରେ କାର୍ଯ୍ଯ଼ କରେ | ଗ୍ଯ଼ାଲନ୍ ପିଛା 1/3 ରୁ 3/4 oz ପାଣି ମିଶାନ୍ତୁ ଏବଂ କଟା କ୍ଷତ ଏବଂ ଆଖପାଖ ଅଞ୍ଚଳରେ ରଙ୍ଗ କିମ୍ବା ସ୍ପ୍ରେ କରନ୍ତୁ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ଏହା ଫୁଲର ଶେଷ କ୍ଷଯ଼। ଟମାଟୋ, ଗୋଲମରିଚ, କାକୁଡ଼ି ଏବଂ ବାଇଗଣର ଏକ ଗୁରୁତର ବ୍ଯ଼ାଧି, ଫୁଲର ଶେଷ କ୍ଷଯ଼ ଏକ ପରିବେଶଗତ ସମସ୍ଯ଼ା (ଫଙ୍ଗାଲ୍ ନୁହେଁ) ଯାହା ପ୍ରାଯ଼ତଃ ଅସମାନ ଜଳ କିମ୍ବା କ୍ଯ଼ାଲସିଯ଼ମ୍ ଅଭାବ ଦ୍ୱାରା ଘଟିଥାଏ | (ଏଗୁଡ଼ିକ ସମ୍ପର୍କିତ ହୋଇପାରେ; ଅସମାନ ଜଳଯୋଗାଣ କ୍ଯ଼ାଲସିଯ଼ମ୍ ଗ୍ରହଣରେ ବାଧା ସୃଷ୍ଟି କରିପାରେ।) ଏହି ସାଧାରଣ ବଗିଚା \"ରୋଗ\" ପ୍ରାଯ଼ତଃ ଅତ୍ଯ଼ଧିକ ସାର, ଉଚ୍ଚ ଲବଣ ସ୍ତର କିମ୍ବା ମରୁଡ଼ି ଦ୍ୱାରା ଦ୍ରୁତ ବୃଦ୍ଧି ଦ୍ୱାରା ଆଣିଥାଏ | \n \n ଉଭଯ଼ ସବୁଜ ଏବଂ ପରିପକ୍ୱ ଫଳ ଉପରେ ଫୁଲର ଶେଷ ସଙ୍କୁଚିତ ଲକ୍ଷଣ ଦେଖାଯାଏ ଏବଂ ଏହା ପାଣିରେ ଭିଜିଥିବା ଅଞ୍ଚଳ ଦ୍ୱାରା ଚିହ୍ନଟ ହୁଏ ଯାହା ଧୀରେ ଧୀରେ ପ୍ରଶସ୍ତ ହୁଏ ଏବଂ ତଳ ଭାଗରେ ବୁଡ଼ିଯାଇଥିବା, ବାଦାମୀ, ଚମଡ଼ା ଦାଗରେ ପରିପକ୍ୱ ହୁଏ | ଅନେକ କ୍ଷେତ୍ରରେ, ମାଧ୍ଯ଼ମିକ ରୋଗ ଜୀବାଣୁ, ଯାହା ଏକ କଳା, ଫଜି ପରି ବୃଦ୍ଧି ଭାବରେ ଦେଖାଯାଏ, ପ୍ରଭାବିତ ଅଞ୍ଚଳକୁ ଆକ୍ରମଣ କରେ ଏବଂ ଫଳର ସମ୍ପୂର୍ଣ୍ଣ କ୍ଷଯ଼ ସୃଷ୍ଟି କରେ | ଫୁଲର ଶେଷ କ୍ଷଯ଼ ଏକ ଗଛରୁ ଅନ୍ଯ଼ ଗଛକୁ ବ୍ଯ଼ାପିବ ନାହିଁ। \n \n ଚିକିତ୍ସା \n ଯେହେତୁ ଏହି ଉଦ୍ଭିଦ ସମସ୍ଯ଼ା ଶାରୀରିକ ପ୍ରକୃତିର, ଫଙ୍ଗିସାଇଡ୍ ଏକ ନିଯ଼ନ୍ତ୍ରଣ ପଦକ୍ଷେପ ଭାବରେ କାର୍ଯ୍ଯ଼ କରିବ ନାହିଁ। ଆମେ ନିମ୍ନଲିଖିତ ସୁପାରିଶ କରୁଃ \n \n 1। ଯେତେବେଳେ ସମ୍ଭବ ପ୍ରତିରୋଧକ ପନିପରିବା କିସମ ବାଛନ୍ତୁ | \n 2. ମୃତ୍ତିକାକୁ ସମାନ ଭାବରେ ଆର୍ଦ୍ର ରଖି ଏବଂ କେଲ୍ପ କିମ୍ବା କ୍ଯ଼ାଲସିଯ଼ମ୍ ଦ୍ରବଣ ସହିତ ପତ୍ରପତ୍ରିକା ଗଛକୁ ସ୍ପ୍ରେ କରି ସମସ୍ଯ଼ାକୁ ରୋକନ୍ତୁ | \n 3 ରୋପଣ ସମଯ଼ରେ ମାଟିରେ ଉଚ୍ଚ ସ୍ତରର କ୍ଯ଼ାଲସିଯ଼ମ୍-ଅସ୍ଥି ଭୋଜନ, ସିଷ୍ଟର ଶେଲ କିମ୍ବା ଜିପ୍ସମ୍-ସାଧାରଣତଃ ଏହି ସମସ୍ଯ଼ାକୁ ବିକଶିତ ହେବାରୁ ରୋକିଥାଏ | \n 4 ମଲ୍ଚ୍ର ଏକ ସ୍ତର (ଷ୍ଟ୍ରା, କମ୍ପୋଷ୍ଟ, ଘାସ) ଜୁଲାଇ ଏବଂ ଅଗଷ୍ଟ ମାସର ଗରମ, ଶୁଖିଲା ଦିନରେ ମୃତ୍ତିକାର ଆର୍ଦ୍ରତା ସଂରକ୍ଷଣ କରିବାରେ ସାହାଯ୍ଯ଼ କରିବ। ତରଳ କ୍ଯ଼ାଲସିଯ଼ମ୍ 5 ପ୍ରତିଶତ (1-2 ଟି. ବି. ଏସ୍. ପି./ଗ୍ଯ଼ାଲନ୍ ପାଣି) ର ପତ୍ରଯୁକ୍ତ ପ୍ରଯ଼ୋଗ ଏହି ଅତ୍ଯ଼ାବଶ୍ଯ଼କ ପୋଷକ ତତ୍ତ୍ୱର ଅଭାବକୁ ସଂଶୋଧନ କିମ୍ବା ପ୍ରତିରୋଧ କରିବା ପାଇଁ ବ୍ଯ଼ବହାର କରାଯାଇପାରିବ। ସର୍ବୋତ୍ତମ ଫଳାଫଳ ପାଇଁ, ସଂଲଗ୍ନତା ବୃଦ୍ଧି କରିବା ପାଇଁ ଏକ ପ୍ରାକୃତିକ ସର୍ଫ୍ଯ଼ାକ୍ଟାଣ୍ଟ ସହିତ ମିଶ୍ରଣ କରନ୍ତୁ ଏବଂ ରନ୍-ଅଫ୍ ପର୍ଯ୍ଯ଼ନ୍ତ ପତ୍ର ସ୍ପ୍ରେ କରନ୍ତୁ | \n 6 ମଲ୍ଚିଙ୍ଗ ପ୍ଲାଣ୍ଟ ଆର୍ଦ୍ରତା ସଂରକ୍ଷଣ କରିବାରେ ସାହାଯ୍ଯ଼ କରିବ ଏବଂ ଅଧିକ ସମାନ ଜଳ ଯୋଗାଣ ପ୍ରଦାନ କରିବ | \n 7 ଉଚ୍ଚ ନାଇଟ୍ରୋଜେନ୍ ସାର ବ୍ଯ଼ବହାରରୁ ଦୂରେଇ ରୁହନ୍ତୁ ଯାହା ଉଦ୍ଭିଦ ବୃଦ୍ଧିକୁ ତ୍ୱରାନ୍ୱିତ କରେ ଏବଂ ଉଦ୍ଭିଦ ଦ୍ୱାରା କ୍ଯ଼ାଲସିଯ଼ମ୍ ଗ୍ରହଣକୁ ହ୍ରାସ କରେ | ପ୍ଲାନେଟ୍ ନ୍ଯ଼ାଚୁରାଲରେ ସନ୍ତୁଳିତ ଜୈବିକ ସାରର ଏକ ବୃହତ ଚଯ଼ନ ଉପଲବ୍ଧ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ଏହା ହେଉଛି ବ୍ରାଉନ୍ ରଟ୍ (ମୋନିଲିନିଆ ଫ୍ରୁକ୍ଟିକୋଲା), ବାଦାମ, ଆପ୍ରିକାଟ୍, ଚେରି, ପୀଚ୍ ଏବଂ ପ୍ଲମର ଫୁଲ ଏବଂ ଫଳକୁ ପ୍ରଭାବିତ କରୁଥିବା ସବୁଠାରୁ ସାଧାରଣ ଫଙ୍ଗାଲ୍ ରୋଗ | ଏହା ମମି ହୋଇଥିବା ଫଳ (ଗଛ ଉପରେ ଏବଂ ଭୂମିରେ) ଏବଂ ସଂକ୍ରମିତ ଡାଳରେ ଅତ୍ଯ଼ଧିକ ଶୀତଳ ହୁଏ | \n \n ଏହି ରୋଗ ପ୍ରଥମେ ବସନ୍ତ ଋତୁରେ ଫୁଲକୁ ସଂକ୍ରମିତ କରେ ଏବଂ ପୁଣି ଛୋଟ ଛୋଟ ଶାଖାରେ ବୃଦ୍ଧି ପାଇ କର୍କଟ ସୃଷ୍ଟି କରେ ଯାହା କାଣ୍ଡକୁ ମାରି ଦେଇପାରେ। ଏହି ରୋଗ ଗୁରୁତର ହେଲେ ବହୁ ସଂଖ୍ଯ଼କ ଫୁଲ ଧାରଣ କରୁଥିବା କାଣ୍ଡ ମରିଯାଏ। ମୃତ ଫୁଲ ପ୍ରାଯ଼ତଃ ଗ୍ରୀଷ୍ମ ଋତୁରେ ସଂଲଗ୍ନ ହୋଇ ରହିଥାଏ। ବିକଶିତ କିମ୍ବା ପରିପକ୍ୱ ଫଳଗୁଡ଼ିକ ବୃତ୍ତାକାର କିମ୍ବା ବାଦାମୀ ଦାଗ ଦେଖାନ୍ତି ଯାହା ପୃଷ୍ଠରେ ଦ୍ରୁତ ଗତିରେ ବ୍ଯ଼ାପିଥାଏ ଏବଂ ସଙ୍କୁଚିତ ଅଞ୍ଚଳରେ ହାଲୁକା ଧୂସର ରଙ୍ଗର ବୀଜାଣୁ ସୃଷ୍ଟି ହୁଏ | ସଙ୍କୁଚିତ ତନ୍ତୁ ଅପେକ୍ଷାକୃତ ଦୃଢ଼ ଏବଂ ଶୁଖିଲା ରହିଥାଏ। \n \n ବ୍ରାଉନ୍ ରଟ୍ ବୀଜାଣୁ ପବନ, ବର୍ଷା ଏବଂ କୀଟପତଙ୍ଗ ଦ୍ୱାରା ଖୋଲା କିମ୍ବା ଖୋଲା ନଥିବା ଫୁଲ ଏବଂ ଛୋଟ ଅଙ୍କୁରକୁ ନିଆଯାଏ | ଯଦି ପାଣି ଥାଏ-ବର୍ଷା, ଶିଶିର କିମ୍ବା ଜଳ ନିଷ୍କାସନରୁ-ଫୁଲ ପୃଷ୍ଠରେ ବୀଜାଣୁ ଅଙ୍କୁରିତ ହୋଇପାରେ ଏବଂ ଗଛ ଭିତରକୁ ପ୍ରବେଶ କରିପାରେ | ରୋଗ ବିକାଶ ଏକ ବ୍ଯ଼ାପକ ତାପମାତ୍ରାର ପରିସର ମଧ୍ଯ଼ରେ ହୋଇଥାଏ ଏବଂ ଫୁଲଗୁଡ଼ିକ କଳିକା ଖୋଲିବା ସମଯ଼ରୁ ପାପଡ଼ି ପଡ଼ିବା ପର୍ଯ୍ଯ଼ନ୍ତ ସଂକ୍ରମିତ ହୋଇପାରନ୍ତି। ଅନୁକୂଳ ପରିସ୍ଥିତିରେ, ବ୍ରାଉନ୍ ରଟ୍ ଶୀଘ୍ର ବ୍ଯ଼ାପିଥାଏ ଏବଂ ଗଛ ଉପରେ ଏକ ସମ୍ପୂର୍ଣ୍ଣ ଫସଲ ସମ୍ପୂର୍ଣ୍ଣ ନଷ୍ଟ ହୋଇପାରେ | \n \n ଚିକିତ୍ସା \n 1 ସମ୍ଭବ ହେଲେ ପ୍ରତିରୋଧକ କିସମ ବାଛନ୍ତୁ। \n 2. ସଂକ୍ରମିତ ଉଦ୍ଭିଦ ଅଂଶଗୁଡ଼ିକର ତୁରନ୍ତ ଅପସାରଣ ଏବଂ ବିନାଶ ପ୍ରତ୍ଯ଼େକ ଗଛ ଏବଂ ଛୋଟ ବଗିଚାରେ ରୋଗର ଜୀବନ ଚକ୍ରକୁ ଭାଙ୍ଗିବାରେ ସାହାଯ୍ଯ଼ କରେ, ଏବଂ କ୍ଷତିକାରକ ସ୍ତରରୁ ବାଦାମୀ ରଟ୍ ରଖିବା ପାଇଁ ଯଥେଷ୍ଟ ହୋଇପାରେ | \n 3 ଗଛ ତଳେ ପଡ଼ି ରହିଥିବା କୌଣସି ଫଳ କିମ୍ବା ଭଗ୍ନାବଶେଷକୁ ସଂଗ୍ରହ କରି ବାହାର କରିବା ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ। ବାଯ଼ୁ ସଞ୍ଚାଳନକୁ ଉନ୍ନତ କରିବା ପାଇଁ ବେଳେବେଳେ ଗଛ କାଟି ଦିଅନ୍ତୁ | ଆହୁରି ମଧ୍ଯ଼, ଫୁଲ, ପତ୍ରପତ୍ରିକା ଏବଂ ଫଳକୁ ଭିଜାଇ ନଦେବା ପାଇଁ ତଳରୁ ପାଣି ଦିଅନ୍ତୁ | \n 5 ସମସ୍ତ କଟା ଏବଂ କ୍ଷତକୁ ବନ୍ଦ କରିବା ଏବଂ କୀଟପତଙ୍ଗ ଏବଂ ରୋଗ ଜୀବାଣୁଙ୍କଠାରୁ ରକ୍ଷା କରିବା ପାଇଁ ଟାଙ୍ଗଲଫୁଟ୍ ପ୍ରିନିଂ ସିଲର୍ ବ୍ଯ଼ବହାର କରନ୍ତୁ | \n 6 ବ୍ଯ଼ବହୃତ ହେବା ପାଇଁ ପ୍ରସ୍ତୁତ ତମ୍ବା ଫଙ୍ଗିସାଇଡ୍ କିମ୍ବା ସଲଫର୍ ପାଉଡର ସଂକ୍ରମିତ ଗଛରେ ସାପ୍ତାହିକ ଭାବରେ ପ୍ରଯ଼ୋଗ କରାଯିବା ଉଚିତ ଯେତେବେଳେ ଫୁଲ କେବଳ ଖୋଲିବାକୁ ଆରମ୍ଭ କରେ ଏବଂ ସମଗ୍ର ବୃଦ୍ଧି ଋତୁରେ ଜାରି ରହେ | ଯଦି ସମ୍ଭବ ହୁଏ, ତେବେ ସମଯ଼ ପ୍ରଯ଼ୋଗ ଦ୍ୱାରା 12 ଘଣ୍ଟା ଶୁଖିଲା ପାଗ ଲାଗୁ ହେବ। \n 7. ଅର୍ଗାନୋସାଇଡ୍ ® ପ୍ଲାଣ୍ଟ ଡକ୍ଟର ହେଉଛି ଏକ ପୃଥିବୀ-ଅନୁକୂଳ ସିଷ୍ଟମିକ୍ ଫଙ୍ଗିସାଇଡ୍ ଯାହା ଅଳଙ୍କାର, ଟର୍ଫ, ଫଳ ଏବଂ ଅଧିକ ଉପରେ ବହୁ ସଂଖ୍ଯ଼କ ରୋଗର ମୁକାବିଲା ପାଇଁ ସମଗ୍ର ଉଦ୍ଭିଦ ମାଧ୍ଯ଼ମରେ କାର୍ଯ୍ଯ଼ କରେ | ଏହି ବିନାଶକାରୀ ପଥର ଫଳ ସମସ୍ଯ଼ାର ମୁକାବିଲା ପାଇଁ ଏକ ପତ୍ର ସ୍ପ୍ରେ (1 ଟିସ୍ପୁନ/ଗ୍ଯ଼ାଲନ୍ ପାଣି) ଭାବରେ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ | \n 8 ଗନ୍ଧକ ଏବଂ ପାଇରେଥ୍ରିନ୍ ଯୁକ୍ତ, ବୋନାଇଡ୍ ® ଅର୍ଚାର୍ଡ ସ୍ପ୍ରେ କୀଟ ଆକ୍ରମଣ ଏବଂ ଫଙ୍ଗସ୍ ସମସ୍ଯ଼ା ପାଇଁ ଏକ ନିରାପଦ, ଏକ-ହିଟ୍ ସାନ୍ଦ୍ର | ସର୍ବୋତ୍ତମ ଫଳାଫଳ ପାଇଁ, ଋତୁର ପ୍ରାରମ୍ଭରେ ଏକ ସୁରକ୍ଷାତ୍ମକ ସ୍ପ୍ରେ (2.5 ଓଜ୍/ଗ୍ଯ଼ାଲନ୍) ଭାବରେ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ | ଯଦି ରୋଗ, କୀଟପତଙ୍ଗ କିମ୍ବା ଆର୍ଦ୍ର ପାଣିପାଗ ଥାଏ, ତେବେ ଗୋଟିଏ ଗ୍ଯ଼ାଲନ୍ ପାଣିରେ 5 ଆଉନ୍ସ ମିଶାନ୍ତୁ। ଗଛର ସମସ୍ତ ଅଂଶ, ବିଶେଷ କରି ନୂତନ ଅଙ୍କୁରକୁ ଭଲ ଭାବେ ସିଞ୍ଚନ କରନ୍ତୁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ଏହା ହେଉଛି କ୍ଲବ୍ର ମୂଳ। ଏହା ଅଧିକାଂଶ ବ୍ରାସିକା ଫସଲ (ବନ୍ଧାକୋବି, ବ୍ରୋକୋଲି, ଫୁଲକୋବି ଇତ୍ଯ଼ାଦି) କୁ ପ୍ରଭାବିତ କରିଥାଏ।), କ୍ଲବ୍ ରୁଟ୍ ହେଉଛି ଉତ୍ତର ଆମେରିକାର ଘରୋଇ ଉଦ୍ଯ଼ାନରେ ଏକ ଗୁରୁତର ଉଦ୍ଭିଦ ରୋଗ | ଏହା ମୃତ୍ତିକା-ବାହିତ ଫଙ୍ଗସ୍ ପ୍ଲାଜମୋଡିଓଫୋରା ବ୍ରାସିକା ଦ୍ୱାରା ହୋଇଥାଏ, ଯାହା ସମ୍ବେଦନଶୀଳ ଉଦ୍ଭିଦକୁ ମୂଳ କେଶ ମାଧ୍ଯ଼ମରେ ସଂକ୍ରମିତ କରିଥାଏ। ରୋଗାକ୍ରାନ୍ତ ମୂଳଗୁଡ଼ିକ ଫୁଲିଯାଏ, ଭୁଲ ଆକାର ଧାରଣ କରେ ଏବଂ ବିକୃତ (ସଙ୍ଗଠିତ) ହୋଇଥାଏ, ଯାହା ଅନେକ ସମଯ଼ରେ ଫାଟିଯାଏ ଏବଂ ସଡ଼ି ଯାଇଥାଏ। ଫଳସ୍ୱରୂପ, ଗଛଗୁଡ଼ିକ ପାଣି ଏବଂ ପୋଷକ ତତ୍ତ୍ୱକୁ ଠିକ୍ ଭାବେ ଅବଶୋଷିତ କରିବାରେ ଅସୁବିଧାର ସମ୍ମୁଖୀନ ହୋଇଥାନ୍ତି। \n \n ଦିନର ଉତ୍ତାପ ସମଯ଼ରେ ଗଛଗୁଡ଼ିକ ପ୍ରାଯ଼ତଃ ଖରାପ ଭାବରେ ବଢିଥାଏ ଏବଂ ମରିଯାଏ; ଶୀତଳ ରାତିରେ ଗଛଗୁଡ଼ିକ ପ୍ରାଯ଼ତଃ ପୁନର୍ଜୀବିତ ହୁଏ | ବାହ୍ଯ଼ ପତ୍ର ହଳଦିଆ, ବାଇଗଣୀ କିମ୍ବା ବାଦାମୀ ହୋଇପାରେ | କ୍ଲବ୍ ରୁଟ୍ ଉତ୍ପାଦନ ହ୍ରାସ କରିବ ଏବଂ ସମ୍ପୂର୍ଣ୍ଣ ଫସଲ ବିଫଳତା ସୃଷ୍ଟି କରିପାରେ | \n \n ଫଙ୍ଗଲ୍ ବୀଜାଣୁ ପବନ, ଜଳ ଏବଂ ବଗିଚା ଉପକରଣ ଦ୍ୱାରା ବିସ୍ତାର କରାଯାଇପାରେ | ରୋଗ ବିକାଶ ବିଭିନ୍ନ ପରିସ୍ଥିତିରେ ଘଟିପାରେ, କିନ୍ତୁ ଅତ୍ଯ଼ଧିକ ଆର୍ଦ୍ରତା, କମ୍ ମୃତ୍ତିକା pH ଏବଂ 64 ରୁ 77 ଡିଗ୍ରୀ ଫାରେନହାଇଟ ମଧ୍ଯ଼ରେ ମୃତ୍ତିକା ତାପମାତ୍ରା ଦ୍ୱାରା ଅନୁକୂଳ | ମୃତ୍ତିକାରେ ବୀଜାଣୁ 10 ବର୍ଷ ପର୍ଯ୍ଯ଼ନ୍ତ ବଞ୍ଚି ରହିପାରେ। \n \n ଚିକିତ୍ସା \n 1. ଫଙ୍ଗିସାଇଡ୍ ଏହି ମୃତ୍ତିକା-ବାସ କରୁଥିବା ଅଣୁଜୀବକୁ ଚିକିତ୍ସା କରିବ ନାହିଁ | \n 2. ସମ୍ଭବ ହେଲେ ପ୍ରତିରୋଧକ ଚାଷ ଚଯ଼ନ କରନ୍ତୁ। \n 3. ଏକ ପରିଷ୍କାର ବଗିଚା ଏବଂ ଘୂର୍ଣ୍ଣାଯ଼ମାନ ଫସଲ ରଖି ଏହି ରୋଗକୁ ରୋକିବା ପାଇଁ ଚେଷ୍ଟା କରନ୍ତୁ। \n 4. ମନେରଖନ୍ତୁ ଯେ ରୋଗ ବୀଜାଣୁ ମାଟିରେ 20 ବର୍ଷ ପର୍ଯ୍ଯ଼ନ୍ତ ରହିପାରେ | ଯଦି କ୍ଲବ୍ ରୁଟ୍ ଉପସ୍ଥିତ ଅଛି, ତେବେ ଆପଣ ମୃତ୍ତିକାକୁ ସୌରକରଣ କରିବାକୁ ଚାହିଁବେ | * \n 5 ସମ୍ବେଦନଶୀଳ ଆଗାଛାକୁ ନିଯ଼ନ୍ତ୍ରଣ କରନ୍ତୁ-ସୋରିଷ, ମୂଳା, ମେଷପାଳକଙ୍କ ପର୍ସ-ଯାହା ରୋଗର ସମ୍ଭାବ୍ଯ଼ ଗଠନକୁ ହ୍ରାସ କରିବା ପାଇଁ ସଂକ୍ରମିତ ହୋଇପାରେ | \n 6 ବ୍ଯ଼ବହାର ପରେ ସଂକ୍ରମିତ ଗଛଗୁଡ଼ିକୁ ଯତ୍ନର ସହ ବାହାର କରନ୍ତୁ ଏବଂ ବଗିଚା ଉପକରଣଗୁଡ଼ିକୁ ଜୀବାଣୁମୁକ୍ତ କରନ୍ତୁ (ଗୋଟିଏ ଅଂଶକୁ 4 ଭାଗ ପାଣିରେ ବ୍ଲିଚ୍ କରନ୍ତୁ)। ଶରତ ଋତୁରେ ଆପଣଙ୍କ ବଗିଚାରେ ଚିଙ୍ଗୁଡ଼ି ଖୋଳ କିମ୍ବା ଡୋଲୋମାଇଟ୍ ଚୂନ ମିଶାଇ ଆପଣଙ୍କ ମାଟିର pH କୁ ଅଧିକ କ୍ଷାରୀଯ଼ 7.2 କୁ ବୃଦ୍ଧି କରନ୍ତୁ। ଅନେକ ସମଯ଼ରେ ପି. ଏଚ୍. ଯାଞ୍ଚ କରିବା ପାଇଁ ସରଳ ଏବଂ ସୁଲଭ ମୂଲ୍ଯ଼ର ମୃତ୍ତିକା ପରୀକ୍ଷା କିଟ୍ ଉପଲବ୍ଧ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ଏହା ହେଉଛି ମକା ସ୍ମଟ୍। ପ୍ରାଯ଼ତଃ ବଗିଚା ବଗିଚା ଏବଂ ଛୋଟ ଛୋଟ କ୍ଷେତରେ ଦେଖିବାକୁ ମିଳୁଥିବା ମକା ସ୍ମଟ୍ ଫଙ୍ଗସ୍ ଉସ୍ତିଲାଗୋ ଜିଏ ଦ୍ୱାରା ହୋଇଥାଏ ଏବଂ କାଣ୍ଡ, ପତ୍ର, ଟାସେଲ୍ କିମ୍ବା କାନରେ ଦେଖାଯାଇପାରେ | ଲକ୍ଷଣଗୁଡ଼ିକ ସାଧାରଣତଃ ସେତେବେଳେ ଦେଖାଯାଏ ଯେତେବେଳେ କାନରେ ଛତୁ ଭଳି ଅର୍ବୁଦ କିମ୍ବା ଗଲ୍ସ ସୃଷ୍ଟି ହୋଇଥାଏ। ଏହି \"ଫୁଲା\" ଛୋଟ, ଧଳା-ଧୂସର ଅନିଯ଼ମିତତା ଭାବରେ ଆରମ୍ଭ ହୁଏ ଯାହା ବିସ୍ତାର ହୁଏ ଏବଂ ବୀଜାଣୁରେ ଭର୍ତ୍ତି ହେବା ସହିତ କଳା ହୋଇଯାଏ | କାନର ଗଲ୍ସ 4 ରୁ 5 ଇଞ୍ଚ ବ୍ଯ଼ାସ ପର୍ଯ୍ଯ଼ନ୍ତ ବଢ଼ିପାରେ ଏବଂ ହଜାର ହଜାର ବୀଜାଣୁ ମୁକ୍ତ କରିପାରେ | ଏହି ଫଙ୍ଗାଲ୍ ବୀଜାଣୁଗୁଡିକ ନୂତନ ଉଦ୍ଭିଦକୁ ସଂକ୍ରମିତ କରିବା ପାଇଁ ଯଥେଷ୍ଟ ଦୂରତା ପାଇଁ ପବନ ଦ୍ୱାରା ପ୍ରବାହିତ ହୁଏ | ପତ୍ରରେ ଥିବା ଗଣ୍ଠିଗୁଡ଼ିକ ଛୋଟ ହୋଇ ରହିଥାଏ ଏବଂ ଶେଷରେ କଠିନ ଏବଂ ଶୁଖିଲା ହୋଇଯାଏ | \n \n ଉଦ୍ଯ଼ାନର ଭଗ୍ନାବଶେଷ ଏବଂ ମାଟିରେ ମକା ସ୍ମଟ୍ ଓଭରୱିଣ୍ଟର | ଏହା ପବନ, ବର୍ଷା ଏବଂ ଜଳସେଚନ ଦ୍ୱାରା ବହନ କରାଯାଇଥାଏ ଏବଂ ଗରମ, ଶୁଖିଲା ପାଗରେ ଏହା ସବୁଠାରୁ ଭଲ କାମ କରିଥାଏ। ବୀଜାଣୁଗୁଡ଼ିକ 5ରୁ 7 ବର୍ଷ ପର୍ଯ୍ଯ଼ନ୍ତ କାର୍ଯ୍ଯ଼କ୍ଷମ ରହିପାରେ। ବିଭିନ୍ନ ଆଘାତରୁ କ୍ଷତ, ଚାଷ ଏବଂ ପ୍ରବାହିତ ମାଟିରୁ ଘର୍ଷଣ ସମେତ, ଫଙ୍ଗସ୍ ଉଦ୍ଭିଦରେ ପ୍ରବେଶ କରିବା ପାଇଁ ପଏଣ୍ଟ ପ୍ରଦାନ କରେ | \n \n ଚିକିତ୍ସା \n 1 ଯେତେବେଳେ ଉପଲବ୍ଧ ହେବ, ରୂପା ରାଜା, ଫାଣ୍ଟାସିଆ, ଉଜ୍ଜ୍ୱଳ ଏବଂ ସେନେକା ସେନସେସନ ଭଳି ସର୍ବୋତ୍ତମ ପ୍ରତିରୋଧକ କିସମ ବାଛନ୍ତୁ। ପଡ଼ିଆ ବଗିଚାରେ, କଳା ଫଙ୍ଗଲ୍ ବୀଜାଣୁ ମୁକ୍ତ ହେବା ପୂର୍ବରୁ ଗଲ୍ ସଂଗ୍ରହ ଏବଂ ନଷ୍ଟ କରିବାକୁ ପରାମର୍ଶ ଦିଆଯାଇଛି | ଏହା ଉପଲବ୍ଧ ଫଙ୍ଗାଲ୍ ବୀଜାଣୁ ସଂଖ୍ଯ଼ାକୁ ସୀମିତ କରିବ ଏବଂ ରୋଗ-ଚକ୍ରକୁ ଭାଙ୍ଗିବାରେ ସାହାଯ୍ଯ଼ କରିବ | \n 3 ଚାଷ ସମଯ଼ରେ ମୂଳ, କାଣ୍ଡ ଏବଂ ପତ୍ରର ଆଘାତକୁ ଏଡ଼ାଇ ସଂକ୍ରମଣ ପଏଣ୍ଟ ହ୍ରାସ କରନ୍ତୁ | \n 4 ମଣ୍ଟେରୀ ® ଗାର୍ଡେନ୍ କୀଟ ସ୍ପ୍ରେ କିମ୍ବା ଅନ୍ଯ଼ାନ୍ଯ଼ ଜୈବିକ କୀଟନାଶକ ସହିତ ମକା ବୋରର୍ ପରି କୀଟପତଙ୍ଗରୁ କ୍ଷତିକୁ ରୋକନ୍ତୁ | \n 5 କବକନାଶକ ଏକ ପ୍ରଭାବଶାଳୀ ନିଯ଼ନ୍ତ୍ରଣ ବିକଳ୍ପ ନୁହେଁ କାରଣ ଏହି ରୋଗ ଏତେ ବ୍ଯ଼ାପକ ଏବଂ ମାଟିରେ ବର୍ଷ ବର୍ଷ ଧରି ରହିପାରେ | \n 6 ଉଚ୍ଚ ନାଇଟ୍ରୋଜେନ୍ ସାର ରୋଗର ଗମ୍ଭୀରତାକୁ ବଢ଼ାଇପାରେ-ପନିପରିବା ବଗିଚାରେ ଏକ ସନ୍ତୁଳିତ ଜୈବିକ ସାର ବ୍ଯ଼ବହାର କରନ୍ତୁ। ଅମଳ ପରେ ସମସ୍ତ ବଗିଚା ଆବର୍ଜନା ଅପସାରଣ ଏବଂ ନଷ୍ଟ କରନ୍ତୁ ଏବଂ ପରବର୍ତ୍ତୀ ବର୍ଷ ଫସଲ ଚକ୍ର ଅଭ୍ଯ଼ାସ କରନ୍ତୁ | \n 8 ସଂକ୍ରମିତ ଗଛର ଅଂଶକୁ ବ୍ଯ଼ାଗରେ ରଖନ୍ତୁ କିମ୍ବା ପୋଡ଼ି ଦିଅନ୍ତୁ-କମ୍ପୋଷ୍ଟ କରନ୍ତୁ ନାହିଁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ଏହା ହେଉଛି କ୍ରାଉନ୍ ଗାଲ୍, ମାଟି-ବାହିତ ଜୀବାଣୁ ଏଗ୍ରୋବ୍ଯ଼ାକ୍ଟେରିଯ଼ମ୍ ଟୁମେଫାସିଏନ୍ସ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଥିବା ଏକ ସାଧାରଣ ଉଦ୍ଭିଦ ରୋଗ | ଏହା ସମଗ୍ର ବିଶ୍ୱରେ ଦେଖାଯାଏ ଏବଂ ଅଙ୍ଗୁର, ରାସ୍ପବେରୀ, ବ୍ଲାକ୍ବେରି ଏବଂ ଗୋଲାପ ସମେତ କାଠଯୁକ୍ତ ଝୋପଝାଡ଼ ଏବଂ ଔଷଧୀଯ଼ ଉଦ୍ଭିଦରେ ଦେଖାଯାଏ | \n \n କ୍ରାଉନ୍ ଗଲ୍ ଲକ୍ଷଣଗୁଡ଼ିକ ମଧ୍ଯ଼ରେ ଗୋଲ, ୱାର୍ଟ ପରି ବୃଦ୍ଧି ଅନ୍ତର୍ଭୁକ୍ତ-2 ଇଞ୍ଚ କିମ୍ବା ବ୍ଯ଼ାସରେ ବଡ-ଯାହା ମୃତ୍ତିକା ରେଖା ଉପରେ କିମ୍ବା ଠିକ୍ ଉପରେ, କିମ୍ବା ନିମ୍ନ ଶାଖା ଏବଂ କାଣ୍ଡରେ ଦେଖାଯାଏ | ଅନେକ ଗୁଳୁଗୁଳି ଥିବା ଉଦ୍ଭିଦଗୁଡ଼ିକ ପାଣି ଏବଂ ପୋଷକ ତତ୍ତ୍ୱକୁ କାଣ୍ଡ ଉପରକୁ ଉଠାଇବାରେ ଅସମର୍ଥ ହୋଇପାରନ୍ତି ଏବଂ ଦୁର୍ବଳ, ଅବିକଶିତ ଏବଂ ଅନୁତ୍ପାଦକ ହୋଇପାରନ୍ତି। ପିତ୍ତ ତନ୍ତୁ ବିକଶିତ କରିବା ଦ୍ୱାରା ଛୋଟ ଗଛଗୁଡ଼ିକୁ ମାରି ଦିଆଯାଇପାରେ। \n \n କ୍ରାଉନ୍ ଗାଲ୍ ପାଇଁ ଦାଯ଼ୀ ବ୍ଯ଼ାକ୍ଟେରିଆ ମାଟିରେ ଅନେକ ବର୍ଷ ଧରି ରହିପାରେ ଏବଂ ଯେତେବେଳେ ଗଲ୍ ଆର୍ଦ୍ରତାରେ ପରିପୂର୍ଣ୍ଣ ହୋଇଯାଏ କିମ୍ବା ପୁରୁଣା ଗଲ୍ ଅପଘଟିତ ହୁଏ ସେତେବେଳେ ମୁକ୍ତ ହୁଏ | ସମ୍ବେଦନଶୀଳ ଉଦ୍ଭିଦ ତାଜା କ୍ଷତ କିମ୍ବା ଘର୍ଷଣ ଦ୍ୱାରା ସଂକ୍ରମିତ ହୁଏ, ଯେଉଁଥିରୁ ଅନେକ ଛାଣିବା, ହିମାଯ଼ିତ ଆଘାତ, ମୃତ୍ତିକା କୀଟପତଙ୍ଗ, ଚାଷ ଏବଂ ଅନ୍ଯ଼ାନ୍ଯ଼ କାରଣର ପରିଣାମ ଯାହା ଉଦ୍ଭିଦକୁ କ୍ଷତି ପହଞ୍ଚାଇପାରେ | ନର୍ସରୀ ଷ୍ଟକ୍ ପ୍ରାଯ଼ତଃ ଗ୍ରାଫ୍ଟିଂ ଏବଂ ବଡିଂ ସ୍କାର୍ ମାଧ୍ଯ଼ମରେ ସଂକ୍ରମିତ ହୁଏ | \n \n ଚିକିତ୍ସା \n 1 ସମ୍ଭବ ହେଲେ ପ୍ରତିରୋଧକ ଚାଷ ଚଯ଼ନ କରନ୍ତୁ ଏବଂ ଏକ ପ୍ରତିଷ୍ଠିତ ନର୍ସରୀରୁ ଗଛ କିଣନ୍ତୁ | \n 2 ଫୁଲା କିମ୍ବା ଫୁଲିବାର ଲକ୍ଷଣ ଦେଖାଇଥିବା ଗଛ କିଣନ୍ତୁ ନାହିଁ | \n 3 ସମ୍ବେଦନଶୀଳ ଉଦ୍ଭିଦଗୁଡ଼ିକର ଯତ୍ନ ନେବା ସମଯ଼ରେ, ମୃତ୍ତିକା ସଂସ୍ପର୍ଶରେ ଆସିପାରୁଥିବା କ୍ଷତ କିମ୍ବା କଟା କ୍ଷତକୁ ଏଡ଼ାଇ ଯାଆନ୍ତୁ। \n 4. ଷ୍ଟ୍ରିଙ୍ଗ ଟ୍ରିମର କ୍ଷତି ଠାରୁ ରକ୍ଷା ପାଇବା ପାଇଁ ଏବଂ ଆପଣଙ୍କ ବଗିଚା ଉପକରଣଗୁଡ଼ିକୁ ସଫା ରଖିବା ପାଇଁ 'ଟ୍ରି ରାପ୍' ବ୍ଯ଼ବହାର କରନ୍ତୁ। ପ୍ରାକୃତିକ ବର୍ଲାପ୍ ସହିତ ଶୀତକାଳୀନ ସୁରକ୍ଷା ପ୍ରଦାନ କରନ୍ତୁ ଯାହା ଦ୍ୱାରା ଛାଲ ଫାଟିଯାଏ ନାହିଁ | \n 6 ଅନେକ କ୍ଷେତ୍ରରେ, ବିଦ୍ଯ଼ମାନ ଗଲ୍କୁ ଏକ ତୀକ୍ଷ୍ଣ କଟା ଛୁରୀ ଦ୍ୱାରା ଅପସାରଣ କରାଯାଇପାରିବ | ସଂକ୍ରମିତ ଉଦ୍ଭିଦ କୋଷକୁ ନଷ୍ଟ କରିଦିଅନ୍ତୁ ଏବଂ କ୍ଷତକୁ କାଟିବା ସିଲର୍ ଦ୍ୱାରା ଚିକିତ୍ସା କରନ୍ତୁ। ଯଦି ଗଛଟି ପୁନରୁଦ୍ଧାର ନହୁଏ, ଏହାକୁ ବାହାର କରି ନଷ୍ଟ କରିଦିଅନ୍ତୁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ଏହା ଧୂସର ଛାଞ୍ଚ (ବୋଟ୍ରିଟିସ୍ ସିନେରିଆ)। ବିଭିନ୍ନ ପ୍ରକାରର ଉଦ୍ଭିଦରେ (ଉଲ୍ଲେଖ କରିବାକୁ ବହୁତ ଅଧିକ) ଦେଖାଯାଏ, ଧୂସର ଛାଞ୍ଚ ହେଉଛି ଏକ ଫଙ୍ଗାଲ୍ ରୋଗ ଯାହା ବଗିଚା ମାଧ୍ଯ଼ମରେ ଶୀଘ୍ର ଯାତ୍ରା କରେ, ବିଶେଷ କରି ଆର୍ଦ୍ର, ଥଣ୍ଡା ରୁ ମୃଦୁ ପାଣିପାଗ ସମଯ଼ରେ | ରୋଗ ଲକ୍ଷଣଗୁଡ଼ିକ ପତ୍ର, କାଣ୍ଡ, ଫୁଲ ଏବଂ ଉତ୍ପାଦ ଉପରେ ଧୂସର ରଙ୍ଗର ନରମ, ମସୃଣ ଦାଗ ଭାବରେ ଦେଖାଯାଏ | ବିଶେଷ କରି ଯଦି ଆର୍ଦ୍ରତା ଅଧିକ ଥାଏ, ତେବେ ଦାଗଗୁଡ଼ିକ ଧୂସର ଫଙ୍ଗସ୍ ବୀଜାଣୁ ଦ୍ୱାରା ଆଚ୍ଛାଦିତ ହୋଇପାରେ। ଫଳ କିମ୍ବା ଉଦ୍ଭିଦ ସଙ୍କୁଚିତ ଏବଂ ସଙ୍କୁଚିତ ହୁଏ ଏବଂ ପ୍ରାଯ଼ତଃ କଳା, ପଥର ପରି ସ୍କ୍ଲେରୋଟିଆ-କଠିନ ଫଙ୍ଗାଲ୍ ଫିଲାମେଂଟ୍ର ଏକ କମ୍ପାକ୍ଟ ମାସ୍-ସଙ୍କୁଚିତ ଅଂଶ ତଳେ ବିକଶିତ ହୁଏ | \n \n ଧୂସର ଛାଞ୍ଚ ପ୍ରାଯ଼ତଃ ମୃତ୍ତିକା ପୃଷ୍ଠ ନିକଟରେ କିମ୍ବା ଉଦ୍ଭିଦ କ୍ଯ଼ାନୋପିର ଘନ ଅଞ୍ଚଳରେ ଦେଖାଯାଏ | ଏହା ପ୍ରଥମେ ଶୁଖିଲା ଫୁଲରେ ବିକଶିତ ହୁଏ, ତା 'ପରେ ଗଛର ଅନ୍ଯ଼ ଅଂଶକୁ ଶୀଘ୍ର ବ୍ଯ଼ାପିଥାଏ | ଏହି ରୋଗ ଷ୍ଟୋରେଜ୍ ଅଞ୍ଚଳରେ ମଧ୍ଯ଼ ଘଟିପାରେ ଯାହା ଅମଳ ହୋଇଥିବା ଫଳ ଏବଂ ପନିପରିବାକୁ ନଷ୍ଟ କରିଦେଇଥାଏ | \n \n ବୋଟ୍ରିଟିସ୍ ବ୍ଲାଇଟ୍ ଗଛ ଉପରେ, ମାଟିରେ କିମ୍ବା ଉପରେ, ଏବଂ ସ୍କ୍ଲେରୋଟିଆ ଭାବରେ ଓଭରୱିଣ୍ଟର କରେ | ଯେତେବେଳେ ସ୍ଥିତି ଅନୁକୂଳ ହୁଏ ସେତେବେଳେ ବୀଜାଣୁ ବିକଶିତ ହୁଏ, ଏବଂ ପବନ କିମ୍ବା ସ୍ପ୍ଲାସିଂ ପାଣି ଦ୍ୱାରା ଫୁଲ କିମ୍ବା ଛୋଟ ପତ୍ର ଉପରେ ସ୍ଥାନାନ୍ତରିତ ହୁଏ, ଯେଉଁଠାରେ ସେମାନେ ଅଙ୍କୁରିତ ହୁଅନ୍ତି ଏବଂ ଉଦ୍ଭିଦରେ ପ୍ରବେଶ କରନ୍ତି | ବୀଜାଣୁଗୁଡ଼ିକ ଅଙ୍କୁରିତ ହେବା ପାଇଁ ଥଣ୍ଡା ତାପମାତ୍ରା (45-60 F.) ଏବଂ ଉଚ୍ଚ ଆର୍ଦ୍ରତା (93 ପ୍ରତିଶତ ଏବଂ ତା 'ଠାରୁ ଅଧିକ) ଆବଶ୍ଯ଼କ କରିଥାଏ। ଅଙ୍କୁରିତ ବୀଜାଣୁ କ୍ୱଚିତ୍ ସିଧାସଳଖ ସବୁଜ, ସୁସ୍ଥ ଟିସ୍ଯ଼ୁରେ ପ୍ରବେଶ କରନ୍ତି, କିନ୍ତୁ ବଢୁଥିବା ଗଛର କ୍ଷତ ମାଧ୍ଯ଼ମରେ ପ୍ରବେଶ କରିପାରନ୍ତି | କାଟିଂ ବିଶେଷ କରି ସଂକ୍ରମଣ ପ୍ରତି ସମ୍ବେଦନଶୀଳ | \n \n ଚିକିତ୍ସା \n 1। ଗଛଗୁଡ଼ିକ ମଧ୍ଯ଼ରେ ବାଯ଼ୁ ସଞ୍ଚାଳନକୁ ଉନ୍ନତ କରିବା ପାଇଁ ଗଛଗୁଡ଼ିକୁ ଛାଣି କିମ୍ବା ଷ୍ଟେକ କରନ୍ତୁ। ପ୍ରତ୍ଯ଼େକ କାଟିବା ପରେ ଆପଣଙ୍କ ଛାଣିବା ଉପକରଣକୁ (ଗୋଟିଏ ଭାଗ ବ୍ଲିଚ୍ ସହିତ 4 ଭାଗ ପାଣି) ଜୀବାଣୁମୁକ୍ତ କରିବା ନିଶ୍ଚିତ କରନ୍ତୁ। ଯଦି ଘର ଭିତରେ ବଢ଼ୁଛି, ବାଯ଼ୁ ପ୍ରବାହକୁ ଉନ୍ନତ କରିବା ପାଇଁ ଏକ ଛୋଟ କ୍ଲିପ୍-ଅନ୍ ଫ୍ଯ଼ାନ୍ ବ୍ଯ଼ବହାର କରନ୍ତୁ | \n 3 ଗଛ ତଳେ ଥିବା ମାଟିକୁ ସଫା ରଖନ୍ତୁ ଏବଂ କୌଣସି ବିଚ୍ଛୁରିତ ଭଗ୍ନାବଶେଷକୁ ସଂଗ୍ରହ କରନ୍ତୁ। \n 4 ଗଛ ତଳେ ଭଲ ପରିମାଣର ଜୈବିକ କମ୍ପୋଷ୍ଟ କିମ୍ବା ମଲ୍ଚ ମିଶାନ୍ତୁ। ମଲ୍ଚସ୍ ଫଙ୍ଗାଲ୍ ବୀଜାଣୁଗୁଡ଼ିକୁ ଫୁଲ ଏବଂ ପତ୍ର ଉପରେ ପୁନର୍ବାର ଛିଞ୍ଚିବା ଠାରୁ ରୋକିବ | \n 5 ସକାଳେ ପାଣି ଦିଅନ୍ତୁ, କିମ୍ବା ଦିନରେ ଗଛକୁ ଶୁଖିବାକୁ ସମଯ଼ ଦେବା ପାଇଁ ଏକ ଭିଜା ନଳୀ ବ୍ଯ଼ବହାର କରନ୍ତୁ | \n 6 ସଂକ୍ରମିତ ଉଦ୍ଭିଦ ପତ୍ର କିମ୍ବା କାଣ୍ଡକୁ କମ୍ପୋଷ୍ଟ କରନ୍ତୁ ନାହିଁ, ଏବଂ ଶରତ ଋତୁରେ ବଗିଚା ଅଞ୍ଚଳକୁ ଭଲ ଭାବରେ ସଫା କରନ୍ତୁ ଯାହା ଦ୍ୱାରା ଫଙ୍ଗାଲ୍ ବୀଜାଣୁ ପାଇଁ ଶୀତକାଳୀନ ସ୍ଥାନ ହ୍ରାସ ପାଇବ | \n 7 ତମ୍ବା-ସୋପ୍ ଫଙ୍ଗିସାଇଡ୍ ଉଦ୍ଭିଦକୁ ରୋଗ ବୀଜାଣୁରୁ ରକ୍ଷା କରିବାରେ ସାହାଯ୍ଯ଼ କରିବ | ଫୁଲର ଆରମ୍ଭରେ ଲଗାନ୍ତୁ ଏବଂ ଅମଳ ପର୍ଯ୍ଯ଼ନ୍ତ ପ୍ରତି 7-10 ଦିନରେ ଜାରି ରଖନ୍ତୁ | ଯେତେବେଳେ ପାଣିପାଗ ପୂର୍ବାନୁମାନ ଦୀର୍ଘକାଳୀନ ଶୀତଳ, ଆର୍ଦ୍ର ପାଣିପାଗ ପୂର୍ବାନୁମାନ କରେ ସେତେବେଳେ ଫଙ୍ଗିସାଇଡାଲ ସ୍ପ୍ରେ ବିଶେଷ ଭାବରେ ଆବଶ୍ଯ଼କ ହୁଏ | \n 8 ବୋଟ୍ରାଇଟିସ୍ ବ୍ଲାଇଟ୍ ସମେତ ଅଧିକାଂଶ ଫଙ୍ଗାଲ୍ ରୋଗକୁ ସେରେନାଡ୍ ଗାର୍ଡେନ୍ ସହିତ ସୁରକ୍ଷିତ ଭାବରେ ଚିକିତ୍ସା କରନ୍ତୁ | ଏହି ବ୍ଯ଼ାପକ ଜୈବ-କବକନାଶକ ବ୍ଯ଼ାସିଲସ୍ ସବ୍ଟିଲିସ୍ ର ଏକ ପେଟେଣ୍ଟ ଷ୍ଟ୍ରେନ୍ ବ୍ଯ଼ବହାର କରେ ଯାହା ଜୈବିକ ବ୍ଯ଼ବହାର ପାଇଁ ପଞ୍ଜୀକୃତ | ସର୍ବୋପରି, ସେରନେଡ୍ ମହୁମାଛି ଏବଂ ଉପକାରୀ କୀଟପତଙ୍ଗ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ବିଷାକ୍ତ ନୁହେଁ | \n 9 ଜୈବିକ ବ୍ଯ଼ବହାର ପାଇଁ ଅନୁମୋଦିତ ଏକ ଜୈବିକ କବକନାଶକ ମାଇକୋଷ୍ଟପ୍ ଏହି ରୋଗକୁ ଦମନ କରିଛି। ସମ୍ବେଦନଶୀଳ ପତ୍ର, ଫୁଲ ଏବଂ ଫଳକୁ ସିଧାସଳଖ ସ୍ପ୍ରେ (5 ଗ୍ରାମ/50 ଲିଟର ପାଣି) କରନ୍ତୁ। ପ୍ରତି 2 ରୁ 3 ସପ୍ତାହରେ, କିମ୍ବା ଆବଶ୍ଯ଼କ ଅନୁଯାଯ଼ୀ ରୋଗ ଚାପ ଉପରେ ନିର୍ଭର କରି ପ୍ରଯ଼ୋଗ କରନ୍ତୁ। ଗ୍ରୀନ୍ କ୍ଯ଼ୁର ଫଙ୍ଗିସାଇଡ୍ ରେ ପୋଟାସିଯ଼ମ୍ ବାଇକାର୍ବୋନେଟ୍ ର ଏକ ପେଟେଣ୍ଟ ଫର୍ମୁଲା ଅଛି-ସାଧାରଣତଃ ଖାଦ୍ଯ଼ ଉତ୍ପାଦରେ ବ୍ଯ଼ବହୃତ ହୁଏ-ଯାହା ଯୋଗାଯୋଗରେ ଅନେକ ଉଦ୍ଭିଦ ରୋଗକୁ ମାରିଥାଏ ଏବଂ 2 ସପ୍ତାହ ପର୍ଯ୍ଯ଼ନ୍ତ ଅବଶିଷ୍ଟ ସୁରକ୍ଷା ପ୍ରଦାନ କରେ | ରୋଗର ପ୍ରଥମ ଲକ୍ଷଣରେ, 1-2 ଚାମଚ/ଗ୍ଯ଼ାଲନ୍ ପାଣି ମିଶାନ୍ତୁ ଏବଂ ଗଛର ସମସ୍ତ ଉନ୍ମୁକ୍ତ ପୃଷ୍ଠରେ ଲଗାନ୍ତୁ | ସର୍ବୋତ୍ତମ ସୁରକ୍ଷା ପାଇଁ, 1-2 ସପ୍ତାହ ବ୍ଯ଼ବଧାନରେ ପୁନରାବୃତ୍ତି କରନ୍ତୁ ଯେ ପର୍ଯ୍ଯ଼ନ୍ତ ରୋଗ ବିକାଶ ପାଇଁ ପରିସ୍ଥିତି ଆଉ ଅନୁକୂଳ ନୁହେଁ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "ଏହି ରୋଗ କ \"ଣ (ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦିଅନ୍ତୁ) ଏବଂ ଏହାର ଚିକିତ୍ସା କିପରି କରାଯିବ?",
+        "answer": "ଏହା ପ୍ରାରମ୍ଭିକ ରୋଗ। ଟମାଟୋ ଏବଂ ଆଳୁ ଗଛରେ ସାଧାରଣ, ଆଲ୍ଟରନେରିଆ ସୋଲାନି ଫଙ୍ଗସ୍ ଦ୍ୱାରା ପ୍ରାରମ୍ଭିକ ରୋଗ ହୁଏ ଏବଂ ସମଗ୍ର ଆମେରିକାରେ ହୁଏ | ଲକ୍ଷଣଗୁଡ଼ିକ ପ୍ରଥମେ ତଳ, ପୁରୁଣା ପତ୍ରରେ ଛୋଟ ବାଦାମୀ ଦାଗ ଭାବରେ ଘନୀଭୂତ ବଲଯ଼ ସହିତ ଦେଖାଯାଏ ଯାହା ଏକ \"ଷଣ୍ଢର ଆଖି\" ଢାଞ୍ଚା ଗଠନ କରେ | ଏହି ରୋଗ ପରିପକ୍ୱ ହେବା ସହିତ, ଏହା ପତ୍ର ପୃଷ୍ଠରେ ବାହ୍ଯ଼ ଆଡକୁ ବ୍ଯ଼ାପିଥାଏ, ଯାହା ଫଳରେ ଏହା ହଳଦିଆ ହୋଇଯାଏ, ଶୁଖିଲା ହୋଇଯାଏ ଏବଂ ମରିଯାଏ | ଶେଷରେ ଗଛର କାଣ୍ଡ, ଫଳ ଏବଂ ଉପର ଭାଗ ସଂକ୍ରମିତ ହୋଇଯିବ। ଫସଲ ଗୁରୁତର ଭାବେ କ୍ଷତିଗ୍ରସ୍ତ ହୋଇପାରେ। \n \n ପ୍ରାରମ୍ଭିକ ବ୍ଲାଇଟ୍ ସଂକ୍ରମିତ ଉଦ୍ଭିଦ ତନ୍ତୁ ଉପରେ ଅତ୍ଯ଼ଧିକ ଶୀତଳ ହୁଏ ଏବଂ ବର୍ଷା, ଜଳସେଚନ, କୀଟପତଙ୍ଗ ଏବଂ ବଗିଚା ଉପକରଣ ଛିଞ୍ଚିବା ଦ୍ୱାରା ବ୍ଯ଼ାପିଥାଏ | ଏହି ରୋଗ ଟମାଟୋ ମଞ୍ଜି ଏବଂ ଆଳୁ କନ୍ଦରେ ମଧ୍ଯ଼ ହୋଇଥାଏ। ଏହାର ନାମ ସତ୍ତ୍ୱେ, ପ୍ରାରମ୍ଭିକ ରୋଗ ବୃଦ୍ଧି ଋତୁରେ ଯେକୌଣସି ସମଯ଼ରେ ଘଟିପାରେ | ଉଚ୍ଚ ତାପମାତ୍ରା (80-85 °F.) ଏବଂ ଆର୍ଦ୍ର, ଆର୍ଦ୍ର ପରିସ୍ଥିତି ଏହାର ଦ୍ରୁତ ବିସ୍ତାରକୁ ପ୍ରୋତ୍ସାହିତ କରେ | ଅନେକ କ୍ଷେତ୍ରରେ, ଖରାପ ପୁଷ୍ଟିକର କିମ୍ବା ଚାପଗ୍ରସ୍ତ ଉଦ୍ଭିଦ ଉପରେ ଆକ୍ରମଣ କରାଯାଇଥାଏ। \n \n ଚିକିତ୍ସା \n ବାଯ଼ୁ ସଞ୍ଚାଳନରେ ଉନ୍ନତି ଆଣିବା ଏବଂ ଫଙ୍ଗସ୍ ସମସ୍ଯ଼ାକୁ ହ୍ରାସ କରିବା ପାଇଁ ଛାଣି କିମ୍ବା ଷ୍ଟକ୍ ପ୍ଲାଣ୍ଟ୍ କରନ୍ତୁ। \n ପ୍ରତ୍ଯ଼େକ କାଟିବା ପରେ ଆପଣଙ୍କ ଛାଣିବା କ୍ଯ଼ାରିଗୁଡ଼ିକୁ (ଗୋଟିଏ ଭାଗ ବ୍ଲିଚ୍ ସହିତ 4 ଭାଗ ପାଣି) ଜୀବାଣୁମୁକ୍ତ କରିବା ନିଶ୍ଚିତ କରନ୍ତୁ। \n ଗଛ ତଳେ ଥିବା ମାଟିକୁ ସଫା ରଖନ୍ତୁ ଏବଂ ବଗିଚାର ଭଗ୍ନାବଶେଷରୁ ମୁକ୍ତ ରଖନ୍ତୁ। ଜୈବ ସାରର ଏକ ସ୍ତର ମିଶାନ୍ତୁ, ଯାହାଦ୍ୱାରା ବୀଜାଣୁଗୁଡ଼ିକ ବୃକ୍ଷଲତା ଉପରେ ପୁନର୍ବାର ଛିଞ୍ଚି ନପଡ଼ିବ। \n ପତ୍ରକୁ ଶୁଖିଲା ରଖିବାରେ ସାହାଯ୍ଯ଼ କରିବା ପାଇଁ ବୁନ୍ଦା ଜଳସେଚନ ଏବଂ ସୋକର୍ ହୋଜ୍ ବ୍ଯ଼ବହାର କରାଯାଇପାରିବ | \n ସର୍ବୋତ୍ତମ ନିଯ଼ନ୍ତ୍ରଣ ପାଇଁ, ସାଧାରଣତଃ ରୋଗ ଦେଖାଯିବା ଦୁଇ ସପ୍ତାହ ପୂର୍ବରୁ କିମ୍ବା ଯେତେବେଳେ ପାଣିପାଗ ପୂର୍ବାନୁମାନ ଦୀର୍ଘକାଳୀନ ଆର୍ଦ୍ର ପାଣିପାଗ ପୂର୍ବାନୁମାନ କରେ, ସେତେବେଳେ ତାମାର ଆଧାରିତ ଫଙ୍ଗିସାଇଡ୍ ପ୍ରଯ଼ୋଗ କରନ୍ତୁ। ବିକଳ୍ପ ଭାବରେ, ଯେତେବେଳେ ରୋଗ ପ୍ରଥମେ ଦେଖାଯାଏ ସେତେବେଳେ ଚିକିତ୍ସା ଆରମ୍ଭ କରନ୍ତୁ, ଏବଂ ଆବଶ୍ଯ଼କ ଅନୁଯାଯ଼ୀ ପ୍ରତ୍ଯ଼େକ 7-10 ଦିନରେ ପୁନରାବୃତ୍ତି କରନ୍ତୁ | \n ତମ୍ବା ଏବଂ ପାଇରେଥ୍ରିନ୍ ଯୁକ୍ତ, ବୋନାଇଡ୍ ® ଗାର୍ଡେନ୍ ଧୂଳି ଅନେକ କୀଟ ଆକ୍ରମଣ ଏବଂ ଫଙ୍ଗସ୍ ସମସ୍ଯ଼ା ପାଇଁ ଏକ ନିରାପଦ, ଏକ-ପଦକ୍ଷେପ ନିଯ଼ନ୍ତ୍ରଣ | ସର୍ବୋତ୍ତମ ଫଳାଫଳ ପାଇଁ, ପତ୍ରର ଉଭଯ଼ ଉପର ଏବଂ ତଳ ଅଂଶକୁ ଏକ ପତଳା ଯ଼ୁନିଫର୍ମ ଫିଲ୍ମ କିମ୍ବା ଧୂଳି ସହିତ ଆଚ୍ଛାଦନ କରନ୍ତୁ | ପତ୍ରର ଘନତ୍ୱ ଉପରେ ନିର୍ଭର କରି, 10 oz 625 ବର୍ଗ ଫୁଟକୁ ଆଚ୍ଛାଦିତ କରିବ | ଆବଶ୍ଯ଼କତା ଅନୁଯାଯ଼ୀ ପ୍ରତି 7-10 ଦିନରେ ପ୍ରଯ଼ୋଗ ପୁନରାବୃତ୍ତି କରନ୍ତୁ | \n ସେରେନାଡେ ଉଦ୍ଯ଼ାନ ହେଉଛି ଏକ ବ୍ଯ଼ାପକ ବ୍ଯ଼ାପକତା, ଅନେକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଉଦ୍ଭିଦ ରୋଗର ନିଯ଼ନ୍ତ୍ରଣ କିମ୍ବା ଦମନ ପାଇଁ ସୁପାରିଶ କରାଯାଇଥିବା ପ୍ରତିଷେଧକ ଜୈବ-କବକନାଶକ। ସର୍ବୋତ୍ତମ ଫଳାଫଳ ପାଇଁ, ପତ୍ର ସମ୍ବନ୍ଧୀଯ଼ ରୋଗ ବିକଶିତ ହେବା ପୂର୍ବରୁ କିମ୍ବା ସଂକ୍ରମଣର ପ୍ରଥମ ସଙ୍କେତରେ ଚିକିତ୍ସା କରନ୍ତୁ। 7 ଦିନର ବ୍ଯ଼ବଧାନରେ କିମ୍ବା ଆବଶ୍ଯ଼କ ଅନୁଯାଯ଼ୀ ପୁନରାବୃତ୍ତି କରନ୍ତୁ। \n ଅମଳ ପରେ ସମସ୍ତ ବଗିଚା ଆବର୍ଜନା ଅପସାରଣ ଏବଂ ନଷ୍ଟ କରନ୍ତୁ ଏବଂ ପରବର୍ତ୍ତୀ ବର୍ଷ ଫସଲ ଚକ୍ର ଅଭ୍ଯ଼ାସ କରନ୍ତୁ। \n ସଂକ୍ରମିତ ଗଛର ଅଂଶକୁ ପୋଡ଼ନ୍ତୁ କିମ୍ବା ବ୍ଯ଼ାଗ କରନ୍ତୁ। କମ୍ପୋଷ୍ଟ କରନ୍ତୁ ନାହିଁ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ସାର୍ ଆଇଜାକ୍ ନ୍ଯ଼ୁଟନ୍ ଏଫ୍. ଆର୍. ଏସ୍. (25 ଡିସେମ୍ବର 1642-20 ମାର୍ଚ୍ଚ) ଜଣେ ଇଂରାଜୀ ଗାଣିତିକ, ପଦାର୍ଥ ବିଜ୍ଞାନୀ, ଜ୍ଯ଼ୋତିର୍ବିଜ୍ଞାନୀ, ଆଲକେମିଷ୍ଟ, ଧର୍ମତତ୍ତ୍ୱବିତ୍ ଏବଂ ଲେଖକ ଥିଲେ ଯାହାଙ୍କୁ ତାଙ୍କ ସମଯ଼ରେ ଜଣେ ପ୍ରାକୃତିକ ଦାର୍ଶନିକ ଭାବରେ ବର୍ଣ୍ଣନା କରାଯାଇଥିଲା। ସେ ବୈଜ୍ଞାନିକ ବିପ୍ଳବ ଏବଂ ପରବର୍ତ୍ତୀ ଆଲୋକୀକରଣରେ ଏକ ପ୍ରମୁଖ ବ୍ଯ଼କ୍ତିତ୍ୱ ଥିଲେ। ତାଙ୍କର ଅଗ୍ରଣୀ ପୁସ୍ତକ ଫିଲୋସୋଫି ନେଚୁରାଲିସ୍ ପ୍ରିନ୍ସିପିଆ ମ୍ଯ଼ାଥମେଟିକା (ପ୍ରାକୃତିକ ଦର୍ଶନର ଗାଣିତିକ ସିଦ୍ଧାନ୍ତ), ଯାହା ପ୍ରଥମେ 1687 ରେ ପ୍ରକାଶିତ ହୋଇଥିଲା, ଅନେକ ପୂର୍ବ ଫଳାଫଳକୁ ଏକତ୍ର କରିଥିଲା ଏବଂ ଶାସ୍ତ୍ରୀଯ଼ ଯାନ୍ତ୍ରିକତାକୁ ପ୍ରତିଷ୍ଠା କରିଥିଲା | ନ୍ଯ଼ୁଟନ୍ ଆଲୋକ ବିଜ୍ଞାନରେ ମଧ୍ଯ଼ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଯୋଗଦାନ ଦେଇଥିଲେ, ଏବଂ ଅସୀମ କାଲକୁଲସ୍ର ବିକାଶ ପାଇଁ ଜର୍ମାନ ଗାଣିତିକ ଗଟଫ୍ରିଡ ୱିଲହେଲ୍ମ ଲିବନିଜଙ୍କ ସହ ଶ୍ରେଯ଼ ବାଣ୍ଟିଥିଲେ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "କନଫୁସିଯ଼ସ୍ (/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/kjuːs/k କନଫୁସିଅସଙ୍କ ଶିକ୍ଷା ଏବଂ ଦର୍ଶନ ପୂର୍ବ ଏସୀଯ଼ ସଂସ୍କୃତି ଏବଂ ସମାଜକୁ ଆଧାର କରେ, ଆଜି ପର୍ଯ୍ଯ଼ନ୍ତ ଚୀନ୍ ଏବଂ ପୂର୍ବ ଏସିଆରେ ପ୍ରଭାବଶାଳୀ |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "କାଇ ଲୁନ୍ (ଚାଇନିଜ୍ଃ ଚୀନ୍; ସୌଜନ୍ଯ଼ ନାମ ଜିଙ୍ଗଜୋଙ୍ଗ (ସି. 50-62-121 ସିଇ), ପୂର୍ବରୁ ସାଇ ଲୁନ୍ ଭାବରେ ରୋମାନୀକୃତ, ପୂର୍ବ ହାନ ରାଜବଂଶର ଜଣେ ଚାଇନିଜ୍ ନପୁଂସକ କୋର୍ଟ ଅଧିକାରୀ ଥିଲେ। ତାଙ୍କୁ ପାରମ୍ପାରିକ ଭାବରେ କାଗଜର ଉଦ୍ଭାବକ ଏବଂ ଆଧୁନିକ କାଗଜ ତିଆରି ପ୍ରକ୍ରିଯ଼ା ଭାବରେ ବିବେଚନା କରାଯାଏ | ଯଦିଓ ଖ୍ରୀଷ୍ଟପୂର୍ବ 3ଯ଼ ଶତାବ୍ଦୀରୁ କାଗଜର ପ୍ରାରମ୍ଭିକ ରୂପ ବିଦ୍ଯ଼ମାନ ଥିଲା, ସେ କାଗଜ ଇତିହାସରେ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସ୍ଥାନ ଅଧିକାର କରିଛନ୍ତି କାରଣ ସେ ଗଛର ଛାଲ ଏବଂ ହେମ୍ପ ଏଣ୍ଡ ମାଧ୍ଯ଼ମରେ ଲୁଗାପଟା ଯୋଗ କରିଥିଲେ ଯାହାର ଫଳସ୍ୱରୂପ ବଡ଼ ଧରଣର ଉତ୍ପାଦନ ଏବଂ କାଗଜ ବିଶ୍ୱବ୍ଯ଼ାପୀ ବିସ୍ତାର ହୋଇଥିଲା |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଖ୍ରୀଷ୍ଟୋଫର୍ କଲମ୍ବସ୍ (25 ଅଗଷ୍ଟ ଏବଂ 31 ଅକ୍ଟୋବର 1451-20 ମେ 1506 ମଧ୍ଯ଼ରେ) ଜେନୋଆ ଗଣରାଜ୍ଯ଼ର ଜଣେ ଇଟାଲୀଯ଼ ଅନୁସନ୍ଧାନକାରୀ ଏବଂ ନାବିକ ଥିଲେ ଯିଏ କ୍ଯ଼ାଥୋଲିକ୍ ମୋନାର୍କଙ୍କ ଦ୍ୱାରା ପ୍ରାଯ଼ୋଜିତ ଆଟଲାଣ୍ଟିକ୍ ମହାସାଗରରେ ଚାରୋଟି ସ୍ପେନ୍ ଭିତ୍ତିକ ଯାତ୍ରା ସମାପ୍ତ କରିଥିଲେ, ଯାହା ବ୍ଯ଼ାପକ ଯ଼ୁରୋପୀଯ଼ ଅନୁସନ୍ଧାନ ଏବଂ ଆମେରିକାର ଯ଼ୁରୋପୀଯ଼ ଉପନିବେଶ ପାଇଁ ପଥ ଖୋଲିଥିଲା | ତାଙ୍କର ଅଭିଯାନଗୁଡ଼ିକ କାରିବିଆନ୍ ଏବଂ କେନ୍ଦ୍ରୀଯ଼ ତଥା ଦକ୍ଷିଣ ଆମେରିକା ସହିତ ପ୍ରଥମ ଜଣାଶୁଣା ଯ଼ୁରୋପୀଯ଼ ଯୋଗାଯୋଗ ଥିଲା |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଆଲବର୍ଟ ଆଇନଷ୍ଟାଇନ (14 ମାର୍ଚ୍ଚ 1879-18 ଏପ୍ରିଲ 1955) ଜର୍ମାନୀରେ ଜନ୍ମିତ ଜଣେ ତାତ୍ତ୍ବିକ ପଦାର୍ଥ ବିଜ୍ଞାନୀ ଥିଲେ। ଆପେକ୍ଷିକତା ସିଦ୍ଧାନ୍ତର ବିକାଶ ପାଇଁ ଜଣାଶୁଣା, ସେ କ୍ୱାଣ୍ଟମ୍ ମେକାନିକ୍ସ ସିଦ୍ଧାନ୍ତର ବିକାଶରେ ମଧ୍ଯ଼ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଅବଦାନ ରଖିଥିଲେ, ଏବଂ ଏହିପରି ଆଧୁନିକ ପଦାର୍ଥ ବିଜ୍ଞାନରେ। ତାଙ୍କର ବସ୍ତୁତ୍ବ-ଶକ୍ତି ସମାନତା ସୂତ୍ର E = mc2, ଯାହା ଆପେକ୍ଷିକତା ସିଦ୍ଧାନ୍ତରୁ ଉତ୍ପନ୍ନ ହୋଇଛି, ତାହାକୁ \"ବିଶ୍ୱର ସବୁଠାରୁ ପ୍ରସିଦ୍ଧ ସମୀକରଣ\" ବୋଲି ଅଭିହିତ କରାଯାଇଛି। ତାଙ୍କର କାର୍ଯ୍ଯ଼ ବିଜ୍ଞାନ ଦର୍ଶନ ଉପରେ ଏହାର ପ୍ରଭାବ ପାଇଁ ମଧ୍ଯ଼ ଜଣାଶୁଣା | ସେ 1921 ମସିହାରେ ପଦାର୍ଥ ବିଜ୍ଞାନରେ ନୋବେଲ ପୁରସ୍କାର ପାଇଥିଲେ \"ତାତ୍ତ୍ବିକ ପଦାର୍ଥ ବିଜ୍ଞାନରେ ତାଙ୍କର ସେବା ପାଇଁ, ଏବଂ ବିଶେଷ କରି ଫଟୋଇଲେକ୍ଟ୍ରିକ ପ୍ରଭାବର ନିଯ଼ମ ଆବିଷ୍କାର ପାଇଁ\", ଯାହା କ୍ୱାଣ୍ଟମ୍ ସିଦ୍ଧାନ୍ତର ବିକାଶରେ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପଦକ୍ଷେପ | ପିରିଯ଼ଡିକ୍ ଟେବୁଲର ଅନ୍ଯ଼ତମ ସିନ୍ଥେଟିକ୍ ଉପାଦାନ ଆଇନ୍ଷ୍ଟାଇନ୍ ତାଙ୍କ ସମ୍ମାନରେ ନାମିତ ହୋଇଥିଲା |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଲୁଇ ପାଶ୍ଚର ଫର୍ମେମର୍ସ୍ (27 ଡିସେମ୍ବର 1822-28 ସେପ୍ଟେମ୍ବର 1895) ଜଣେ ଫରାସୀ ରସାଯ଼ନବିଦ୍ ଏବଂ ଅଣୁଜୀବବିଜ୍ଞାନୀ ଥିଲେ, ଯିଏ ଟୀକାକରଣ, ଅଣୁଜୀବର ଫରମେଣ୍ଟେସନ୍ ଏବଂ ପାଶ୍ଚୁରାଇଜେସନ୍ ନୀତିଗୁଡ଼ିକର ଆବିଷ୍କାର ପାଇଁ ପ୍ରସିଦ୍ଧ ଥିଲେ, ଯାହାର ଶେଷଟି ତାଙ୍କ ନାମରେ ନାମିତ ହୋଇଥିଲା। ରସାଯ଼ନ ବିଜ୍ଞାନରେ ତାଙ୍କର ଗବେଷଣା ରୋଗର କାରଣ ଏବଂ ପ୍ରତିରୋଧକୁ ବୁଝିବା ଦିଗରେ ଉଲ୍ଲେଖନୀଯ଼ ସଫଳତା ଆଣିଥିଲା, ଯାହା ସ୍ୱଚ୍ଛତା, ଜନସ୍ୱାସ୍ଥ୍ଯ଼ ଏବଂ ଅଧିକାଂଶ ଆଧୁନିକ ଔଷଧର ମୂଳଦୁଆ ପକାଇଥିଲା। ରେବିଜ୍ ଏବଂ ଆନ୍ଥ୍ରାକ୍ସ ପାଇଁ ଟିକା ବିକାଶ ମାଧ୍ଯ଼ମରେ ଲକ୍ଷ ଲକ୍ଷ ଜୀବନ ବଞ୍ଚାଇବାର ଶ୍ରେଯ଼ ପାସ୍ଟରଙ୍କ କାର୍ଯ୍ଯ଼କୁ ଦିଆଯାଏ | ତାଙ୍କୁ ଆଧୁନିକ ଜୀବାଣୁ ବିଜ୍ଞାନର ପ୍ରତିଷ୍ଠାତାଙ୍କ ମଧ୍ଯ଼ରୁ ଜଣେ ଭାବରେ ବିବେଚନା କରାଯାଏ ଏବଂ \"ଜୀବାଣୁ ବିଜ୍ଞାନର ପିତା\" ଏବଂ \"ଅଣୁଜୀବ ବିଜ୍ଞାନର ପିତା\" ଭାବରେ ସମ୍ମାନିତ କରାଯାଇଛି (ରବର୍ଟ କୋଚ୍ଙ୍କ ସହ; ପରବର୍ତ୍ତୀ ବିଶେଷଣ ମଧ୍ଯ଼ ଆଣ୍ଟୋନି ଭାନ୍ ଲିଉୱେନହକ୍ଙ୍କୁ ଦାଯ଼ୀ କରାଯାଏ) |",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଗାଲିଲିଓ ଡି ଭିନସେଞ୍ଜୋ ବୋନାଇଉଟି ଡି 'ଗାଲିଲି (15 ଫେବୃଆରୀ 1564-8 ଜାନୁଆରୀ 1642) ଜଣେ ଇଟାଲୀଯ଼ ଜ୍ଯ଼ୋତିର୍ବିଜ୍ଞାନୀ, ପଦାର୍ଥ ବିଜ୍ଞାନୀ ଏବଂ ଇଞ୍ଜିନିଯ଼ର ଥିଲେ, ବେଳେବେଳେ ଜଣେ ବହୁବିଜ୍ଞାନୀ ଭାବରେ ବର୍ଣ୍ଣନା କରାଯାଏ | ସାଧାରଣତଃ ଗାଲିଲିଓ ଭାବରେ ଜଣାଶୁଣା, ତାଙ୍କ ନାମ ଉଚ୍ଚାରିତ ହୁଏ ˌɡælɪˈleɪ.iˌ (GAL-ih-LAY-oh GAL-ih-LAY-ee, ଇଟାଲୀଯ଼ଃ [gaaliːo gaaliːi])। ସେ ପିସା ସହରରେ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ, ଯାହା ସେତେବେଳେ ଫ୍ଲୋରେନ୍ସ ଡଚିର ଅଂଶବିଶେଷ ଥିଲା। ଗାଲିଲିଓଙ୍କୁ ପର୍ଯ୍ଯ଼ବେକ୍ଷଣ ସମ୍ବନ୍ଧୀଯ଼ ଜ୍ଯ଼ୋତିର୍ବିଜ୍ଞାନ, ଆଧୁନିକ ଯୁଗର ଶାସ୍ତ୍ରୀଯ଼ ପଦାର୍ଥ ବିଜ୍ଞାନ, ବୈଜ୍ଞାନିକ ପଦ୍ଧତି ଏବଂ ଆଧୁନିକ ବିଜ୍ଞାନର ଜନକ ବୋଲି କୁହାଯାଏ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଜୋଶୁଆ ଆବ୍ରାହମ ନର୍ଟନ (ଫେବୃଆରୀ 4,1818-ଜାନୁଆରୀ 8,1880), ସମ୍ରାଟ ନର୍ଟନ ଭାବରେ ଜଣାଶୁଣା, କାଲିଫର୍ଣ୍ଣିଆର ସାନ ଫ୍ରାନସିସ୍କୋର ବାସିନ୍ଦା ଥିଲେ, ଯିଏ 1859 ରେ ନିଜକୁ \"ନର୍ଟନ I, ଆମେରିକାର ସମ୍ରାଟ\" ବୋଲି ଘୋଷଣା କରିଥିଲେ। 1863 ମସିହାରେ, ତୃତୀଯ଼ ନେପୋଲିଯ଼ନ ମେକ୍ସିକୋ ଉପରେ ଆକ୍ରମଣ କରିବା ପରେ, ସେ \"ମେକ୍ସିକୋର ରକ୍ଷକ\" ର ଦ୍ୱିତୀଯ଼ ଉପାଧି ଗ୍ରହଣ କରିଥିଲେ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଲିଓନେଲ୍ ଆଣ୍ଡ୍ରେସ୍ ମେସି (ସ୍ପେନିଶ୍ ଉଚ୍ଚାରଣଃ [ljo ˈnel an ˈdɾes ˈmesi] (ଶୁଣନ୍ତୁ); ଜନ୍ମ 24 ଜୁନ୍ 1987), ଲିଓ ମେସି ଭାବରେ ମଧ୍ଯ଼ ଜଣାଶୁଣା, ଜଣେ ଆର୍ଜେଣ୍ଟିନା ପେଶାଦାର ଫୁଟବଲ୍ ଖେଳାଳି ଯିଏ ଲିଗ୍ 1 କ୍ଲବ୍ ପ୍ଯ଼ାରିସ୍ ସେଣ୍ଟ୍-ଜର୍ମେନ୍ ପାଇଁ ଅଗ୍ରଗାମୀ ଭାବରେ ଖେଳନ୍ତି ଏବଂ ଆର୍ଜେଣ୍ଟିନା ଜାତୀଯ଼ ଦଳର ଅଧିନାଯ଼କ | ସର୍ବକାଳୀନ ସର୍ବଶ୍ରେଷ୍ଠ ଖେଳାଳିମାନଙ୍କ ମଧ୍ଯ଼ରୁ ଜଣେ ଭାବରେ ବିବେଚିତ, ମେସି ରେକର୍ଡ ସାତଟି ବାଲନ୍ ଡି 'ଓର ପୁରସ୍କାର ଏବଂ ରେକର୍ଡ ଛଅଟି ଯ଼ୁରୋପୀଯ଼ ଗୋଲ୍ଡେନ୍ ଜୋତା ଜିତିଛନ୍ତି ଏବଂ 2020 ରେ ତାଙ୍କୁ ବାଲନ୍ ଡି' ଓର ଡ୍ରିମ ଟିମରେ ନାମିତ କରାଯାଇଥିଲା। 2021 ରେ କ୍ଲବ୍ ଛାଡିବା ପର୍ଯ୍ଯ଼ନ୍ତ, ସେ ତାଙ୍କର ସମ୍ପୂର୍ଣ୍ଣ ବୃତ୍ତିଗତ କ୍ଯ଼ାରିଯ଼ର ବାର୍ସିଲୋନା ସହିତ ବିତାଇଥିଲେ, ଯେଉଁଠାରେ ସେ କ୍ଲବ୍-ରେକର୍ଡ 34 ଟି ଟ୍ରଫି ଜିତିଥିଲେ, ଯେଉଁଥିରେ ଦଶଟି ଲା ଲିଗା ଟାଇଟଲ୍, ସାତଟି କୋପା ଡେଲ ରେ ଟାଇଟଲ୍ ଏବଂ ଚାରି ଥର ଯ଼ୁଇଏଫଏ ଚାମ୍ପିଅନ୍ସ ଲିଗ୍ ଅନ୍ତର୍ଭୁକ୍ତ | ନିଜ ଦେଶ ସହିତ ସେ 2021 କୋପା ଆମେରିକା ଏବଂ 2022 ଫିଫା ବିଶ୍ୱକପ୍ ଜିତିଥିଲେ। ଜଣେ ସଫଳ ଗୋଲ୍ ସ୍କୋରର୍ ଏବଂ କ୍ରିଏଟିଭ୍ ପ୍ଲେମେକର୍, ଲା ଲିଗାରେ ସର୍ବାଧିକ ଗୋଲ୍ (474), ଲା ଲିଗା (36) ଏବଂ ଯ଼ୁଇଏଫଏ ଚାମ୍ପିଅନ୍ସ ଲିଗ୍ (ଆଠ) ରେ ସର୍ବାଧିକ ହ୍ଯ଼ାଟ୍ରିକ୍ ଏବଂ ଲା ଲିଗା (192) ଏବଂ କୋପା ଆମେରିକା (17) ରେ ସର୍ବାଧିକ ସହାଯ଼ତା ପାଇଁ ରେକର୍ଡ ରଖିଛନ୍ତି। ଜଣେ ଦକ୍ଷିଣ ଆମେରିକୀଯ଼ ପୁରୁଷ (102) ଙ୍କ ଦ୍ୱାରା ସେ ସର୍ବାଧିକ ଆନ୍ତର୍ଜାତୀଯ଼ ଗୋଲ୍ ମଧ୍ଯ଼ କରିଛନ୍ତି। କ୍ଲବ୍ ଏବଂ ଦେଶ ପାଇଁ 800 ରୁ ଅଧିକ ବରିଷ୍ଠ କ୍ଯ଼ାରିଯ଼ର ଗୋଲ୍ ସ୍କୋର କରିଛନ୍ତି, ଏବଂ ଗୋଟିଏ କ୍ଲବ୍ (672) ପାଇଁ ଜଣେ ଖେଳାଳିଙ୍କ ଦ୍ୱାରା ସର୍ବାଧିକ ଗୋଲ୍ କରିଛନ୍ତି।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "ଆପଣ ଏହି ବ୍ଯ଼କ୍ତିଙ୍କ ଏକ ସଂକ୍ଷିପ୍ତ ପରିଚଯ଼ ଦେଇପାରିବେ କି?",
+        "answer": "ଆଲାନ୍ ମାଥିସନ୍ ଟ୍ଯ଼ୁରିଙ୍ଗ୍ ଓ. ବି. ଇ. ଏଫ୍. ଆର୍. ଏସ୍. (OBE FRS; 23 ଜୁନ୍ 1912-7 ଜୁନ୍ 1954) ଜଣେ ଇଂରାଜୀ ଗାଣିତିକ, କମ୍ପ୍ଯ଼ୁଟର ବୈଜ୍ଞାନିକ, ଯୁକ୍ତିବିଦ, ଗୁପ୍ତ ବିଶ୍ଳେଷକ, ଦାର୍ଶନିକ ଏବଂ ତତ୍ତ୍ୱଗତ ଜୀବବିଜ୍ଞାନୀ ଥିଲେ। ତାତ୍ତ୍ବିକ କମ୍ପ୍ଯ଼ୁଟର ବିଜ୍ଞାନର ବିକାଶରେ ଟ୍ଯ଼ୁରିଙ୍ଗ ଅତ୍ଯ଼ନ୍ତ ପ୍ରଭାବଶାଳୀ ଥିଲେ, ଯାହା ଟ୍ଯ଼ୁରିଙ୍ଗ ମେସିନ୍ ସହିତ ଆଲଗୋରିଦମ ଏବଂ ଗଣନାର ଧାରଣାଗୁଡ଼ିକର ଏକ ଆନୁଷ୍ଠାନିକତା ପ୍ରଦାନ କରିଥିଲା, ଯାହାକୁ ଏକ ସାଧାରଣ-ଉଦ୍ଦେଶ୍ଯ଼ କମ୍ପ୍ଯ଼ୁଟରର ମଡେଲ ଭାବରେ ବିବେଚନା କରାଯାଇପାରେ | ତାଙ୍କୁ ବ୍ଯ଼ାପକ ଭାବେ ତତ୍ତ୍ୱଗତ କମ୍ପ୍ଯ଼ୁଟର ବିଜ୍ଞାନ ଏବଂ ଆର୍ଟିଫିସିଆଲ ଇଣ୍ଟେଲିଜେନ୍ସର ଜନକ ଭାବେ ବିବେଚନା କରାଯାଏ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "ନିମ୍ନରେ ଦିଆଯାଇଥିବା ଗ୍ରାଫ୍ ଦୀର୍ଘକାଳୀନ ଆନ୍ତର୍ଜାତୀଯ଼ ସ୍ଥାନାନ୍ତରଣ, ଯ଼ୁ. କେ., 1999-2008 କୁ ଦର୍ଶାଉଛି। \n \n ମୁଖ୍ଯ଼ ବୈଶିଷ୍ଟ୍ଯ଼ଗୁଡ଼ିକୁ ଚଯ଼ନ କରି ଏବଂ ରିପୋର୍ଟ କରି ସୂଚନାର ସାରାଂଶ ପ୍ରସ୍ତୁତ କରନ୍ତୁ, ଏବଂ ଯେଉଁଠାରେ ପ୍ରାସଙ୍ଗିକ ସେଠାରେ ତୁଳନା କରନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ଏହି ଚାର୍ଟରେ 1999ରୁ 2008 ମଧ୍ଯ଼ରେ ବ୍ରିଟେନର ଇମିଗ୍ରେସନ୍, ଇମିଗ୍ରେସନ୍ ଏବଂ ନେଟ୍ ମାଇଗ୍ରେସନ୍ ବିଷଯ଼ରେ ସୂଚନା ଦିଆଯାଇଛି। \n \n ଦର୍ଶାଯାଇଥିବା ସମଯ଼ ମଧ୍ଯ଼ରେ ଉଭଯ଼ ଇମିଗ୍ରେସନ୍ ଏବଂ ଇମିଗ୍ରେସନ୍ ହାର ବୃଦ୍ଧି ପାଇଛି, କିନ୍ତୁ ଇମିଗ୍ରେସନ୍ ପାଇଁ ପରିସଂଖ୍ଯ଼ାନ ଯଥେଷ୍ଟ ଅଧିକ ଥିଲା | 2004 ଏବଂ 2007ରେ ମୋଟ ସ୍ଥାନାନ୍ତରଣ ଶୀର୍ଷରେ ପହଞ୍ଚିଥିଲା। \n \n 1999 ରେ, 450,000 ରୁ ଅଧିକ ଲୋକ ବ୍ରିଟେନରେ ରହିବାକୁ ଆସିଥିଲେ, ଯେତେବେଳେ ପ୍ରବାସୀ ଲୋକଙ୍କ ସଂଖ୍ଯ଼ା 300,000 ରୁ କମ୍ ଥିଲା | ମୋଟ ସ୍ଥାନାନ୍ତରଣ ସଂଖ୍ଯ଼ା ପାଖାପାଖି 160,000 ଥିଲା, ଏବଂ ଏହା 2003 ପର୍ଯ୍ଯ଼ନ୍ତ ସମାନ ସ୍ତରରେ ରହିଥିଲା। 1999 ରୁ 2004 ପର୍ଯ୍ଯ଼ନ୍ତ, ଦେଶାନ୍ତର ଗମନ ହାର ପ୍ରାଯ଼ 150,000 ଲୋକଙ୍କ ଦ୍ୱାରା ବୃଦ୍ଧି ପାଇଥିଲା, କିନ୍ତୁ ଦେଶାନ୍ତର ଗମନରେ ବହୁତ କମ୍ ବୃଦ୍ଧି ହୋଇଥିଲା। 2004 ମସିହାରେ ମୋଟ ସ୍ଥାନାନ୍ତରଣ ପାଖାପାଖି 2,50,000 ଲୋକଙ୍କ ଶୀର୍ଷରେ ପହଞ୍ଚିଥିଲା। \n \n 2004 ପରେ, ଦେଶାନ୍ତର ଗମନ ହାର ଅଧିକ ରହିଥିଲା, କିନ୍ତୁ ଦେଶାନ୍ତର ଗମନ କରୁଥିବା ଲୋକଙ୍କ ସଂଖ୍ଯ଼ାରେ ହ୍ରାସ ଘଟିଲା। 2008 ରେ ପ୍ରାଯ଼ 420,000 ଲୋକଙ୍କ ଶିଖରରେ ପହଞ୍ଚିବା ପୂର୍ବରୁ 2007 ରେ ଇମିଗ୍ରେସନ୍ ହଠାତ୍ ହ୍ରାସ ପାଇଥିଲା | ଫଳସ୍ୱରୂପ, 2007 ରେ ମୋଟ ସ୍ଥାନାନ୍ତରଣ ସଂଖ୍ଯ଼ା ପ୍ରାଯ଼ 240,000 କୁ ବୃଦ୍ଧି ପାଇଥିଲା, କିନ୍ତୁ 2008 ରେ ପ୍ରାଯ଼ 160,000 କୁ ଖସି ଆସିଥିଲା |",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "ନିମ୍ନରେ ଦିଆଯାଇଥିବା ରେଖାଚିତ୍ର ଏବଂ ସାରଣୀ ବିଶ୍ୱବ୍ଯ଼ାପୀ ଜଳ ବ୍ଯ଼ବହାର ଏବଂ ଦୁଇଟି ଭିନ୍ନ ଭିନ୍ନ ଦେଶରେ ଜଳ ବ୍ଯ଼ବହାର ବିଷଯ଼ରେ ସୂଚନା ପ୍ରଦାନ କରିଥାଏ। \n \n ମୁଖ୍ଯ଼ ବୈଶିଷ୍ଟ୍ଯ଼ଗୁଡ଼ିକୁ ଚଯ଼ନ କରି ଏବଂ ରିପୋର୍ଟ କରି ସୂଚନାକୁ ସଂକ୍ଷିପ୍ତ କରନ୍ତୁ, ଏବଂ ଯେଉଁଠାରେ ପ୍ରାସଙ୍ଗିକ ସେଠାରେ ତୁଳନା କରନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ଏହି ଚାର୍ଟରେ ସମଗ୍ର ବିଶ୍ୱରେ କୃଷି, ଶିଳ୍ପ ଏବଂ ଘର ପାଇଁ ବ୍ଯ଼ବହୃତ ଜଳର ପରିମାଣ ଏବଂ ବ୍ରାଜିଲ ଏବଂ କଙ୍ଗୋ ଗଣତାନ୍ତ୍ରିକ ଗଣରାଜ୍ଯ଼ରେ ଜଳ ବ୍ଯ଼ବହାରର ତୁଳନା କରାଯାଇଛି। \n \n ଏହା ସ୍ପଷ୍ଟ ଯେ 1900 ରୁ 2000 ମଧ୍ଯ଼ରେ ବିଶ୍ୱ ଜଳ ଆବଶ୍ଯ଼କତା ଉଲ୍ଲେଖନୀଯ଼ ଭାବରେ ବୃଦ୍ଧି ପାଇଛି, ଏବଂ ବ୍ଯ଼ବହୃତ ଜଳର ସର୍ବାଧିକ ଅନୁପାତ କୃଷି ପାଇଁ ଦାଯ଼ୀ | ଆମେ ଏହା ମଧ୍ଯ଼ ଦେଖିପାରୁଛୁ ଯେ କଙ୍ଗୋ ତୁଳନାରେ ବ୍ରାଜିଲରେ ଜଳ ବ୍ଯ଼ବହାର ଯଥେଷ୍ଟ ଅଧିକ ଥିଲା। \n \n 1900 ମସିହାରେ, ସାରା ବିଶ୍ୱରେ କୃଷି କ୍ଷେତ୍ରରେ ପାଖାପାଖି 500 ବର୍ଗ କିଲୋମିଟର ଜଳ ବ୍ଯ଼ବହୃତ ହେଉଥିଲା। ଶିଳ୍ପ ଏବଂ ଘରୋଇ ଜଳ ବ୍ଯ଼ବହାରର ପରିସଂଖ୍ଯ଼ାନ ସେହି ପରିମାଣର ପ୍ରାଯ଼ ଏକ ପଞ୍ଚମାଂଶ ଥିଲା | 2000 ମସିହା ସୁଦ୍ଧା, କୃଷି ପାଇଁ ବିଶ୍ୱ ଜଳର ବ୍ଯ଼ବହାର ପାଖାପାଖି 3000 କି. ମି. କୁ ବୃଦ୍ଧି ପାଇଥିଲା, ଔଦ୍ଯ଼ୋଗିକ ଜଳର ବ୍ଯ଼ବହାର ସେହି ପରିମାଣର ମାତ୍ର ଅଧା ପର୍ଯ୍ଯ଼ନ୍ତ ବୃଦ୍ଧି ପାଇଥିଲା, ଏବଂ ଘରୋଇ ବ୍ଯ଼ବହାର ପାଖାପାଖି 500 କି. ମି. ରେ ପହଞ୍ଚିଥିଲା। \n \n 2000 ମସିହାରେ ବ୍ରାଜିଲ ଏବଂ କଙ୍ଗୋର ଜନସଂଖ୍ଯ଼ା ଯଥାକ୍ରମେ 176 ନିଯ଼ୁତ ଏବଂ 5.2 ନିଯ଼ୁତ ଥିଲା। ବ୍ରାଜିଲରେ ବ୍ଯ଼କ୍ତି ପିଛା ଜଳ ବ୍ଯ଼ବହାର, 359 ମି. 3 ରେ, କଙ୍ଗୋ ତୁଳନାରେ ବହୁତ ଅଧିକ ଥିଲା, ମାତ୍ର 8 ମି. 3 ରେ, ଏବଂ ଏହା ଏହି ତଥ୍ଯ଼ ଦ୍ୱାରା ବ୍ଯ଼ାଖ୍ଯ଼ା କରାଯାଇପାରିବ ଯେ ବ୍ରାଜିଲରେ 265 ଗୁଣ ଅଧିକ ଜଳସେଚିତ ଜମି ଥିଲା |",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "ନିମ୍ନରେ ଦିଆଯାଇଥିବା ଚାର୍ଟରେ 1970 ରୁ 2000 ମଧ୍ଯ଼ରେ ଆମେରିକାର ବିବାହ ଏବଂ ଛାଡପତ୍ର ହାର ଏବଂ ଦୁଇ ବର୍ଷ ମଧ୍ଯ଼ରେ ବଯ଼ସ୍କ ଆମେରିକୀଯ଼ଙ୍କ ବୈବାହିକ ସ୍ଥିତି ବିଷଯ଼ରେ ସୂଚନା ଦିଆଯାଇଛି। \n \n ମୁଖ୍ଯ଼ ବୈଶିଷ୍ଟ୍ଯ଼ଗୁଡ଼ିକୁ ଚଯ଼ନ କରି ଏବଂ ରିପୋର୍ଟ କରି ସୂଚନାକୁ ସଂକ୍ଷିପ୍ତ କରନ୍ତୁ, ଏବଂ ଯେଉଁଠାରେ ପ୍ରାସଙ୍ଗିକ ସେଠାରେ ତୁଳନା କରନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ପ୍ରଥମ ବାର୍ ଚାର୍ଟ ଆମେରିକାରେ ବିବାହ ଏବଂ ଛାଡପତ୍ର ସଂଖ୍ଯ଼ାରେ ପରିବର୍ତ୍ତନ ଦର୍ଶାଉଛି, ଏବଂ ଦ୍ୱିତୀଯ଼ ଚାର୍ଟ 1970 ଏବଂ 2000 ରେ ଆମେରିକୀଯ଼ ବଯ଼ସ୍କଙ୍କ ବୈବାହିକ ସ୍ଥିତି ପାଇଁ ପରିସଂଖ୍ଯ଼ାନ ଦର୍ଶାଉଛି | \n \n ଏହା ସ୍ପଷ୍ଟ ଯେ 1970 ରୁ 2000 ମଧ୍ଯ଼ରେ ଆମେରିକାରେ ବିବାହ ସଂଖ୍ଯ଼ାରେ ହ୍ରାସ ଘଟିଥିଲା। ଅଧିକାଂଶ ବଯ଼ସ୍କ ଆମେରିକୀଯ଼ ଉଭଯ଼ ବର୍ଷରେ ବିବାହ କରିଥିଲେ, କିନ୍ତୁ 2000 ମସିହାରେ ଏକକ ବଯ଼ସ୍କଙ୍କ ଅନୁପାତ ଅଧିକ ଥିଲା। \n \n 1970 ମସିହାରେ, ଆମେରିକାରେ 25 ଲକ୍ଷ ବିବାହ ଏବଂ 1 ନିଯ଼ୁତ ଛାଡପତ୍ର ହୋଇଥିଲା। 1980 ମସିହାରେ ବିବାହ ହାର ସ୍ଥିର ରହିଥିଲା, କିନ୍ତୁ 2000 ମସିହା ସୁଦ୍ଧା ଏହା 2 ନିଯ଼ୁତକୁ ଖସି ଆସିଥିଲା। ଅପରପକ୍ଷରେ, 1980 ମସିହାରେ ବିବାହ-ବିଚ୍ଛେଦ ହାର ସର୍ବୋଚ୍ଚ ସ୍ତରରେ ପହଞ୍ଚିଥିଲା, ପାଖାପାଖି 15 ଲକ୍ଷ ବିବାହ-ବିଚ୍ଛେଦ ହେବା ପରେ, ସେହି ଅବଧି ଶେଷରେ \n ଏହା 1 ନିଯ଼ୁତକୁ ଖସି ଆସିଥିଲା। \n \n ପ୍ରାଯ଼ 70 ପ୍ରତିଶତ ଆମେରିକୀଯ଼ ବଯ଼ସ୍କ 1970 ମସିହାରେ ବିବାହ କରିଥିଲେ, କିନ୍ତୁ 2000 ମସିହା ସୁଦ୍ଧା ଏହି ସଂଖ୍ଯ଼ା 60 ପ୍ରତିଶତରୁ କମ୍ ହୋଇଯାଇଥିଲା। ଏଥି ସହିତ, ଅବିବାହିତ ଏବଂ ଛାଡପତ୍ର ପ୍ରାପ୍ତ ବ୍ଯ଼କ୍ତିଙ୍କ ଅନୁପାତ ମୋଟରେ ପ୍ରାଯ଼ 10 ପ୍ରତିଶତ ବୃଦ୍ଧି ପାଇଛି। 2000 ମସିହାରେ ବିଧବା ଆମେରିକୀଯ଼ଙ୍କ ଅନୁପାତ ସାମାନ୍ଯ଼ କମ୍ ଥିଲା।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "ନିମ୍ନରେ ଦିଆଯାଇଥିବା ଚାର୍ଟରେ ଚାରୋଟି ଯ଼ୁରୋପୀଯ଼ ଦେଶରେ ଛଅଟି ଉପଭୋକ୍ତା ସାମଗ୍ରୀ ଉପରେ ଖର୍ଚ୍ଚ ହୋଇଥିବା ପରିମାଣ ଦର୍ଶାଯାଇଛି। \n \n ନିମ୍ନରେ ଦର୍ଶାଯାଇଥିବା ସୂଚନାକୁ ବର୍ଣ୍ଣନା କରି ଜଣେ ବିଶ୍ୱବିଦ୍ଯ଼ାଳଯ଼ ଅଧ୍ଯ଼ାପକଙ୍କ ପାଇଁ ଏକ ରିପୋର୍ଟ ଲେଖନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ବାର୍ ଚାର୍ଟରେ ଜର୍ମାନୀ, ଇଟାଲୀ, ଫ୍ରାନ୍ସ ଏବଂ ବ୍ରିଟେନର ଛଅଟି ଭିନ୍ନ ଭିନ୍ନ ସାମଗ୍ରୀ ଉପରେ ଉପଭୋକ୍ତା ଖର୍ଚ୍ଚର ତୁଳନା କରାଯାଇଛି। \n \n ଏହା ସ୍ପଷ୍ଟ ଯେ ବ୍ରିଟିଶ ଲୋକମାନେ ଅନ୍ଯ଼ ତିନୋଟି ଦେଶର ଲୋକଙ୍କ ତୁଳନାରେ ସମସ୍ତ ଛଅଟି ସାମଗ୍ରୀ ଉପରେ ଯଥେଷ୍ଟ ଅଧିକ ଟଙ୍କା ଖର୍ଚ୍ଚ କରିଥିଲେ। ଛଅଟି ସାମଗ୍ରୀ ମଧ୍ଯ଼ରୁ ଉପଭୋକ୍ତାମାନେ ଫଟୋଗ୍ରାଫିକ୍ ଫିଲ୍ମ ପାଇଁ ସବୁଠାରୁ ଅଧିକ ଟଙ୍କା ଖର୍ଚ୍ଚ କରିଥିଲେ। \n \n ବ୍ରିଟେନର ଲୋକମାନେ ଫଟୋଗ୍ରାଫିକ୍ ଚଳଚ୍ଚିତ୍ର ପାଇଁ ମାତ୍ର 170,000 ପାଉଣ୍ଡରୁ ଅଧିକ ଖର୍ଚ୍ଚ କରିଥିଲେ, ଯାହା ଚାର୍ଟରେ ଦର୍ଶାଯାଇଥିବା ସର୍ବୋଚ୍ଚ ସଂଖ୍ଯ଼ା | ଅପରପକ୍ଷେ, ଜର୍ମାନମାନେ ସର୍ବନିମ୍ନ ସାମଗ୍ରିକ ଖର୍ଚ୍ଚକାରୀ ଥିଲେ, ଛଅଟି ଉତ୍ପାଦ ମଧ୍ଯ଼ରୁ ପ୍ରତ୍ଯ଼େକ ପାଇଁ ପ୍ରାଯ଼ ସମାନ ସଂଖ୍ଯ଼ା (ମାତ୍ର 150,000 ପାଉଣ୍ଡରୁ କମ୍) ସହିତ | \n \n ଖେଳନା ଉପରେ ଖର୍ଚ୍ଚର ସଂଖ୍ଯ଼ା ଉଭଯ଼ ଫ୍ରାନ୍ସ ଏବଂ ଇଟାଲୀରେ ସମାନ ଥିଲା, ପ୍ରାଯ଼ £160,000। ଫରାସୀ ଲୋକମାନେ ଫଟୋଗ୍ରାଫିକ୍ ଚଳଚ୍ଚିତ୍ର ଏବଂ ସିଡି ପାଇଁ ଇଟାଲୀଯ଼ମାନଙ୍କ ଅପେକ୍ଷା ଅଧିକ ଖର୍ଚ୍ଚ କରୁଥିବାବେଳେ ଇଟାଲୀଯ଼ମାନେ ବ୍ଯ଼କ୍ତିଗତ ଷ୍ଟେରିଓ, ଟେନିସ୍ ରାକେଟ୍ ଏବଂ ସୁଗନ୍ଧି ପାଇଁ ଅଧିକ ଅର୍ଥ ପ୍ରଦାନ କରିଥିଲେ। ଫରାସୀ ଲୋକମାନେ ଟେନିସ୍ ରାକେଟ୍ ପାଇଁ ଖର୍ଚ୍ଚ କରିଥିବା ପରିମାଣ, ପ୍ରାଯ଼ £145,000, ଚାର୍ଟରେ ଦର୍ଶାଯାଇଥିବା ସର୍ବନିମ୍ନ ସଂଖ୍ଯ଼ା |",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "ନିମ୍ନରେ ଦିଆଯାଇଥିବା ସାରଣୀରେ ଛଅଟି ସହରରେ ଭୂତଳ ରେଳ ବ୍ଯ଼ବସ୍ଥା ବିଷଯ଼ରେ ସୂଚନା ଦିଆଯାଇଛି। \n \n ମୁଖ୍ଯ଼ ବୈଶିଷ୍ଟ୍ଯ଼ଗୁଡ଼ିକୁ ଚଯ଼ନ କରି ଏବଂ ରିପୋର୍ଟ କରି ସୂଚନାକୁ ସଂକ୍ଷିପ୍ତ କରନ୍ତୁ, ଏବଂ ଯେଉଁଠାରେ ପ୍ରାସଙ୍ଗିକ ସେଠାରେ ତୁଳନା କରନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ଏହି ସାରଣୀରେ ଛଅଟି ପ୍ରମୁଖ ସହରରେ ଭୂତଳ ରେଳ ନେଟୱାର୍କ ବିଷଯ଼ରେ ତଥ୍ଯ଼ ଦର୍ଶାଯାଇଛି। \n \n ସାରଣୀ ଛଅଟି ନେଟୱାର୍କକୁ ସେମାନଙ୍କର ବଯ଼ସ, ଆକାର ଏବଂ ପ୍ରତିବର୍ଷ ବ୍ଯ଼ବହାର କରୁଥିବା ଲୋକଙ୍କ ସଂଖ୍ଯ଼ା ଦୃଷ୍ଟିରୁ ତୁଳନା କରେ | ଏହା ସ୍ପଷ୍ଟ ଯେ ତିନୋଟି ପୁରୁଣା ଭୂତଳ ବ୍ଯ଼ବସ୍ଥା ବଡ଼ ଏବଂ ନୂତନ ବ୍ଯ଼ବସ୍ଥା ତୁଳନାରେ ଅଧିକ ଯାତ୍ରୀଙ୍କୁ ସେବା ପ୍ରଦାନ କରିଥାଏ। \n \n ଲଣ୍ଡନ ଅଣ୍ଡରଗ୍ରାଉଣ୍ଡ ହେଉଛି ସବୁଠାରୁ ପୁରୁଣା ସିଷ୍ଟମ, ଯାହା 1863 ରେ ଖୋଲାଯାଇଥିଲା। 394 କିଲୋମିଟର ମାର୍ଗ ସହିତ ଏହା ମଧ୍ଯ଼ ସର୍ବବୃହତ ବ୍ଯ଼ବସ୍ଥା | ପ୍ଯ଼ାରିସର ଦ୍ୱିତୀଯ଼ ସର୍ବବୃହତ ବ୍ଯ଼ବସ୍ଥା, ଲଣ୍ଡନର ଭୂତଳ ନଦୀର ଆକାରର ମାତ୍ର ଅଧା, ଯାହାର ମାର୍ଗ 199 କିଲୋମିଟର। ତେବେ, ଏହା ବର୍ଷକୁ ଅଧିକ ଲୋକଙ୍କୁ ସେବା ପ୍ରଦାନ କରିଥାଏ। ଆକାର ଦୃଷ୍ଟିରୁ କେବଳ ତୃତୀଯ଼ ସ୍ଥାନରେ ଥିବାବେଳେ, ଟୋକିଓ ସିଷ୍ଟମ୍ ସହଜରେ ସର୍ବାଧିକ ବ୍ଯ଼ବହୃତ ହୁଏ, ପ୍ରତିବର୍ଷ 1927 ନିଯ଼ୁତ ଯାତ୍ରୀ | \n \n ତିନୋଟି ନୂତନ ନେଟୱାର୍କ ମଧ୍ଯ଼ରୁ, ୱାଶିଂଟନ୍ ଡିସି ଭୂତଳ ସବୁଠାରୁ ବ୍ଯ଼ାପକ, 126 କିଲୋମିଟର ମାର୍ଗ ସହିତ, କିଯ଼ୋଟୋ ଏବଂ ଲସ୍ ଏଞ୍ଜେଲେସ୍ ସିଷ୍ଟମ୍ ପାଇଁ ମାତ୍ର 11 କିଲୋମିଟର ଏବଂ 28 କିଲୋମିଟର ତୁଳନାରେ | ଲସ୍ ଆଞ୍ଜେଲସ୍ ନେଟୱାର୍କ ହେଉଛି ସର୍ବ ନୂତନ, ଯାହା 2001 ରେ ଖୋଲାଯାଇଥିଲା, ଯେତେବେଳେ କି କିଯ଼ୋଟୋ ନେଟୱାର୍କ ସବୁଠାରୁ ଛୋଟ ଏବଂ ପ୍ରତିବର୍ଷ ମାତ୍ର 45 ନିଯ଼ୁତ ଯାତ୍ରୀଙ୍କୁ ସେବା ପ୍ରଦାନ କରେ |",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "ନିମ୍ନରେ ଦିଆଯାଇଥିବା ସାରଣୀରେ 2002 ମସିହାରେ ପାଞ୍ଚଟି ଭିନ୍ନ ଭିନ୍ନ ଦେଶରେ ବିଭିନ୍ନ ସାମଗ୍ରୀ ଉପରେ ଉପଭୋକ୍ତାଙ୍କ ଖର୍ଚ୍ଚ ବିଷଯ଼ରେ ସୂଚନା ଦିଆଯାଇଛି। \n \n ମୁଖ୍ଯ଼ ବୈଶିଷ୍ଟ୍ଯ଼ଗୁଡ଼ିକୁ ଚଯ଼ନ କରି ଏବଂ ରିପୋର୍ଟ କରି ସୂଚନାକୁ ସଂକ୍ଷିପ୍ତ କରନ୍ତୁ, ଏବଂ ଯେଉଁଠାରେ ପ୍ରାସଙ୍ଗିକ ସେଠାରେ ତୁଳନା କରନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ଏହି ସାରଣୀରେ 2002 ମସିହାରେ ପାଞ୍ଚଟି ଦେଶରେ ତିନୋଟି ବର୍ଗର ଉତ୍ପାଦ ଏବଂ ସେବା ପାଇଁ ଉପଭୋକ୍ତା ଖର୍ଚ୍ଚର ପ୍ରତିଶତ ଦର୍ଶାଯାଇଛି। \n \n ଏହା ସ୍ପଷ୍ଟ ଯେ ପ୍ରତ୍ଯ଼େକ ଦେଶରେ ଉପଭୋକ୍ତା ଖର୍ଚ୍ଚର ସର୍ବାଧିକ ଅନୁପାତ ଖାଦ୍ଯ଼, ପାନୀଯ଼ ଏବଂ ତମାଖୁ ଉପରେ ଯାଇଥିଲା। ଅନ୍ଯ଼ପକ୍ଷରେ ଅବସର/ଶିକ୍ଷା ବର୍ଗରେ ସର୍ବନିମ୍ନ ପ୍ରତିଶତ ରହିଛି। \n \n ପାଞ୍ଚଟି ଦେଶ ମଧ୍ଯ଼ରୁ, ଖାଦ୍ଯ଼, ପାନୀଯ଼ ଏବଂ ତମାଖୁ ଉପରେ ଉପଭୋକ୍ତା ଖର୍ଚ୍ଚ ତୁର୍କୀରେ 32.14% ଏବଂ ଆଯ଼ର୍ଲାଣ୍ଡରେ ପ୍ରାଯ଼ 29% ରେ ଉଲ୍ଲେଖନୀଯ଼ ଭାବରେ ଅଧିକ ଥିଲା। ଅବସର ଏବଂ ଶିକ୍ଷା ଉପରେ ଖର୍ଚ୍ଚର ଅନୁପାତ ମଧ୍ଯ଼ ତୁର୍କୀରେ ସର୍ବାଧିକ ଥିଲା, 4.35%, ଯେତେବେଳେ ପୋଷାକ ଏବଂ ଜୋତା ଉପରେ ଖର୍ଚ୍ଚ ଇଟାଲୀରେ ଉଲ୍ଲେଖନୀଯ଼ ଭାବରେ ଅଧିକ ଥିଲା, 9 ପ୍ରତିଶତ, ଅନ୍ଯ଼ କୌଣସି ଦେଶ ତୁଳନାରେ | \n \n ଏହା ଦେଖିବାକୁ ମିଳେ ଯେ ଖାଦ୍ଯ଼/ପାନୀଯ଼/ତମାଖୁ ଏବଂ ପୋଷାକ/ଜୋତା ପାଇଁ ଜାତୀଯ଼ ଉପଭୋକ୍ତା ଖର୍ଚ୍ଚର ସର୍ବନିମ୍ନ ପ୍ରତିଶତ ଯଥାକ୍ରମେ ପ୍ରାଯ଼ 16 ପ୍ରତିଶତ ଏବଂ ମାତ୍ର 5 ପ୍ରତିଶତରୁ ଅଧିକ ଥିଲା। ସ୍ପେନ୍ ରେ ଏହି ବର୍ଗଗୁଡ଼ିକ ପାଇଁ ସାମାନ୍ଯ଼ ଅଧିକ ସଂଖ୍ଯ଼ା ଥିଲା, କିନ୍ତୁ ଅବସର/ଶିକ୍ଷା ପାଇଁ ସର୍ବନିମ୍ନ ସଂଖ୍ଯ଼ା, କେବଳ 1.98% ରେ |",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "ନିମ୍ନରେ ଦିଆଯାଇଥିବା ପାଇ ଚାର୍ଟରେ 1980 ଏବଂ 2000 ମସିହାରେ ଅଷ୍ଟ୍ରେଲିଆ ଏବଂ ଫ୍ରାନ୍ସରେ ଇନ୍ଧନ ଉତ୍ସ ଦ୍ୱାରା ବିଦ୍ଯ଼ୁତ ଉତ୍ପାଦନ ଯ଼ୁନିଟ୍ ଦର୍ଶାଯାଇଛି। \n \n ମୁଖ୍ଯ଼ ବୈଶିଷ୍ଟ୍ଯ଼ଗୁଡ଼ିକୁ ଚଯ଼ନ କରି ଏବଂ ରିପୋର୍ଟ କରି ସୂଚନାକୁ ସଂକ୍ଷିପ୍ତ କରନ୍ତୁ, ଏବଂ ଯେଉଁଠାରେ ପ୍ରାସଙ୍ଗିକ ସେଠାରେ ତୁଳନା କରନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ପାଇ ଚାର୍ଟ ଦୁଇଟି ଭିନ୍ନ ଭିନ୍ନ ବର୍ଷରେ ଦୁଇଟି ଦେଶରେ ପାଞ୍ଚଟି ଭିନ୍ନ ଭିନ୍ନ ଇନ୍ଧନ ଉତ୍ସ ବ୍ଯ଼ବହାର କରି ଉତ୍ପାଦିତ ବିଦ୍ଯ଼ୁତ୍ ପରିମାଣକୁ ତୁଳନା କରେ | \n \n ଉଭଯ଼ ଅଷ୍ଟ୍ରେଲିଆ ଏବଂ ଫ୍ରାନ୍ସରେ 1980 ରୁ 2000 ପର୍ଯ୍ଯ଼ନ୍ତ ମୋଟ ବିଦ୍ଯ଼ୁତ୍ ଉତ୍ପାଦନ ନାଟକୀଯ଼ ଭାବରେ ବୃଦ୍ଧି ପାଇଥିଲା। ଉଭଯ଼ ଦେଶ ପାଇଁ ମୋଟ ସମାନ ଥିବାବେଳେ ବ୍ଯ଼ବହୃତ ଇନ୍ଧନ ଉତ୍ସରେ ବଡ଼ ପାର୍ଥକ୍ଯ଼ ଥିଲା | 1980 ରେ ଅଷ୍ଟ୍ରେଲିଆରେ ମୋଟ 100 ଯ଼ୁନିଟ୍ ବିଦ୍ଯ଼ୁତ୍ ଉତ୍ପାଦନ ପାଇଁ କୋଇଲା ବ୍ଯ଼ବହୃତ ହୋଇଥିଲା, 2000 ରେ 170 ଯ଼ୁନିଟ୍ ମଧ୍ଯ଼ରୁ 130 କୁ ବୃଦ୍ଧି ପାଇଥିଲା। ଅପରପକ୍ଷରେ, 2000 ମସିହାରେ ଫ୍ରାନ୍ସରେ ଆଣବିକ ଶକ୍ତି ସବୁଠାରୁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଇନ୍ଧନ ଉତ୍ସ ପାଲଟିଥିଲା, ଯାହା ଦେଶର ପ୍ରାଯ଼ 75 ପ୍ରତିଶତ ବିଦ୍ଯ଼ୁତ ଉତ୍ପାଦନ କରୁଥିଲା। \n \n ଉଭଯ଼ ବର୍ଷରେ ଅଷ୍ଟ୍ରେଲିଆ ଏହାର 25 ପ୍ରତିଶତରୁ କମ୍ ବିଦ୍ଯ଼ୁତ୍ ପାଇଁ ଜଳବିଦ୍ଯ଼ୁତ ଉପରେ ନିର୍ଭର କରୁଥିଲା, କିନ୍ତୁ ଫ୍ରାନ୍ସରେ ଏହି ପ୍ରକାରର ଶକ୍ତି ବ୍ଯ଼ବହାର କରି ଉତ୍ପାଦିତ ବିଦ୍ଯ଼ୁତ୍ ପରିମାଣ 5 ରୁ ମାତ୍ର 2 ଯ଼ୁନିଟକୁ ଖସି ଆସିଛି। ଅନ୍ଯ଼ପକ୍ଷରେ, ଫ୍ରାନ୍ସରେ ତୈଳ ଏକ ଅପେକ୍ଷାକୃତ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଇନ୍ଧନ ଉତ୍ସ ହୋଇ ରହିଥିଲା, କିନ୍ତୁ ଅଷ୍ଟ୍ରେଲିଆରେ ଏହାର ବ୍ଯ଼ବହାର ହ୍ରାସ ପାଇଥିଲା। ଉଭଯ଼ ଦେଶ ବିଦ୍ଯ଼ୁତ ଉତ୍ପାଦନ ପାଇଁ 2000 ତୁଳନାରେ 1980 ମସିହାରେ ଅଧିକ ମାତ୍ରାରେ ପ୍ରାକୃତିକ ଗ୍ଯ଼ାସ ଉପରେ ନିର୍ଭର କରିଥିଲେ।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "ଚାର୍ଲିଉଡ୍ ହେଉଛି ଲଣ୍ଡନ ନିକଟବର୍ତ୍ତୀ ଏକ ଗ୍ରାମ ଯାହାର ଜନସଂଖ୍ଯ଼ା ଉନବିଂଶ ଶତାବ୍ଦୀର ମଧ୍ଯ଼ଭାଗରୁ କ୍ରମାଗତ ଭାବରେ ବୃଦ୍ଧି ପାଇଛି | ନିମ୍ନରେ ଦିଆଯାଇଥିବା ମାନଚିତ୍ରଟି ଗାଁର ବିକାଶକୁ ଦର୍ଶାଉଛି। \n \n ଗାଁର ବିକାଶ ବିଷଯ଼ରେ ବର୍ଣ୍ଣନା କରି ବିଶ୍ୱବିଦ୍ଯ଼ାଳଯ଼ର ଜଣେ ଅଧ୍ଯ଼ାପକଙ୍କ ପାଇଁ ଏକ ରିପୋର୍ଟ ଲେଖନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ଏହି ମାନଚିତ୍ରରେ 1868ରୁ 1994 ମସିହା ମଧ୍ଯ଼ରେ ଚାର୍ଲିଉଡ୍ ନାମକ ଏକ ଗାଁର ଅଭିବୃଦ୍ଧିକୁ ଦର୍ଶାଯାଇଛି। \n \n ଏହା ସ୍ପଷ୍ଟ ଯେ ପରିବହନ ଭିତ୍ତିଭୂମିରେ ଉନ୍ନତି ହେବା ସହିତ ଗାଁର ଅଭିବୃଦ୍ଧି ହୋଇଥିଲା। ବିକାଶର ଚାରୋଟି ଅବଧି ମାନଚିତ୍ରରେ ଦର୍ଶାଯାଇଛି, ଏବଂ ପ୍ରତ୍ଯ଼େକ ଜନବହୁଳ ଅଞ୍ଚଳ ମୁଖ୍ଯ଼ ରାସ୍ତା, ରେଳ କିମ୍ବା ମୋଟରୱେ ନିକଟରେ ଅଛି | 1868 ରୁ 1883 ପର୍ଯ୍ଯ଼ନ୍ତ, ଚାର୍ଲିଉଡ୍ ଏକ ମୁଖ୍ଯ଼ ରାସ୍ତା ପାର୍ଶ୍ୱରେ ଏକ ଛୋଟ ଅଞ୍ଚଳକୁ ଆଚ୍ଛାଦିତ କରିଥିଲା | ଚାର୍ଲିଉଡ୍ ପାର୍କ ଏବଂ ଗଲ୍ଫ କୋର୍ସ ବର୍ତ୍ତମାନ ଏହି ମୂଳ ଗ୍ରାମ ଅଞ୍ଚଳ ନିକଟରେ ଅବସ୍ଥିତ | 1883 ରୁ 1922 ମସିହା ମଧ୍ଯ଼ରେ ଏହି ଗାଁ ଦକ୍ଷିଣକୁ ମୁଖ୍ଯ଼ ରାସ୍ତା ସହିତ ବୃଦ୍ଧି ପାଇଥିଲା ଏବଂ 1909 ରେ ଏହି ଅଞ୍ଚଳକୁ ପଶ୍ଚିମରୁ ପୂର୍ବକୁ ଅତିକ୍ରମ କରି ଏକ ରେଳ ଲାଇନ ନିର୍ମାଣ କରାଯାଇଥିଲା | ଚାର୍ଲିଉଡ୍ ଷ୍ଟେସନ ଗାଁର ଏହି ଭାଗରେ ଅଛି | \n \n ଚାର୍ଲିଉଡ୍ର ସମ୍ପ୍ରସାରଣ 1970 ମସିହା ପର୍ଯ୍ଯ଼ନ୍ତ ରେଳ ଲାଇନ ସହିତ ପୂର୍ବ ଏବଂ ପଶ୍ଚିମ ଦିଗରେ ଜାରି ରହିଥିଲା। ସେହି ସମଯ଼ରେ, ଗାଁର ପୂର୍ବ ଦିଗରେ ଏକ ମୋଟରୱେ ନିର୍ମାଣ କରାଯାଇଥିଲା, ଏବଂ 1970 ରୁ 1994 ପର୍ଯ୍ଯ଼ନ୍ତ, ରେଳପଥ ଏବଂ ଏକ ମୁଖ୍ଯ଼ ରାସ୍ତା ସହିତ ମୋଟରୱେ ଛେଦନ ଚାରିପାଖରେ ଗାଁର ଅଧିକ ବିକାଶ ହୋଇଥିଲା |",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "ନିମ୍ନରେ ଦିଆଯାଇଥିବା ମାନଚିତ୍ରଟି ଗାର୍ଲସଡନ ସହରର ଅଟେ। ସହର ପାଇଁ ଏକ ନୂତନ ସୁପରମାର୍କେଟ (ଏସ୍) ଯୋଜନା କରାଯାଇଛି। ଏହି ମାନଚିତ୍ରରେ ସୁପରମାର୍କେଟ ପାଇଁ ଦୁଇଟି ସମ୍ଭାବ୍ଯ଼ ସ୍ଥାନ ଦର୍ଶାଯାଇଛି। \n \n ମୁଖ୍ଯ଼ ବୈଶିଷ୍ଟ୍ଯ଼ଗୁଡ଼ିକୁ ଚଯ଼ନ କରି ଏବଂ ରିପୋର୍ଟ କରି ସୂଚନାକୁ ସଂକ୍ଷିପ୍ତ କରନ୍ତୁ, ଏବଂ ଯେଉଁଠାରେ ପ୍ରାସଙ୍ଗିକ ସେଠାରେ ତୁଳନା କରନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ଏହି ମାନଚିତ୍ରରେ ଗାର୍ଲସଡନ୍ ନାମକ ଏକ ସହରରେ ଏକ ନୂତନ ସୁପରମାର୍କେଟ ପାଇଁ ଦୁଇଟି ସମ୍ଭାବ୍ଯ଼ ସ୍ଥାନ (ଏସ୍1 ଏବଂ ଏସ୍2) ଦର୍ଶାଯାଇଛି। \n \n ଦୁଇଟି ସ୍ଥାନ ମଧ୍ଯ଼ରେ ମୁଖ୍ଯ଼ ପାର୍ଥକ୍ଯ଼ ହେଉଛି ଏସ୍1 ସହର ବାହାରେ ଥିବାବେଳେ ଏସ୍2 ସହର କେନ୍ଦ୍ରରେ ରହିଛି। ଏହି ସ୍ଥାନଗୁଡ଼ିକୁ ସଡ଼କ କିମ୍ବା ରେଳ ଦ୍ୱାରା ପ୍ରବେଶ ଦୃଷ୍ଟିରୁ ଏବଂ ତିନୋଟି ଛୋଟ ସହର ତୁଳନାରେ ସେମାନଙ୍କର ସ୍ଥିତି ଦୃଷ୍ଟିରୁ ମଧ୍ଯ଼ ତୁଳନା କରାଯାଇପାରିବ। \n \n ଅଧିକ ବିସ୍ତୃତ ଭାବରେ ସୂଚନାକୁ ଦେଖିଲେ, S1 ଗାର୍ଲସଡନର ଉତ୍ତର-ପଶ୍ଚିମରେ ଗ୍ରାମାଞ୍ଚଳରେ ଅଛି, କିନ୍ତୁ ଏହା ସହରର ଆବାସିକ ଅଞ୍ଚଳ ନିକଟରେ ଅଛି। S2 ମଧ୍ଯ଼ ହାଉସିଂ ଅଞ୍ଚଳ ନିକଟରେ ଅଛି, ଯାହା ଟାଉନ ସେଣ୍ଟରକୁ ଘେରି ରହିଛି। \n \n ହିଣ୍ଡନ୍, ବ୍ରାନ୍ସଡନ୍ ଏବଂ କ୍ରାନ୍ସଡନ୍ ଠାରୁ ଗାର୍ଲସଡନ୍ ଟାଉନ୍ ସେଣ୍ଟର ପର୍ଯ୍ଯ଼ନ୍ତ ମୁଖ୍ଯ଼ ରାସ୍ତା ଅଛି, କିନ୍ତୁ ଏହା ଏକ ନୋ ଟ୍ରାଫିକ୍ ଜୋନ୍, ତେଣୁ କାର୍ ଦ୍ୱାରା S2 କୁ ପ୍ରବେଶ ହେବ ନାହିଁ। ଅପରପକ୍ଷରେ, ଏସ୍1 ହିଣ୍ଡନକୁ ଯାଉଥିବା ମୁଖ୍ଯ଼ ରାସ୍ତାରେ ଅବସ୍ଥିତ, କିନ୍ତୁ ବ୍ରାନ୍ସଡନ୍ ଏବଂ କ୍ରାନ୍ସଡନ୍ ଠାରୁ ପହଞ୍ଚିବା ଅଧିକ କଷ୍ଟକର ହେବ। ଉଭଯ଼ ସୁପରମାର୍କେଟ ସାଇଟ୍ ରେଲୱେ ନିକଟରେ ଅଛି ଯାହା ହିଣ୍ଡନରୁ କ୍ରାନ୍ସଡନ୍ ପର୍ଯ୍ଯ଼ନ୍ତ ଗାର୍ଲସଡନ୍ ଦେଇ ଚାଲିଥାଏ |",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "ନିମ୍ନରେ ଦିଆଯାଇଥିବା ଚିତ୍ର ଦର୍ଶାଏ ଯେ କିପରି ଅଷ୍ଟ୍ରେଲିଆନ୍ ପାଣିପାଗ ବିଭାଗ ବିଶ୍ୱସନୀଯ଼ ପୂର୍ବାନୁମାନ କରିବା ପାଇଁ ପାଣିପାଗ ଉପରେ ଅପ୍-ଟୁ-ମିନିଟ୍ ସୂଚନା ସଂଗ୍ରହ କରେ | \n \n ନିମ୍ନରେ ଦର୍ଶାଯାଇଥିବା ସୂଚନାକୁ ବର୍ଣ୍ଣନା କରି ଜଣେ ବିଶ୍ୱବିଦ୍ଯ଼ାଳଯ଼ ଅଧ୍ଯ଼ାପକଙ୍କ ପାଇଁ ଏକ ରିପୋର୍ଟ ଲେଖନ୍ତୁ। \n \n ଆପଣ ଅତିକମରେ 150 ଶବ୍ଦ ଲେଖିବା ଉଚିତ୍।",
+        "answer": "ପାଣିପାଗ ପୂର୍ବାନୁମାନ କରିବା ପାଇଁ ଅଷ୍ଟ୍ରେଲୀଯ଼ ପାଣିପାଗ ବିଭାଗ ଦ୍ୱାରା ବ୍ଯ଼ବହୃତ ପ୍ରକ୍ରିଯ଼ାକୁ ଏହି ଚିତ୍ର ଦର୍ଶାଉଛି। \n \n ଏହି ପ୍ରକ୍ରିଯ଼ାରେ ଚାରୋଟି ପର୍ଯ୍ଯ଼ାଯ଼ ରହିଛି, ଯାହା ପାଣିପାଗ ସମ୍ବନ୍ଧୀଯ଼ ସୂଚନା ସଂଗ୍ରହରୁ ଆରମ୍ଭ ହୋଇଥାଏ। ଏହାପରେ ଏହି ସୂଚନାକୁ ବିଶ୍ଳେଷଣ କରାଯାଇଥାଏ, ଉପସ୍ଥାପନ ପାଇଁ ପ୍ରସ୍ତୁତ କରାଯାଇଥାଏ ଏବଂ ଶେଷରେ ଜନସାଧାରଣଙ୍କ ନିକଟରେ ପ୍ରସାରିତ କରାଯାଇଥାଏ। \n \n ପ୍ରକ୍ରିଯ଼ାର ପ୍ରଥମ ଏବଂ ଦ୍ୱିତୀଯ଼ ପର୍ଯ୍ଯ଼ାଯ଼କୁ ଦେଖିଲେ, ପାଣିପାଗ ତଥ୍ଯ଼ ସଂଗ୍ରହ କରିବାର ତିନୋଟି ଉପାଯ଼ ଏବଂ ଏହାକୁ ବିଶ୍ଳେଷଣ କରିବାର ତିନୋଟି ଉପାଯ଼ ଅଛି। ପ୍ରଥମତଃ, ଆସୁଥିବା ସୂଚନା ଉପଗ୍ରହ ଦ୍ୱାରା ଗ୍ରହଣ କରାଯାଇପାରିବ ଏବଂ ଉପଗ୍ରହ ଫଟୋ ଭାବରେ ବିଶ୍ଳେଷଣ ପାଇଁ ଉପସ୍ଥାପିତ ହୋଇପାରିବ। ସମାନ ତଥ୍ଯ଼ ଏକ ରାଡାର ଷ୍ଟେସନକୁ ମଧ୍ଯ଼ ପଠାଯାଇପାରିବ ଏବଂ ଏକ ରାଡାର ସ୍କ୍ରିନ କିମ୍ବା ସିନୋପ୍ଟିକ୍ ଚାର୍ଟରେ ଉପସ୍ଥାପିତ ହୋଇପାରିବ। ଦ୍ୱିତୀଯ଼ତଃ, ଆସୁଥିବା ସୂଚନା ସିଧାସଳଖ ରାଡାର ଦ୍ୱାରା ସଂଗ୍ରହ କରାଯାଇପାରେ ଏବଂ ରାଡାର ସ୍କ୍ରିନ କିମ୍ବା ସିନୋପ୍ଟିକ୍ ଚାର୍ଟରେ ବିଶ୍ଳେଷଣ କରାଯାଇପାରେ | ପରିଶେଷରେ, ଗତିଶୀଳ ବଏଗୁଡ଼ିକ ମଧ୍ଯ଼ ତଥ୍ଯ଼ ଗ୍ରହଣ କରନ୍ତି ଯାହା ଏକ ସିନୋପ୍ଟିକ୍ ଚାର୍ଟରେ ଦର୍ଶାଯାଇପାରିବ। \n \n ପ୍ରକ୍ରିଯ଼ାର ତୃତୀଯ଼ ପର୍ଯ୍ଯ଼ାଯ଼ରେ, ପାଣିପାଗ ପ୍ରସାରଣ କମ୍ପ୍ଯ଼ୁଟରରେ ପ୍ରସ୍ତୁତ କରାଯାଏ | ଶେଷରେ, ଏହା ଟେଲିଭିଜନରେ, ରେଡିଓରେ କିମ୍ବା ରେକର୍ଡ ହୋଇଥିବା ଟେଲିଫୋନ୍ ଘୋଷଣା ଭାବରେ ଜନସାଧାରଣଙ୍କ ନିକଟରେ ପହଞ୍ଚାଯାଏ |",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

@@ -1,0 +1,4 @@
+Category: adversarial, Accuracy: 0.7607
+Category: popular, Accuracy: 0.8197
+Category: random, Accuracy: 0.5124
+Overall Accuracy: 0.6976
