@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "समीकरण में x क्या है?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "अंतिम समीकरण में d क्या है?",
+        "answer": "25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "समीकरण में x क्या है?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "नीचे बाएँ समीकरण का उत्तर क्या है?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "दाहिनी ओर स्थित दूसरे समीकरण का उत्तर क्या है?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "दाहिनी ओर दूसरे अंतिम समीकरण का उत्तर क्या है?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "अंतिम समीकरण में y क्या है?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"एक्स\" प्रचालक को कैसे पुनर्परिभाषित किया जाता है, इसका स्वरूप ज्ञात कीजिए और छवि में दिए गए समीकरण का उत्तर दीजिए।",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "दाहिनी ओर की लड़की बोर्ड पर क्या लिखेगी?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "मुझे 50 डॉलर में कितने गैलन सर्वोच्च गैसोलीन मिल सकता है?",
+        "answer": "13. 6 <OR> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "डीजल और नियमित गैसोलीन के बीच मूल्य अंतर क्या है?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "छवि में दिखाए गए मेर्लोट की एक बोतल और कैबरनेट की एक बोतल की कुल कीमत क्या है?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "मोएट शैम्पेन की तीन बोतलों की कीमत कितनी है?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "मुझे एक फंगी पिज्जा और एक प्रोसिउटो पिज्जा मिल रहा है। मुझे कुल कितना भुगतान करना चाहिए?",
+        "answer": "14. 8 <या> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "मुझे दो मार्गेरिटा पिज्जा और एक कैलजोन मिल रहा है। मुझे कुल कितना भुगतान करना चाहिए?",
+        "answer": "25. 8 <या> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "छूट से पहले पोर्क बेली की मूल कीमत क्या है?",
+        "answer": "14.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "पेट्रोल की कीमत क्या है?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "सामने बाईं ओर के व्यक्ति द्वारा पहनी जाने वाली टोपी का रंग क्या है?",
+        "answer": "नीला",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "शैम्पू के दाईं ओर क्या स्थित है?",
+        "answer": "कंडीशनर",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "सबसे सही बोतल में क्या है?",
+        "answer": "मूस",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "फ्रिस्बी और आदमी के बीच स्थानिक संबंध क्या है?",
+        "answer": "आदमी के ऊपर <OR> ऊपर बाएँ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "पार्किंग स्थल 33 पर कौन सी कार है?",
+        "answer": "नहीं <OR> खाली है",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "लाल कार पार्किंग किस स्थान पर है?",
+        "answer": "31.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "टमाटर की कीमत क्या है?",
+        "answer": "आठ <OR> 8",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "प्लम का कौन सा फल सही है?",
+        "answer": "नारंगी",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "छवि के आधार पर, टीना फे की कुल अंतर्राष्ट्रीय जागरूकता क्या है?",
+        "answer": "35 प्रतिशत",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "छवि के आधार पर, किस देश में टीना फे के पास कुल जागरूकता का उच्चतम स्तर है?",
+        "answer": "ऑस्ट्रेलिया",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "पृथ्वी की आंतरिक संरचना संख्या 2 किस बात का संकेत देती है?",
+        "answer": "मेंटल",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "पीले रंग का सूट पहने मोटरसाइकिल सवार द्वारा चलाई गई मोटरसाइकिल पर कौन सा नंबर प्रदर्शित किया जाता है?",
+        "answer": "16.",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "दाहिनी ओर मोटरसाइकिल पर कौन सा नंबर दिखाया गया है?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "क्या इन दो विमानों में से कौन सा आकार में बड़ा है?",
+        "answer": "एक ही",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "क्या व्यक्ति गाड़ी से बड़ा है?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "इसे टुकड़ों में विभाजित करने से पहले, आटे को गूंधने के बाद मुझे क्या करना चाहिए?",
+        "answer": "गर्म जगह <AND> 1 घंटा",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "अंडा और दूध मिलाते समय क्या मुझे चीनी मिलानी चाहिए?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "जड़ी-बूटियाँ, सॉसेज और मशरूम काटने से पहले मुझे क्या करना चाहिए?",
+        "answer": "पैन को थोड़ा झुकाएँ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "जब हमें सभी उद्देश्य वाले आटे को जोड़ने की आवश्यकता होती है तो उस चरण का सूचकांक क्या होता है?",
+        "answer": "तीसरा <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "तीसरे चरण में हमें क्या जोड़ना चाहिए?",
+        "answer": "दूध",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "अँगुलियाँ फोड़ने के बाद बच्चों को क्या करना चाहिए?",
+        "answer": "एक पैर पर कूदो",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "चौथे चरण में क्या खींचा जाना चाहिए?",
+        "answer": "नाक",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "टायर पंचर फैलाने के लिए प्रोब का उपयोग करने के बाद क्या कदम है?",
+        "answer": "मरम्मत को हटा दें",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "दूसरा कदम क्या सुझाया गया है?",
+        "answer": "अपने दर्शकों की पहचान करें",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "छवि में दी गई अंतिम रणनीति क्या है?",
+        "answer": "एक गीत बनाएँ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "फोर्ड एफ150 को छोड़कर ईंधन भरने की औसत कुल लागत क्या है?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "ईंधन की सबसे अधिक लागत क्या है?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "प्लास्टिक के बने और फेंके जाने की मात्रा को देखते हुए किस श्रेणी ने प्लास्टिक रीसाइक्लिंग में सबसे खराब काम किया?",
+        "answer": "पैकेजिंग",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "उत्पादित प्लास्टिक की मात्रा और छोड़ी गई मात्रा के बीच मीट्रिक टन में क्या अंतर है?",
+        "answer": "105",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "वर्ष 2023 के लिए अनुमानित औसत स्थायी शुल्क क्या है?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "वर्ष 2023 के लिए अनुमानित कुल लागत क्या है?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "बैठक कक्ष की खिड़की किस दिशा में है?",
+        "answer": "उत्तर",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "इस फ्लोरप्लान में रसोई में कौन से उपकरण हैं?",
+        "answer": "ओवन <AND> डिशवॉशर",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "कौन सा कमरा बड़ा है, डबल गैरेज या लिविंग रूम?",
+        "answer": "डबल गैरेज",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "कौन सा कमरा बड़ा है, मास्टर बेडरूम या आँगन?",
+        "answer": "मास्टर बेडरूम",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "यदि दीपक लगा दिया गया है और बल्ब जल गया है तो समाधान क्या है?",
+        "answer": "ब्लब को बदलें",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "फ्लोचार्ट में कौन सा कदम हीरे के आकार के साथ खींचा जाता है?",
+        "answer": "पानी उबला हुआ?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "बिस्तर से उठने के लिए औसत प्रतीक्षा समय क्या है?",
+        "answer": "15 मिनट",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "किस वर्ष औसत घर की कीमत की सबसे अधिक वृद्धि दर है?",
+        "answer": "2008",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012 में जापान का जी. डी. पी क्या है?",
+        "answer": "6, 233.15 अरब अमेरिकी डॉलर",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "किन वर्षों में नौकायन और एथलेटिक्स में समान संख्या में स्वर्ण पदक थे?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "वह व्यक्ति किस विभाग से है जिसका वेतन सबसे अधिक है?",
+        "answer": "प्रशासन",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "तालिका के आधार पर, विल्किंस कितनी कमाई कर रहे हैं?",
+        "answer": "2500 <या> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "किस देश का लाभ मार्जिन औसत से कम है?",
+        "answer": "भारत",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "किस देश का लाभ मार्जिन सबसे अधिक है?",
+        "answer": "ऑस्ट्रेलिया",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "किस महीने में सबसे अधिक आय उत्पन्न होती है?",
+        "answer": "फरवरी",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "कुल आय में वेतन का योगदान कितना प्रतिशत है?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "बाईं ओर का व्यक्ति कौन है?",
+        "answer": "केइरा नाइटली",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "तस्वीर में दिख रहा व्यक्ति कौन है?",
+        "answer": "मिशेल योह",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "नीचे दाईं ओर वाला व्यक्ति कौन है?",
+        "answer": "जेमी डोर्नन",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "कौन सा मीठा नहीं है?",
+        "answer": "ओट",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "क्या यह सेब जैविक है?",
+        "answer": "हाँ",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "पूरे थैले में कितनी कैलोरी होती है?",
+        "answer": "275",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "इस व्यंजन का नाम क्या है?",
+        "answer": "मैपो टोफू",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "इस व्यंजन का नाम क्या है?",
+        "answer": "कैप्रिस सलाद",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "इस व्यंजन का नाम क्या है?",
+        "answer": "पैड थाई",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "बाईं ओर कार की बनावट क्या है?",
+        "answer": "वोल्क्सवैगन",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "यह कारखाना क्या बनाता है?",
+        "answer": "कैमरा",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "गाड़ी पर हरा लोगो क्या है?",
+        "answer": "राक्षस",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "इस स्थलचिह्न का नाम क्या है?",
+        "answer": "ट्रेवी फाउंटेन",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "इस स्थलचिह्न का नाम क्या है?",
+        "answer": "अनबरिया मस्जिद",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "इस स्थलचिह्न का नाम क्या है?",
+        "answer": "बाओचू पगोडा",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "इस बैंक नोट का अंकित मूल्य क्या है?",
+        "answer": "पाँच <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "यह बैंकनोट क्या है?",
+        "answer": "दस पाउंड <या> 10 पाउंड <या> ब्रिटिश पाउंड",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "यह बैंकनोट किस प्रकार की मुद्रा का प्रतिनिधित्व करता है?",
+        "answer": "स्वीडिश <OR> क्रोनर",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "किस छाती के एक्सरे रोग का पता लगाया जा सकता है? (विकल्पों में शामिल हैंः एटेक्टेसिस; कार्डियोमेगेली; प्रवाह; घुसपैठ; द्रव्यमान; नोड्यूल; निमोनिया; न्यूमोथोरैक्स; समेकन; एडीमा; एम्फीसेमा; फाइब्रोसिस; प्लूरल थिकनिंग; हर्निया।)",
+        "answer": "कार्डियोमेगेली",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "किस छाती के एक्सरे रोग का पता लगाया जा सकता है? (विकल्पों में शामिल हैंः एटेक्टेसिस; कार्डियोमेगेली; प्रवाह; घुसपैठ; द्रव्यमान; नोड्यूल; निमोनिया; न्यूमोथोरैक्स; समेकन; एडीमा; एम्फीसेमा; फाइब्रोसिस; प्लूरल थिकनिंग; हर्निया।)",
+        "answer": "हर्निया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "किस छाती के एक्सरे रोग का पता लगाया जा सकता है? (विकल्पों में शामिल हैंः एटेक्टेसिस; कार्डियोमेगेली; प्रवाह; घुसपैठ; द्रव्यमान; नोड्यूल; निमोनिया; न्यूमोथोरैक्स; समेकन; एडीमा; एम्फीसेमा; फाइब्रोसिस; प्लूरल थिकनिंग; हर्निया।)",
+        "answer": "घुसपैठ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "कितने पक्षी हैं?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "कितने टमाटर हैं?",
+        "answer": "5.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "कितनी किताबें हैं?",
+        "answer": "63",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "छवि में सभी दृश्य पाठ क्या हैं?",
+        "answer": "एस3302सीडी",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "छवि में सभी दृश्य पाठ क्या हैं?",
+        "answer": "लक्ष्मी ज्वैलर्स",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "छवि में सभी दृश्य पाठ क्या हैं?",
+        "answer": "अपने आप को एक सुखद छोटा क्रिसमस दें",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "छवि में सभी दृश्य पाठ क्या हैं?",
+        "answer": "5: 30 PM <और> 88% <और> मारियो कार्ट 8 डीलक्स <और> मारियो कार्ट 8 डीलक्स <और> सुपर मैरिओ ओडिसी <और> ज़ेल्डा के लीजेंड <और> ब्रीथ ऑफ़ वाइल्ड <और> विकल्प <और> शुरू करें",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "छवि में सभी दृश्य पाठ क्या हैं?",
+        "answer": "श्री विलियम शेक्सपीयर्स <और> कॉमेडीज़, हिस्ट्रीज़, और ट्रेजेडीज़. <और> ट्रू ओरिजिनल कॉपीज़ के अनुसार प्रकाशित।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "छवि में सभी दृश्य पाठ क्या हैं?",
+        "answer": "1642 के कनेक्टिकट कानून <AND> यदि कोई पुरुष या महिला एक चुड़ैल है-यानी, किसी परिचित आत्मा के साथ परामर्श करता है-तो उन्हें मार दिया जाएगा।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "इस उपकरण का ब्रांड क्या है?",
+        "answer": "मोटोरोला",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "लाइसेंस प्लेट संख्या क्या है?",
+        "answer": "एईडी-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "छवि में सभी फ्रांसीसी दृश्य पाठ क्या हैं?",
+        "answer": "फ़्रांस का इतिहास और उसका इतिहास",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "छवि में सभी चीनी दृश्य पाठ क्या हैं?",
+        "answer": "<AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND>",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "किस महाद्वीप पर प्रकाश डाला गया है?",
+        "answer": "एशिया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "इस खाद्य वेब में कौन से उत्पादक हैं?",
+        "answer": "फाइटोप्लांकटन <AND> समुद्री शैवाल",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "प्रत्येक नमूने में कणों की औसत गतिज ऊर्जा की तुलना करें। नीचे दिए गए आरेख समान बंद, कठोर पात्रों में गैस के दो शुद्ध नमूने दिखाते हैं। प्रत्येक रंगीन गेंद एक गैस कण का प्रतिनिधित्व करती है। दोनों नमूनों में कणों की संख्या समान होती है। किस नमूने का तापमान अधिक है? नमूना ए या नमूना बी?",
+        "answer": "नमूना ए",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "इनमें से कौन सा शहर सबसे दूर उत्तर में है?",
+        "answer": "चिकागो",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "यह तस्वीर कहाँ ली गई है?",
+        "answer": "तुर्की <OR> सीरिया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "यह तस्वीर कहाँ ली गई है?",
+        "answer": "ऑस्कर <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "यह तस्वीर कहाँ ली गई है?",
+        "answer": "कतर",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "यह तस्वीर किस देश में ली गई थी?",
+        "answer": "ऑस्ट्रेलिया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "क्या पेड़ जिराफ से लंबे होते हैं?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "क्या यह विमान उड़ान भर रहा है या उतर रहा है?",
+        "answer": "उतारना",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "कितने लोग बैठे हैं?",
+        "answer": "एक",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "कचरा खाली है या भरा हुआ?",
+        "answer": "खाली",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "क्या जिराफ खतरनाक प्रतीत होता है?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "क्या पानी में जेब्रा का कोई परावर्तन होता है?",
+        "answer": "हाँ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "क्या वह आदमी खुश है?",
+        "answer": "हाँ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "क्या सभी बिल्लियों का रंग एक ही है?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "क्या वह शराब पृष्ठभूमि में है?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "क्या वह आदमी गिर जाएगा?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "किस जगह को चित्रित किया गया है?",
+        "answer": "तट",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "क्या यह बाहर है?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "मौसम कैसा है?",
+        "answer": "साफ करें <OR> धूप",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "धातु से बने बाड़ का रंग क्या है?",
+        "answer": "हरा",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "क्या आदमी की बाईं ओर का व्यक्ति बैठा हुआ प्रतीत होता है?",
+        "answer": "हाँ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "क्या मेज की थाली गंदी और चांदी दोनों है?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "क्या पर्दा तस्वीर के दाईं ओर है या बाईं ओर?",
+        "answer": "बाएँ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "क्या इस तस्वीर में कोई कंप्यूटर है?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "क्या चावल के बाईं ओर बर्तन के नीचे नैपकिन हैं?",
+        "answer": "हाँ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "क्या नट्स या सब्जियाँ हैं?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "क्या इस तस्वीर में प्लेट और कांटे दोनों हैं?",
+        "answer": "हाँ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "इस पक्षी का नाम क्या है?",
+        "answer": "तोता <OR> कोनूर",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "तस्वीर में कौन सा जानवर बड़ा है, बिल्ली या कुत्ता?",
+        "answer": "बिल्ली",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "दाहिनी मेज पर, लैपटॉप के बाईं ओर क्या है?",
+        "answer": "टेबल लैंप <OR> डेस्क लैंप",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "क्या आदमी घोड़े की सवारी करता है?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "क्या सर्फर सर्फ़बोर्ड के बाएँ या दाएँ है?",
+        "answer": "बाएँ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "दीपक किस पर है, साइड टेबल या नाइटस्टैंड?",
+        "answer": "साइड टेबल",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "स्टंप और बाड़ दोनों में क्या समानता है?",
+        "answer": "सामग्री",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "क्या चम्मच चपस्टिक के समान सामग्री से बना है?",
+        "answer": "हाँ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "क्या कमीज का रंग पतंग से अलग होता है?",
+        "answer": "हाँ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "क्या ये सभी लोग एक ही लिंग के हैं?",
+        "answer": "नहीं।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "क्या ये दोनों अलग-अलग जानवर हैं?",
+        "answer": "हाँ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "लोग कहाँ हैं? इसका जवाब दें और तर्क दें।",
+        "answer": "वे कॉलेज की कक्षा में हैं। मुझे ऐसा इसलिए लगता है क्योंकि वह युवा महिला कॉलेज की उम्र की लगती है, और वे डेस्क और कुर्सियों से घिरे हुए हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "लोग काले कपड़े क्यों पहनते हैं? इसका जवाब दें और तर्क दें।",
+        "answer": "वे अंतिम संस्कार में जा रहे हैं। मुझे ऐसा इसलिए लगता है क्योंकि लोगों के लिए अंतिम संस्कार में काला पहनना पारंपरिक है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "महिला वस्त्र क्यों पहनती है? इसका जवाब दें और तर्क दें।",
+        "answer": "वह बिस्तर के लिए तैयार हो रही है। मुझे ऐसा इसलिए लगता है क्योंकि कमरा एक शयनकक्ष प्रतीत होता है और महिला अपने बिस्तर की सामान्य दिशा में जा रही है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "यह कहाँ हो रहा है? इसका जवाब दें और तर्क दें।",
+        "answer": "यह एक फैंसी रेस्तरां में हो रहा है। मुझे ऐसा इसलिए लगता है क्योंकि उस आदमी ने फैंसी कपड़े पहने हैं और पृष्ठभूमि फैंसी है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "क्या यह दृश्य में गर्मी का समय है? इसका जवाब दें और तर्क दें।",
+        "answer": "नहीं, ऐसा लगता है कि यह गिर रहा है। मुझे ऐसा लगता है क्योंकि पृष्ठभूमि में कद्दू होते हैं और वे आम तौर पर गिरने से जुड़े होते हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "क्या लाल रंग की महिला पुरुष पर, पोशाक में महिला को देखने के लिए पागल होने वाली है? इसका जवाब दें और तर्क दें।",
+        "answer": "हां, लाल रंग में महिला और पुरुष एक जोड़े के रूप में दिखाई देते हैं और लाल रंग में महिला पुरुष को दूसरे women.I की जाँच करने की सराहना नहीं करेगी क्योंकि एक एकांगी संबंध में, भागीदारों से एक दूसरे के प्रति वफादार होने की उम्मीद की जाती है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "स्त्री के दोनों हाथ हवा में क्यों हैं? इसका जवाब दें और तर्क दें।",
+        "answer": "उसने बस एक बास्केटबॉल शूट किया। मुझे ऐसा इसलिए लगता है क्योंकि उसकी भुजाएँ बास्केटबॉल शॉट के लिए कोण में हैं और वे बास्केटबॉल के मैदान में हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "लड़का किस तरह के स्कूल जाता है? इसका जवाब दें और तर्क दें।",
+        "answer": "लड़का एक निजी स्कूल में जाता है, सार्वजनिक स्कूल में नहीं। मुझे ऐसा लगता है क्योंकि लड़का सभी सूट पहने हुए हैं, पब्लिक स्कूलों को इसकी आवश्यकता नहीं है लेकिन कुछ निजी स्कूल ऐसा करते हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "क्या लोग इस घर में रहते हैं? इसका जवाब दें और तर्क दें।",
+        "answer": "नहीं वे ऐसा नहीं करते। मुझे ऐसा इसलिए लगता है क्योंकि वे सभी चित्रों और सजावट को चारों ओर देख रहे हैं, जो कोई नहीं करेगा अगर उन्हें देखने की आदत होती।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "सफेद कपड़े पहने पुरुष और महिला एक-दूसरे के इतने करीब क्यों हैं? इसका जवाब दें और तर्क दें।",
+        "answer": "उन्होंने अभी-अभी शादी की है। मुझे ऐसा इसलिए लगता है क्योंकि वे शादी के कपड़ों में हैं और हर कोई उन्हें देख रहा है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "क्या आप इस मीम को समझा सकते हैं?",
+        "answer": "यह मीम विलंब और एक विशिष्ट समय तक कार्यों में देरी करने की प्रवृत्ति पर एक हास्यपूर्ण दृष्टिकोण है। मीम में व्यक्ति 8 बजे कुछ करने की योजना बनाता है, लेकिन जब वे उस समय सीमा से कुछ मिनट चूक जाते हैं, तो वे इसके बजाय 9 बजे तक इंतजार करने का फैसला करते हैं। बिस्तर पर लेटे हुए मेढक केरमिट की छवि व्यक्ति के आलस्य और कार्य को पूरा करने के लिए प्रेरणा की कमी को दर्शाती है।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "क्या आप इस मीम को समझा सकते हैं?",
+        "answer": "यह मीम कोविड-19 महामारी के कारण ऑनलाइन सीखने की वर्तमान स्थिति पर एक टिप्पणी है। यह दिखाता है कि इससे अलग-अलग पक्ष कैसे प्रभावित होते हैं। \\n\\n पहली दो छवियों में ज़ूम कंपनी और शिक्षकों को हवा में पैसे फेंकते हुए दिखाया गया है, जिसका अर्थ है कि वे स्थिति से लाभ उठा रहे हैं। ज़ूम, विशेष रूप से, महामारी के कारण उपयोग और राजस्व में वृद्धि देखी गई है। \\n\\n तीसरी तस्वीर में वाईफाई कंपनी को भी हवा में पैसा फेंकते हुए दिखाया गया है, जिसका अर्थ है कि वे इस स्थिति से भी लाभ उठा रहे हैं क्योंकि अधिक लोग ऑनलाइन सीखने के लिए इंटरनेट का उपयोग कर रहे हैं। \\n\\n अंतिम तस्वीर में एक उदास जोकर चेहरे वाले छात्र को दिखाया गया है, जिसका अर्थ है कि छात्र स्थिति से लाभान्वित नहीं हो रहे हैं और ऑनलाइन सीखने के साथ संघर्ष कर रहे हैं। पृष्ठभूमि में \"एक खुशहाल चेहरा पहनें\" का संकेत इस विचार पर जोर देता है कि छात्र अपने संघर्षों के बावजूद एक बहादुर चेहरा पहन रहे हैं।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "क्या आप इस मीम को समझा सकते हैं?",
+        "answer": "यह मीम इस तथ्य का मजाक उड़ा रहा है कि आइसलैंड और ग्रीनलैंड देशों के नाम भ्रामक हैं। अपने नाम के बावजूद, आइसलैंड अपने सुंदर हरे परिदृश्य के लिए जाना जाता है, जबकि ग्रीनलैंड ज्यादातर बर्फ और बर्फ से ढका हुआ है। मीम कह रहा है कि व्यक्ति के पास विश्वास के मुद्दे हैं क्योंकि इन देशों के नाम उनके परिदृश्य का सटीक प्रतिनिधित्व नहीं करते हैं।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "क्या आप इस मीम को समझा सकते हैं?",
+        "answer": "यह मीम इस बात का मजाक उड़ा रहा है कि कैसे एक परीक्षा के दौरान एक छात्र की लिखावट बिगड़ जाती है। पहले दो पृष्ठों में साफ-सुथरी और सुपाठ्य लिखावट दिखाई देती है, बीच के पृष्ठ में थोड़ी गंदी लिखावट दिखाई देती है, और अंतिम दो पृष्ठों में पूरी तरह से अस्पष्ट लिखावट दिखाई देती है। ऐसा संभवतः परीक्षा के आगे बढ़ने के साथ छात्र के थके हुए या जल्दबाजी में होने के कारण होता है।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "क्या आप इस मीम को समझा सकते हैं?",
+        "answer": "यह मीम इस बारे में एक मजाक है कि कैसे नए कॉलेज के छात्र (नए छात्र) अक्सर नोट्स लेने और कक्षा में वह सब कुछ सीखने के लिए उत्सुक होते हैं जो वे कर सकते हैं। छवि कार्टून स्पंजबॉब स्क्वायरपैंट्स से है, जहाँ स्पंजबॉब और पैट्रिक गुस्से में नोट्स लिख रहे हैं। शीर्षक से पता चलता है कि नए लोग यह जानने के लिए इतने उत्सुक हैं कि वे प्रोफेसर का अभिवादन भी लिख रहे हैं।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "इस तस्वीर में मज़ेदार क्या है?",
+        "answer": "यह एक चित्र को चित्रित करने वाले गैंडे का एक कार्टून है और प्रत्येक चित्र में गैंडे का अपना सींग होता है क्योंकि गैंडे का सींग उसकी आंखों के सामने बढ़ता है। कैप्शन \"आप दुनिया को वैसे ही देखते हैं जैसे आप हैं!\" यह एक मनोरंजक टिप्पणी है कि हमारा दृष्टिकोण दुनिया के बारे में हमारी धारणा को कैसे आकार देता है।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "इस तस्वीर में मज़ेदार क्या है?",
+        "answer": "कुछ चीजें हैं जो लोगों को इस छवि के बारे में मज़ेदार लग सकती हैंः \\n\\n1। दोनों छवियों के बीच का अंतरः बाईं ओर, हम दो महिलाओं को देखते हैं जो बहुत भावुक और क्रोधित हैं, जबकि दाईं ओर, हम एक बिल्ली को देखते हैं जो शांति से खाने की मेज पर बैठी है। \\n\\n2। बिल्ली की स्थिति की बेतुकी बातः खाने की मेज पर बिल्ली को उसके सामने भोजन की थाली के साथ बैठे देखना आम बात नहीं है, इसलिए यह छवि अप्रत्याशित और हास्यास्पद है। \\n\\n3 बिल्ली की अभिव्यक्तिः बिल्ली महिलाओं की चिल्लाहट से डरी हुई प्रतीत होती है, जो छवि के हास्य को बढ़ाती है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "कौन से अवसरों पर कोई इस मीम का उपयोग करेगा?",
+        "answer": "नींद में सो रहे व्यक्ति के साथ मीम और चीनी कैप्शन \"रात की रात की रात की रात की रात की रात की रात की रात की रात\" (नींद के समय को छोड़कर, मैं सोना नहीं चाहता। लेकिन अन्य समय के दौरान, मैं सोना चाहता हूँ) का उपयोग विभिन्न अवसरों पर किया जा सकता है जहां नींद आने या परस्पर विरोधी इच्छाओं का विषय प्रासंगिक है। यहाँ कुछ परिदृश्य दिए गए हैं जहाँ यह मीम उपयुक्त हो सकता हैः \n \n संबंधित नींदः दिन के दौरान थके हुए या नींद आने की संबंधित भावना को व्यक्त करते समय मीम को सोशल मीडिया पर या बातचीत में साझा किया जा सकता है। यह उस संबंधित अनुभव को व्यक्त करने और दूसरों से एक हास्यपूर्ण प्रतिक्रिया उत्पन्न करने के लिए एक हल्के-फुल्के तरीके के रूप में काम कर सकता है जो संबंधित हो सकते हैं। \n \n काम या अध्ययन से संबंधित हास्यः इस मीम का उपयोग काम या अध्ययन से संबंधित संदर्भों में उन कार्यों के दौरान सोने या उनींदापन महसूस करने की इच्छा को हास्यपूर्ण रूप से व्यक्त करने के लिए किया जा सकता है जिनके लिए ध्यान और ध्यान की आवश्यकता होती है। इसे सहकर्मियों या सहपाठियों के बीच साझा किया जा सकता है ताकि मनोदशा को हल्का किया जा सके और जागते और सतर्क रहने की चुनौतियों की साझा समझ पैदा की जा सके। \n \n विलंब हास्यः मीम का उपयोग उत्पादक गतिविधियों में संलग्न होने के बजाय सोने या आराम करने की इच्छा के बीच आंतरिक संघर्ष को चित्रित करने के लिए भी किया जा सकता है। जिम्मेदारियों से बचने और विश्राम में शामिल होने की निरंतर इच्छा पर विलंब या हास्यपूर्ण आत्म-प्रतिबिंबों पर चर्चा करते समय इसे साझा किया जा सकता है। \n \n हास्य व्यंग्यः नींद के समय और अन्य समय पर सोने की इच्छा के बीच मीम के विरोधाभास का उपयोग विभिन्न संदर्भों में हास्य व्यंग्य के रूप में किया जा सकता है। इसे उन स्थितियों पर चर्चा करते समय साझा किया जा सकता है जहां हमारी इच्छाएं या व्यवहार अपेक्षित या उचित के विपरीत होते हैं, जो बातचीत में एक हास्यपूर्ण मोड़ जोड़ते हैं। \n \n अंततः, मीम को विभिन्न स्थितियों में नियोजित किया जा सकता है जहां नींद, परस्पर विरोधी इच्छाओं, या विडंबनापूर्ण स्थितियों का विषय चर्चा किए जा रहे विषय या भावना के साथ संरेखित होता है, जो बातचीत या ऑनलाइन बातचीत में हास्य और सापेक्षता का स्पर्श जोड़ता है।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "कौन से अवसरों पर कोई इस मीम का उपयोग करेगा?",
+        "answer": "यह मीम, जिसे आमतौर पर \"स्क्रीमिंग पांडा\" के रूप में जाना जाता है, आमतौर पर सदमे, आश्चर्य या डर को व्यक्त करने के लिए उपयोग किया जाता है। इसका उपयोग किसी चौंका देने वाली या अप्रत्याशित घटना के जवाब में या घबराहट या खतरे की भावना व्यक्त करने के लिए किया जा सकता है। कुछ संभावित अवसर जहां कोई इस मीम का उपयोग कर सकता है, उनमें शामिल हैंः \\n\\n-एक डरावनी फिल्म में कूदने के डर पर प्रतिक्रिया करना \\n-एक टीवी शो या पुस्तक में एक आश्चर्यजनक कथानक मोड़ का जवाब देना \\n-एक समाचार शीर्षक या वर्तमान घटना पर सदमा व्यक्त करना \\n-आगामी समय सीमा या परीक्षा के बारे में डर या चिंता व्यक्त करना \\n-एक खेल खेल या अन्य प्रतियोगिता में एक अप्रत्याशित परिणाम पर आश्चर्य दिखाना।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "कौन से अवसरों पर कोई इस मीम का उपयोग करेगा?",
+        "answer": "चीनी कैप्शन के साथ \"रोती हुई बिल्ली\" मीम \"माँ!\" आमतौर पर इसका उपयोग संकट, असहायता या आराम की भावना को व्यक्त करने के लिए किया जाता है। यहाँ कुछ अवसर हैं जहाँ कोई इस मीम का उपयोग कर सकता हैः \n \n भेद्यता व्यक्त करनाः मीम का उपयोग भेद्यता के क्षण को व्यक्त करने के लिए या जब अभिभूत महसूस करने के लिए किया जा सकता है। यह अपनी माँ को बुलाने के विचार को हास्यपूर्ण रूप से आह्वान करके दूसरों से समर्थन या सहानुभूति प्राप्त करने की भावना व्यक्त कर सकता है। \n \n आराम या सहानुभूति मांगनाः इस मीम को दोस्तों या ऑनलाइन समुदायों से सहानुभूति या समर्थन पैदा करने के लिए साझा किया जा सकता है। एक संबंधित और पहचानने योग्य मीम प्रारूप का उपयोग करके, यह उदासी, निराशा या भावनात्मक समर्थन की आवश्यकता की भावनाओं को प्रभावी ढंग से व्यक्त कर सकता है। \n \n आत्म-अपमानजनक हास्यः व्यक्तिगत स्थितियों या छोटी दुर्घटनाओं को प्रकाश में लाने के लिए मीम का उपयोग आत्म-अपमानजनक तरीके से भी किया जा सकता है। यह व्यक्तियों को दूसरों को आराम या आश्वासन प्रदान करने के लिए आमंत्रित करते हुए कथित \"असहायता\" के अपने क्षणों को हास्यपूर्ण रूप से उजागर करने की अनुमति देता है। \n \n चंचल भावनात्मक अतिशयोक्तिः मीम की नाटकीय और अतिरंजित अभिव्यक्ति का उपयोग एक ऐसी स्थिति या घटना पर जोर देने के लिए किया जा सकता है जो आवश्यक रूप से परेशान करने वाली नहीं है, लेकिन ध्यान या देखभाल की आवश्यकता हो सकती है। यह छोटी-मोटी असुविधाओं या हास्यपूर्ण अतिशयोक्ति को व्यक्त करते समय एक हास्यपूर्ण स्पर्श जोड़ सकता है। \n \n यह ध्यान रखना महत्वपूर्ण है कि मीम का उपयोग और व्याख्या अलग-अलग हो सकती है, और व्यक्ति इसे विभिन्न संदर्भों में अनुकूलित करने के लिए रचनात्मक तरीके खोज सकते हैं। उपरोक्त सुझाए गए अवसर इस बात की सामान्य समझ प्रदान करते हैं कि इस मीम का उपयोग इसके सामान्य विषयों और भावनात्मक स्वर के आधार पर कब किया जा सकता है।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "इस व्यंजन को कैसे पकाना है?",
+        "answer": "इस व्यंजन को \"हंगेरियन मशरूम सूप\" कहा जाता है। इस हंगेरियन मशरूम सूप में बहुत स्वाद होता है और इसे बनाना काफी तेज़ होता है। यह मुख्य रूप से एक मशरूम का सूप है लेकिन इसका बहुत सारा स्वाद अन्य अवयवों से प्राप्त होता है। मेरे परिवार को सूप पसंद है और यह उनके पसंदीदा में से एक है। \n \n \n तैयारी का समयः \n 15 मिनट \n पकाने का समयः \n 35 मिनट \n कुल समयः \n 50 मिनट \n सर्विंग्सः \n 6 \n \n \n सामग्री \n \n 4 बड़े चम्मच बिना नमक वाला मक्खन \n \n 2 कप कटा हुआ प्याज \n \n 1 पाउंड ताजा मशरूम, कटा हुआ \n \n \n 2 कप चिकन शोरबा \n \n 1 बड़ा चम्मच सोया सॉस \n \n 1 बड़ा चम्मच पेपरिका \n \n \n 2 बड़े चम्मच सूखे डिल खरपतवार \n \n प्याज डालें; पकाएँ और नरम होने तक हिलाएँ, लगभग 5 मिनट। मशरूम डालें और 5 मिनट और भूनें। शोरबा, सोया सॉस, पेपरिका और डिल में हिलाएं; गर्मी को कम करें, ढक दें और 15 मिनट के लिए पकाएं। \n \n चरण 2 \n दूध और आटे को एक अलग कटोरे में मिलाएं; मिश्रण होने तक सूप में हिलाएं। कवर करें और 15 मिनट के लिए पकाएं, कभी-कभी हलचल करें। \n \n चरण 3 \n खट्टा क्रीम, अजमोद, नींबू का रस, नमक और काली मिर्च डालें; लगभग 3 से 5 मिनट तक गर्म होने तक कम गर्मी पर हिलाएं। तुरंत परोसें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "इसे कैसे बनाया जाए?",
+        "answer": "इसे \"स्पार्कलिंग कैंटालूप अगुआ फ्रेस्का\" कहा जाता है। क्लब सोडा के साथ कैंटलूप और नींबू के रस के साथ यह ताज़ा अगुआ भित्तिचित्र एक गर्म दिन पर एकदम सही है। \n \n तैयारी का समयः \n 15 मिनट \n कुल समयः \n 15 मिनट \n सर्विंग्सः \n 8 \n \n सामग्री \n \n 2 पाउंड ताजा कैंटलूप क्यूब्स (6 कप) \n \n 2 कप पानी \n \n 6 बड़े चम्मच ताजा निचोड़ा हुआ नींबू का रस (2 नींबू से) \n \n 3 बड़े चम्मच शहद \n \n 1/4 बड़े चम्मच नमक \n \n \n 2 कप क्लब सोडा, ठंडा \n \n \n कैंटलूप तरबूज के गोले या क्यूब्स, गार्निश के लिए \n \n छलनी के माध्यम से दबाएँ; ठोस पदार्थों को फेंक दें। उबले हुए रस को एक बर्तन में डालें। \n \n चरण 2 \n परोसने के लिए तैयार होने तक ठंडा करें। परोसने से ठीक पहले क्लब सोडा डालें। बर्फ के ऊपर परोसें, और तरबूज की गेंदों और चूने के ज़ेस्ट ट्विस्ट के साथ चश्मे को सजाएं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "इस व्यंजन को कैसे पकाना है?",
+        "answer": "इस व्यंजन को \"जिंजर ग्लेज़्ड माही माही\" कहा जाता है। माही माही के लिए यह अदरक की चटनी स्वाद के साथ फट रही है और मीठे और खट्टे स्वाद दोनों संवेदनाओं को जोड़ती है। यह नुस्खा एक त्वरित और बहुत स्वादिष्ट है। आपको यह पसंद आएगा! \n \n \n तैयारी का समयः \n 5 मिनट \n पकाने का समयः \n 10 मिनट \n अतिरिक्त समयः \n 20 मिनट \n कुल समयः \n 35 मिनट \n परोसने का समयः \n 4 \n \n सामग्री \n \n 3 बड़े चम्मच शहद \n \n 3 बड़े चम्मच सोया सॉस \n \n 3 बड़े चम्मच बाल्समिक सिरका \n \n 2 बड़े चम्मच जैतून का तेल \n \n 1 छोटा चम्मच कसा हुआ ताजा अदरक की जड़ \n \n 1 लौंग लहसुन, या स्वाद के लिए कुचल \n \n \n नमक और काली मिर्च के साथ मछली के टुकड़ों का मौसम करें; उन्हें मैरिनेड के साथ पकवान में त्वचा के नीचे रखें। ढक दें और 20 मिनट के लिए ठंडा करें। \n \n चरण 2 \n मध्यम-उच्च गर्मी पर एक बड़ी कड़ाही में वनस्पति तेल गर्म करें। मछली के फिलेट निकालें, मैरीनेड आरक्षित करें। प्रत्येक तरफ 4 से 6 मिनट के लिए मछली को तलें, केवल एक बार मुड़ें, जब तक कि मछली एक कांटे से आसानी से चिपक न जाए। सर्विंग प्लेटर में फिलेट निकालें और गर्म रखें। \n \n चरण 3 \n आरक्षित मैरिनेड को कड़ाही में डालें; मध्यम गर्मी पर तब तक उबालें जब तक कि यह कम न हो जाए। मछली के ऊपर चम्मच से चिकनाई डालें और परोसें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "इस व्यंजन को कैसे पकाना है?",
+        "answer": "इस व्यंजन को \"स्ट्रॉबेरी रूबार्ब पाई\" कहा जाता है। यह स्ट्रॉबेरी रूबार्ब पाई हमारे घर में वसंत ऋतु की पसंदीदा मिठाई है। भराई में एक मीठा-तीखा स्वाद होता है; अपने पसंदीदा पाई क्रस्ट में बेक करें और वेनिला आइसक्रीम के साथ परोसें। \n \n तैयार करने का समयः \n 20 मिनट \n पकाने का समयः \n 35 मिनट \n अतिरिक्त समयः \n 30 मिनट \n कुल समयः \n 1 घंटे 25 मिनट \n परोसने का समयः \n 8 \n पैदावारः \n 1 9 इंच पाई \n \n सामग्री \n \n 1 कप सफेद चीनी \n \n 1⁄2 कप ऑल-पर्पस आटा \n \n 1 पाउंड रूबार्ब, 1/4 इंच स्लाइस में काटा \n \n 2 पिंट स्ट्रॉबेरी, हल्ड और चौथाई \n \n 1 नुस्खा \n \n चरण 2 \n एक बड़े कटोरे में, आटा और चीनी मिलाएं। \n \n चरण 3 \n स्ट्रॉबेरी और कटा हुआ रूबार्ब जोड़ें। चीनी और आटे के साथ टॉस करें और 30 मिनट के लिए खड़े होने दें। \n \n चरण 4 \n तैयार पाई क्रस्ट में भरना डालें। ऊपर से मक्खन डालें और ऊपर की परत से ढक दें। ऊपर और नीचे की परत के किनारों को पानी से सील कर दें। \n \n चरण 5 \n पेस्ट्री ब्रश का उपयोग करके पाई के ऊपर जर्दी लगाएं। \n \n चरण 6 \n चीनी के साथ छिड़के। \n \n चरण 7 \n भाप से बचने के लिए ऊपर से छोटे छेद करें। \n \n चरण 8 \n 400 डिग्री फ़ारेनहाइट (200 डिग्री सेल्सियस) पर, 35 से 40 मिनट के लिए, या बुलबुला और भूरा होने तक बेक करें। रैक पर ठंडा करें। \n \n चरण 9 \n आनंद लें!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "इस व्यंजन को कैसे पकाना है?",
+        "answer": "इस व्यंजन को \"प्रामाणिक चीनी अंडा रोल्स\" कहा जाता है। ये चीनी अंडे के रोल मेरी माँ से आते हैं जो अब तक की सबसे अच्छी रसोइया हैं-और मैं एक अचार खाने वाली हूँ। अगर मुझे यह पसंद है, तो आप करेंगे। यह बहुत प्रामाणिक है क्योंकि मेरा परिवार चीनी है और मैं भी। यह नुस्खा लिंग परिवार में कम से कम 300 साल पुराना है। \n \n \n तैयारी का समयः \n 1 घंटा \n पकाने का समयः \n 30 मिनट \n अतिरिक्त समयः \n 1 घंटा \n कुल समयः \n 2 घंटे 30 मिनट \n सर्विंग्सः \n 20 \n पैदावारः \n 20 अंडे के रोल \n \n \n सामग्री \n \n 4 चम्मच वनस्पति तेल, विभाजित \n \n 3 बड़े अंडे, पीटा \n \n 1 मध्यम सिर पत्तागोभी, बारीक कटा हुआ \n \n [00 1⁄2 गाजर, जूलियन \n \n 1 पाउंड चीनी बार्बे उबले अंडे डालें और बिना हिलाए तब तक पकाएँ जब तक कि वे नरम न हो जाएँ। अंडों को पलट दें और दूसरे पक्ष को मजबूत करने के लिए अतिरिक्त 20 सेकंड के लिए पकाएं। अंडे के पैनकेक को ठंडा करने के लिए एक तरफ रख दें, फिर पतले-पतले टुकड़ों में काट लें। \n \n चरण 2 \n बचे हुए वनस्पति तेल को एक कड़ाही या बड़ी कड़ाही में तेज गर्मी पर गर्म करें। पत्तागोभी और गाजर को मिलाएँ और 2 मिनट के लिए पकाएँ। सूअर का मांस, बांस के अंकुर, मशरूम, हरे प्याज, सोया सॉस, नमक, चीनी और एमएसजी जोड़ें; सब्जियां नरम होने तक पकाना जारी रखें, लगभग 6 मिनट। कटा हुआ अंडा मिलाएं, फिर मिश्रण को एक पैन पर फैलाएं, और लगभग 1 घंटे तक ठंडा होने तक ठंडा करें। \n \n अंडा रोल को इकट्ठा करने के लिए चरण 3 \n: अपने काम की सतह पर एक आवरण रखें जिसमें एक कोना आपकी ओर हो। रैपर के निचले तीसरे हिस्से पर एक ढेर में लगभग 3 बड़े चम्मच ठंडा भरा हुआ रखें। रैपर के ऊपरी दो किनारों पर अंडे की थोड़ी सी सफेदी को ब्रश करें, फिर नीचे के कोने को भरने के ऊपर से मोड़ें और आधे रास्ते तक मजबूती से लुढ़काएं। अंडे के रोल के ऊपर बाएँ और दाएँ किनारों को बारीकी से मोड़ें, फिर तब तक लुढ़काते रहें जब तक कि ऊपर के कोने अंडे के रोल को अंडे की सफेदी से सील नहीं कर देते। तैयार अंडे के रोल को प्लास्टिक के रैप से ढककर शेष अंडे के रोल रैपर के साथ दोहराएं ताकि यह सूख न जाए। \n \n चरण 4 \n एक कड़ाही या डीप-फ्रायर में लगभग 6 इंच तेल को 350 डिग्री फ़ारेनहाइट (175 डिग्री सेल्सियस) तक गर्म करें। \n \n चरण 5 \n फ्राई अंडा गोल्डन ब्राउन होने तक एक बार में 3 या 4 रोल करता है, 5 से 7 मिनट। कागज के तौलिए पर छान लें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "इस व्यंजन को कैसे पकाना है?",
+        "answer": "इस व्यंजन को \"चॉकलेट लेपित पीनट बटर क्रैकर\" कहा जाता है। \n \n तैयारी का समयः \n 30 मिनट \n पकाने का समयः \n 5 मिनट \n अतिरिक्त समयः \n 15 मिनट \n कुल समयः \n 50 मिनट \n सर्विंग्सः \n 40 \n पैदावारः \n 40 सैंडविच कुकीज़ \n \n सामग्री \n 3⁄4 कप मलाईदार या चंकी मूंगफली का मक्खन \n \n 2 पाउंड चॉकलेट बादाम की छाल, टुकड़ों में टूटी हुई \n \n 80 बटररी गोल पटाखे (जैसे रिट्ज़®) \n \n 2 1⁄4 औंस रंगीन कैंडी छिड़काव मूंगफली के मक्खन से भरी 40 सैंडविच कुकीज़ बनाने के लिए मूंगफली के मक्खन के किनारों को एक साथ दबाएं। \n \n चरण 2 \n बादाम की छाल को एक डबल बॉयलर के शीर्ष पर गर्म, लेकिन उबलते हुए, पानी पर पिघलाएं। गर्मी कम करें और पिघली हुई चॉकलेट को उबलते पानी के ऊपर डबल बॉयलर के ऊपर रखें। \n \n चरण 3 \n प्रत्येक सैंडविच कुकी को पिघली हुई चॉकलेट में डुबो दें, जिससे अतिरिक्त पानी वापस बर्तन में चला जाए। \n \n चरण 4 \n लेपित कुकीज़ को मोम वाले कागज पर रखें और तुरंत कैंडी के छिड़काव के साथ छिड़कें ताकि वे पिघली हुई चॉकलेट से चिपक जाएं। \n \n चरण 5 \n चॉकलेट के सेट होने तक कुकीज़ को रेफ्रिजरेटर में रखें, लगभग 15 मिनट।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "इस व्यंजन को कैसे पकाना है?",
+        "answer": "इस व्यंजन को \"ब्रोकोली और गाजर स्टिर फ्राई\" कहा जाता है। \n \n तैयारी का समयः \n 10 मिनट \n पकाने का समयः \n 16 मिनट \n कुल समयः \n 26 मिनट \n पैदावारः \n 5 कप \n \n सामग्री \n 5 1⁄2 कप ब्रोकोली फूल \n \n 1 गाजर, बारीक कटा हुआ \n \n 2 चम्मच पानी \n \n 1 चम्मच कॉर्नस्टार्च \n \n \n 1 चम्मच चिकन बुलियन दाने, या स्वाद के लिए \n \n \n नमक \n \n \n 2 बड़े चम्मच ब्रोकली डालें और लगभग 2 मिनट तक चमकीले हरे रंग तक खुला पकाएँ। ब्रोकली को एक स्लॉटेड चम्मच का उपयोग करके बर्फ के पानी के एक कटोरे में स्थानांतरित करें और खाना पकाने की प्रक्रिया को रोकने के लिए कई मिनटों के लिए डुबो दें। निकासी करें। \n \n चरण 2 \n उसी बड़े बर्तन में पानी को फिर से उबाल लें; कटा हुआ गाजर डालें और 1 मिनट के लिए पकाएं। निकासी करें। \n \n चरण 3 \n पानी और कॉर्नस्टार्च को एक कटोरे में चिकना होने तक मिलाएं। चिकन के दाने और नमक डालें और अच्छी तरह मिलाएँ। \n \n चरण 4 \n मूंगफली के तेल को एक कड़ाही या बड़ी कड़ाही में तेज गर्मी पर गर्म करें; ब्रोकोली और गाजर को 2 मिनट के लिए तलें। कॉर्नस्टार्च का मिश्रण जोड़ें; पकाएं और तब तक हिलाएं जब तक कि सब्जियां समान रूप से लेपित न हो जाएं, 1 से 2 मिनट।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "इस व्यंजन को कैसे पकाना है?",
+        "answer": "इस व्यंजन को \"क्रीम चीज और केकड़ा सुशी रोल्स\" कहा जाता है। \n \n तैयारी का समयः \n 20 मिनट \n पकाने का समयः \n 20 मिनट \n कुल समयः \n 40 मिनट \n सर्विंग्सः \n 2 \n पैदावारः \n 2 सुशी रोल \n \n \n सामग्री \n 1 कप बिना पके हुए सफेद चावल \n \n 2 कप पानी \n \n 2 बड़े चम्मच चावल का सिरका \n \n 1 चम्मच नमक \n \n \n 2 चादरें नोरी समुद्री शैवाल की चादरें \n \n \n 1⁄2 ककड़ी, छिलका और लंबाई में कटा हुआ \n \n \n चरण 2 \n चावल और पानी को तेज गर्मी पर एक कड़ाही में उबाल लें। गर्मी को मध्यम से कम करें, ढक दें और चावल के नरम होने और तरल के अवशोषित होने तक 20 से 25 मिनट तक पकाएं। चावल का सिरका और नमक मिलाएं। इसे पूरी तरह ठंडा होने दें। \n चरण 3 \n समुद्री शैवाल की चादरें बिछाएँ। हाथों को पानी से गीला करें, फिर प्रत्येक शीट पर ठंडा चावल समान रूप से फैलाएं, एक किनारे के साथ डेढ़ इंच का अंतर छोड़ दें। चावल के ऊपर खीरे, नकली केकड़े का मांस और क्रीम चीज़ के टुकड़ों को अंतराल के विपरीत एक सीधी रेखा में व्यवस्थित करें। सुशी को ऊपर से समुद्री शैवाल की चादर के खुले छोर तक घुमाएँ। \n चरण 4 \n एक तेज गीले चाकू का उपयोग करके, प्रत्येक रोल को 5 या 6 टुकड़ों में काट लें। किनारे पर कटा हुआ अदरक के साथ परोसें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "इस व्यंजन को कैसे पकाना है?",
+        "answer": "इस व्यंजन को \"वेगन स्वीट पोटेटो चिकपी करी\" कहा जाता है। \n \n तैयारी का समयः \n 10 मिनट \n पकाने का समयः \n 20 मिनट \n कुल समयः \n 30 मिनट \n परोसने का समयः \n 6 \n \n सामग्री \n 3 बड़े चम्मच जैतून का तेल \n \n 1 प्याज, कटा हुआ \n \n 2 लौंग लहसुन, कटा हुआ \n \n 2 चम्मच कटा हुआ ताजा अदरक की जड़ \n \n 1 (15 औंस) चना, सूखा हुआ \n \n 1 (14.5 औंस) कटा हुआ टमाटर \n \n 1 (14 औंस) कर सकते हैं प्याज, लहसुन और अदरक को गर्म तेल में नरम होने तक पकाएं, लगभग 5 मिनट। मटर, टमाटर प्यूरी, दालचीनी और मिर्च जोड़ें। एक उबाल आने दें, गर्मी को कम करें, और लगभग 15 मिनट तक नरम होने तक पकाएं। \n चरण 2 \n गर्म मसाला, जीरा, हल्दी, नमक और चिली फ्लेक्स के साथ सीजन करें। परोसने से पहले पालक डालें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "इस व्यंजन को कैसे पकाना है?",
+        "answer": "इस व्यंजन को \"लाइम चिकन सॉफ्ट टैकोस\" कहा जाता है। \n \n तैयारी का समयः \n 20 मिनट \n पकाने का समयः \n 30 मिनट \n कुल समयः \n 50 मिनट \n उपजः \n 10 सर्विंग्स \n \n सामग्री \n 1⁄2 पाउंड त्वचा रहित, हड्डी रहित चिकन स्तन मांस-क्यूब्स \n \n 2 हरे प्याज, कटा हुआ \n \n 1⁄2 कप लाल शराब सिरका \n \n 1⁄2 चूने, रस \n 2 लौंग लहसुन, कटा हुआ \n \n \n 1 चम्मच सूखी ओरेगानो \n \n \n 1 चम्मच सफेद चीनी \n \n \n हरा प्याज, सिरका, नींबू का रस, लहसुन, ओरेगानो, चीनी, नमक और काली मिर्च जोड़ें। 10 मिनट के लिए धीमी आंच पर पकाएं। \n चरण 2 \n एक लोहे की कड़ाही को मध्यम आंच पर गर्म करें। पैन में एक टॉर्टिला रखें, गर्म करें और दूसरी तरफ गर्म करने के लिए पलट दें। शेष टॉर्टिला के साथ दोहराएं। टमाटर, सलाद, पनीर और साल्सा के साथ गर्म टॉर्टिला में चूने के चिकन का मिश्रण परोसें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द शॉशैंक रिडेम्पशन फ्रैंक डाराबॉन्ट द्वारा लिखित और निर्देशित 1994 की अमेरिकी ड्रामा फिल्म है, जो 1982 के स्टीफन किंग उपन्यास रीटा हेवर्थ और शॉशैंक रिडेम्पशन पर आधारित है। यह फिल्म बैंकर एंडी डुफ्रेन्स (टिम रॉबिन्स) की कहानी बताती है, जिसे निर्दोष होने के दावे के बावजूद अपनी पत्नी और उसके प्रेमी की हत्या के लिए शॉशैंक राज्य जेल में आजीवन कारावास की सजा सुनाई जाती है। अगले दो दशकों में, वह एक साथी कैदी, प्रतिबंधित तस्कर एलिस \"रेड\" रेडिंग (मॉर्गन फ्रीमैन) से दोस्ती करता है, और जेल वार्डन सैमुअल नॉर्टन (बॉब गुंटन) के नेतृत्व में धन शोधन अभियान में महत्वपूर्ण भूमिका निभाता है। विलियम सैडलर, क्लैन्सी ब्राउन, गिल बेलोज़ और जेम्स व्हिटमोर सहायक भूमिकाओं में दिखाई देते हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द गॉडफादर 1972 की अमेरिकी अपराध फिल्म [2] है जिसका निर्देशन फ्रांसिस फोर्ड कोपोला ने किया है, जिन्होंने मारियो पुजो के साथ पटकथा का सह-लेखन किया है, जो इसी शीर्षक के पुजो के 1969 के सबसे अधिक बिकने वाले उपन्यास पर आधारित है। फिल्म में मार्लन ब्रैंडो, अल पचिनो, जेम्स कान, रिचर्ड कैस्टेलानो, रॉबर्ट डुवल, स्टर्लिंग हेडन, जॉन मार्ले, रिचर्ड कोंटे और डायने कीटन ने अभिनय किया है। यह द गॉडफादर त्रयी में पहली किस्त है, जो 1945 से 1955 तक कुलपिता विटो कोरलियोन (ब्रैंडो) के तहत कोरलियोन परिवार का वर्णन करती है। यह उनके सबसे छोटे बेटे, माइकल कोरलियोन (पचिनो) के अनिच्छुक पारिवारिक बाहरी व्यक्ति से क्रूर माफिया बॉस में परिवर्तन पर केंद्रित है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द डार्क नाइट क्रिस्टोफर नोलन द्वारा निर्देशित 2008 की एक सुपरहीरो फिल्म है, जिसकी पटकथा उन्होंने अपने भाई जोनाथन के साथ मिलकर लिखी थी। डी. सी. कॉमिक्स सुपरहीरो, बैटमैन पर आधारित, यह बैटमैन बिगिन्स (2005) की अगली कड़ी और द डार्क नाइट ट्रिलॉजी की दूसरी फिल्म है। कथानक सतर्कता बैटमैन, पुलिस लेफ्टिनेंट जेम्स गॉर्डन और जिला अटॉर्नी हार्वे डेंट का अनुसरण करता है, जो गोथम शहर में संगठित अपराध को समाप्त करने के लिए एक गठबंधन बनाते हैं। उनके प्रयासों को एक अराजकतावादी मास्टरमाइंड जोकर द्वारा पटरी से उतार दिया जाता है, जो यह परीक्षण करना चाहता है कि बैटमैन शहर को अराजकता से बचाने के लिए कितनी दूर जाएगा। कलाकारों की टुकड़ी में क्रिश्चियन बेल, माइकल केन, हीथ लेजर, गैरी ओल्डमैन, आरोन एखर्ट, मैगी गिलेनहाल और मॉर्गन फ्रीमैन शामिल हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "ट्वेल्व एंग्री मेन रेजिनाल्ड रोज़ द्वारा लिखित एक अमेरिकी अदालती नाटक है जो एक हत्या के मुकदमे के निर्णायक मंडल के बारे में है। इसे शुरू में 1954 में एक टेलीविजन नाटक के रूप में प्रसारित किया गया था। अगले वर्ष इसे मंच के लिए अनुकूलित किया गया था। इसे सिडनी ल्यूमेट द्वारा निर्देशित इसी नाम की एक फिल्म के लिए रूपांतरित किया गया था और 1957 में रिलीज़ किया गया था। तब से इसे कई रीमेक, रूपांतरण और श्रद्धांजलि दी गई है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "शिंडलर्स लिस्ट 1993 की अमेरिकी महाकाव्य ऐतिहासिक ड्रामा फिल्म है जिसका निर्देशन और निर्माण स्टीवन स्पीलबर्ग ने किया है और इसे स्टीवन ज़ैलियन ने लिखा है। यह ऑस्ट्रेलियाई उपन्यासकार थॉमस केनेली के 1982 के उपन्यास शिंडलर्स आर्क पर आधारित है। यह फिल्म एक जर्मन उद्योगपति ऑस्कर शिंडलर का अनुसरण करती है, जिन्होंने द्वितीय विश्व युद्ध के दौरान अपने कारखानों में काम करके एक हजार से अधिक ज्यादातर पोलिश-यहूदी शरणार्थियों को प्रलय से बचाया था। इसमें शिंडलर के रूप में लियाम नीसन, एसएस अधिकारी अमोन गोथ के रूप में राल्फ फीनेस और शिंडलर के यहूदी लेखाकार इट्जाक स्टर्न के रूप में बेन किंग्सले हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द लॉर्ड ऑफ द रिंग्सः द रिटर्न ऑफ द किंग 2003 की एक महाकाव्य काल्पनिक साहसिक फिल्म है जिसका निर्देशन पीटर जैक्सन ने किया है और इसकी पटकथा फ्रैन वॉल्श, फिलिप्पा बॉयन्स और जैक्सन ने लिखी है। यह 1955 की द रिटर्न ऑफ द किंग पर आधारित है, जो जे. आर. आर. टोल्किन के उपन्यास द लॉर्ड ऑफ द रिंग्स का तीसरा खंड है। 2002 की द लॉर्ड ऑफ द रिंग्सः द टू टावर्स की अगली कड़ी, यह फिल्म द लॉर्ड ऑफ द रिंग्स त्रयी की अंतिम फिल्म है। इसमें एलिजा वुड, इयान मैककेलेन, लिव टायलर, विगो मोर्टेंसन, सीन एस्टिन, केट ब्लैंचेट, जॉन राइस-डेविस, बर्नार्ड हिल, बिली बॉयड, डोमिनिक मोनाघन, ऑरलैंडो ब्लूम, ह्यूगो वीविंग, मिरांडा ओटो, डेविड वेनहम, कार्ल अर्बन, जॉन नोबल, एंडी सर्किस, इयान होल्म और सीन बीन जैसे कलाकारों की टुकड़ी है। पिछली फिल्म के कथानक को जारी रखते हुए, फ्रोडो, सैम और गोल्लम वन रिंग को नष्ट करने के लिए माउंट डूम की ओर अपना अंतिम रास्ता बना रहे हैं, जो गोल्लम के सच्चे इरादों से अनजान हैं, जबकि मेरी, पिपिन, गैंडाल्फ, अरागोर्न, लेगोलस, गिमली और अन्य लोग मिनास तिरिथ में सौरोन और उसकी सेना के खिलाफ एकजुट हो जाते हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "पल्प फिक्शन 1994 की अमेरिकी अपराध फिल्म है जिसे क्वेंटिन टारनटिनो ने रोजर एवरी के साथ एक कहानी से लिखा और निर्देशित किया है। [3] यह लॉस एंजिल्स, कैलिफोर्निया में अपराध और हिंसा की चार परस्पर जुड़ी हुई कहानियाँ बताती है। फिल्म में जॉन ट्रैवोल्टा, सैमुअल एल. जैक्सन, ब्रूस विलिस, टिम रोथ, विंग रेम्स और उमा थर्मन हैं। शीर्षक 20 वीं शताब्दी के मध्य के दौरान लोकप्रिय लुगदी पत्रिकाओं और कठोर अपराध उपन्यासों को संदर्भित करता है, जो अपनी ग्राफिक हिंसा और मुक्का मारने वाले संवाद के लिए जाने जाते हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द लॉर्ड ऑफ द रिंग्सः द फैलोशिप ऑफ द रिंग 2001 की एक महाकाव्य काल्पनिक साहसिक फिल्म है जिसका निर्देशन पीटर जैक्सन ने फ्रैन वॉल्श, फिलिप्पा बॉयन्स और जैक्सन की पटकथा से किया है, जो 1954 की द फैलोशिप ऑफ द रिंग पर आधारित है, जो जे. आर. आर. टोल्किन के उपन्यास द लॉर्ड ऑफ द रिंग्स का पहला खंड है। यह फिल्म द लॉर्ड ऑफ द रिंग्स त्रयी की पहली फिल्म है। इसमें एलिजा वुड, इयान मैककेलेन, लिव टायलर, विगो मोर्टेंसन, सीन एस्टिन, केट ब्लैंचेट, जॉन राइस-डेविस, बिली बॉयड, डोमिनिक मोनाघन, ऑरलैंडो ब्लूम, क्रिस्टोफर ली, ह्यूगो वीविंग, सीन बीन, इयान होल्म और एंडी सर्किस जैसे कलाकारों की टुकड़ी है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द गॉडफादर पार्ट II 1974 की अमेरिकी महाकाव्य अपराध फिल्म है जिसका निर्माण और निर्देशन फ्रांसिस फोर्ड कोपोला ने किया है। यह फिल्म आंशिक रूप से मारियो पुजो के 1969 के उपन्यास द गॉडफादर पर आधारित है, जिन्होंने कोपोला के साथ पटकथा का सह-लेखन किया था, और यह 1972 की फिल्म द गॉडफादर की अगली कड़ी और पूर्व कड़ी दोनों है, जो समानांतर नाटक प्रस्तुत करती हैः एक 1958 की कहानी को उठाता है माइकल कोरलियोन (अल पचिनो), कोरलियोन परिवार के नए डॉन, अपने जीवन पर एक प्रयास के बाद पारिवारिक व्यवसाय की रक्षा करते हुए; प्रीक्वल में उनके पिता, विटो कोरलियोन (रॉबर्ट डी नीरो) की सिसिलियन बचपन से लेकर न्यूयॉर्क शहर में अपने पारिवारिक उद्यम की स्थापना तक की यात्रा शामिल है। कलाकारों की टुकड़ी में रॉबर्ट डुवैल, डायने कीटन, तालिया शायरे, मोर्गाना किंग, जॉन कैज़ेल, मारियाना हिल और ली स्ट्रासबर्ग भी हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "क्या आप इस फिल्म का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "फेयरवेल माई कॉन्क्यूबिन चेन कैगे द्वारा निर्देशित 1993 की एक चीनी ऐतिहासिक ड्रामा फिल्म है, जिसमें लेस्ली चेउंग, गोंग ली और झांग फेंगयी ने अभिनय किया है। लिलियन ली के उपन्यास पर आधारित लू वेई द्वारा पर्दे के लिए अनुकूलित, यह फिल्म चीन गणराज्य के शुरुआती दिनों से लेकर सांस्कृतिक क्रांति के बाद तक राजनीतिक रूप से उथल-पुथल वाले 20वीं शताब्दी के चीन में स्थापित है। यह दो पेकिंग ओपेरा अभिनेताओं और आजीवन दोस्तों चेंग देई (चेउंग) और डुआन शियाओलोउ (झांग) और शियाओलोउ की पत्नी जुक्सियन (गोंग) के बीच परेशान संबंधों का वर्णन करता है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "मोनालिसा इतालवी कलाकार लियोनार्डो दा विंची की आधी लंबाई की चित्रकारी है। \n \n इतालवी पुनर्जागरण की एक मौलिक उत्कृष्ट कृति मानी जाने वाली, इसे \"दुनिया में कला की सबसे प्रसिद्ध, सबसे अधिक देखी जाने वाली, सबसे अधिक लिखी गई, सबसे अधिक गाई गई, सबसे अधिक पैरोडी की गई कृति\" के रूप में वर्णित किया गया है। पेंटिंग के नवीन गुणों में विषय की गूढ़ अभिव्यक्ति, रचना की स्मारकता, रूपों का सूक्ष्म प्रतिरूपण और वायुमंडलीय भ्रम शामिल हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "गर्ल विद ए पर्ल ईयररिंग (डचः मेइज़े मेट डी परेल) डच स्वर्ण युग के चित्रकार जोहान्स वर्मीर की एक तैल चित्रकारी है, जो लगभग 1665 में बनाई गई थी। सदियों से विभिन्न नामों से जाने जाने पर, यह 20वीं शताब्दी के अंत में अपने वर्तमान शीर्षक से वहाँ चित्रित लड़की द्वारा पहनी गई झुमके के बाद जाना जाने लगा। यह काम 1902 से द हेग में मॉरिट्शुइस के संग्रह में है और विभिन्न साहित्यिक और सिनेमाई उपचारों का विषय रहा है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द स्टेरी नाइट डच पोस्ट-इम्प्रेशनिस्ट चित्रकार विन्सेंट वैन गॉग द्वारा बनाई गई एक तेल-पर-कैनवास पेंटिंग है। जून 1889 में चित्रित, यह सूर्योदय से ठीक पहले सेंट-रेमी-डी-प्रोवेंस में उनके शरण कक्ष की पूर्व की ओर खिड़की से दृश्य को दर्शाता है, जिसमें एक काल्पनिक village.It जोड़ा गया है जो 1941 से न्यूयॉर्क शहर में आधुनिक कला संग्रहालय के स्थायी संग्रह में है, जिसे लिली पी. ब्लिस वसीयत के माध्यम से प्राप्त किया गया है। व्यापक रूप से वान गाग की महान कृति के रूप में माना जाता है, द स्टेरी नाइट पश्चिमी कला में सबसे अधिक पहचाने जाने वाले चित्रों में से एक है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द किस (जर्मन में डेर कुस) ऑस्ट्रियाई प्रतीकात्मक चित्रकार गुस्ताव Klimt.It द्वारा सोने के पत्ते, चांदी और प्लैटिनम के साथ एक तेल-पर-कैनवास पेंटिंग है, जिसे 1907 और 1908 में किसी समय चित्रित किया गया था, जिसे विद्वान उनकी \"स्वर्ण अवधि\" कहते हैं। इसे 1908 में लाइबेस्पार (प्रेमियों) शीर्षक के तहत प्रदर्शित किया गया था जैसा कि प्रदर्शनी की सूची में कहा गया है। पेंटिंग में एक जोड़े को एक-दूसरे को गले लगाते हुए दिखाया गया है, उनके शरीर समकालीन आर्ट नोव्यू शैली और पहले के कला और शिल्प आंदोलन के जैविक रूपों से प्रभावित शैली में सजाए गए विस्तृत सुंदर वस्त्रों में उलझे हुए हैं। \n \n यह चित्र अब बेल्वेडेर, वियना में ओस्टेरिचिशे गैलेरी बेल्वेडेर संग्रहालय में लटका हुआ है और इसे वियना सेसेशन (आर्ट नोव्यू का स्थानीय संस्करण) और पोर्ट्रेट ऑफ एडेले ब्लॉच-बाउर I के बाद क्लिम्ट का सबसे लोकप्रिय काम माना जाता है। इसे कई लोग कला की एक प्रसिद्ध कृति मानते हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द बर्थ ऑफ वीनस इतालवी कलाकार सैंड्रो बोटिसेली की एक पेंटिंग है, जिसे संभवतः 1480 के दशक के मध्य में निष्पादित किया गया था। इसमें देवी वीनस को उसके जन्म के बाद तट पर पहुँचते हुए दर्शाया गया है, जब वह पूरी तरह से विकसित समुद्र से उभरी थी (जिसे वीनस एनाडियोमीन कहा जाता है और अक्सर कला में चित्रित किया जाता है)। यह पेंटिंग इटली के फ्लोरेंस में उफिज़ी गैलरी में है। \n \n हालाँकि दोनों एक जोड़ी नहीं हैं, लेकिन चित्रकारी की चर्चा अनिवार्य रूप से बोटिसेली की अन्य बहुत बड़ी पौराणिक चित्रकारी, प्राइमावेरा के साथ की गई है, जो उफिज़ी में भी है। वे दुनिया के सबसे प्रसिद्ध चित्रों में से हैं, और इतालवी पुनर्जागरण के प्रतीक हैं; दोनों में से, जन्म प्राइमावेरा से बेहतर जाना जाता है। बहुत बड़े पैमाने पर शास्त्रीय पौराणिक कथाओं के विषयों के चित्रण के रूप में वे शास्त्रीय पुरातनता के बाद से पश्चिमी कला में लगभग अभूतपूर्व थे, जैसा कि जन्म में एक नग्न महिला आकृति का आकार और प्रमुखता थी। यह सोचा जाता था कि वे दोनों मेडिसी परिवार के एक ही सदस्य द्वारा नियुक्त किए गए थे, लेकिन यह अब अनिश्चित है। \n \n कला इतिहासकारों द्वारा उनका अंतहीन विश्लेषण किया गया है, जिसमें मुख्य विषय हैंः प्राचीन चित्रकारों का अनुकरण और विवाह समारोह का संदर्भ (आम तौर पर सहमत), पुनर्जागरण नव-प्लेटोवाद का प्रभाव (कुछ हद तक विवादास्पद), और आयुक्तों की पहचान (सहमत नहीं)। हालाँकि, अधिकांश कला इतिहासकार इस बात से सहमत हैं कि जन्म के अर्थ को समझने के लिए जटिल विश्लेषण की आवश्यकता नहीं है, जिस तरह से संभवतः प्राइमावेरा करता है। हालांकि पेंटिंग में सूक्ष्मताएं हैं, इसका मुख्य अर्थ ग्रीक पौराणिक कथाओं के पारंपरिक दृश्य का एक सीधा, यदि व्यक्तिगत, उपचार है, और इसकी अपील संवेदी और बहुत सुलभ है, इसलिए इसकी भारी लोकप्रियता है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "ग्रे और ब्लैक नंबर में व्यवस्था। 1, जिसे अपने बोलचाल के नाम व्हिस्लर्स मदर या पोर्ट्रेट ऑफ आर्टिस्ट्स मदर के नाम से जाना जाता है, 1871 में अमेरिकी मूल के चित्रकार जेम्स एबॉट मैकनील व्हिस्लर द्वारा बनाई गई कैनवास पर तेल में एक पेंटिंग है। पेंटिंग का विषय व्हिस्लर की माँ, एना मैकनील व्हिस्लर हैं। पेंटिंग 56.81 बाई 63.94 इंच (1,443 मिमी × 1,624 मिमी) है, जिसे व्हिस्लर के अपने डिजाइन के फ्रेम में प्रदर्शित किया गया है। यह पेरिस में म्यूसी डी 'ऑर्से द्वारा आयोजित किया जाता है, जिसे 1891 में फ्रांसीसी राज्य द्वारा खरीदा गया था। यह संयुक्त राज्य अमेरिका के बाहर किसी अमेरिकी कलाकार की सबसे प्रसिद्ध कृतियों में से एक है। इसे विभिन्न रूप से एक अमेरिकी प्रतीक और एक विक्टोरियन मोना लिसा के रूप में वर्णित किया गया है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "द अर्नोल्फिनी पोर्ट्रेट (या द अर्नोल्फिनी वेडिंग, द अर्नोल्फिनी मैरिज, द पोर्ट्रेट ऑफ जियोवानी अर्नोल्फिनी एंड हिज वाइफ, या अन्य शीर्षक) प्रारंभिक नीदरलैंड के चित्रकार जान वैन आइक द्वारा ओक पैनल पर 1434 में बनाई गई एक तैल चित्रकारी है। यह एक पूर्ण लंबाई का दोहरा चित्र बनाता है, माना जाता है कि यह इतालवी व्यापारी जियोवानी डी निकोलाओ अर्नोल्फिनी और उनकी पत्नी को चित्रित करता है, संभवतः फ्लेमिश शहर ब्रुग्स में उनके निवास में। \n \n इसे अपनी सुंदरता, जटिल प्रतिमा विज्ञान, ज्यामितीय ऑर्थोगोनल परिप्रेक्ष्य और दर्पण के उपयोग के साथ चित्र स्थान के विस्तार के कारण पश्चिमी कला में सबसे मूल और जटिल चित्रों में से एक माना जाता है। अर्न्स्ट गोम्ब्रिच के अनुसार \"अपने तरीके से यह उतना ही नया और क्रांतिकारी था जितना कि इटली में डोनाटेलो या मासासियो का काम। वास्तविक दुनिया का एक साधारण कोना अचानक एक पैनल पर लगा दिया गया था जैसे कि जादू से। इतिहास में पहली बार कलाकार शब्द के सच्चे अर्थों में एकदम सही चश्मदीद बन गया। इस चित्र को इरविन पानोफ्स्की और कुछ अन्य कला इतिहासकारों द्वारा विवाह अनुबंध का एक अनूठा रूप माना गया है, जिसे एक चित्र के रूप में दर्ज किया गया है। 1434 में वैन आइक द्वारा हस्ताक्षरित और दिनांकित, यह उसी कलाकार और उनके भाई ह्यूबर्ट द्वारा गेन्ट अल्टारपीस के साथ, टेम्पेरा के बजाय तेल में निष्पादित की गई सबसे पुरानी बहुत प्रसिद्ध पैनल पेंटिंग है। इस पेंटिंग को 1842 में लंदन में नेशनल गैलरी द्वारा खरीदा गया था।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "किंगमिंग महोत्सव के दौरान नदी के किनारे (किंगमिंग शांगहे तू) सोंग राजवंश के चित्रकार झांग जेदुआन (1085-1145) द्वारा एक हस्तलेख चित्र है और बाद की शताब्दियों में कई बार इसकी नकल की गई। यह उत्तरी गीत के दौरान लोगों के दैनिक जीवन और राजधानी, बियांजिंग (वर्तमान में कैफेंग) के परिदृश्य को दर्शाता है। कहा जाता है कि इस विषय को अक्सर क़िंगमिंग त्यौहार में उत्सव की भावना और सांसारिक हंगामे का जश्न मनाने के लिए कहा जाता है, न कि छुट्टी के औपचारिक पहलुओं, जैसे कि मकबरे की सफाई और प्रार्थना। दाएँ से बाएँ पढ़ें, जैसे ही एक दर्शक इसे उतारता है, लगातार दृश्य अमीर से लेकर गरीब तक समाज के सभी स्तरों की जीवन शैली के साथ-साथ ग्रामीण क्षेत्रों और शहर में आर्थिक गतिविधियों को प्रकट करते हैं, और समय के कपड़ों और वास्तुकला की झलक पेश करते हैं। इस पेंटिंग को सभी चीनी चित्रों में सबसे प्रसिद्ध काम माना जाता है, और इसे \"चीन की मोना लिसा\" कहा गया है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "फुचुन पहाड़ों में निवास चीनी चित्रकार हुआंग गोंगवांग (1269-1354) द्वारा कुछ जीवित कार्यों में से एक है और इसे उनके सबसे महान कार्यों में से एक माना जाता है। 1348 और 1350 के बीच चित्रित, पेंटिंग को 1650 में दो टुकड़ों में जला दिया गया था। आज, एक टुकड़ा हांग्जो में झेजियांग प्रांतीय संग्रहालय में रखा गया है, जबकि दूसरा टुकड़ा ताइपे में राष्ट्रीय महल संग्रहालय में रखा गया है। एक साथ, पूरी पेंटिंग की लंबाई 691.3 सेमी होगी।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "क्या आप इस चित्र का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "तांग राजवंश और तिब्बत के बीच मैत्रीपूर्ण मुठभेड़ को दिखाने के लिए सम्राट ताइजोंग तिब्बती दूत को प्राप्त कर रहे हैं (जिसे प्रोविंस, बूनियन तु भी कहा जाता है) यान लिबेन द्वारा रेशम पर एक चित्र है। यह चित्र 129 सेंटीमीटर (51 इंच) लंबा और 38.5 सेंटीमीटर (15.2 इंच) चौड़ा है। बुनियन तू बीजिंग के पैलेस संग्रहालय में है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "देवदार सेब का जंग (जिम्नोस्पोरैंजियम जुनिपेरी-वर्जिनियाना) एक कवक रोग है जिसके लिए जुनिपर पौधों को अपने जटिल दो साल के जीवन-चक्र को पूरा करने की आवश्यकता होती है। विभिन्न जुनिपर प्रजातियों की युवा टहनियों पर लाल-भूरे रंग के पित्त के रूप में सर्दियों में बीजाणु। वसंत ऋतु की शुरुआत में, गीले मौसम के दौरान, ये गल फूल जाते हैं और बीजाणुओं के चमकीले नारंगी द्रव्यमान हवा से उड़ जाते हैं जहां वे अतिसंवेदनशील सेब और केकड़े-सेब के पेड़ों को संक्रमित करते हैं। इन पेड़ों पर विकसित होने वाले बीजाणु केवल अगले वर्ष जुनिपरों को संक्रमित करेंगे। साल दर साल, यह बीमारी जूनिपर से सेब से जूनिपर तक फिर से फैलनी चाहिए; यह सेब के पेड़ों के बीच नहीं फैल सकता है। \n \n सेब और केकड़े-सेब के पेड़ों पर, खिलने के तुरंत बाद पत्तियों की ऊपरी सतह पर पीले रंग के पिनहेड आकार के धब्बे देखें। ये धीरे-धीरे बड़े होकर चमकीले नारंगी-पीले धब्बों में बदल जाते हैं जिससे रोग की पहचान करना आसान हो जाता है। फल पर नारंगी रंग के धब्बे भी हो सकते हैं। भारी रूप से संक्रमित पत्ते समय से पहले गिर सकते हैं। \n \n उपचार \n 1. उपलब्ध होने पर प्रतिरोधी किस्मों का चयन करें। पेड़ों के नीचे से गिरी हुई पत्तियों और अन्य मलबे को उठाएं और उनका निपटान करें। संक्रमित जूनिपर से गल हटा दें। कुछ मामलों में, जुनिपर के पौधों को पूरी तरह से हटा दिया जाना चाहिए। जुनिपर मेजबान द्वारा छोड़े जा रहे बीजाणुओं से पेड़ों को बचाने के लिए, कलियों के टूटने से शुरू करते हुए, सेब पर साप्ताहिक रूप से उपयोग के लिए लेबल किए गए निवारक, रोग से लड़ने वाले कवकनाशी का प्रयोग करें। यह प्रति वर्ष केवल एक बार होता है, इसलिए इस वसंतकाल के प्रसार के बाद अतिरिक्त आवेदन आवश्यक नहीं हैं। जुनिपर पर, जंग को अगस्त के अंत और अक्टूबर के अंत के बीच कम से कम चार बार तांबे के घोल (0.5 से 2.0 औंस/गैलन पानी) के साथ पौधों का छिड़काव करके नियंत्रित किया जा सकता है। सेरेनेड गार्डन के साथ अधिकांश कवक और जीवाणु रोगों का सुरक्षित रूप से इलाज करें। यह व्यापक स्पेक्ट्रम जैव-कवकनाशक जैविक उपयोग के लिए पंजीकृत बेसिलस सबटिलिस के पेटेंट किए गए प्रकार का उपयोग करता है। सबसे अच्छी बात यह है कि SERENADE शहद की मधुमक्खियों और लाभकारी कीड़ों के लिए पूरी तरह से गैर-विषाक्त है। सल्फर और पाइरेथ्रिन युक्त, बोनाइड® ऑर्चर्ड स्प्रे कीटों के हमलों और कवक की समस्याओं के लिए एक सुरक्षित, एक-हिट सांद्र है। सर्वोत्तम परिणामों के लिए, मौसम की शुरुआत में एक सुरक्षात्मक स्प्रे (2.5 औंस/गैलन) के रूप में लागू करें। यदि रोग, कीट या गीला मौसम मौजूद है, तो एक गैलन पानी में 5 औंस मिलाएं। पौधे के सभी हिस्सों, विशेष रूप से नए अंकुरों का अच्छी तरह से छिड़काव करें। अपने क्षेत्र में अन्य संभावित समाधानों के लिए अपने स्थानीय कृषि विस्तार कार्यालय से संपर्क करें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "एंथ्राकनोस। यह कोलेटोट्रिचम वंश में कवक के कारण होता है, जो पादप रोगजनकों का एक सामान्य समूह है जो कई पादप प्रजातियों पर रोगों के लिए जिम्मेदार हैं। संक्रमित पौधों में तनों, पत्तियों या फलों पर काले, पानी से लथपथ घाव हो जाते हैं। इन घावों के केंद्र अक्सर बीजाणुओं के गुलाबी, जिलेटिनस द्रव्यमान से ढके होते हैं, विशेष रूप से नम, गर्म मौसम के दौरान। एंथ्राकनोज़ कुछ ही दिनों में एक सुंदर फसल को सड़े हुए कचरे में बदल सकता है। \n \n कवक रोग बीज, मिट्टी और बगीचे के मलबे में और उस पर अधिक सर्द हो जाता है। ठंडा गीला मौसम इसके विकास को बढ़ावा देता है, और बीजाणुओं के निरंतर विकास के लिए इष्टतम तापमान 75-85 °F के बीच होता है। कवक के विकास और अंकुरण के साथ-साथ पौधे के संक्रमण के लिए नमी की आवश्यकता होती है। यह हवा, बारिश, कीड़ों और बगीचे के औजारों से फैलता है। \n \n उपचार \n 1. जब भी संभव हो प्रतिरोधी पौधों की किस्मों को चुनें और पश्चिमी उगाए गए बीजों का उपयोग करें जो बीमारी के संपर्क में नहीं आए हैं। यदि यह कवक की समस्या आम है, तो अपने बीज को रोपण से न बचाएँ। \n 3. रोग के प्रसार से बचने के लिए, जब पौधे गीले हों तो बगीचों से बाहर रहें और उपयोग के बाद बगीचे के सभी उपकरणों (एक भाग ब्लीच से 4 भाग पानी) को कीटाणुरहित करना सुनिश्चित करें। संक्रमित पत्तियों, फलों या तनों को खाद न दें और फसल कटाई के बाद शरद ऋतु में बगीचे के क्षेत्रों को अच्छी तरह से साफ करें, ताकि कवक बीजाणुओं के लिए सर्दियों के स्थानों को कम किया जा सके। सेरेनेड गार्डन के साथ अधिकांश कवक और जीवाणु रोगों का सुरक्षित रूप से इलाज करें। यह व्यापक स्पेक्ट्रम जैव-कवकनाशक जैविक उपयोग के लिए पंजीकृत बेसिलस सबटिलिस के पेटेंट किए गए प्रकार का उपयोग करता है। सबसे अच्छी बात यह है कि SERENADE शहद की मधुमक्खियों और लाभकारी कीड़ों के लिए पूरी तरह से गैर-विषाक्त है। तरल तांबे के स्प्रे और सल्फर पाउडर को साप्ताहिक रूप से लगाया जाना चाहिए, जब वसंत ऋतु की शुरुआत में पत्ते विकसित होने लगते हैं और पूरे बढ़ते मौसम में जारी रहते हैं। दिन में जल्दी छिड़काव करें, और गर्म मौसम के दौरान आवेदन से बचें। रोपण से पहले बीजों का भी उपचार किया जा सकता है। नीम के तेल का छिड़काव एक जैविक, बहुउद्देशीय कवकनाशी/कीटनाशक/शमनकारी है जो अंडे, लार्वा और कीटों के वयस्क चरणों को मारता है और साथ ही पौधों पर कवक के हमले को रोकता है। जल्दी लागू करें, वसंत उभरने के पहले संकेत पर, हर 7-14 दिनों में एक निवारक उपाय के रूप में या 7-दिवसीय अनुसूची पर जब तक कि मौजूदा समस्याएं समाप्त नहीं हो जाती हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "यह बैक्टीरियल कैंसर है, जो चेरी और आलूबुखारे पर सबसे आम है, लेकिन खुबानी, आड़ू और कई अन्य प्रकार के पत्थर के फलों को भी प्रभावित कर सकता है। यदि तने या टहनियों पर डूबे हुए, पानी से लथपथ या \"चिपचिपे\" घाव बनते हैं तो इस पौधे की बीमारी का संदेह करें। जब वसंत ऋतु में पेड़ सक्रिय रूप से बढ़ने लगते हैं, तो इन घायल क्षेत्रों से एक खट्टा गंध वाला रस निकल सकता है। कैंकर आसपास की स्वस्थ छाल की तुलना में गहरे हो जाते हैं, और अंतर्निहित ऊतक लाल-भूरे से काले और नम होते हैं। \n \n नोटः यदि कैंकर शाखाओं या तने को बांधते हैं, तो रोगग्रस्त क्षेत्र के ऊपर की पत्तियां मुड़ जाती हैं और पीली हो जाती हैं। वृद्धि रुक जाती है और शाखा या पेड़ अंततः मर जाता है। \n \n कैंसर का कारण बनने वाला जीवाणु, स्यूडोमोनास सिरिंजी, घायल छाल या मौजूदा घाव के माध्यम से पेड़ों में प्रवेश करता है, जैसे कि एक टहनी या शाखा पर छंटाई काटना। वसंत में फ्रॉस्ट क्षति अतिरिक्त संक्रमण को बढ़ावा दे सकती है। बैक्टीरियल कैंकर संक्रमण शरद ऋतु, सर्दियों और शुरुआती वसंत (ठंडे, गीले मौसम के दौरान) के दौरान होते हैं और बारिश या पानी और छंटाई के उपकरणों से फैलते हैं। सक्रिय कैंसर में, संक्रमित कलियों में और संक्रमित और स्वस्थ पेड़ों और खरपतवारों की सतह पर बैक्टीरिया अधिक सर्दियों में रहते हैं। \n \n उपचार \n 1. खिलते समय फूलों के पेड़ों की कटाई करें जब घाव सबसे तेजी से ठीक हो जाते हैं। संक्रमित क्षेत्रों के नीचे से मुरझाए हुए या मृत अंगों को हटा दें। \n 3. शुरुआती वसंत और गिरावट में छंटाई से बचें जब बैक्टीरिया सबसे अधिक सक्रिय होते हैं। \n 4. सभी छंटाई कटौती को तुरंत टैंगलफुट® ट्री प्रूनिंग सीलर से उपचारित करें और प्रत्येक कटाई के बाद अपने छंटाई उपकरण को कीटाणुरहित करना सुनिश्चित करें-एक भाग ब्लीच से 4 भाग पानी। यदि पेड़ों के आधार के चारों ओर स्ट्रिंग ट्रिमर का उपयोग किया जाता है, तो संक्रमण को रोकने के लिए सांस लेने योग्य ट्री रैप के साथ छाल को नुकसान पहुंचाने से बचें। छाल-हानिकारक तापमान में उतार-चढ़ाव को कम करने के लिए पानी के साथ सफेद लेटेक्स पेंट के साथ छाल को ब्रश करें। \n 7. शोध से पता चला है कि इस पत्थर के फल की समस्या के खिलाफ तांबे के कवकनाशी को कुछ सफलता मिली है। हालांकि, परिणाम असंगत हैं। हम इसे कुल प्रबंधन कार्यक्रम के एक भाग के रूप में उपयोग करने की सलाह देते हैं। वायु परिसंचरण में सुधार करने और तने और मुकुट को सूखा रखने के लिए युवा पेड़ों के आधार के आसपास से खरपतवार और घास निकालें। ऑर्गेनोसाइड® प्लांट डॉक्टर एक पृथ्वी के अनुकूल प्रणालीगत कवकनाशी है जो पूरे पौधे के माध्यम से सजावटी, टर्फ, फल और अधिक पर बड़ी संख्या में बीमारियों का मुकाबला करने के लिए काम करता है। 1/3 से 3/4 औंस प्रति गैलन पानी मिलाएँ और छंटाई के घावों और आसपास के क्षेत्रों पर पेंट या स्प्रे करें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "यह फूलों का अंत सड़ांध है। टमाटर, काली मिर्च, खीरा और बैंगन का एक गंभीर विकार, खिलने के अंत में सड़न एक पर्यावरणीय समस्या है (कवक नहीं) जो अक्सर असमान पानी या कैल्शियम की कमी के कारण होती है। (ये संबंधित हो सकते हैं; असमान पानी कैल्शियम के सेवन में बाधा डाल सकता है।) यह आम उद्यान \"रोग\" अक्सर बहुत अधिक उर्वरक, उच्च नमक स्तर या सूखे से तेजी से वृद्धि के कारण होता है। \n \n खिलने के अंत में सड़ांध के लक्षण हरे और पके हुए दोनों फलों पर होते हैं और इसकी पहचान पानी से लथपथ क्षेत्रों द्वारा की जाती है जो धीरे-धीरे चौड़े होते हैं और निचले छोर पर धँसे, भूरे, चमड़े के धब्बों में परिपक्व हो जाते हैं। कई मामलों में, द्वितीयक रोगजनक, जो एक काले, अस्पष्ट जैसे विकास के रूप में दिखाई देते हैं, प्रभावित क्षेत्र पर हमला करते हैं और फल के पूरी तरह से सड़ने का कारण बनते हैं। खिलने के अंत में सड़ांध एक पौधे से दूसरे पौधे में नहीं फैलेगी। \n \n उपचार \n चूँकि इस पौधे की समस्या प्रकृति में शारीरिक है, कवकनाशी एक नियंत्रण उपाय के रूप में काम नहीं करेंगे। हम निम्नलिखित की अनुशंसा करते हैंः \n \n 1। जब भी संभव हो प्रतिरोधी सब्जियों की किस्में चुनें। मिट्टी को समान रूप से नम रखते हुए और केल्प या कैल्शियम घोल के साथ पौधों पर पत्तियों का छिड़काव करके समस्याओं को रोकें। रोपण के समय मिट्टी में कैल्शियम-हड्डी के भोजन, सीप के खोल या जिप्सम-के उच्च स्तर को जोड़ना आमतौर पर इस समस्या को विकसित होने से रोकता है। मल्च (पुआल, खाद, घास) की एक परत जुलाई और अगस्त के गर्म, सूखे दिनों के दौरान मिट्टी की नमी को संरक्षित करने में मदद करेगी। तरल कैल्शियम 5 प्रतिशत (1-2 टी. बी. एस. पी./गैलन पानी) के पत्तेदार अनुप्रयोगों का उपयोग इस आवश्यक पोषक तत्व की कमियों को ठीक करने या रोकने के लिए किया जा सकता है। सर्वोत्तम परिणामों के लिए, आसंजन बढ़ाने के लिए एक प्राकृतिक सर्फैक्टेंट के साथ संयोजन करें और पत्तियों को रन-ऑफ के बिंदु तक स्प्रे करें। मल्चिंग संयंत्र नमी को संरक्षित करने और अधिक समान जल आपूर्ति प्रदान करने में मदद करेंगे। उच्च नाइट्रोजन उर्वरकों का उपयोग करने से बचें जो वनस्पति विकास को गति देते हैं और पौधों द्वारा कैल्शियम के सेवन को कम करते हैं। प्लैनेट नेचुरल में संतुलित जैविक उर्वरकों का एक बड़ा चयन उपलब्ध है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "यह ब्राउन रॉट (मोनिलिनिया फ्रुक्टिकोला) है, जो बादाम, खुबानी, चेरी, आड़ू और आलूबुखारे के फूलों और फलों को प्रभावित करने वाली सबसे आम कवक रोग है। यह ममीकृत फल (पेड़ पर और जमीन पर) और संक्रमित टहनियों में अधिक सर्द हो जाता है। \n \n यह रोग सबसे पहले वसंत में खिलता है और वापस छोटी शाखाओं में बढ़ता है जिससे कैंसर होता है जो तनों को मार सकता है। रोग गंभीर होने पर बड़ी संख्या में फूल देने वाले तनों की मृत्यु हो जाती है। मृत फूल अक्सर गर्मियों में जुड़े रहते हैं। विकासशील या परिपक्व फल गोलाकार या भूरे रंग के धब्बे दिखाते हैं जो सतह पर तेजी से फैलते हैं और सड़े हुए क्षेत्रों पर बीजाणुओं के हल्के भूरे रंग के द्रव्यमान उत्पन्न होते हैं। सड़ा हुआ ऊतक अपेक्षाकृत दृढ़ और सूखा रहता है। \n \n भूरे सड़ांध बीजाणुओं को हवा, बारिश और कीड़ों द्वारा खुले या बिना खोले खिलने वाले फूलों और युवा अंकुरों तक ले जाया जाता है। यदि पानी मौजूद है-या तो बारिश, ओस या पानी से-फूल की सतह पर बीजाणु अंकुरित हो सकते हैं और पौधे में प्रवेश कर सकते हैं। रोग का विकास एक विस्तृत तापमान सीमा पर होता है और फूलों को कलियों के खुलने से लेकर पंखुड़ियों के गिरने तक संक्रमित किया जा सकता है। अनुकूल परिस्थितियों में, भूरा सड़ांध जल्दी फैलता है और पेड़ पर एक पूरी फसल पूरी तरह से नष्ट हो सकती है। \n \n उपचार \n 1. जब भी संभव हो प्रतिरोधी किस्मों का चयन करें। संक्रमित पौधों के अंगों को तुरंत हटाने और नष्ट करने से अलग-अलग पेड़ों और छोटे बगीचों में रोग के जीवन चक्र को तोड़ने में मदद मिलती है, और यह भूरे रंग के सड़ांध को हानिकारक स्तर से नीचे रखने के लिए पर्याप्त हो सकता है। पेड़ों के नीचे से किसी भी गिरे हुए फल या मलबे को निकालना और निकालना महत्वपूर्ण है। वायु परिसंचरण में सुधार के लिए कभी-कभी पेड़ों की छंटाई करें। इसके अलावा, फूलों, पत्तियों और फलों को गीला होने से बचाने के लिए नीचे से पानी दें। \n 5. सभी कटाव और घावों को सील करने और कीटों और रोग जीवों से बचाने के लिए टैंगलफुट® प्रूनिंग सीलर का उपयोग करें। उपयोग के लिए तैयार तांबे के कवकनाशी या सल्फर पाउडर को संक्रमित पेड़ों पर साप्ताहिक रूप से तब लगाया जाना चाहिए जब फूल अभी-अभी खुलने लगे हों और पूरे बढ़ते मौसम में जारी रहें। यदि संभव हो, तो समय अनुप्रयोग ताकि 12 घंटे का शुष्क मौसम अनुप्रयोग का अनुसरण करे। ऑर्गेनोसाइड® प्लांट डॉक्टर एक पृथ्वी के अनुकूल प्रणालीगत कवकनाशी है जो पूरे पौधे के माध्यम से सजावटी, टर्फ, फल और अधिक पर बड़ी संख्या में बीमारियों का मुकाबला करने के लिए काम करता है। इस विनाशकारी पत्थर के फल की समस्या से निपटने के लिए एक पत्तेदार स्प्रे (1 चम्मच/गैलन पानी) के रूप में लागू करें। सल्फर और पाइरेथ्रिन युक्त, बोनाइड® ऑर्चर्ड स्प्रे कीटों के हमलों और कवक की समस्याओं के लिए एक सुरक्षित, एक-हिट सांद्र है। सर्वोत्तम परिणामों के लिए, मौसम की शुरुआत में एक सुरक्षात्मक स्प्रे (2.5 औंस/गैलन) के रूप में लागू करें। यदि रोग, कीट या गीला मौसम मौजूद है, तो एक गैलन पानी में 5 औंस मिलाएं। पौधे के सभी हिस्सों, विशेष रूप से नए अंकुरों का अच्छी तरह से छिड़काव करें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "यह क्लब रूट है। अधिकांश ब्रासिका फसलों (पत्तागोभी, ब्रोकोली, फूलगोभी, आदि) को प्रभावित करना।), क्लब रूट उत्तरी अमेरिकी घरेलू उद्यानों में एक गंभीर पादप रोग है। यह मिट्टी से पैदा होने वाले कवक प्लाज्मोडियोफोरा ब्रासिका के कारण होता है जो जड़ के बालों के माध्यम से अतिसंवेदनशील पौधों को संक्रमित करता है। रोगग्रस्त जड़ें सूज जाती हैं, गलत आकार लेती हैं और अक्सर टूट-फूट कर सड़ जाती हैं। नतीजतन, पौधों को पानी और पोषक तत्वों को ठीक से अवशोषित करने में कठिनाई होती है। \n \n पौधे अक्सर खराब तरीके से बढ़ते हैं और दिन की गर्मी के दौरान मर जाते हैं; पौधे अक्सर ठंडी रातों के दौरान पुनर्जीवित होते हैं। बाहरी पत्ते पीले, बैंगनी या भूरे रंग के हो सकते हैं। क्लब रूट पैदावार को कम कर देगा और कुल फसल विफलता का कारण बन सकता है। \n \n कवक बीजाणु हवा, पानी और बगीचे के औजारों से फैल सकते हैं। रोग का विकास स्थितियों की एक विस्तृत श्रृंखला में हो सकता है, लेकिन अत्यधिक नमी, कम मिट्टी के पीएच और 64 और 77 डिग्री फ़ारेनहाइट के बीच मिट्टी के तापमान के कारण अनुकूल है। बीजाणु मिट्टी में 10 साल तक जीवित रह सकते हैं। \n \n उपचार \n 1. कवकनाशी इस मिट्टी में रहने वाले सूक्ष्म जीव का इलाज नहीं करेगी। \n 2. जब भी संभव हो प्रतिरोधी किस्मों का चयन करें। \n 3. इस बीमारी की घटना को रोकने के लिए बगीचे को साफ रखें और फसलों को घुमाएँ। \n 4. ध्यान रखें कि रोग के बीजाणु मिट्टी में 20 साल तक बने रह सकते हैं। यदि क्लब रूट मौजूद है तो आप मिट्टी को सौरकृत करना चाहेंगे। * \n 5. अतिसंवेदनशील खरपतवारों को नियंत्रित करें-सरसों, मूली, चरवाहे का पर्स-जो रोग के संभावित निर्माण को कम करने के लिए संक्रमित हो सकते हैं। उपयोग के बाद संक्रमित पौधों को सावधानीपूर्वक हटा दें और बगीचे के औजारों (एक भाग ब्लीच को 4 भाग पानी में) को कीटाणुरहित करें। शरद ऋतु में अपने बगीचे में सीप के खोल या डोलोमाइट चूने को मिलाकर अपनी मिट्टी के पीएच को अधिक क्षारीय 7.2 तक बढ़ाएं। पी. एच. की जाँच के लिए अक्सर सरल और किफायती मिट्टी परीक्षण किट उपलब्ध हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "यह कॉर्न स्मट है। अक्सर पिछवाड़े के बगीचों और छोटे खेतों में पाया जाने वाला मकई का धब्बा उस्टिलागो ज़ी कवक के कारण होता है और डंठल, पत्तियों, टसेल्स या कानों में दिखाई दे सकता है। लक्षण सबसे अधिक तब देखे जाते हैं जब कान मशरूम जैसे ट्यूमर या गल पैदा करते हैं। ये \"सूजन\" छोटी, सफेद-भूरे रंग की अनियमितताओं के रूप में शुरू होती हैं जो बीजाणुओं से भरते हुए फैलती हैं और काली हो जाती हैं। कान के गल 4 से 5 इंच व्यास तक बढ़ सकते हैं और टूटने पर हजारों बीजाणु छोड़ सकते हैं। इन कवक बीजाणुओं को नए पौधों को संक्रमित करने के लिए काफी दूर तक हवा से उड़ाया जाता है। पत्तियों पर गुलियाँ छोटी रहती हैं और अंततः कठोर और सूखी हो जाती हैं। \n \n बगीचे के मलबे और मिट्टी में मकई की स्मट ओवरविंटर होती है। यह हवा, बारिश और सिंचाई द्वारा ले जाया जाता है और गर्म, शुष्क मौसम में सबसे अच्छा काम करता है। बीजाणु 5 से 7 साल तक व्यवहार्य रह सकते हैं। खेती और उड़ने वाली मिट्टी से घर्षण सहित विभिन्न चोटों से घाव, कवक को पौधे में प्रवेश करने के लिए बिंदु प्रदान करते हैं। \n \n उपचार \n 1. सबसे अच्छी प्रतिरोधी किस्मों का चयन करें, जैसे कि सिल्वर किंग, फैंटासिया, ब्रिलियंट और सेनेका सेंसेशन, जब उपलब्ध हो। पिछवाड़े के बगीचों में, काले कवक बीजाणुओं को छोड़ने से पहले गल को इकट्ठा करने और नष्ट करने का सुझाव दिया जाता है। यह उपलब्ध कवक बीजाणुओं की संख्या को सीमित करेगा और रोग-चक्र को तोड़ने में मदद करेगा। खेती के दौरान जड़ों, डंठल और पत्तियों की चोट से बचकर संक्रमण बिंदुओं को कम करें। कीटों से नुकसान को रोकें, जैसे कि मकई बोरर, मॉन्टेरी® गार्डन कीट स्प्रे या अन्य जैविक कीटनाशक के साथ। कवकनाशी एक प्रभावी नियंत्रण विकल्प नहीं है क्योंकि यह बीमारी इतनी व्यापक है और मिट्टी में वर्षों तक बनी रह सकती है। उच्च नाइट्रोजन उर्वरक रोग की गंभीरता को बढ़ा सकते हैं-सब्जी के बगीचे में एक संतुलित जैविक उर्वरक का उपयोग करें। कटाई के बाद बगीचे के सभी मलबे को हटा दें और नष्ट कर दें और अगले वर्ष फसल आवर्तन का अभ्यास करें। संक्रमित पौधों के अंगों को थैले में रखें या जलाएं-खाद न बनाएं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "यह क्राउन गॉल है, जो मिट्टी से पैदा होने वाले बैक्टीरिया एग्रोबैक्टीरियम ट्यूमेफैसिएंस के कारण होने वाली एक आम पादप बीमारी है। यह दुनिया भर में पाया जाता है और अंगूर, रास्पबेरी, ब्लैकबेरी और गुलाब सहित लकड़ी की झाड़ियों और जड़ी-बूटियों वाले पौधों पर पाया जाता है। \n \n क्राउन गॉल के लक्षणों में गोल, मस्से जैसी वृद्धि शामिल है-2 इंच या व्यास में बड़ा-जो मिट्टी की रेखा पर या उसके ठीक ऊपर, या निचली शाखाओं और तनों पर दिखाई देता है। कई गल वाले पौधे पानी और पोषक तत्वों को तने के ऊपर ले जाने में असमर्थ हो सकते हैं और कमजोर, अविकसित और अनुत्पादक हो सकते हैं। युवा पौधों को पित्त ऊतक विकसित करके मारा जा सकता है। \n \n क्राउन गॉल के लिए जिम्मेदार बैक्टीरिया कई वर्षों तक मिट्टी में बने रह सकते हैं और तब छोड़े जाते हैं जब गल नमी से संतृप्त हो जाते हैं या जैसे ही पुराने गल सड़ जाते हैं। संवेदनशील पौधे ताजा घावों या घर्षण के माध्यम से संक्रमित होते हैं, जिनमें से कई छंटाई, जमने की चोट, मिट्टी के कीड़ों, खेती और अन्य कारकों का परिणाम हैं जो पौधों को नुकसान पहुंचा सकते हैं। नर्सरी स्टॉक अक्सर ग्राफ्टिंग और उभरते हुए निशान के माध्यम से संक्रमित होता है। \n \n उपचार \n 1। जब भी संभव हो प्रतिरोधी किस्मों का चयन करें और प्रतिष्ठित नर्सरी से पौधे खरीदें। ऐसे पौधे न खरीदें जिनमें सूजन या सूजन के संकेत दिखाई दें। \n 3. अतिसंवेदनशील पौधों की देखभाल करते समय, चोट या छंटाई के घावों से बचें जो मिट्टी के संपर्क में आ सकते हैं। स्ट्रिंग ट्रिमर क्षति से बचाने और अपने बगीचे के औजारों को साफ रखने के लिए ट्री रैप का उपयोग करें। प्राकृतिक बर्लैप के साथ सर्दियों की सुरक्षा प्रदान करें ताकि छाल टूट न जाए। \n 6. कई मामलों में, मौजूदा गल को एक तेज छंटाई चाकू से हटाया जा सकता है। संक्रमित पौधे के ऊतक को नष्ट करें और घाव का इलाज छंटाई सीलर से करें। यदि पौधा ठीक नहीं होता है, तो उसे हटा दें और नष्ट कर दें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "यह ग्रे मोल्ड (बोट्रिटिस सिनेरिया) है। पौधों की एक विस्तृत श्रृंखला (उल्लेख करने के लिए बहुत अधिक) पर पाया जाने वाला, ग्रे मोल्ड एक कवक रोग है जो बगीचों के माध्यम से तेजी से यात्रा करता है, विशेष रूप से नम, ठंडे से हल्के मौसम के दौरान। रोग के लक्षण पत्तियों, तनों, फूलों और उपज पर भूरे रंग के नरम, चिकने धब्बों के रूप में दिखाई देते हैं। धब्बे ग्रे फंगस बीजाणुओं की परत से ढके हो सकते हैं, खासकर अगर आर्द्रता अधिक हो। फल या पौधे सिकुड़ जाते हैं और सड़ जाते हैं और अक्सर सड़े हुए हिस्सों के नीचे काले, पत्थर जैसे स्क्लेरोटिया-कठोर कवक तंतुओं का एक कॉम्पैक्ट द्रव्यमान विकसित होता है। \n \n ग्रे मोल्ड अक्सर मिट्टी की सतह के पास या पौधे के चंदवा के सबसे घने क्षेत्रों में पाया जाता है। यह पहले मुरझाए हुए फूलों पर विकसित होता है, फिर पौधे के अन्य हिस्सों में तेजी से फैलता है। यह रोग भंडारण क्षेत्रों में भी हो सकता है जिससे कटे हुए फल और सब्जियां सड़ सकती हैं। \n \n बोट्रिटिस ब्लाइट पौधों पर, मिट्टी में या मिट्टी पर, और स्क्लेरोटिया के रूप में ओवरविंटर करता है। बीजाणु तब विकसित होते हैं जब परिस्थितियाँ इष्टतम होती हैं, और हवा या पानी के छिड़काव से फूलों या युवा पत्तियों पर चले जाते हैं, जहाँ वे अंकुरित होते हैं और पौधे में प्रवेश करते हैं। बीजाणुओं को अंकुरित होने के लिए ठंडे तापमान (45-60 F.) और उच्च आर्द्रता (93 प्रतिशत और उससे अधिक) की आवश्यकता होती है। अंकुरित बीजाणु शायद ही कभी सीधे हरे, स्वस्थ ऊतक में प्रवेश करते हैं, लेकिन बढ़ते पौधों पर घावों के माध्यम से प्रवेश कर सकते हैं। काटना विशेष रूप से संक्रमण के लिए अतिसंवेदनशील है। \n \n उपचार \n 1। पौधों के बीच वायु परिसंचरण में सुधार के लिए पौधों की छंटाई या हिस्सेदारी करें। प्रत्येक कटाई के बाद अपने छंटाई उपकरण (एक भाग ब्लीच से 4 भाग पानी) को कीटाणुरहित करना सुनिश्चित करें। यदि घर के अंदर बढ़ रहा है तो हवा के प्रवाह में सुधार के लिए एक छोटे क्लिप-ऑन पंखे का उपयोग करें। पौधों के नीचे की मिट्टी को साफ रखें और किसी भी गिरे हुए मलबे को इकट्ठा करें। पौधों के नीचे अच्छी मात्रा में जैविक खाद या मल्च डालें। मल्च फंगल बीजाणुओं को फूलों और पत्तियों पर फिर से छिटकने से रोकेंगे। \n 5. दिन के दौरान पौधों को सूखने का समय देने के लिए सुबह के समय पानी दें, या भिगोने वाली नली का उपयोग करें। संक्रमित पौधे की पत्तियों या तनों को खाद न दें, और फंगल बीजाणुओं के लिए सर्दियों के स्थानों को कम करने के लिए शरद ऋतु में बगीचे के क्षेत्रों को अच्छी तरह से साफ करें। \n 7. कॉपर-सोप कवकनाशी पौधों को रोग बीजाणुओं से बचाने में मदद करेंगे। फूलों की शुरुआत में लागू करें और कटाई तक हर 7-10 दिनों में जारी रखें। कवकनाशक स्प्रे विशेष रूप से आवश्यक होते हैं जब मौसम का पूर्वानुमान लंबे समय तक ठंडे, गीले मौसम की भविष्यवाणी करता है। बोट्राइटिस ब्लाइट सहित अधिकांश कवक रोगों का सेरेनेड गार्डन के साथ सुरक्षित रूप से इलाज करें। यह व्यापक स्पेक्ट्रम जैव-कवकनाशक जैविक उपयोग के लिए पंजीकृत बेसिलस सबटिलिस के पेटेंट किए गए प्रकार का उपयोग करता है। सबसे अच्छी बात यह है कि SERENADE मधुमक्खियों और लाभकारी कीड़ों के लिए पूरी तरह से गैर-विषाक्त है। जैविक उपयोग के लिए अनुमोदित एक जैविक कवकनाशी, माइकोस्टॉप ने रोग का दमन दिखाया है। अतिसंवेदनशील पत्तियों, फूलों और फलों पर सीधे स्प्रे (5 ग्राम/50 लीटर पानी) करें। हर 2 से 3 सप्ताह में, या रोग के दबाव के आधार पर आवश्यकतानुसार लागू करें। ग्रीन क्योर फंगिसाइड में पोटेशियम बाइकार्बोनेट का एक पेटेंट फॉर्मूला होता है-जो आमतौर पर खाद्य उत्पादों में उपयोग किया जाता है-जो संपर्क में आने पर कई पौधों की बीमारियों को मार देता है और 2 सप्ताह तक अवशिष्ट सुरक्षा प्रदान करता है। बीमारी के पहले संकेत पर, 1-2 चम्मच/गैलन पानी मिलाएं और पौधे की सभी खुली सतहों पर लगाएं। सर्वोत्तम सुरक्षा के लिए, 1 से 2 सप्ताह के अंतराल पर तब तक दोहराएं जब तक कि रोग के विकास के लिए परिस्थितियाँ अनुकूल न हों।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "यह बीमारी क्या है (संक्षिप्त परिचय दें) और इसका इलाज कैसे करें?",
+        "answer": "यह प्रारंभिक रोग है। टमाटर और आलू के पौधों पर आम, प्रारंभिक रोग अल्टरनेरिया सोलानी कवक के कारण होता है और पूरे संयुक्त राज्य में होता है। लक्षण सबसे पहले निचली, पुरानी पत्तियों पर संकेंद्रित छल्लों के साथ छोटे भूरे रंग के धब्बों के रूप में दिखाई देते हैं जो एक \"बैल की आंख\" पैटर्न बनाते हैं। जैसे-जैसे रोग परिपक्व होता है, यह पत्ते की सतह पर बाहर की ओर फैलता है जिससे यह पीला हो जाता है, मुरझा जाता है और मर जाता है। अंततः तना, फल और पौधे का ऊपरी हिस्सा संक्रमित हो जाएगा। फसलों को भारी नुकसान हो सकता है। \n \n प्रारंभिक ब्लाइट संक्रमित पौधे के ऊतकों पर अधिक सर्द हो जाता है और बारिश, सिंचाई, कीड़ों और बगीचे के उपकरणों के छिड़काव से फैलता है। यह रोग टमाटर के बीजों और आलू के कंद में भी होता है। इसके नाम के बावजूद, प्रारंभिक रोग पूरे बढ़ते मौसम में किसी भी समय हो सकता है। उच्च तापमान (80-85 °F.) और गीली, आर्द्र परिस्थितियाँ इसके तेजी से प्रसार को बढ़ावा देती हैं। कई मामलों में, खराब पोषित या तनावग्रस्त पौधों पर हमला किया जाता है। \n \n उपचार \n वायु परिसंचरण में सुधार और कवक की समस्याओं को कम करने के लिए पौधों की छंटाई या हिस्सेदारी करें। \n प्रत्येक कटाई के बाद अपनी छंटाई कतरनी (एक भाग ब्लीच से 4 भाग पानी) को कीटाणुरहित करना सुनिश्चित करें। \n पौधों के नीचे की मिट्टी को साफ और बगीचे के मलबे से मुक्त रखें। जैविक खाद की एक परत डालें ताकि बीजाणुओं को वनस्पति पर फिर से छिडकने से रोका जा सके। \n ड्रिप सिंचाई और भिगोने वाली नली का उपयोग पत्ते को सूखा रखने में मदद के लिए किया जा सकता है। \n सर्वोत्तम नियंत्रण के लिए, रोग सामान्य रूप से प्रकट होने से दो सप्ताह पहले या जब मौसम का पूर्वानुमान गीले मौसम की लंबी अवधि की भविष्यवाणी करता है, तो तांबे आधारित कवकनाशी जल्दी लागू करें। वैकल्पिक रूप से, जब रोग पहली बार प्रकट होता है तो उपचार शुरू करें, और जब तक आवश्यकता हो तब तक हर 7-10 दिनों में दोहराएं। \n तांबा और पाइरेथ्रिन युक्त, बोनाइड® गार्डन डस्ट कई कीट हमलों और कवक की समस्याओं के लिए एक सुरक्षित, एक-चरणीय नियंत्रण है। सर्वोत्तम परिणामों के लिए, पत्तियों के ऊपर और नीचे दोनों को एक पतली समान परत या धूल से ढक दें। पत्तियों के घनत्व के आधार पर, 10 औंस 625 वर्ग फुट को कवर करेगा। आवश्यकतानुसार हर 7-10 दिनों में अनुप्रयोगों को दोहराएं। \n सेरेनेड गार्डन एक व्यापक वर्णक्रम है, जो कई महत्वपूर्ण पादप रोगों के नियंत्रण या दमन के लिए अनुशंसित निवारक जैव-कवकनाशक है। सर्वोत्तम परिणामों के लिए, पत्ते की बीमारी के विकास से पहले या संक्रमण के पहले संकेत पर इलाज करें। 7-दिवसीय अंतराल पर या आवश्यकतानुसार दोहराएं। \n कटाई के बाद बगीचे के सभी मलबे को हटा दें और नष्ट कर दें और अगले वर्ष फसल आवर्तन का अभ्यास करें। \n संक्रमित पौधे के अंगों को जलाएं या थैले में डालें। कम्पोस्ट न करें।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "सर आइज़ैक न्यूटन एफ. आर. एस. (25 दिसंबर 1642-20 मार्च) एक अंग्रेजी गणितशास्त्री, भौतिक विज्ञानी, खगोलशास्त्री, कीमियागर, धर्मशास्त्री और लेखक थे जिन्हें उनके समय में एक प्राकृतिक दार्शनिक के रूप में वर्णित किया गया था। वह वैज्ञानिक क्रांति और उसके बाद के प्रबोधन में एक प्रमुख व्यक्ति थे। उनकी अग्रणी पुस्तक फिलोसोफी नैचुरलिस प्रिंसिपिया मैथेमेटिका (प्राकृतिक दर्शन के गणितीय सिद्धांत), पहली बार 1687 में प्रकाशित हुई, जिसने पिछले कई परिणामों को समेकित किया और शास्त्रीय यांत्रिकी की स्थापना की। न्यूटन ने प्रकाशिकी में भी महत्वपूर्ण योगदान दिया, और असीम कलन विकसित करने के लिए जर्मन गणितशास्त्री गॉटफ्राइड विल्हेम लीबनिज़ के साथ श्रेय साझा किया।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "कन्फ्यूशियस (चीनीः;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; कन्फ्यूशियस की शिक्षाएँ और दर्शन पूर्वी एशियाई संस्कृति और समाज को रेखांकित करते हैं, जो आज भी पूरे चीन और पूर्वी एशिया में प्रभावशाली हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "काई लून (चीनीः; शिष्टाचार नाम जिंगझोंग (); सी. 50-62-121 सी. ई.), जिसे पहले त्साई लून के रूप में रोमन किया गया था, पूर्वी हान राजवंश के एक चीनी नपुंसक दरबार के अधिकारी थे। उन्हें पारंपरिक रूप से कागज और आधुनिक कागज बनाने की प्रक्रिया के आविष्कारक के रूप में माना जाता है। यद्यपि कागज के प्रारंभिक रूप तीसरी शताब्दी ईसा पूर्व से मौजूद थे, लेकिन पेड़ की छाल और भांग के सिरों के माध्यम से लुगदी को जोड़ने के कारण उनका कागज के इतिहास में एक महत्वपूर्ण स्थान है, जिसके परिणामस्वरूप बड़े पैमाने पर कागज का निर्माण और दुनिया भर में प्रसार हुआ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "क्रिस्टोफर कोलंबस (25 अगस्त और 31 अक्टूबर 1451-20 मई 1506 के बीच) जेनोआ गणराज्य के एक इतालवी खोजकर्ता और नाविक थे, जिन्होंने कैथोलिक राजाओं द्वारा प्रायोजित अटलांटिक महासागर में चार स्पेनिश-आधारित यात्राएं पूरी कीं, जिससे व्यापक यूरोपीय अन्वेषण और अमेरिका के यूरोपीय उपनिवेशीकरण का मार्ग खुल गया। उनके अभियान कैरिबियन और मध्य और दक्षिण अमेरिका के साथ पहला ज्ञात यूरोपीय संपर्क थे।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "अल्बर्ट आइंस्टीन (14 मार्च 1879-18 अप्रैल 1955) जर्मनी में जन्मे सैद्धांतिक भौतिक विज्ञानी थे। सापेक्षता के सिद्धांत को विकसित करने के लिए जाने जाने वाले, उन्होंने क्वांटम यांत्रिकी के सिद्धांत के विकास में भी महत्वपूर्ण योगदान दिया, और इस प्रकार आधुनिक भौतिकी में भी। उनके द्रव्यमान-ऊर्जा समतुल्यता सूत्र E = mc2, जो सापेक्षता सिद्धांत से उत्पन्न होता है, को \"दुनिया का सबसे प्रसिद्ध समीकरण\" करार दिया गया है। उनका काम विज्ञान के दर्शन पर इसके प्रभाव के लिए भी जाना जाता है। उन्हें 1921 में भौतिकी में नोबेल पुरस्कार \"सैद्धांतिक भौतिकी में उनकी सेवाओं के लिए, और विशेष रूप से फोटोइलेक्ट्रिक प्रभाव के नियम की उनकी खोज के लिए\" प्राप्त हुआ, जो क्वांटम सिद्धांत के विकास में एक महत्वपूर्ण कदम था। आवर्त सारणी में कृत्रिम तत्वों में से एक आइंस्टीनियम का नाम उनके सम्मान में रखा गया था।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "लुई पाश्चर फॉरएमईएमआरएस (27 दिसंबर 1822-28 सितंबर 1895) एक फ्रांसीसी रसायनज्ञ और सूक्ष्म जीवविज्ञानी थे जो टीकाकरण, सूक्ष्मजीव किण्वन और पाश्चराइजेशन के सिद्धांतों की अपनी खोजों के लिए प्रसिद्ध थे, जिनमें से अंतिम का नाम उनके नाम पर रखा गया था। रसायन विज्ञान में उनके शोध ने रोगों के कारणों और रोकथाम की समझ में उल्लेखनीय सफलताएँ प्राप्त कीं, जिन्होंने स्वच्छता, सार्वजनिक स्वास्थ्य और अधिकांश आधुनिक चिकित्सा की नींव रखी। पाश्चर के कार्यों को रेबीज और एंथ्रेक्स के टीकों के विकास के माध्यम से लाखों लोगों की जान बचाने का श्रेय दिया जाता है। उन्हें आधुनिक जीवाणुविज्ञान के संस्थापकों में से एक माना जाता है और उन्हें \"जीवाणुविज्ञान के पिता\" और \"सूक्ष्म जीवविज्ञान के पिता\" के रूप में सम्मानित किया गया है (रॉबर्ट कोच के साथ; बाद वाला उपनाम भी एंटोनी वैन लीउवेनहोक को दिया गया)।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "गैलीलियो डी विंसेंजो बोनाइटी डी गैलीली (15 फरवरी 1564-8 जनवरी 1642) एक इतालवी खगोलशास्त्री, भौतिक विज्ञानी और इंजीनियर थे, जिन्हें कभी-कभी एक बहुश्रुत के रूप में वर्णित किया जाता है। आम तौर पर गैलीलियो के रूप में संदर्भित, उनके नाम का उच्चारण किया जाता है/त्तन्नॆ-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल-एल। उनका जन्म पीसा शहर में हुआ था, जो उस समय फ्लोरेंस के डची का हिस्सा था। गैलीलियो को अवलोकन खगोल विज्ञान, आधुनिक युग के शास्त्रीय भौतिकी, वैज्ञानिक पद्धति और आधुनिक विज्ञान का जनक कहा जाता है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "जोशुआ अब्राहम नॉर्टन (4 फरवरी, 1818-8 जनवरी, 1880), जिन्हें सम्राट नॉर्टन के नाम से जाना जाता है, सैन फ्रांसिस्को, कैलिफोर्निया के निवासी थे, जिन्होंने 1859 में खुद को \"संयुक्त राज्य का सम्राट नॉर्टन प्रथम\" घोषित किया। 1863 में, नेपोलियन तृतीय के मेक्सिको पर आक्रमण करने के बाद, उन्होंने \"मेक्सिको के संरक्षक\" की माध्यमिक उपाधि ले ली।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "लियोनेल आंद्रेस मेसी (स्पेनिश उच्चारणः [ljo ˈnel an ˈdɾes ˈmesi] (सुनो); जन्म 24 जून 1987), जिसे लियो मेसी के नाम से भी जाना जाता है, एक अर्जेंटीना के पेशेवर फुटबॉलर हैं जो लीग 1 क्लब पेरिस सेंट-जर्मेन के लिए फॉरवर्ड के रूप में खेलते हैं और अर्जेंटीना की राष्ट्रीय टीम के कप्तान हैं। व्यापक रूप से सर्वकालिक महान खिलाड़ियों में से एक माने जाने वाले मेस्सी ने रिकॉर्ड सात बैलन डी 'ओर पुरस्कार और रिकॉर्ड छह यूरोपीय गोल्डन शूज़ जीते हैं, और 2020 में उन्हें बैलन डी' ओर ड्रीम टीम में नामित किया गया था। 2021 में क्लब छोड़ने तक, उन्होंने अपना पूरा पेशेवर करियर बार्सिलोना के साथ बिताया था, जहाँ उन्होंने दस ला लीगा खिताब, सात कोपा डेल रे खिताब और चार बार यूईएफए चैंपियंस लीग सहित क्लब-रिकॉर्ड 34 ट्राफियाँ जीती थीं। अपने देश के साथ, उन्होंने 2021 कोपा अमेरिका और 2022 फीफा विश्व कप जीता। एक विपुल गोल करने वाले और रचनात्मक खिलाड़ी, मेस्सी के पास ला लीगा (474) में सबसे अधिक गोल करने, ला लीगा (36) और यूईएफए चैंपियंस लीग (आठ) में सबसे अधिक हैट्रिक लेने और ला लीगा (192) और कोपा अमेरिका (17) में सबसे अधिक सहायता करने का रिकॉर्ड है। उनके पास दक्षिण अमेरिकी पुरुष (102) द्वारा सबसे अधिक अंतर्राष्ट्रीय गोल भी हैं। मेसी ने क्लब और देश के लिए 800 से अधिक वरिष्ठ कैरियर गोल किए हैं, और एक क्लब (672) के लिए एक खिलाड़ी द्वारा सबसे अधिक गोल किए हैं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "क्या आप इस व्यक्ति का संक्षिप्त परिचय दे सकते हैं?",
+        "answer": "एलन मैथिसन ट्यूरिंग ओ. बी. ई. एफ. आर. एस. (23 जून 1912-7 जून 1954) एक अंग्रेजी गणितशास्त्री, कंप्यूटर वैज्ञानिक, तर्कशास्त्री, क्रिप्टैनालिस्ट, दार्शनिक और सैद्धांतिक जीवविज्ञानी थे। ट्यूरिंग सैद्धांतिक कंप्यूटर विज्ञान के विकास में अत्यधिक प्रभावशाली था, जो ट्यूरिंग मशीन के साथ एल्गोरिथ्म और गणना की अवधारणाओं का औपचारिकरण प्रदान करता था, जिसे सामान्य-उद्देश्य वाले कंप्यूटर का एक मॉडल माना जा सकता है। उन्हें व्यापक रूप से सैद्धांतिक कंप्यूटर विज्ञान और कृत्रिम बुद्धिमत्ता का जनक माना जाता है।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "नीचे दिया गया ग्राफ दीर्घकालिक अंतर्राष्ट्रीय प्रवास, यू. के., 1999-2008 को दर्शाता है। \n \n मुख्य विशेषताओं का चयन और रिपोर्टिंग करके जानकारी का सारांश दें, और जहां प्रासंगिक हो वहां तुलना करें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "चार्ट 1999 और 2008 के बीच यूके आप्रवासन, उत्प्रवास और शुद्ध प्रवास के बारे में जानकारी देता है। \n \n दिखाई गई अवधि में आप्रवासन और उत्प्रवास दोनों की दरें बढ़ीं, लेकिन आप्रवासन के आंकड़े काफी अधिक थे। 2004 और 2007 में शुद्ध प्रवास चरम पर था। \n \n 1999 में, 450,000 से अधिक लोग ब्रिटेन में रहने के लिए आए, जबकि प्रवास करने वाले लोगों की संख्या 300,000 से कम थी। शुद्ध प्रवास का आंकड़ा लगभग 160,000 था, और यह 2003 तक समान स्तर पर बना रहा। 1999 से 2004 तक, आप्रवासन दर में लगभग 150,000 लोगों की वृद्धि हुई, लेकिन प्रवास में बहुत कम वृद्धि हुई। 2004 में शुद्ध प्रवास लगभग 250,000 लोगों तक पहुंच गया। \n \n 2004 के बाद, आप्रवासन की दर अधिक रही, लेकिन प्रवास करने वाले लोगों की संख्या में उतार-चढ़ाव आया। 2008 में लगभग 420,000 लोगों के शिखर पर पहुंचने से पहले 2007 में उत्प्रवास में अचानक गिरावट आई। नतीजतन, 2007 में शुद्ध प्रवास का आंकड़ा बढ़कर लगभग 240,000 हो गया, लेकिन 2008 में वापस गिरकर लगभग 160,000 हो गया।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "नीचे दिया गया ग्राफ और तालिका दुनिया भर में पानी के उपयोग और दो अलग-अलग देशों में पानी की खपत के बारे में जानकारी देती है। \n \n मुख्य विशेषताओं का चयन और रिपोर्टिंग करके जानकारी का सारांश दें, और जहां प्रासंगिक हो वहां तुलना करें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "चार्ट दुनिया भर में कृषि, उद्योग और घरों के लिए उपयोग किए जाने वाले पानी की मात्रा और ब्राजील और कांगो लोकतांत्रिक गणराज्य में पानी के उपयोग की तुलना करते हैं। \n \n यह स्पष्ट है कि 1900 और 2000 के बीच वैश्विक जल की जरूरतों में काफी वृद्धि हुई, और उपयोग किए जाने वाले जल का सबसे बड़ा अनुपात कृषि में था। हम यह भी देख सकते हैं कि कांगो की तुलना में ब्राजील में पानी की खपत काफी अधिक थी। \n \n 1900 में, दुनिया भर में कृषि क्षेत्र द्वारा लगभग 500 किमी 3 पानी का उपयोग किया जाता था। औद्योगिक और घरेलू जल खपत के आंकड़े उस राशि का लगभग पांचवां हिस्सा थे। 2000 तक, कृषि के लिए वैश्विक जल उपयोग बढ़कर लगभग 3000 वर्ग किलोमीटर हो गया था, औद्योगिक जल उपयोग बढ़कर उस राशि के आधे से भी कम हो गया था, और घरेलू खपत लगभग 500 वर्ग किलोमीटर तक पहुंच गई थी। \n \n वर्ष 2000 में, ब्राजील और कांगो की आबादी क्रमशः 176 मिलियन और 5.2 मिलियन थी। ब्राजील में प्रति व्यक्ति पानी की खपत, 359 मीटर 3 पर, कांगो की तुलना में बहुत अधिक थी, केवल 8 मीटर 3 पर, और इसे इस तथ्य से समझाया जा सकता है कि ब्राजील के पास 265 गुना अधिक सिंचित भूमि थी।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "नीचे दिए गए चार्ट 1970 और 2000 के बीच संयुक्त राज्य अमेरिका में विवाह और तलाक की दर और दो वर्षों में वयस्क अमेरिकियों की वैवाहिक स्थिति के बारे में जानकारी देते हैं। \n \n मुख्य विशेषताओं का चयन और रिपोर्टिंग करके जानकारी का सारांश दें, और जहां प्रासंगिक हो वहां तुलना करें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "पहला बार चार्ट संयुक्त राज्य अमेरिका में विवाह और तलाक की संख्या में परिवर्तन दिखाता है, और दूसरा चार्ट 1970 और 2000 में अमेरिकी वयस्कों की वैवाहिक स्थिति के आंकड़े दिखाता है। \n \n यह स्पष्ट है कि 1970 और 2000 के बीच संयुक्त राज्य अमेरिका में शादियों की संख्या में गिरावट आई थी। अधिकांश वयस्क अमेरिकियों की शादी दोनों वर्षों में हुई थी, लेकिन 2000 में एकल वयस्कों का अनुपात अधिक था। \n \n 1970 में, संयुक्त राज्य अमेरिका में 25 लाख विवाह और 10 लाख तलाक हुए थे। 1980 में विवाह दर स्थिर रही, लेकिन वर्ष 2000 तक गिरकर 20 लाख हो गई। इसके विपरीत, तलाक की दर 1980 में चरम पर थी, लगभग 15 लाख तलाक, इस अवधि के अंत \n में 10 लाख तक वापस गिरने से पहले। \n \n लगभग 70 प्रतिशत अमेरिकी वयस्कों की शादी 1970 में हुई थी, लेकिन 2000 तक यह आंकड़ा गिरकर 60 प्रतिशत से भी कम हो गया। साथ ही, अविवाहित लोगों और तलाकशुदा लोगों के अनुपात में कुल मिलाकर लगभग 10 प्रतिशत की वृद्धि हुई। 2000 में विधवा अमेरिकियों का अनुपात थोड़ा कम था।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "नीचे दिया गया चार्ट चार यूरोपीय देशों में छह उपभोक्ता वस्तुओं पर खर्च की गई राशि को दर्शाता है। \n \n नीचे दी गई जानकारी का वर्णन करते हुए विश्वविद्यालय के व्याख्याता के लिए एक रिपोर्ट लिखें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "बार चार्ट जर्मनी, इटली, फ्रांस और ब्रिटेन में छह अलग-अलग वस्तुओं पर उपभोक्ता खर्च की तुलना करता है। \n \n यह स्पष्ट है कि ब्रिटिश लोगों ने सभी छह वस्तुओं पर अन्य तीन देशों के लोगों की तुलना में काफी अधिक पैसा खर्च किया। छह वस्तुओं में से, उपभोक्ताओं ने फोटोग्राफिक फिल्म पर सबसे अधिक पैसा खर्च किया। \n \n ब्रिटेन में लोगों ने फोटोग्राफिक फिल्म पर सिर्फ £170,000 से अधिक खर्च किया, जो चार्ट पर दिखाया गया सबसे अधिक आंकड़ा है। इसके विपरीत, छह उत्पादों में से प्रत्येक के लिए लगभग समान आंकड़ों (सिर्फ 150,000 पाउंड से कम) के साथ, जर्मन सबसे कम कुल खर्च करने वाले थे। \n \n खिलौनों पर खर्च करने के आंकड़े फ्रांस और इटली दोनों में समान थे, लगभग £160,000। हालांकि, जबकि फ्रांसीसी लोगों ने फोटोग्राफिक फिल्म और सीडी पर इटालियंस की तुलना में अधिक खर्च किया, इटालियंस ने व्यक्तिगत स्टीरियो, टेनिस रैकेट और इत्र के लिए अधिक भुगतान किया। फ्रांसीसी लोगों द्वारा टेनिस रैकेट पर खर्च की गई राशि, लगभग £145,000, चार्ट पर दिखाया गया सबसे कम आंकड़ा है।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "नीचे दी गई तालिका छह शहरों में भूमिगत रेलवे प्रणालियों के बारे में जानकारी देती है। \n \n मुख्य विशेषताओं का चयन और रिपोर्टिंग करके जानकारी का सारांश दें, और जहां प्रासंगिक हो वहां तुलना करें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "तालिका छह प्रमुख शहरों में भूमिगत रेल नेटवर्क के बारे में डेटा दिखाती है। \n \n तालिका छह नेटवर्कों की तुलना उनकी उम्र, आकार और प्रत्येक वर्ष उनका उपयोग करने वाले लोगों की संख्या के संदर्भ में करती है। यह स्पष्ट है कि तीन सबसे पुरानी भूमिगत प्रणालियाँ बड़ी हैं और नई प्रणालियों की तुलना में काफी अधिक यात्रियों की सेवा करती हैं। \n \n लंदन भूमिगत सबसे पुरानी प्रणाली है, जो 1863 में खोली गई थी। यह 394 किलोमीटर के मार्ग के साथ सबसे बड़ी प्रणाली भी है। दूसरी सबसे बड़ी प्रणाली, पेरिस में, 199 किलोमीटर के मार्ग के साथ, लंदन भूमिगत के आकार का केवल आधा है। हालाँकि, यह प्रति वर्ष अधिक लोगों की सेवा करता है। जबकि आकार के मामले में केवल तीसरा, टोक्यो प्रणाली आसानी से सबसे अधिक उपयोग की जाती है, प्रति वर्ष 1927 मिलियन यात्रियों के साथ। \n \n तीन नए नेटवर्कों में से, वाशिंगटन डी. सी. भूमिगत सबसे व्यापक है, जिसमें 126 किलोमीटर का मार्ग है, जबकि क्योटो और लॉस एंजिल्स प्रणालियों के लिए केवल 11 किलोमीटर और 28 किलोमीटर है। लॉस एंजिल्स नेटवर्क सबसे नया है, जो 2001 में खोला गया था, जबकि क्योटो नेटवर्क सबसे छोटा है और प्रति वर्ष केवल 45 मिलियन यात्रियों को सेवा प्रदान करता है।",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "नीचे दी गई तालिका 2002 में पाँच अलग-अलग देशों में अलग-अलग वस्तुओं पर उपभोक्ता खर्च की जानकारी देती है। \n \n मुख्य विशेषताओं का चयन और रिपोर्टिंग करके जानकारी का सारांश दें, और जहां प्रासंगिक हो वहां तुलना करें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "तालिका 2002 में पाँच देशों में उत्पादों और सेवाओं की तीन श्रेणियों के लिए उपभोक्ता व्यय के प्रतिशत को दर्शाती है। \n \n यह स्पष्ट है कि प्रत्येक देश में उपभोक्ता खर्च का सबसे बड़ा अनुपात भोजन, पेय और तंबाकू पर जाता है। दूसरी ओर, अवकाश/शिक्षा श्रेणी का प्रतिशत तालिका में सबसे कम है। \n \n पाँच देशों में से, भोजन, पेय और तंबाकू पर उपभोक्ता खर्च तुर्की में 32.14% और आयरलैंड में लगभग 29% था। अवकाश और शिक्षा पर खर्च का अनुपात भी तुर्की में सबसे अधिक था, 4.35% पर, जबकि कपड़ों और जूतों पर खर्च इटली में किसी भी अन्य देश की तुलना में 9 प्रतिशत पर काफी अधिक था। \n \n यह देखा जा सकता है कि स्वीडन में भोजन/पेय/तंबाकू और कपड़ों/जूतों के लिए राष्ट्रीय उपभोक्ता व्यय का सबसे कम प्रतिशत क्रमशः लगभग 16 प्रतिशत और केवल 5 प्रतिशत से अधिक था। स्पेन में इन श्रेणियों के लिए आंकड़े थोड़े अधिक थे, लेकिन अवकाश/शिक्षा के लिए सबसे कम आंकड़ा केवल 1.98% था।",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "नीचे दिए गए पाई चार्ट 1980 और 2000 में ऑस्ट्रेलिया और फ्रांस में ईंधन स्रोत द्वारा बिजली उत्पादन की इकाइयों को दर्शाते हैं। \n \n मुख्य विशेषताओं का चयन और रिपोर्टिंग करके जानकारी का सारांश दें, और जहां प्रासंगिक हो वहां तुलना करें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "पाई चार्ट दो अलग-अलग वर्षों में दो देशों में ईंधन के पांच अलग-अलग स्रोतों का उपयोग करके उत्पादित बिजली की मात्रा की तुलना करते हैं। \n \n ऑस्ट्रेलिया और फ्रांस दोनों में 1980 से 2000 तक कुल बिजली उत्पादन में नाटकीय रूप से वृद्धि हुई। जबकि दोनों देशों के लिए कुल समान थे, उपयोग किए जाने वाले ईंधन स्रोतों में बड़ा अंतर था। 1980 में ऑस्ट्रेलिया में बिजली की कुल 100 इकाइयों में से 50 का उत्पादन करने के लिए कोयले का उपयोग किया गया था, जो 2000 में 170 इकाइयों में से 130 तक बढ़ गया था। इसके विपरीत, 2000 में फ्रांस में परमाणु ऊर्जा सबसे महत्वपूर्ण ईंधन स्रोत बन गई, जिससे देश की लगभग 75 प्रतिशत बिजली का उत्पादन हुआ। \n \n ऑस्ट्रेलिया दोनों वर्षों में अपनी बिजली के केवल 25 प्रतिशत से कम के लिए पनबिजली पर निर्भर था, लेकिन फ्रांस में इस प्रकार की बिजली का उपयोग करके उत्पादित बिजली की मात्रा 5 से गिरकर केवल 2 इकाई रह गई। दूसरी ओर, फ्रांस में तेल एक अपेक्षाकृत महत्वपूर्ण ईंधन स्रोत बना रहा, लेकिन ऑस्ट्रेलिया में इसका उपयोग कम हो गया। दोनों देश बिजली उत्पादन के लिए 2000 की तुलना में 1980 में काफी अधिक प्राकृतिक गैस पर निर्भर थे।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "चार्लीवुड लंदन के पास एक गाँव है जिसकी आबादी उन्नीसवीं शताब्दी के मध्य से लगातार बढ़ी है। नीचे दिया गया नक्शा गाँव के विकास को दर्शाता है। \n \n गाँव के विकास का वर्णन करते हुए एक विश्वविद्यालय के व्याख्याता के लिए एक रिपोर्ट लिखें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "यह मानचित्र 1868 और 1994 के बीच चार्लीवुड नामक एक गाँव के विकास को दर्शाता है। \n \n यह स्पष्ट है कि परिवहन के बुनियादी ढांचे में सुधार के साथ गाँव का विकास हुआ। विकास की चार अवधियों को मानचित्र पर दिखाया गया है, और प्रत्येक आबादी वाला क्षेत्र मुख्य सड़कों, रेलवे या मोटरवे के पास है। 1868 से 1883 तक, चार्लीवुड ने मुख्य सड़कों में से एक के बगल में एक छोटे से क्षेत्र को कवर किया। चार्लीवुड पार्क और गोल्फ कोर्स अब इस मूल गाँव क्षेत्र के बगल में स्थित है। यह गाँव 1883 और 1922 के बीच दक्षिण की मुख्य सड़क के साथ विकसित हुआ और 1909 में इस क्षेत्र को पश्चिम से पूर्व की ओर पार करते हुए एक रेलवे लाइन बनाई गई थी। चार्लीवुड स्टेशन गाँव के इस हिस्से में है। \n \n चार्लीवुड का विस्तार 1970 तक रेलवे लाइन के साथ पूर्व और पश्चिम में जारी रहा। उस समय, गाँव के पूर्व में एक मोटरवे बनाया गया था, और 1970 से 1994 तक, गाँव का आगे विकास रेलवे और मुख्य सड़कों में से एक के साथ मोटरवे चौराहों के आसपास हुआ।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "नीचे दिया गया नक्शा गार्ल्सडन शहर का है। शहर के लिए एक नए सुपरमार्केट (एस) की योजना बनाई गई है। नक्शा सुपरमार्केट के लिए दो संभावित स्थलों को दर्शाता है। \n \n मुख्य विशेषताओं का चयन और रिपोर्टिंग करके जानकारी का सारांश दें, और जहां प्रासंगिक हो वहां तुलना करें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "मानचित्र में गार्ल्सडन नामक शहर में एक नए सुपरमार्केट के लिए दो संभावित स्थान (एस1 और एस2) दिखाए गए हैं। \n \n दोनों स्थलों के बीच मुख्य अंतर यह है कि एस1 शहर के बाहर है, जबकि एस2 शहर के केंद्र में है। इन स्थलों की तुलना सड़क या रेल द्वारा पहुँच और तीन छोटे शहरों के सापेक्ष उनकी स्थिति के संदर्भ में भी की जा सकती है। \n \n अधिक विस्तार से जानकारी को देखते हुए, S1 गार्ल्सडन के उत्तर पश्चिम में ग्रामीण इलाकों में है, लेकिन यह शहर के आवासीय क्षेत्र के करीब है। एस2 आवास क्षेत्र के भी करीब है, जो शहर के केंद्र को घेरता है। \n \n हिंडन, ब्रैनसडन और क्रैनसडन से गार्लसडन टाउन सेंटर तक मुख्य सड़कें हैं, लेकिन यह एक नो ट्रैफिक ज़ोन है, इसलिए कार द्वारा एस2 तक कोई पहुंच नहीं होगी। इसके विपरीत, एस1 हिंडन की मुख्य सड़क पर स्थित है, लेकिन ब्रैनसडन और क्रैनसडन से पहुंचना अधिक कठिन होगा। दोनों सुपरमार्केट स्थल रेलवे के करीब हैं जो हिंडन से क्रैनसडन तक गार्सडन से होकर गुजरती है।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "नीचे दिए गए आरेख से पता चलता है कि कैसे ऑस्ट्रेलियाई मौसम विज्ञान ब्यूरो विश्वसनीय पूर्वानुमान तैयार करने के लिए मौसम पर अप-टू-द-मिनट जानकारी एकत्र करता है। \n \n नीचे दी गई जानकारी का वर्णन करते हुए विश्वविद्यालय के व्याख्याता के लिए एक रिपोर्ट लिखें। \n \n आपको कम से कम 150 शब्द लिखने चाहिए।",
+        "answer": "यह आंकड़ा ऑस्ट्रेलियाई मौसम विज्ञान ब्यूरो द्वारा मौसम का पूर्वानुमान लगाने के लिए उपयोग की जाने वाली प्रक्रिया को दर्शाता है। \n \n इस प्रक्रिया में चार चरण हैं, जो मौसम के बारे में जानकारी के संग्रह से शुरू होते हैं। इस जानकारी का फिर विश्लेषण किया जाता है, प्रस्तुति के लिए तैयार किया जाता है और अंत में जनता के लिए प्रसारित किया जाता है। \n \n प्रक्रिया के पहले और दूसरे चरणों को देखते हुए, मौसम डेटा एकत्र करने के तीन तरीके हैं और इसका विश्लेषण करने के तीन तरीके हैं। सबसे पहले, आने वाली जानकारी को उपग्रह द्वारा प्राप्त किया जा सकता है और उपग्रह चित्र के रूप में विश्लेषण के लिए प्रस्तुत किया जा सकता है। एक ही डेटा को एक रडार स्टेशन को भी पारित किया जा सकता है और एक रडार स्क्रीन या सिनोप्टिक चार्ट पर प्रस्तुत किया जा सकता है। दूसरा, आने वाली जानकारी को सीधे रडार द्वारा एकत्र किया जा सकता है और रडार स्क्रीन या सिनोप्टिक चार्ट पर विश्लेषण किया जा सकता है। अंत में, बहती हुई नौकाएँ भी डेटा प्राप्त करती हैं जिन्हें एक सारग्राही चार्ट पर दिखाया जा सकता है। \n \n प्रक्रिया के तीसरे चरण में, मौसम प्रसारण कंप्यूटर पर तैयार किया जाता है। अंत में, इसे टेलीविजन पर, रेडियो पर या एक रिकॉर्ड की गई टेलीफोन घोषणा के रूप में जनता के लिए वितरित किया जाता है।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

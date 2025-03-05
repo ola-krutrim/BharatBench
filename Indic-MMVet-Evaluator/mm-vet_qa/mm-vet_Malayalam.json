@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "സമവാക്യത്തിൽ x എന്താണ്?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "അവസാനത്തെ സമവാക്യത്തിലെ d എന്താണ്?",
+        "answer": "25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "സമവാക്യത്തിൽ x എന്താണ്?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "താഴെ ഇടത് സമവാക്യത്തിനുള്ള ഉത്തരം എന്താണ്?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "വലതുവശത്തുള്ള രണ്ടാമത്തെ സമവാക്യത്തിനുള്ള ഉത്തരം എന്താണ്?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "വലതുവശത്തുള്ള രണ്ടാമത്തെ അവസാന സമവാക്യത്തിനുള്ള ഉത്തരം എന്താണ്?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "അവസാനത്തെ സമവാക്യത്തിൽ y എന്താണ്?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"X\" ഓപ്പറേറ്റർ എങ്ങനെ പുനർനിർവചിച്ചിരിക്കുന്നു എന്നതിന്റെ പാറ്റേൺ കണ്ടെത്തുകയും ചിത്രത്തിൽ നൽകിയിരിക്കുന്ന സമവാക്യത്തിന് ഉത്തരം നൽകുകയും ചെയ്യുക.",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "വലതുവശത്തുള്ള പെൺകുട്ടി ബോർഡിൽ എന്താണ് എഴുതുക?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "50 ഡോളറിന് എനിക്ക് എത്ര ഗാലൺ സൂപ്പർ ഗ്യാസോലിൻ ലഭിക്കും?",
+        "answer": "13. 6 <അല്ലെങ്കിൽ> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "ഡീസലും സാധാരണ പെട്രോളും തമ്മിലുള്ള വില വ്യത്യാസം എന്താണ്?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "ചിത്രത്തിൽ കാണിച്ചിരിക്കുന്ന ഒരു കുപ്പി മെർലോട്ടിന്റെയും ഒരു കുപ്പി കാബർനെറ്റിന്റെയും മൊത്തം വില എത്രയാണ്?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "മോയറ്റ് ഷാംപെയ്നിന്റെ മൂന്ന് കുപ്പികളുടെ വില എത്രയാണ്?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "എനിക്ക് ഒരു ഫംഗ്ഷി പിസ്സയും ഒരു പ്രോസിയുട്ടോ പിസ്സയും ലഭിക്കുന്നു. മൊത്തം എത്ര പണം ഞാൻ നൽകണം?",
+        "answer": "14. 8 <അല്ലെങ്കിൽ> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "എനിക്ക് രണ്ട് മാർഗരിറ്റ പിസ്സയും ഒരു കാൽസോണും ലഭിക്കുന്നു. മൊത്തം എത്ര പണം ഞാൻ നൽകണം?",
+        "answer": "25. 8 <അല്ലെങ്കിൽ> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "കിഴിവ് ലഭിക്കുന്നതിന് മുമ്പ് പന്നിയിറച്ചിയുടെ യഥാർത്ഥ വില എത്രയാണ്?",
+        "answer": "14.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "പെട്രോൾ വില എത്രയാണ്?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "മുൻവശത്തെ ഇടതുവശത്തുള്ള വ്യക്തി ധരിക്കുന്ന തൊപ്പിയുടെ നിറം എന്താണ്?",
+        "answer": "നീല",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "ഷാംപൂവിന്റെ വലതുവശത്ത് എന്താണ് സ്ഥിതി ചെയ്യുന്നത്?",
+        "answer": "കണ്ടീഷണർ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "ഏറ്റവും ശരിയായ കുപ്പിയിൽ ഏതാണ്?",
+        "answer": "മൌസ്സ്",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "ഫ്രിസ്ബിയും മനുഷ്യനും തമ്മിലുള്ള സ്പേഷ്യൽ ബന്ധം എന്താണ്?",
+        "answer": "മനുഷ്യന് മുകളിൽ <OR> മുകളിൽ ഇടത്",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "പാർക്കിംഗ് സ്ഥലം 33-ൽ ഏത് കാറാണ് ഉള്ളത്?",
+        "answer": "ഇല്ല <OR> ശൂന്യമാണ്",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "ചുവന്ന കാർ പാർക്കിംഗ് ഏത് സ്ഥലത്താണ്?",
+        "answer": "31.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "ഉരുളക്കിഴങ്ങിന് എത്രയാണ് വില?",
+        "answer": "എട്ട് <OR> 8.0",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "പ്ലമ്മിന്റെ അവകാശം ഏത് പഴമാണ്?",
+        "answer": "ഓറഞ്ച്",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "ചിത്രത്തെ അടിസ്ഥാനമാക്കി, ടിന ഫെയുടെ മൊത്തം അന്താരാഷ്ട്ര അവബോധം എന്താണ്?",
+        "answer": "35 ശതമാനം",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "ചിത്രത്തെ അടിസ്ഥാനമാക്കി, ഏത് രാജ്യത്താണ് ടിന ഫെയ്ക്ക് ഏറ്റവും ഉയർന്ന തലത്തിലുള്ള മൊത്തം അവബോധം ഉള്ളത്?",
+        "answer": "ഓസ്ട്രേലിയ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "നമ്പർ 2 ഭൂമിയുടെ ആന്തരിക ഘടനയെ സൂചിപ്പിക്കുന്നു?",
+        "answer": "മേൽക്കൂര",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "മഞ്ഞ സ്യൂട്ട് ധരിച്ച മോട്ടോർ സൈക്കിൾ യാത്രക്കാരൻ ഓടിക്കുന്ന മോട്ടോർ സൈക്കിളിൽ പ്രദർശിപ്പിച്ചിരിക്കുന്ന നമ്പർ എന്താണ്?",
+        "answer": "16.",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "വലതുവശത്തുള്ള മോട്ടോർ സൈക്കിളിൽ പ്രദർശിപ്പിച്ചിരിക്കുന്ന നമ്പർ എന്താണ്?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "ഈ രണ്ട് ജെറ്റുകളിൽ ഏതാണ് വലുത്?",
+        "answer": "അതുപോലെ തന്നെ",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "ഒരാൾ കാറിനേക്കാൾ വലുതാണോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "കുഴെച്ചതുമുതൽ കഷണങ്ങളായി വിഭജിക്കുന്നതിന് മുമ്പ് ഞാൻ എന്താണ് ചെയ്യേണ്ടത്?",
+        "answer": "ചൂടുള്ള സ്ഥലം <AND> 1 മണിക്കൂർ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "മുട്ടയും പാലും കലർത്തുമ്പോൾ ഞാൻ പഞ്ചസാര ചേർക്കേണ്ടതുണ്ടോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "പച്ചമരുന്നുകൾ, സോസേജ്, കൂൺ എന്നിവ മുറിക്കുന്നതിന് മുമ്പ് ഞാൻ എന്തുചെയ്യണം?",
+        "answer": "പാൻ ചെറുതായി തിരിക്കുക",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "എല്ലാ ആവശ്യത്തിനുമുള്ള മാവും ചേർക്കേണ്ട ഘട്ടത്തിന്റെ സൂചിക എന്താണ്?",
+        "answer": "മൂന്നാമത്തേത് <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "മൂന്നാമത്തെ ഘട്ടത്തിൽ നാം എന്താണ് ചേർക്കേണ്ടത്?",
+        "answer": "പാൽ",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "വിരലുകൾ അടിച്ചതിനുശേഷം കുട്ടികൾ എന്തുചെയ്യണം?",
+        "answer": "ഒരു കാലിൽ ചാടുക.",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "നാലാം ഘട്ടത്തിൽ എന്താണ് വരയ്ക്കേണ്ടത്?",
+        "answer": "മൂക്ക്",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "ടയർ പഞ്ചർ വ്യാപിപ്പിക്കാൻ പ്രോബ് ഉപയോഗിച്ചതിന് ശേഷമുള്ള ഘട്ടം എന്താണ്?",
+        "answer": "അറ്റകുറ്റപ്പണികൾ നീക്കം ചെയ്യുക",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "നിർദ്ദേശിക്കപ്പെട്ട രണ്ടാമത്തെ ഘട്ടം എന്താണ്?",
+        "answer": "നിങ്ങളുടെ പ്രേക്ഷകരെ തിരിച്ചറിയുക",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "ചിത്രത്തിൽ നൽകിയിരിക്കുന്ന അവസാന തന്ത്രം എന്താണ്?",
+        "answer": "ഒരു പാട്ട് ഉണ്ടാക്കുക",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "ഫോർഡ് F150 ഒഴികെയുള്ള മൊത്തം ഇന്ധനച്ചെലവ് എത്രയാണ്?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "ഏറ്റവും ഉയർന്ന ഇന്ധനച്ചെലവ് എന്താണ്?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "നിർമ്മിക്കുകയും വലിച്ചെറിയുകയും ചെയ്യുന്ന പ്ലാസ്റ്റിക്കിന്റെ അളവ് കണക്കിലെടുക്കുമ്പോൾ പ്ലാസ്റ്റിക് റീസൈക്ലിംഗിൽ ഏറ്റവും മോശം ജോലി ചെയ്തത് ഏത് വിഭാഗമാണ്?",
+        "answer": "പാക്കേജിംഗ്",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "ഉൽപ്പാദിപ്പിക്കുന്ന പ്ലാസ്റ്റിക്കിന്റെ അളവും ഉപേക്ഷിക്കുന്ന അളവും തമ്മിലുള്ള മെട്രിക് ടൺ വ്യത്യാസമെന്താണ്?",
+        "answer": "105.",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "2023ലെ കണക്കാക്കിയ ശരാശരി സ്റ്റാൻഡിംഗ് ചാർജ് എത്രയാണ്?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "2023-ലെ മൊത്തം ചെലവ് എത്രയാണ്?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "ലിവിംഗ് റൂം വിൻഡോ ഏത് ദിശയിലേക്കാണ് അഭിമുഖീകരിക്കുന്നത്?",
+        "answer": "വടക്ക്",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "ഈ ഫ്ലോർപ്ലാനിലെ അടുക്കളയിലെ ഉപകരണങ്ങൾ എന്തൊക്കെയാണ്?",
+        "answer": "ഓവൻ <AND> ഡിഷ്വാഷർ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "ഏത് മുറിയാണ് വലുത്, ഇരട്ട ഗാരേജാണോ അതോ ലിവിംഗ് റൂമാണോ?",
+        "answer": "ഇരട്ട ഗാരേജ്",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "ഏത് മുറിയാണ് വലുത്, മാസ്റ്റർ ബെഡ്റൂം അല്ലെങ്കിൽ പോർട്ടിയോ?",
+        "answer": "മാസ്റ്റർ ബെഡ്റൂം",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "വിളക്ക് കൊളുത്തുകയും ബൾബ് കത്തി നശിക്കുകയും ചെയ്താൽ എന്താണ് പരിഹാരം?",
+        "answer": "ബ്ലബ് മാറ്റിസ്ഥാപിക്കുക",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "ഫ്ലോചാർട്ടിലെ ഏത് ഘട്ടമാണ് വജ്രത്തിന്റെ ആകൃതിയിൽ വരച്ചിരിക്കുന്നത്?",
+        "answer": "വെള്ളം തിളപ്പിച്ചോ?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "കിടക്കയിൽ നിന്ന് കയറാനുള്ള ശരാശരി കാത്തിരിപ്പ് സമയം എത്രയാണ്?",
+        "answer": "15 മിനിറ്റ്",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "ശരാശരി ഭവന വിലയുടെ ഏറ്റവും ഉയർന്ന വളർച്ചാ നിരക്ക് ഏത് വർഷമാണ്?",
+        "answer": "2008",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012-ലെ ജപ്പാന്റെ ജി. ഡി. പി എന്താണ്?",
+        "answer": "6, 233.15 ബില്യൺ യു. എസ്. ഡോളർ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "ഏത് വർഷമാണ് റോവിംഗിനും അത്ലറ്റിക്സിനും ഒരേ എണ്ണം സ്വർണ്ണ മെഡലുകൾ ലഭിച്ചത്?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "ഏറ്റവും കൂടുതൽ ശമ്പളം ലഭിക്കുന്ന വ്യക്തി ഏത് വകുപ്പിൽ നിന്നാണ്?",
+        "answer": "ഭരണസംവിധാനം",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "പട്ടികയുടെ അടിസ്ഥാനത്തിൽ, വിൽക്കിൻസ് എത്രയാണ് സമ്പാദിക്കുന്നത്?",
+        "answer": "2500 <അല്ലെങ്കിൽ> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "ശരാശരിയെക്കാൾ കുറഞ്ഞ ലാഭ മാർജിൻ ഏത് രാജ്യത്താണ്?",
+        "answer": "ഇന്ത്യ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "ഏറ്റവും കൂടുതൽ ലാഭവിഹിതം ലഭിക്കുന്ന രാജ്യം ഏതാണ്?",
+        "answer": "ഓസ്ട്രേലിയ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "ഏത് മാസമാണ് ഏറ്റവും കൂടുതൽ വരുമാനം ലഭിക്കുന്നത്?",
+        "answer": "ഫെബ്രുവരി",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "മൊത്തം വരുമാനത്തിൽ ശമ്പളം എത്ര ശതമാനം സംഭാവന ചെയ്യുന്നു?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "ഇടതുവശത്തുള്ള ആൾ ആരാണ്?",
+        "answer": "കെയ്റ നൈറ്റ്ലി",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "ചിത്രത്തിലുള്ള വ്യക്തി ആരാണ്?",
+        "answer": "മിഷേൽ യോ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "താഴെ വലതുവശത്തുള്ള വ്യക്തി ആരാണ്?",
+        "answer": "ജാമി ഡോർനൻ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "ഏതാണ് മധുരമില്ലാത്തത്?",
+        "answer": "ഓട്സ്",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "ഇത് ഓർഗാനിക് ആപ്പിളാണോ?",
+        "answer": "അതെ",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "മുഴുവൻ ബാഗിന്റെയും കലോറി എത്രയാണ്?",
+        "answer": "275.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "ഈ വിഭവത്തിൻ്റെ പേരെന്താണ്?",
+        "answer": "മാപ്പോ ടോഫു",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "ഈ വിഭവത്തിൻ്റെ പേരെന്താണ്?",
+        "answer": "കാപ്രിസ് സാലഡ്",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "ഈ വിഭവത്തിൻ്റെ പേരെന്താണ്?",
+        "answer": "പാഡ് തായ്",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "ഇടതുവശത്തുള്ള കാറിന്റെ രൂപഘടന എന്താണ്?",
+        "answer": "വോൾക്സ്വാഗൺ",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "ഈ ഫാക്ടറി എന്താണ് നിർമ്മിക്കുന്നത്?",
+        "answer": "ക്യാമറ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "കാറിലുള്ള പച്ച ലോഗോ എന്താണ്?",
+        "answer": "രാക്ഷസൻ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "ഈ ലാൻഡ്മാർക്കിന്റെ പേരെന്താണ്?",
+        "answer": "ട്രെവി ജലധാര",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "ഈ ലാൻഡ്മാർക്കിന്റെ പേരെന്താണ്?",
+        "answer": "അൻബരിയ പള്ളി",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "ഈ ലാൻഡ്മാർക്കിന്റെ പേരെന്താണ്?",
+        "answer": "ബാവോച്ചു പഗോഡ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "ഈ ബാങ്ക് നോട്ടിന്റെ മുഖവില എന്താണ്?",
+        "answer": "അഞ്ച് <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "എന്താണ് ഈ ബാങ്ക് നോട്ട്?",
+        "answer": "പത്ത് പൌണ്ട് <അല്ലെങ്കിൽ> 10 പൌണ്ട് <അല്ലെങ്കിൽ> ബ്രിട്ടീഷ് പൌണ്ട്",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "ഈ ബാങ്ക് നോട്ട് ഏത് തരത്തിലുള്ള കറൻസിയാണ് പ്രതിനിധീകരിക്കുന്നത്?",
+        "answer": "സ്വീഡിഷ് <OR> ക്രോണർ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "ഏത് നെഞ്ച് എക്സ്റേ രോഗം കണ്ടെത്താം? (ഓപ്ഷനുകളിൽ ഇവ ഉൾപ്പെടുന്നുഃ അട്ടെലെക്ടാസിസ്; കാർഡിയോമെഗാലി; എഫ്യൂഷൻ; നുഴഞ്ഞുകയറ്റം; മാസ്; നോഡ്യൂൾ; ന്യൂമോണിയ; ന്യൂമോത്തോറാക്സ്; കൺസോളിഡേഷൻ; എഡിമ; എംഫിസെമ; ഫൈബ്രോസിസ്; പ്ലൂറൽ തടിപ്പ്; ഹെർണിയ.)",
+        "answer": "കാർഡിയോമെഗാലി",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "ഏത് നെഞ്ച് എക്സ്റേ രോഗം കണ്ടെത്താം? (ഓപ്ഷനുകളിൽ ഇവ ഉൾപ്പെടുന്നുഃ അട്ടെലെക്ടാസിസ്; കാർഡിയോമെഗാലി; എഫ്യൂഷൻ; നുഴഞ്ഞുകയറ്റം; മാസ്; നോഡ്യൂൾ; ന്യൂമോണിയ; ന്യൂമോത്തോറാക്സ്; കൺസോളിഡേഷൻ; എഡിമ; എംഫിസെമ; ഫൈബ്രോസിസ്; പ്ലൂറൽ തടിപ്പ്; ഹെർണിയ.)",
+        "answer": "ഹെർണിയ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "ഏത് നെഞ്ച് എക്സ്റേ രോഗം കണ്ടെത്താം? (ഓപ്ഷനുകളിൽ ഇവ ഉൾപ്പെടുന്നുഃ അട്ടെലെക്ടാസിസ്; കാർഡിയോമെഗാലി; എഫ്യൂഷൻ; നുഴഞ്ഞുകയറ്റം; മാസ്; നോഡ്യൂൾ; ന്യൂമോണിയ; ന്യൂമോത്തോറാക്സ്; കൺസോളിഡേഷൻ; എഡിമ; എംഫിസെമ; ഫൈബ്രോസിസ്; പ്ലൂറൽ തടിപ്പ്; ഹെർണിയ.)",
+        "answer": "നുഴഞ്ഞുകയറ്റം",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "എത്ര പക്ഷികൾ ഉണ്ട്?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "എത്ര തക്കാളി ഉണ്ട്?",
+        "answer": "5.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "എത്ര പുസ്തകങ്ങളുണ്ട്?",
+        "answer": "63.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "ചിത്രത്തിലെ എല്ലാ രംഗങ്ങളും എന്തൊക്കെയാണ്?",
+        "answer": "S3302CD",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "ചിത്രത്തിലെ എല്ലാ രംഗങ്ങളും എന്തൊക്കെയാണ്?",
+        "answer": "ലക്ഷ്മി ജ്വല്ലേഴ്സ്",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "ചിത്രത്തിലെ എല്ലാ രംഗങ്ങളും എന്തൊക്കെയാണ്?",
+        "answer": "നിങ്ങൾക്ക് സന്തോഷകരമായ ഒരു ചെറിയ ക്രിസ്മസ് ആശംസിക്കുക",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "ചിത്രത്തിലെ എല്ലാ രംഗങ്ങളും എന്തൊക്കെയാണ്?",
+        "answer": "5: 30 PM <AND> 88% <AND> മാരിയോ കാർട്ട് 8 ഡീലക്സ് <AND> മാരിയോ കാർട്ട് 8 ഡീലക്സ് <AND> സൂപ്പർ മാരിയോ ഒഡീസി <AND> ദി ലെജൻഡ് ഓഫ് സെൽഡ <AND> ബ്രീത്ത് ഓഫ് വൈൽഡ് <AND> ഓപ്ഷനുകൾ <AND> സ്റ്റാർട്ട്",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "ചിത്രത്തിലെ എല്ലാ രംഗങ്ങളും എന്തൊക്കെയാണ്?",
+        "answer": "മിസ്റ്റർ വില്യം ഷക്കീസ് കോമഡികൾ, ചരിത്രങ്ങൾ, ഐതിഹ്യങ്ങൾ എന്നിവ യഥാർത്ഥ യഥാർത്ഥ പകർപ്പുകൾ അനുസരിച്ച് പ്രസിദ്ധീകരിച്ചു.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "ചിത്രത്തിലെ എല്ലാ രംഗങ്ങളും എന്തൊക്കെയാണ്?",
+        "answer": "1642 ലെ കണക്റ്റിക്കട്ട് നിയമം ഏതെങ്കിലും പുരുഷനോ സ്ത്രീയോ മന്ത്രവാദിനിയാണെങ്കിൽ-അതായത്, പരിചിതമായ ഒരു ആത്മാവുമായി കൂടിയാലോചിക്കുകയോ അല്ലെങ്കിൽ കൂടിയാലോചിക്കുകയോ ചെയ്താൽ-അവരെ വധിക്കും.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "ഈ ഉപകരണത്തിന്റെ ബ്രാൻഡ് എന്താണ്?",
+        "answer": "മോട്ടോറോള",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "ലൈസൻസ് പ്ലേറ്റ് നമ്പർ എന്താണ്?",
+        "answer": "എഇഡി-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "ചിത്രത്തിലെ ഫ്രഞ്ച് രംഗങ്ങൾ എന്തൊക്കെയാണ്?",
+        "answer": "ഫ്രാൻസിന്റെ ചരിത്രവും ചരിത്രവും",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "ചിത്രത്തിലെ ചൈനീസ് സീൻ ടെക്സ്റ്റ് എന്താണ്?",
+        "answer": "<AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND>",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "ഏത് ഭൂഖണ്ഡമാണ് ഹൈലൈറ്റ് ചെയ്തിരിക്കുന്നത്?",
+        "answer": "ഏഷ്യ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "ഈ ഭക്ഷ്യ ശൃംഖലയിലെ നിർമ്മാതാക്കൾ ആരാണ്?",
+        "answer": "ഫൈറ്റോപ്ലാങ്ക്ടൺ <AND> കടൽപ്പായൽ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "ഓരോ സാമ്പിളിലെയും കണങ്ങളുടെ ശരാശരി ഗതികോർജ്ജം താരതമ്യം ചെയ്യുക. ചുവടെയുള്ള രേഖാചിത്രങ്ങൾ ഒരേ അടഞ്ഞതും കർക്കശവുമായ കണ്ടെയ്നറുകളിൽ രണ്ട് ശുദ്ധമായ വാതക സാമ്പിളുകൾ കാണിക്കുന്നു. ഓരോ നിറമുള്ള പന്തും ഒരു വാതക കണികയെ പ്രതിനിധീകരിക്കുന്നു. രണ്ട് സാമ്പിളുകൾക്കും ഒരേ എണ്ണം കണികകളുണ്ട്. ഏത് സാമ്പിളിലാണ് ഉയർന്ന താപനില? സാമ്പിൾ എ അല്ലെങ്കിൽ സാമ്പിൾ ബി?",
+        "answer": "സാമ്പിൾ എ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "ഈ ഹൈലൈറ്റ് ചെയ്ത നഗരങ്ങളിൽ ഏതാണ് ഏറ്റവും വടക്ക്?",
+        "answer": "ചിക്കാഗോ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "എവിടെയാണ് ഈ ഫോട്ടോ എടുത്തത്?",
+        "answer": "ടർക്കി <OR> സിറിയ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "എവിടെയാണ് ഈ ഫോട്ടോ എടുത്തത്?",
+        "answer": "ഓസ്കാർ <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "എവിടെയാണ് ഈ ഫോട്ടോ എടുത്തത്?",
+        "answer": "ഖത്തർ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "ഏത് രാജ്യത്താണ് ഈ ഫോട്ടോ എടുത്തത്?",
+        "answer": "ഓസ്ട്രേലിയ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "മരങ്ങൾക്ക് ജിറാഫികളേക്കാൾ ഉയരമുണ്ടോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "ഈ വിമാനം ടേക്ക് ഓഫ് ചെയ്യുകയാണോ അതോ ലാൻഡ് ചെയ്യുകയാണോ?",
+        "answer": "എടുത്തുകളയുന്നു",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "എത്ര പേർ ഇരിക്കുന്നു?",
+        "answer": "ഒരു",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "ചവറ്റുകുട്ട ശൂന്യമാണോ അതോ നിറഞ്ഞതാണോ?",
+        "answer": "ശൂന്യമായ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "ജിറാഫ് അപകടകരമാണെന്ന് തോന്നുന്നുണ്ടോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "വെള്ളത്തിൽ സീബ്രയുടെ പ്രതിഫലനം ഉണ്ടോ?",
+        "answer": "അതെ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "ആ മനുഷ്യൻ സന്തുഷ്ടനാണോ?",
+        "answer": "അതെ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "എല്ലാ പൂച്ചകൾക്കും ഒരേ നിറമാണോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "പശ്ചാത്തലത്തിൽ ആ വീഞ്ഞാണോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "ആ മനുഷ്യൻ താഴെ വീഴുമോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "ഏത് സ്ഥലമാണ് ചിത്രീകരിച്ചിരിക്കുന്നത്?",
+        "answer": "തീരം",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "അത് പുറത്താണോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "കാലാവസ്ഥ എങ്ങനെയുണ്ട്?",
+        "answer": "തെളിഞ്ഞ <അല്ലെങ്കിൽ> സണ്ണി",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "ലോഹംകൊണ്ട് നിർമ്മിച്ച വേലിയുടെ നിറം എന്താണ്?",
+        "answer": "പച്ച.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "മനുഷ്യന്റെ ഇടതുവശത്തുള്ള വ്യക്തി ഇരിക്കുന്നതായി തോന്നുന്നുണ്ടോ?",
+        "answer": "അതെ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "മേശയുടെ പ്ലേറ്റ് വൃത്തികെട്ടതും വെള്ളിയുമാണോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "ചിത്രത്തിൻറെ വലത്തോട്ടോ ഇടത്തോട്ടോ ആണ് തിരശ്ശീല?",
+        "answer": "ഇടത്തോട്ട്",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "ഈ ഫോട്ടോയിൽ കമ്പ്യൂട്ടർ ഉണ്ടോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "അരിയുടെ ഇടതുവശത്തുള്ള പാത്രത്തിനടിയിൽ നാപ്കിനുകൾ ഉണ്ടോ?",
+        "answer": "അതെ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "പഴവർഗ്ഗങ്ങളോ പച്ചക്കറികളോ ഉണ്ടോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "ഈ ചിത്രത്തിൽ പ്ലേറ്റുകളും ഫോർക്കുകളും ഉണ്ടോ?",
+        "answer": "അതെ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "ഈ പക്ഷിയുടെ പേരെന്താണ്?",
+        "answer": "തത്ത <OR> കോണൂർ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "ചിത്രത്തിലെ ഏത് മൃഗമാണ് വലുത്, പൂച്ചയോ നായയോ?",
+        "answer": "പൂച്ച",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "വലത് മേശയിൽ, ലാപ്ടോപ്പിന്റെ ഇടതുവശത്ത് എന്താണ്?",
+        "answer": "മേശ വിളക്ക് <അല്ലെങ്കിൽ> മേശ വിളക്ക്",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "മനുഷ്യൻ കുതിരയെ ഓടിക്കുന്നുണ്ടോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "സർഫർ സർഫ്ബോർഡിന്റെ ഇടത്തോട്ടോ വലത്തോട്ടോ ആണോ?",
+        "answer": "ഇടത്തോട്ട്",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "എന്താണ് വിളക്ക്, സൈഡ് ടേബിളോ നൈറ്റ്സ്റ്റാൻഡോ?",
+        "answer": "സൈഡ് ടേബിൾ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "സ്റ്റമ്പിനും വേലിക്കും പൊതുവായി എന്താണ് ഉള്ളത്?",
+        "answer": "മെറ്റീരിയൽ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "ചോപ്സ്റ്റിക്കുകളുടെ അതേ മെറ്റീരിയൽ ഉപയോഗിച്ചാണോ സ്പൂൺ നിർമ്മിച്ചിരിക്കുന്നത്?",
+        "answer": "അതെ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "ഷർട്ടിന് പട്ടത്തിൽ നിന്ന് വ്യത്യസ്തമായ നിറമുണ്ടോ?",
+        "answer": "അതെ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "ഈ ആളുകൾക്കെല്ലാം ഒരേ ലിംഗമുണ്ടോ?",
+        "answer": "ഇല്ല",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "ഈ രണ്ട് മൃഗങ്ങളും വ്യത്യസ്ത ഇനങ്ങളാണോ?",
+        "answer": "അതെ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "ആൾക്കാർ എവിടെ? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "അവർ ഒരു കോളേജ് ക്ലാസ് മുറിയിലാണ്. അവർക്ക് ചുറ്റും മേശകളും കസേരകളും ഉള്ളതിനാൽ അവർ കോളേജ് പ്രായക്കാരിയാണെന്ന് തോന്നുന്നതിനാൽ ഞാൻ അങ്ങനെ കരുതുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "എന്തുകൊണ്ടാണ് ആളുകൾ കറുത്ത വസ്ത്രം ധരിക്കുന്നത്? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "അവർ ഒരു ശവസംസ്കാരത്തിന് പോകുന്നു. ശവസംസ്കാരത്തിന് ആളുകൾ കറുപ്പ് ധരിക്കുന്നത് പരമ്പരാഗതമായതിനാൽ ഞാൻ അങ്ങനെ കരുതുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "എന്തുകൊണ്ടാണ് സ്ത്രീ വസ്ത്രം ധരിക്കുന്നത്? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "അവൾ കിടക്കാൻ തയ്യാറെടുക്കുകയാണ്. ആ മുറി ഒരു കിടപ്പുമുറിയായി തോന്നുകയും സ്ത്രീ അവളുടെ കിടക്കയുടെ പൊതുവായ ദിശയിലേക്ക് നീങ്ങുകയും ചെയ്യുന്നതിനാൽ ഞാൻ അങ്ങനെ കരുതുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "എവിടെയാണ് ഇത് സംഭവിക്കുന്നത്? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "ഒരു ഫാൻസി റെസ്റ്റോറന്റിലാണ് ഇത് സംഭവിക്കുന്നത്. ആ മനുഷ്യൻ ഫാൻസിലി വസ്ത്രം ധരിച്ചതും പശ്ചാത്തലം ആകർഷകവുമായതിനാൽ ഞാൻ അങ്ങനെ കരുതുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "വേനൽക്കാലമാണോ രംഗം? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "ഇല്ല, അത് വീഴുന്നതായി തോന്നുന്നു. പശ്ചാത്തലത്തിൽ മത്തങ്ങകൾ ഉള്ളതിനാൽ അവ സാധാരണയായി വീഴ്ചയുമായി ബന്ധപ്പെട്ടിരിക്കുന്നതിനാൽ ഞാൻ അങ്ങനെ കരുതുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "വസ്ത്രം ധരിച്ച സ്ത്രീയെ നോക്കിയതിന് ചുവന്ന വസ്ത്രം ധരിച്ച സ്ത്രീ പുരുഷനോട് ദേഷ്യപ്പെടാൻ പോകുകയാണോ? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "അതെ, ചുവന്ന വസ്ത്രം ധരിച്ച സ്ത്രീയും പുരുഷനും ഒരു ദമ്പതികളായി കാണപ്പെടുന്നു, ചുവപ്പ് വസ്ത്രം ധരിച്ച സ്ത്രീ പുരുഷനെ മറ്റ് women.I പരിശോധിക്കുന്നതിനെ വിലമതിക്കില്ല, കാരണം ഒരു ഏകഭാര്യ ബന്ധത്തിൽ പങ്കാളികൾ പരസ്പരം വിശ്വസ്തത പുലർത്തുമെന്ന് പ്രതീക്ഷിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "എന്തുകൊണ്ടാണ് സ്ത്രീയുടെ രണ്ട് കൈകളും വായുവിൽ ഉള്ളത്? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "അവൾ ഒരു ബാസ്കറ്റ്ബോൾ ഷൂട്ട് ചെയ്തു. അവളുടെ കൈകൾ ഒരു ബാസ്കറ്റ്ബോൾ ഷോട്ടിനായി കോണിലായതിനാൽ അവ ഒരു ബാസ്കറ്റ്ബോൾ മേഖലയിലായതിനാൽ ഞാൻ അങ്ങനെ കരുതുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "ആൺകുട്ടി ഏതുതരം സ്കൂളിലാണ് പോകുന്നത്? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "ആൺകുട്ടി ഒരു സ്വകാര്യ സ്കൂളിലാണ് പോകുന്നത്, ഒരു പൊതു സ്കൂളിലല്ല. ആൺകുട്ടി എല്ലാവരും ഒരു സ്യൂട്ട് ധരിച്ചിരിക്കുന്നതിനാൽ, പബ്ലിക് സ്കൂളുകൾ അത് ആവശ്യപ്പെടുന്നില്ല, എന്നാൽ ചില സ്വകാര്യ സ്കൂളുകൾ അത് ആവശ്യപ്പെടുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "ആളുകൾ ഈ വീട്ടിലാണോ താമസിക്കുന്നത്? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "ഇല്ല, അവർ ചെയ്യുന്നില്ല. അവർ എല്ലാവരും പെയിന്റിംഗുകളും അലങ്കാരങ്ങളും നോക്കുന്നതിനാൽ ഞാൻ അങ്ങനെ കരുതുന്നു, അവ കാണാൻ ശീലിച്ചിരുന്നെങ്കിൽ ഒരാൾ അത് ചെയ്യില്ലായിരുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "എന്തുകൊണ്ടാണ് വെളുത്ത വസ്ത്രം ധരിച്ച പുരുഷനും സ്ത്രീയും പരസ്പരം ഇത്ര അടുത്തിരിക്കുന്നത്? അതിന് ഉത്തരം നൽകുകയും യുക്തി നൽകുകയും ചെയ്യുക.",
+        "answer": "അവർ വിവാഹം കഴിച്ചതേയുള്ളൂ. അവർ വിവാഹവസ്ത്രത്തിലായതിനാൽ എല്ലാവരും അവരെ നോക്കുന്നതിനാൽ ഞാൻ അങ്ങനെ കരുതുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "ഈ ഓർമ്മക്കുറിപ്പ് വിശദീകരിക്കാമോ?",
+        "answer": "കാലതാമസം വരുത്തുന്നതിനെക്കുറിച്ചും ഒരു നിശ്ചിത സമയം വരെ ജോലികൾ വൈകിപ്പിക്കാനുള്ള പ്രവണതയെക്കുറിച്ചും രസകരമായ ഒരു സമീപനമാണ് ഈ ഓർമ്മപ്പെടുത്തൽ. മീമിലുള്ള വ്യക്തി 8 മണിക്ക് എന്തെങ്കിലും ചെയ്യാൻ പദ്ധതിയിടുന്നു, പക്ഷേ കുറച്ച് മിനിറ്റുകൾക്കുള്ളിൽ ആ സമയപരിധി നഷ്ടപ്പെടുമ്പോൾ, പകരം 9 മണി വരെ കാത്തിരിക്കാൻ അവർ തീരുമാനിക്കുന്നു. കിടക്കയിൽ കിടക്കുന്ന കെർമിറ്റ് തവളയുടെ ചിത്രം വ്യക്തിയുടെ അലസതയെയും ചുമതല പൂർത്തിയാക്കാനുള്ള പ്രചോദനത്തിന്റെ അഭാവത്തെയും പ്രതിനിധീകരിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "ഈ ഓർമ്മക്കുറിപ്പ് വിശദീകരിക്കാമോ?",
+        "answer": "കോവിഡ്-19 മഹാമാരി മൂലമുള്ള ഓൺലൈൻ പഠനത്തിന്റെ നിലവിലെ സാഹചര്യത്തെക്കുറിച്ചുള്ള ഒരു വ്യാഖ്യാനമാണ് ഈ ഓർമ്മക്കുറിപ്പ്. വിവിധ കക്ഷികളെ ഇത് എങ്ങനെ ബാധിക്കുന്നുവെന്ന് ഇത് കാണിക്കുന്നു. \\n\\n ആദ്യത്തെ രണ്ട് ചിത്രങ്ങളിൽ സൂം കമ്പനിയും അധ്യാപകരും വായുവിലേക്ക് പണം എറിയുന്നത് കാണിക്കുന്നു, ഇത് അവർ ഈ സാഹചര്യത്തിൽ നിന്ന് ലാഭമുണ്ടാക്കുകയാണെന്ന് സൂചിപ്പിക്കുന്നു. പകർച്ചവ്യാധി മൂലം സൂം പ്രത്യേകിച്ചും ഉപയോഗത്തിലും വരുമാനത്തിലും വർദ്ധനവ് കണ്ടു. \\n\\n മൂന്നാമത്തെ ചിത്രം വൈഫൈ കമ്പനിയും വായുവിൽ പണം എറിയുന്നതായി കാണിക്കുന്നു, ഇത് സൂചിപ്പിക്കുന്നത് കൂടുതൽ ആളുകൾ ഓൺലൈൻ പഠനത്തിനായി ഇന്റർനെറ്റ് ഉപയോഗിക്കുന്നതിനാൽ അവർ ഈ സാഹചര്യത്തിൽ നിന്ന് ലാഭമുണ്ടാക്കുന്നു എന്നാണ്. \\n\\n അവസാനത്തെ ചിത്രം സങ്കടകരമായ കോമാളി മുഖമുള്ള ഒരു വിദ്യാർത്ഥിയെ കാണിക്കുന്നു, ഇത് വിദ്യാർത്ഥികൾക്ക് ഈ സാഹചര്യത്തിൽ നിന്ന് പ്രയോജനം ലഭിക്കുന്നില്ലെന്നും ഓൺലൈൻ പഠനവുമായി മല്ലിടുകയാണെന്നും സൂചിപ്പിക്കുന്നു. പശ്ചാത്തലത്തിൽ \"സന്തോഷകരമായ മുഖം ധരിക്കുക\" എന്ന അടയാളം വിദ്യാർത്ഥികൾ അവരുടെ പോരാട്ടങ്ങൾക്കിടയിലും ധീരമായ മുഖം ധരിക്കുന്നു എന്ന ആശയത്തെ കൂടുതൽ ഊന്നിപ്പറയുന്നു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "ഈ ഓർമ്മക്കുറിപ്പ് വിശദീകരിക്കാമോ?",
+        "answer": "ഐസ്ലാൻഡ്, ഗ്രീൻലാൻഡ് എന്നീ രാജ്യങ്ങളുടെ പേരുകൾ തെറ്റിദ്ധരിപ്പിക്കുന്നുവെന്ന വസ്തുതയെ ഈ ഓർമ്മപ്പെടുത്തൽ കളിയാക്കുന്നു. പേര് ഉണ്ടായിരുന്നിട്ടും, ഐസ്ലാൻഡ് മനോഹരമായ പച്ച ഭൂപ്രകൃതികൾക്ക് പേരുകേട്ടതാണ്, അതേസമയം ഗ്രീൻലാൻഡ് കൂടുതലും മഞ്ഞും മഞ്ഞും കൊണ്ട് മൂടപ്പെട്ടിരിക്കുന്നു. ഈ രാജ്യങ്ങളുടെ പേരുകൾ അവരുടെ ഭൂപ്രകൃതിയെ കൃത്യമായി പ്രതിനിധീകരിക്കാത്തതിനാൽ വ്യക്തിക്ക് വിശ്വാസ പ്രശ്നങ്ങൾ ഉണ്ടെന്ന് മെമെ പറയുന്നു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "ഈ ഓർമ്മക്കുറിപ്പ് വിശദീകരിക്കാമോ?",
+        "answer": "ഒരു പരീക്ഷയ്ക്കിടെ ഒരു വിദ്യാർത്ഥിയുടെ കൈയക്ഷരം എങ്ങനെ വഷളാകുന്നു എന്നതിനെ കളിയാക്കുന്നതാണ് ഈ ഓർമ്മക്കുറിപ്പ്. ആദ്യ രണ്ട് പേജുകൾ വൃത്തിയുള്ളതും വായിക്കാവുന്നതുമായ കൈയക്ഷരം കാണിക്കുന്നു, മധ്യ പേജ് അൽപ്പം മോശമായ കൈയക്ഷരം കാണിക്കുന്നു, അവസാന രണ്ട് പേജുകൾ പൂർണ്ണമായും നിയമവിരുദ്ധമായ എഴുത്തുകൾ കാണിക്കുന്നു. പരീക്ഷ പുരോഗമിക്കുമ്പോൾ വിദ്യാർത്ഥി ക്ഷീണിതനാകുകയോ തിടുക്കപ്പെടുകയോ ചെയ്തതാകാം ഇതിന് കാരണം.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "ഈ ഓർമ്മക്കുറിപ്പ് വിശദീകരിക്കാമോ?",
+        "answer": "പുതിയ കോളേജ് വിദ്യാർത്ഥികൾ (പുതുമുഖങ്ങൾ) പലപ്പോഴും കുറിപ്പുകൾ എടുക്കാനും ക്ലാസിൽ അവർക്ക് കഴിയുന്നതെല്ലാം പഠിക്കാനും ആഗ്രഹിക്കുന്നതെങ്ങനെയെന്നതിനെക്കുറിച്ചുള്ള ഒരു തമാശയാണ് ഈ ഓർമ്മക്കുറിപ്പ്. സ്പോഞ്ച് ബോബും പാട്രിക്കും ഭ്രാന്തമായി കുറിപ്പുകൾ എഴുതുന്ന സ്പോഞ്ച് ബോബ് സ്ക്വയർ പാന്റ്സ് എന്ന കാർട്ടൂണിൽ നിന്നുള്ളതാണ് ചിത്രം. പുതുമുഖങ്ങൾ പ്രൊഫസറുടെ അഭിവാദ്യം പോലും എഴുതുന്നുവെന്ന് അറിയാൻ വളരെ ഉത്സുകരാണെന്ന് അടിക്കുറിപ്പ് സൂചിപ്പിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "ഈ ചിത്രത്തിൽ രസകരമായത് എന്താണ്?",
+        "answer": "ഒരു ചിത്രം വരയ്ക്കുന്ന കാണ്ടാമൃഗത്തിന്റെ കാർട്ടൂൺ ആണിത്, ഓരോ ചിത്രത്തിനും അതിന്റേതായ കാണ്ടാമൃഗ കൊമ്പ് ഉണ്ട്, കാരണം കാണ്ടാമൃഗ കൊമ്പ് അതിൻറെ കണ്ണുകൾക്ക് മുന്നിൽ വളരുന്നു. \"നിങ്ങൾ എങ്ങനെയാണോ അതുപോലെ നിങ്ങൾ ലോകത്തെ കാണുന്നു!\" എന്ന അടിക്കുറിപ്പ്. നമ്മുടെ കാഴ്ചപ്പാട് ലോകത്തെക്കുറിച്ചുള്ള നമ്മുടെ ധാരണയെ എങ്ങനെ രൂപപ്പെടുത്തുന്നു എന്നതിനെക്കുറിച്ചുള്ള കളിയായ വ്യാഖ്യാനമാണിത്.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "ഈ ചിത്രത്തിൽ രസകരമായത് എന്താണ്?",
+        "answer": "ഈ ചിത്രത്തെക്കുറിച്ച് ആളുകൾക്ക് തമാശയായി തോന്നിയേക്കാവുന്ന ചില കാര്യങ്ങളുണ്ട്ഃ \\n\\n1. രണ്ട് ചിത്രങ്ങളും തമ്മിലുള്ള വ്യത്യാസംഃ ഇടതുവശത്ത്, വളരെ വൈകാരികവും ദേഷ്യമുള്ളതുമായ രണ്ട് സ്ത്രീകളെ നമ്മൾ കാണുന്നു, അതേസമയം വലതുവശത്ത്, ഒരു അത്താഴ മേശയിൽ ശാന്തമായി ഇരിക്കുന്ന ഒരു പൂച്ചയെ നമ്മൾ കാണുന്നു. \\n\\n2. പൂച്ചയുടെ അവസ്ഥയുടെ അസംബന്ധംഃ ഒരു പൂച്ച അത്താഴ മേശയ്ക്ക് മുന്നിൽ ഒരു പ്ലേറ്റ് ഭക്ഷണവുമായി ഇരിക്കുന്നത് സാധാരണമല്ല, അതിനാൽ ഈ ചിത്രം അപ്രതീക്ഷിതവും പരിഹാസ്യവുമാണ്. \\n\\n3. പൂച്ചയുടെ ആവിഷ്കാരംഃ സ്ത്രീകളുടെ നിലവിളിയിൽ പൂച്ച ഭയപ്പെടുന്നതായി തോന്നുന്നു, ഇത് ചിത്രത്തിന്റെ നർമ്മം വർദ്ധിപ്പിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "ഏതൊക്കെ അവസരങ്ങളിൽ ആരെങ്കിലും ഈ ഓർമ്മക്കുറിപ്പ് ഉപയോഗിക്കും?",
+        "answer": "ഉറങ്ങുന്ന മനുഷ്യനോടൊപ്പമുള്ള ഓർമ്മക്കുറിപ്പും ചൈനീസ് അടിക്കുറിപ്പും (ഉറക്കത്തിൽ ഒഴികെ, എനിക്ക് ഉറങ്ങാൻ ആഗ്രഹമില്ല. എന്നാൽ മറ്റ് സമയങ്ങളിൽ, എനിക്ക് ഉറങ്ങാൻ ആഗ്രഹമുണ്ട്) ഉറക്കം അനുഭവപ്പെടുകയോ പരസ്പരവിരുദ്ധമായ ആഗ്രഹങ്ങൾ ഉണ്ടാകുകയോ ചെയ്യുക എന്ന വിഷയം പ്രസക്തമായ വിവിധ അവസരങ്ങളിൽ ഉപയോഗിക്കാം. ഈ മെമെ അനുയോജ്യമായേക്കാവുന്ന ചില സാഹചര്യങ്ങൾ ഇതാഃ \n \n ബന്ധപ്പെട്ട ഉറക്കക്കുറവ്ഃ പകൽ സമയത്ത് ക്ഷീണമോ ഉറക്കമോ അനുഭവപ്പെടുമ്പോൾ സോഷ്യൽ മീഡിയയിലോ സംഭാഷണങ്ങളിലോ ഈ മെമെ പങ്കിടാൻ കഴിയും. ആ ആപേക്ഷികമായ അനുഭവം അറിയിക്കുന്നതിനും ബന്ധപ്പെടുത്താൻ കഴിയുന്ന മറ്റുള്ളവരിൽ നിന്ന് രസകരമായ പ്രതികരണം സൃഷ്ടിക്കുന്നതിനുമുള്ള ഒരു ലഘുവായ മാർഗമായി ഇത് പ്രവർത്തിക്കും. \n \n ജോലി അല്ലെങ്കിൽ പഠനവുമായി ബന്ധപ്പെട്ട നർമ്മംഃ ശ്രദ്ധയും ശ്രദ്ധയും ആവശ്യമുള്ള ജോലികളിൽ ഉറങ്ങാനോ മയക്കം അനുഭവപ്പെടാനോ ഉള്ള ആഗ്രഹം നർമ്മത്തോടെ പ്രകടിപ്പിക്കാൻ ജോലിയിലോ പഠനവുമായി ബന്ധപ്പെട്ട സന്ദർഭങ്ങളിലോ ഈ മെമെ ഉപയോഗിക്കാം. മാനസികാവസ്ഥ ലഘൂകരിക്കുന്നതിനും ഉണർന്നിരിക്കുന്നതും ജാഗ്രത പുലർത്തുന്നതുമായ വെല്ലുവിളികളെക്കുറിച്ച് പങ്കിട്ട ധാരണ സൃഷ്ടിക്കുന്നതിനും ഇത് സഹപ്രവർത്തകർക്കും സഹപാഠികൾക്കുമിടയിൽ പങ്കിടാം. \n \n കാലതാമസം വരുത്തൽ നർമ്മംഃ ഉൽപ്പാദനപരമായ പ്രവർത്തനങ്ങളിൽ ഏർപ്പെടുന്നതിനുപകരം ഉറങ്ങാനോ വിശ്രമിക്കാനോ ആഗ്രഹിക്കുന്നത് തമ്മിലുള്ള ആന്തരിക പോരാട്ടത്തെ ചിത്രീകരിക്കാനും മെമെ ഉപയോഗിക്കാം. ഉത്തരവാദിത്തങ്ങൾ ഒഴിവാക്കാനും വിശ്രമത്തിൽ ഏർപ്പെടാനുമുള്ള നിരന്തരമായ ആഗ്രഹത്തെക്കുറിച്ചുള്ള കാലതാമസം അല്ലെങ്കിൽ തമാശ നിറഞ്ഞ സ്വയം പ്രതിഫലനങ്ങൾ ചർച്ച ചെയ്യുമ്പോൾ ഇത് പങ്കിടാം. \n \n ഹാസ്യ വൈരുദ്ധ്യംഃ ഉറക്ക സമയവും മറ്റ് സമയങ്ങളിൽ ഉറങ്ങാൻ ആഗ്രഹിക്കുന്നതും തമ്മിലുള്ള മീമിന്റെ വൈരുദ്ധ്യം വിവിധ സന്ദർഭങ്ങളിൽ ഹാസ്യ വൈരുദ്ധ്യത്തിന്റെ ഒരു രൂപമായി ഉപയോഗിക്കാം. നമ്മുടെ ആഗ്രഹങ്ങളോ പെരുമാറ്റങ്ങളോ പ്രതീക്ഷിച്ചതോ ഉചിതമോ ആയതിന് വിരുദ്ധമായ സാഹചര്യങ്ങൾ ചർച്ച ചെയ്യുമ്പോൾ അത് പങ്കിടാം, ഇത് സംഭാഷണത്തിന് ഒരു രസകരമായ വഴിത്തിരിവ് നൽകുന്നു. \n \n ആത്യന്തികമായി, ഉറക്കം, വൈരുദ്ധ്യമുള്ള ആഗ്രഹങ്ങൾ അല്ലെങ്കിൽ വിരോധാഭാസ സാഹചര്യങ്ങൾ എന്നിവ ചർച്ച ചെയ്യുന്ന വിഷയവുമായോ വികാരവുമായോ യോജിക്കുന്ന വ്യത്യസ്ത സാഹചര്യങ്ങളിൽ മെമെ ഉപയോഗിക്കാം, ഇത് സംഭാഷണത്തിനോ ഓൺലൈൻ ആശയവിനിമയത്തിനോ നർമ്മവും ആപേക്ഷികതയും നൽകുന്നു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "ഏതൊക്കെ അവസരങ്ങളിൽ ആരെങ്കിലും ഈ ഓർമ്മക്കുറിപ്പ് ഉപയോഗിക്കും?",
+        "answer": "\"സ്ക്രീമിംഗ് പാണ്ട\" എന്നറിയപ്പെടുന്ന ഈ മെമെ സാധാരണയായി ഞെട്ടലോ ആശ്ചര്യമോ ഭയമോ പ്രകടിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു. ഞെട്ടിക്കുന്നതോ അപ്രതീക്ഷിതമോ ആയ ഒരു സംഭവത്തോടുള്ള പ്രതികരണത്തിനോ അല്ലെങ്കിൽ പരിഭ്രാന്തിയോ മുന്നറിയിപ്പോ അറിയിക്കുന്നതിനോ ഇത് ഉപയോഗിക്കാം. ആരെങ്കിലും ഈ ഓർമ്മക്കുറിപ്പ് ഉപയോഗിച്ചേക്കാവുന്ന ചില സന്ദർഭങ്ങളിൽ ഇവ ഉൾപ്പെടുന്നുഃ \\n\\n-ഒരു ഹൊറർ മൂവിയിലെ കുതിച്ചുചാട്ടത്തെ ഭയപ്പെടുത്തുന്നതിനോട് പ്രതികരിക്കുക\\n-ഒരു ടിവി ഷോയിലോ പുസ്തകത്തിലോ ഉള്ള ഒരു അത്ഭുതകരമായ കഥാവസ്തുവിനോട് പ്രതികരിക്കുക\\n-ഒരു വാർത്താ തലക്കെട്ടിലോ നിലവിലെ സംഭവത്തിലോ ഞെട്ടൽ പ്രകടിപ്പിക്കുക\\n-വരാനിരിക്കുന്ന സമയപരിധിയെക്കുറിച്ചോ പരീക്ഷയെക്കുറിച്ചോ ഉള്ള ഭയമോ ഉത്കണ്ഠയോ പ്രകടിപ്പിക്കുക\\n-ഒരു സ്പോർട്സ് ഗെയിമിലോ മറ്റ് മത്സരത്തിലോ അപ്രതീക്ഷിത ഫലത്തിൽ അത്ഭുതം കാണിക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "ഏതൊക്കെ അവസരങ്ങളിൽ ആരെങ്കിലും ഈ ഓർമ്മക്കുറിപ്പ് ഉപയോഗിക്കും?",
+        "answer": "\"കരയുന്ന പൂച്ച\" എന്ന മീമിൽ \"അമ്മേ!\" എന്ന ചൈനീസ് അടിക്കുറിപ്പുണ്ട്. വിഷമം, നിസ്സഹായത അല്ലെങ്കിൽ ആശ്വാസം തേടൽ എന്നിവ പ്രകടിപ്പിക്കാൻ ഇത് സാധാരണയായി ഉപയോഗിക്കുന്നു. ആരെങ്കിലും ഈ മെമെ ഉപയോഗിച്ചേക്കാവുന്ന ചില സന്ദർഭങ്ങൾ ഇതാഃ \n \n ദുർബലത പ്രകടിപ്പിക്കൽഃ ദുർബലതയുടെ ഒരു നിമിഷം പ്രകടിപ്പിക്കുന്നതിനോ അല്ലെങ്കിൽ അമിതമായി തോന്നുന്നതിനോ മെമെ ഉപയോഗിക്കാം. ഒരാളുടെ അമ്മയെ വിളിക്കുക എന്ന ആശയം തമാശയോടെ അഭ്യർത്ഥിക്കുന്നതിലൂടെ മറ്റുള്ളവരിൽ നിന്ന് പിന്തുണയും സഹാനുഭൂതിയും തേടുന്ന ഒരു വികാരം അത് പ്രകടിപ്പിക്കാൻ കഴിയും. \n \n ആശ്വാസമോ സഹതാപമോ തേടുന്നുഃ സുഹൃത്തുക്കളിൽ നിന്നോ ഓൺലൈൻ കമ്മ്യൂണിറ്റികളിൽ നിന്നോ സഹതാപമോ പിന്തുണയോ ഉളവാക്കുന്നതിന് ഈ മെമെ പങ്കിടാൻ കഴിയും. ബന്ധപ്പെട്ടതും തിരിച്ചറിയാവുന്നതുമായ ഒരു മെമെ ഫോർമാറ്റ് ഉപയോഗിക്കുന്നതിലൂടെ, ദുഃഖം, നിരാശ അല്ലെങ്കിൽ വൈകാരിക പിന്തുണ ആവശ്യമുള്ള വികാരങ്ങൾ ഫലപ്രദമായി ആശയവിനിമയം നടത്താൻ ഇതിന് കഴിയും. \n \n സ്വയം അപകീർത്തിപ്പെടുത്തുന്ന നർമ്മംഃ വ്യക്തിപരമായ സാഹചര്യങ്ങളെയോ ചെറിയ അപകടങ്ങളെയോ വെളിച്ചം വീശുന്നതിന് സ്വയം അപകീർത്തിപ്പെടുത്തുന്ന രീതിയിലും മെമെ ഉപയോഗിക്കാം. ആശ്വാസം നൽകാനോ ആശ്വാസം നൽകാനോ മറ്റുള്ളവരെ ക്ഷണിക്കുമ്പോൾ സ്വന്തം \"നിസ്സഹായത\" യുടെ നിമിഷങ്ങൾ തമാശയോടെ ഉയർത്തിക്കാട്ടാൻ ഇത് വ്യക്തികളെ അനുവദിക്കുന്നു. \n \n കളിയായ വൈകാരിക അതിശയോക്തിഃ ദുഃഖകരമല്ലെങ്കിലും ശ്രദ്ധയോ പരിചരണമോ ആവശ്യമായി വന്നേക്കാവുന്ന ഒരു സാഹചര്യത്തിനോ സംഭവത്തിനോ ഊന്നൽ നൽകാൻ മീമിന്റെ നാടകീയവും അതിശയോക്തിപരവുമായ ആവിഷ്കാരം കളിയായ രീതിയിൽ ഉപയോഗിക്കാം. ചെറിയ അസൌകര്യങ്ങളോ തമാശ നിറഞ്ഞ അതിശയോക്തികളോ പ്രകടിപ്പിക്കുമ്പോൾ ഇത് ഒരു രസകരമായ സ്പർശം നൽകും. \n \n മീമിന്റെ ഉപയോഗവും വ്യാഖ്യാനവും വ്യത്യാസപ്പെടാമെന്നും വ്യത്യസ്ത സന്ദർഭങ്ങളുമായി പൊരുത്തപ്പെടാൻ വ്യക്തികൾ സൃഷ്ടിപരമായ വഴികൾ കണ്ടെത്തിയേക്കാമെന്നും ശ്രദ്ധിക്കേണ്ടത് പ്രധാനമാണ്. മുകളിൽ നിർദ്ദേശിച്ച സന്ദർഭങ്ങൾ ഈ മെമെ അതിന്റെ പൊതുവായ പ്രമേയങ്ങളെയും വൈകാരിക സ്വരത്തെയും അടിസ്ഥാനമാക്കി എപ്പോൾ ഉപയോഗിക്കാമെന്നതിനെക്കുറിച്ചുള്ള പൊതുവായ ധാരണ നൽകുന്നു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "ഈ വിഭവം എങ്ങനെ പാചകം ചെയ്യാം?",
+        "answer": "\"ഹംഗേറിയൻ മഷ്റൂം സൂപ്പ്\" എന്നാണ് ഈ വിഭവത്തെ വിളിക്കുന്നത്. ഈ ഹംഗേറിയൻ കൂൺ സൂപ്പിന് ധാരാളം സുഗന്ധമുണ്ട്, ഇത് വളരെ വേഗത്തിൽ ഉണ്ടാക്കാം. ഇത് പ്രാഥമികമായി ഒരു കൂൺ സൂപ്പ് ആണെങ്കിലും മറ്റ് ചേരുവകളിൽ നിന്ന് അതിന്റെ രുചി ധാരാളം ലഭിക്കുന്നു. എന്റെ കുടുംബത്തിന് സൂപ്പ് ഇഷ്ടമാണ്, ഇത് അവരുടെ പ്രിയപ്പെട്ട ഒന്നാണ്. \n \n \n തയ്യാറാക്കുന്ന സമയംഃ \n 15 മിനിറ്റ് \n പാചക സമയംഃ \n 35 മിനിറ്റ് \n മൊത്തം സമയംഃ \n 50 മിനിറ്റ് \n \n ചേരുവകൾഃ \n 6 \n \n \n 4 ടേബിൾസ്പൂൺ ഉപ്പില്ലാത്ത വെണ്ണ \n \n 2 കപ്പ് അരിഞ്ഞ ഉള്ളി \n \n 1 പൌണ്ട് പുതിയ കൂൺ, അരിഞ്ഞ \n \n 2 കപ്പ് ചിക്കൻ ചാറു \n \n 1 ടേബിൾസ്പൂൺ സോയ സോസ് \n \n 1 ടേബിൾസ്പൂൺ കുരുമുളക് \n \n \n 2 ടേബിൾസ്പൂൺ ഉണക്കിയ മല്ലി \n \n ഉള്ളി ചേർക്കുക; പാകം ചെയ്യുക, ഏകദേശം 5 മിനിറ്റ് മൃദുവാകുന്നതുവരെ ഇളക്കുക. കൂൺ ചേർത്ത് 5 മിനിറ്റ് കൂടി വേവിക്കുക. ചാറു, സോയ സോസ്, കുരുമുളക്, വെളുത്തുള്ളി എന്നിവ ഇളക്കുക; തീ കുറയ്ക്കുക, മൂടുക, 15 മിനിറ്റ് വേവിക്കുക. \n \n സ്റ്റെപ്പ് 2 \n പാലും മാവും ഒരു പ്രത്യേക പാത്രത്തിൽ ഇളക്കുക; മിശ്രിതം ആകുന്നതുവരെ സൂപ്പിലേക്ക് ഇളക്കുക. ഇടയ്ക്കിടെ ഇളക്കി 15 മിനിറ്റ് കൂടി വേവിക്കുക. \n \n ഘട്ടം 3 \n പുളിച്ച ക്രീം, കുരുമുളക്, നാരങ്ങ നീര്, ഉപ്പ്, കുരുമുളക് എന്നിവ ചേർക്കുക; ഏകദേശം 3 മുതൽ 5 മിനിറ്റ് വരെ ചൂടാക്കുന്നതുവരെ കുറഞ്ഞ തീയിൽ ഇളക്കുക. ഉടൻ വിളമ്പുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "ഇത് എങ്ങനെ ചെയ്യാം?",
+        "answer": "ഇതിനെ \"സ്പാർക്ലിംഗ് കാന്റലൂപ്പ് അഗുവ ഫ്രെസ്ക\" എന്ന് വിളിക്കുന്നു. ക്ലബ് സോഡയ്ക്കൊപ്പം കാന്റലൂപ്പും നാരങ്ങ നീരും ചേർന്ന ഈ ഉന്മേഷദായകമായ അഗ്വ ഫ്രെസ്ക ഒരു ചൂടുള്ള ദിവസത്തിൽ അനുയോജ്യമാണ്. \n \n തയ്യാറെടുപ്പ് സമയംഃ \n 15 മിനിറ്റ് \n മൊത്തം സമയംഃ \n 15 മിനിറ്റ് \n ചേരുവകൾ \n \n \n 2 പൌണ്ട് പുതിയ കാന്റലൂപ്പ് ക്യൂബുകൾ (6 കപ്പ്) \n \n 2 കപ്പ് വെള്ളം \n \n 6 ടേബിൾസ്പൂൺ പുതുതായി ഞെരിച്ച നാരങ്ങ നീര് (2 നാരങ്ങയിൽ നിന്ന്) \n \n 3 ടേബിൾസ്പൂൺ തേൻ \n \n 1/4 ടേബിൾസ്പൂൺ ഉപ്പ് \n \n \n 2 കപ്പ് ക്ലബ് സോഡ, തണുത്ത \n \n \n കാന്റലൂപ്പ് തണ്ണിമത്തൻ ബോളുകൾ അല്ലെങ്കിൽ ക്യൂബുകൾ, അലങ്കാരത്തിനായി \n ഒരു അരിപ്പയിലൂടെ അമർത്തുക; ഖരപദാർത്ഥങ്ങൾ ഉപേക്ഷിക്കുക. ഒരു പാത്രത്തിൽ വേവിച്ച വെള്ളം ചേർക്കുക. \n \n സ്റ്റെപ്പ് 2 \n സേവിക്കാൻ തയ്യാറാകുന്നതുവരെ തണുപ്പിക്കുക. വിളമ്പുന്നതിന് തൊട്ടുമുമ്പ് ക്ലബ് സോഡ ചേർക്കുക. ഐസിന് മുകളിൽ സേവിക്കുക, തണ്ണിമത്തൻ പന്തുകളും നാരങ്ങ സെസ്റ്റ് ട്വിസ്റ്റുകളും ഉപയോഗിച്ച് ഗ്ലാസുകൾ അലങ്കരിക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "ഈ വിഭവം എങ്ങനെ പാചകം ചെയ്യാം?",
+        "answer": "ഈ വിഭവത്തെ \"ജിഞ്ചർ ഗ്ലേസ്ഡ് മാഹി മഹി\" എന്ന് വിളിക്കുന്നു. മാഹി മഹിക്കുള്ള ഈ ഇഞ്ചി സോസ് സുഗന്ധം കൊണ്ട് പൊട്ടുകയും മധുരവും പുളിയുമുള്ള രുചിയുടെ സംവേദനങ്ങൾ സംയോജിപ്പിക്കുകയും ചെയ്യുന്നു. ഈ പാചകക്കുറിപ്പ് ഒരു സ്നാപ്പും വളരെ രുചിയുള്ളതുമാണ്. നിങ്ങൾക്ക് അത് ഇഷ്ടപ്പെടും! \n \n \n തയ്യാറാക്കുന്ന സമയംഃ \n 5 മിനിറ്റ് \n പാചക സമയംഃ \n 10 മിനിറ്റ് \n അധിക സമയംഃ \n 20 മിനിറ്റ് \n മൊത്തം സമയംഃ \n 35 മിനിറ്റ് \n വിളമ്പൽഃ \n 4 \n \n ചേരുവകൾ \n \n 3 ടേബിൾസ്പൂൺ തേൻ \n \n 3 ടേബിൾസ്പൂൺ സോയ സോസ് \n \n 3 ടേബിൾസ്പൂൺ ബാൽസാമിക് വിനാഗിരി \n \n 2 ടേബിൾസ്പൂൺ ഒലിവ് ഓയിൽ \n \n 1 ടേബിൾസ്പൂൺ അരിഞ്ഞ പുതിയ ഇഞ്ചി റൂട്ട് \n \n \n 1 ഗ്രാമ്പൂ വെളുത്തുള്ളി, അല്ലെങ്കിൽ രുചിക്കായി പൊടിച്ച \n \n ഉപ്പ്, കുരുമുളക് എന്നിവ ഉപയോഗിച്ച് സീസണൽ ഫിഷ് ഫില്ലറ്റുകൾ; അവ മാരിനേഡ് ഉപയോഗിച്ച് പാത്രത്തിൽ ചർമ്മത്തിൻറെ വശങ്ങളിൽ വയ്ക്കുക. കവർ ചെയ്ത് 20 മിനിറ്റ് തണുപ്പിക്കുക. \n \n ഘട്ടം 2 \n ഒരു വലിയ ചട്ടിയിൽ സസ്യ എണ്ണ ഇടത്തരം ഉയർന്ന ചൂടിൽ ചൂടാക്കുക. ഫിഷ് ഫില്ലറ്റുകൾ നീക്കം ചെയ്യുക, മാരിനേഡ് റിസർവ് ചെയ്യുക. ഓരോ വശത്തും 4 മുതൽ 6 മിനിറ്റ് വരെ മത്സ്യം വറുക്കുക, ഒരു തവണ മാത്രം തിരിയുക, ഒരു ഫോർക്ക് ഉപയോഗിച്ച് മത്സ്യം എളുപ്പത്തിൽ അടയുന്നതുവരെ. ഫില്ലറ്റുകൾ ഒരു സേവിക്കുന്ന തളികയിൽ നീക്കം ചെയ്ത് ചൂടാക്കുക. \n \n ഘട്ടം 3 \n റിസർവ്ഡ് മാരിനേഡ് ചട്ടിയിലേക്ക് ഒഴിക്കുക; ഒരു ഗ്ലേസായി മാറുന്നതുവരെ ഇടത്തരം തീയിൽ തിളപ്പിക്കുക. മീനിന് മുകളിൽ ഒരു സ്പൂൺ തിളപ്പിച്ച് വിളമ്പുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "ഈ വിഭവം എങ്ങനെ പാചകം ചെയ്യാം?",
+        "answer": "ഈ വിഭവത്തെ \"സ്ട്രോബെറി റുബാർബ് പൈ\" എന്ന് വിളിക്കുന്നു. ഈ സ്ട്രോബെറി റൂബർബ് പൈ ഞങ്ങളുടെ വീട്ടിലെ വസന്തകാലത്തെ പ്രിയപ്പെട്ട മധുരപലഹാരമാണ്. പൂരിപ്പിക്കലിന് ഒരു മധുരമുള്ള-പുളിച്ച രുചി ഉണ്ട്; നിങ്ങളുടെ പ്രിയപ്പെട്ട പൈ പുറംതോടിൽ ചുട്ടെടുക്കുകയും വാനില ഐസ്ക്രീം ഉപയോഗിച്ച് വിളമ്പുകയും ചെയ്യുക. \n \n തയ്യാറാക്കുന്ന സമയംഃ \n 20 മിനിറ്റ് \n പാചക സമയംഃ \n 35 മിനിറ്റ് \n അധിക സമയംഃ \n 30 മിനിറ്റ് \n മൊത്തം സമയംഃ \n 1 മണിക്കൂർ 25 മിനിറ്റ് \n വിളവെടുപ്പ്ഃ \n 8 \n വിളവെടുപ്പ്ഃ \n 1 9 ഇഞ്ച് പൈ \n \n ചേരുവകൾ \n \n 1 കപ്പ് വൈറ്റ് ഷുഗർ \n \n 1 കപ്പ് ഓൾ പർപ്പസ് മാവ് \n \n 1 പൌണ്ട് റൂബർബ്, 1/4 ഇഞ്ച് കഷണങ്ങളായി മുറിക്കുക \n \n 2 പിന്റ് സ്ട്രോബെറി, ഹൾഡ്, ക്വാർട്ടേർഡ് \n \n 1 പാചകക്കുറിപ്പ് \n \n ഘട്ടം 2 \n ഒരു വലിയ പാത്രത്തിൽ മാവും പഞ്ചസാരയും ഇളക്കുക. \n \n ഘട്ടം 3 \n സ്ട്രോബെറിയും അരിഞ്ഞ റൂബർബും ചേർക്കുക. പഞ്ചസാരയും മാവും ചേർത്ത് 30 മിനിറ്റ് നിൽക്കാൻ അനുവദിക്കുക. \n \n ഘട്ടം 4 \n തയ്യാറാക്കിയ പൈ പുറംതോടിൽ നിറയ്ക്കുക. ഡോട്ട് ടോപ്പ് വെണ്ണ കൊണ്ട് പൊതിഞ്ഞ് മുകളിലെ പുറംതോട് കൊണ്ട് മൂടുക. പുറംതോടിൻറെ മുകളിലും താഴെയുമുള്ള അരികുകൾ വെള്ളം ഉപയോഗിച്ച് അടയ്ക്കുക. \n \n ഘട്ടം 5 \n ഒരു പേസ്ട്രി ബ്രഷ് ഉപയോഗിച്ച് പൈയുടെ മുകളിൽ മഞ്ഞക്കരു പുരട്ടുക. \n \n ഘട്ടം 6 \n പഞ്ചസാര തളിക്കുക. \n \n ഘട്ടം 7 \n നീരാവി രക്ഷപ്പെടാൻ മുകളിൽ ചെറിയ ദ്വാരങ്ങൾ മുറിക്കുക. \n \n ഘട്ടം 8 \n 400 ഡിഗ്രി ഫാരൻഹീറ്റിൽ (200 ഡിഗ്രി സെൽഷ്യസ്) 35 മുതൽ 40 മിനിറ്റ് വരെ അല്ലെങ്കിൽ ബബ്ലി, ബ്രൌൺ നിറമാകുന്നതുവരെ ചുടേണം. റാക്കിൽ തണുപ്പിക്കുക. \n \n ഘട്ടം 9 \n ആസ്വദിക്കൂ!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "ഈ വിഭവം എങ്ങനെ പാചകം ചെയ്യാം?",
+        "answer": "ഈ വിഭവത്തെ \"ആധികാരിക ചൈനീസ് എഗ് റോൾസ്\" എന്ന് വിളിക്കുന്നു. എക്കാലത്തെയും മികച്ച പാചകക്കാരിയായ എന്റെ അമ്മയിൽ നിന്നാണ് ഈ ചൈനീസ് മുട്ട റോളുകൾ വരുന്നത്-ഞാൻ ഒരു നല്ല ഭക്ഷണപ്രിയനാണ്. എനിക്ക് ഇത് ഇഷ്ടമാണെങ്കിൽ നിങ്ങൾ അത് ചെയ്യും. ഇത് വളരെ ആധികാരികമാണ്, കാരണം എൻ്റെ കുടുംബവും ഞാനും ചൈനീസ് ആണ്. ഈ പാചകക്കുറിപ്പ് ലിങ് കുടുംബത്തിൽ കുറഞ്ഞത് 300 വർഷമെങ്കിലും പഴക്കമുള്ളതാണ്. \n \n \n തയ്യാറാക്കുന്ന സമയംഃ \n 1 മണിക്കൂർ \n പാചക സമയംഃ \n 30 മിനിറ്റ് \n അധിക സമയംഃ \n 1 മണിക്കൂർ \n മൊത്തം സമയംഃ \n 2 മണിക്കൂർ 30 മിനിറ്റ് \n വിളവ്ഃ \n 20 \n \n ചേരുവകൾ \n \n 4 ടേബിൾസ്പൂൺ സസ്യ എണ്ണ, വിഭജിച്ച \n \n 3 വലിയ മുട്ടകൾ, അടിച്ച \n \n 1 ഇടത്തരം തല കാബേജ്, നന്നായി അരിഞ്ഞ \n \n [00 1⁄2 കാരറ്റ്, ജൂലിയൻഡ് \n \n 1 പൌണ്ട് ചൈനീസ് ബാർബെ ഇതിലേക്ക് പൊടിച്ച മുട്ടകൾ ചേർത്ത് ഇളക്കികൊടുക്കാതെ പാകമാകുന്നതുവരെ വേവിക്കുക. മുട്ടകൾ മാറ്റി മറുവശത്ത് ഉറപ്പിക്കാൻ 20 സെക്കൻഡ് കൂടി വേവിക്കുക. മുട്ട പാൻകേക്ക് തണുക്കാൻ മാറ്റി വയ്ക്കുക, തുടർന്ന് നേർത്ത സ്ട്രിപ്പുകളായി മുറിക്കുക. \n \n ഘട്ടം 2 \n ബാക്കിയുള്ള സസ്യ എണ്ണ ഉയർന്ന ചൂടിൽ ഒരു വാണലിയിലോ വലിയ ചട്ടിയിലോ ചൂടാക്കുക. കാബേജ്, കാരറ്റ് എന്നിവ ഇളക്കുക; 2 മിനിറ്റ് വേവിക്കുക. പന്നിയിറച്ചി, മുള ചിനപ്പുപൊട്ടൽ, കൂൺ, പച്ച ഉള്ളി, സോയ സോസ്, ഉപ്പ്, പഞ്ചസാര, എംഎസ്ജി എന്നിവ ചേർക്കുക; പച്ചക്കറികൾ മൃദുവാകുന്നതുവരെ പാചകം തുടരുക, ഏകദേശം 6 മിനിറ്റ്. അരിഞ്ഞ മുട്ടയിൽ ഇളക്കുക, തുടർന്ന് മിശ്രിതം ഒരു ചട്ടിയിൽ പരത്തുക, ഏകദേശം 1 മണിക്കൂർ തണുപ്പിക്കുന്നതുവരെ തണുപ്പിക്കുക. \n \n ഘട്ടം 3 \n മുട്ട റോളുകൾ കൂട്ടിച്ചേർക്കാൻഃ നിങ്ങളുടെ ജോലിസ്ഥലത്ത് ഒരു കോണിൽ നിങ്ങൾക്ക് നേരെ ചൂണ്ടിക്കൊണ്ട് ഒരു റാപ്പർ വയ്ക്കുക. ഏകദേശം 3 ടേബിൾസ്പൂൺ തണുപ്പിച്ച പൂരിപ്പിക്കൽ ഒരു കൂമ്പാരത്തിൽ റാപ്പറിന്റെ താഴത്തെ മൂന്നിലൊന്നിലേക്ക് വയ്ക്കുക. പൊതിഞ്ഞ മുട്ടയുടെ വെള്ള അൽപ്പം റാപ്പറിന്റെ മുകളിലെ രണ്ട് അരികുകളിൽ ബ്രഷ് ചെയ്യുക, തുടർന്ന് താഴത്തെ കോർണർ ഫില്ലിംഗിന് മുകളിൽ മടക്കി പകുതി പോയിന്റിലേക്ക് ഉറപ്പിച്ച് ഉരുട്ടുക. ഇടതും വലതും വശങ്ങൾ മുട്ടയുടെ ഉരുളയ്ക്ക് മുകളിൽ മൃദുവായി മടക്കുക, തുടർന്ന് മുകളിലെ കോണുകൾ മുട്ടയുടെ വെള്ള കൊണ്ട് മുട്ടയുടെ ചുരുൾ അടയ്ക്കുന്നതുവരെ ഉരുളുന്നത് തുടരുക. ബാക്കിയുള്ള മുട്ട റോൾ റാപ്പറുകൾ ഉപയോഗിച്ച് ആവർത്തിക്കുക, പൂർത്തിയാക്കിയ മുട്ട റോളുകൾ വരണ്ടുപോകാതിരിക്കാൻ പ്ലാസ്റ്റിക് റാപ് കൊണ്ട് മൂടുക. \n \n ഘട്ടം 4 \n ഒരു കുക്കറിലോ ഡീപ് ഫ്രയറിലോ ഏകദേശം 6 ഇഞ്ച് എണ്ണ 350 ഡിഗ്രി ഫാരൻഹീറ്റ് (175 ഡിഗ്രി സെൽഷ്യസ്) വരെ ചൂടാക്കുക. \n \n ഘട്ടം 5 \n ഗോൾഡൻ ബ്രൌൺ, 5 മുതൽ 7 മിനിറ്റ് വരെ ഫ്രൈ മുട്ട ഒരു സമയം 3 അല്ലെങ്കിൽ 4 ഉരുട്ടുന്നു. പേപ്പർ ടവലുകളിൽ വയ്ക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "ഈ വിഭവം എങ്ങനെ പാചകം ചെയ്യാം?",
+        "answer": "ഈ വിഭവത്തെ \"ചോക്ലേറ്റ് പൊതിഞ്ഞ പീനട്ട് ബട്ടർ ക്രാക്കേഴ്സ്\" എന്ന് വിളിക്കുന്നു. \n \n തയ്യാറാക്കുന്ന സമയംഃ \n 30 മിനിറ്റ് \n പാചക സമയംഃ \n 5 മിനിറ്റ് \n അധിക സമയംഃ \n 15 മിനിറ്റ് \n മൊത്തം സമയംഃ \n 50 മിനിറ്റ് \n വിളമ്പൽഃ \n 40 \n വിളവ്ഃ \n 40 സാൻഡ്വിച്ച് കുക്കികൾ \n \n \n ചേരുവകൾ \n 3⁄4 കപ്പ് ക്രീം അല്ലെങ്കിൽ ചങ്കി പീനട്ട് ബട്ടർ \n \n 2 പൌണ്ട് ചോക്ലേറ്റ് ബദാം പുറംതൊലി, കഷണങ്ങളായി തകർത്ത \n \n 80 ബട്ടറി റൌണ്ട് ക്രാകറുകൾ (റിറ്റ്സ് പോലുള്ളവ) \n \n 2⁄4 ഔൺസ് നിറമുള്ള കാൻഡി സ്പ്രിങ്കിളുകൾ 40 നിലക്കടല വെണ്ണ നിറച്ച സാൻഡ്വിച്ച് കുക്കികൾ ഉണ്ടാക്കാൻ നിലക്കടല വെണ്ണ വശങ്ങൾ ഒരുമിച്ച് അമർത്തുക. \n \n ഘട്ടം 2 \n ഒരു ഇരട്ട ബോയിലറിന് മുകളിൽ ബദാം തൊലി ചൂടുവെള്ളത്തിൽ ഉരുക്കുക, പക്ഷേ തിളപ്പിക്കരുത്. ചൂട് കുറയ്ക്കുകയും ഉരുകിയ ചോക്ലേറ്റ് തിളയ്ക്കുന്ന വെള്ളത്തിന് മുകളിൽ ഇരട്ട ബോയിലറിന് മുകളിൽ വയ്ക്കുകയും ചെയ്യുക. \n \n ഘട്ടം 3 \n ഓരോ സാൻഡ്വിച്ച് കുക്കിയും ഉരുകിയ ചോക്ലേറ്റിൽ മുക്കി, അധിക അളവ് വീണ്ടും പാത്രത്തിലേക്ക് ഒഴുകാൻ അനുവദിക്കുന്നു. \n \n ഘട്ടം 4 \n പൊതിഞ്ഞ കുക്കികൾ മെഴുക് പേപ്പറിൽ വയ്ക്കുക, ഉടൻ തന്നെ കാൻഡി സ്പ്രിങ്കിളുകൾ തളിക്കുക, അങ്ങനെ അവ ഉരുകിയ ചോക്ലേറ്റിൽ പറ്റിനിൽക്കും. \n \n ഘട്ടം 5 \n ഏകദേശം 15 മിനിറ്റ് ചോക്ലേറ്റ് സജ്ജീകരിക്കുന്നതുവരെ കുക്കികൾ റഫ്രിജറേറ്ററിൽ വയ്ക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "ഈ വിഭവം എങ്ങനെ പാചകം ചെയ്യാം?",
+        "answer": "ഈ വിഭവത്തെ \"ബ്രോക്കോളി ആൻഡ് കാരറ്റ് സ്റ്റിർ ഫ്രൈ\" എന്ന് വിളിക്കുന്നു. \n \n തയ്യാറാക്കുന്ന സമയംഃ \n 10 മിനിറ്റ് \n പാചക സമയംഃ \n 16 മിനിറ്റ് \n മൊത്തം സമയംഃ \n 26 മിനിറ്റ് \n വിളവ്ഃ \n 5 കപ്പ് \n \n ചേരുവകൾ \n 5 1⁄2 കപ്പ് ബ്രോക്കോളി പൂക്കൾ \n \n 1 കാരറ്റ്, ചെറുതായി അരിഞ്ഞത് \n \n 2 കപ്പ് വെള്ളം \n \n 1 കപ്പ് കോൺസ്റ്റാർക്ക് \n \n \n 1 കപ്പ് ചിക്കൻ ബൌയില്ലൺ ഗ്രാന്യൂളുകൾ, അല്ലെങ്കിൽ രുചിക്കാൻ \n \n ഉപ്പ് \n \n \n 2 ടേബിൾസ്പൂൺ ബ്രോക്കോളി ചേർത്ത് പച്ച നിറമാകുന്നതുവരെ, ഏകദേശം 2 മിനിറ്റ് വേവിക്കുക. ഒരു സ്ലോട്ട് ചെയ്ത സ്പൂൺ ഉപയോഗിച്ച് ബ്രോക്കോളി ഒരു ബൌൾ ഐസ് വാട്ടറിലേക്ക് മാറ്റുകയും പാചക പ്രക്രിയ നിർത്താൻ നിരവധി മിനിറ്റ് മുക്കിവയ്ക്കുകയും ചെയ്യുക. വെള്ളം വറ്റിക്കുക. \n \n ഘട്ടം 2 \n അതേ വലിയ പാത്രത്തിൽ വെള്ളം വീണ്ടും തിളപ്പിക്കുക; അരിഞ്ഞ കാരറ്റ് ചേർത്ത് 1 മിനിറ്റ് വേവിക്കുക. വെള്ളം വറ്റിക്കുക. \n \n ഘട്ടം 3 \n ഒരു പാത്രത്തിൽ വെള്ളവും കോൺസ്റ്റാർച്ചും ചേർത്ത് മിനുസമാർന്നതുവരെ ഇളക്കുക. ചിക്കൻ കഷണങ്ങൾ, ഉപ്പ് എന്നിവ ചേർത്ത് നന്നായി ഇളക്കുക. \n \n ഘട്ടം 4 \n ഒരു വാണലിയിലോ വലിയ ചട്ടിയിലോ നിലക്കടല എണ്ണ ചൂടാക്കുക; ബ്രോക്കോളിയും കാരറ്റും 2 മിനിറ്റ് വേവിക്കുക. കോൺസ്റ്റാർക്ക് മിശ്രിതം ചേർക്കുക; പച്ചക്കറികൾ തുല്യമായി പൂശുന്നതുവരെ ഇളക്കുക, 1 മുതൽ 2 മിനിറ്റ് വരെ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "ഈ വിഭവം എങ്ങനെ പാചകം ചെയ്യാം?",
+        "answer": "ഈ വിഭവത്തെ \"ക്രീം ചീസ് ആൻഡ് ക്രാബ് സുഷി റോൾസ്\" എന്ന് വിളിക്കുന്നു. \n \n തയ്യാറാക്കുന്ന സമയംഃ \n 20 മിനിറ്റ് \n പാചക സമയംഃ \n 20 മിനിറ്റ് \n മൊത്തം സമയംഃ \n 40 മിനിറ്റ് \n വിളവ്ഃ \n 2 സുഷി റോളുകൾ \n \n \n ചേരുവകൾ \n 1 കപ്പ് പാകം ചെയ്യാത്ത വെളുത്ത അരി \n \n 2 കപ്പ് വെള്ളം \n \n 2 ടേബിൾസ്പൂൺ അരി വിനാഗിരി \n \n 1 ടേബിൾസ്പൂൺ ഉപ്പ് \n \n \n 2 ഷീറ്റുകൾ നോറി കടൽപ്പായൽ ഷീറ്റുകൾ \n \n \n വെള്ളരിക്ക, തൊലി കളഞ്ഞ് നീളത്തിൽ അരിഞ്ഞത് \n \n 2 \n ഘട്ടം 2 \n അരിയും വെള്ളവും ഒരു ചട്ടിയിൽ ഉയർന്ന തീയിൽ തിളപ്പിക്കുക. ചൂട് ഇടത്തരം കുറഞ്ഞതിലേക്ക് കുറയ്ക്കുക, മൂടുക, അരി മൃദുവാകുന്നതുവരെ വേവിക്കുക, ദ്രാവകം ആഗിരണം ചെയ്യപ്പെടുന്നു, 20 മുതൽ 25 മിനിറ്റ് വരെ. അരി വിനാഗിരിയും ഉപ്പും ചേർത്ത് ഇളക്കുക. ഇത് പൂർണ്ണമായും തണുക്കാൻ അനുവദിക്കുക. \n ഘട്ടം 3 \n കടൽപ്പായൽ ഷീറ്റുകൾ ഇടുക. കൈകൾ വെള്ളത്തിൽ ഈർപ്പമുള്ളതാക്കുക, തുടർന്ന് ഓരോ ഷീറ്റിലും തണുപ്പിച്ച അരി തുല്യമായി വിതറുക, ഒരു അരികിൽ നീളത്തിൽ രണ്ടര ഇഞ്ച് വിടവ് അവശേഷിക്കുന്നു. വെള്ളരിക്ക, അനുകരണ ഞണ്ട്, ക്രീം ചീസ് എന്നിവയുടെ സ്ട്രിപ്പുകൾ അരിയുടെ മുകളിൽ വിടവിന് എതിർവശത്ത് ഒരു നേർരേഖയിൽ ക്രമീകരിക്കുക. ടോപ്പിംഗുകളിൽ നിന്ന് കടൽപ്പായൽ ഷീറ്റിന്റെ തുറന്ന അറ്റത്തേക്ക് സുഷി ഉരുട്ടുക. \n ഘട്ടം 4 \n മൂർച്ചയുള്ള നനഞ്ഞ കത്തി ഉപയോഗിച്ച് ഓരോ ഉരുളയും അഞ്ചോ ആറോ കഷണങ്ങളായി മുറിക്കുക. ഒരു വശത്ത് അരിഞ്ഞ ഇഞ്ചി ചേർത്ത് വിളമ്പുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "ഈ വിഭവം എങ്ങനെ പാചകം ചെയ്യാം?",
+        "answer": "ഈ വിഭവത്തെ \"വീഗൻ സ്വീറ്റ് ഉരുളക്കിഴങ്ങ് ചിക്കൻ കറി\" എന്ന് വിളിക്കുന്നു. \n \n തയ്യാറാക്കുന്ന സമയംഃ \n 10 മിനിറ്റ് \n പാചക സമയംഃ \n 20 മിനിറ്റ് \n മൊത്തം സമയംഃ \n 30 മിനിറ്റ് \n ചേരുവകൾഃ \n 3 ടേബിൾസ്പൂൺ ഒലിവ് ഓയിൽ \n \n 1 ഉള്ളി, അരിഞ്ഞ \n \n 2 ഗ്രാമ്പൂ വെളുത്തുള്ളി, അരിഞ്ഞ \n \n 2 ടേബിൾസ്പൂൺ അരിഞ്ഞ പുതിയ ഇഞ്ചി റൂട്ട് \n \n 1 (15 ഔൺസ്) കടല, വറ്റിച്ച \n \n 1 (14.5 ഔൺസ്) തക്കാളി \n \n 1 (14 ഔൺസ്) (14 ഔൺസ്) ഉള്ളി, വെളുത്തുള്ളി, ഇഞ്ചി എന്നിവ ചൂടുള്ള എണ്ണയിൽ മൃദുവാകുന്നതുവരെ പാകം ചെയ്യുക, ഏകദേശം 5 മിനിറ്റ്. കാരറ്റ്, കുരുമുളക്, സെലറി എന്നിവ ചേർക്കുക. ഒരു തിളപ്പിക്കുക കൊണ്ടുവരിക, ചൂട് കുറയ്ക്കുക, ഏകദേശം 15 മിനിറ്റ് മൃദുവാകുന്നതുവരെ വേവിക്കുക. \n ഘട്ടം 2 \n ഗരം മസാല, ജീരകം, മഞ്ഞൾ, ഉപ്പ്, ചില്ലി ഫ്ളേക്കുകൾ എന്നിവ ഉപയോഗിച്ച് പാകം ചെയ്യുക. വിളമ്പുന്നതിന് തൊട്ടുമുമ്പ് സവാള ചേർക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "ഈ വിഭവം എങ്ങനെ പാചകം ചെയ്യാം?",
+        "answer": "ഈ വിഭവത്തെ \"ലൈം ചിക്കൻ സോഫ്റ്റ് ടാക്കോസ്\" എന്ന് വിളിക്കുന്നു. \n \n തയ്യാറാക്കുന്ന സമയംഃ \n 20 മിനിറ്റ് \n പാചക സമയംഃ \n 30 മിനിറ്റ് \n മൊത്തം സമയംഃ \n 50 മിനിറ്റ് \n വിളവ്ഃ \n 10 സെർവിംഗുകൾ \n \n ചേരുവകൾ \n 1⁄2 പൌണ്ട് ചർമ്മമില്ലാത്ത, എല്ലില്ലാത്ത ചിക്കൻ മുലപ്പാൽ-ക്യൂബ് ചെയ്ത \n \n 2 പച്ച ഉള്ളി, അരിഞ്ഞ \n \n 1⁄2 കപ്പ് റെഡ് വൈൻ വിനാഗിരി \n \n 1⁄2 നാരങ്ങ, ജ്യൂസ് ചെയ്ത \n \n 2 ഗ്രാമ്പൂ വെളുത്തുള്ളി, അരിഞ്ഞ \n \n 1 ടേബിൾസ്പൂൺ ഉണക്കിയ ഓറഗാനോ \n \n \n 1 ടേബിൾസ്പൂൺ വെളുത്ത പഞ്ചസാര \n \n \n വെളുത്തുള്ളി, പച്ചിലകൾ, വിനാഗിരി, നാരങ്ങ നീര്, വെളുത്തുള്ളി, ഓറഗാനോ, പഞ്ചസാര, ഉപ്പ് എന്നിവ ചേർക്കുക. കുറഞ്ഞ തീയിൽ 10 മിനിറ്റ് വേവിക്കുക. \n ഘട്ടം 2 \n ഒരു ഇരുമ്പ് പാത്രം ഇടത്തരം തീയിൽ ചൂടാക്കുക. ചട്ടിയിൽ ഒരു ടോർട്ടില വയ്ക്കുക, ചൂടാക്കുക, മറുവശത്ത് ചൂടാക്കാൻ തിരിക്കുക. ബാക്കിയുള്ള ടോർട്ടിലകളോടൊപ്പം ആവർത്തിക്കുക. നാരങ്ങ ചിക്കൻ മിശ്രിതം ചൂടുള്ള ടോർട്ടിലകളിൽ വിളമ്പുക, അതിനു മുകളിൽ തക്കാളി, ചീര, ചീസ്, സൽസ എന്നിവ ചേർക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "1982 ലെ സ്റ്റീഫൻ കിംഗ് നോവലായ റീത്ത ഹേവർത്ത്, ഷാഷാങ്ക് റിഡംപ്ഷൻ എന്നിവയെ അടിസ്ഥാനമാക്കി ഫ്രാങ്ക് ഡാരബോണ്ട് തിരക്കഥയെഴുതി സംവിധാനം ചെയ്ത 1994 ലെ അമേരിക്കൻ നാടക ചിത്രമാണ് ദി ഷാഷാങ്ക് റിഡംപ്ഷൻ. നിരപരാധിത്വം അവകാശപ്പെട്ടെങ്കിലും ഭാര്യയെയും കാമുകനെയും കൊലപ്പെടുത്തിയതിന് ഷാഷാങ്ക് സ്റ്റേറ്റ് ജയിലിൽ ജീവപര്യന്തം തടവിന് ശിക്ഷിക്കപ്പെടുന്ന ബാങ്കർ ആൻഡി ഡുഫ്രെസിൻ്റെ (ടിം റോബിൻസ്) കഥയാണ് ചിത്രം പറയുന്നത്. തുടർന്നുള്ള രണ്ട് പതിറ്റാണ്ടുകളിൽ, മയക്കുമരുന്ന് കള്ളക്കടത്തുകാരനായ എല്ലിസ് \"റെഡ്\" റെഡ്ഡിംഗുമായി (മോർഗൻ ഫ്രീമാൻ) സൌഹൃദം സ്ഥാപിക്കുകയും ജയിൽ വാർഡൻ സാമുവൽ നോർട്ടന്റെ (ബോബ് ഗണ്ടൺ) നേതൃത്വത്തിലുള്ള കള്ളപ്പണം വെളുപ്പിക്കൽ പ്രവർത്തനത്തിൽ പ്രധാന പങ്കുവഹിക്കുകയും ചെയ്യുന്നു. വില്യം സാഡ്ലർ, ക്ലാൻസി ബ്രൌൺ, ഗിൽ ബെല്ലോസ്, ജെയിംസ് വിറ്റ്മോർ എന്നിവർ സഹനടന്മാരായി വേഷമിടുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "1969 ൽ ഇതേ പേരിൽ ഏറ്റവും കൂടുതൽ വിറ്റഴിക്കപ്പെട്ട പുസോയുടെ നോവലിനെ അടിസ്ഥാനമാക്കി മരിയോ പുസോയുമായി ചേർന്ന് തിരക്കഥ എഴുതിയ ഫ്രാൻസിസ് ഫോർഡ് കൊപ്പോള സംവിധാനം ചെയ്ത 1972 ലെ അമേരിക്കൻ ക്രൈം ചിത്രമാണ് ദി ഗോഡ്ഫാദർ. മർലോൺ ബ്രാൻഡോ, അൽ പാച്ചിനോ, ജെയിംസ് കാൻ, റിച്ചാർഡ് കാസ്റ്റെല്ലാനോ, റോബർട്ട് ഡുവൽ, സ്റ്റെർലിംഗ് ഹെയ്ഡൻ, ജോൺ മാർലി, റിച്ചാർഡ് കോണ്ടെ, ഡയാൻ കീറ്റൺ എന്നിവരാണ് ചിത്രത്തിലെ പ്രധാന താരങ്ങൾ. 1945 മുതൽ 1955 വരെ പിതാവായ വിറ്റോ കോർലിയോണിൻറെ (ബ്രാൻഡോ) കീഴിലുള്ള കോർലിയോൺ കുടുംബത്തെ വിവരിക്കുന്ന ദി ഗോഡ്ഫാദർ ത്രയത്തിലെ ആദ്യ ഭാഗമാണിത്. അദ്ദേഹത്തിൻറെ ഇളയ മകൻ മൈക്കൽ കോർലിയോണിൻറെ (പാച്ചിനോ), വിമുഖത കാണിക്കുന്ന കുടുംബത്തിന് പുറത്തുള്ളവരിൽ നിന്ന് ക്രൂരനായ മാഫിയ മേധാവിയിലേക്കുള്ള പരിവർത്തനത്തിലാണ് ഇത് ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നത്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "ക്രിസ്റ്റഫർ നോളനും സഹോദരൻ ജോനാഥനും ചേർന്ന് എഴുതിയ തിരക്കഥയിൽ നിന്ന് ക്രിസ്റ്റഫർ നോളൻ സംവിധാനം ചെയ്ത 2008 ലെ സൂപ്പർഹീറോ ചിത്രമാണ് ദി ഡാർക്ക് നൈറ്റ്. ഡിസി കോമിക്സ് സൂപ്പർഹീറോ ബാറ്റ്മാനെ അടിസ്ഥാനമാക്കിയുള്ള ഈ ചിത്രം ബാറ്റ്മാൻ ബിഗിൻസിൻറെ (2005) തുടർച്ചയും ദി ഡാർക്ക് നൈറ്റ് ട്രയലജിയിലെ രണ്ടാമത്തെ ചിത്രവുമാണ്. ഗോഥം സിറ്റിയിലെ സംഘടിത കുറ്റകൃത്യങ്ങൾ ഇല്ലാതാക്കാൻ ഒരു സഖ്യം രൂപീകരിക്കുന്ന കാവൽക്കാരനായ ബാറ്റ്മാൻ, പോലീസ് ലെഫ്റ്റനന്റ് ജെയിംസ് ഗോർഡൻ, ജില്ലാ അറ്റോർണി ഹാർവി ഡെന്റ് എന്നിവരെ പിന്തുടരുന്നതാണ് ഇതിവൃത്തം. അരാജകത്വത്തിൽ നിന്ന് നഗരത്തെ രക്ഷിക്കാൻ ബാറ്റ്മാൻ എത്ര ദൂരം പോകുമെന്ന് പരീക്ഷിക്കാൻ ശ്രമിക്കുന്ന അരാജകത്വ സൂത്രധാരനായ ജോക്കർ അവരുടെ ശ്രമങ്ങളെ പാളം തെറ്റിക്കുന്നു. ക്രിസ്റ്റ്യൻ ബെയ്ൽ, മൈക്കൽ കെയ്ൻ, ഹീത്ത് ലെഡ്ജർ, ഗാരി ഓൾഡ്മാൻ, ആരോൺ എക്കാർട്ട്, മാഗി ഗില്ലെൻഹാൽ, മോർഗൻ ഫ്രീമാൻ എന്നിവരാണ് ചിത്രത്തിലെ അഭിനേതാക്കൾ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "ഒരു നരഹത്യ വിചാരണയുടെ ജൂറിയെക്കുറിച്ച് റെജിനാൾഡ് റോസ് എഴുതിയ ഒരു അമേരിക്കൻ കോടതിമുറിയിലെ നാടകമാണ് ട്വൽവ് ആംഗ്രി മെൻ. 1954 ൽ ഒരു ടെലിവിഷൻ നാടകമായാണ് ഇത് ആദ്യം പ്രക്ഷേപണം ചെയ്തത്. അടുത്ത വർഷം അത് വേദിയിലേക്ക് മാറ്റി. സിഡ്നി ല്യൂമെറ്റ് സംവിധാനം ചെയ്ത അതേ പേരിലുള്ള ഒരു ചിത്രത്തിനായി ഇത് സ്വീകരിക്കപ്പെടുകയും 1957 ൽ പുറത്തിറങ്ങുകയും ചെയ്തു. അതിനുശേഷം ഇതിന് നിരവധി റീമേക്കുകൾ, അഡാപ്റ്റേഷനുകൾ, ആദരാഞ്ജലികൾ എന്നിവ ലഭിച്ചു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "സ്റ്റീവൻ സ്പിൽബർഗ് സംവിധാനം ചെയ്ത് നിർമ്മിച്ച് സ്റ്റീവൻ സൈലിയൻ രചിച്ച 1993 ലെ അമേരിക്കൻ ഇതിഹാസ ചരിത്ര നാടക ചിത്രമാണ് ഷിൻഡ്ലർസ് ലിസ്റ്റ്. 1982ൽ ഓസ്ട്രേലിയൻ നോവലിസ്റ്റായ തോമസ് കെനിയാലി എഴുതിയ ഷിൻഡ്ലർസ് ആർക്ക് എന്ന നോവലിനെ അടിസ്ഥാനമാക്കിയാണ് ചിത്രം നിർമ്മിച്ചിരിക്കുന്നത്. രണ്ടാം ലോകമഹായുദ്ധസമയത്ത് തന്റെ ഫാക്ടറികളിൽ ജോലി നൽകിക്കൊണ്ട് ആയിരത്തിലധികം പോളിഷ്-ജൂത അഭയാർഥികളെ ഹോളോകോസ്റ്റിൽ നിന്ന് രക്ഷിച്ച ജർമ്മൻ വ്യവസായിയായ ഓസ്കാർ ഷിൻഡ്ലറെ കഥയാണ് ചിത്രം പറയുന്നത്. ഷിൻഡ്ലറായി ലിയാം നീസൺ, എസ്എസ് ഓഫീസർ അമോൺ ഗോത്ത് ആയി റാൽഫ് ഫിയൻസ്, ഷിൻഡ്ലറുടെ ജൂത അക്കൌണ്ടന്റ് ഇറ്റ്സാക്ക് സ്റ്റെർൺ ആയി ബെൻ കിംഗ്സ്ലി എന്നിവർ ഇതിൽ അഭിനയിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "ഫ്രാൻ വാൽഷ്, ഫിലിപ്പ ബോയെൻസ്, ജാക്സൺ എന്നിവരുടെ തിരക്കഥയിൽ പീറ്റർ ജാക്സൺ സംവിധാനം ചെയ്ത 2003 ലെ ഇതിഹാസ ഫാന്റസി സാഹസിക ചിത്രമാണ് ദി ലോർഡ് ഓഫ് ദി റിംഗ്സ്ഃ ദി റിട്ടേൺ ഓഫ് ദി കിംഗ്. 1955ൽ ജെ. ആർ. ആർ. ടോൾകീൻ എഴുതിയ ദ ലോർഡ് ഓഫ് ദ റിംഗ്സ് എന്ന നോവലിൻറെ മൂന്നാമത്തെ വാല്യമായ ദ റിട്ടേൺ ഓഫ് ദ കിംഗിനെ അടിസ്ഥാനമാക്കിയാണ് ചിത്രം നിർമ്മിച്ചിരിക്കുന്നത്. 2002 ലെ ദ ലോർഡ് ഓഫ് ദ റിംഗ്സ്ഃ ദ ടു ടവേഴ്സിന്റെ തുടർച്ചയായ ഈ ചിത്രം ദ ലോർഡ് ഓഫ് ദ റിംഗ്സ് ത്രയത്തിലെ അവസാന ഭാഗമാണ്. എലിജാ വുഡ്, ഇയാൻ മക്കെല്ലൻ, ലിവ് ടൈലർ, വിഗോ മോർട്ടൻസൺ, സീൻ ആസ്റ്റിൻ, കേറ്റ് ബ്ലാഞ്ചെറ്റ്, ജോൺ റൈസ്-ഡേവിസ്, ബെർണാഡ് ഹിൽ, ബില്ലി ബോയിഡ്, ഡൊമിനിക് മൊനാഗൻ, ഒർലാൻഡോ ബ്ലൂം, ഹ്യൂഗോ വീവിംഗ്, മിറാൻഡ ഓട്ടോ, ഡേവിഡ് വെൻഹാം, കാൾ അർബൻ, ജോൺ നോബിൾ, ആൻഡി സെർക്കിസ്, ഇയാൻ ഹോം, സീൻ ബീൻ എന്നിവരുൾപ്പെടെയുള്ള ഒരു കൂട്ടം അഭിനേതാക്കൾ ഇതിൽ അഭിനയിക്കുന്നു. മുൻ സിനിമയുടെ കഥ തുടർന്നുകൊണ്ട്, ഫ്രോഡോ, സാം, ഗൊല്ലം എന്നിവർ ഗൊല്ലമിന്റെ യഥാർത്ഥ ഉദ്ദേശ്യങ്ങളെക്കുറിച്ച് അറിയാതെ വൺ റിംഗ് നശിപ്പിക്കുന്നതിനായി മൌണ്ട് ഡൂമിലേക്ക് അന്തിമ വഴി തേടുന്നു, അതേസമയം മെറി, പിപ്പിൻ, ഗാണ്ടാൽഫ്, അരഗോൺ, ലെഗോലാസ്, ഗിംലി എന്നിവരും മറ്റുള്ളവരും മിനാസ് തിരിത്തിൽ സോറോണിനും അദ്ദേഹത്തിന്റെ സൈന്യത്തിനും എതിരെ ഒരുമിച്ച് പ്രവർത്തിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "റോജർ അവേരിയോടൊപ്പം അദ്ദേഹം വിഭാവനം ചെയ്ത ഒരു കഥയിൽ നിന്ന് ക്വെൻറിൻ ടരാന്റിനോ തിരക്കഥയെഴുതി സംവിധാനം ചെയ്ത 1994 ലെ അമേരിക്കൻ ക്രൈം ചിത്രമാണ് പൾപ്പ് ഫിക്ഷൻ. [3] കാലിഫോർണിയയിലെ ലോസ് ഏഞ്ചൽസിലെ കുറ്റകൃത്യങ്ങളുടെയും അക്രമങ്ങളുടെയും പരസ്പരബന്ധിതമായ നാല് കഥകൾ ഇത് പറയുന്നു. ജോൺ ട്രാവോൾട്ട, സാമുവൽ എൽ. ജാക്സൺ, ബ്രൂസ് വില്ലിസ്, ടിം റോത്ത്, വിംഗ് റാംസ്, ഉമാ തുർമാൻ എന്നിവരാണ് ചിത്രത്തിലെ പ്രധാന താരങ്ങൾ. ഗ്രാഫിക് അക്രമത്തിനും പഞ്ചി ഡയലോഗിനും പേരുകേട്ട ഇരുപതാം നൂറ്റാണ്ടിന്റെ മധ്യത്തിൽ പ്രചാരത്തിലുണ്ടായിരുന്ന പൾപ്പ് മാഗസിനുകളെയും ഹാർഡ് ബോയിൽഡ് ക്രൈം നോവലുകളെയും ഈ തലക്കെട്ട് സൂചിപ്പിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "ഫ്രാൻ വാൽഷ്, ഫിലിപ്പ ബോയെൻസ്, ജാക്സൺ എന്നിവരുടെ തിരക്കഥയിൽ നിന്ന് പീറ്റർ ജാക്സൺ സംവിധാനം ചെയ്ത 2001 ലെ ഇതിഹാസ ഫാന്റസി സാഹസിക ചിത്രമാണ് ദി ലോർഡ് ഓഫ് ദി റിംഗ്സ്ഃ ദി ഫെലോഷിപ്പ് ഓഫ് ദി റിംഗ്, 1954 ലെ ദി ഫെലോഷിപ്പ് ഓഫ് ദി റിംഗിനെ അടിസ്ഥാനമാക്കി, ജെ. ആർ. ആർ. ടോൾകീൻ എഴുതിയ ദി ലോർഡ് ഓഫ് ദി റിംഗ്സ് എന്ന നോവലിന്റെ ആദ്യ വാല്യം. ദി ലോർഡ് ഓഫ് ദി റിംഗ്സ് പരമ്പരയിലെ ആദ്യ ചിത്രമാണിത്. എലിജാ വുഡ്, ഇയാൻ മക്കെല്ലൻ, ലിവ് ടൈലർ, വിഗോ മോർട്ടൻസൺ, സീൻ ആസ്റ്റിൻ, കേറ്റ് ബ്ലാഞ്ചെറ്റ്, ജോൺ റൈസ്-ഡേവിസ്, ബില്ലി ബോയിഡ്, ഡൊമിനിക് മൊനാഗൻ, ഒർലാൻഡോ ബ്ലൂം, ക്രിസ്റ്റഫർ ലീ, ഹ്യൂഗോ വീവിംഗ്, സീൻ ബീൻ, ഇയാൻ ഹോം, ആൻഡി സെർക്കിസ് എന്നിവരുൾപ്പെടെയുള്ള ഒരു കൂട്ടം അഭിനേതാക്കൾ ഇതിൽ അഭിനയിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "ഫ്രാൻസിസ് ഫോർഡ് കൊപ്പോള നിർമ്മിച്ച് സംവിധാനം ചെയ്ത 1974 ലെ അമേരിക്കൻ ഇതിഹാസ ക്രൈം ചിത്രമാണ് ദി ഗോഡ്ഫാദർ പാർട്ട് II. കൊപ്പോളയുമായി ചേർന്ന് തിരക്കഥയെഴുതിയ മരിയോ പൂസോയുടെ 1969 ലെ നോവലായ ദി ഗോഡ്ഫാദറിനെ അടിസ്ഥാനമാക്കിയുള്ളതാണ് ഈ ചിത്രം, 1972 ലെ ദി ഗോഡ്ഫാദർ എന്ന ചിത്രത്തിന്റെ തുടർച്ചയും പ്രീക്വെലുമാണ്, സമാന്തര നാടകങ്ങൾ അവതരിപ്പിക്കുന്നുഃ ഒരാൾ 1958 ലെ കോർലിയോൺ കുടുംബത്തിലെ പുതിയ ഡോണായ മൈക്കൽ കോർലിയോണിന്റെ (അൽ പാച്ചിനോ) കഥ എടുക്കുന്നു, അദ്ദേഹത്തിന്റെ ജീവിതത്തിന് നേരെയുള്ള ഒരു ശ്രമത്തിന്റെ അനന്തരഫലമായി കുടുംബ ബിസിനസ്സ് സംരക്ഷിക്കുന്നു; പ്രീക്വെൽ അദ്ദേഹത്തിന്റെ പിതാവ് വിറ്റോ കോർലിയോണിന്റെ (റോബർട്ട് ഡി നീറോ) സിസിലിയൻ കുട്ടിക്കാലം മുതൽ ന്യൂയോർക്ക് സിറ്റിയിൽ അദ്ദേഹത്തിന്റെ കുടുംബ സംരംഭം സ്ഥാപിക്കുന്നത് വരെയുള്ള യാത്രയെ ഉൾക്കൊള്ളുന്നു. റോബർട്ട് ഡുവൽ, ഡയാൻ കീറ്റൺ, താലിയ ഷയർ, മോർഗാന കിംഗ്, ജോൺ കാസൽ, മരിയാന ഹിൽ, ലീ സ്ട്രാസ്ബെർഗ് എന്നിവരും ചിത്രത്തിൽ അഭിനയിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "ഈ സിനിമയെക്കുറിച്ച് ഒരു ചെറിയ ആമുഖം നൽകാമോ?",
+        "answer": "ലെസ്ലി ചിയുങ്, ഗോങ് ലി, ഷാങ് ഫെൻഗി എന്നിവർ അഭിനയിച്ച് ചെൻ കൈഗെ സംവിധാനം ചെയ്ത 1993 ലെ ചൈനീസ് ചരിത്ര നാടക ചിത്രമാണ് ഫെയർവെൽ മൈ കോൺക്യുബിൻ. ലിലിയൻ ലീയുടെ നോവലിനെ അടിസ്ഥാനമാക്കി ലു വെയ് സ്ക്രീനിനായി സ്വീകരിച്ച ഈ ചിത്രം റിപ്പബ്ലിക് ഓഫ് ചൈനയുടെ ആദ്യകാലം മുതൽ സാംസ്കാരിക വിപ്ലവത്തിന്റെ അനന്തരഫലങ്ങൾ വരെയുള്ള രാഷ്ട്രീയമായി പ്രക്ഷുബ്ധമായ 20-ാം നൂറ്റാണ്ടിലെ ചൈനയിലാണ് ചിത്രീകരിച്ചിരിക്കുന്നത്. രണ്ട് പീക്കിംഗ് ഓപ്പറ അഭിനേതാക്കളും ആജീവനാന്ത സുഹൃത്തുക്കളായ ചെങ് ഡിയി (ചിയുങ്), ഡുവാൻ സിയാവോളോ (ഷാങ്), സിയാവോളോയുടെ ഭാര്യ ജുക്സിയാൻ (ഗോങ്) എന്നിവർ തമ്മിലുള്ള പ്രശ്നകരമായ ബന്ധത്തെ ഇത് വിവരിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ഇറ്റാലിയൻ കലാകാരനായ ലിയോനാർഡോ ഡാവിഞ്ചിയുടെ പകുതി നീളമുള്ള ഛായാചിത്രമാണ് മോനാലിസ. \n \n ഇറ്റാലിയൻ നവോത്ഥാനത്തിന്റെ ഒരു ആദർശപരമായ മാസ്റ്റർപീസ് ആയി കണക്കാക്കപ്പെടുന്ന ഇതിനെ \"ലോകത്തിലെ ഏറ്റവും അറിയപ്പെടുന്ന, ഏറ്റവും കൂടുതൽ സന്ദർശിക്കപ്പെട്ട, ഏറ്റവും കൂടുതൽ എഴുതപ്പെട്ട, ഏറ്റവും കൂടുതൽ ആലപിച്ച, ഏറ്റവും പാരഡി ചെയ്ത കലാസൃഷ്ടി\" എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്നു. വിഷയത്തിന്റെ നിഗൂഢമായ ആവിഷ്കാരം, രചനയുടെ സ്മാരകത്വം, രൂപങ്ങളുടെ സൂക്ഷ്മമായ മോഡലിംഗ്, അന്തരീക്ഷ മായാജാലം എന്നിവ പെയിന്റിംഗിന്റെ പുതിയ ഗുണങ്ങളിൽ ഉൾപ്പെടുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "1665ൽ ഡച്ച് സുവർണ്ണകാല ചിത്രകാരനായ ജോഹന്നാസ് വെർമീർ വരച്ച ഒരു എണ്ണച്ചായാചിത്രമാണ് ഗേൾ വിത്ത് എ പേൾ ഇയർറിംഗ് (ഡച്ച്ഃ മീസ്ജെ മെറ്റ് ഡി പരേൽ). നൂറ്റാണ്ടുകളായി വിവിധ പേരുകളിൽ പറയുമ്പോൾ, ഇരുപതാം നൂറ്റാണ്ടിന്റെ അവസാനത്തോടെ അവിടെ ചിത്രീകരിച്ചിരിക്കുന്ന പെൺകുട്ടി ധരിച്ചിരുന്ന കമ്മലിന് ശേഷം ഇത് അതിന്റെ ഇപ്പോഴത്തെ പേരിൽ അറിയപ്പെട്ടു. 1902 മുതൽ ഹേഗിലെ മൌറിറ്റ്ഷൂയിസിന്റെ ശേഖരത്തിലുള്ള ഈ കൃതി വിവിധ സാഹിത്യ, സിനിമാ ട്രീറ്റ്മെന്റുകളുടെ വിഷയമാണ്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ഡച്ച് പോസ്റ്റ് ഇംപ്രഷനിസ്റ്റ് ചിത്രകാരനായ വിൻസെന്റ് വാൻഗോഗ് വരച്ച ഒരു ഓയിൽ-ഓൺ-കാൻവാസ് പെയിന്റിംഗാണ് ദി സ്റ്റാറി നൈറ്റ്. 1889 ജൂണിൽ വരച്ച ഈ ചിത്രം, സൂര്യോദയത്തിന് തൊട്ടുമുമ്പ്, സെയിന്റ്-റെമി-ഡി-പ്രോവൻസിലെ അദ്ദേഹത്തിന്റെ അഭയമുറിയുടെ കിഴക്കോട്ട് അഭിമുഖീകരിക്കുന്ന ജാലകത്തിൽ നിന്നുള്ള കാഴ്ചയെ ചിത്രീകരിക്കുന്നു, 1941 മുതൽ ലില്ലി പി. ബ്ലിസ് ബെക്വസ്റ്റ് വഴി നേടിയ ഒരു സാങ്കൽപ്പിക village.It ന്യൂയോർക്ക് നഗരത്തിലെ മ്യൂസിയം ഓഫ് മോഡേൺ ആർട്ടിന്റെ സ്ഥിരമായ ശേഖരത്തിലാണ്. വാൻഗോഗിന്റെ മഹത്തായ കൃതിയായി പരക്കെ കണക്കാക്കപ്പെടുന്ന ദി സ്റ്റാറി നൈറ്റ് പാശ്ചാത്യ കലയിലെ ഏറ്റവും തിരിച്ചറിയാവുന്ന പെയിന്റിംഗുകളിൽ ഒന്നാണ്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ഓസ്ട്രിയൻ പ്രതീകാത്മക ചിത്രകാരനായ ഗുസ്താവ് 1907 ലും 1908 ലും പണ്ഡിതന്മാർ അദ്ദേഹത്തിന്റെ \"സുവർണ്ണ കാലഘട്ടം\" എന്ന് വിളിക്കുന്ന കാലഘട്ടത്തിൽ സ്വർണ്ണ ഇല, വെള്ളി, പ്ലാറ്റിനം എന്നിവ ചേർത്ത ഒരു ഓയിൽ-ഓൺ-കാൻവാസ് പെയിന്റിംഗാണ് ചുംബനം (ജർമ്മൻ ഭാഷയിൽ ഡെർ കുസ്). എക്സിബിഷന്റെ കാറ്റലോഗിൽ പറഞ്ഞിരിക്കുന്നതുപോലെ 1908 ൽ ലിബെസ്പാർ (പ്രേമികൾ) എന്ന പേരിൽ ഇത് പ്രദർശിപ്പിച്ചു. സമകാലിക ആർട്ട് നോവ ശൈലിയും മുൻകാല ആർട്സ് ആൻഡ് ക്രാഫ്റ്റ്സ് പ്രസ്ഥാനത്തിന്റെ ജൈവ രൂപങ്ങളും സ്വാധീനിച്ച രീതിയിൽ അലങ്കരിച്ച വിപുലമായ മനോഹരമായ വസ്ത്രങ്ങളിൽ ദമ്പതികൾ പരസ്പരം ആലിംഗനം ചെയ്യുന്നതും അവരുടെ ശരീരങ്ങൾ കെട്ടിയിരിക്കുന്നതും പെയിന്റിംഗ് ചിത്രീകരിക്കുന്നു. \n \n പെയിന്റിംഗ് ഇപ്പോൾ വിയന്നയിലെ ബെൽവെഡെയറിലെ ഓസ്റ്റെറിച്ചിസ്ചെ ഗാലറി ബെൽവെഡെയർ മ്യൂസിയത്തിൽ തൂങ്ങിക്കിടക്കുന്നു, ഇത് വിയന്ന സെസെഷൻ (ആർട്ട് നോവുവിന്റെ പ്രാദേശിക വ്യതിയാനം), അഡെലെ ബ്ലോച്ച്-ബൌവർ ഒന്നാമന്റെ ഛായാചിത്രത്തിന് ശേഷം ക്ലിംറ്റിന്റെ ഏറ്റവും ജനപ്രിയമായ കൃതിയായി കണക്കാക്കപ്പെടുന്നു. പ്രശസ്തമായ ഒരു കലാസൃഷ്ടിയായി പലരും ഇതിനെ കണക്കാക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ഇറ്റാലിയൻ കലാകാരനായ സാൻഡ്രോ ബോട്ടിസെല്ലിയുടെ ഒരു പെയിന്റിംഗാണ് ദി ബർത്ത് ഓഫ് വീനസ്, ഇത് ഒരുപക്ഷേ 1480-കളുടെ മധ്യത്തിൽ പൂർത്തിയാക്കിയതാകാം. പൂർണ്ണവളർച്ചയോടെ കടലിൽ നിന്ന് ഉയർന്നുവന്ന വീനസ് ദേവിയെ (വീനസ് അനഡിയോമെൻ എന്ന് വിളിക്കുകയും പലപ്പോഴും കലയിൽ ചിത്രീകരിക്കപ്പെടുകയും ചെയ്യുന്നു) അവളുടെ ജനനത്തിന് ശേഷം തീരത്ത് എത്തുന്നതിനെ ഇത് ചിത്രീകരിക്കുന്നു. ഇറ്റലിയിലെ ഫ്ലോറൻസിലെ ഉഫിസി ഗാലറിയിലാണ് ഈ ചിത്രം. \n \n ഇവ രണ്ടും ഒരു ജോഡിയല്ലെങ്കിലും, ചിത്രരചന അനിവാര്യമായും ബോട്ടിസെല്ലിയുടെ മറ്റൊരു വലിയ പുരാണചിത്രമായ പ്രൈമാവേരയുമായി ഉഫിസിയിലും ചർച്ച ചെയ്യപ്പെടുന്നു. ലോകത്തിലെ ഏറ്റവും പ്രശസ്തമായ പെയിന്റിംഗുകളിൽ ഒന്നായ അവ ഇറ്റാലിയൻ നവോത്ഥാനത്തിന്റെ പ്രതീകങ്ങളാണ്; രണ്ടിൽ പ്രൈമാവേരയേക്കാൾ ജനനം കൂടുതൽ അറിയപ്പെടുന്നു. വളരെ വലിയ തോതിൽ ക്ലാസിക്കൽ പുരാണങ്ങളിൽ നിന്നുള്ള വിഷയങ്ങളുടെ ചിത്രീകരണങ്ങൾ എന്ന നിലയിൽ അവ ക്ലാസിക്കൽ പുരാതനകാലം മുതൽ പാശ്ചാത്യ കലയിൽ ഫലത്തിൽ അഭൂതപൂർവമായിരുന്നു, അതുപോലെ തന്നെ ജനനത്തിൽ ഒരു നഗ്നയായ സ്ത്രീരൂപത്തിന്റെ വലുപ്പവും പ്രാധാന്യവും. മെഡിസി കുടുംബത്തിലെ ഒരേ അംഗമാണ് ഇരുവരെയും നിയോഗിച്ചതെന്ന് കരുതിയിരുന്നുവെങ്കിലും ഇത് ഇപ്പോൾ അനിശ്ചിതത്വത്തിലാണ്. \n \n കലാചരിത്രകാരന്മാർ അവ അനന്തമായി വിശകലനം ചെയ്തിട്ടുണ്ട്, പ്രധാന പ്രമേയങ്ങൾ ഇവയാണ്ഃ പുരാതന ചിത്രകാരന്മാരുടെ അനുകരണവും വിവാഹ ആഘോഷങ്ങളുടെ സന്ദർഭവും (പൊതുവെ അംഗീകരിക്കപ്പെട്ട), നവോത്ഥാന നിയോ-പ്ലാറ്റോണിസത്തിന്റെ സ്വാധീനം (ഒരു പരിധിവരെ വിവാദപരമായ), കമ്മീഷണർമാരുടെ വ്യക്തിത്വം (അംഗീകരിക്കപ്പെടാത്ത). എന്നിരുന്നാലും, പ്രൈമാവേര ഒരുപക്ഷേ ചെയ്യുന്നതുപോലെ, ജനനത്തിന് അതിന്റെ അർത്ഥം ഡീകോഡ് ചെയ്യുന്നതിന് സങ്കീർണ്ണമായ വിശകലനം ആവശ്യമില്ലെന്ന് മിക്ക കലാചരിത്രകാരന്മാരും സമ്മതിക്കുന്നു. പെയിന്റിംഗിൽ സൂക്ഷ്മതകൾ ഉണ്ടെങ്കിലും, അതിന്റെ പ്രധാന അർത്ഥം ഗ്രീക്ക് പുരാണങ്ങളിൽ നിന്നുള്ള ഒരു പരമ്പരാഗത രംഗത്തിന്റെ നേരിട്ടുള്ളതും വ്യക്തിഗതവുമായ ചികിത്സയാണ്, അതിന്റെ ആകർഷണം ഇന്ദ്രിയപരവും വളരെ ആക്സസ് ചെയ്യാവുന്നതുമാണ്, അതിനാൽ അതിന്റെ വലിയ ജനപ്രീതി.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ഗ്രേ, ബ്ലാക്ക് നമ്പർ നിറങ്ങളിൽ ക്രമീകരണം. വിസ്ലർസ് മദർ അല്ലെങ്കിൽ പോർട്രെയിറ്റ് ഓഫ് ആർട്ടിസ്റ്റ്സ് മദർ എന്ന സംസാരഭാഷയിൽ അറിയപ്പെടുന്ന 1,1871 ൽ അമേരിക്കയിൽ ജനിച്ച ചിത്രകാരൻ ജെയിംസ് അബോട്ട് മക്നീൽ വിസ്ലർ സൃഷ്ടിച്ച ക്യാൻവാസിൽ എണ്ണയിൽ വരച്ച ഒരു പെയിന്റിംഗാണ്. വിസ്ലറുടെ അമ്മ അന്ന മക്നീൽ വിസ്ലറാണ് പെയിന്റിംഗിന്റെ വിഷയം. വിസ്ലറുടെ സ്വന്തം രൂപകൽപ്പനയുടെ ഒരു ഫ്രെയിമിൽ പ്രദർശിപ്പിച്ചിരിക്കുന്ന പെയിന്റിംഗ് 56.81 ബൈ 63.94 ഇഞ്ച് (1,443 മില്ലീമീറ്റർ × 1,624 മില്ലീമീറ്റർ) ആണ്. 1891-ൽ ഫ്രഞ്ച് ഭരണകൂടം വാങ്ങിയ പാരീസിലെ മ്യൂസി ഡി ഓർസെയാണ് ഇത് നടത്തുന്നത്. അമേരിക്കയ്ക്ക് പുറത്തുള്ള ഒരു അമേരിക്കൻ കലാകാരൻറെ ഏറ്റവും പ്രശസ്തമായ കൃതികളിലൊന്നാണിത്. ഇത് ഒരു അമേരിക്കൻ ഐക്കണായും വിക്ടോറിയൻ മോണ ലിസയായും വിശേഷിപ്പിക്കപ്പെട്ടിട്ടുണ്ട്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ആദ്യകാല നെതർലാൻഡിഷ് ചിത്രകാരനായ ജാൻ വാൻ ഐക്ക് ഓക്ക് പാനലിൽ വരച്ച 1434-ലെ ഒരു എണ്ണച്ചായാചിത്രമാണ് അർനോൾഫിനി ഛായാചിത്രം (അല്ലെങ്കിൽ ദി അർനോൾഫിനി വെഡ്ഡിംഗ്, ദി അർനോൾഫിനി മാര്യേജ്, ദി പോർട്രെയിറ്റ് ഓഫ് ജിയോവന്നി അർനോൾഫിനിയും ഹിസ് വൈഫും, അല്ലെങ്കിൽ മറ്റ് ശീർഷകങ്ങൾ). ഇറ്റാലിയൻ വ്യാപാരിയായ ജിയോവന്നി ഡി നിക്കോളാവ് അർനോൾഫിനിയെയും ഭാര്യയെയും ഫ്ലെമിഷ് നഗരമായ ബ്രൂഗസിലെ അവരുടെ വസതിയിൽ ചിത്രീകരിക്കുന്നുവെന്ന് വിശ്വസിക്കപ്പെടുന്ന ഒരു പൂർണ്ണ ദൈർഘ്യമുള്ള ഇരട്ട ഛായാചിത്രമാണിത്. \n \n പാശ്ചാത്യ കലയിലെ ഏറ്റവും യഥാർത്ഥവും സങ്കീർണ്ണവുമായ പെയിന്റിംഗുകളിലൊന്നായി ഇത് കണക്കാക്കപ്പെടുന്നു, കാരണം അതിന്റെ സൌന്ദര്യം, സങ്കീർണ്ണമായ ഐക്കണോഗ്രാഫി, ജ്യാമിതീയ ഓർത്തോഗണൽ കാഴ്ചപ്പാട്, കണ്ണാടി ഉപയോഗിച്ച് ചിത്ര ഇടത്തിന്റെ വിപുലീകരണം എന്നിവ കാരണം. ഏൺസ്റ്റ് ഗോംബ്രിച്ചിന്റെ അഭിപ്രായത്തിൽ \"ഇറ്റലിയിലെ ഡൊണാറ്റെല്ലോ അല്ലെങ്കിൽ മസാക്കിയോയുടെ കൃതി പോലെ തന്നെ പുതിയതും വിപ്ലവകരവുമായിരുന്നു അത്. യഥാർത്ഥ ലോകത്തിൻറെ ഒരു ലളിതമായ മൂല പെട്ടെന്ന് ഒരു പാനലിൽ മാന്ത്രികവിദ്യ പോലെ ഘടിപ്പിക്കപ്പെട്ടു. ചരിത്രത്തിൽ ആദ്യമായി കലാകാരൻ ആ പദത്തിൻറെ ശരിയായ അർത്ഥത്തിൽ തികഞ്ഞ ദൃക്സാക്ഷിയായി \". എർവിൻ പനോഫ്സ്കിയും മറ്റ് ചില കലാചരിത്രകാരന്മാരും ഈ ഛായാചിത്രത്തെ ഒരു പെയിന്റിംഗായി രേഖപ്പെടുത്തിയിട്ടുള്ള വിവാഹ കരാറിന്റെ സവിശേഷ രൂപമായി കണക്കാക്കിയിട്ടുണ്ട്. 1434-ൽ വാൻ ഐക്ക് ഒപ്പിടുകയും തീയതി നിശ്ചയിക്കുകയും ചെയ്ത ഈ ചിത്രം, അതേ കലാകാരനും അദ്ദേഹത്തിന്റെ സഹോദരൻ ഹ്യൂബർട്ടും ചേർന്ന് നിർമ്മിച്ച ഘെന്റ് ആൾട്ടർപീസിനൊപ്പം, ടെമ്പെറയ്ക്കുപകരം എണ്ണയിൽ ചിത്രീകരിച്ച ഏറ്റവും പഴക്കം ചെന്ന പാനൽ പെയിന്റിംഗാണ്. 1842ൽ ലണ്ടനിലെ നാഷണൽ ഗാലറി ഈ ചിത്രം വാങ്ങി.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "സോങ് രാജവംശത്തിലെ ചിത്രകാരനായ ഷാങ് സെഡുവാൻ (1085-1145) വരച്ചതും തുടർന്നുള്ള നൂറ്റാണ്ടുകളിൽ നിരവധി തവണ പകർത്തപ്പെട്ടതുമായ ഒരു ഹാൻഡ്സ്ക്രോൾ പെയിന്റിംഗാണ് ക്വിങ്മിംഗ് ഫെസ്റ്റിവലിൽ (ക്വിങ്മിംഗ് ഷാങ്ഹെ തു) നദിയുടെ തീരത്ത്. വടക്കൻ ഗാനവേളയിൽ ആളുകളുടെ ദൈനംദിന ജീവിതവും തലസ്ഥാനമായ ബിയാൻജിംഗിൻറെ (ഇന്നത്തെ കൈഫെങ്) ഭൂപ്രകൃതിയും ഇത് ഉൾക്കൊള്ളുന്നു. ശവകുടീരം വൃത്തിയാക്കൽ, പ്രാർത്ഥനകൾ തുടങ്ങിയ അവധിക്കാലത്തിന്റെ ആചാരപരമായ വശങ്ങളേക്കാൾ ക്വിങ്മിംഗ് ഉത്സവത്തിലെ ഉത്സവ മനോഭാവവും ലൌകിക കോലാഹലവും ആഘോഷിക്കാനാണ് ഈ പ്രമേയം എന്ന് പലപ്പോഴും പറയപ്പെടുന്നു. വലത്തോട്ടും ഇടത്തോട്ടും വായിക്കുക, ഒരു കാഴ്ചക്കാരൻ അത് അൺറോൾ ചെയ്യുമ്പോൾ, തുടർച്ചയായ രംഗങ്ങൾ സമ്പന്നർ മുതൽ ദരിദ്രർ വരെയുള്ള സമൂഹത്തിന്റെ എല്ലാ തലങ്ങളിലെയും ജീവിതശൈലിയും ഗ്രാമപ്രദേശങ്ങളിലെയും നഗരത്തിലെയും സാമ്പത്തിക പ്രവർത്തനങ്ങളും വെളിപ്പെടുത്തുകയും കാലഘട്ടത്തിലെ വസ്ത്രങ്ങളുടെയും വാസ്തുവിദ്യയുടെയും നേർക്കാഴ്ചകൾ നൽകുകയും ചെയ്യുന്നു. എല്ലാ ചൈനീസ് പെയിന്റിംഗുകളിലും ഏറ്റവും പ്രശസ്തമായ സൃഷ്ടിയായി ഈ പെയിന്റിംഗ് കണക്കാക്കപ്പെടുന്നു, ഇതിനെ \"ചൈനയുടെ മോന ലിസ\" എന്ന് വിളിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ചൈനീസ് ചിത്രകാരനായ ഹുവാങ് ഗോങ്വാങ്ങിന്റെ (1269-1354) അവശേഷിക്കുന്ന ചുരുക്കം ചില കൃതികളിൽ ഒന്നാണ് ഫുചുൻ പർവതനിരകളിൽ വസിക്കുന്നത്, ഇത് അദ്ദേഹത്തിന്റെ ഏറ്റവും മികച്ച കൃതികളിൽ ഒന്നായി കണക്കാക്കപ്പെടുന്നു. 1348നും 1350നും ഇടയിൽ വരച്ച ഈ പെയിന്റിംഗ് 1650ൽ രണ്ട് കഷണങ്ങളായി കത്തിച്ചു. ഇന്ന്, ഒരു കഷണം ഹാങ്ഷൌവിലെ സെജിയാങ് പ്രൊവിൻഷ്യൽ മ്യൂസിയത്തിലും മറ്റേ കഷണം തായ്പേയിലെ നാഷണൽ പാലസ് മ്യൂസിയത്തിലും സൂക്ഷിച്ചിരിക്കുന്നു. മൊത്തത്തിൽ പറഞ്ഞാൽ, മുഴുവൻ പെയിന്റിംഗിനും 691.3 സെന്റിമീറ്റർ നീളമുണ്ടാകും.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "ഈ പെയിന്റിംഗിനെക്കുറിച്ച് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ടാങ് രാജവംശവും ടിബറ്റും തമ്മിലുള്ള സൌഹൃദ ഏറ്റുമുട്ടൽ കാണിക്കുന്നതിനായി യാൻ ലിബെൻ വരച്ച പട്ടിനെക്കുറിച്ചുള്ള ഒരു പെയിന്റിംഗാണ് തായ്സോംഗ് ചക്രവർത്തി ടിബറ്റൻ പ്രതിനിധിയെ സ്വീകരിക്കുന്നത്. 129 സെൻ്റിമീറ്റർ (51 ഇഞ്ച്) നീളവും 38.5 സെൻ്റിമീറ്റർ (15.2 ഇഞ്ച്) വീതിയുമുള്ളതാണ് ഈ ചിത്രം. ബൂനിയൻ തു ബീജിംഗിലെ പാലസ് മ്യൂസിയത്തിലാണ്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "ജുനിപ്പർ ചെടികൾക്ക് അതിന്റെ സങ്കീർണ്ണമായ രണ്ട് വർഷത്തെ ജീവിതചക്രം പൂർത്തിയാക്കേണ്ട ഒരു ഫംഗസ് രോഗമാണ് സീഡർ ആപ്പിൾ റസ്റ്റ് (ജിംനോസ്പോറാൻജിയം ജുനിപെറി-വിർജിനിയ). വിവിധ ജുനിപ്പർ ഇനങ്ങളിലെ ഇളയ ചില്ലകളിൽ ചുവപ്പ് കലർന്ന തവിട്ടുനിറത്തിലുള്ള പിത്തരസമായി വിത്തുകൾ ശൈത്യകാലത്ത് കാണപ്പെടുന്നു. വസന്തത്തിന്റെ തുടക്കത്തിൽ, ഈർപ്പമുള്ള കാലാവസ്ഥയിൽ, ഈ ഗൾസ് വീർക്കുകയും തിളങ്ങുന്ന ഓറഞ്ച് നിറത്തിലുള്ള ബീജാണുക്കൾ കാറ്റിൽ വീശുകയും അവ ആപ്പിൾ, ഞണ്ട്-ആപ്പിൾ മരങ്ങളെ ബാധിക്കുകയും ചെയ്യുന്നു. ഈ മരങ്ങളിൽ വളരുന്ന ബീജാണുക്കൾ അടുത്ത വർഷം ജുനിപ്പറുകളെ മാത്രമേ ബാധിക്കുകയുള്ളൂ. വർഷം തോറും, രോഗം ജുനിപ്പറുകളിൽ നിന്ന് ആപ്പിളിലേക്ക് വീണ്ടും ജുനിപ്പറുകളിലേക്ക് കടന്നുപോകണം; ഇത് ആപ്പിൾ മരങ്ങൾക്കിടയിൽ വ്യാപിക്കില്ല. \n \n ആപ്പിൾ, ഞണ്ട്-ആപ്പിൾ മരങ്ങളിൽ, പൂവിട്ട് ഉടൻ തന്നെ ഇലകളുടെ മുകൾഭാഗത്ത് ഇളം മഞ്ഞ പിൻഹെഡ് വലിപ്പത്തിലുള്ള പാടുകൾ നോക്കുക. ഇവ ക്രമേണ രോഗത്തെ എളുപ്പത്തിൽ തിരിച്ചറിയാൻ സഹായിക്കുന്ന തിളക്കമുള്ള ഓറഞ്ച്-മഞ്ഞ പാടുകളായി വളരുന്നു. പഴത്തിൽ ഓറഞ്ച് പാടുകളും ഉണ്ടാകാം. വളരെയധികം രോഗബാധിതമായ ഇലകൾ അകാലത്തിൽ വീഴാം. \n \n ചികിത്സ \n 1. ലഭ്യമാകുമ്പോൾ പ്രതിരോധശേഷിയുള്ള കൾട്ടിവറുകൾ തിരഞ്ഞെടുക്കുക. \n മരങ്ങൾക്കടിയിൽ വീണ ഇലകളും മറ്റ് അവശിഷ്ടങ്ങളും ഉണർത്തുകയും നീക്കം ചെയ്യുകയും ചെയ്യുക. \n 3. രോഗബാധിതമായ ജുനിപ്പറുകളിൽ നിന്ന് ഗൾസ് നീക്കം ചെയ്യുക. ചില സാഹചര്യങ്ങളിൽ ജുനിപ്പർ ചെടികൾ പൂർണ്ണമായും നീക്കം ചെയ്യണം. \n 4. ജുനിപ്പർ ഹോസ്റ്റ് പുറത്തുവിടുന്ന ബീജാണുക്കളിൽ നിന്ന് മരങ്ങളെ സംരക്ഷിക്കുന്നതിന്, മുകുളങ്ങൾ പൊട്ടുന്നത് മുതൽ ആഴ്ചതോറും ആപ്പിളിൽ ഉപയോഗിക്കുന്നതിനായി ലേബൽ ചെയ്തിരിക്കുന്ന പ്രതിരോധ, രോഗത്തെ ചെറുക്കുന്ന കുമിൾനാശിനികൾ പ്രയോഗിക്കുക. ഇത് വർഷത്തിൽ ഒരിക്കൽ മാത്രമേ സംഭവിക്കൂ, അതിനാൽ ഈ വസന്തകാല വ്യാപനത്തിന് ശേഷമുള്ള അധിക അപേക്ഷകൾ ആവശ്യമില്ല. ജുനിപ്പറിൽ, ഓഗസ്റ്റ് അവസാനത്തിനും ഒക്ടോബർ അവസാനത്തിനും ഇടയിൽ കുറഞ്ഞത് നാല് തവണയെങ്കിലും ചെമ്പ് ലായനി ഉപയോഗിച്ച് ചെടികൾ തളിക്കുന്നതിലൂടെ തുരുമ്പ് നിയന്ത്രിക്കാൻ കഴിയും. സെറീനഡ് ഗാർഡൻ ഉപയോഗിച്ച് മിക്ക ഫംഗസ്, ബാക്ടീരിയ രോഗങ്ങളും സുരക്ഷിതമായി ചികിത്സിക്കുക. ഈ ബ്രോഡ് സ്പെക്ട്രം ബയോ ഫംഗിസൈഡ് ജൈവ ഉപയോഗത്തിനായി രജിസ്റ്റർ ചെയ്ത ബാസിലസ് സബ്ടിലിസിന്റെ പേറ്റന്റ് സ്ട്രെയിൻ ഉപയോഗിക്കുന്നു. ഏറ്റവും മികച്ചത്, സെറീനഡ് തേനീച്ചകൾക്കും പ്രയോജനകരമായ പ്രാണികൾക്കും പൂർണ്ണമായും വിഷരഹിതമാണ്. \n 7. സൾഫറും പൈറെത്രിനുകളും അടങ്ങിയിരിക്കുന്ന ബോണൈഡ് ഓർച്ചാർഡ് സ്പ്രേ പ്രാണികളുടെ ആക്രമണത്തിനും ഫംഗസ് പ്രശ്നങ്ങൾക്കും സുരക്ഷിതവും ഒറ്റത്തവണ ഉപയോഗിക്കാവുന്നതുമായ സാന്ദ്രതയാണ്. മികച്ച ഫലങ്ങൾക്കായി, സീസണിന്റെ തുടക്കത്തിൽ ഒരു സംരക്ഷണ സ്പ്രേയായി (2.5 ഔൺസ്/ഗാലൺ) പ്രയോഗിക്കുക. രോഗം, പ്രാണികൾ അല്ലെങ്കിൽ ഈർപ്പമുള്ള കാലാവസ്ഥ എന്നിവ ഉണ്ടെങ്കിൽ, ഒരു ഗാലൺ വെള്ളത്തിൽ 5 ഔൺസ് കലർത്തുക. ചെടിയുടെ എല്ലാ ഭാഗങ്ങളും, പ്രത്യേകിച്ച് പുതിയ ചിനപ്പുപൊട്ടലുകൾ നന്നായി തളിക്കുക. നിങ്ങളുടെ പ്രദേശത്തെ മറ്റ് സാധ്യമായ പരിഹാരങ്ങൾക്കായി നിങ്ങളുടെ പ്രാദേശിക കാർഷിക വിപുലീകരണ ഓഫീസുമായി ബന്ധപ്പെടുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "ആന്ത്രാക്നോസ്. പല സസ്യജാലങ്ങളിലും രോഗങ്ങൾക്ക് കാരണമാകുന്ന സസ്യ രോഗകാരികളുടെ ഒരു സാധാരണ ഗ്രൂപ്പായ കൊളെറ്റോട്രിച്ചം ജനുസ്സിലെ ഫംഗസ് മൂലമാണ് ഇത് സംഭവിക്കുന്നത്. രോഗബാധിതമായ സസ്യങ്ങൾ കാണ്ഡം, ഇലകൾ അല്ലെങ്കിൽ പഴങ്ങൾ എന്നിവയിൽ ഇരുണ്ട, വെള്ളത്തിൽ കുതിർത്ത ക്ഷതങ്ങൾ ഉണ്ടാക്കുന്നു. ഈ ക്ഷതങ്ങളുടെ കേന്ദ്രങ്ങൾ പലപ്പോഴും പിങ്ക്, ജെലാറ്റിനസ് ബീജാണുക്കളാൽ മൂടപ്പെട്ടിരിക്കുന്നു, പ്രത്യേകിച്ച് ഈർപ്പമുള്ളതും ചൂടുള്ളതുമായ കാലാവസ്ഥയിൽ. ഏതാനും ദിവസങ്ങൾക്കുള്ളിൽ അഴുകിയ മാലിന്യമായി മനോഹരമായ വിളവെടുപ്പ് കുറയ്ക്കാൻ ആന്ത്രാക്നോസിന് കഴിയും. \n \n വിത്തുകൾ, മണ്ണ്, പൂന്തോട്ട അവശിഷ്ടങ്ങൾ എന്നിവയിലും ഫംഗസ് രോഗം അമിതമായി വ്യാപിക്കുന്നു. തണുത്ത ഈർപ്പമുള്ള കാലാവസ്ഥ അതിന്റെ വളർച്ചയെ പ്രോത്സാഹിപ്പിക്കുന്നു, കൂടാതെ ബീജാണുക്കളുടെ തുടർച്ചയായ വളർച്ചയ്ക്ക് ഏറ്റവും അനുയോജ്യമായ താപനില 75-85 °F-നും ഇടയിലാണ്. ഫംഗസിന്റെ വികാസത്തിനും മുളയ്ക്കുന്നതിനും ചെടിയുടെ അണുബാധയ്ക്കും ഈർപ്പം ആവശ്യമാണ്. കാറ്റ്, മഴ, പ്രാണികൾ, പൂന്തോട്ട ഉപകരണങ്ങൾ എന്നിവയിലൂടെയാണ് ഇത് പടരുന്നത്. \n \n ചികിത്സ \n 1. സാധ്യമാകുമ്പോൾ പ്രതിരോധശേഷിയുള്ള സസ്യ ഇനങ്ങൾ തിരഞ്ഞെടുക്കുകയും രോഗം ബാധിക്കാത്ത പാശ്ചാത്യ വളർത്തൽ വിത്തുകൾ ഉപയോഗിക്കുകയും ചെയ്യുക. \n 2. ഈ ഫംഗസ് പ്രശ്നം സാധാരണമാണെങ്കിൽ, നിങ്ങളുടെ സ്വന്തം വിത്തിനെ നടീലിൽ നിന്ന് സംരക്ഷിക്കരുത്. \n 3. രോഗം പടരാതിരിക്കാൻ, ചെടികൾ നനഞ്ഞിരിക്കുമ്പോൾ പൂന്തോട്ടങ്ങളിൽ നിന്ന് മാറിനിൽക്കുക, ഉപയോഗത്തിന് ശേഷം എല്ലാ പൂന്തോട്ട ഉപകരണങ്ങളും (ഒരു ഭാഗം ബ്ലീച്ച് 4 ഭാഗങ്ങൾ വെള്ളത്തിലേക്ക്) അണുവിമുക്തമാക്കുന്നുവെന്ന് ഉറപ്പാക്കുക. രോഗബാധിതമായ ഇലകൾ, പഴങ്ങൾ അല്ലെങ്കിൽ തണ്ടുകൾ എന്നിവ കമ്പോസ്റ്റ് ചെയ്യരുത്, കൂടാതെ ശരത്കാലത്ത്, വിളവെടുപ്പിനുശേഷം, ഫംഗസ് ബീജാണുക്കളുടെ ശൈത്യകാല സൈറ്റുകൾ കുറയ്ക്കുന്നതിന് പൂന്തോട്ട പ്രദേശങ്ങൾ നന്നായി വൃത്തിയാക്കുക. സെറീനഡ് ഗാർഡൻ ഉപയോഗിച്ച് മിക്ക ഫംഗസ്, ബാക്ടീരിയ രോഗങ്ങളും സുരക്ഷിതമായി ചികിത്സിക്കുക. ഈ ബ്രോഡ് സ്പെക്ട്രം ബയോ ഫംഗിസൈഡ് ജൈവ ഉപയോഗത്തിനായി രജിസ്റ്റർ ചെയ്ത ബാസിലസ് സബ്ടിലിസിന്റെ പേറ്റന്റ് സ്ട്രെയിൻ ഉപയോഗിക്കുന്നു. ഏറ്റവും മികച്ചത്, സെറീനഡ് തേനീച്ചകൾക്കും പ്രയോജനകരമായ പ്രാണികൾക്കും പൂർണ്ണമായും വിഷരഹിതമാണ്. \n 6. ദ്രാവക ചെമ്പ് സ്പ്രേകളും സൾഫർ പൊടികളും ആഴ്ചതോറും പ്രയോഗിക്കണം, വസന്തകാലത്തിന്റെ തുടക്കത്തിൽ ഇലകൾ വളരാൻ തുടങ്ങുകയും വളരുന്ന സീസണിലുടനീളം തുടരുകയും ചെയ്യുന്നു. അതിരാവിലെ സ്പ്രേ ചെയ്യുക, ചൂടുള്ള കാലാവസ്ഥയിൽ ആപ്ലിക്കേഷനുകൾ ഒഴിവാക്കുക. നടുന്നതിന് മുമ്പ് വിത്തുകൾ സംസ്കരിക്കാം. \n 7. മുട്ടകൾ, ലാർവകൾ, മുതിർന്നവർക്കുള്ള പ്രാണികൾ എന്നിവയെ കൊല്ലുകയും സസ്യങ്ങളിൽ ഫംഗസ് ആക്രമണം തടയുകയും ചെയ്യുന്ന ജൈവ, മൾട്ടി പർപ്പസ് ഫംഗസൈഡ്/കീടനാശിനി/മിറ്റിസൈഡാണ് വേപ്പ് ഓയിൽ സ്പ്രേ. വസന്തകാലത്തെ വളർച്ചയുടെ ആദ്യ ലക്ഷണത്തിൽ, എല്ലാ 7-14 ദിവസങ്ങളിലും പ്രതിരോധ നടപടിയായി അല്ലെങ്കിൽ നിലവിലുള്ള പ്രശ്നങ്ങൾ ഇല്ലാതാകുന്നതുവരെ 7 ദിവസത്തെ ഷെഡ്യൂളിൽ നേരത്തെ പ്രയോഗിക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "ഇത് ബാക്ടീരിയൽ കാൻകറാണ്, ചെറി, പ്ലം എന്നിവയിൽ ഏറ്റവും സാധാരണമാണ്, പക്ഷേ ആപ്രിക്കോട്ട്, പീച്ച്, മറ്റ് പലതരം കല്ല് പഴങ്ങൾ എന്നിവയെയും ഇത് ബാധിച്ചേക്കാം. തുമ്പിക്കൈയിലോ ചില്ലകളിലോ മുങ്ങിപ്പോയതോ വെള്ളത്തിൽ കുതിർന്നതോ \"ചർമ്മരോഗം\" ഉള്ളതോ ആയ ക്ഷതങ്ങൾ ഉണ്ടായാൽ ഈ ചെടി രോഗത്തെ സംശയിക്കുക. വസന്തകാലത്ത് മരങ്ങൾ സജീവമായി വളരാൻ തുടങ്ങുമ്പോൾ, ഈ മുറിവേറ്റ പ്രദേശങ്ങളിൽ നിന്ന് പുളിച്ച മണം വരുന്ന സ്രവം പുറത്തുവന്നേക്കാം. കാൻകറുകൾ ചുറ്റുമുള്ള ആരോഗ്യകരമായ പുറംതൊലിയേക്കാൾ ഇരുണ്ടതായിത്തീരുന്നു, കൂടാതെ അന്തർലീനമായ ടിഷ്യു ചുവപ്പ്-തവിട്ട് മുതൽ കറുപ്പ്, ഈർപ്പമുള്ളതാണ്. \n \n ശ്രദ്ധിക്കുകഃ കാൻകറുകൾ ശാഖകളെയോ തുമ്പിക്കൈയെയോ വളയുകയാണെങ്കിൽ, രോഗബാധിതമായ പ്രദേശത്തിന് മുകളിലുള്ള ഇലകൾ വളഞ്ഞ് മഞ്ഞയായി മാറുന്നു. വളർച്ച നിലയ്ക്കുകയും ശാഖയോ മരമോ ഒടുവിൽ മരിക്കുകയും ചെയ്യും. \n \n കാൻകറിന് കാരണമാകുന്ന സ്യൂഡോമോണാസ് സിറിംഗേ എന്ന ബാക്ടീരിയ, മുറിവേറ്റ പുറംതൊലിയിലൂടെയോ അല്ലെങ്കിൽ ഒരു ചില്ലയിലോ ശാഖയിലോ മുറിക്കുന്ന മുറിവ് പോലുള്ള നിലവിലുള്ള മുറിവിലൂടെയോ മരങ്ങളിൽ പ്രവേശിക്കുന്നു. വസന്തകാലത്തെ തണുപ്പ് കേടുപാടുകൾ കൂടുതൽ അണുബാധകൾക്ക് കാരണമാകും. ബാക്ടീരിയൽ കാൻകർ അണുബാധകൾ ശരത്കാലം, ശൈത്യകാലം, വസന്തത്തിന്റെ ആരംഭം (തണുത്ത, നനഞ്ഞ കാലാവസ്ഥയിൽ) എന്നിവയിൽ സംഭവിക്കുകയും മഴയോ വെള്ളമോ, അരിവാൾ ഉപകരണങ്ങളോ വഴി വ്യാപിക്കുകയും ചെയ്യുന്നു. സജീവമായ കാൻകറുകളിലും, രോഗബാധിതമായ മുകുളങ്ങളിലും, രോഗബാധിതവും ആരോഗ്യകരവുമായ മരങ്ങളുടെയും കളകളുടെയും ഉപരിതലത്തിലും ബാക്ടീരിയകൾ ശൈത്യകാലത്ത് അമിതമായി വ്യാപിക്കുന്നു. \n \n ചികിത്സ \n 1. മുറിവുകൾ വേഗത്തിൽ സുഖപ്പെടുമ്പോൾ പൂക്കുന്ന സമയത്ത് പൂച്ചെടികൾ മുറിക്കുക. \n 2. രോഗബാധിതമായ പ്രദേശങ്ങൾക്ക് താഴെയുള്ള വാടിപ്പോയതോ ചത്തതോ ആയ കൈകാലുകൾ നീക്കം ചെയ്യുക. \n 3. വസന്തത്തിൻറെ തുടക്കത്തിലും ബാക്ടീരിയകൾ ഏറ്റവും സജീവമായിരിക്കുമ്പോൾ വീഴ്ചയിലും അരിവാൾ ഒഴിവാക്കുക. \n 4. എല്ലാ അരിവാൾ മുറിവുകളും ഉടൻ തന്നെ ടാംഗിൾഫൂട്ട് ട്രീ പ്രൂണിംഗ് സീലർ ഉപയോഗിച്ച് ചികിത്സിക്കുകയും ഓരോ മുറിവിനും ശേഷം നിങ്ങളുടെ അരിവാൾ ഉപകരണങ്ങൾ-ഒരു ഭാഗം ബ്ലീച്ച് ചെയ്ത് 4 ഭാഗങ്ങൾ വെള്ളത്തിലേക്ക്-അണുവിമുക്തമാക്കുന്നുവെന്ന് ഉറപ്പാക്കുകയും ചെയ്യുക. മരങ്ങളുടെ അടിത്തട്ടിൽ സ്ട്രിംഗ് ട്രിമ്മറുകൾ ഉപയോഗിക്കുകയാണെങ്കിൽ അണുബാധ തടയുന്നതിന് ശ്വസിക്കാൻ കഴിയുന്ന ട്രീ റാപ് ഉപയോഗിച്ച് പുറംതൊലി നശിപ്പിക്കുന്നത് ഒഴിവാക്കുക. \n 6. പുറംതൊലി നശിപ്പിക്കുന്ന താപനിലയിലെ ഏറ്റക്കുറച്ചിലുകൾ കുറയ്ക്കുന്നതിന് വെള്ള ലാറ്റക്സ് പെയിന്റ് വെള്ളത്തിൽ ലയിപ്പിച്ച് പുറംതൊലി ബ്രഷ് ചെയ്യുക. \n 7. ഈ കല്ല് പഴ പ്രശ്നത്തിനെതിരെ ചെമ്പ് കുമിൾനാശിനികൾക്ക് കുറച്ച് വിജയമുണ്ടെന്ന് ഗവേഷണങ്ങൾ തെളിയിച്ചിട്ടുണ്ട്. എന്നിരുന്നാലും, ഫലങ്ങൾ അസ്ഥിരമാണ്. മൊത്തം മാനേജ്മെന്റ് പ്രോഗ്രാമിന്റെ ഭാഗമായി ഇത് ഉപയോഗിക്കാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു. \n 8. വായുസഞ്ചാരം മെച്ചപ്പെടുത്തുന്നതിനും തുമ്പിക്കൈയും കിരീടവും വരണ്ടതാക്കുന്നതിനും ഇളയ മരങ്ങളുടെ അടിത്തട്ടിൽ നിന്ന് കളകളും പുല്ലും നീക്കം ചെയ്യുക. \n 9. അലങ്കാരവസ്തുക്കൾ, ടർഫ്, പഴങ്ങൾ തുടങ്ങി നിരവധി രോഗങ്ങളെ ചെറുക്കാൻ മുഴുവൻ ചെടിയിലൂടെയും പ്രവർത്തിക്കുന്ന ഒരു ഭൌമ സൌഹാർദ്ദപരമായ വ്യവസ്ഥാപിത കുമിൾനാശിനിയാണ് ഓർഗാനോസൈഡ് ® പ്ലാന്റ് ഡോക്ടർ. ഒരു ഗാലൺ വെള്ളത്തിൽ 1/3 മുതൽ 3/4 ഔൺസ് വരെ കലർത്തി മുറിവുകൾക്കും ചുറ്റുമുള്ള പ്രദേശങ്ങൾക്കും പെയിന്റ് ചെയ്യുകയോ സ്പ്രേ ചെയ്യുകയോ ചെയ്യുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "ഇത് പൂക്കളുടെ അവസാനത്തെ അഴുകലാണ്. തക്കാളി, കുരുമുളക്, വെള്ളരിക്ക, വഴുതനങ്ങ എന്നിവയുടെ ഗുരുതരമായ തകരാറായ പൂക്കളുടെ അഴുകൽ പലപ്പോഴും അസമമായ ജലസേചനം അല്ലെങ്കിൽ കാൽസ്യത്തിന്റെ കുറവ് മൂലമുണ്ടാകുന്ന ഒരു പാരിസ്ഥിതിക പ്രശ്നമാണ് (ഫംഗസ് അല്ല). (ഇവ ബന്ധപ്പെട്ടിരിക്കാം; അസമമായ ജലസേചനം കാൽസ്യം ആഗിരണം ചെയ്യുന്നതിനെ തടസ്സപ്പെടുത്തും.) അമിതമായ വളം, ഉയർന്ന ഉപ്പ് അളവ് അല്ലെങ്കിൽ വരൾച്ച എന്നിവയിൽ നിന്നുള്ള ദ്രുതഗതിയിലുള്ള വളർച്ചയാണ് ഈ സാധാരണ പൂന്തോട്ട \"രോഗം\" പലപ്പോഴും കൊണ്ടുവരുന്നത്. \n \n പച്ചയും പഴുത്തതുമായ പഴങ്ങളിൽ ബ്ലോസം എൻഡ് അഴുകൽ ലക്ഷണങ്ങൾ സംഭവിക്കുന്നു, ഇത് വെള്ളത്തിൽ കുതിർന്ന പ്രദേശങ്ങളാൽ തിരിച്ചറിയപ്പെടുന്നു, അവ ക്രമേണ വികസിക്കുകയും താഴത്തെ അറ്റത്ത് മുങ്ങിയ, തവിട്ട്, തുകൽ പാടുകളായി പക്വത പ്രാപിക്കുകയും ചെയ്യുന്നു. പല കേസുകളിലും, കറുത്തതും അവ്യക്തവുമായ വളർച്ചയായി കാണപ്പെടുന്ന ദ്വിതീയ രോഗകാരികൾ ബാധിത പ്രദേശത്തെ ആക്രമിക്കുകയും പഴം പൂർണ്ണമായും ചീഞ്ഞഴുകാൻ കാരണമാവുകയും ചെയ്യുന്നു. പൂക്കളുടെ അഴുകൽ ഒരു ചെടിയിൽ നിന്ന് മറ്റൊന്നിലേക്ക് വ്യാപിക്കില്ല. \n \n ചികിത്സ \n ഈ സസ്യ പ്രശ്നം ശാരീരിക സ്വഭാവമുള്ളതിനാൽ, കുമിൾനാശിനികൾ ഒരു നിയന്ത്രണ നടപടിയായി പ്രവർത്തിക്കില്ല. താഴെപ്പറയുന്നവ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നുഃ \n \n 1. സാധ്യമാകുമ്പോഴെല്ലാം പ്രതിരോധശേഷിയുള്ള പച്ചക്കറി ഇനങ്ങൾ തിരഞ്ഞെടുക്കുക. മണ്ണ് തുല്യമായി ഈർപ്പമുള്ളതാക്കി നിലനിർത്തുന്നതിലൂടെയും കെൽപ് അല്ലെങ്കിൽ കാൽസ്യം ലായനി ഉപയോഗിച്ച് ചെടികൾ തളിക്കുന്നതിലൂടെയും പ്രശ്നങ്ങൾ തടയുക. \n 3. നടീൽ സമയത്ത് മണ്ണിൽ ഉയർന്ന അളവിൽ കാൽസ്യം-അസ്ഥി ഭക്ഷണം, മുത്തുച്ചിപ്പി ഷെൽ അല്ലെങ്കിൽ ജിപ്സം എന്നിവ ചേർക്കുന്നത് സാധാരണയായി ഈ പ്രശ്നം വികസിക്കുന്നത് തടയുന്നു. \n 4. ഒരു മൾച്ച് പാളി (വൈക്കോൽ, കമ്പോസ്റ്റ്, പുല്ല്) ജൂലൈ, ഓഗസ്റ്റ് മാസങ്ങളിലെ ചൂടുള്ളതും വരണ്ടതുമായ ദിവസങ്ങളിൽ മണ്ണിന്റെ ഈർപ്പം സംരക്ഷിക്കാൻ സഹായിക്കും. ദ്രാവക കാൽസ്യം 5 ശതമാനം (1-2 ടേബിൾസ്പൂൺ/ഗാലൺ വെള്ളം) ഈ അവശ്യ പോഷകത്തിന്റെ കുറവുകൾ പരിഹരിക്കുന്നതിനോ തടയുന്നതിനോ ഉപയോഗിക്കാം. മികച്ച ഫലങ്ങൾക്കായി, ഒരു പ്രകൃതിദത്ത സർഫക്റ്റന്റുമായി സംയോജിപ്പിച്ച് അഡിഷൻ വർദ്ധിപ്പിക്കുകയും ഇലകൾ സ്പ്രേ ചെയ്യുകയും ചെയ്യുക. \n 6. മൾച്ചിംഗ് പ്ലാന്റുകൾ ഈർപ്പം സംരക്ഷിക്കാനും കൂടുതൽ ഏകീകൃത ജലവിതരണം നൽകാനും സഹായിക്കും. \n 7. സസ്യങ്ങളുടെ വളർച്ച ത്വരിതപ്പെടുത്തുകയും സസ്യങ്ങൾ കാൽസ്യം ആഗിരണം ചെയ്യുന്നത് കുറയ്ക്കുകയും ചെയ്യുന്ന ഉയർന്ന നൈട്രജൻ വളങ്ങൾ ഉപയോഗിക്കുന്നത് ഒഴിവാക്കുക. സമതുലിതമായ ജൈവവളങ്ങളുടെ ഒരു വലിയ ശേഖരം പ്ലാനറ്റ് നാച്ചുറലിൽ ലഭ്യമാണ്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "ബദാം, ആപ്രിക്കോട്ട്, ചെറി, പീച്ച്, പ്ലം എന്നിവയുടെ പൂക്കളെയും പഴങ്ങളെയും ബാധിക്കുന്ന ഏറ്റവും സാധാരണമായ ഫംഗസ് രോഗമാണ് ബ്രൌൺ റോട്ട് (മോണിലിനിയ ഫ്രക്റ്റിക്കോള). മമ്മി ചെയ്ത പഴങ്ങളിലും (മരത്തിലും നിലത്തും) രോഗബാധിതമായ ചില്ലകളിലും ഇത് അമിതമായി മഞ്ഞുവീഴ്ച ചെയ്യുന്നു. \n \n ഈ രോഗം ആദ്യം വസന്തകാലത്ത് പൂക്കളെ ബാധിക്കുകയും തണ്ടുകളെ കൊല്ലാൻ കഴിയുന്ന കാൻകറുകൾക്ക് കാരണമാകുന്ന ചെറിയ ശാഖകളിലേക്ക് വീണ്ടും വളരുകയും ചെയ്യുന്നു. രോഗം ഗുരുതരമാകുമ്പോൾ ധാരാളം പൂക്കളുള്ള തണ്ടുകൾ ചത്തു പോകുന്നു. ചത്ത പൂക്കൾ പലപ്പോഴും വേനൽക്കാലത്ത് കെട്ടിക്കിടക്കുന്നു. വളരുന്നതോ പക്വതയുള്ളതോ ആയ പഴങ്ങൾ ഉപരിതലത്തിൽ അതിവേഗം വ്യാപിക്കുന്ന വൃത്താകൃതിയിലുള്ളതോ തവിട്ടുനിറത്തിലുള്ളതോ ആയ പാടുകൾ കാണിക്കുന്നു, ചീഞ്ഞ പ്രദേശങ്ങളിൽ ഇളം ചാരനിറത്തിലുള്ള ബീജാണുക്കൾ ഉത്പാദിപ്പിക്കപ്പെടുന്നു. ചീഞ്ഞ ടിഷ്യു താരതമ്യേന ഉറച്ചതും വരണ്ടതുമാണ്. \n \n ബ്രൌൺ അഴുകൽ ബീജാണുക്കൾ കാറ്റ്, മഴ, പ്രാണികൾ എന്നിവ വഴി തുറന്നതോ തുറക്കാത്തതോ ആയ പൂക്കളിലേക്കും ഇളയ ചിനപ്പുകളിലേക്കും കൊണ്ടുപോകുന്നു. മഴയിൽ നിന്നോ മഞ്ഞിൽ നിന്നോ വെള്ളത്തിൽ നിന്നോ വെള്ളം ഉണ്ടെങ്കിൽ പൂക്കളുടെ ഉപരിതലത്തിൽ ബീജാണുക്കൾ മുളച്ച് ചെടിയിലേക്ക് തുളച്ചുകയറുന്നു. രോഗ വികസനം വിശാലമായ താപനില പരിധിയിലാണ് നടക്കുന്നത്, മുകുളങ്ങൾ തുറക്കുന്ന സമയം മുതൽ ദളങ്ങൾ വീഴുന്നതുവരെ പൂക്കളെ ബാധിക്കാം. അനുകൂലമായ സാഹചര്യങ്ങളിൽ, തവിട്ട് അഴുകൽ വേഗത്തിൽ വ്യാപിക്കുകയും ഒരു മുഴുവൻ വിളയും മരത്തിൽ പൂർണ്ണമായും നശിപ്പിക്കുകയും ചെയ്യും. \n \n ചികിത്സ \n 1. സാധ്യമാകുമ്പോഴെല്ലാം പ്രതിരോധശേഷിയുള്ള ഇനങ്ങൾ തിരഞ്ഞെടുക്കുക. \n 2. രോഗബാധിതമായ സസ്യഭാഗങ്ങൾ ഉടനടി നീക്കം ചെയ്യുന്നതും നശിപ്പിക്കുന്നതും ഓരോ മരങ്ങളിലെയും ചെറിയ തോട്ടങ്ങളിലെയും രോഗത്തിൻറെ ജീവിതചക്രം തകർക്കാൻ സഹായിക്കുന്നു, കൂടാതെ തവിട്ടുനിറത്തിലുള്ള അഴുകൽ കേടുപാടുകളുടെ അളവിൽ താഴെ നിലനിർത്താൻ ഇത് മതിയാകും. \n 3. മരങ്ങൾക്കടിയിൽ വീണുപോയ പഴങ്ങളോ അവശിഷ്ടങ്ങളോ ശേഖരിക്കുകയും നീക്കം ചെയ്യുകയും ചെയ്യേണ്ടത് പ്രധാനമാണ്. \n 4. വായുസഞ്ചാരം മെച്ചപ്പെടുത്തുന്നതിന് ഇടയ്ക്കിടെ മരങ്ങൾ മുറിക്കുക. കൂടാതെ, പൂക്കൾ, ഇലകൾ, പഴങ്ങൾ എന്നിവ നനയാതിരിക്കാൻ താഴെ നിന്നുള്ള വെള്ളം. \n 5. എല്ലാ മുറിവുകളും മുറിവുകളും അടയ്ക്കാനും പ്രാണികളിൽ നിന്നും രോഗജീവികളിൽ നിന്നും സംരക്ഷിക്കാനും ടാംഗിൾഫൂട്ട് ® പ്രൂണിംഗ് സീലർ ഉപയോഗിക്കുക. \n 6. ഉപയോഗിക്കാൻ തയ്യാറായ ചെമ്പ് കുമിൾനാശിനികൾ അല്ലെങ്കിൽ സൾഫർ പൊടികൾ ആഴ്ചതോറും രോഗബാധിതമായ മരങ്ങളിൽ പൂക്കൾ തുറക്കാൻ തുടങ്ങുമ്പോൾ മുതൽ വളരുന്ന സീസണിലുടനീളം തുടരണം. സാധ്യമെങ്കിൽ, 12 മണിക്കൂർ വരണ്ട കാലാവസ്ഥയുള്ള സമയ പ്രയോഗങ്ങൾ പ്രയോഗത്തെ പിന്തുടരുന്നു. \n 7. അലങ്കാരവസ്തുക്കൾ, ടർഫ്, പഴങ്ങൾ തുടങ്ങി നിരവധി രോഗങ്ങളെ ചെറുക്കാൻ മുഴുവൻ ചെടിയിലൂടെയും പ്രവർത്തിക്കുന്ന ഒരു ഭൌമ സൌഹാർദ്ദപരമായ വ്യവസ്ഥാപിത കുമിൾനാശിനിയാണ് ഓർഗാനോസൈഡ് ® പ്ലാന്റ് ഡോക്ടർ. ഈ വിനാശകരമായ കല്ല് പഴങ്ങളുടെ പ്രശ്നത്തെ നേരിടാൻ ഒരു ഫോളിയർ സ്പ്രേയായി (1 ടിസ്പൂൺ/ഗാലൺ വെള്ളം) പ്രയോഗിക്കുക. സൾഫറും പൈറെത്രിനുകളും അടങ്ങിയിരിക്കുന്ന ബോണൈഡ് ഓർച്ചാർഡ് സ്പ്രേ പ്രാണികളുടെ ആക്രമണത്തിനും ഫംഗസ് പ്രശ്നങ്ങൾക്കും സുരക്ഷിതവും ഒറ്റത്തവണ ഉപയോഗിക്കാവുന്നതുമായ സാന്ദ്രതയാണ്. മികച്ച ഫലങ്ങൾക്കായി, സീസണിന്റെ തുടക്കത്തിൽ ഒരു സംരക്ഷണ സ്പ്രേയായി (2.5 ഔൺസ്/ഗാലൺ) പ്രയോഗിക്കുക. രോഗം, പ്രാണികൾ അല്ലെങ്കിൽ ഈർപ്പമുള്ള കാലാവസ്ഥ എന്നിവ ഉണ്ടെങ്കിൽ, ഒരു ഗാലൺ വെള്ളത്തിൽ 5 ഔൺസ് കലർത്തുക. ചെടിയുടെ എല്ലാ ഭാഗങ്ങളും, പ്രത്യേകിച്ച് പുതിയ ചിനപ്പുപൊട്ടലുകൾ നന്നായി തളിക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "അത് ക്ലബ് റൂട്ട് ആണ്. മിക്ക ബ്രാസിക്ക വിളകളെയും (കാബേജ്, ബ്രോക്കോളി, കോളിഫ്ലവർ മുതലായവ) ഇത് ബാധിക്കുന്നു.), വടക്കേ അമേരിക്കയിലെ ഗാർഡനുകളിലെ ഗുരുതരമായ ഒരു സസ്യരോഗമാണ് ക്ലബ് റൂട്ട്. മണ്ണിൽ നിന്ന് ഉണ്ടാകുന്ന പ്ലാസ്മോഡിയോഫോറ ബ്രാസിക്ക എന്ന ഫംഗസ് മൂലമാണ് ഇത് ഉണ്ടാകുന്നത്, ഇത് വേരുകളിലൂടെ ചെടികളെ ബാധിക്കുന്നു. രോഗമുള്ള വേരുകൾ വീർക്കുകയും തെറ്റായി രൂപപ്പെടുകയും പലപ്പോഴും പൊട്ടുകയും ചീഞ്ഞഴുകുകയും ചെയ്യുന്നു. തൽഫലമായി, സസ്യങ്ങൾക്ക് വെള്ളവും പോഷകങ്ങളും ശരിയായി ആഗിരണം ചെയ്യാൻ ബുദ്ധിമുട്ടാണ്. \n \n സസ്യങ്ങൾ പലപ്പോഴും മോശമായി വളരുകയും പകൽ ചൂടിൽ വാടിപ്പോകുകയും ചെയ്യുന്നു; തണുത്ത രാത്രികളിൽ സസ്യങ്ങൾ പലപ്പോഴും പുനരുജ്ജീവിപ്പിക്കുന്നു. പുറം ഇലകൾ മഞ്ഞ, പർപ്പിൾ അല്ലെങ്കിൽ തവിട്ട് നിറമായി മാറിയേക്കാം. ക്ലബ് റൂട്ട് വിളവ് കുറയ്ക്കുകയും മൊത്തം വിളനാശത്തിന് കാരണമാവുകയും ചെയ്യും. \n \n കാറ്റ്, വെള്ളം, പൂന്തോട്ട ഉപകരണങ്ങൾ എന്നിവയിലൂടെ ഫംഗസ് ബീജാണുക്കൾ പടരാൻ കഴിയും. വൈവിധ്യമാർന്ന അവസ്ഥകളിൽ രോഗവികസനം സംഭവിക്കാമെങ്കിലും അമിതമായ ഈർപ്പം, മണ്ണിന്റെ കുറഞ്ഞ പി. എച്ച്, 64 മുതൽ 77 ഡിഗ്രി ഫാരൻഹീറ്റ് വരെയുള്ള മണ്ണിന്റെ താപനില എന്നിവ ഇതിന് അനുകൂലമാണ്. വിത്തുകൾക്ക് മണ്ണിൽ 10 വർഷം വരെ അതിജീവിക്കാൻ കഴിയും. \n \n ചികിത്സ \n 1. മണ്ണിൽ വസിക്കുന്ന ഈ സൂക്ഷ്മജീവിയെ ഫംഗസൈഡുകൾ ചികിത്സിക്കില്ല. \n 2. സാധ്യമാകുമ്പോൾ പ്രതിരോധശേഷിയുള്ള കൾട്ടിവറുകൾ തിരഞ്ഞെടുക്കുക. \n വൃത്തിയുള്ള പൂന്തോട്ടവും കറങ്ങുന്ന വിളകളും സൂക്ഷിച്ചുകൊണ്ട് ഈ രോഗം വരാതിരിക്കാൻ ശ്രമിക്കുക. \n 4. രോഗ ബീജാണുക്കൾക്ക് 20 വർഷം വരെ മണ്ണിൽ നിലനിൽക്കാൻ കഴിയുമെന്ന് ഓർമ്മിക്കുക. ക്ലബ് റൂട്ട് ഉണ്ടെങ്കിൽ നിങ്ങൾക്ക് മണ്ണ് സൌരോർജ്ജമാക്കാൻ ആഗ്രഹിക്കാം. * \n 5. രോഗം പിടിപെടാൻ സാധ്യതയുള്ള കായലുകൾ-കടുക്, റാഡിഷ്, ഷെപ്പേർഡ്സ് പേഴ്സ് എന്നിവ നിയന്ത്രിക്കുക. \n 6. ഉപയോഗിച്ചതിനുശേഷം രോഗബാധിതമായ ചെടികൾ ശ്രദ്ധാപൂർവ്വം നീക്കം ചെയ്യുകയും പൂന്തോട്ട ഉപകരണങ്ങൾ (ഒരു ഭാഗം ബ്ലീച്ച് 4 ഭാഗങ്ങൾ വെള്ളത്തിൽ) അണുവിമുക്തമാക്കുകയും ചെയ്യുക. ശരത്കാലത്ത് നിങ്ങളുടെ പൂന്തോട്ടത്തിൽ മുത്തുച്ചിപ്പി ഷെൽ അല്ലെങ്കിൽ ഡോലോമൈറ്റ് ചുണ്ണാമ്പ് കലർത്തി മണ്ണിന്റെ പിഎച്ച് 7.2 ആയി ഉയർത്തുക. പലപ്പോഴും പി. എച്ച് പരിശോധിക്കുന്നതിന് ലളിതവും താങ്ങാനാവുന്നതുമായ സോയിൽ ടെസ്റ്റ് കിറ്റുകൾ ലഭ്യമാണ്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "ഇത് ചോളം കഷണങ്ങളാൽ നിർമ്മിച്ചതാണ്. വീട്ടുമുറ്റത്തെ പൂന്തോട്ടങ്ങളിലും ചെറിയ ഫാമുകളിലും പതിവായി കാണപ്പെടുന്ന കോൺ സ്മട്ട് ഉസ്റ്റിലാഗോ സീ എന്ന ഫംഗസ് മൂലമാണ് ഉണ്ടാകുന്നത്, ഇത് തണ്ടുകൾ, ഇലകൾ, ടാസലുകൾ അല്ലെങ്കിൽ ചെവികൾ എന്നിവയിൽ പ്രത്യക്ഷപ്പെടാം. ചെവികൾ കൂൺ പോലുള്ള ട്യൂമറുകൾ അല്ലെങ്കിൽ ഗൾസ് ഉത്പാദിപ്പിക്കുമ്പോഴാണ് ലക്ഷണങ്ങൾ സാധാരണയായി ശ്രദ്ധിക്കപ്പെടുന്നത്. ഈ \"വീക്കം\" ചെറുതും വെളുത്ത ചാരനിറത്തിലുള്ളതുമായ ക്രമക്കേടുകളായി ആരംഭിക്കുകയും അവ ബീജാണുക്കളാൽ നിറയുമ്പോൾ വികസിക്കുകയും കറുത്തതായി മാറുകയും ചെയ്യുന്നു. ഇയർഗല്ലുകൾക്ക് 4 മുതൽ 5 ഇഞ്ച് വരെ വ്യാസത്തിൽ വളരുകയും അവ പൊട്ടുമ്പോൾ ആയിരക്കണക്കിന് ബീജാണുക്കൾ പുറത്തുവിടുകയും ചെയ്യും. ഈ ഫംഗസ് ബീജാണുക്കൾ പുതിയ സസ്യങ്ങളെ ബാധിക്കുന്നതിനായി ഗണ്യമായ ദൂരത്തേക്ക് കാറ്റിൽ വീശുന്നു. ഇലകളിലെ ഇലകൾ ചെറുതായി തുടരുകയും ഒടുവിൽ കഠിനവും വരണ്ടതുമായി മാറുകയും ചെയ്യുന്നു. \n \n തോട്ടത്തിലെ അവശിഷ്ടങ്ങളിലും മണ്ണിലും കോൺ സ്മട്ട് ഓവർവിന്ററുകൾ. കാറ്റ്, മഴ, ജലസേചനം എന്നിവയിലൂടെ ഇത് വഹിക്കുകയും ചൂടുള്ളതും വരണ്ടതുമായ കാലാവസ്ഥയിൽ ഇത് മികച്ച രീതിയിൽ പ്രവർത്തിക്കുകയും ചെയ്യുന്നു. ബീജാണുക്കൾ 5 മുതൽ 7 വർഷം വരെ ലാഭകരമായി തുടരാം. കൃഷി, വീശുന്ന മണ്ണിൽ നിന്നുള്ള ഉരച്ചിലുകൾ എന്നിവയുൾപ്പെടെ വിവിധ പരിക്കുകളിൽ നിന്നുള്ള മുറിവുകൾ ഫംഗസിന് ചെടിയിലേക്ക് പ്രവേശിക്കാൻ പോയിന്റുകൾ നൽകുന്നു. \n \n ചികിത്സ \n 1. ലഭ്യമാകുമ്പോൾ സിൽവർ കിംഗ്, ഫാന്റസിയ, ബ്രില്യന്റ്, സെനെക്ക സെൻസേഷൻ തുടങ്ങിയ മികച്ച പ്രതിരോധശേഷിയുള്ള ഇനങ്ങൾ തിരഞ്ഞെടുക്കുക. \n 2. വീട്ടുമുറ്റത്തെ പൂന്തോട്ടങ്ങളിൽ, ഇരുണ്ട ഫംഗസ് ബീജാണുക്കൾ പുറത്തുവിടുന്നതിന് മുമ്പ് ഗാൾസ് ശേഖരിക്കുകയും നശിപ്പിക്കുകയും ചെയ്യണമെന്ന് നിർദ്ദേശിക്കുന്നു. ഇത് ലഭ്യമായ ഫംഗസ് ബീജാണുക്കളുടെ എണ്ണം പരിമിതപ്പെടുത്തുകയും രോഗചക്രം തകർക്കാൻ സഹായിക്കുകയും ചെയ്യും. \n 3. കൃഷി ചെയ്യുമ്പോൾ വേരുകൾ, തണ്ടുകൾ, ഇലകൾ എന്നിവയ്ക്ക് പരിക്കേൽക്കുന്നത് ഒഴിവാക്കിക്കൊണ്ട് അണുബാധയുടെ പോയിന്റുകൾ കുറയ്ക്കുക. \n 4. മോണ്ടെറി ഗാർഡൻ ഇൻസെക്ട് സ്പ്രേ അല്ലെങ്കിൽ മറ്റ് ജൈവ കീടനാശിനികൾ ഉപയോഗിച്ച് ചോളം കുഴിക്കുന്നതുപോലുള്ള പ്രാണികളിൽ നിന്നുള്ള കേടുപാടുകൾ തടയുക. \n 5. രോഗം വളരെ വ്യാപകവും വർഷങ്ങളോളം മണ്ണിൽ നിലനിൽക്കുന്നതുമായതിനാൽ ഫംഗസൈഡുകൾ ഫലപ്രദമായ നിയന്ത്രണ മാർഗമല്ല. \n 6. ഉയർന്ന നൈട്രജൻ വളങ്ങൾ രോഗത്തിൻറെ തീവ്രത വർദ്ധിപ്പിക്കും-പച്ചക്കറി തോട്ടത്തിൽ സമതുലിതമായ ജൈവ വളം ഉപയോഗിക്കുക. \n 7. വിളവെടുപ്പിനുശേഷം പൂന്തോട്ടത്തിലെ എല്ലാ അവശിഷ്ടങ്ങളും നീക്കം ചെയ്യുകയും നശിപ്പിക്കുകയും ചെയ്യുക, അടുത്ത വർഷം വിള റൊട്ടേഷൻ പരിശീലിക്കുക. ബാഗിലോ രോഗബാധിതമായ ചെടിയുടെ ഭാഗങ്ങൾ കത്തിക്കുകയോ ചെയ്യുക-കമ്പോസ്റ്റ് ചെയ്യരുത്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "അഗ്രോബാക്ടീരിയം ട്യൂമെഫാസിയൻസ് എന്ന മണ്ണിൽ നിന്നുള്ള ബാക്ടീരിയ മൂലമുണ്ടാകുന്ന ഒരു സാധാരണ സസ്യരോഗമാണ് ഇത്. ലോകമെമ്പാടും കാണപ്പെടുന്ന ഇത് മരംകൊണ്ടുള്ള കുറ്റിച്ചെടികളിലും മുന്തിരിപ്പഴം, റാസ്ബെറി, ബ്ലാക്ക്ബെറി, റോസാപ്പൂക്കൾ എന്നിവയുൾപ്പെടെയുള്ള ഔഷധസസ്യങ്ങളിലും കാണപ്പെടുന്നു. \n \n ക്രൌൺ പിത്തസഞ്ചി ലക്ഷണങ്ങളിൽ വൃത്താകൃതിയിലുള്ള, അരിമ്പാറ പോലുള്ള വളർച്ചകൾ ഉൾപ്പെടുന്നു-2 ഇഞ്ച് അല്ലെങ്കിൽ വ്യാസത്തിൽ വലുത്-ഇത് മണ്ണിന്റെ വരിയിലോ അതിനു മുകളിലോ അല്ലെങ്കിൽ താഴത്തെ ശാഖകളിലും തണ്ടുകളിലും കാണപ്പെടുന്നു. നിരവധി ഗൾസ് ഉള്ള സസ്യങ്ങൾക്ക് വെള്ളവും പോഷകങ്ങളും തുമ്പിക്കൈയിലേക്ക് നീക്കാൻ കഴിയാതെ ദുർബലമാകുകയും വളർച്ച മുരടിക്കുകയും ഉൽപ്പാദനക്ഷമമാകാതിരിക്കുകയും ചെയ്തേക്കാം. പിത്തകോശ കോശങ്ങൾ വികസിപ്പിക്കുന്നതിലൂടെ ചെടികളെ കൊല്ലാൻ കഴിയും. \n \n ക്രൌൺ ഗാലിനു കാരണമാകുന്ന ബാക്ടീരിയകൾ വർഷങ്ങളോളം മണ്ണിൽ നിലനിൽക്കുകയും ഗാലുകൾ ഈർപ്പം കൊണ്ട് പൂരിതമാകുമ്പോഴോ പഴയ ഗാലുകൾ വിഘടിക്കുമ്പോഴോ പുറത്തുവിടുകയും ചെയ്യുന്നു. പുതിയ മുറിവുകളിലൂടെയോ ഉരച്ചിലുകളിലൂടെയോ അണുബാധയുള്ള സസ്യങ്ങൾ, അവയിൽ പലതും മുറിക്കൽ, മരവിപ്പിക്കൽ, മണ്ണിൽ നിന്നുള്ള പ്രാണികൾ, കൃഷി, സസ്യങ്ങൾക്ക് കേടുപാടുകൾ വരുത്തുന്ന മറ്റ് ഘടകങ്ങൾ എന്നിവയുടെ ഫലമാണ്. ഗ്രാഫ്റ്റിംഗ്, ബഡിംഗ് പാടുകൾ എന്നിവയിലൂടെയാണ് നഴ്സറി സ്റ്റോക്ക് പലപ്പോഴും ബാധിക്കപ്പെടുന്നത്. \n \n ചികിത്സ \n 1. സാധ്യമാകുമ്പോൾ പ്രതിരോധശേഷിയുള്ള കൾട്ടിവറുകൾ തിരഞ്ഞെടുക്കുകയും പ്രശസ്തമായ നഴ്സറിയിൽ നിന്ന് ചെടികൾ വാങ്ങുകയും ചെയ്യുക. \n 2. വീക്കം അല്ലെങ്കിൽ വീക്കം എന്നിവയുടെ ലക്ഷണങ്ങൾ കാണിക്കുന്ന ചെടികൾ വാങ്ങരുത്. \n 3. അപകടസാധ്യതയുള്ള സസ്യങ്ങളെ പരിപാലിക്കുമ്പോൾ, മണ്ണുമായി സമ്പർക്കം പുലർത്തിയേക്കാവുന്ന മുറിവുകളോ മുറിവുകളോ ഒഴിവാക്കുക. \n 4. സ്ട്രിംഗ് ട്രിമ്മർ കേടുപാടുകളിൽ നിന്ന് സംരക്ഷിക്കാനും നിങ്ങളുടെ പൂന്തോട്ട ഉപകരണങ്ങൾ വൃത്തിയായി സൂക്ഷിക്കാനും ട്രീ റാപ് ഉപയോഗിക്കുക. \n 5. തൊലി പൊട്ടാതിരിക്കാൻ സ്വാഭാവിക ബർലാപ്പ് ഉപയോഗിച്ച് ശൈത്യകാല സംരക്ഷണം നൽകുക. \n 6. പല കേസുകളിലും, നിലവിലുള്ള ഗൾസ് മൂർച്ചയുള്ള അരിവാൾ കത്തി ഉപയോഗിച്ച് നീക്കം ചെയ്യാൻ കഴിയും. രോഗബാധിതമായ ചെടിയുടെ കോശങ്ങൾ നശിപ്പിക്കുകയും മുറിവ് മുറിക്കുന്ന സീലർ ഉപയോഗിച്ച് മുറിവ് ചികിത്സിക്കുകയും ചെയ്യുക. ചെടി വീണ്ടെടുക്കുന്നില്ലെങ്കിൽ അത് നീക്കം ചെയ്ത് നശിപ്പിക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "ഇത് ചാരനിറത്തിലുള്ള പൂപ്പൽ (ബോട്രൈറ്റിസ് സിനെറിയ) ആണ്. വൈവിധ്യമാർന്ന സസ്യങ്ങളിൽ കാണപ്പെടുന്ന ചാരനിറത്തിലുള്ള പൂപ്പൽ പൂന്തോട്ടങ്ങളിലൂടെ, പ്രത്യേകിച്ച് നനഞ്ഞതും തണുത്തതും മിതമായതുമായ കാലാവസ്ഥയിൽ വേഗത്തിൽ സഞ്ചരിക്കുന്ന ഒരു ഫംഗസ് രോഗമാണ്. ഇലകൾ, തണ്ടുകൾ, പൂക്കൾ, ഉൽപ്പന്നങ്ങൾ എന്നിവയിൽ ചാരനിറത്തിലുള്ള മൃദുവായ, മിനുസമാർന്ന പാടുകളായി രോഗ ലക്ഷണങ്ങൾ പ്രത്യക്ഷപ്പെടുന്നു. പ്രത്യേകിച്ചും ഈർപ്പം കൂടുതലാണെങ്കിൽ, ചാരനിറത്തിലുള്ള ഫംഗസ് ബീജാണുക്കളുടെ പൂശൽ കൊണ്ട് പാടുകൾ മൂടപ്പെട്ടേക്കാം. പഴങ്ങളോ ചെടികളോ ചുരുങ്ങുകയും ചീഞ്ഞഴുകുകയും ചെയ്യുന്നു, പലപ്പോഴും കറുത്ത, കല്ല് പോലുള്ള സ്ക്ലിറോട്ടിയ-കഠിനമായ ഫംഗസ് ഫിലമെന്റുകളുടെ ഒരു കോംപാക്ട് പിണ്ഡം-ചീഞ്ഞ ഭാഗങ്ങൾക്ക് കീഴിൽ വികസിക്കുന്നു. \n \n ചാരനിറത്തിലുള്ള പൂപ്പൽ പലപ്പോഴും മണ്ണിന്റെ ഉപരിതലത്തിനടുത്തോ ചെടിയുടെ മേലാപ്പ് ഏറ്റവും സാന്ദ്രമായ പ്രദേശങ്ങളിലോ കാണപ്പെടുന്നു. ഇത് ആദ്യം വാടിപ്പോയ പൂക്കളിൽ വികസിക്കുകയും പിന്നീട് ചെടിയുടെ മറ്റ് ഭാഗങ്ങളിലേക്ക് വേഗത്തിൽ വ്യാപിക്കുകയും ചെയ്യുന്നു. സംഭരണ സ്ഥലങ്ങളിലും ഈ രോഗം സംഭവിക്കാം, ഇത് വിളവെടുക്കുന്ന പഴങ്ങളും പച്ചക്കറികളും ചീഞ്ഞഴുകാൻ കാരണമാകുന്നു. \n \n ബോട്രൈറ്റിസ് ബ്ലൈറ്റ് ചെടികളിലോ മണ്ണിലോ സ്ക്ലിറോട്ടിയയായോ അമിതമായി മഞ്ഞുവീഴ്ച ചെയ്യുന്നു. സാഹചര്യങ്ങൾ അനുകൂലമാകുമ്പോൾ ബീജാണുക്കൾ വികസിക്കുകയും കാറ്റ് അല്ലെങ്കിൽ വെള്ളം തെറിപ്പിച്ച് പൂക്കളിലേക്കോ ഇലകളിലേക്കോ നീങ്ങുകയും അവിടെ അവ മുളച്ച് ചെടിയിലേക്ക് പ്രവേശിക്കുകയും ചെയ്യുന്നു. വിത്തുകൾ മുളയ്ക്കുന്നതിന് തണുത്ത താപനിലയും (45-60 F.) ഉയർന്ന ഈർപ്പവും (93 ശതമാനവും അതിൽ കൂടുതലും) ആവശ്യമാണ്. മുളയ്ക്കുന്ന ബീജാണുക്കൾ അപൂർവ്വമായി പച്ച, ആരോഗ്യകരമായ ടിഷ്യു നേരിട്ട് തുളച്ചുകയറുന്നു, പക്ഷേ വളരുന്ന സസ്യങ്ങളിലെ മുറിവുകളിലൂടെ പ്രവേശിക്കാം. മുറിവുകൾ അണുബാധയ്ക്ക് പ്രത്യേകിച്ചും വിധേയമാണ്. \n \n ചികിത്സ \n 1. ചെടികൾക്കിടയിൽ വായുസഞ്ചാരം മെച്ചപ്പെടുത്തുന്നതിന് ചെടികൾ മുറിക്കുകയോ വയ്ക്കുകയോ ചെയ്യുക. ഓരോ മുറിവിനും ശേഷം നിങ്ങളുടെ പ്രൂണിംഗ് ഉപകരണങ്ങൾ (ഒരു ഭാഗം ബ്ലീച്ച് 4 ഭാഗം വെള്ളത്തിലേക്ക്) അണുവിമുക്തമാക്കാൻ ഉറപ്പാക്കുക. \n 2. വീടിനകത്ത് വളരുകയാണെങ്കിൽ വായുപ്രവാഹം മെച്ചപ്പെടുത്തുന്നതിന് ഒരു ചെറിയ ക്ലിപ്പ്-ഓൺ ഫാൻ ഉപയോഗിക്കുക. \n 3. ചെടികൾക്ക് താഴെയുള്ള മണ്ണ് വൃത്തിയായി സൂക്ഷിക്കുകയും വീണുപോയ അവശിഷ്ടങ്ങൾ ശേഖരിക്കുകയും ചെയ്യുക. \n 4. ചെടികൾക്ക് കീഴിൽ നല്ല അളവിൽ ജൈവ കമ്പോസ്റ്റ് അല്ലെങ്കിൽ മൾച്ച് ചേർക്കുക. പൂക്കളിലും ഇലകളിലും ഫംഗസ് ബീജാണുക്കൾ വീണ്ടും തെറിക്കുന്നത് മൾച്ചുകൾ തടയും. \n 5. അതിരാവിലെ വെള്ളം നൽകുക, അല്ലെങ്കിൽ പകൽ സമയത്ത് ചെടികൾക്ക് ഉണങ്ങാൻ സമയം നൽകുന്നതിന് സോക്കർ ഹോസ് ഉപയോഗിക്കുക. \n 6. രോഗബാധിതമായ ചെടിയുടെ ഇലകളോ തണ്ടുകളോ കമ്പോസ്റ്റ് ചെയ്യരുത്, കൂടാതെ ഫംഗസ് ബീജാണുക്കളുടെ ശൈത്യകാല സൈറ്റുകൾ കുറയ്ക്കുന്നതിന് ശരത്കാലത്ത് പൂന്തോട്ട പ്രദേശങ്ങൾ നന്നായി വൃത്തിയാക്കുക. \n 7. ചെമ്പ്-സോപ്പ് കുമിൾനാശിനികൾ രോഗാണുക്കളിൽ നിന്ന് സസ്യങ്ങളെ സംരക്ഷിക്കാൻ സഹായിക്കും. പൂക്കളുടെ തുടക്കത്തിൽ പ്രയോഗിക്കുകയും വിളവെടുപ്പ് വരെ എല്ലാ 7-10 ദിവസങ്ങളിലും തുടരുകയും ചെയ്യുക. കാലാവസ്ഥ പ്രവചനങ്ങൾ ദീർഘകാലത്തെ തണുത്ത, ഈർപ്പമുള്ള കാലാവസ്ഥ പ്രവചിക്കുമ്പോൾ ഫംഗിസൈഡൽ സ്പ്രേകൾ പ്രത്യേകിച്ചും ആവശ്യപ്പെടുന്നു. \n 8. ബോട്രൈറ്റിസ് ബ്ലൈറ്റ് ഉൾപ്പെടെയുള്ള മിക്ക ഫംഗസ് രോഗങ്ങളും സെറീനഡ് ഗാർഡൻ ഉപയോഗിച്ച് സുരക്ഷിതമായി ചികിത്സിക്കുക. ഈ ബ്രോഡ് സ്പെക്ട്രം ബയോ ഫംഗിസൈഡ് ജൈവ ഉപയോഗത്തിനായി രജിസ്റ്റർ ചെയ്ത ബാസിലസ് സബ്ടിലിസിന്റെ പേറ്റന്റ് സ്ട്രെയിൻ ഉപയോഗിക്കുന്നു. ഏറ്റവും മികച്ചത്, സെറീനഡ് തേനീച്ചകൾക്കും പ്രയോജനകരമായ പ്രാണികൾക്കും പൂർണ്ണമായും വിഷരഹിതമാണ്. \n 9. ജൈവ ഉപയോഗത്തിനായി അംഗീകരിച്ച ബയോളജിക്കൽ ഫംഗസൈഡായ മൈകോസ്റ്റോപ്പ് രോഗത്തെ അടിച്ചമർത്തുന്നതായി കാണിക്കുന്നു. ഇലകൾ, പൂക്കൾ, പഴങ്ങൾ എന്നിവയിൽ നേരിട്ട് സ്പ്രേ ചെയ്യുക (5 ഗ്രാം/50 ലിറ്റർ വെള്ളം). ഓരോ 2 മുതൽ 3 ആഴ്ചകൾ കൂടുമ്പോഴും അല്ലെങ്കിൽ രോഗ സമ്മർദ്ദത്തെ ആശ്രയിച്ച് ആവശ്യാനുസരണം പ്രയോഗിക്കുക. \n 10. ഗ്രീൻ ക്യൂർ ഫംഗിസൈഡിൽ പൊട്ടാസ്യം ബൈകാർബണേറ്റിന്റെ പേറ്റന്റ് ഫോർമുല അടങ്ങിയിരിക്കുന്നു-ഇത് സാധാരണയായി ഭക്ഷ്യ ഉൽപ്പന്നങ്ങളിൽ ഉപയോഗിക്കുന്നു-ഇത് സമ്പർക്കത്തിൽ നിരവധി സസ്യരോഗങ്ങളെ കൊല്ലുകയും 2 ആഴ്ച വരെ ശേഷിക്കുന്ന സംരക്ഷണം നൽകുകയും ചെയ്യുന്നു. രോഗത്തിൻറെ ആദ്യ ലക്ഷണത്തിൽ, 1-2 ടേബിൾസ്പൂൺ/ഗാലൺ വെള്ളം കലർത്തി ചെടിയുടെ എല്ലാ തുറന്ന പ്രതലങ്ങളിലും പുരട്ടുക. മികച്ച സംരക്ഷണത്തിനായി, രോഗവികസനത്തിന് സാഹചര്യങ്ങൾ അനുകൂലമാകുന്നതുവരെ 1 മുതൽ 2 ആഴ്ച ഇടവേളകളിൽ ആവർത്തിക്കുക.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "ഈ രോഗം എന്താണ് (ഹ്രസ്വമായ ആമുഖം നൽകുക) അത് എങ്ങനെ ചികിത്സിക്കാം?",
+        "answer": "ഇത് ആദ്യകാല രോഗമാണ്. തക്കാളി, ഉരുളക്കിഴങ്ങ് ചെടികളിൽ സാധാരണയായി കാണപ്പെടുന്ന ആദ്യകാല രോഗാവസ്ഥ ആൾട്ടർനേറിയ സോളാനി എന്ന ഫംഗസ് മൂലമാണ് ഉണ്ടാകുന്നത്, ഇത് അമേരിക്കയിലുടനീളം സംഭവിക്കുന്നു. താഴത്തെ, പഴയ ഇലകളിൽ \"ബുൾസ് ഐ\" പാറ്റേൺ രൂപപ്പെടുത്തുന്ന കേന്ദ്രീകൃത വളയങ്ങളുള്ള ചെറിയ തവിട്ടുനിറത്തിലുള്ള പാടുകളായി ലക്ഷണങ്ങൾ ആദ്യം പ്രത്യക്ഷപ്പെടുന്നു. രോഗം പക്വത പ്രാപിക്കുമ്പോൾ, അത് ഇലയുടെ ഉപരിതലത്തിൽ പുറത്തേക്ക് വ്യാപിക്കുകയും മഞ്ഞനിറമാകുകയും ഉണങ്ങി മരിക്കുകയും ചെയ്യുന്നു. ക്രമേണ തണ്ട്, പഴം, ചെടിയുടെ മുകൾ ഭാഗം എന്നിവ രോഗബാധിതമാകും. വിളകൾക്ക് സാരമായ കേടുപാടുകൾ സംഭവിക്കാം. \n \n ആദ്യകാല ബ്ലൈറ്റ് രോഗബാധിതമായ സസ്യകോശങ്ങളിൽ അമിതമായി മഞ്ഞുവീഴ്ച ചെയ്യുകയും മഴ, ജലസേചനം, പ്രാണികൾ, പൂന്തോട്ട ഉപകരണങ്ങൾ എന്നിവ തെറിപ്പിക്കുന്നതിലൂടെ വ്യാപിക്കുകയും ചെയ്യുന്നു. തക്കാളി വിത്തുകളിലും ഉരുളക്കിഴങ്ങ് കിഴങ്ങുകളിലും ഈ രോഗം പടരുന്നു. അതിന്റെ പേര് ഉണ്ടായിരുന്നിട്ടും, വളരുന്ന സീസണിലുടനീളം എപ്പോൾ വേണമെങ്കിലും നേരത്തെയുള്ള ബ്ലൈറ്റ് സംഭവിക്കാം. ഉയർന്ന താപനില (80-85 °F.) ഈർപ്പമുള്ളതും ഈർപ്പമുള്ളതുമായ സാഹചര്യങ്ങൾ അതിന്റെ ദ്രുതഗതിയിലുള്ള വ്യാപനത്തെ പ്രോത്സാഹിപ്പിക്കുന്നു. പല കേസുകളിലും, മോശമായി പോഷിപ്പിക്കപ്പെട്ടതോ സമ്മർദ്ദത്തിലായതോ ആയ സസ്യങ്ങൾ ആക്രമിക്കപ്പെടുന്നു. \n \n ചികിത്സ \n വായുസഞ്ചാരം മെച്ചപ്പെടുത്തുന്നതിനും ഫംഗസ് പ്രശ്നങ്ങൾ കുറയ്ക്കുന്നതിനും ചെടികൾ മുറിക്കുക. \n ഓരോ മുറിവിനും ശേഷം നിങ്ങളുടെ പ്രൂണിംഗ് കത്രിക (ഒരു ഭാഗം ബ്ലീച്ച് 4 ഭാഗം വെള്ളത്തിലേക്ക്) അണുവിമുക്തമാക്കാൻ ഉറപ്പാക്കുക. \n ചെടികൾക്ക് താഴെയുള്ള മണ്ണ് വൃത്തിയുള്ളതും പൂന്തോട്ട അവശിഷ്ടങ്ങൾ ഇല്ലാത്തതുമായി സൂക്ഷിക്കുക. ബീജാണുക്കൾ സസ്യങ്ങളിലേക്ക് വീണ്ടും തെറിച്ചുവീഴുന്നത് തടയാൻ ജൈവ കമ്പോസ്റ്റിന്റെ ഒരു പാളി ചേർക്കുക. \n ഇലകൾ വരണ്ടതായി നിലനിർത്താൻ ഡ്രിപ്പ് ഇറിഗേഷനും സോക്കർ ഹോസുകളും ഉപയോഗിക്കാം. \n മികച്ച നിയന്ത്രണത്തിനായി, ചെമ്പ് അടിസ്ഥാനമാക്കിയുള്ള കുമിൾനാശിനികൾ നേരത്തെ പ്രയോഗിക്കുക, രോഗം സാധാരണയായി പ്രത്യക്ഷപ്പെടുന്നതിന് രണ്ടാഴ്ച മുമ്പ് അല്ലെങ്കിൽ കാലാവസ്ഥാ പ്രവചനങ്ങൾ ദീർഘകാലത്തെ ഈർപ്പമുള്ള കാലാവസ്ഥ പ്രവചിക്കുമ്പോൾ. പകരമായി, രോഗം ആദ്യം പ്രത്യക്ഷപ്പെടുമ്പോൾ ചികിത്സ ആരംഭിക്കുകയും ആവശ്യമുള്ളിടത്തോളം എല്ലാ 7-10 ദിവസങ്ങളിലും ആവർത്തിക്കുകയും ചെയ്യുക. \n ചെമ്പ്, പൈറെത്രിനുകൾ അടങ്ങിയിരിക്കുന്ന ബോണൈഡ് ഗാർഡൻ ഡസ്റ്റ് നിരവധി പ്രാണികളുടെ ആക്രമണങ്ങൾക്കും ഫംഗസ് പ്രശ്നങ്ങൾക്കുമുള്ള സുരക്ഷിതവും ഒറ്റത്തവണ നിയന്ത്രണവുമാണ്. മികച്ച ഫലങ്ങൾക്കായി, ഇലകളുടെ മുകൾഭാഗവും അടിഭാഗവും നേർത്ത യൂണിഫോം ഫിലിമോ പൊടിയോ ഉപയോഗിച്ച് മൂടുക. ഇലകളുടെ സാന്ദ്രതയെ ആശ്രയിച്ച്, 10 ഔൺസ് 625 ചതുരശ്ര അടി ഉൾക്കൊള്ളും. ആവശ്യാനുസരണം എല്ലാ 7-10 ദിവസങ്ങളിലും പ്രയോഗങ്ങൾ ആവർത്തിക്കുക. \n നിരവധി പ്രധാന സസ്യരോഗങ്ങൾ നിയന്ത്രിക്കുന്നതിനോ അടിച്ചമർത്തുന്നതിനോ ശുപാർശ ചെയ്യുന്ന വിശാലമായ, പ്രതിരോധ ജൈവ-ഫംഗസൈഡാണ് സെറെനാഡ് ഗാർഡൻ. മികച്ച ഫലങ്ങൾക്കായി, ഫോളിയർ രോഗം വികസിപ്പിക്കുന്നതിന് മുമ്പോ അണുബാധയുടെ ആദ്യ ലക്ഷണത്തിലോ ചികിത്സിക്കുക. 7 ദിവസത്തെ ഇടവേളകളിൽ അല്ലെങ്കിൽ ആവശ്യാനുസരണം ആവർത്തിക്കുക. \n വിളവെടുപ്പിനുശേഷം പൂന്തോട്ടത്തിലെ എല്ലാ അവശിഷ്ടങ്ങളും നീക്കം ചെയ്യുകയും നശിപ്പിക്കുകയും ചെയ്യുക, അടുത്ത വർഷം വിള റൊട്ടേഷൻ പരിശീലിക്കുക. \n രോഗബാധിതമായ ചെടിയുടെ ഭാഗങ്ങൾ കത്തിക്കുകയോ പൊതിയുകയോ ചെയ്യുക. കമ്പോസ്റ്റ് ചെയ്യരുത്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "സർ ഐസക് ന്യൂട്ടൺ എഫ്ആർഎസ് (25 ഡിസംബർ 1642-20 മാർച്ച്) ഒരു ഇംഗ്ലീഷ് ഗണിതശാസ്ത്രജ്ഞനും ഭൌതികശാസ്ത്രജ്ഞനും ജ്യോതിശാസ്ത്രജ്ഞനും ആൽക്കെമിസ്റ്റും ദൈവശാസ്ത്രജ്ഞനും എഴുത്തുകാരനുമായിരുന്നു. ശാസ്ത്രീയ വിപ്ലവത്തിലും തുടർന്നുണ്ടായ പ്രബുദ്ധതയിലും അദ്ദേഹം ഒരു പ്രധാന വ്യക്തിയായിരുന്നു. 1687-ൽ ആദ്യമായി പ്രസിദ്ധീകരിച്ച അദ്ദേഹത്തിന്റെ പയനിയറിംഗ് പുസ്തകമായ ഫിലോസഫി നാച്ചുറലിസ് പ്രിൻസിപ്പിയ മാത്തമാറ്റിക്ക (മാത്തമാറ്റിക്കൽ പ്രിൻസിപ്പിൾസ് ഓഫ് നാച്ചുറൽ ഫിലോസഫി), മുമ്പത്തെ നിരവധി ഫലങ്ങൾ ഏകീകരിക്കുകയും ക്ലാസിക്കൽ മെക്കാനിക്സ് സ്ഥാപിക്കുകയും ചെയ്തു. ന്യൂട്ടൺ ഒപ്റ്റിക്സിൽ സുപ്രധാന സംഭാവനകൾ നൽകുകയും അനന്തമായ കാൽക്കുലസ് വികസിപ്പിച്ചെടുത്തതിന് ജർമ്മൻ ഗണിതശാസ്ത്രജ്ഞനായ ഗോട്ട്ഫ്രൈഡ് വിൽഹെം ലെബ്നിസുമായി ക്രെഡിറ്റ് പങ്കിടുകയും ചെയ്തു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "പരമ്പരാഗതമായി ചൈനീസ് ഋഷിമാരുടെ മാതൃകയായി കണക്കാക്കപ്പെടുന്ന വസന്തകാലത്തെയും ശരത്കാലത്തെയും കാലഘട്ടത്തിലെ ഒരു ചൈനീസ് തത്ത്വചിന്തകനും രാഷ്ട്രീയക്കാരനുമായിരുന്നു കൺഫ്യൂഷ്യസ് (ചൈനീസ്ഃ;;;;;;;;;;;;;;;;;;;;;;). കൺഫ്യൂഷ്യസിന്റെ പഠിപ്പിക്കലുകളും തത്ത്വചിന്തയും കിഴക്കൻ ഏഷ്യൻ സംസ്കാരത്തിനും സമൂഹത്തിനും അടിവരയിടുകയും ചൈനയിലും കിഴക്കൻ ഏഷ്യയിലും ഇന്നും സ്വാധീനം ചെലുത്തുകയും ചെയ്യുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "കിഴക്കൻ ഹാൻ രാജവംശത്തിലെ ഒരു ചൈനീസ് നപുംസക രാജസഭയിലെ ഉദ്യോഗസ്ഥനായിരുന്നു കായ് ലുൻ (ചൈനീസ്ഃ; സൌഹാർദ്ദപരമായ പേര്ഃ ജിങ്ഷോങ്; c. 50-62-121 CE). പേപ്പറിന്റെയും ആധുനിക പേപ്പർ നിർമ്മാണ പ്രക്രിയയുടെയും കണ്ടുപിടുത്തക്കാരനായി അദ്ദേഹം പരമ്പരാഗതമായി കണക്കാക്കപ്പെടുന്നു. ബിസി മൂന്നാം നൂറ്റാണ്ട് മുതൽ പേപ്പറിന്റെ ആദ്യകാല രൂപങ്ങൾ നിലവിലുണ്ടായിരുന്നുവെങ്കിലും, മരത്തിന്റെ പുറംതൊലിയും ചവറ്റുകുട്ടയും വഴി പൾപ്പ് ചേർത്തതിനാൽ അദ്ദേഹം പേപ്പറിന്റെ ചരിത്രത്തിൽ ഒരു പ്രധാന സ്ഥാനം വഹിക്കുന്നു, ഇത് വലിയ തോതിലുള്ള നിർമ്മാണത്തിനും ലോകമെമ്പാടുമുള്ള പേപ്പറിന്റെ വ്യാപനത്തിനും കാരണമായി.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ക്രിസ്റ്റഫർ കൊളംബസ് (25 ഓഗസ്റ്റ് മുതൽ 31 ഒക്ടോബർ 1451-20 മെയ് 1506 വരെ) റിപ്പബ്ലിക് ഓഫ് ജെനോവയിൽ നിന്നുള്ള ഒരു ഇറ്റാലിയൻ പര്യവേക്ഷകനും നാവികനുമായിരുന്നു, അദ്ദേഹം കത്തോലിക്കാ ചക്രവർത്തിമാർ സ്പോൺസർ ചെയ്ത അറ്റ്ലാന്റിക് സമുദ്രത്തിന് കുറുകെ നാല് സ്പാനിഷ് അധിഷ്ഠിത യാത്രകൾ പൂർത്തിയാക്കി, അമേരിക്കയുടെ വ്യാപകമായ യൂറോപ്യൻ പര്യവേഷണത്തിനും യൂറോപ്യൻ കോളനിവൽക്കരണത്തിനും വഴിയൊരുക്കി. കരീബിയൻ, മധ്യ, തെക്കേ അമേരിക്ക എന്നിവയുമായുള്ള ആദ്യത്തെ യൂറോപ്യൻ സമ്പർക്കമായിരുന്നു അദ്ദേഹത്തിന്റെ പര്യവേഷണങ്ങൾ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ആൽബർട്ട് ഐൻസ്റ്റീൻ (14 മാർച്ച് 1879-18 ഏപ്രിൽ 1955) ജർമ്മനിയിൽ ജനിച്ച സൈദ്ധാന്തിക ഭൌതികശാസ്ത്രജ്ഞനായിരുന്നു. ആപേക്ഷികതാ സിദ്ധാന്തം വികസിപ്പിച്ചെടുത്തതിൽ പ്രശസ്തനായ അദ്ദേഹം ക്വാണ്ടം മെക്കാനിക്സ് സിദ്ധാന്തത്തിന്റെ വികസനത്തിനും അങ്ങനെ ആധുനിക ഭൌതികശാസ്ത്രത്തിനും പ്രധാന സംഭാവനകൾ നൽകി. ആപേക്ഷികതാ സിദ്ധാന്തത്തിൽ നിന്ന് ഉത്ഭവിക്കുന്ന അദ്ദേഹത്തിന്റെ പിണ്ഡ-ഊർജ്ജ തുല്യത സൂത്രവാക്യം E = mc2, \"ലോകത്തിലെ ഏറ്റവും പ്രശസ്തമായ സമവാക്യം\" എന്ന് വിളിക്കപ്പെടുന്നു. അദ്ദേഹത്തിന്റെ കൃതികൾ ശാസ്ത്ര തത്വശാസ്ത്രത്തിൽ ചെലുത്തിയ സ്വാധീനത്തിനും പേരുകേട്ടതാണ്. 1921-ലെ ഭൌതികശാസ്ത്രത്തിനുള്ള നോബൽ സമ്മാനം \"സൈദ്ധാന്തിക ഭൌതികശാസ്ത്രത്തിനുള്ള സേവനങ്ങൾക്കും പ്രത്യേകിച്ച് ഫോട്ടോ ഇലക്ട്രിക് ഇഫക്റ്റിന്റെ നിയമം കണ്ടെത്തിയതിനും\" അദ്ദേഹത്തിന് ലഭിച്ചു, ഇത് ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ വികസനത്തിലെ ഒരു പ്രധാന ചുവടുവെപ്പാണ്. ആവർത്തനപ്പട്ടികയിലെ സിന്തറ്റിക് മൂലകങ്ങളിലൊന്നായ ഐൻസ്റ്റീനിയത്തിന് അദ്ദേഹത്തിന്റെ ബഹുമാനാർത്ഥം പേര് നൽകി.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "പ്രതിരോധ കുത്തിവയ്പ്പ്, മൈക്രോബയൽ ഫെർമെന്റേഷൻ, പാസ്ചറൈസേഷൻ എന്നീ തത്വങ്ങൾ കണ്ടെത്തിയതിൽ പ്രശസ്തനായ ഒരു ഫ്രഞ്ച് രസതന്ത്രജ്ഞനും മൈക്രോബയോളജിസ്റ്റുമായിരുന്നു ലൂയിസ് പാസ്ചർ ഫോർമെംആർഎസ് (27 ഡിസംബർ 1822-28 സെപ്റ്റംബർ 1895). രസതന്ത്രത്തിലെ അദ്ദേഹത്തിന്റെ ഗവേഷണം രോഗങ്ങളുടെ കാരണങ്ങളും പ്രതിരോധവും മനസ്സിലാക്കുന്നതിൽ ശ്രദ്ധേയമായ മുന്നേറ്റങ്ങൾക്ക് കാരണമായി, ഇത് ശുചിത്വം, പൊതുജനാരോഗ്യം, ആധുനിക വൈദ്യശാസ്ത്രം എന്നിവയുടെ അടിത്തറ പാകുകയും ചെയ്തു. പേവിഷബാധയ്ക്കും ആന്ത്രാക്സിനുമുള്ള വാക്സിനുകളുടെ വികസനത്തിലൂടെ ദശലക്ഷക്കണക്കിന് ജീവൻ രക്ഷിച്ചതിന്റെ ബഹുമതി പാസ്ചറിന്റെ പ്രവർത്തനങ്ങൾക്കാണ്. ആധുനിക ബാക്ടീരിയോളജിയുടെ സ്ഥാപകരിലൊരാളായി കണക്കാക്കപ്പെടുന്ന അദ്ദേഹം \"ബാക്ടീരിയോളജിയുടെ പിതാവ്\" എന്നും \"മൈക്രോബയോളജിയുടെ പിതാവ്\" എന്നും ബഹുമാനിക്കപ്പെടുന്നു (റോബർട്ട് കോച്ചിനൊപ്പം; രണ്ടാമത്തേത് അന്റോണി വാൻ ലീവെൻഹോക്കിന്റെ പേരിലും അറിയപ്പെടുന്നു).",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ഒരു ഇറ്റാലിയൻ ജ്യോതിശാസ്ത്രജ്ഞനും ഭൌതികശാസ്ത്രജ്ഞനും എഞ്ചിനീയറുമായിരുന്നു ഗലീലിയോ ഡി വിൻസെൻസോ ബോണൈയൂട്ടി ഡി ഗലീലി (15 ഫെബ്രുവരി 1564-8 ജനുവരി 1642). സാധാരണയായി ഗലീലിയോ എന്ന് വിളിക്കപ്പെടുന്ന അദ്ദേഹത്തിൻറെ പേര് ഉച്ചരിക്കുന്നത്/ത്തന്നെൽഎൽഐഇഎൽഐഇഎൽഐഇഎൽഐഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽഇഎൽ അന്ന് ഫ്ലോറൻസ് ഡച്ചിയുടെ ഭാഗമായിരുന്ന പിസ നഗരത്തിലാണ് അദ്ദേഹം ജനിച്ചത്. നിരീക്ഷണ ജ്യോതിശാസ്ത്രം, ആധുനിക കാലഘട്ടത്തിലെ ക്ലാസിക്കൽ ഫിസിക്സ്, ശാസ്ത്രീയ രീതി, ആധുനിക ശാസ്ത്രം എന്നിവയുടെ പിതാവ് എന്നാണ് ഗലീലിയോയെ വിളിക്കുന്നത്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "നോർട്ടൺ ചക്രവർത്തി എന്നറിയപ്പെടുന്ന ജോഷ്വ എബ്രഹാം നോർട്ടൺ (ഫെബ്രുവരി 4,1818-ജനുവരി 8,1880) കാലിഫോർണിയയിലെ സാൻ ഫ്രാൻസിസ്കോയിലെ താമസക്കാരനായിരുന്നു, 1859 ൽ സ്വയം \"നോർട്ടൺ ഒന്നാമൻ, അമേരിക്കൻ ഐക്യനാടുകളുടെ ചക്രവർത്തി\" എന്ന് പ്രഖ്യാപിച്ചു. 1863-ൽ നെപ്പോളിയൻ മൂന്നാമൻ മെക്സിക്കോ ആക്രമിച്ചതിനുശേഷം അദ്ദേഹം \"പ്രൊട്ടക്ടർ ഓഫ് മെക്സിക്കോ\" എന്ന ദ്വിതീയ പദവി ഏറ്റെടുത്തു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ലിയോ മെസ്സി എന്നും അറിയപ്പെടുന്ന ലിയോണൽ ആൻഡ്രെസ് മെസ്സി (സ്പാനിഷ് ഉച്ചാരണംഃ [ljoːnel anːdɾesːmesi] (കേൾക്കുക); ജനനം 24 ജൂൺ 1987) ഒരു അർജന്റീനിയൻ പ്രൊഫഷണൽ ഫുട്ബോൾ കളിക്കാരനാണ്, അദ്ദേഹം ലീഗ് 1 ക്ലബ് പാരീസ് സെന്റ്-ജെർമെയ്നിന് വേണ്ടി മുന്നേറ്റനിരയിൽ കളിക്കുകയും അർജന്റീന ദേശീയ ടീമിന്റെ ക്യാപ്റ്റനാകുകയും ചെയ്യുന്നു. എക്കാലത്തെയും മികച്ച കളിക്കാരിൽ ഒരാളായി പരക്കെ കണക്കാക്കപ്പെടുന്ന മെസ്സി റെക്കോർഡ് ഏഴ് ബാലൺ ഡി ഓർ അവാർഡുകളും റെക്കോർഡ് ആറ് യൂറോപ്യൻ ഗോൾഡൻ ഷൂസും നേടിയിട്ടുണ്ട്, 2020 ൽ ബാലൺ ഡി ഓർ ഡ്രീം ടീമിൽ ഇടം നേടി. 2021 ൽ ക്ലബ് വിടുന്നതുവരെ, തന്റെ പ്രൊഫഷണൽ കരിയർ മുഴുവൻ ബാഴ്സലോണയ്ക്കായി ചെലവഴിച്ചു, അവിടെ പത്ത് ലാ ലിഗ കിരീടങ്ങൾ, ഏഴ് കോപ ഡെൽ റേ കിരീടങ്ങൾ, നാല് തവണ യുവേഫ ചാമ്പ്യൻസ് ലീഗ് എന്നിവയുൾപ്പെടെ ക്ലബ് റെക്കോർഡ് 34 ട്രോഫികൾ നേടി. തന്റെ രാജ്യത്തിനൊപ്പം അദ്ദേഹം 2021 കോപ്പ അമേരിക്കയും 2022 ഫിഫ ലോകകപ്പും നേടി. ലാ ലിഗയിൽ ഏറ്റവും കൂടുതൽ ഗോളുകൾ (474), ലാ ലിഗയിൽ ഏറ്റവും കൂടുതൽ ഹാട്രിക്കുകൾ (36), യുവേഫ ചാമ്പ്യൻസ് ലീഗ് (എട്ട്), ലാ ലിഗയിൽ ഏറ്റവും കൂടുതൽ അസിസ്റ്റുകൾ (192), കോപ അമേരിക്ക (17) എന്നീ റെക്കോർഡുകൾ മെസ്സിക്കുണ്ട്. ഒരു തെക്കേ അമേരിക്കൻ പുരുഷൻറെ (102) ഏറ്റവും കൂടുതൽ അന്താരാഷ്ട്ര ഗോളുകളും അദ്ദേഹത്തിനുണ്ട്. ക്ലബ്ബിനും രാജ്യത്തിനും വേണ്ടി 800 ലധികം സീനിയർ കരിയർ ഗോളുകൾ നേടിയ മെസ്സി ഒരു ക്ലബ്ബിനായി (672) ഒരു കളിക്കാരൻ ഏറ്റവും കൂടുതൽ ഗോളുകൾ നേടിയിട്ടുണ്ട്.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "ഈ വ്യക്തിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഒരു ഹ്രസ്വ ആമുഖം നൽകാമോ?",
+        "answer": "ഒരു ഇംഗ്ലീഷ് ഗണിതശാസ്ത്രജ്ഞനും കമ്പ്യൂട്ടർ ശാസ്ത്രജ്ഞനും യുക്തിവാദിയും ക്രിപ്റ്റാനലിസ്റ്റും തത്ത്വചിന്തകനും സൈദ്ധാന്തിക ജീവശാസ്ത്രജ്ഞനുമായിരുന്നു അലൻ മാതിസൺ ട്യൂറിംഗ് ഒബിഇ എഫ്ആർഎസ് (/ːtjːr മുത്ഥ്/; 23 ജൂൺ 1912-7 ജൂൺ 1954). ഒരു പൊതു-ഉദ്ദേശ്യ കമ്പ്യൂട്ടറിന്റെ മാതൃകയായി കണക്കാക്കാവുന്ന ട്യൂറിംഗ് മെഷീൻ ഉപയോഗിച്ച് അൽഗോരിതം, കണക്കുകൂട്ടൽ എന്നിവയുടെ ആശയങ്ങളുടെ ഔപചാരികവൽക്കരണം നൽകിക്കൊണ്ട് സൈദ്ധാന്തിക കമ്പ്യൂട്ടർ ശാസ്ത്രത്തിന്റെ വികസനത്തിൽ ട്യൂറിംഗ് വളരെയധികം സ്വാധീനം ചെലുത്തി. സൈദ്ധാന്തിക കമ്പ്യൂട്ടർ ശാസ്ത്രത്തിന്റെയും കൃത്രിമബുദ്ധിയുടെയും പിതാവായി അദ്ദേഹം പരക്കെ കണക്കാക്കപ്പെടുന്നു.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "ചുവടെയുള്ള ഗ്രാഫ് ദീർഘകാല അന്താരാഷ്ട്ര കുടിയേറ്റം, യുകെ, 1999-2008 കാണിക്കുന്നു. \n \n പ്രധാന സവിശേഷതകൾ തിരഞ്ഞെടുക്കുകയും റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്തുകൊണ്ട് വിവരങ്ങൾ സംഗ്രഹിക്കുകയും പ്രസക്തമായ സ്ഥലങ്ങളിൽ താരതമ്യങ്ങൾ നടത്തുകയും ചെയ്യുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "1999നും 2008നും ഇടയിലുള്ള യുകെ കുടിയേറ്റം, കുടിയേറ്റം, മൊത്തം കുടിയേറ്റം എന്നിവയെക്കുറിച്ചുള്ള വിവരങ്ങൾ ചാർട്ട് നൽകുന്നു. \n \n കാണിക്കുന്ന കാലയളവിൽ കുടിയേറ്റവും കുടിയേറ്റ നിരക്കും ഉയർന്നു, പക്ഷേ കുടിയേറ്റത്തിന്റെ കണക്കുകൾ ഗണ്യമായി കൂടുതലായിരുന്നു. 2004ലും 2007ലും നെറ്റ് ഇമിഗ്രേഷൻ ഏറ്റവും ഉയർന്ന നിലയിലെത്തി. \n \n 1999-ൽ 450,000-ത്തിലധികം ആളുകൾ യുകെയിൽ താമസിക്കാൻ വന്നപ്പോൾ കുടിയേറ്റക്കാരുടെ എണ്ണം 300,000-ൽ താഴെയായിരുന്നു. മൊത്തം കുടിയേറ്റത്തിന്റെ കണക്ക് ഏകദേശം 160,000 ആയിരുന്നു, അത് 2003 വരെ സമാനമായ നിലയിലായിരുന്നു. 1999 മുതൽ 2004 വരെ കുടിയേറ്റ നിരക്ക് ഏകദേശം 150,000 ആളുകൾ വർദ്ധിച്ചുവെങ്കിലും കുടിയേറ്റത്തിൽ വളരെ ചെറിയ വർദ്ധനവുണ്ടായി. 2004ൽ മൊത്തം കുടിയേറ്റം ഏകദേശം 250,000 ആയി ഉയർന്നു. \n \n 2004 ന് ശേഷം, കുടിയേറ്റ നിരക്ക് ഉയർന്ന നിലയിൽ തുടർന്നെങ്കിലും കുടിയേറ്റക്കാരുടെ എണ്ണത്തിൽ ഏറ്റക്കുറച്ചിലുകൾ ഉണ്ടായി. 2007ൽ കുടിയേറ്റം പെട്ടെന്നു കുറയുകയും 2008ൽ ഇത് 420,000 ആയി ഉയരുകയും ചെയ്തു. തൽഫലമായി, 2007-ൽ മൊത്തം കുടിയേറ്റ സംഖ്യ 240,000 ആയി ഉയർന്നു, എന്നാൽ 2008-ൽ ഇത് 160,000 ആയി കുറഞ്ഞു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "ചുവടെയുള്ള ഗ്രാഫും പട്ടികയും ലോകമെമ്പാടുമുള്ള ജല ഉപയോഗത്തെക്കുറിച്ചും രണ്ട് വ്യത്യസ്ത രാജ്യങ്ങളിലെ ജല ഉപഭോഗത്തെക്കുറിച്ചും വിവരങ്ങൾ നൽകുന്നു. \n \n പ്രധാന സവിശേഷതകൾ തിരഞ്ഞെടുക്കുകയും റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്തുകൊണ്ട് വിവരങ്ങൾ സംഗ്രഹിക്കുകയും പ്രസക്തമായ സ്ഥലങ്ങളിൽ താരതമ്യങ്ങൾ നടത്തുകയും ചെയ്യുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "ലോകമെമ്പാടുമുള്ള കൃഷി, വ്യവസായം, വീടുകൾ എന്നിവയ്ക്കായി ഉപയോഗിക്കുന്ന ജലത്തിന്റെ അളവും ബ്രസീലിലെയും ഡെമോക്രാറ്റിക് റിപ്പബ്ലിക് ഓഫ് കോംഗോയിലെയും ജല ഉപയോഗവും ചാർട്ടുകൾ താരതമ്യം ചെയ്യുന്നു. \n \n 1900 നും 2000 നും ഇടയിൽ ആഗോള ജലത്തിന്റെ ആവശ്യം ഗണ്യമായി വർദ്ധിച്ചുവെന്നും ഉപയോഗിക്കുന്ന ജലത്തിന്റെ ഏറ്റവും വലിയ അനുപാതം കൃഷിയിലാണെന്നും വ്യക്തമാണ്. കോംഗോയേക്കാൾ ബ്രസീലിൽ ജല ഉപഭോഗം ഗണ്യമായി കൂടുതലാണെന്നും നമുക്ക് കാണാൻ കഴിയും. \n \n 1900-ൽ ലോകമെമ്പാടുമുള്ള കാർഷിക മേഖല ഏകദേശം 500 ചതുരശ്ര കിലോമീറ്റർ വെള്ളം ഉപയോഗിച്ചിരുന്നു. വ്യാവസായിക, ഗാർഹിക ജല ഉപഭോഗത്തിന്റെ കണക്കുകൾ ആ തുകയുടെ അഞ്ചിലൊന്ന് വരും. 2000 ആയപ്പോഴേക്കും കൃഷിക്കായുള്ള ആഗോള ജല ഉപയോഗം ഏകദേശം 3000 ചതുരശ്ര കിലോമീറ്ററായി വർദ്ധിച്ചു, വ്യാവസായിക ജല ഉപയോഗം അതിന്റെ പകുതിയിൽ താഴെയായി ഉയർന്നു, ഗാർഹിക ഉപഭോഗം ഏകദേശം 500 ചതുരശ്ര കിലോമീറ്ററിലെത്തി. \n \n 2000ൽ ബ്രസീലിലെയും കോംഗോയിലെയും ജനസംഖ്യ യഥാക്രമം 176 ദശലക്ഷവും 5.2 ദശലക്ഷവുമായിരുന്നു. ബ്രസീലിലെ ഒരു വ്യക്തിയുടെ ജല ഉപഭോഗം, 359 മീറ്റർ 3, കോംഗോയേക്കാൾ വളരെ കൂടുതലാണ്, 8 മീറ്റർ 3 മാത്രം, ബ്രസീലിൽ 265 മടങ്ങ് കൂടുതൽ ജലസേചന ഭൂമി ഉണ്ടെന്ന വസ്തുതയിലൂടെ ഇത് വിശദീകരിക്കാൻ കഴിയും.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "ചുവടെയുള്ള ചാർട്ടുകൾ 1970 നും 2000 നും ഇടയിൽ യുഎസ്എയിലെ വിവാഹ, വിവാഹമോചന നിരക്കുകളെക്കുറിച്ചും രണ്ട് വർഷത്തിനുള്ളിൽ പ്രായപൂർത്തിയായ അമേരിക്കക്കാരുടെ വൈവാഹിക നിലയെക്കുറിച്ചും വിവരങ്ങൾ നൽകുന്നു. \n \n പ്രധാന സവിശേഷതകൾ തിരഞ്ഞെടുക്കുകയും റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്തുകൊണ്ട് വിവരങ്ങൾ സംഗ്രഹിക്കുകയും പ്രസക്തമായ സ്ഥലങ്ങളിൽ താരതമ്യങ്ങൾ നടത്തുകയും ചെയ്യുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "ആദ്യ ബാർ ചാർട്ട് യുഎസ്എയിലെ വിവാഹങ്ങളുടെയും വിവാഹമോചനങ്ങളുടെയും എണ്ണത്തിലെ മാറ്റങ്ങൾ കാണിക്കുന്നു, രണ്ടാമത്തെ ചാർട്ട് 1970 ലും 2000 ലും അമേരിക്കൻ മുതിർന്നവരുടെ വൈവാഹിക നിലയുടെ കണക്കുകൾ കാണിക്കുന്നു. \n \n 1970നും 2000നും ഇടയിൽ അമേരിക്കയിൽ വിവാഹങ്ങളുടെ എണ്ണത്തിൽ കുറവുണ്ടായതായി വ്യക്തമാണ്. പ്രായപൂർത്തിയായ അമേരിക്കക്കാരിൽ ഭൂരിഭാഗവും രണ്ട് വർഷത്തിനുള്ളിൽ വിവാഹം കഴിച്ചവരാണ്, എന്നാൽ 2000 ൽ ഏകാകികളായ മുതിർന്നവരുടെ അനുപാതം കൂടുതലായിരുന്നു. \n \n 1970ൽ അമേരിക്കയിൽ 25 ലക്ഷം വിവാഹങ്ങളും 1 ദശലക്ഷം വിവാഹമോചനങ്ങളും ഉണ്ടായിരുന്നു. 1980ൽ വിവാഹനിരക്ക് സ്ഥിരമായി തുടർന്നെങ്കിലും 2000 ആയപ്പോഴേക്കും അത് 20 ലക്ഷമായി കുറഞ്ഞു. ഇതിനു വിപരീതമായി, വിവാഹമോചന നിരക്ക് 1980 ൽ ഏറ്റവും ഉയർന്ന നിലയിലെത്തി, ഏകദേശം 15 ലക്ഷം വിവാഹമോചനങ്ങൾ, ആ കാലയളവിന്റെ അവസാനത്തിൽ \n 1 ദശലക്ഷമായി കുറയുന്നതിന് മുമ്പ്. \n \n അമേരിക്കൻ മുതിർന്നവരിൽ ഏകദേശം 70 ശതമാനവും 1970 ൽ വിവാഹിതരായിരുന്നു, എന്നാൽ 2000 ആയപ്പോഴേക്കും ഈ കണക്ക് 60 ശതമാനത്തിൽ താഴെയായി കുറഞ്ഞു. അതേസമയം, അവിവാഹിതരും വിവാഹമോചിതരുമായവരുടെ അനുപാതം മൊത്തം 10 ശതമാനം ഉയർന്നു. 2000ൽ വിധവകളായ അമേരിക്കക്കാരുടെ അനുപാതം അല്പം കുറവായിരുന്നു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "നാല് യൂറോപ്യൻ രാജ്യങ്ങളിലെ ആറ് ഉപഭോക്തൃ ഉൽപ്പന്നങ്ങൾക്കായി ചെലവഴിച്ച തുക ചുവടെയുള്ള ചാർട്ട് കാണിക്കുന്നു. \n \n ചുവടെ കാണിച്ചിരിക്കുന്ന വിവരങ്ങൾ വിവരിക്കുന്ന ഒരു യൂണിവേഴ്സിറ്റി ലക്ചറർക്ക് ഒരു റിപ്പോർട്ട് എഴുതുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "ജർമ്മനി, ഇറ്റലി, ഫ്രാൻസ്, ബ്രിട്ടൻ എന്നിവിടങ്ങളിലെ ആറ് വ്യത്യസ്ത ഇനങ്ങളിലെ ഉപഭോക്തൃ ചെലവുകൾ ബാർ ചാർട്ട് താരതമ്യം ചെയ്യുന്നു. \n \n ആറ് ചരക്കുകൾക്കും മറ്റ് മൂന്ന് രാജ്യങ്ങളിലെ ആളുകളേക്കാൾ ബ്രിട്ടീഷ് ജനത ഗണ്യമായി കൂടുതൽ പണം ചെലവഴിച്ചുവെന്ന് വ്യക്തമാണ്. ആറ് ഇനങ്ങളിൽ ഏറ്റവും കൂടുതൽ പണം ഉപഭോക്താക്കൾ ഫോട്ടോഗ്രാഫിക് ഫിലിമിനായി ചെലവഴിച്ചു. \n \n ബ്രിട്ടനിലെ ആളുകൾ ഫോട്ടോഗ്രാഫിക് ഫിലിമിനായി 170,000 പൌണ്ടിലധികം ചെലവഴിച്ചു, ഇത് ചാർട്ടിൽ കാണിച്ചിരിക്കുന്ന ഏറ്റവും ഉയർന്ന സംഖ്യയാണ്. ഇതിനു വിപരീതമായി, ആറ് ഉൽപ്പന്നങ്ങളിൽ ഓരോന്നിനും ഏകദേശം ഒരേ കണക്കുകൾ (150,000 പൌണ്ടിൽ താഴെ) ഉള്ള ജർമ്മൻകാരാണ് മൊത്തത്തിൽ ഏറ്റവും കുറവ് ചെലവഴിക്കുന്നത്. \n \n കളിപ്പാട്ടങ്ങൾക്കായി ചെലവഴിക്കുന്ന കണക്കുകൾ ഫ്രാൻസിലും ഇറ്റലിയിലും ഏകദേശം 160,000 പൌണ്ട് ആയിരുന്നു. എന്നിരുന്നാലും, ഫ്രഞ്ച് ജനത ഫോട്ടോഗ്രാഫിക് ഫിലിമിനും സിഡികൾക്കുമായി ഇറ്റലിക്കാരെക്കാൾ കൂടുതൽ ചെലവഴിച്ചപ്പോൾ, ഇറ്റലിക്കാർ വ്യക്തിഗത സ്റ്റീരിയോകൾ, ടെന്നീസ് റാക്കറ്റുകൾ, സുഗന്ധദ്രവ്യങ്ങൾ എന്നിവയ്ക്ക് കൂടുതൽ പണം നൽകി. ടെന്നീസ് റാക്കറ്റുകൾക്കായി ഫ്രഞ്ച് ജനത ചെലവഴിച്ച തുക, ഏകദേശം 145,000 പൌണ്ട്, ചാർട്ടിൽ കാണിച്ചിരിക്കുന്ന ഏറ്റവും കുറഞ്ഞ തുകയാണ്.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "ചുവടെയുള്ള പട്ടിക ആറ് നഗരങ്ങളിലെ ഭൂഗർഭ റെയിൽവേ സംവിധാനങ്ങളെക്കുറിച്ചുള്ള വിവരങ്ങൾ നൽകുന്നു. \n \n പ്രധാന സവിശേഷതകൾ തിരഞ്ഞെടുക്കുകയും റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്തുകൊണ്ട് വിവരങ്ങൾ സംഗ്രഹിക്കുകയും പ്രസക്തമായ സ്ഥലങ്ങളിൽ താരതമ്യങ്ങൾ നടത്തുകയും ചെയ്യുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "ആറ് പ്രധാന നഗരങ്ങളിലെ ഭൂഗർഭ റെയിൽ ശൃംഖലകളെക്കുറിച്ചുള്ള വിവരങ്ങൾ പട്ടിക കാണിക്കുന്നു. \n \n പട്ടിക ആറ് നെറ്റ്വർക്കുകളെ അവയുടെ പ്രായം, വലുപ്പം, ഓരോ വർഷവും അവ ഉപയോഗിക്കുന്ന ആളുകളുടെ എണ്ണം എന്നിവയുടെ അടിസ്ഥാനത്തിൽ താരതമ്യം ചെയ്യുന്നു. ഏറ്റവും പഴക്കമുള്ള മൂന്ന് ഭൂഗർഭ സംവിധാനങ്ങൾ വലുതാണെന്നും പുതിയ സംവിധാനങ്ങളേക്കാൾ കൂടുതൽ യാത്രക്കാരെ സേവിക്കുന്നവയാണെന്നും വ്യക്തമാണ്. \n \n 1863-ൽ തുറന്ന ലണ്ടൻ അണ്ടർഗ്രൌണ്ട് ആണ് ഏറ്റവും പഴയ സംവിധാനം. 394 കിലോമീറ്റർ റൂട്ടുള്ള ഏറ്റവും വലിയ സംവിധാനം കൂടിയാണിത്. 199 കിലോമീറ്റർ റൂട്ട് ഉള്ള പാരീസിലെ രണ്ടാമത്തെ വലിയ സംവിധാനം ലണ്ടൻ ഭൂഗർഭത്തിന്റെ പകുതിയോളം വലുപ്പമുള്ളതാണ്. എന്നിരുന്നാലും, ഇത് പ്രതിവർഷം കൂടുതൽ ആളുകൾക്ക് സേവനം നൽകുന്നു. വലിപ്പത്തിന്റെ കാര്യത്തിൽ മൂന്നാമത്തേത് മാത്രമാണെങ്കിലും, പ്രതിവർഷം 1927 ദശലക്ഷം യാത്രക്കാരുമായി ടോക്കിയോ സംവിധാനം എളുപ്പത്തിൽ ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്നു. \n \n മൂന്ന് പുതിയ നെറ്റ്വർക്കുകളിൽ, 126 കിലോമീറ്റർ റൂട്ടുള്ള വാഷിംഗ്ടൺ ഡിസി ഭൂഗർഭമാണ് ഏറ്റവും വിപുലമായത്, ക്യോട്ടോ, ലോസ് ഏഞ്ചൽസ് സിസ്റ്റങ്ങൾക്ക് 11 കിലോമീറ്ററും 28 കിലോമീറ്ററും മാത്രം. 2001 ൽ ആരംഭിച്ച ലോസ് ഏഞ്ചൽസ് ശൃംഖല ഏറ്റവും പുതിയതാണ്, അതേസമയം ക്യോട്ടോ ശൃംഖല ഏറ്റവും ചെറുതാണ്, പ്രതിവർഷം 45 ദശലക്ഷം യാത്രക്കാർക്ക് മാത്രമേ സേവനം നൽകുന്നുള്ളൂ.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "2002ൽ അഞ്ച് വ്യത്യസ്ത രാജ്യങ്ങളിലെ വ്യത്യസ്ത ഇനങ്ങൾക്കായി ഉപഭോക്താവ് ചെലവഴിച്ചതിനെക്കുറിച്ചുള്ള വിവരങ്ങൾ ചുവടെയുള്ള പട്ടിക നൽകുന്നു. \n \n പ്രധാന സവിശേഷതകൾ തിരഞ്ഞെടുക്കുകയും റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്തുകൊണ്ട് വിവരങ്ങൾ സംഗ്രഹിക്കുകയും പ്രസക്തമായ സ്ഥലങ്ങളിൽ താരതമ്യങ്ങൾ നടത്തുകയും ചെയ്യുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "2002ൽ അഞ്ച് രാജ്യങ്ങളിലെ മൂന്ന് വിഭാഗത്തിലുള്ള ഉൽപ്പന്നങ്ങളുടെയും സേവനങ്ങളുടെയും ഉപഭോക്തൃ ചെലവിന്റെ ശതമാനം പട്ടിക കാണിക്കുന്നു. \n \n ഓരോ രാജ്യത്തെയും ഉപഭോക്തൃ ചെലവിന്റെ ഏറ്റവും വലിയ അനുപാതം ഭക്ഷണം, പാനീയങ്ങൾ, പുകയില എന്നിവയ്ക്കാണ് ചെലവഴിച്ചതെന്ന് വ്യക്തമാണ്. മറുവശത്ത്, ഒഴിവുസമയ/വിദ്യാഭ്യാസ വിഭാഗത്തിലാണ് പട്ടികയിൽ ഏറ്റവും കുറഞ്ഞ ശതമാനം ഉള്ളത്. \n \n അഞ്ച് രാജ്യങ്ങളിൽ, ഭക്ഷണം, പാനീയങ്ങൾ, പുകയില എന്നിവയ്ക്കുള്ള ഉപഭോക്തൃ ചെലവ് തുർക്കിയിലും 32.14%, അയർലൻഡിലും ഏകദേശം 29% ആയിരുന്നു. ഒഴിവുസമയത്തിനും വിദ്യാഭ്യാസത്തിനുമുള്ള ചെലവിന്റെ അനുപാതം തുർക്കിയിലാണ് ഏറ്റവും കൂടുതൽ, 4.35%, അതേസമയം വസ്ത്രങ്ങൾക്കും പാദരക്ഷകൾക്കുമുള്ള ചെലവ് ഇറ്റലിയിൽ മറ്റേതൊരു രാജ്യത്തേക്കാളും 9 ശതമാനം കൂടുതലാണ്. \n \n ഭക്ഷണം/പാനീയങ്ങൾ/പുകയില, വസ്ത്രങ്ങൾ/പാദരക്ഷകൾ എന്നിവയ്ക്കുള്ള ദേശീയ ഉപഭോക്തൃ ചെലവിന്റെ ഏറ്റവും കുറഞ്ഞ ശതമാനം യഥാക്രമം 16 ശതമാനവും 5 ശതമാനത്തിലധികവുമാണെന്ന് കാണാൻ കഴിയും. ഈ വിഭാഗങ്ങളിൽ സ്പെയിനിൽ അൽപ്പം ഉയർന്ന കണക്കുകളുണ്ടായിരുന്നു, എന്നാൽ ഒഴിവുസമയ/വിദ്യാഭ്യാസത്തിനുള്ള ഏറ്റവും കുറഞ്ഞ കണക്ക് 1.98% മാത്രമാണ്.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "1980 ലും 2000 ലും ഓസ്ട്രേലിയയിലും ഫ്രാൻസിലും ഇന്ധന സ്രോതസ്സ് വഴി വൈദ്യുതി ഉൽപ്പാദിപ്പിച്ച യൂണിറ്റുകൾ ചുവടെയുള്ള പൈ ചാർട്ടുകൾ കാണിക്കുന്നു. \n \n പ്രധാന സവിശേഷതകൾ തിരഞ്ഞെടുക്കുകയും റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്തുകൊണ്ട് വിവരങ്ങൾ സംഗ്രഹിക്കുകയും പ്രസക്തമായ സ്ഥലങ്ങളിൽ താരതമ്യങ്ങൾ നടത്തുകയും ചെയ്യുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "രണ്ട് വ്യത്യസ്ത വർഷങ്ങളിൽ രണ്ട് രാജ്യങ്ങളിൽ അഞ്ച് വ്യത്യസ്ത ഇന്ധന സ്രോതസ്സുകൾ ഉപയോഗിച്ച് ഉൽപാദിപ്പിക്കുന്ന വൈദ്യുതിയുടെ അളവ് പൈ ചാർട്ടുകൾ താരതമ്യം ചെയ്യുന്നു. \n \n 1980 മുതൽ 2000 വരെ ഓസ്ട്രേലിയയിലും ഫ്രാൻസിലും മൊത്തം വൈദ്യുതി ഉൽപ്പാദനം ഗണ്യമായി വർദ്ധിച്ചു. ഇരു രാജ്യങ്ങളുടെയും ആകെത്തുക സമാനമായിരുന്നെങ്കിലും ഉപയോഗിച്ച ഇന്ധന സ്രോതസ്സുകളിൽ വലിയ വ്യത്യാസങ്ങളുണ്ടായിരുന്നു. \n \n 1980 ൽ ഓസ്ട്രേലിയയിലെ മൊത്തം 100 യൂണിറ്റ് വൈദ്യുതിയിൽ 50 എണ്ണം ഉൽപ്പാദിപ്പിക്കാൻ കൽക്കരി ഉപയോഗിച്ചിരുന്നു, 2000 ൽ 170 യൂണിറ്റിൽ 130 ആയി ഉയർന്നു. ഇതിനു വിപരീതമായി, 2000-ൽ ഫ്രാൻസിലെ ഏറ്റവും പ്രധാനപ്പെട്ട ഇന്ധന സ്രോതസ്സായി ആണവോർജ്ജം മാറി, ഇത് രാജ്യത്തെ വൈദ്യുതിയുടെ 75 ശതമാനവും ഉൽപ്പാദിപ്പിക്കുന്നു. \n \n രണ്ട് വർഷങ്ങളിലും ഓസ്ട്രേലിയ അതിന്റെ വൈദ്യുതിയുടെ 25 ശതമാനത്തിൽ താഴെ ജലവൈദ്യുതിയെ ആശ്രയിച്ചിരുന്നു, എന്നാൽ ഇത്തരത്തിലുള്ള വൈദ്യുതി ഉപയോഗിച്ച് ഉൽപാദിപ്പിക്കുന്ന വൈദ്യുതിയുടെ അളവ് ഫ്രാൻസിൽ 5 ൽ നിന്ന് 2 യൂണിറ്റായി കുറഞ്ഞു. മറുവശത്ത്, ഫ്രാൻസിൽ എണ്ണ താരതമ്യേന പ്രധാനപ്പെട്ട ഇന്ധന സ്രോതസ്സായി തുടർന്നെങ്കിലും ഓസ്ട്രേലിയയിൽ അതിന്റെ ഉപയോഗം കുറഞ്ഞു. ഇരു രാജ്യങ്ങളും വൈദ്യുതി ഉൽപാദനത്തിനായി 2000-നെ അപേക്ഷിച്ച് 1980-ൽ ഗണ്യമായി കൂടുതൽ പ്രകൃതിവാതകത്തെ ആശ്രയിച്ചു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "പത്തൊൻപതാം നൂറ്റാണ്ടിന്റെ പകുതി മുതൽ ക്രമാനുഗതമായി ജനസംഖ്യ വർദ്ധിച്ചുകൊണ്ടിരിക്കുന്ന ലണ്ടനിലെ ഒരു ഗ്രാമമാണ് ചോർലിവുഡ്. ചുവടെയുള്ള ഭൂപടം ഗ്രാമത്തിന്റെ വികസനം കാണിക്കുന്നു. \n \n ഗ്രാമത്തിന്റെ വികസനം വിവരിക്കുന്ന ഒരു സർവകലാശാല പ്രഭാഷകന് ഒരു റിപ്പോർട്ട് എഴുതുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "1868നും 1994നും ഇടയിൽ ചോർലിവുഡ് എന്ന ഗ്രാമത്തിന്റെ വളർച്ചയാണ് ഭൂപടം കാണിക്കുന്നത്. \n \n ഗതാഗത അടിസ്ഥാന സൌകര്യങ്ങൾ മെച്ചപ്പെട്ടതോടെ ഗ്രാമം വളർന്നുവെന്ന് വ്യക്തമാണ്. വികസനത്തിന്റെ നാല് കാലഘട്ടങ്ങൾ ഭൂപടത്തിൽ കാണിച്ചിരിക്കുന്നു, ജനസംഖ്യയുള്ള ഓരോ പ്രദേശവും പ്രധാന റോഡുകൾ, റെയിൽവേ അല്ലെങ്കിൽ മോട്ടോർവേ എന്നിവയ്ക്ക് സമീപമാണ്. \n \n 1868 മുതൽ 1883 വരെ, പ്രധാന റോഡുകളിലൊന്നിന് അടുത്തുള്ള ഒരു ചെറിയ പ്രദേശം ചോർലിവുഡ് ഉൾക്കൊള്ളുന്നു. ചോർലിവുഡ് പാർക്കും ഗോൾഫ് കോഴ്സും ഇപ്പോൾ ഈ യഥാർത്ഥ ഗ്രാമ പ്രദേശത്തിനടുത്താണ് സ്ഥിതി ചെയ്യുന്നത്. 1883 നും 1922 നും ഇടയിൽ തെക്കോട്ടുള്ള പ്രധാന റോഡിലൂടെ ഈ ഗ്രാമം വളരുകയും 1909 ൽ ഈ പ്രദേശം പടിഞ്ഞാറ് നിന്ന് കിഴക്കോട്ട് കടന്ന് ഒരു റെയിൽവേ ലൈൻ നിർമ്മിക്കുകയും ചെയ്തു. ഗ്രാമത്തിന്റെ ഈ ഭാഗത്താണ് ചോർലിവുഡ് സ്റ്റേഷൻ. \n \n ചോർലിവുഡിന്റെ വിപുലീകരണം 1970 വരെ റെയിൽവേ ലൈനിനൊപ്പം കിഴക്കും പടിഞ്ഞാറും തുടർന്നു. അക്കാലത്ത്, ഗ്രാമത്തിന് കിഴക്ക് ഒരു മോട്ടോർവേ നിർമ്മിക്കപ്പെട്ടു, 1970 മുതൽ 1994 വരെ, റെയിൽവേയും പ്രധാന റോഡുകളിലൊന്നായ മോട്ടോർവേ വിഭജനങ്ങൾക്ക് ചുറ്റും ഗ്രാമത്തിന്റെ കൂടുതൽ വികസനം നടന്നു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "ചുവടെയുള്ള ഭൂപടം ഗാൾസ്ഡൺ പട്ടണത്തിൻ്റെതാണ്. നഗരത്തിനായി ഒരു പുതിയ സൂപ്പർമാർക്കറ്റ് (എസ്) ആസൂത്രണം ചെയ്തിട്ടുണ്ട്. സൂപ്പർമാർക്കറ്റിനായി സാധ്യമായ രണ്ട് സ്ഥലങ്ങൾ ഭൂപടം കാണിക്കുന്നു. \n \n പ്രധാന സവിശേഷതകൾ തിരഞ്ഞെടുക്കുകയും റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്തുകൊണ്ട് വിവരങ്ങൾ സംഗ്രഹിക്കുകയും പ്രസക്തമായ സ്ഥലങ്ങളിൽ താരതമ്യങ്ങൾ നടത്തുകയും ചെയ്യുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "ഗാൾസ്ഡൺ എന്ന പട്ടണത്തിൽ ഒരു പുതിയ സൂപ്പർമാർക്കറ്റിനായി സാധ്യതയുള്ള രണ്ട് സ്ഥലങ്ങൾ (എസ് 1, എസ് 2) ഭൂപടം കാണിക്കുന്നു. \n \n രണ്ട് സൈറ്റുകളും തമ്മിലുള്ള പ്രധാന വ്യത്യാസം എസ് 1 പട്ടണത്തിന് പുറത്താണ്, അതേസമയം എസ് 2 ടൌൺ സെന്ററിലാണ്. റോഡ് അല്ലെങ്കിൽ റെയിൽ വഴിയുള്ള പ്രവേശനത്തിന്റെ കാര്യത്തിലും മൂന്ന് ചെറിയ പട്ടണങ്ങളുമായി താരതമ്യപ്പെടുത്തുമ്പോൾ അവയുടെ സ്ഥാനത്തെക്കുറിച്ചും സൈറ്റുകളെ താരതമ്യം ചെയ്യാം. \n \n വിവരങ്ങൾ കൂടുതൽ വിശദമായി നോക്കുമ്പോൾ, എസ് 1 ഗാൾസ്ഡോണിന്റെ വടക്കുപടിഞ്ഞാറുള്ള ഗ്രാമപ്രദേശത്താണ്, പക്ഷേ ഇത് പട്ടണത്തിലെ പാർപ്പിട പ്രദേശത്തിന് സമീപമാണ്. ടൌൺ സെന്ററിന് ചുറ്റുമുള്ള ഭവന മേഖലയ്ക്ക് സമീപമാണ് എസ് 2. \n \n ഹിൻഡൺ, ബ്രാൻസ്ഡൺ, ക്രാൻസ്ഡൺ എന്നിവിടങ്ങളിൽ നിന്ന് ഗാൾസ്ഡൺ ടൌൺ സെന്ററിലേക്കുള്ള പ്രധാന റോഡുകളുണ്ട്, എന്നാൽ ഇത് നോ ട്രാഫിക് സോണാണ്, അതിനാൽ കാറിൽ എസ് 2 ലേക്ക് പ്രവേശനം ഉണ്ടാകില്ല. ഇതിനു വിപരീതമായി, ഹിൻഡണിലേക്കുള്ള പ്രധാന റോഡിലാണ് എസ് 1 സ്ഥിതിചെയ്യുന്നതെങ്കിലും ബ്രാൻസ്ഡൺ, ക്രാൻസ്ഡൺ എന്നിവിടങ്ങളിൽ നിന്ന് എത്തിച്ചേരാൻ കൂടുതൽ ബുദ്ധിമുട്ടായിരിക്കും. രണ്ട് സൂപ്പർമാർക്കറ്റ് സൈറ്റുകളും ഹിൻഡൺ മുതൽ ക്രാൻസ്ഡൺ വരെ ഗാർൽസ്ഡൺ വഴി കടന്നുപോകുന്ന റെയിൽവേയ്ക്ക് സമീപമാണ്.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "വിശ്വസനീയമായ പ്രവചനങ്ങൾ നൽകുന്നതിനായി ഓസ്ട്രേലിയൻ ബ്യൂറോ ഓഫ് മെറ്റീരിയോളജി എങ്ങനെ കാലാവസ്ഥയെക്കുറിച്ചുള്ള നിമിഷനേരത്തെ വിവരങ്ങൾ ശേഖരിക്കുന്നുവെന്ന് ചുവടെയുള്ള രേഖാചിത്രം കാണിക്കുന്നു. \n \n ചുവടെ കാണിച്ചിരിക്കുന്ന വിവരങ്ങൾ വിവരിക്കുന്ന ഒരു യൂണിവേഴ്സിറ്റി ലക്ചറർക്ക് ഒരു റിപ്പോർട്ട് എഴുതുക. \n \n നിങ്ങൾ കുറഞ്ഞത് 150 വാക്കുകളെങ്കിലും എഴുതണം.",
+        "answer": "ഓസ്ട്രേലിയൻ ബ്യൂറോ ഓഫ് മെറ്റീരിയോളജി കാലാവസ്ഥ പ്രവചിക്കാൻ ഉപയോഗിക്കുന്ന പ്രക്രിയയെ ഈ ചിത്രം ചിത്രീകരിക്കുന്നു. \n \n ഈ പ്രക്രിയയിൽ നാല് ഘട്ടങ്ങളുണ്ട്, കാലാവസ്ഥയെക്കുറിച്ചുള്ള വിവരങ്ങൾ ശേഖരിക്കുന്നതിൽ നിന്ന് ആരംഭിക്കുന്നു. ഈ വിവരങ്ങൾ പിന്നീട് വിശകലനം ചെയ്യുകയും അവതരണത്തിനായി തയ്യാറാക്കുകയും ഒടുവിൽ പൊതുജനങ്ങളിലേക്ക് പ്രക്ഷേപണം ചെയ്യുകയും ചെയ്യുന്നു. \n \n പ്രക്രിയയുടെ ഒന്നും രണ്ടും ഘട്ടങ്ങൾ നോക്കുമ്പോൾ, കാലാവസ്ഥാ ഡാറ്റ ശേഖരിക്കുന്നതിന് മൂന്ന് വഴികളും അത് വിശകലനം ചെയ്യുന്നതിന് മൂന്ന് വഴികളുമുണ്ട്. ഒന്നാമതായി, ഇൻകമിംഗ് വിവരങ്ങൾ ഉപഗ്രഹത്തിലൂടെ സ്വീകരിക്കുകയും ഉപഗ്രഹ ഫോട്ടോയായി വിശകലനത്തിനായി അവതരിപ്പിക്കുകയും ചെയ്യാം. ഇതേ ഡാറ്റ ഒരു റഡാർ സ്റ്റേഷനിലേക്ക് കൈമാറുകയും റഡാർ സ്ക്രീനിലോ സിനോപ്റ്റിക് ചാർട്ടിലോ അവതരിപ്പിക്കുകയും ചെയ്യാം. രണ്ടാമതായി, ഇൻകമിംഗ് വിവരങ്ങൾ റഡാർ വഴി നേരിട്ട് ശേഖരിക്കുകയും റഡാർ സ്ക്രീനിൽ അല്ലെങ്കിൽ സിനോപ്റ്റിക് ചാർട്ടിൽ വിശകലനം ചെയ്യുകയും ചെയ്യാം. അവസാനമായി, ഒരു സിനോപ്റ്റിക് ചാർട്ടിൽ കാണിക്കാൻ കഴിയുന്ന ഡാറ്റയും ഡ്രിഫ്റ്റിംഗ് ബോയ്സിന് ലഭിക്കുന്നു. \n \n പ്രക്രിയയുടെ മൂന്നാം ഘട്ടത്തിൽ, കാലാവസ്ഥാ പ്രക്ഷേപണം കമ്പ്യൂട്ടറുകളിൽ തയ്യാറാക്കുന്നു. അവസാനമായി, ഇത് ടെലിവിഷനിലോ റേഡിയോയിലോ റെക്കോർഡ് ചെയ്ത ടെലിഫോൺ പ്രഖ്യാപനമായോ പൊതുജനങ്ങൾക്ക് എത്തിക്കുന്നു.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

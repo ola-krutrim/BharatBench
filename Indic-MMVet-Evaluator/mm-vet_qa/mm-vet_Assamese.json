@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "সমীকৰণটোত x কি?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "শেষৰ সমীকৰণত d কি?",
+        "answer": "1.25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "সমীকৰণটোত x কি?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "তলৰ বাওঁফালৰ সমীকৰণটোৰ উত্তৰ কি?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "সোঁফালে থকা দ্বিতীয় সমীকৰণটোৰ উত্তৰ কি?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "সোঁফালে থকা দ্বিতীয় অন্তিম সমীকৰণটোৰ উত্তৰ কি?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "শেষৰ সমীকৰণত y কি?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"এক্স\" অপাৰেটৰক কেনেদৰে পুনৰ্নিৰ্ধাৰণ কৰা হয় তাৰ আৰ্হি বিচাৰি উলিয়াওক, আৰু ছবিত দিয়া সমীকৰণটোৰ উত্তৰ দিয়ক।",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "সোঁফালে থকা ছোৱালীজনীয়ে বোৰ্ডত কি লিখিব?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "50 ডলাৰত মই কিমান গেলন উচ্চতম পেট্ৰ \"লিন পাব পাৰো?",
+        "answer": "13. 6 <OR> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "ডিজেল আৰু নিয়মীয়া পেট্ৰ \"লৰ মাজত মূল্যৰ পাৰ্থক্য কিমান?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "ছবিখনত দেখুওৱা মেৰলোটৰ এটা বটল আৰু কেবাৰনেটৰ এটা বটলৰ মুঠ মূল্য কিমান?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "মোৱেট শ্বেম্পেইনৰ তিনিটা বটলৰ মূল্য কিমান?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "মই এটা ফাঙ্গি পিজ্জা আৰু এটা প্ৰ \"ছিউটো পিজ্জা পাইছোঁ। মই মুঠ কিমান পৰিশোধ কৰিব লাগিব?",
+        "answer": "14. 8 <বা> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "মই দুটা মাৰ্গেৰিটা পিজ্জা আৰু এটা কেলজ \"ন পাইছোঁ। মই মুঠ কিমান পৰিশোধ কৰিব লাগিব?",
+        "answer": "25. 8 <বা> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "ৰেহাইৰ পূৰ্বে গাহৰিৰ মাংসৰ পেটৰ মূল মূল্য কিমান?",
+        "answer": "14",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "পেট্ৰ \"লৰ মূল্য কিমান?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "সন্মুখৰ বাওঁফালে থকা ব্যক্তিয়ে পিন্ধা টুপীটোৰ ৰং কি?",
+        "answer": "নীলা",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "চেম্পুৰ সোঁফালে কি আছে?",
+        "answer": "কণ্ডিছনাৰ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "আটাইতকৈ সঠিক বটলটোত কি আছে?",
+        "answer": "মৌচ।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "ফ্ৰিস্বী আৰু মানুহৰ মাজত স্থানিক সম্পৰ্ক কি?",
+        "answer": "মানুহৰ ওপৰত <OR> ওপৰৰ বাওঁফালে",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "পাৰ্কিং স্পট 33-ত কোনখন গাড়ী আছে?",
+        "answer": "কোনো <OR> খালী নাই",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "ৰঙা গাড়ীৰ পাৰ্কিং ক \"ত আছে?",
+        "answer": "31",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "বিলাহীৰ দাম কিমান?",
+        "answer": "আঠ <OR> 8.0",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "আলুৰ কি কি ফলৰ অধিকাৰ আছে?",
+        "answer": "কমলা",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "ছবিখনৰ ওপৰত আধাৰিত কৰি, টিনা ফেৰ মুঠ আন্তঃৰাষ্ট্ৰীয় সজাগতা কিমান?",
+        "answer": "35 শতাংশ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "ছবিখনৰ ওপৰত ভিত্তি কৰি, কোনখন দেশত টিনা ফে 'ৰ সৰ্বোচ্চ স্তৰৰ মুঠ সজাগতা আছে?",
+        "answer": "অষ্ট্ৰেলিয়া",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "2 নম্বৰে পৃথিৱীৰ কোনটো আভ্যন্তৰীণ গাঁথনি সূচায়?",
+        "answer": "মেন্টেল",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "হালধীয়া চুইট পিন্ধি মটৰচাইকেল আৰোহীজনে চলাই থকা মটৰচাইকেলখনত কিমান নম্বৰ প্ৰদৰ্শন কৰা হৈছে?",
+        "answer": "16",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "সোঁফালে মটৰচাইকেলখনত প্ৰদৰ্শিত নম্বৰটো কিমান?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "এই দুটা বিমানৰ ভিতৰত কোনটো আকাৰত ডাঙৰ?",
+        "answer": "একেই",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "ব্যক্তিজন গাড়ীতকৈ ডাঙৰ নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "আটাটো টুকুৰা-টুকুৰা কৰাৰ আগতে মই গুৰি কৰাৰ পিছত কি কৰা উচিত?",
+        "answer": "গৰম ঠাই <AND> 1 ঘণ্টা",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "কণী আৰু গাখীৰ মিহলি কৰাৰ সময়ত মই চেনি যোগ দিব লাগেনে?",
+        "answer": "নাই",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "বনৌষধি, চ 'চেজ আৰু কাঠফুলা কটাৰ আগতে মই কি কৰা উচিত?",
+        "answer": "পাত্ৰটো অলপ বেঁকা কৰক",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "যেতিয়া আমি সকলো উদ্দেশ্যৰ আটা যোগ কৰিব লাগিব তেতিয়া পদক্ষেপটোৰ সূচক কি?",
+        "answer": "তৃতীয় <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "তৃতীয় পৰ্য্যায়ত আমি কি যোগ দিব লাগে?",
+        "answer": "গাখীৰ",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "আঙুলি কটাৰ পিছত শিশুৱে কি কৰিব লাগে?",
+        "answer": "এটা ভৰিত খোজ কাঢ়ক",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "চতুৰ্থ পৰ্য্যায়ত কি কি আঁকিব লাগে?",
+        "answer": "নাক",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "টায়াৰ পাঞ্চাৰ বিস্তাৰ কৰিবলৈ প্ৰোব ব্যৱহাৰ কৰাৰ পিছত কি পদক্ষেপ লোৱা হয়?",
+        "answer": "মেৰামতি আঁতৰাওক",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "পৰামৰ্শ দিয়া দ্বিতীয় পদক্ষেপটো কি?",
+        "answer": "আপোনাৰ দৰ্শকক চিনাক্ত কৰক",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "ছবিখনত দিয়া শেষৰ কৌশলটো কি?",
+        "answer": "এটা গীত বনোৱা",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "ফৰ্ড এফ150-ক বাদ দি গড় মুঠ ইন্ধনৰ খৰচ কিমান?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "সৰ্বাধিক ইন্ধনৰ খৰচ কিমান?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "প্ৰস্তুত কৰা আৰু বাহিৰলৈ পেলাই দিয়া প্লাষ্টিকৰ পৰিমাণ বিবেচনা কৰি কোনটো শ্ৰেণীয়ে প্লাষ্টিক পুনৰ্ব্যৱহাৰৰ ক্ষেত্ৰত আটাইতকৈ বেয়া কাম কৰিছিল?",
+        "answer": "পেকেজিং",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "উৎপাদিত প্লাষ্টিকৰ পৰিমাণ আৰু বিসৰ্জন কৰা পৰিমাণৰ মাজত মেট্ৰিক টনৰ পাৰ্থক্য কিমান?",
+        "answer": "105",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "2023 বৰ্ষৰ বাবে আনুমানিক গড় স্থায়ী মাচুল কিমান?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "2023 বৰ্ষৰ বাবে আনুমানিক মুঠ ব্যয় কিমান?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "লিভিং ৰুমৰ খিৰিকীখন কোন দিশত মুখ কৰি আছে?",
+        "answer": "উত্তৰ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "এই ফ্লোৰপ্লানত পাকঘৰত কি কি সঁজুলি আছে?",
+        "answer": "অভেন <AND> ডিছৱাছাৰ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "কোনটো কোঠা ডাঙৰ, ডাবল গেৰেজ নে লিভিং ৰুম?",
+        "answer": "ডাবল গেৰেজ",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "কোনটো কোঠা ডাঙৰ, মাষ্টাৰ বেডৰুম নে আঙিনা?",
+        "answer": "মাষ্টাৰ বেডৰুম",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "যদি লেম্পটো প্লাগ ইন কৰা হয় আৰু বাল্বটো জ্বলি যায় তেন্তে সমাধান কি?",
+        "answer": "ব্লাব সলনি কৰক",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "ফ্লোচাৰ্টৰ কোনটো স্তৰ হীৰাৰ আকৃতিৰে আঁকা হয়?",
+        "answer": "পানী গৰম হৈছে নেকি?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "বিচনাৰ পৰা উঠিবলৈ গড় অপেক্ষাৰ সময় কিমান?",
+        "answer": "15 মিনিট",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "কোন বছৰত মধ্যমীয়া ঘৰৰ মূল্যৰ সৰ্বাধিক বৃদ্ধিৰ হাৰ আছে?",
+        "answer": "2008 চন",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012 চনত জাপানৰ জি. ডি. পি কি?",
+        "answer": "6, 233.15 বিলিয়ন আমেৰিকান ডলাৰ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "কোনবোৰ বছৰত ৰোয়িং আৰু এথলেটিকছত একে সংখ্যক সোণৰ পদক আছিল?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "কোনটো বিভাগৰ পৰা সৰ্বাধিক দৰমহা পোৱা ব্যক্তি?",
+        "answer": "প্ৰশাসন",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "টেবুলৰ ওপৰত ভিত্তি কৰি উইলকিন্সে কিমান উপাৰ্জন কৰে?",
+        "answer": "2500 <বা> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "কোনখন দেশৰ লাভৰ মাৰ্জিন গড়তকৈ কম?",
+        "answer": "ভাৰত",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "কোনখন দেশৰ লাভৰ মাৰ্জিন সৰ্বাধিক?",
+        "answer": "অষ্ট্ৰেলিয়া",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "কোন মাহত সৰ্বাধিক উপাৰ্জন হয়?",
+        "answer": "ফেব্রুৱাৰী",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "মুঠ আয়ত দৰমহাৰ অৰিহণা কিমান শতাংশ?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "বাওঁফালে থকা ব্যক্তিজন কোন?",
+        "answer": "কেইৰা নাইটলি",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "ছবিখনৰ ব্যক্তিগৰাকী কোন?",
+        "answer": "মিছেল ইয়েহ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "তলৰ সোঁফালে থকা ব্যক্তিজন কোন?",
+        "answer": "জেমি ডৰ্নান",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "কোনটো মিঠা নহয়?",
+        "answer": "ওট",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "এই আপেলটো জৈৱিক নেকি?",
+        "answer": "হয়।",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "গোটেই বেগটোৰ কেলৰি কিমান?",
+        "answer": "275",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "এই খাদ্যবিধৰ নাম কি?",
+        "answer": "মেপো টফু",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "এই খাদ্যবিধৰ নাম কি?",
+        "answer": "কেপ্ৰেছ চালাড",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "এই খাদ্যবিধৰ নাম কি?",
+        "answer": "পেড থাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "বাওঁফালে থকা গাড়ীখনৰ আকৃতি কি?",
+        "answer": "ভল্কছৱেগেন",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "এই কাৰখানাই কি তৈয়াৰ কৰে?",
+        "answer": "কেমেৰা",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "গাড়ীখনৰ সেউজীয়া লোগোটো কি?",
+        "answer": "দানৱ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "এই সীমাচিহ্নটোৰ নাম কি?",
+        "answer": "ট্ৰেভি ফাউণ্টেইন",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "এই সীমাচিহ্নটোৰ নাম কি?",
+        "answer": "আনবাৰিয়া মছজিদ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "এই সীমাচিহ্নটোৰ নাম কি?",
+        "answer": "বাওচু পেগোডা",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "এই বেংকনোটৰ অংকিত মূল্য কিমান?",
+        "answer": "পাঁচটা <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "এই বেংকনোটটো কি?",
+        "answer": "দহ পাউণ্ড <OR> 10 পাউণ্ড <OR> ব্ৰিটিছ পাউণ্ড",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "এই বেংকনোটটোৱে কি ধৰণৰ মুদ্ৰাক প্ৰতিনিধিত্ব কৰে?",
+        "answer": "ছুইডেনৰ <OR> ক্ৰোনাৰ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "কোনটো বুকুৰ এক্সৰে ৰোগ পোৱা যাব পাৰে? (বিকল্পসমূহৰ ভিতৰত আছেঃ এটেক্টাছিছ; কাৰ্ডিওমেগেলি; এফ্যুজন; প্ৰৱেশ; ভৰ; নোডুল; নিউমোনিয়া; নিউমোথোৰেক্স; একত্ৰীকৰণ; এডিমা; এম্ফিচিমা; ফাইব্ৰ \"ছিছ; প্লুৰেল থিকনিং; হাৰ্নিয়া।)",
+        "answer": "কাৰ্ডিওমেগেলি",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "কোনটো বুকুৰ এক্সৰে ৰোগ পোৱা যাব পাৰে? (বিকল্পসমূহৰ ভিতৰত আছেঃ এটেক্টাছিছ; কাৰ্ডিওমেগেলি; এফ্যুজন; প্ৰৱেশ; ভৰ; নোডুল; নিউমোনিয়া; নিউমোথোৰেক্স; একত্ৰীকৰণ; এডিমা; এম্ফিচিমা; ফাইব্ৰ \"ছিছ; প্লুৰেল থিকনিং; হাৰ্নিয়া।)",
+        "answer": "হাৰ্নিয়া",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "কোনটো বুকুৰ এক্সৰে ৰোগ পোৱা যাব পাৰে? (বিকল্পসমূহৰ ভিতৰত আছেঃ এটেক্টাছিছ; কাৰ্ডিওমেগেলি; এফ্যুজন; প্ৰৱেশ; ভৰ; নোডুল; নিউমোনিয়া; নিউমোথোৰেক্স; একত্ৰীকৰণ; এডিমা; এম্ফিচিমা; ফাইব্ৰ \"ছিছ; প্লুৰেল থিকনিং; হাৰ্নিয়া।)",
+        "answer": "অনুপ্ৰৱেশ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "ইয়াত কিমানবিধ চৰাই আছে?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "কিমানবোৰ টমেটো আছে?",
+        "answer": "5",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "কিমানখন কিতাপ আছে?",
+        "answer": "63",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "ছবিখনৰ সকলো দৃশ্যৰ পাঠ কি?",
+        "answer": "S3302CD",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "ছবিখনৰ সকলো দৃশ্যৰ পাঠ কি?",
+        "answer": "লক্ষ্মী জুৱেলৰ্ছ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "ছবিখনৰ সকলো দৃশ্যৰ পাঠ কি?",
+        "answer": "সৰু বৰদিনৰ আনন্দ উপভোগ কৰক",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "ছবিখনৰ সকলো দৃশ্যৰ পাঠ কি?",
+        "answer": "5ঃ30পিএম <আৰু> 88 শতাংশ <আৰু> মাৰিঅ 'কাৰ্ট 8 ডিলাক্স <আৰু> মাৰিঅ' কাৰ্ট 8 ডিলাক্স <আৰু> চুপাৰ মাৰিঅ 'অডিচি <আৰু> জেল্ডাৰ বংশধৰ <আৰু> ব্ৰিথ অৱ ৱাইল্ড <আৰু> বিকল্পসমূহ <আৰু> আৰম্ভ কৰক",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "ছবিখনৰ সকলো দৃশ্যৰ পাঠ কি?",
+        "answer": "মিষ্টাৰ উইলিয়াম শাকেস্পেয়াৰ্ছ <আৰু> কমেডি, ইতিহাস, আৰু ট্ৰেজিডিজ। <আৰু> ট্ৰু অৰিজিনেল কপিৰ মতে প্ৰকাশ কৰা হৈছে।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "ছবিখনৰ সকলো দৃশ্যৰ পাঠ কি?",
+        "answer": "1642 চনৰ কানেক্টিকাট আইন <AND> যদি কোনো পুৰুষ বা মহিলা ডাইনী হয়-অৰ্থাৎ কোনো পৰিচিত আত্মাৰ সৈতে পৰামৰ্শ লয়-তেওঁলোকক মৃত্যুদণ্ড দিয়া হ 'ব।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "এই যন্ত্ৰটোৰ ব্ৰেণ্ড কি?",
+        "answer": "মটৰ \"লা",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "অনুজ্ঞাপত্ৰ প্লেট নম্বৰটো কি?",
+        "answer": "এইডি-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "ছবিখনৰ সকলো ফৰাচী দৃশ্যৰ পাঠ কি?",
+        "answer": "ফ্ৰান্সৰ ইতিহাস <আৰু> প্ৰাচীন ইতিহাস আৰু বছৰ <আৰু> ৰাজকীয় ইতিহাস",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "ছবিখনৰ সকলো চীনা দৃশ্যৰ পাঠ কি?",
+        "answer": "<AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "কোনটো মহাদেশৰ ওপৰত আলোকপাত কৰা হৈছে?",
+        "answer": "এছিয়া",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "এই খাদ্য ৱেবৰ উৎপাদক কোন কোন?",
+        "answer": "ফাইটোপ্লেংক্টন <AND> সাগৰীয় শৈবাল",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "প্ৰতিটো নমুনাৰ কণাবোৰৰ গড় গতিশক্তিৰ তুলনা কৰক। তলৰ চিত্ৰবোৰে একেধৰণৰ বন্ধ, কঠোৰ পাত্ৰত গেছৰ দুটা বিশুদ্ধ নমুনা দেখুৱায়। প্ৰতিটো ৰঙীন বল এটা গেছ কণক প্ৰতিনিধিত্ব কৰে। দুয়োটা নমুনাতে সমান সংখ্যক কণিকা থাকে। কোনটো নমুনাৰ উষ্ণতা বেছি? নমুনা এ নে নমুনা বি?",
+        "answer": "নমুনা এ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "এই হাইলাইট কৰা চহৰসমূহৰ ভিতৰত কোনখন উত্তৰ দিশত আটাইতকৈ দূৰত আছে?",
+        "answer": "চিকাগো",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "এই ফটোখন ক \"ত তোলা হৈছে?",
+        "answer": "টাৰ্কি <OR> ছিৰিয়া",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "এই ফটোখন ক \"ত তোলা হৈছে?",
+        "answer": "অস্কাৰ <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "এই ফটোখন ক \"ত তোলা হৈছে?",
+        "answer": "কাটাৰ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "এই ফটোখন কোনখন দেশত তোলা হৈছিল?",
+        "answer": "অষ্ট্ৰেলিয়া",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "গছবোৰ জিৰাফতকৈ ওখ নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "এই বিমানখনে উৰা মাৰিছে নে অৱতৰণ কৰিছে?",
+        "answer": "আঁতৰোৱা",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "কিমানজন লোক বহি আছে?",
+        "answer": "এটা",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "আবৰ্জনাবোৰ খালী নে ভৰি আছে?",
+        "answer": "খালী",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "জিৰাফটো বিপদজনক যেন লাগিছে নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "পানীত জেব্ৰাৰ কোনো প্ৰতিবিম্ব আছে নেকি?",
+        "answer": "হয়।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "মানুহটো সুখীনে?",
+        "answer": "হয়।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "সকলো কুকুৰৰ ৰং একেই নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "বেকগ্রাউণ্ডত সেই সুৰা আছে নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "মানুহজনে পৰি যাব নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "কোন ঠাইখন চিত্ৰিত হৈছে?",
+        "answer": "উপকূল",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "বাহিৰত আছে নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "বতৰ কেনেকুৱা?",
+        "answer": "পৰিষ্কাৰ কৰক <OR> ৰ 'দ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "ধাতুৰে নিৰ্মিত বেৰৰ ৰং কি?",
+        "answer": "সেউজীয়া",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "মানুহজনৰ বাওঁফালৰ ব্যক্তিজন বহি থকা যেন লাগিছে নেকি?",
+        "answer": "হয়।",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "টেবুলখনৰ প্লেটটো লেতেৰা আৰু ৰূপালী দুয়োটাই নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "পৰ্দাটো ছবিখনৰ সোঁফালে নে বাওঁফালে?",
+        "answer": "বাওঁফালে",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "এই ফটোখনত কম্পিউটাৰ আছে নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "চাউলৰ বাওঁফালে বাচনৰ তলত নেপকিন আছে নেকি?",
+        "answer": "হয়।",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "ইয়াত বাদাম বা শাক-পাচলি আছে নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "এই ছবিখনত প্লেট আৰু কাঁটাগাৰ দুয়োটাই আছে নেকি?",
+        "answer": "হয়।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "এই চৰাইটোক কি বুলি কোৱা হয়?",
+        "answer": "তোতা <OR> কন্যুৰ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "ছবিখনৰ কোনটো জন্তু ডাঙৰ, মেকুৰী নে কুকুৰ?",
+        "answer": "বিড়াল",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "সোঁফালৰ ডেস্কত লেপটপটোৰ বাওঁফালে কি আছে?",
+        "answer": "টেবুল লেম্প <OR> ডেস্ক লেম্প",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "পুৰুষে ঘোঁৰা চলাই নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "চাৰ্ফৰটো ছাৰ্ফব \"ৰ্ডৰ বাওঁফালে নে সোঁফালে?",
+        "answer": "বাওঁফালে",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "লাইটটো কি, চাইড টেবুল নে নাইট ষ্টেণ্ড?",
+        "answer": "কাষৰ টেবুল",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "ষ্টাম্প আৰু বেৰ দুয়োটাৰ মাজত কি মিল আছে?",
+        "answer": "উপাদানসমূহ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "চামুচটো চপষ্টিকৰ দৰে একে সামগ্ৰীৰে তৈয়াৰ কৰা হয় নেকি?",
+        "answer": "হয়।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "চাৰ্টখনৰ চিলাটোৰ পৰা বেলেগ ৰং আছে নেকি?",
+        "answer": "হয়।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "এই সকলো লোকৰ লিংগ একেই নেকি?",
+        "answer": "নাই",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "এই দুয়োটা জীৱ-জন্তুৰ মাজত পাৰ্থক্য আছে নেকি?",
+        "answer": "হয়।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "মানুহবোৰ ক \"ত আছে? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "তেওঁলোক এখন মহাবিদ্যালয়ৰ শ্ৰেণীকোঠাত আছে। মই এনেকুৱা ভাবিছোঁ কাৰণ তেওঁ কলেজৰ বয়সৰ যুৱতী যেন লাগিছে, আৰু তেওঁলোকৰ চাৰিওফালে ডেস্ক আৰু চেয়াৰে আগুৰি আছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "মানুহবোৰে কিয় ক \"লা কাপোৰ পিন্ধে? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "তেওঁলোকে অন্ত্যেষ্টিক্ৰিয়াত যাব। মই এনেকুৱা ভাবিছোঁ কাৰণ মানুহে অন্ত্যেষ্টিক্ৰিয়াত ক 'লা কাপোৰ পিন্ধাটো পৰম্পৰাগত।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "মহিলাগৰাকীয়ে কিয় কাপোৰ পিন্ধি আছে? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "তাই বিচনাৰ বাবে সাজু হৈ আছে। মই এনেকুৱা ভাবিছোঁ কাৰণ কোঠাটো এটা শোৱনি কোঠা যেন লাগিছে আৰু মহিলাগৰাকী তেওঁৰ বিচনাৰ সাধাৰণ দিশত গৈ আছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "এই ঘটনা ক \"ত সংঘটিত হৈছে? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "এইটো এটা ফেঞ্চি ৰেষ্টুৰেণ্টত সংঘটিত হৈছে। মই এনেকুৱা ভাবিছোঁ কাৰণ মানুহজনে ফেনচিলি পোছাক পিন্ধি আছে আৰু পটভূমিটো আকৰ্ষণীয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "দৃশ্যটোত এতিয়া গ্ৰীষ্মকাল নেকি? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "নহয়, পৰি যোৱা যেন লাগিছে। মই এনেকুৱা ভাবিছোঁ কাৰণ পটভূমিত কুঁহিয়াৰ আছে আৰু সেইবোৰ সাধাৰণতে পৰি যোৱাৰ সৈতে জড়িত।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "ৰঙা পোছাক পৰিধান কৰা মহিলাগৰাকী পুৰুষজনৰ ওপৰত, পোচাক পৰিধান কৰা মহিলাগৰাকীক চোৱাৰ বাবে খঙাল হ \"ব নেকি? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "হয়, ৰঙা পোচাক পৰিধান কৰা মহিলা আৰু পুৰুষক এগৰাকী দম্পতী যেন লাগে আৰু ৰঙা পোচাক পৰিধান কৰা মহিলা গৰাকীয়ে পুৰুষক অন্য women.I বুলি ভাবি চোৱাৰ প্ৰশংসা নকৰে কাৰণ এক-বিবাহ সম্পৰ্কত, সংগীসকলে ইজনে সিজনৰ প্ৰতি বিশ্বাসী হ 'ব বুলি আশা কৰা হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "মহিলাগৰাকীৰ দুয়োখন হাত বতাহত কিয় আছে? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "তেওঁ মাত্ৰ এটা বাস্কেটবল শ্বুট কৰিছিল। মই এনেকুৱা ভাবিছোঁ কাৰণ তেওঁৰ বাহুবোৰ বাস্কেটবল শ্বটৰ বাবে কোণযুক্ত আৰু সেইবোৰ বাস্কেটবলৰ খেলপথাৰত আছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "ল \"ৰাটোৱে কি ধৰণৰ স্কুললৈ যায়? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "ল \"ৰাটোৱে এখন ব্যক্তিগত বিদ্যালয়লৈ যায়, ৰাজহুৱা বিদ্যালয়লৈ নহয়। মই এনেকুৱা ভাবিছোঁ কাৰণ ল \"ৰাটোৱে সকলোৱে চুইট পিন্ধি আছে, ৰাজহুৱা বিদ্যালয়বোৰত ইয়াৰ প্ৰয়োজন নাই কিন্তু কিছুমান ব্যক্তিগত বিদ্যালয়ই কৰে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "এই ঘৰটোত মানুহ বাস কৰে নেকি? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "নাই, তেওঁলোকে নকৰে। মই এনেকুৱা ভাবিছোঁ কাৰণ তেওঁলোক সকলোৱে চিত্ৰ আৰু সজ্জাৰ ফালে চাই আছে, যিবোৰ যদি সেইবোৰ চাবলৈ অভ্যস্ত হয় তেন্তে কোনোৱে নকৰে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "বগা পোছাক পৰিধান কৰা পুৰুষ আৰু মহিলা কিয় ইজনে সিজনৰ ইমান ওচৰ চাপিছে? ইয়াৰ উত্তৰ দিয়ক আৰু যুক্তি দিয়ক।",
+        "answer": "তেওঁলোকে এইমাত্ৰ বিবাহপাশত আবদ্ধ হৈছিল। মই এনেকুৱা ভাবিছোঁ কাৰণ তেওঁলোক বিবাহৰ সাজত আছে আৰু সকলোৱে তেওঁলোকৰ ফালে চাই আছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "আপুনি এই মিমটো ব্যাখ্যা কৰিব পাৰিবনে?",
+        "answer": "এই মিমটো হৈছে বিলম্ব আৰু এটা নিৰ্দিষ্ট সময়লৈকে কাম বিলম্বিত কৰাৰ প্ৰৱণতাৰ ওপৰত এক হাস্যৰসাত্মক পদক্ষেপ। মিমত থকা ব্যক্তিয়ে 8 বজাত কিবা এটা কৰাৰ পৰিকল্পনা কৰে, কিন্তু যেতিয়া তেওঁলোকে সেই সময়সীমা কেইমিনিটমান হেৰুৱাই পেলায়, তেতিয়া তেওঁলোকে তাৰ পৰিৱৰ্তে 9 বজালৈকে অপেক্ষা কৰাৰ সিদ্ধান্ত লয়। বিচনাত পৰি থকা কেৰমিট দ্য ফ্ৰগৰ ছবিয়ে ব্যক্তিজনৰ অলসতা আৰু কামটো সম্পূৰ্ণ কৰিবলৈ প্ৰেৰণাৰ অভাৱক প্ৰতিনিধিত্ব কৰে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "আপুনি এই মিমটো ব্যাখ্যা কৰিব পাৰিবনে?",
+        "answer": "এই মিমটো হৈছে ক \"ভিড-19 মহামাৰীৰ ফলত হোৱা অনলাইন শিক্ষাৰ বৰ্তমানৰ পৰিস্থিতিৰ ওপৰত এক ভাষ্য। ই দেখুৱায় যে ইয়াৰ দ্বাৰা বিভিন্ন পক্ষ কেনেদৰে প্ৰভাৱিত হয়। \\n\\n প্ৰথম দুখন ছবিত জুম কোম্পানী আৰু শিক্ষকসকলে বতাহত ধন নিক্ষেপ কৰা দেখা গৈছে, যাৰ অৰ্থ হৈছে যে তেওঁলোকে পৰিস্থিতিৰ পৰা লাভান্বিত হৈছে। বিশেষকৈ মহামাৰীৰ বাবে জুমৰ ব্যৱহাৰ আৰু ৰাজহ বৃদ্ধি পাইছে। \\n\\n তৃতীয় ছবিখনত ৱাইফাই কোম্পানীয়েও বতাহত ধন নিক্ষেপ কৰা দেখা গৈছে, যাৰ অৰ্থ হৈছে যে তেওঁলোকেও পৰিস্থিতিৰ পৰা লাভান্বিত হৈছে কিয়নো অধিক লোকে অনলাইন শিক্ষণৰ বাবে ইণ্টাৰনেট ব্যৱহাৰ কৰি আছে। \\n\\n শেষৰ ছবিয়ে এগৰাকী ছাত্ৰীক দুখজনক ক্লাউন মুখৰ সৈতে দেখুৱাইছে, যাৰ অৰ্থ হৈছে যে শিক্ষাৰ্থীসকলে পৰিস্থিতিৰ পৰা লাভান্বিত হোৱা নাই আৰু অনলাইন শিক্ষণৰ সৈতে সংগ্ৰাম কৰি আছে। পটভূমিত থকা \"সুখী মুখত ৰাখক\" চিহ্নটোৱে এই ধাৰণাটোৰ ওপৰত অধিক গুৰুত্ব আৰোপ কৰে যে ছাত্ৰ-ছাত্ৰীসকলে তেওঁলোকৰ সংগ্ৰামৰ স্বত্বেও সাহসী মুখ পিন্ধি আছে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "আপুনি এই মিমটো ব্যাখ্যা কৰিব পাৰিবনে?",
+        "answer": "আইচলেণ্ড আৰু গ্ৰীণলেণ্ড দেশসমূহৰ নামবোৰ বিপথে পৰিচালিত হোৱাটো এই মিমটোৱে ধেমালি কৰিছে। ইয়াৰ নাম থকা স্বত্বেও আইচলেণ্ড ইয়াৰ সুন্দৰ সেউজীয়া ভূ-দৃশ্যৰ বাবে জনাজাত, আনহাতে গ্ৰীণলেণ্ড বেছিভাগ বৰফ আৰু বৰফেৰে আবৃত। মিমটোত কোৱা হৈছে যে ব্যক্তিগৰাকীৰ বিশ্বাসৰ সমস্যা আছে কাৰণ এই দেশসমূহৰ নামসমূহে তেওঁলোকৰ দৃশ্যপট সঠিকভাৱে প্ৰতিনিধিত্ব নকৰে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "আপুনি এই মিমটো ব্যাখ্যা কৰিব পাৰিবনে?",
+        "answer": "এই মিমে পৰীক্ষাৰ সময়ত এজন শিক্ষাৰ্থীৰ লিখনি কেনেদৰে অৱনতি ঘটে তাক লৈ ধেমালি কৰিছে। প্ৰথম দুটা পৃষ্ঠাত পৰিষ্কাৰ আৰু সুপাঠ্য হস্তলিপি দেখুওৱা হৈছে, মাজৰ পৃষ্ঠাত অলপ জটিল হস্তলিপি দেখুওৱা হৈছে, আৰু শেষৰ দুটা পৃষ্ঠাত সম্পূৰ্ণৰূপে অবৈধ লিখনি দেখুওৱা হৈছে। ইয়াৰ কাৰণ হ \"ব পাৰে পৰীক্ষা আগবাঢ়ি যোৱাৰ লগে লগে শিক্ষাৰ্থীগৰাকী ভাগৰুৱা বা খৰধৰ হৈ পৰে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "আপুনি এই মিমটো ব্যাখ্যা কৰিব পাৰিবনে?",
+        "answer": "এই মিমটো হৈছে কেনেকৈ নতুন মহাবিদ্যালয়ৰ ছাত্ৰ-ছাত্ৰীসকলে (নতুন ছাত্ৰ-ছাত্ৰী) প্ৰায়ে টোকা ল 'বলৈ আৰু শ্ৰেণীত তেওঁলোকে কৰিব পৰা সকলো কথা শিকিবলৈ আগ্ৰহী হয় সেই বিষয়ে এটা কৌতুক। ছবিখন স্পঞ্জবব স্কোৱেৰপেণ্টছৰ কাৰ্টুনৰ পৰা লোৱা হৈছে, য \"ত স্পঞ্জবব আৰু পেট্ৰিকে উন্মত্তভাৱে টোকা লিখি আছে। শিৰোনামটোৱে বুজায় যে নৱাগতসকলে জানিবলৈ ইমান আগ্ৰহী যে তেওঁলোকে আনকি অধ্যাপকজনৰ অভিবাদন লিখি আছে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "এই ছবিখনৰ বিষয়ে হাস্যৰসাত্মক কি?",
+        "answer": "এইটো এটা ছবি চিত্ৰ কৰা গঁড়ৰ কাৰ্টুন আৰু প্ৰতিটো ছবিত ইয়াৰ নিজৰ গঁড়ৰ শিঙ আছে কাৰণ গঁড়ৰ শিঙটো ইয়াৰ চকুৰ সন্মুখত বৃদ্ধি পায়। শিৰোনামটো হৈছে \"আপুনি পৃথিৱীখনক আপোনাৰ দৰেই দেখে!\" আমাৰ দৃষ্টিভংগীয়ে পৃথিৱীৰ প্ৰতি আমাৰ ধাৰণাক কেনেদৰে আকৃতি দিয়ে তাৰ ওপৰত এক কৌতুকপূর্ণ ভাষ্য।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "এই ছবিখনৰ বিষয়ে হাস্যৰসাত্মক কি?",
+        "answer": "কিছুমান বস্তু আছে যিবোৰ মানুহে এই ছবিখনৰ বিষয়ে ধেমেলীয়া অনুভৱ কৰিব পাৰেঃ \\n\\n1। দুয়োখন ছবিৰ মাজত পাৰ্থক্যঃ বাওঁফালে, আমি দুগৰাকী মহিলাক দেখিছোঁ যিসকল অতি আৱেগিক আৰু খঙাল, আনহাতে সোঁফালে, আমি এটা মেকুৰীক দেখিছোঁ যি শান্তভাৱে নৈশ আহাৰৰ টেবুলত বহি আছে। \\n\\n2। মেকুৰীটোৰ পৰিস্থিতিৰ অযৌক্তিকতাঃ এটা মেকুৰীক ৰাতিৰ আহাৰৰ টেবুলত বহি থকা দেখা পোৱাটো সাধাৰণ কথা নহয়, সেয়েহে এই ছবিখন অপ্ৰত্যাশিত আৰু হাস্যৰসাত্মক। \\n\\n3। মেকুৰীটোৰ অভিব্যক্তিঃ মেকুৰীটোৱে মহিলাগৰাকীৰ চিঞৰ-বাখৰত আতংকিত হোৱা যেন লাগিছে, যিয়ে ছবিখনৰ হাস্যৰস বৃদ্ধি কৰে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "কোনবোৰ অনুষ্ঠানত কোনোবাই এই মেম ব্যৱহাৰ কৰিব?",
+        "answer": "টোপনি যোৱা মানুহগৰাকীৰ সৈতে মিম আৰু চীনা শিৰোনামটো \"চাইকিং টাইম চাইকিং টাইম চাইকিং\" (টোপনি যোৱাৰ সময়ৰ বাহিৰে, মই শুব নিবিচাৰো। কিন্তু আন সময়ত, মই শুব বিচাৰো) বিভিন্ন অনুষ্ঠানত ব্যৱহাৰ কৰিব পাৰি য 'ত টোপনি অহা বা দ্বন্দ্বপূৰ্ণ ইচ্ছা থকাৰ বিষয়বস্তু প্ৰাসংগিক। ইয়াত কেইটামান পৰিস্থিতি আছে য 'ত এই মিমটো উপযুক্ত হ' ব পাৰেঃ \n \n সম্পৰ্কিত টোপনিঃ দিনত ভাগৰুৱা বা টোপনি অহাৰ সম্পৰ্কিত অনুভৱ প্ৰকাশ কৰোঁতে সামাজিক মাধ্যমত বা কথোপকথনত মিমটো ভাগ বতৰা কৰিব পাৰি। ই সেই সম্পৰ্কিত অভিজ্ঞতা প্ৰকাশ কৰাৰ আৰু সম্পৰ্কিত কৰিব পৰা আনৰ পৰা এক হাস্যৰসাত্মক প্ৰতিক্ৰিয়া সৃষ্টি কৰাৰ এক লঘু হৃদয়ৰ উপায় হিচাপে কাম কৰিব পাৰে। \n \n কৰ্ম বা অধ্যয়ন-সম্পৰ্কীয় হাস্যৰসঃ এই মেমটো কৰ্ম বা অধ্যয়ন-সম্পৰ্কীয় সন্দৰ্ভত ব্যৱহাৰ কৰি মনোযোগ আৰু মনোযোগৰ প্ৰয়োজন হোৱা কামৰ সময়ত টোপনি যোৱা বা টোপনি যোৱাৰ ইচ্ছা হাস্যৰসাত্মকভাৱে প্ৰকাশ কৰিব পাৰি। মেজাজ পাতল কৰিবলৈ আৰু জাগ্ৰত আৰু সতৰ্ক হৈ থকাৰ প্ৰত্যাহ্বানসমূহৰ বিষয়ে এক অংশীদাৰী বুজাবুজি সৃষ্টি কৰিবলৈ ইয়াক সহকৰ্মী বা সহপাঠীসকলৰ মাজত ভাগ বতৰা কৰিব পাৰি। \n \n বিলম্ব হাস্যৰসঃ উৎপাদনশীল কাৰ্যকলাপত লিপ্ত হোৱাৰ পৰিৱৰ্তে শুৱা বা বিশ্ৰাম কৰাৰ ইচ্ছাৰ মাজৰ আভ্যন্তৰীণ সংগ্ৰামক চিত্ৰিত কৰিবলৈও মিমটো ব্যৱহাৰ কৰিব পাৰি। দায়িত্ব পৰিহাৰ কৰা আৰু শিথিলতাত লিপ্ত হোৱাৰ নিৰন্তৰ ইচ্ছাৰ ওপৰত বিলম্ব বা হাস্যৰসাত্মক আত্ম-প্ৰতিফলনৰ বিষয়ে আলোচনা কৰোঁতে ইয়াক ভাগ বতৰা কৰিব পাৰি। \n \n কমেডিক বিদ্রূপঃ টোপনি যোৱাৰ সময় আৰু আন সময়ত শুবলৈ বিচৰাৰ মাজত মিমৰ বিৰোধিতা বিভিন্ন সন্দৰ্ভত কমেডিক বিদ্রূপৰ এক ৰূপ হিচাপে ব্যৱহাৰ কৰিব পাৰি। আমাৰ ইচ্ছা বা আচৰণে কি আশা কৰা হৈছে বা উপযুক্ত তাৰ বিৰোধিতা কৰা পৰিস্থিতিৰ বিষয়ে আলোচনা কৰোঁতে ইয়াক ভাগ বতৰা কৰিব পাৰি, যাৰ ফলত কথোপকথনত এক হাস্যৰসাত্মক টুইষ্ট যোগ হয়। \n \n অৱশেষত, মেমটো বিভিন্ন পৰিস্থিতিত ব্যৱহাৰ কৰিব পাৰি য 'ত ইয়াৰ নিদ্ৰা, দ্বন্দ্বপূৰ্ণ ইচ্ছা, বা বিদ্রূপাত্মক পৰিস্থিতিৰ বিষয়বস্তু আলোচনা কৰা বিষয় বা অনুভূতিৰ সৈতে একত্ৰিত হয়, যাৰ ফলত কথোপকথন বা অনলাইন কথোপকথনত হাস্যৰস আৰু সম্পৰ্কৰ এক স্পৰ্শ যোগ হয়।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "কোনবোৰ অনুষ্ঠানত কোনোবাই এই মেম ব্যৱহাৰ কৰিব?",
+        "answer": "সাধাৰণতে \"স্ক্ৰিমিং পাণ্ডা\" নামেৰে জনাজাত এই মেমটো সাধাৰণতে শোক, বিস্ময় বা ভয় প্ৰকাশ কৰিবলৈ ব্যৱহাৰ কৰা হয়। ইয়াক এটা আচৰিত বা অপ্ৰত্যাশিত ঘটনাৰ প্ৰতিক্ৰিয়াত ব্যৱহাৰ কৰিব পাৰি, বা আতংক বা সতৰ্কবাণী প্ৰকাশ কৰিবলৈ ব্যৱহাৰ কৰিব পাৰি। কিছুমান সম্ভাৱ্য অনুষ্ঠান য 'ত কোনোবাই এই মিম ব্যৱহাৰ কৰিব পাৰে তাৰ ভিতৰত আছেঃ \\n\\n-এটা ভয়ংকৰ চলচিত্ৰত জাপ মৰাৰ ভয়ত প্ৰতিক্ৰিয়া প্ৰকাশ কৰা \\n-এটা টিভি শ্ব' বা কিতাপৰ এটা আচৰিত প্লট টুইষ্টৰ প্ৰতিক্ৰিয়া প্ৰকাশ কৰা \\n-এটা বাতৰিৰ শীৰ্ষক বা বৰ্তমানৰ অনুষ্ঠানত শোক প্ৰকাশ কৰা \\n-আগন্তুক সময়সীমা বা পৰীক্ষাৰ বিষয়ে ভয় বা উদ্বেগ প্ৰকাশ কৰা \\n-ক্ৰীড়া খেল বা আন প্ৰতিযোগিতাত অপ্ৰত্যাশিত ফলাফলত আচৰিত কৰা।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "কোনবোৰ অনুষ্ঠানত কোনোবাই এই মেম ব্যৱহাৰ কৰিব?",
+        "answer": "চীনা শিৰোনামৰ সৈতে \"কান্দি থকা মেকুৰী\" মিমটো \"মা!\" সাধাৰণতে দুখ, অসহায়তা বা সান্ত্বনা বিচৰাৰ অনুভূতি প্ৰকাশ কৰিবলৈ ব্যৱহাৰ কৰা হয়। ইয়াত কিছুমান অনুষ্ঠান আছে য 'ত কোনোবাই এই মেম ব্যৱহাৰ কৰিব পাৰেঃ \n \n দুৰ্বলতা প্ৰকাশ কৰাঃ মেমটো এটা দুৰ্বলতাৰ মুহূৰ্ত প্ৰকাশ কৰিবলৈ বা অভিভূত অনুভৱ কৰিবলৈ ব্যৱহাৰ কৰিব পাৰি। ই হাস্যৰসাত্মকভাৱে নিজৰ মাকক মাতিবলৈ আহ্বান জনোৱাৰ ধাৰণাটো আহ্বান কৰি আনৰ পৰা সমৰ্থন বা সহানুভূতি বিচৰাৰ অনুভূতি প্ৰকাশ কৰিব পাৰে। \n \n সান্ত্বনা বা সহানুভূতি বিচাৰিঃ বন্ধুবৰ্গ বা অনলাইন সম্প্ৰদায়ৰ পৰা সহানুভূতি বা সমৰ্থন জাগ্ৰত কৰিবলৈ এই মেমটো শ্বেয়াৰ কৰিব পাৰি। এটা সম্পৰ্কিত আৰু চিনাক্ত কৰিব পৰা মেম ফৰ্মেট ব্যৱহাৰ কৰি ই ফলপ্ৰসূভাৱে দুখ, হতাশা বা আৱেগিক সমৰ্থনৰ প্ৰয়োজনৰ অনুভূতি প্ৰকাশ কৰিব পাৰে। \n \n আত্ম-বিৰক্তিকৰ হাস্যৰসঃ ব্যক্তিগত পৰিস্থিতি বা সৰু সৰু দুৰ্ঘটনাৰ ওপৰত আলোকপাত কৰিবলৈ মীমটো আত্ম-বিৰক্তিকৰ ধৰণেও ব্যৱহাৰ কৰিব পাৰি। ই ব্যক্তিসকলক আন লোকক সান্ত্বনা বা আশ্বাস প্ৰদান কৰিবলৈ আমন্ত্ৰণ জনোৱাৰ সময়ত তেওঁলোকৰ নিজৰ অনুভৱ কৰা \"অসহায়তা\" ৰ মুহূৰ্তবোৰ হাস্যৰসাত্মকভাৱে আলোকপাত কৰিবলৈ অনুমতি দিয়ে। \n \n কৌতুকপূর্ণ আৱেগিক অতিৰঞ্জিততাঃ মিমটোৰ নাটকীয় আৰু অতিৰঞ্জিত অভিব্যক্তি এটা পৰিস্থিতি বা ঘটনাৰ ওপৰত গুৰুত্ব দিবলৈ এক কৌতুকপূর্ণ ধৰণে ব্যৱহাৰ কৰিব পাৰি যিটো কষ্টদায়ক নহয় কিন্তু মনোযোগ বা যত্নৰ প্ৰয়োজন হ 'ব পাৰে। সৰু-সুৰা অসুবিধা বা হাস্যৰসাত্মক অতিশয়োক্তি প্ৰকাশ কৰোঁতে ই এক হাস্যৰসাত্মক স্পৰ্শ যোগ কৰিব পাৰে। \n \n এইটো মন কৰাটো গুৰুত্বপূৰ্ণ যে মেমৰ ব্যৱহাৰ আৰু ব্যাখ্যা বেলেগ বেলেগ হ 'ব পাৰে, আৰু ব্যক্তিসকলে ইয়াক বিভিন্ন প্ৰসংগৰ সৈতে খাপ খোৱাৰ সৃষ্টিশীল উপায় বিচাৰিব পাৰে। ওপৰত পৰামৰ্শ দিয়া অনুষ্ঠানবোৰে এই মেমটো ইয়াৰ সাধাৰণ বিষয়বস্তু আৰু আৱেগিক স্বৰৰ ওপৰত আধাৰিত কৰি কেতিয়া ব্যৱহাৰ কৰিব পাৰি তাৰ এক সাধাৰণ বোধগম্যতা প্ৰদান কৰে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "এই খাদ্য কেনেকৈ ৰান্ধিব?",
+        "answer": "এই ব্যঞ্জনটোক \"হাঙ্গেৰিয়ান কাঠফুলাৰ চুপ\" বুলি কোৱা হয়। এই হাংগেৰিয়ান কাঠফুলাৰ চুপত যথেষ্ট সোৱাদ আছে আৰু ইয়াক যথেষ্ট দ্ৰুতভাৱে তৈয়াৰ কৰিব পাৰি। ই মূলতঃ কাঠফুলাৰ চুপ কিন্তু ইয়াৰ বহুতো সোৱাদ অন্যান্য উপাদানৰ পৰা আহৰণ কৰা হয়। মোৰ পৰিয়ালে চুপ ভাল পায় আৰু এইটো তেওঁলোকৰ অন্যতম প্ৰিয়। \n \n \n প্ৰস্তুত কৰাৰ সময়ঃ \n 15 মিনিট \n ৰন্ধাৰ সময়ঃ \n 35 মিনিট \n মুঠ সময়ঃ \n 50 মিনিট \n পৰিৱেশনঃ \n 6 \n \n \n উপাদানসমূহ \n \n 4 চামুচ নিমখীয়া মাখন \n \n 2 কাপ কটা পিয়াজ \n \n 1 পাউণ্ড সতেজ কাঠফুলা, কটা \n \n \n 2 কাপ চিকেন ব্ৰথ \n \n 1 চামুচ চ 'য়া চ' চ \n \n \n পিয়াজ যোগ কৰক; ৰান্ধক আৰু কোমল নোহোৱালৈকে ঢালি দিয়ক, প্ৰায় 5 মিনিট। কাঠফুলা যোগ কৰক আৰু আৰু 5 মিনিটৰ বাবে ৰান্ধক। ব্ৰথ, চ 'য়া চ' চ, পেপ্ৰিকা আৰু ডিলত ঢালি দিয়ক; তাপ কম কৰক, ঢাকি ৰাখক আৰু 15 মিনিটৰ বাবে সিজাই দিয়ক। \n \n পদক্ষেপ 2 \n গাখীৰ আৰু আটা একেলগে এটা পৃথক বাটিৰ ভিতৰত ঢালি দিয়ক; মিশ্ৰিত নোহোৱালৈকে চুপত ঢালি দিয়ক। আৱৰণ কৰক আৰু আৰু 15 মিনিটৰ বাবে সিজাই দিয়ক, মাজে মাজে ঢালি দিয়ক। \n \n পদক্ষেপ 3 \n টেঙা ক্ৰীম, পাৰ্চলি, নেমুৰ ৰস, নিমখ, আৰু পিহি থোৱা ক 'লা জালুক যোগ কৰক; প্ৰায় 3ৰ পৰা 5 মিনিট গৰম নোহোৱালৈকে কম গৰমত ঢালি দিয়ক। লগে লগে পৰিৱেশন কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "এইটো কেনেকৈ কৰিব?",
+        "answer": "ইয়াক \"স্পার্কলিং কেণ্টালুপ আগুৱা ফ্ৰেস্কা\" বুলি কোৱা হয়। কেণ্টালুপ আৰু চূণৰ ৰসৰ সৈতে ক্লাব চোডাৰ সৈতে এই সতেজ আগুৱা ফ্ৰেচকা গৰমৰ দিনত নিখুঁত। \n \n প্ৰস্তুতিৰ সময়ঃ \n 15 মিনিট \n মুঠ সময়ঃ \n 15 মিনিট \n পৰিৱেশনঃ \n 8 \n \n উপাদানসমূহ \n \n 2 পাউণ্ড সতেজ কেণ্টালুপ কিউব (6 কাপ) \n \n 2 কাপ পানী \n \n 6 চামুচ সতেজভাৱে চেপি লোৱা চূণৰ ৰস (2 চূণৰ পৰা) \n \n 3 চামুচ মৌ \n \n 1/4 চামুচ নিমখ \n \n \n 2 চামুচ ক্লাব চোডা, শীতল \n \n \n কেণ্টালুপ তৰমুজ বল বা কিউব, সাজসজ্জাৰ বাবে \n চালনীৰ জৰিয়তে টিপক; কঠিন বস্তুবোৰ আঁতৰাই দিয়ক। এটা পাত্ৰত সিজোৱা ৰস যোগ কৰক। \n \n পদক্ষেপ 2 \n পৰিৱেশনৰ বাবে সাজু নোহোৱালৈকে ঠাণ্ডা কৰক। পৰিৱেশন কৰাৰ ঠিক আগতে ক্লাব চোডা যোগ কৰক। বৰফৰ ওপৰত পৰিৱেশন কৰক, আৰু তৰমুজৰ বল আৰু চূণৰ জেষ্ট টুইষ্টৰে চশমা সজাই দিয়ক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "এই খাদ্য কেনেকৈ ৰান্ধিব?",
+        "answer": "এই ব্যঞ্জনটোক \"জিঞ্জাৰ গ্লেজড মাহী মাহী\" বুলি কোৱা হয়। মাহী মাহীৰ বাবে এই আদাৰ চাটনি সোৱাদেৰে ভৰি পৰে আৰু মিঠা আৰু টেঙা দুয়োটা সোৱাদৰ সংবেদনৰ সংমিশ্ৰণ কৰে। এই ৰন্ধন প্ৰণালীটো এক স্ন্যাপ আৰু অতি সুস্বাদু। তোমাৰ ভাল লাগিব! \n \n \n প্ৰস্তুত কৰাৰ সময়ঃ \n 5 মিনিট \n ৰন্ধাৰ সময়ঃ \n 10 মিনিট \n অতিৰিক্ত সময়ঃ \n 20 মিনিট \n মুঠ সময়ঃ \n 35 মিনিট \n পৰিৱেশনঃ \n 4 \n \n উপাদানসমূহ \n \n 3 চামুচ মৌ \n \n 3 চামুচ চ 'য়া চ' চ \n \n 3 চামুচ বালছামিক ভিনেগাৰ \n \n 2 চামুচ জলফাই তেল \n \n 1 চামুচ কটা সতেজ আদাৰ শিপা \n \n 1 লং নহৰু, বা সোৱাদ অনুসৰি পিহি পেলোৱা \n \n \n নিমখ আৰু জালুকৰ সৈতে মাছৰ ফিলেটবোৰ ঋতু কৰক; সেইবোৰ মাৰিনেডৰ সৈতে ডিছত ছালৰ ফালে ৰাখক। ঢাকি ৰাখক আৰু 20 মিনিটৰ বাবে ঠাণ্ডা কৰক। \n \n পদক্ষেপ 2 \n এখন ডাঙৰ পাত্ৰত পাচলিৰ তেল মধ্যম-উচ্চ গৰমত গৰম কৰক। মাছৰ ফিলেটবোৰ আঁতৰাই দিয়ক, মাৰিনেড সংৰক্ষণ কৰক। মাছবোৰ দুয়োফালে 4ৰ পৰা 6 মিনিট ভজাওক, মাত্ৰ এবাৰ ঘূৰাওক, যেতিয়ালৈকে মাছবোৰে কাঁটাৰে সহজে ফ্লেক্স নকৰে। ফিলেটবোৰ এটা চাৰ্ভাৰিং প্লেটাৰলৈ উলিয়াই দিয়ক আৰু গৰম কৰি ৰাখক। \n \n পদক্ষেপ 3 \n সংৰক্ষিত মাৰিনেড চুলিত ঢালি দিয়ক; গ্লেজলৈ হ্ৰাস নোহোৱালৈকে মধ্যমীয়া গৰমত সিজাই দিয়ক। মাছৰ ওপৰত চামুচ গ্লেজ কৰক আৰু পৰিৱেশন কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "এই খাদ্য কেনেকৈ ৰান্ধিব?",
+        "answer": "এই ব্যঞ্জনটোক \"ষ্ট্ৰবেৰী ৰুবাৰ্ব পাই\" বুলি কোৱা হয়। এই ষ্ট্ৰবেৰী ৰুবৰ্ব পাইটো আমাৰ ঘৰৰ বসন্তকালীন প্ৰিয় মিঠাই। ভৰণটোত মিঠা-টেঙা সোৱাদ থাকে; আপোনাৰ প্ৰিয় পাই ক্ৰাষ্টত বেক কৰক আৰু ভেনিলা আইচক্ৰীমৰ সৈতে পৰিৱেশন কৰক। \n \n প্ৰস্তুতিৰ সময়ঃ \n 20 মিনিট \n ৰন্ধাৰ সময়ঃ \n 35 মিনিট \n অতিৰিক্ত সময়ঃ \n 30 মিনিট \n মুঠ সময়ঃ \n 1 ঘণ্টা 25 মিনিট \n পৰিৱেশনঃ \n 8 \n উৎপাদনঃ \n 1 9 ইঞ্চি পাই \n \n উপাদানসমূহ \n \n \n 1 কাপ বগা চেনি \n \n 1 কাপ অল-পাৰ্পজ আটা \n \n 1 পাউণ্ড ৰুবৰ্ব, 1/4 ইঞ্চি টুকুৰাত কাটি \n \n 2 পিণ্ট ষ্ট্ৰবেৰী, হাল্লাড আৰু কোৱাৰ্টাৰেড \n \n 1 ৰেচিপি \n \n পদক্ষেপ 2 \n এটা ডাঙৰ বাটিৰ ভিতৰত আটা আৰু চেনি মিহলি কৰক। \n \n পদক্ষেপ 3 \n ষ্ট্ৰবেৰী আৰু কটা ৰুবৰ্ব যোগ কৰক। চেনি আৰু আটাৰ সৈতে ঢালি দিয়ক আৰু 30 মিনিটৰ বাবে থিয় হ 'বলৈ দিয়ক। \n \n পদক্ষেপ 4 \n প্ৰস্তুত পাই ক্ৰাষ্টত ভৰাই ঢালি দিয়ক। টপ টপ মাখনৰে ঢাকি দিয়ক, আৰু টপ ক্ৰাষ্টেৰে ঢাকি দিয়ক। ওপৰৰ আৰু তলৰ ভূত্বকৰ প্ৰান্তবোৰ পানীৰে বন্ধ কৰক। \n \n পদক্ষেপ 5 \n পেষ্ট্ৰী ব্ৰাছ ব্যৱহাৰ কৰি পাইৰ ওপৰত কুসুম প্ৰয়োগ কৰক। \n \n পদক্ষেপ 6 \n চেনি ছটিয়াই দিয়ক। \n \n পদক্ষেপ 7 \n ওপৰত সৰু সৰু গাঁত কাটি ভাপ ওলাবলৈ দিয়ক। \n \n পদক্ষেপ 8 \n 400 ডিগ্ৰী ফাৰেনহাইটত (200 ডিগ্ৰী চেলছিয়াছ), 35ৰ পৰা 40 মিনিটৰ বাবে, বা ফোঁপোলা আৰু বাদামী হৈ যোৱালৈকে বেক কৰক। ৰেকত ঠাণ্ডা কৰক। \n \n পদক্ষেপ 9 \n উপভোগ কৰক!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "এই খাদ্য কেনেকৈ ৰান্ধিব?",
+        "answer": "এই ব্যঞ্জনটোক \"প্ৰামাণিক চীনা কণী ৰোলছ\" বুলি কোৱা হয়। এই চীনা কণীৰ ৰোলবোৰ মোৰ মাকৰ পৰা আহিছে যি এতিয়ালৈকে সৰ্বশ্ৰেষ্ঠ ৰান্ধনী-আৰু মই এগৰাকী আকৰ্ষণীয় ভোজনকাৰী। যদি মোৰ এইটো ভাল লাগে, তেন্তে আপুনি কৰিব। এইটো অতি প্রামাণিক কাৰণ মোৰ পৰিয়াল চীনা আৰু মইও চীনা। এই ৰন্ধন প্ৰণালীটো লিংগ পৰিয়ালত কমেও 300 বছৰ পুৰণি। \n \n \n প্ৰস্তুতিৰ সময়ঃ \n 1 ঘণ্টা \n ৰন্ধাৰ সময়ঃ \n 30 মিনিট \n অতিৰিক্ত সময়ঃ \n 1 ঘণ্টা \n মুঠ সময়ঃ \n 2 ঘণ্টা 30 মিনিট \n পৰিৱেশনঃ \n 20 \n উৎপাদনঃ \n 20টা কণী ৰোল \n \n \n উপাদানসমূহ \n \n 4 চামুচ পাচলিৰ তেল, ভাগ কৰা \n \n 3টা ডাঙৰ কণী, পিটাই \n \n 1টা মধ্যমীয়া মূৰৰ বন্ধাকবি, ভালদৰে কটা \n \n [00 1⁄2 গাজৰ, জুলিয়েন কৰা \n \n 1 পাউণ্ড চীনা বাৰ্বে পিট কৰা কণীবোৰ ঢালি দিয়ক আৰু জোকাৰি নাযাকৈ, দৃঢ় নোহোৱালৈকে ৰান্ধক। কণীবোৰ উলিয়াওক আৰু আনটো ফালে দৃঢ় কৰিবলৈ অতিৰিক্ত 20 ছেকেণ্ডৰ বাবে ৰান্ধক। কণীৰ পেনকেক ঠাণ্ডা হ 'বলৈ এৰাই ৰাখক, তাৰ পিছত পাতল টুকুৰাত কাটি লওক। \n \n পদক্ষেপ 2 \n বাকী থকা বনস্পতি তেল এখন ৱাক বা ডাঙৰ পাত্ৰত বেছি গৰমত গৰম কৰক। বন্ধাকবি আৰু গাজৰ মিহলি কৰক; শুকাই যোৱালৈকে 2 মিনিট ৰান্ধক। গাহৰিৰ মাংস, বাঁহৰ ডাল, কাঠফুলা, সেউজীয়া পিয়াজ, চ 'য়া চ' চ, নিমখ, চেনি আৰু এম. এছ. জি যোগ কৰক; শাক-পাচলি কোমল নোহোৱালৈকে ৰান্ধক, প্ৰায় 6 মিনিট। কটা কণী ঢালি দিয়ক, তাৰ পিছত মিশ্ৰণটো এটা পাত্ৰত বিস্তাৰ কৰক, আৰু প্ৰায় 1 ঘণ্টা ঠাণ্ডা হোৱালৈকে ঠাণ্ডা কৰক। কণীৰ ৰোলবোৰ একত্ৰিত কৰিবলৈ পদক্ষেপ 3 \n: আপোনাৰ কামৰ পৃষ্ঠত এটা ৰেপাৰ ৰাখক আৰু এটা কোণ আপোনাৰ ফালে আঙুলিয়াই দিয়ক। ৰেপাৰৰ তলৰ তৃতীয়াংশত এটা স্তূপত প্ৰায় 3 চামুচ শীতল ভৰণ ৰাখক। ৰেপাৰৰ ওপৰৰ দুটা কাষেৰে সৰু সৰু কণীৰ বগা অংশ ব্ৰাছ কৰক, তাৰ পিছত তলৰ কোণটো ফিলিংৰ ওপৰত ভাঁজ কৰক আৰু আধা বিন্দুলৈ দৃঢ়ভাৱে ঘূৰাই দিয়ক। কণীৰ ৰোলৰ ওপৰত বাওঁ আৰু সোঁফালবোৰ মসৃণভাৱে ভাঁজ কৰক, তাৰ পিছত ওপৰৰ কোণবোৰে কণীৰ ৰোলটো কণীৰ বগা অংশৰ সৈতে বন্ধ নকৰালৈকে ঘূৰাই থাকক। বাকী থকা কণীৰ ৰোল ৰেপাৰৰ সৈতে পুনৰাবৃত্তি কৰক, শুকাই যোৱাৰ পৰা ৰক্ষা কৰিবলৈ প্লাষ্টিকৰ ৰেপৰ সৈতে সমাপ্ত কণীৰ ৰোল ঢাকি দিয়ক। \n \n পদক্ষেপ 4 \n ৱক বা ডিপ-ফ্ৰায়াৰত প্ৰায় 6 ইঞ্চি তেল 350 ডিগ্ৰী ফাৰেনহাইটলৈ (175 ডিগ্ৰী চেলছিয়াছ) গৰম কৰক। \n \n পদক্ষেপ 5 \n 5ৰ পৰা 7 মিনিটত গোল্ডেন ব্ৰাউন হৈ যোৱালৈকে ফ্ৰাই এগ একে সময়তে 3 বা 4 ৰোল কৰক। কাগজৰ টাৱেলবোৰত নিষ্কাশন কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "এই খাদ্য কেনেকৈ ৰান্ধিব?",
+        "answer": "এই ব্যঞ্জনটোক \"চকলেট কোটেড চিনাবাদাম বাটাৰ ক্ৰেকাৰ্ছ\" বুলি কোৱা হয়। \n \n প্ৰস্তুতিৰ সময়ঃ \n 30 মিনিট \n ৰন্ধাৰ সময়ঃ \n 5 মিনিট \n অতিৰিক্ত সময়ঃ \n 15 মিনিট \n মুঠ সময়ঃ \n 50 মিনিট \n পৰিৱেশনঃ \n 40 \n উৎপাদনঃ \n 40টা চেণ্ডউইচ কুকিজ \n \n \n উপাদানসমূহ \n 3⁄4 কাপ ক্ৰিমিযুক্ত বা চংকী চীনাবাদাম মাখন \n \n 2 পাউণ্ড চকলেট বাদামৰ বাকলি, টুকুৰাত ভঙা \n \n 80টা বাটাৰীৰ গোলাকাৰ ক্ৰেকাৰাৰ (যেনে ৰিটজ) \n \n চীনাবাদাম মাখনৰ কাষবোৰ একেলগে টিপি 40টা চীনাবাদাম মাখন ভৰ্তি চেণ্ডউইচ কুকিজ তৈয়াৰ কৰক। \n \n পদক্ষেপ 2 \n ডাবল বয়লাৰৰ ওপৰত বাদামৰ বাকলি গৰম পানীৰ ওপৰত গলাই দিয়ক, কিন্তু উতলাই নহয়। তাপ হ্ৰাস কৰক আৰু গলিত চকলেট গৰম পানীৰ ওপৰত ডাবল বয়লাৰৰ ওপৰত ৰাখক। \n \n পদক্ষেপ 3 \n প্ৰতিটো চেণ্ডউইচ কুকিক গলিত চকলেটত ডুবাই দিয়ক, যাৰ ফলত অতিৰিক্তখিনি পুনৰ পাত্ৰলৈ নিষ্কাশিত হ 'ব পাৰে। \n \n পদক্ষেপ 4 \n প্ৰলেপ দিয়া কুকিজবোৰ মমযুক্ত কাগজত ৰাখক আৰু লগে লগে মিচিৰি ছটিয়াই দিয়ক যাতে সেইবোৰ গলিত চকলেটৰ সৈতে লাগি থাকে। \n \n পদক্ষেপ 5 \n চকলেট ছেট নোহোৱালৈকে ৰেফ্ৰিজৰেটৰত কুকিজ ৰাখক, প্ৰায় 15 মিনিট।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "এই খাদ্য কেনেকৈ ৰান্ধিব?",
+        "answer": "এই ব্যঞ্জনটোক \"ব্ৰকলি এণ্ড কেৰট ষ্টাৰ ফ্ৰাই\" বুলি কোৱা হয়। \n \n প্ৰস্তুত কৰাৰ সময়ঃ \n 10 মিনিট \n ৰন্ধাৰ সময়ঃ \n 16 মিনিট \n মুঠ সময়ঃ \n 26 মিনিট \n পৰিৱেশনঃ \n 5 কাপ \n \n উপাদানসমূহ \n 5 1⁄2 কাপ ব্ৰকলি ফুল \n \n 1 গাজৰ, পাতলকৈ কটা \n \n 2 চামুচ পানী \n \n 1 চামুচ কৰ্ণষ্টাৰ্ক \n \n \n 1 চামুচ চিকেন বুইলন গ্ৰেনুল, বা সোৱাদ লৱাদ \n \n \n 2 চামুচ ব্ৰকলি যোগ কৰক আৰু উজ্জ্বল সেউজীয়া পৰ্যন্ত অনাবৃত ৰান্ধক, প্ৰায় 2 মিনিট। ব্ৰক 'লী এখন স্লটেড চামুচ ব্যৱহাৰ কৰি বৰফৰ পানীৰ বাটি এটালৈ স্থানান্তৰ কৰক আৰু ৰন্ধা প্ৰক্ৰিয়া বন্ধ কৰিবলৈ কেইমিনিটমানৰ বাবে ডুবাই দিয়ক। নিষ্কাশন কৰক। \n \n পদক্ষেপ 2 \n একেটা ডাঙৰ পাত্ৰত পানী পুনৰ উতলিবলৈ আনক; কটা গাজৰ যোগ কৰক আৰু 1 মিনিটৰ বাবে ৰান্ধক। নিষ্কাশন কৰক। \n \n পদক্ষেপ 3 \n পানী আৰু কৰ্ণষ্টাৰ্ক একেলগে এটা বাটিৰ ভিতৰত মসৃণ নোহোৱালৈকে মিহলাই লওক। কুকুৰাৰ মাংসৰ টুকুৰা আৰু নিমখ যোগ কৰক আৰু ভালদৰে মিশ্ৰণ কৰক। \n \n পদক্ষেপ 4 \n ৱাক বা ডাঙৰ চুলিত চীনাবাদামৰ তেল বেছি গৰমত গৰম কৰক; ব্ৰকলি আৰু গাজৰ 2 মিনিটৰ বাবে সেকি লওক। কৰ্ণষ্টাৰ্কৰ মিশ্ৰণ যোগ কৰক; শাক-পাচলি সমানভাৱে লেপ নোহোৱালৈকে ৰান্ধক আৰু ঢালি দিয়ক, 1ৰ পৰা 2 মিনিট।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "এই খাদ্য কেনেকৈ ৰান্ধিব?",
+        "answer": "এই ব্যঞ্জনটোক \"ক্ৰীম চীজ আৰু ক্ৰেব চুচি ৰলছ\" বুলি কোৱা হয়। \n \n প্ৰস্তুতিৰ সময়ঃ \n 20 মিনিট \n ৰন্ধাৰ সময়ঃ \n 20 মিনিট \n মুঠ সময়ঃ \n 40 মিনিট \n পৰিৱেশনঃ \n 2 \n উৎপাদনঃ \n 2টা চুচি ৰোল \n \n \n উপাদানসমূহ \n 1 কাপ সিজোৱা বগা চাউল \n \n 2 কাপ পানী \n \n 2 চামুচ চাউল ভিনেগাৰ \n \n 1 চামুচ নিমখ \n \n \n 2 টুকুৰা নৰী সাগৰীয় শৈবালৰ চাদৰ \n \n \n তিয়ঁহ, বাকলি আৰু দৈৰ্ঘ্য অনুসৰি কটা \n পদক্ষেপ 2 \n অধিক গৰমত এখন পাত্ৰত চাউল আৰু পানী উতলিবলৈ আনক। তাপ মধ্যম-নিম্নলৈ হ্ৰাস কৰক, ঢাকি দিয়ক আৰু চাউল কোমল নোহোৱালৈকে সিজাই দিয়ক, আৰু তৰল পদাৰ্থটো 20ৰ পৰা 25 মিনিটলৈ শুহি লোৱা হয়। চাউলৰ ভিনেগাৰ আৰু নিমখ মিহলি কৰক। ইয়াক সম্পূৰ্ণৰূপে ঠাণ্ডা হ \"বলৈ দিয়ক। \n পদক্ষেপ 3 \n সাগৰীয় শৈবালৰ পাতবোৰ ৰাখক। পানীৰে হাত আৰ্দ্ৰ কৰক, তাৰ পিছত প্ৰতিটো চাদৰত শীতল চাউল সমানভাৱে বিস্তাৰ কৰক, দৈৰ্ঘ্যৰ দিশত এটা প্ৰান্তৰ সৈতে 1/2 ইঞ্চিৰ ব্যৱধান এৰি দিয়ক। চাউলৰ ওপৰত তিয়ঁহৰ টুকুৰা, নকল ক্ৰেবিট, আৰু ক্ৰীম চীজৰ টুকুৰা ব্যৱধানৰ বিপৰীত ফালে এটা পোন শাৰীৰে ব্যৱস্থা কৰক। টপিংৰ পৰা সামুদ্ৰিক শৈবালৰ পাতৰ মুকলি প্ৰান্তলৈকে চুচী ঘূৰাই দিয়ক। \n পদক্ষেপ 4 \n এটা তীক্ষ্ণ ভিজা ছুৰী ব্যৱহাৰ কৰি প্ৰতিটো ৰোলক 5 বা 6টা টুকুৰাত কাটি লওক। কাষত কটা আদাৰ সৈতে পৰিৱেশন কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "এই খাদ্য কেনেকৈ ৰান্ধিব?",
+        "answer": "এই ব্যঞ্জনটোক \"ভেগান ছুইট পটেটো চিকপী কাৰী\" বুলি কোৱা হয়। \n \n প্ৰস্তুত কৰাৰ সময়ঃ \n 10 মিনিট \n ৰন্ধাৰ সময়ঃ \n 20 মিনিট \n মুঠ সময়ঃ \n 30 মিনিট \n পৰিৱেশনঃ \n 3 চামুচ জলফাই তেল \n \n 1 পিয়াজ, কটা \n \n 2 লং নহৰু, কটা \n \n 2 চামুচ কটা সতেজ আদাৰ শিপা \n \n 1 (15 আউন্স) বুট, নিষ্কাশিত \n \n 1 (14.5 আউন্স) টমেটো কাটিব পাৰে \n \n 1 (14 আউন্স) পিয়াজ, নহৰু আৰু আদা গৰম তেলত কোমল নোহোৱালৈকে ৰান্ধক, প্ৰায় 5 মিনিট। ইয়াত বিলাহী, নাৰিকলৰ গাখীৰ, আৰু মিঠা আলু যোগ কৰক। উতলিবলৈ আনক, তাপ কমলৈ হ্ৰাস কৰক, আৰু প্ৰায় 15 মিনিট কোমল নোহোৱালৈকে উতলিবলৈ দিয়ক। \n পদক্ষেপ 2 \n গৰম মচলা, জিৰা, হালধি, নিমখ, আৰু চিলি ফ্লেক্সৰ সৈতে ঋতু। পৰিৱেশন কৰাৰ ঠিক আগতে পালেং যোগ কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "এই খাদ্য কেনেকৈ ৰান্ধিব?",
+        "answer": "এই ব্যঞ্জনটোক \"লাইম চিকেন ছফ্ট টাকোছ\" বুলি কোৱা হয়। \n \n প্ৰস্তুতিৰ সময়ঃ \n 20 মিনিট \n ৰন্ধাৰ সময়ঃ \n 30 মিনিট \n মুঠ সময়ঃ \n 50 মিনিট \n উৎপাদনঃ \n 10 টা পৰিৱেশন \n \n উপাদানসমূহ \n 1⁄2 পাউণ্ড ছালবিহীন, হাড়বিহীন কুকুৰাৰ স্তনৰ মাংস-কিউব কৰা \n \n 2 টা সেউজীয়া পিয়াজ, কটা \n \n 1⁄2 কাপ ৰেড ৱাইন ভিনেগাৰ \n \n \n 1⁄2 চূণ, ৰস \n \n 2 টা লং নহৰু, কটা \n \n 1 চামুচ শুকান অৰেগানো \n \n \n 1 চামুচ বগা চেনি \n \n সেউজীয়া পিয়াঁজ, ভিনেগাৰ, চূণৰ ৰস, নহৰু, অৰেগানো, চেনি, নিমখ আৰু জলকীয়া যোগ কৰক। 10 মিনিটৰ বাবে কম গৰমত সিজাই দিয়ক। \n পদক্ষেপ 2 \n এখন লোহাৰ পাত্ৰ মধ্যম গৰমত গৰম কৰক। পাত্ৰত এটা টৰ্টিলা ৰাখক, গৰম কৰক, আৰু আনটো ফালে গৰম কৰিবলৈ ঘূৰাই দিয়ক। বাকী থকা টৰ্টিলাৰ সৈতে পুনৰাবৃত্তি কৰক। চূণৰ কুকুৰাৰ মিশ্ৰণ গৰম টৰ্টিলাৰ ওপৰত বিলাহী, লেটুচ, চীজ আৰু চালছাৰ সৈতে পৰিৱেশন কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "দ্য শ্বশ্বাংক ৰিডেম্পশ্যন হৈছে ফ্ৰেংক ডাৰাবণ্টৰ দ্বাৰা লিখিত আৰু পৰিচালিত 1994 চনৰ আমেৰিকান নাট্য চলচ্চিত্ৰ, যি 1982 চনৰ ষ্টিফেন কিং উপন্যাসিকা ৰিতা হেৱাৰ্থ আৰু শ্বশ্বাংক ৰিডেম্পশ্যনৰ ওপৰত আধাৰিত। চলচ্চিত্ৰখনে বেংকাৰ এন্ডি ডুফ্ৰেছন (টিম ৰবিনছ) ৰ কাহিনী কয়, যাক তেওঁৰ পত্নী আৰু তেওঁৰ প্ৰেমিকৰ হত্যাৰ বাবে শ্বশ্বাংক ৰাজ্যিক কাৰাগাৰত আজীৱন কাৰাদণ্ড বিহা হয়, যদিও তেওঁ নিৰ্দোষী বুলি দাবী কৰিছিল। পৰৱৰ্তী দুটা দশকত, তেওঁ এজন সহযোগী বন্দী, নিষিদ্ধ সৰবৰাহকাৰী এলিস \"ৰেড\" ৰেডিং (মৰ্গান ফ্ৰীমেন)-ৰ সৈতে বন্ধুত্ব স্থাপন কৰে, আৰু কাৰাগাৰৰ ৱাৰ্ডেন ছেমুৱেল নৰ্টন (বব গান্টন)-ৰ নেতৃত্বত এক ধনশোধন অভিযানত গুৰুত্বপূৰ্ণ ভূমিকা পালন কৰে। উইলিয়াম চেডলৰ, ক্লেঞ্চি ব্ৰাউন, গিল বেল 'জ, আৰু জেমছ হুইটমোৰ সহায়ক চৰিত্ৰত অভিনয় কৰে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "দ্য গডফাদাৰ হৈছে ফ্ৰান্সিছ ফৰ্ড কপোলাৰ দ্বাৰা পৰিচালিত 1972 চনৰ আমেৰিকান অপৰাধমূলক চলচ্চিত্ৰ, যিয়ে একে শীৰ্ষকৰ পুজোৰ 1969 চনৰ সৰ্বাধিক বিক্ৰী হোৱা উপন্যাসখনৰ ওপৰত আধাৰিত কৰি মাৰিঅ 'পুজোৰ সৈতে চিত্ৰনাট্য লিখিছিল। ছবিখনত মাৰ্লন ব্ৰেণ্ডো, আল পাচিনো, জেমছ কান, ৰিচাৰ্ড কেষ্টেলানো, ৰবাৰ্ট ডুভাল, ষ্টাৰ্লিং হেডেন, জন মাৰ্লি, ৰিচাৰ্ড কণ্টে আৰু ডায়ান কিটনে অভিনয় কৰিছে। 1945 চনৰ পৰা 1955 চনলৈকে পিতৃপুৰুষ ভিটো কৰ্লিয়ন (ব্ৰেণ্ডো) ৰ অধীনত কৰ্লিয়ন পৰিয়ালৰ বৰ্ণনা কৰা দ্য গডফাদাৰ ত্ৰিলজীৰ এইটো প্ৰথম কিস্তি। ই তেওঁৰ সৰু পুত্ৰ মাইকেল কৰ্লিয়ন (পাচিনো) ৰ অনিচ্ছুক পৰিয়ালৰ বাহিৰৰ মানুহৰ পৰা নিষ্ঠুৰ মাফিয়া বছলৈ পৰিৱৰ্তনৰ ওপৰত গুৰুত্ব আৰোপ কৰে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "দ্য ডাৰ্ক নাইট হৈছে ক্ৰিষ্টফৰ নোলানৰ দ্বাৰা পৰিচালিত 2008 চনৰ এখন ছুপাৰহিৰো চলচ্চিত্ৰ যিখন তেওঁ তেওঁৰ ভাতৃ জনাথনৰ সৈতে সহ-ৰচনা কৰা এখন চিত্ৰনাট্যৰ পৰা নিৰ্মাণ কৰিছিল। ডিচি কমিক্সৰ ছুপাৰহিৰো বেটমেনৰ ওপৰত আধাৰিত এই ছবিখন বেটমেন বিগিন্স (2005) ৰ পৰৱৰ্তী সংস্কৰণ আৰু দ্য ডাৰ্ক নাইট ট্ৰিলজীৰ দ্বিতীয় খণ্ড। এই কাহিনীটো নিৰীক্ষণকাৰী বেটমেন, আৰক্ষী লেফটেনেণ্ট জেমছ গৰ্ডন, আৰু জিলা অধিবক্তা হাৰ্ভি ডেণ্টক অনুসৰণ কৰে, যিয়ে গথাম চহৰত সংগঠিত অপৰাধ ধ্বংস কৰিবলৈ এক মিত্ৰতা গঠন কৰে। চহৰখনক বিশৃংখলতাৰ পৰা ৰক্ষা কৰিবলৈ বেটমেনে কিমান দূৰলৈ যাব সেইটো পৰীক্ষা কৰিবলৈ বিচৰা এজন নৈৰাজ্যবাদী মাষ্টৰমাইণ্ড জোকৰে তেওঁলোকৰ প্ৰচেষ্টাক ব্যাহত কৰে। এই দলটোত ক্ৰিষ্টিয়ান বেল, মাইকেল কেইন, হিথ লেজাৰ, গেৰী অ 'ল্ডমেন, এৰন একহাৰ্ট, মেগী গিলেনহাল, আৰু মৰ্গান ফ্ৰীমেনৰ দৰে অভিনেতা-অভিনেত্ৰী আছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "টুৱেলভ এংগ্ৰী মেন হৈছে ৰেজিনাল্ড ৰোজৰ দ্বাৰা লিখিত এক আমেৰিকান আদালতৰ নাটক যি এক হত্যাকাণ্ডৰ বিচাৰৰ জুৰীৰ বিষয়ে। ইয়াক প্ৰথমতে 1954 চনত টেলিভিছন নাটক হিচাপে সম্প্ৰচাৰ কৰা হৈছিল। পৰৱৰ্তী বছৰত ইয়াক মঞ্চৰ বাবে অভিযোজিত কৰা হৈছিল। ছিডনী লুমেটে পৰিচালনা কৰা একে নামৰ এখন চলচ্চিত্ৰৰ বাবে ইয়াক অভিযোজিত কৰা হৈছিল আৰু 1957 চনত মুক্তি দিয়া হৈছিল। তেতিয়াৰ পৰা ইয়াক অসংখ্য পুনৰ নিৰ্মাণ, অভিযোজন আৰু শ্ৰদ্ধাঞ্জলি প্ৰদান কৰা হৈছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "শ্বিণ্ডলাৰ্ছ লিষ্ট হৈছে ষ্টিভেন স্পিলবাৰ্গৰ দ্বাৰা পৰিচালিত আৰু প্ৰযোজিত আৰু ষ্টিভেন জেইলিয়ানৰ দ্বাৰা লিখিত 1993 চনৰ আমেৰিকান মহাকাব্যিক ঐতিহাসিক নাট্য চলচ্চিত্ৰ। এইখন অষ্ট্ৰেলিয়ান ঔপন্যাসিক থমাছ কেনেলীৰ 1982 চনৰ উপন্যাস শ্বিণ্ডলাৰছ আৰ্কৰ ওপৰত আধাৰিত। চলচ্চিত্ৰখনে জাৰ্মান উদ্যোগপতি অস্কাৰ শ্বিণ্ডলাৰক অনুসৰণ কৰিছে যিয়ে দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত তেওঁৰ কাৰখানাত নিয়োগ কৰি এক হাজাৰতকৈও অধিক বেছিভাগ পোলিশ-ইহুদী শৰণাৰ্থীসকলক হোলোকষ্টৰ পৰা ৰক্ষা কৰিছিল। ইয়াত শ্বিণ্ডলাৰৰ চৰিত্ৰত লিয়াম নীছন, এছএছ বিষয়া আমোন গথৰ চৰিত্ৰত ৰাল্ফ ফিনেছ আৰু শ্বিণ্ডলাৰৰ ইহুদী একাউণ্টেণ্ট ইট্জাক ষ্টাৰ্ণৰ চৰিত্ৰত বেন কিংছলীয়ে অভিনয় কৰিছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "দ্য লৰ্ড অৱ দ্য ৰিংছঃ দ্য ৰিটাৰ্ণ অৱ দ্য কিং হৈছে ফ্ৰেন ৱালশ্ব, ফিলিপ্পা বয়েন্স আৰু জেকছনৰ চিত্ৰনাট্যৰ পৰা পিটাৰ জেকছনৰ দ্বাৰা পৰিচালিত 2003 চনৰ এক মহাকাব্যিক কাল্পনিক দুঃসাহসিক চলচ্চিত্ৰ। এইখন জে. আৰ. আৰ. টলকিয়েনৰ 1955 চনৰ দ্য ৰিটাৰ্ণ অৱ দ্য কিং উপন্যাসখনৰ তৃতীয় খণ্ড দ্য লৰ্ড অৱ দ্য ৰিংছৰ ওপৰত আধাৰিত। 2002 চনৰ দ্য লৰ্ড অৱ দ্য ৰিংছঃ দ্য টু টাৱাৰ্ছৰ উত্তৰাধিকাৰী ছবিখন হৈছে দ্য লৰ্ড অৱ দ্য ৰিংছ ত্ৰিলজীৰ অন্তিম খণ্ড। ইয়াত এলিজা উড, ইয়ান মেককেলেন, লিভ টাইলাৰ, ভিগগো মৰ্টেনচেন, ছান এষ্টিন, কেট ব্লানচেট, জন ৰাইছ-ডেভিছ, বাৰ্নাৰ্ড হিল, বিলি বয়েড, ডমিনিক মনাঘন, অৰলেণ্ডো ব্লুম, হুগো ৱিভিং, মিৰাণ্ডা অট্টো, ডেভিদ ৱেনহাম, কাৰ্ল আৰবান, জন ন 'বেল, এণ্ডি চাৰ্কিছ, ইয়ান হোম, আৰু ছান বীনকে ধৰি বিভিন্ন অভিনেতা-অভিনেত্ৰীৰ দল আছে। পূৰ্বৰ ছবিখনৰ কাহিনীটো অব্যাহত ৰাখি, ফ্রোডো, চেম আৰু গোলামে ৱান ৰিংক ধ্বংস কৰিবলৈ মাউণ্ট ডুমৰ ফালে অন্তিম পথ নিৰ্মাণ কৰি আছে, গোলুমৰ প্ৰকৃত উদ্দেশ্যৰ বিষয়ে অজ্ঞাত, আনহাতে মেৰী, পিপিন, গেণ্ডালফ, আৰাগোৰ্ন, লেগোলাছ, গিমলি আৰু আনসকলে মিনাছ তিৰিথত ছাউৰন আৰু তেওঁৰ সৈন্যবাহিনীৰ বিৰুদ্ধে একেলগে যোগদান কৰে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "পাল্প ফিকচন হৈছে 1994 চনত ৰ 'জাৰ এভাৰীৰ সৈতে কল্পনা কৰা এটা কাহিনীৰ পৰা কোৱেন্টিন টাৰাণ্টিনোৰ দ্বাৰা লিখিত আৰু পৰিচালিত এখন আমেৰিকান অপৰাধমূলক চলচ্চিত্ৰ। [3] ইয়াত কেলিফৰ্ণিয়াৰ লছ এঞ্জেলছত সংঘটিত অপৰাধ আৰু হিংসাৰ চাৰিটা আন্তঃসম্পর্কিত কাহিনী কোৱা হৈছে। ছবিখনত অভিনয় কৰিছে জন ট্ৰাভোল্টা, ছেমুৱেল এল. জেকছন, ব্ৰুছ উইলিস, টিম ৰথ, ভিং ৰেমছ আৰু উমা থাৰমেনে। শিৰোনামটোৱে 20 শতিকাৰ মাজভাগত জনপ্ৰিয় মজ্জা আলোচনী আৰু কঠোৰভাৱে সিজোৱা অপৰাধমূলক উপন্যাসসমূহক বুজায়, যিবোৰ গ্ৰাফিক হিংসা আৰু পাঞ্চি সংলাপৰ বাবে জনাজাত।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "দ্য লৰ্ড অৱ দ্য ৰিংছঃ দ্য ফেল 'শ্বিপ অৱ দ্য ৰিং হৈছে জে. আৰ. আৰ. টলকিয়েনৰ উপন্যাস দ্য লৰ্ড অৱ দ্য ৰিংছৰ প্ৰথম খণ্ড 1954 চনৰ দ্য ফেল' শ্বিপ অৱ দ্য ৰিংৰ ওপৰত আধাৰিত ফ্ৰেন ৱালশ্ব, ফিলিপ্পা বয়েন্স আৰু জেকছনৰ চিত্ৰনাট্যৰ পৰা পিটাৰ জেকছনে পৰিচালনা কৰা 2001 চনৰ এক মহাকাব্যিক কাল্পনিক দুঃসাহসিক চলচ্চিত্ৰ। ছবিখন হৈছে দ্য লৰ্ড অৱ দ্য ৰিংছ ত্ৰিলজীৰ প্ৰথম কিস্তি। ইয়াত এলিজা উড, ইয়ান মেককেলেন, লিভ টাইলাৰ, ভিগগো মৰ্টেনচেন, ছান এষ্টিন, কেট ব্লানচেট, জন ৰাইছ-ডেভিছ, বিলি বয়েড, ডমিনিক মনাঘান, অৰলেণ্ডো ব্লুম, ক্ৰিষ্টোফাৰ লী, হুগো ৱিভিং, ছান বীন, ইয়ান হোম, আৰু এন্ডি চাৰ্কিছকে ধৰি বিভিন্ন অভিনেতা-অভিনেত্ৰীয়ে অভিনয় কৰিছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "দ্য গডফাদাৰ পাৰ্ট 2 হৈছে ফ্ৰান্সিছ ফৰ্ড কপোলাৰ দ্বাৰা প্ৰযোজিত আৰু পৰিচালিত 1974 চনৰ আমেৰিকান মহাকাব্যিক অপৰাধমূলক চলচ্চিত্ৰ। ছবিখন আংশিকভাৱে কপোলাৰ সৈতে চিত্ৰনাট্যৰ সহ-লেখক মাৰিঅ 'পুজোৰ 1969 চনৰ উপন্যাস দ্য গডফাদাৰৰ ওপৰত আধাৰিত, আৰু ই সমান্তৰাল নাটক উপস্থাপন কৰা 1972 চনৰ ছবি দ্য গডফাদাৰৰ এক সিক্যুৱেল আৰু প্ৰিকুৱেল দুয়োটাইঃ এজনে 1958 চনৰ মাইকেল কৰ্লিয়ন (আল পাচিনো) ৰ কাহিনীটো তুলি লয়, কৰ্লিয়ন পৰিয়ালৰ নতুন ডন, তেওঁৰ জীৱনৰ ওপৰত এক প্ৰচেষ্টাৰ পিছত পৰিয়ালৰ ব্যৱসায় সুৰক্ষিত কৰে; প্ৰিকুৱেলে তেওঁৰ পিতৃ ভিটো কৰ্লিয়ন (ৰবাৰ্ট ডি নিৰো) ৰ শৈশৱৰ পৰা নিউয়ৰ্ক চহৰত তেওঁৰ পৰিয়ালৰ উদ্যোগ প্ৰতিষ্ঠা কৰালৈকে যাত্ৰাটো সামৰি লয়। এই দলটোত ৰবাৰ্ট ডুভাল, ডায়ান কিটন, তালিয়া শ্বাইৰ, মৰগানা কিং, জন কেজেল, মাৰিয়ানা হিল, আৰু লী ষ্ট্ৰাছবাৰ্গেও অভিনয় কৰিছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "আপুনি এই ছবিখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "ফেয়াৰৱেল মাই কনকুবিন হৈছে চেন কাইজেৰ দ্বাৰা পৰিচালিত 1993 চনৰ এখন চীনা ঐতিহাসিক নাট্য চলচ্চিত্ৰ, য 'ত লেসলি চেউং, গং লি আৰু ঝাং ফেংইয়ে অভিনয় কৰিছিল। লিলিয়ান লীৰ উপন্যাসখনৰ ওপৰত আধাৰিত কৰি লু ৱেইয়ে পৰ্দাৰ বাবে অভিযোজিত কৰা এই চলচ্চিত্ৰখন চীন গণৰাজ্যৰ প্ৰাৰম্ভিক দিনৰ পৰা সাংস্কৃতিক বিপ্লৱৰ পৰৱৰ্তী সময়লৈকে ৰাজনৈতিকভাৱে অশান্ত বিংশ শতিকাৰ চীনৰ পটভূমিত নিৰ্মাণ কৰা হৈছে। ইয়াত দুজন পিকিং অপেৰা অভিনেতা আৰু জীৱনজোৰা বন্ধু চেং দিয়াই (চেউং) আৰু ডুয়ান জিয়াওলু (ঝাং), আৰু জিয়াওলুৰ পত্নী জুক্সিয়ান (গং) ৰ মাজৰ অশান্ত সম্পৰ্কৰ বৰ্ণনা কৰা হৈছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "মোনা লিছা হৈছে ইটালীৰ শিল্পী লিওনার্দো দা ভিঞ্চিৰ আধা দৈৰ্ঘ্যৰ চিত্ৰ। \n \n ইটালীয় নৱজাগৰণৰ এক প্ৰত্নতাত্ত্বিক শ্ৰেষ্ঠ কৃতি হিচাপে গণ্য কৰা ইয়াক \"বিশ্বৰ সৰ্বাধিক পৰিচিত, সৰ্বাধিক ভ্ৰমণ কৰা, সৰ্বাধিক লিখা, সৰ্বাধিক গোৱা, সৰ্বাধিক ব্যংগাত্মক শিল্পকৰ্ম\" হিচাপে বৰ্ণনা কৰা হৈছে। চিত্ৰখনৰ অভিনব গুণসমূহৰ ভিতৰত আছে বিষয়ৰ নিগূঢ় অভিব্যক্তি, ৰচনাৰ স্মৃতিচিহ্ন, ৰূপসমূহৰ সূক্ষ্ম আৰ্হি আৰু বায়ুমণ্ডলীয় বিভ্রমবাদ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "গাৰ্ল উইথ এ পাৰ্ল ইৰিং (ডাচঃ মেইজে মেট ডি পাৰেল) হৈছে ডাচ সোণালী যুগৰ চিত্ৰশিল্পী জোহানেছ ভাৰ্মীৰৰ 1665 চনৰ এখন তৈল চিত্ৰ। শতিকাজুৰি বিভিন্ন নামেৰে গৈ, 20 শতিকাৰ শেষৰ ফালে তাত চিত্ৰিত ছোৱালীজনীয়ে পৰিধান কৰা কাণৰ দুলৰ পিছত ই বৰ্তমানৰ উপাধিৰ দ্বাৰা জনাজাত হৈ পৰিছিল। এই কামটো 1902 চনৰ পৰা দ্য হেগৰ মৌৰিটছুইছৰ সংগ্ৰহত আছে আৰু বিভিন্ন সাহিত্যিক আৰু চিনেমাৰ চিকিৎসাৰ বিষয় হৈ আহিছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "দ্য ষ্টাৰী নাইট হৈছে ডাচ পোষ্ট-ইম্প্ৰেছনিষ্ট চিত্ৰশিল্পী ভিনচেণ্ট ভেন গ 'গৰ এক তৈল-অন-কেনভাছ চিত্ৰ। 1889 চনৰ জুন মাহত ৰং কৰা এই চিত্ৰখনত সূৰ্যোদয়ৰ ঠিক আগতে ছেইণ্ট-ৰেমি-ডি-প্ৰোভেন্সত থকা তেওঁৰ আশ্ৰয় কোঠাৰ পূবমুখী খিৰিকীৰ পৰা দেখা যায়, য 'ত এটা কাল্পনিক village.It যোগ কৰা হৈছে, যিটো 1941 চনৰ পৰা নিউয়ৰ্ক চহৰৰ মিউজিয়াম অৱ মডাৰ্ণ আৰ্টৰ স্থায়ী সংগ্ৰহালয়ত আছে, যাক লিলি পি. ব্লিছ বেক্ৱেষ্টৰ জৰিয়তে আহৰণ কৰা হৈছিল। ব্যাপকভাৱে ভেন গ 'গৰ মহান ৰচনা হিচাপে গণ্য কৰা দ্য ষ্টাৰী নাইট হৈছে পশ্চিমীয়া কলাৰ আটাইতকৈ স্বীকৃত চিত্ৰসমূহৰ ভিতৰত অন্যতম।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "দ্য কিস (জাৰ্মান ডেৰ কুছ) হৈছে অষ্ট্ৰিয়ান প্ৰতীকবাদী চিত্ৰশিল্পী গুস্তাভ Klimt.It ৰ দ্বাৰা যোগ কৰা সোণৰ পাত, ৰূপ আৰু প্লাটিনামৰ সৈতে এক তেল-অন-কেনভাছ চিত্ৰকলা যিটো 1907 আৰু 1908 চনৰ কোনো এটা সময়ত চিত্ৰিত কৰা হৈছিল, যাক পণ্ডিতসকলে তেওঁৰ \"সোণালী সময়কাল\" বুলি অভিহিত কৰে। প্ৰদৰ্শনীৰ সূচীত উল্লেখ কৰা অনুসৰি 1908 চনত লাইবেস্পাৰ (প্ৰেমিকসকল) শীৰ্ষকৰ অধীনত ইয়াক প্ৰদৰ্শন কৰা হৈছিল। এই চিত্ৰখনত সমসাময়িক আৰ্ট নৱেউ শৈলী আৰু পূৰ্বৰ কলা আৰু কাৰুশিল্প আন্দোলনৰ জৈৱিক ৰূপৰ দ্বাৰা প্ৰভাৱিত শৈলীত সজোৱা বিস্তৃত সুন্দৰ পোচাকত আবদ্ধ হৈ থকা দম্পতীহালক দেখুওৱা হৈছে। \n \n চিত্ৰখন বৰ্তমান ভিয়েনাৰ বেলভেডেৰেৰ অষ্টাৰেইচিচে গেলেৰী বেলভেডেৰ সংগ্ৰহালয়ত ওলমাই ৰখা হৈছে আৰু ইয়াক ভিয়েনা ছেচেচন (আৰ্ট নুৱেউৰ স্থানীয় ৰূপ) আৰু প 'ৰট্ৰেইট অৱ এডেলে ব্ল' চ-বাউয়াৰ প্ৰথমৰ পিছত ক্লিম্টৰ আটাইতকৈ জনপ্ৰিয় কাম হিচাপে গণ্য কৰা হয়। বহুতে ইয়াক এক বিখ্যাত শিল্পকৰ্ম হিচাপে গণ্য কৰে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "দ্য বাৰ্থ অৱ ভেনাছ হৈছে ইটালীয় শিল্পী চেণ্ড্ৰ 'ব' টিচেলিৰ এখন চিত্ৰ, যিটো সম্ভৱতঃ 1480 চনৰ মাজভাগত ৰচনা কৰা হৈছিল। ইয়াত দেৱী ভেনাছক তেওঁৰ জন্মৰ পিছত পাৰত উপস্থিত হোৱা দেখুওৱা হৈছে, যেতিয়া তেওঁ সম্পূৰ্ণৰূপে ডাঙৰ হৈ সাগৰৰ পৰা ওলাই আহিছিল (যাক ভেনাছ এনাডিওমিন বুলি কোৱা হয় আৰু প্ৰায়ে কলাত চিত্ৰিত কৰা হয়)। এই চিত্ৰখন ইটালীৰ ফ্লোৰেন্সৰ উফিজি গেলেৰীত আছে। \n \n যদিও দুয়োটাই যুটি নহয়, চিত্ৰখন অনিবাৰ্যভাৱে বটিসেলিৰ আন এটা অতি বৃহৎ পৌৰাণিক চিত্ৰ, প্ৰিমাভেৰাৰ সৈতে আলোচনা কৰা হৈছে, লগতে উফিজিত। সেইবোৰ বিশ্বৰ আটাইতকৈ বিখ্যাত চিত্ৰসমূহৰ ভিতৰত অন্যতম, আৰু ইটালীয় নৱজাগৰণৰ প্ৰতীক; দুয়োটাৰে ভিতৰত, জন্ম প্ৰাইমাভেৰাতকৈ বেছি পৰিচিত। অতি বৃহৎ পৰিসৰত ধ্ৰুপদী পৌৰাণিক কাহিনীৰ বিষয়সমূহৰ চিত্ৰণ হিচাপে সেইবোৰ ধ্ৰুপদী প্ৰাচীন কালৰ পৰাই পশ্চিমীয়া কলাত প্ৰায় অভূতপূৰ্ব আছিল, যেনেকৈ জন্মৰ সময়ত এগৰাকী নগ্ন মহিলাৰ আকৃতিৰ আকাৰ আৰু প্ৰাধান্য আছিল। পূৰ্বতে ভবা হৈছিল যে দুয়োজনে মেডিচি পৰিয়ালৰ একেজন সদস্যৰ দ্বাৰা নিযুক্ত হৈছিল, কিন্তু এইটো এতিয়া অনিশ্চিত। \n \n কলা ইতিহাসবিদসকলৰ দ্বাৰা সেইবোৰ অন্তহীনভাৱে বিশ্লেষণ কৰা হৈছে, যাৰ মূল বিষয়বস্তু হৈছেঃ প্ৰাচীন চিত্ৰকৰসকলৰ অনুকৰণ আৰু বিবাহ উদযাপনৰ প্ৰসংগ (সাধাৰণতে সন্মত), নৱজাগৰণ নব্য-প্লাটোনিজমৰ প্ৰভাৱ (কিছু পৰিমাণে বিতৰ্কিত), আৰু আয়ুক্তসকলৰ পৰিচয় (সন্মত নহয়)। বেছিভাগ কলা বুৰঞ্জীবিদে অৱশ্যে একমত যে জন্মৰ অৰ্থ ডিকোড কৰিবলৈ জটিল বিশ্লেষণৰ প্ৰয়োজন নাই, যেনেকৈ প্ৰাইমাভেৰাই সম্ভৱতঃ কৰে। যদিও চিত্ৰখনত সূক্ষ্মতা আছে, ইয়াৰ মূল অৰ্থ হৈছে এক পোনপটীয়া, যদি ব্যক্তিগত, গ্ৰীক পৌৰাণিক কাহিনীৰ পৰম্পৰাগত দৃশ্যৰ চিকিৎসা, আৰু ইয়াৰ আকৰ্ষণ সংবেদনশীল আৰু অতি সুগম, সেয়েহে ইয়াৰ অপৰিসীম জনপ্ৰিয়তা।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "গ্ৰে আৰু ব্লেক নম্বৰত বিন্যাস কৰা হৈছে। 1, ইয়াৰ কথ্য নাম হুইষ্টলাৰছ মাদৰ বা পোৰট্ৰেইট অৱ আৰ্টিষ্টছ মাদৰ নামেৰে সৰ্বাধিক পৰিচিত, হৈছে 1871 চনত আমেৰিকাত জন্মগ্ৰহণ কৰা চিত্ৰশিল্পী জেমছ এবট মেকনীল হুইষ্টলাৰে সৃষ্টি কৰা কেনভাসত তেলত ৰং কৰা এখন চিত্ৰ। চিত্ৰখনৰ বিষয়বস্তু হৈছে হুইষ্টলাৰৰ মাতৃ এনা মেকনীল হুইষ্টলাৰ। চিত্ৰখন 56.81 বাই 63.94 ইঞ্চি (1,443 মিমি × 1,624 মিমি), হুইছলাৰৰ নিজৰ ডিজাইনৰ ফ্ৰেমত প্ৰদৰ্শন কৰা হৈছে। 1891 চনত ফৰাচী ৰাজ্যই ক্ৰয় কৰাৰ পিছত পেৰিছৰ মুচি ডি অৰছেৰ দ্বাৰা ইয়াক অনুষ্ঠিত কৰা হয়। ই আমেৰিকা যুক্তৰাষ্ট্ৰৰ বাহিৰত এজন আমেৰিকান শিল্পীৰ আটাইতকৈ বিখ্যাত কৰ্মসমূহৰ ভিতৰত অন্যতম। ইয়াক বিভিন্ন ধৰণে আমেৰিকান আইকন আৰু ভিক্ট 'ৰিয়ান মোনা লিছা হিচাপে বৰ্ণনা কৰা হৈছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "আৰ্নলফিনি চিত্ৰ (বা আৰ্নলফিনি বিবাহ, আৰ্নলফিনি বিবাহ, জিওভান্নি আৰ্নলফিনি আৰু তেওঁৰ পত্নীৰ চিত্ৰ, বা অন্যান্য শীৰ্ষক) হৈছে প্ৰাৰম্ভিক নেদাৰলেণ্ডৰ চিত্ৰশিল্পী জান ভেন আইকৰ দ্বাৰা ওক পেনেলত নিৰ্মিত 1434 চনৰ এখন তৈল চিত্ৰ। ই এক সম্পূৰ্ণ দৈৰ্ঘ্যৰ দ্বৈত চিত্ৰ গঠন কৰে, যিটোৱে ইটালীৰ ব্যৱসায়ী জিওভান্নি ডি নিকোলাও আৰ্নলফিনি আৰু তেওঁৰ পত্নীক চিত্ৰিত কৰে বুলি বিশ্বাস কৰা হয়, সম্ভৱতঃ ফ্লেমিছ চহৰ ব্ৰুগছত থকা তেওঁলোকৰ বাসভৱনত। \n \n ইয়াৰ সৌন্দৰ্য, জটিল আইকনোগ্ৰাফী, জ্যামিতিক অৰ্থোগোনাল দৃষ্টিকোণ, আৰু আইনা ব্যৱহাৰ কৰি ছবিৰ স্থানৰ সম্প্ৰসাৰণৰ বাবে ইয়াক পশ্চিমীয়া কলাৰ আটাইতকৈ মৌলিক আৰু জটিল চিত্ৰসমূহৰ ভিতৰত এটা বুলি গণ্য কৰা হয়। আৰ্নষ্ট গোম্ব্রিচৰ মতে \"ইটালীত ডোনাটেলো বা মাচাচিঅ\" ৰ কামৰ দৰে ই নিজৰ ধৰণে নতুন আৰু বিপ্লৱী আছিল। বাস্তৱ জগতৰ এটা সৰল কোণ হঠাতে যাদুৰ দৰে পেনেলত লগোৱা হৈছিল। ইতিহাসত প্ৰথমবাৰৰ বাবে শিল্পীগৰাকী শব্দটোৰ সঁচা অৰ্থত নিখুঁত চকুৰ সাক্ষী হৈ পৰিছিল। \" এই চিত্ৰকৰণক এৰউইন পেনোফস্কি আৰু আন কিছুমান কলা ইতিহাসবিদে বিবাহ চুক্তিৰ এক অনন্য ৰূপ বুলি বিবেচনা কৰিছে, যাক এখন চিত্ৰ হিচাপে লিপিবদ্ধ কৰা হৈছে। 1434 চনত ভেন আইকে স্বাক্ষৰ কৰা আৰু তাৰ তাৰিখ নিৰ্ধাৰণ কৰা এইখন একেটা শিল্পী আৰু তেওঁৰ ভাতৃ হুবাৰ্টৰ গেণ্ট আল্টাৰপিছৰ সৈতে টেম্পেৰাৰ পৰিৱৰ্তে তেলত নিৰ্মাণ কৰা আটাইতকৈ পুৰণি অতি বিখ্যাত পেনেল পেইণ্টিং। এই চিত্ৰখন 1842 চনত লণ্ডনৰ নেচনেল গেলেৰীয়ে ক্ৰয় কৰিছিল।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "কিংমিং উৎসৱৰ সময়ত নদীৰ পাৰত (কিংমিং চাংহে টু) হৈছে ছঙ ৰাজবংশৰ চিত্ৰশিল্পী ঝাং জেডুয়ানৰ (1085-1145) এখন হস্তলিপি চিত্ৰ আৰু পৰৱৰ্তী শতিকাবোৰত বহুবাৰ কপি কৰা হৈছিল। ই নৰ্দান ছঙৰ সময়ত মানুহৰ দৈনন্দিন জীৱন আৰু ৰাজধানী বিয়াঞ্জিং (বৰ্তমানৰ কাইফেং) ৰ দৃশ্যপট সামৰি লয়। বিষয়বস্তুটোৱে প্ৰায়ে কিংমিং উৎসৱত উৎসৱৰ মনোভাৱ আৰু সাংসারিক হুলস্থুল উদযাপন কৰে বুলি কোৱা হয়, বন্ধৰ আনুষ্ঠানিক দিশবোৰ, যেনে সমাধি ঝাড়ু দিয়া আৰু প্ৰাৰ্থনাৰ পৰিৱৰ্তে। সোঁফালৰ পৰা বাওঁফালে পঢ়ক, এজন দৰ্শকে ইয়াক মুকলি কৰাৰ সময়ত, ক্ৰমান্বয়ে দৃশ্যই ধনীৰ পৰা দৰিদ্ৰলৈকে সমাজৰ সকলো স্তৰৰ জীৱনশৈলীৰ লগতে গ্ৰাম্য অঞ্চল আৰু চহৰখনৰ অৰ্থনৈতিক কাৰ্যকলাপসমূহ প্ৰকাশ কৰে, আৰু সময়ৰ সাজ-পোছাক আৰু স্থাপত্যৰ আভাস দিয়ে। এই চিত্ৰকৰণক সকলো চীনা চিত্ৰৰ ভিতৰত আটাইতকৈ বিখ্যাত কাম বুলি গণ্য কৰা হয়, আৰু ইয়াক \"চীনৰ মোনা লিছা\" বুলি কোৱা হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "ফুচুন পৰ্বতত বাস কৰাটো চীনা চিত্ৰশিল্পী হুয়াং গংৱাং (1269-1354) ৰ জীৱিত থকা কেইখনমান কামৰ ভিতৰত এটা আৰু ইয়াক তেওঁৰ সৰ্বশ্ৰেষ্ঠ কামসমূহৰ ভিতৰত অন্যতম বুলি গণ্য কৰা হয়। 1348 চনৰ পৰা 1350 চনৰ ভিতৰত ৰং কৰা এই চিত্ৰখন 1650 চনত দুটা টুকুৰাত জ্বলাই দিয়া হৈছিল। আজি এটা টুকুৰা হাংঝৌৰ ঝেজিয়াং প্ৰাদেশিক সংগ্ৰহালয়ত ৰখা হৈছে, আনহাতে আনটো টুকুৰাটো তাইপেইৰ ৰাষ্ট্ৰীয় প্ৰাসাদ সংগ্ৰহালয়ত ৰখা হৈছে। একেলগে ৰাখিলে, সমগ্ৰ চিত্ৰখনৰ দৈৰ্ঘ্য 691.3 ছেণ্টিমিটাৰ হ \"ব।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "আপুনি এই চিত্ৰখনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "সম্ৰাট টাইজং ৰিচিভিং দ্য তিব্বতীয় ৰাষ্ট্ৰদূত (যাক প্ৰভাৱিত, বুনিয়ান টু বুলিও কোৱা হয়) হৈছে টাং ৰাজবংশ আৰু তিব্বতৰ মাজত বন্ধুত্বপূৰ্ণ মুখামুখি দেখুওৱাৰ বাবে ইয়ান লিবেনে ৰেচমৰ ওপৰত কৰা এখন চিত্ৰ। এই চিত্ৰখন 129 চেণ্টিমিটাৰ (51 ইঞ্চি) দীঘল আৰু 38.5 চেণ্টিমিটাৰ (15.2 ইঞ্চি) বহল। বুনিয়ান টু বেইজিংৰ দ্য পেলেচ মিউজিয়ামত আছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "চিডাৰ আপেল ৰেষ্ট (জিমনোস্প \"ৰেঞ্জিয়াম জুনিপেৰি-ভাৰ্জিনিয়ানে) হৈছে এক ভেঁকুৰজনিত ৰোগ যাৰ বাবে জুনিপাৰ উদ্ভিদৰ জটিল দুবছৰীয়া জীৱন চক্ৰ সম্পূৰ্ণ কৰাৰ প্ৰয়োজন হয়। বিভিন্ন জুনিপাৰ প্ৰজাতিৰ সৰু সৰু ডালবোৰত ৰঙা-বাদামী পিত্ত হিচাপে শীতকালত বীজাণু থাকে। বসন্তৰ আৰম্ভণিতে, আৰ্দ্ৰ বতৰৰ সময়ত, এই গলবোৰ ফুলি উঠে আৰু উজ্জ্বল কমলা ৰঙৰ বীজাণুবোৰ বতাহৰ দ্বাৰা উৰি যায় য 'ত সেইবোৰে সংবেদনশীল আপেল আৰু কেঁকোৰা-আপেল গছবোৰক সংক্ৰমিত কৰে। এই গছবোৰত বিকশিত হোৱা বীজাণুবোৰে পৰৱৰ্তী বছৰত কেৱল জুনিপাৰকহে সংক্ৰমিত কৰিব। বছৰ বছৰ ধৰি এই ৰোগ জুনিপাৰৰ পৰা আপেললৈ পুনৰ জুনিপাৰলৈ যাব লাগিব; ই আপেল গছৰ মাজত বিয়পিব নোৱাৰে। \n \n আপেল আৰু কেঁকোৰা-আপেল গছবোৰত, ফুল ফুলাৰ কিছু সময়ৰ পিছতে পাতবোৰৰ ওপৰৰ পৃষ্ঠত ফিকে হালধীয়া পিনহেড আকাৰৰ দাগ বিচাৰক। এইবোৰ ক্ৰমান্বয়ে উজ্জ্বল কমলা-হালধীয়া দাগলৈ ডাঙৰ হয় যিয়ে ৰোগটো চিনাক্ত কৰাটো সহজ কৰি তোলে। ফলবোৰতো কমলা ৰঙৰ দাগ দেখা দিব পাৰে। অত্যাধিক সংক্ৰমিত পাতবোৰ অকালতে সৰিব পাৰে। \n \n চিকিৎসা \n 1। উপলব্ধ হ 'লে প্ৰতিৰোধী জাতসমূহ বাছনি কৰক। \n 2। গছৰ তলৰ পৰা পৰি যোৱা পাত আৰু অন্যান্য ধ্বংসাৱশেষ সাৰ পাই আঁতৰাই দিয়ক। \n 3। সংক্ৰমিত জুনিপাৰৰ পৰা গল আঁতৰাওক। কিছুমান ক্ষেত্ৰত জুনিপাৰ উদ্ভিদ সম্পূৰ্ণৰূপে আঁতৰাব লাগে। \n 4। জুনিপাৰ পোষকৰ দ্বাৰা মুকলি হোৱা বীজাণুৰ পৰা গছবোৰক সুৰক্ষিত কৰিবলৈ সাপ্তাহিকভাৱে আপেলত ব্যৱহাৰৰ বাবে লেবেলযুক্ত প্ৰতিৰোধমূলক, ৰোগ-প্ৰতিৰোধী ভেঁকুৰনাশক ব্যৱহাৰ কৰক। এইটো বছৰত মাত্ৰ এবাৰহে হয়, সেয়েহে এই বসন্তকালৰ বিস্তাৰৰ পিছত অতিৰিক্ত আবেদনৰ প্ৰয়োজন নাই। \n 5। জুনিপাৰত, আগষ্টৰ শেষৰ পৰা অক্টোবৰৰ শেষৰ ফালে কমেও চাৰিবাৰ তামৰ দ্ৰৱ (0.5ৰ পৰা 2.0 আউন্স/গেলন পানী) ছটিয়াই জং নিয়ন্ত্ৰণ কৰিব পাৰি। ছেৰেনেড গাৰ্ডেনৰ সহায়ত বেছিভাগ ভেঁকুৰ আৰু বেক্টেৰিয়াৰ ৰোগ সুৰক্ষিতভাৱে চিকিৎসা কৰক। এই বহল বৰ্ণালীৰ জৈৱ-ভেঁকুৰনাশকত জৈৱিক ব্যৱহাৰৰ বাবে পঞ্জীয়ন কৰা বেচিলাছ চাবটিলিছৰ এটা পেটেণ্টযুক্ত প্ৰজাতি ব্যৱহাৰ কৰা হয়। সৰ্বোত্তম কথাটো হ 'ল, ছেৰেনেড মৌমাখি আৰু উপকাৰী পোক-পতংগৰ বাবে সম্পূৰ্ণৰূপে অ-বিষাক্ত। ছালফাৰ আৰু পাইৰেথ্ৰিনযুক্ত, বোনাইড® অৰ্চাৰ্ড স্প্ৰে হৈছে কীটৰ আক্ৰমণ আৰু ভেঁকুৰৰ সমস্যাৰ বাবে এক সুৰক্ষিত, এক-হিট ঘনীভূত। সৰ্বোত্তম ফলাফলৰ বাবে, ঋতুৰ আৰম্ভণিতে সুৰক্ষামূলক স্প্ৰে (2.5 আউন্স/গেলন) হিচাপে প্ৰয়োগ কৰক। যদি ৰোগ, পোক-পতংগ বা সেমেকা বতৰ থাকে, তেন্তে এক গেলন পানীত 5 আউন্স মিহলি কৰক। উদ্ভিদৰ সকলো অংশ, বিশেষকৈ নতুন ডালবোৰ ভালদৰে ছটিয়াই দিয়ক। \n 8। আপোনাৰ অঞ্চলৰ অন্যান্য সম্ভাৱ্য সমাধানৰ বাবে আপোনাৰ স্থানীয় কৃষি সম্প্ৰসাৰণ কাৰ্যালয়ৰ সৈতে যোগাযোগ কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "এন্থ্ৰাকনোজ। বহুতো উদ্ভিদ প্ৰজাতিৰ ৰোগৰ বাবে দায়ী উদ্ভিদৰ ৰোগাণুৰ এটা সাধাৰণ গোট কলেটোট্ৰিকাম গণৰ ভেঁকুৰৰ ফলত এই ৰোগ হয়। সংক্ৰমিত উদ্ভিদবোৰৰ কাণ্ড, পাত বা ফলবোৰত ক 'লা, পানীৰে তিতি থকা ঘাঁ হয়। এই ঘাঁবোৰৰ কেন্দ্ৰবোৰ প্ৰায়ে বিশেষকৈ আৰ্দ্ৰ, উষ্ণ বতৰত গুলপীয়া, জিলাটিনযুক্ত বীজাণুৰে আবৃত হৈ পৰে। এন্থ্ৰাকনোজে এটা সুন্দৰ শস্যক মাত্ৰ কেইদিনমানৰ ভিতৰতে পচা আৱৰ্জনালৈ হ্ৰাস কৰিব পাৰে। \n \n ভেঁকুৰ ৰোগটো বীজ, মাটি আৰু বাগিচাৰ ধ্বংসাৱশেষৰ ভিতৰত আৰু তাত অতিপাত শীত হয়। শীতল আৰ্দ্ৰ বতৰে ইয়াৰ বিকাশত সহায় কৰে, আৰু বীজাণুবোৰৰ অবিৰত বৃদ্ধিৰ বাবে সৰ্বোত্তম তাপমাত্ৰা 75-85 âF-ৰ মাজত থাকে। ভেঁকুৰৰ বিকাশ আৰু অংকুৰণৰ লগতে উদ্ভিদৰ সংক্ৰমণৰ বাবে আৰ্দ্ৰতাৰ প্ৰয়োজন হয়। ই বতাহ, বৰষুণ, পোক-পতংগ আৰু বাগিচাৰ সঁজুলিৰ দ্বাৰা বিয়পে। \n \n চিকিৎসা \n 1। সম্ভৱ হ \"লে প্ৰতিৰোধী উদ্ভিদৰ প্ৰকাৰসমূহ বাছনি কৰক আৰু পশ্চিমীয়া উৎপাদিত বীজ ব্যৱহাৰ কৰক যিবোৰ ৰোগৰ সংস্পৰ্শলৈ অহা নাই। যদি এই ভেঁকুৰৰ সমস্যা সাধাৰণ হয়, তেন্তে আপোনাৰ নিজৰ বীজক ৰোপণৰ পৰা ৰক্ষা নকৰিব। \n 3। ৰোগটো বিয়পাৰ পৰা হাত সাৰিবলৈ, গছবোৰ ভিজা হ 'লে বাগিচাবোৰৰ পৰা আঁতৰি থাকক আৰু ব্যৱহাৰৰ পিছত বাগিচাখনৰ সকলো সঁজুলি (এটা অংশ ব্লিচৰ পৰা 4 অংশ পানী) জীৱাণুমুক্ত কৰাটো নিশ্চিত কৰক। সংক্ৰমিত পাত, ফল বা ডালবোৰ কম্পোষ্ট নকৰিব আৰু শৰৎকালত, শস্য চপোৱাৰ পিছত, ভেঁকুৰৰ বীজাণুৰ বাবে শীতকালৰ স্থানবোৰ হ্ৰাস কৰিবলৈ বাগিচাবোৰ ভালদৰে পৰিষ্কাৰ কৰিব। \n 5। ছেৰেনেড গাৰ্ডেনৰ সহায়ত বেছিভাগ ভেঁকুৰ আৰু বেক্টেৰিয়াৰ ৰোগ সুৰক্ষিতভাৱে চিকিৎসা কৰক। এই বহল বৰ্ণালীৰ জৈৱ-ভেঁকুৰনাশকত জৈৱিক ব্যৱহাৰৰ বাবে পঞ্জীয়ন কৰা বেচিলাছ চাবটিলিছৰ এটা পেটেণ্টযুক্ত প্ৰজাতি ব্যৱহাৰ কৰা হয়। সৰ্বোত্তম কথাটো হ 'ল, ছেৰেনেড মৌমাখি আৰু উপকাৰী পোক-পতংগৰ বাবে সম্পূৰ্ণৰূপে অ-বিষাক্ত। তৰল তামৰ স্প্ৰে আৰু ছালফাৰ পাউডাৰ সাপ্তাহিকভাৱে প্ৰয়োগ কৰিব লাগে, যেতিয়া বসন্তৰ আৰম্ভণিতে পাতবোৰ বিকশিত হ 'বলৈ আৰম্ভ কৰে আৰু গোটেই বৃদ্ধি ঋতুতে অব্যাহত থাকে। দিনটোৰ আৰম্ভণিতে স্প্ৰে কৰক, আৰু গৰম বতৰত প্ৰয়োগ পৰিহাৰ কৰক। ৰোপণৰ পূৰ্বেও বীজবোৰ চিকিৎসা কৰিব পাৰি। \n 7। নিম তেল স্প্ৰে হৈছে এক জৈৱিক, বহুমুখী ভেঁকুৰনাশক/কীটনাশক/মিটিছাইড যিয়ে কণী, লার্ভা আৰু পোক-পতংগৰ প্ৰাপ্তবয়স্ক পৰ্যায় ধ্বংস কৰাৰ লগতে উদ্ভিদৰ ওপৰত ভেঁকুৰৰ আক্ৰমণ প্ৰতিৰোধ কৰে। প্ৰতিৰোধমূলক ব্যৱস্থা হিচাপে প্ৰতি 7-14 দিনৰ মূৰে মূৰে বা বিদ্যমান সমস্যাবোৰ দূৰ নোহোৱালৈকে 7 দিনৰ সূচীত সোনকালে, বসন্তৰ ব \"ডিংৰ প্ৰথম চিনত প্ৰয়োগ কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "ই বেক্টেৰিয়াজনিত কেঙ্কাৰ, চেৰী আৰু প্লামত আটাইতকৈ সচৰাচৰ দেখা যায়, কিন্তু খুবানী, পীচ আৰু আন বহুতো প্ৰকাৰৰ শিলৰ ফলকো প্ৰভাৱিত কৰিব পাৰে। এই উদ্ভিদৰ ৰোগৰ বিষয়ে সন্দেহ কৰিব পাৰি যদি শিপা বা ডালবোৰত ডুব যোৱা, পানীত তিতি থকা বা \"আঠাযুক্ত\" ঘাঁ হয়। যেতিয়া বসন্ত কালত গছবোৰে সক্ৰিয়ভাৱে বৃদ্ধি পাবলৈ আৰম্ভ কৰে, তেতিয়া এই আঘাতপ্ৰাপ্ত অঞ্চলবোৰৰ পৰা এটা টেঙা গোন্ধযুক্ত ৰস ওলাই আহিব পাৰে। কেঙ্কাৰবোৰ চাৰিওফালৰ সুস্থ বাকলতকৈ গাঢ় হৈ পৰে, আৰু অন্তৰ্নিহিত কলা ৰঙা-বাদামীৰ পৰা ক 'লা আৰু আৰ্দ্ৰ হয়। \n \n মন কৰিবঃ যদি কেঙ্কাৰে ডালবোৰ বা কাণ্ডক বেৰ লগাই দিয়ে, তেন্তে ৰোগগ্ৰস্ত অংশৰ ওপৰৰ পাতবোৰ বেঁকা হৈ হালধীয়া হৈ পৰে। বৃদ্ধি বন্ধ হৈ যায় আৰু ডাল বা গছ অৱশেষত মৰি যায়। \n \n কেঙ্কাৰ সৃষ্টি কৰা বেক্টেৰিয়া ছিউডোমোনাছ ছিৰিঙ্গে, আঘাতপ্ৰাপ্ত বাকলি বা বিদ্যমান ঘাঁৰ জৰিয়তে গছত প্ৰৱেশ কৰে, যেনে ডাল বা ডালত কটা কটা। বসন্ত কালত তুষাৰৰ ক্ষতিয়ে অতিৰিক্ত সংক্ৰমণৰ সৃষ্টি কৰিব পাৰে। বেক্টেৰিয়াজনিত কেঙ্কাৰৰ সংক্ৰমণ শৰৎ, শীত আৰু বসন্তৰ আৰম্ভণিতে (ঠাণ্ডা, আৰ্দ্ৰ বতৰৰ সময়ত) হয় আৰু বৰষুণ বা পানী, আৰু ছাঁ পেলোৱা সঁজুলিৰ দ্বাৰা বিয়পে। সক্ৰিয় কেঙ্কাৰ, সংক্ৰমিত কুঁহি আৰু সংক্ৰমিত আৰু সুস্থ গছ আৰু অপতৃণৰ পৃষ্ঠত বেক্টেৰিয়া অতিপাত শীতকাল। \n \n চিকিৎসা \n 1। ফুল ফুলাৰ সময়ত ফুল ফুলা গছবোৰ কাটি লওক যেতিয়া ঘাঁবোৰ দ্ৰুতগতিত ভাল হয়। \n 2। সংক্ৰমিত অঞ্চলৰ তলত শুকাই যোৱা বা মৃত হাত-ভৰি আঁতৰাই দিয়ক। \n 3। বসন্তৰ আৰম্ভণিতে আৰু যেতিয়া বেক্টেৰিয়া আটাইতকৈ সক্ৰিয় হয় তেতিয়া ছাঁ পেলোৱা পৰিহাৰ কৰক। \n 4। সকলো কটা কটা টুকুৰা তৎক্ষণাত টেংলফুট ট্ৰী প্ৰুনিং চিলাৰে ব্যৱহাৰ কৰক আৰু প্ৰতিটো কটাৰ পিছত আপোনাৰ কটা টুকুৰাৰ সঁজুলিবোৰ-এটা অংশ ব্লিচৰ পৰা 4 অংশ পানী-জীৱাণুমুক্ত কৰাটো নিশ্চিত কৰক। \n 5। যদি গছৰ তলৰ চাৰিওফালে ষ্ট্ৰিং ট্ৰিমমাৰ ব্যৱহাৰ কৰা হয় তেন্তে সংক্ৰমণ প্ৰতিৰোধ কৰিবলৈ শ্বাস-প্ৰশ্বাস লোৱা ট্ৰী ৰেপৰ দ্বাৰা ছালৰ ক্ষতিসাধন কৰাৰ পৰা বিৰত থাকক। \n 6 বাকলি-ক্ষতিকাৰক তাপমাত্ৰাৰ উৰ্বৰতা হ্ৰাস কৰিবলৈ পানীৰ সৈতে পাতল কৰা বগা লেটেক্স ৰঙেৰে বাকলি ব্ৰাছ কৰক। \n 7। গৱেষণাই দেখুৱাইছে যে এই শিলৰ ফলৰ সমস্যাৰ বিৰুদ্ধে তামৰ ভেঁকুৰনাশকৰ কিছু সফলতা আছে। কিন্তু ফলাফলবোৰ অসঙ্গতিপূৰ্ণ। আমি ইয়াক সম্পূৰ্ণ ব্যৱস্থাপনা কাৰ্যসূচীৰ এটা অংশ হিচাপে ব্যৱহাৰ কৰাৰ পৰামৰ্শ দিওঁ। \n 8। বায়ু সঞ্চাৰ উন্নত কৰিবলৈ আৰু কাণ্ড আৰু মুকুট শুকান কৰি ৰাখিবলৈ সৰু গছৰ তলৰ চাৰিওফালৰ পৰা অপতৃণ আৰু ঘাঁহ আঁতৰাই দিয়ক। \n 9 অৰ্গেনোচাইড® উদ্ভিদ চিকিৎসক হৈছে এক পৃথিৱী-অনুকূল প্ৰণালীবদ্ধ ভেঁকুৰনাশক যিয়ে সমগ্ৰ উদ্ভিদৰ মাজেৰে অলংকাৰিক, টৰ্ফ, ফল আৰু অধিকৰ ওপৰত বৃহৎ সংখ্যক ৰোগৰ বিৰুদ্ধে যুঁজিবলৈ কাম কৰে। প্ৰতি গেলন পানীত 1/3ৰ পৰা 3/4 আউন্স মিশ্ৰণ কৰক আৰু কটা ঘাঁ আৰু চাৰিওফালৰ অঞ্চলবোৰত ৰং কৰক বা স্প্ৰে কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "ই হৈছে ফুলৰ শেষৰ ৰ 'ট। বিলাহী, জলকীয়া, তিয়ঁহ আৰু বেগুনৰ এক গুৰুতৰ ব্যাধি, ফুলৰ শেষৰ পচনি হৈছে এক পাৰিপাৰ্শ্বিক সমস্যা (ভেঁকুৰ নহয়) যিটো প্ৰায়ে অসম পানী বা কেলচিয়ামৰ অভাৱৰ ফলত হয়। (এইবোৰ সম্পৰ্কিত হ 'ব পাৰে; অসম পানী পৰাটোৱে কেলচিয়াম গ্ৰহণত বাধা দিব পাৰে।) এই সাধাৰণ বাগিচাৰ \"ৰোগ\" প্ৰায়ে অত্যাধিক সাৰৰ দ্ৰুত বৃদ্ধি, উচ্চ নিমখৰ স্তৰ বা খৰাংৰ ফলত হয়। \n \n সেউজীয়া আৰু পকা ফল দুয়োটাতে ফুলৰ শেষৰ পচনিৰ লক্ষণ দেখা যায় আৰু ইয়াক পানীৰে তিতি থকা অঞ্চলৰ দ্বাৰা চিনাক্ত কৰা হয় যি ক্ৰমান্বয়ে বহল হৈ তলৰ ফালে ডুব যোৱা, বাদামী, ছালৰ দাগলৈ পৰিপক্ক হয়। বহু ক্ষেত্ৰত, গৌণ ৰোগাণুবোৰ, যিবোৰ ক 'লা, অস্পষ্ট-সদৃশ বৃদ্ধি হিচাপে দেখা যায়, প্ৰভাৱিত অংশত আক্ৰমণ কৰে আৰু ফলবোৰ সম্পূৰ্ণৰূপে পচাৰ কাৰণ হয়। ফুলৰ শেষত হোৱা পচা গছবোৰ গছৰ পৰা গছলৈ বিয়পি নাযায়। \n \n চিকিৎসা \n যিহেতু এই উদ্ভিদৰ সমস্যাটো শাৰীৰিক প্ৰকৃতিৰ, ভেঁকুৰনাশকসমূহে নিয়ন্ত্ৰণ ব্যৱস্থা হিচাপে কাম নকৰে। আমি নিম্নলিখিতবোৰ পৰামৰ্শ দিওঁঃ \n \n 1। যেতিয়াই সম্ভৱ প্ৰতিৰোধী পাচলিৰ প্ৰকাৰসমূহ বাছনি কৰক। \n 2। মাটি সমানভাৱে আৰ্দ্ৰ কৰি ৰাখি আৰু কেল্প বা কেলচিয়াম দ্ৰৱণেৰে পাতবোৰ ছটিয়াই সমস্যাবোৰ প্ৰতিৰোধ কৰক। \n 3। ৰোপণৰ সময়ত মাটিত উচ্চ পৰিমাণৰ কেলচিয়াম-হাড়ৰ খাদ্য, ঝিনুকৰ আৱৰণ বা জিপচাম-যোগ কৰিলে সাধাৰণতে এই সমস্যাটো বিকশিত হোৱাত বাধা দিয়ে। মাল্চৰ এটা স্তৰে (খেজুৰ, সাৰ, ঘাঁহ) জুলাই আৰু আগষ্টৰ গৰম, শুকান দিনত মাটিৰ আৰ্দ্ৰতা সংৰক্ষণ কৰাত সহায় কৰিব। এই অত্যাৱশ্যকীয় পুষ্টিৰ অভাৱবোৰ সংশোধন বা প্ৰতিৰোধ কৰিবলৈ তৰল কেলচিয়াম 5 শতাংশ (1-2 টেব্লছপি/গেলন পানী) ৰ পাতযুক্ত প্ৰয়োগ ব্যৱহাৰ কৰিব পাৰি। সৰ্বোত্তম ফলাফলৰ বাবে, সংলগ্নতা বৃদ্ধি কৰিবলৈ এটা প্ৰাকৃতিক চাৰ্ফেক্টেণ্টৰ সৈতে একত্ৰিত কৰক আৰু ৰান-অফৰ বিন্দুলৈ পাতবোৰ স্প্ৰে কৰক। মালচিং উদ্ভিদবোৰে আৰ্দ্ৰতা সংৰক্ষণত সহায় কৰিব আৰু অধিক একেধৰণৰ পানীৰ যোগান প্ৰদান কৰিব। \n 7। উদ্ভিদৰ বৃদ্ধি ত্বৰান্বিত কৰা আৰু উদ্ভিদৰ দ্বাৰা কেলচিয়াম গ্ৰহণ হ্ৰাস কৰা উচ্চ নাইট্ৰজেন সাৰৰ ব্যৱহাৰ পৰিহাৰ কৰক। প্লেনেট নেচাৰেলত সন্তুলিত জৈৱিক সাৰৰ এক বৃহৎ নিৰ্বাচন উপলব্ধ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "ই হৈছে ব্ৰাউন ৰট (মনিলিনিয়া ফ্ৰুক্টিকোলা), বাদাম, খুবানী, চেৰী, পীচ আৰু প্লামৰ ফুল আৰু ফলবোৰক প্ৰভাৱিত কৰা আটাইতকৈ সাধাৰণ ভেঁকুৰ ৰোগ। ই মমি কৰা ফল (গছৰ ওপৰত আৰু মাটিত) আৰু সংক্ৰমিত ডালবোৰত অতিপাত বৰষুণ দিয়ে। \n \n এই ৰোগটোৱে প্ৰথমে বসন্ত কালত ফুলবোৰক সংক্ৰমিত কৰে আৰু পুনৰ সৰু সৰু শাখালৈ বৃদ্ধি পায় যাৰ ফলত কঁকাৰ সৃষ্টি হয় যিয়ে কাণ্ডবোৰক বধ কৰিব পাৰে। ৰোগটো গুৰুতৰ হ \"লে বৃহৎ সংখ্যক ফুল উৎপাদন কৰা ডালবোৰ মৰি যায়। মৃত ফুলবোৰ প্ৰায়ে গ্ৰীষ্মকালত সংলগ্ন হৈ থাকে। বিকশিত বা পৰিপক্ক ফলবোৰত বৃত্তাকাৰ বা বাদামী দাগ দেখা যায় যি পৃষ্ঠত দ্ৰুতগতিত বিয়পি পৰে আৰু পচা অঞ্চলত পাতল ধূসৰ ৰঙৰ বীজাণু উৎপন্ন হয়। পচা কলা তুলনামূলকভাৱে দৃঢ় আৰু শুকান হৈ থাকে। \n \n ব্ৰাউন ৰট বীজাণুবোৰ বতাহ, বৰষুণ আৰু পোক-পতংগৰ দ্বাৰা মুকলি বা খোলা নোহোৱা ফুল আৰু সৰু ডালবোৰলৈ লৈ যোৱা হয়। যদি পানী থাকে-হয় বৰষুণ, তুষাৰ বা পানীৰ পৰা-ফুলৰ পৃষ্ঠত বীজাণুবোৰ অংকুৰিত হ 'ব পাৰে আৰু উদ্ভিদটোত প্ৰৱেশ কৰিব পাৰে। ৰোগৰ বিকাশ এক বিস্তৃত তাপমাত্ৰা পৰিসৰত হয় আৰু ফুলবোৰ পাপড়ি পৰি যোৱালৈকে ফুলবোৰ সংক্ৰমিত হ 'ব পাৰে। অনুকূল পৰিস্থিতিত, বাদামী পচা দ্ৰুতগতিত বিয়পে আৰু গছৰ ওপৰত এটা সম্পূৰ্ণ শস্য সম্পূৰ্ণৰূপে ধ্বংস কৰিব পাৰি। \n \n চিকিৎসা \n 1। যেতিয়াই সম্ভৱ প্ৰতিৰোধী প্ৰকাৰসমূহ বাছনি কৰক। \n 2। সংক্ৰমিত উদ্ভিদৰ অংশবোৰ তৎক্ষণাত আঁতৰোৱা আৰু ধ্বংস কৰাটোৱে পৃথক পৃথক গছ আৰু সৰু বাগিচাবোৰত ৰোগৰ জীৱন চক্ৰ ভংগ কৰাত সহায় কৰে, আৰু ক্ষতিকাৰক স্তৰৰ তলত বাদামী পচা ৰাখিবলৈ যথেষ্ট হ 'ব পাৰে। গছৰ তলৰ পৰা যিকোনো পৰি যোৱা ফল বা ধ্বংসাৱশেষ আঁতৰোৱাটো আৰু আঁতৰোৱাটো গুৰুত্বপূৰ্ণ। বায়ু সঞ্চালন উন্নত কৰিবলৈ মাজে মাজে গছবোৰ কাটি লওক। লগতে, ফুল, পাত আৰু ফল তিতি যোৱাৰ পৰা ৰক্ষা কৰিবলৈ তলৰ পৰা পানী দিয়ক। \n 5। সকলো কটা আৰু ঘাঁ বন্ধ কৰিবলৈ আৰু পোক-পতংগ আৰু ৰোগৰ জীৱসমূহৰ পৰা সুৰক্ষা দিবলৈ টেংলফুট প্ৰুনিং চিলাৰ ব্যৱহাৰ কৰক। \n 6 ব্যৱহাৰ কৰিবলৈ সাজু তামৰ ভেঁকুৰনাশক বা ছালফাৰ পাউডাৰ সংক্ৰমিত গছবোৰত সাপ্তাহিকভাৱে প্ৰয়োগ কৰিব লাগে যেতিয়া ফুলবোৰ মাত্ৰ খুলিবলৈ আৰম্ভ কৰে আৰু গোটেই বৃদ্ধিৰ ঋতুত অব্যাহত থাকে। যদি সম্ভৱ হয়, সময়ৰ প্ৰয়োগ যাতে 12 ঘণ্টাৰ শুকান বতৰ প্ৰয়োগৰ পিছত হয়। \n 7। অৰ্গেনোচাইড® উদ্ভিদ চিকিৎসক হৈছে এক পৃথিৱী-অনুকূল প্ৰণালীবদ্ধ ভেঁকুৰনাশক যিয়ে সমগ্ৰ উদ্ভিদৰ মাজেৰে অলংকাৰিক, টৰ্ফ, ফল আৰু অধিকৰ ওপৰত বৃহৎ সংখ্যক ৰোগৰ বিৰুদ্ধে যুঁজিবলৈ কাম কৰে। এই ধ্বংসাত্মক শিলৰ ফলৰ সমস্যাৰ সৈতে মোকাবিলা কৰিবলৈ পাতৰ স্প্ৰে (1 চামুচ/গেলন পানী) হিচাপে প্ৰয়োগ কৰক। \n 8। ছালফাৰ আৰু পাইৰেথ্ৰিনযুক্ত, বোনাইড® অৰ্চাৰ্ড স্প্ৰে হৈছে কীটৰ আক্ৰমণ আৰু ভেঁকুৰৰ সমস্যাৰ বাবে এক সুৰক্ষিত, এক-হিট ঘনীভূত। সৰ্বোত্তম ফলাফলৰ বাবে, ঋতুৰ আৰম্ভণিতে সুৰক্ষামূলক স্প্ৰে (2.5 আউন্স/গেলন) হিচাপে প্ৰয়োগ কৰক। যদি ৰোগ, পোক-পতংগ বা সেমেকা বতৰ থাকে, তেন্তে এক গেলন পানীত 5 আউন্স মিহলি কৰক। উদ্ভিদৰ সকলো অংশ, বিশেষকৈ নতুন ডালবোৰ ভালদৰে স্প্ৰে কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "ই হৈছে ক্লাবৰ মূল। ইয়াৰ ফলত বেছিভাগ ব্ৰাচিকা শস্য (বন্ধাকবি, ব্ৰকলি, ফুলকবি ইত্যাদি) প্ৰভাৱিত হয়।), ক্লাব ৰুট হৈছে উত্তৰ আমেৰিকাৰ ঘৰুৱা বাগিচাৰ এক গুৰুতৰ উদ্ভিদৰ ৰোগ। ই মাটি-বাহিত ভেঁকুৰ প্লাজম \"ডিঅ\" ফ \"ৰা ব্ৰাচিকাৰ ফলত হয় যি শিপাৰ চুলিৰ জৰিয়তে সংবেদনশীল উদ্ভিদক সংক্ৰমিত কৰে। ৰোগগ্ৰস্ত শিপা ফুলি উঠে, বিকৃত হয় আৰু প্ৰায়ে ফাটি যায় আৰু পচিবলৈ ধৰে। ফলস্বৰূপে, উদ্ভিদবোৰে পানী আৰু পুষ্টি সঠিকভাৱে শোষণ কৰাত অসুবিধা পায়। \n \n উদ্ভিদবোৰ প্ৰায়ে দুৰ্বলভাৱে বৃদ্ধি পায় আৰু দিনৰ গৰমত শুকাই যায়; উদ্ভিদবোৰ প্ৰায়ে ঠাণ্ডা ৰাতিৰ সময়ত পুনৰুজ্জীৱিত হয়। বাহিৰৰ পাতবোৰ হালধীয়া, বেঙুনীয়া বা বাদামী হ \"ব পাৰে। ক্লাব ৰুটে উৎপাদন হ্ৰাস কৰিব আৰু সম্পূৰ্ণ শস্য বিফল হ \"ব পাৰে। \n \n বায়ু, পানী আৰু বাগিচাৰ সঁজুলিৰ দ্বাৰা ভেঁকুৰৰ বীজাণু বিয়পিব পাৰে। ৰোগৰ বিকাশ বিভিন্ন পৰিস্থিতিত হ \"ব পাৰে, কিন্তু অত্যাধিক আৰ্দ্ৰতা, মাটিৰ নিম্ন পিএইচ আৰু মাটিৰ তাপমাত্ৰা 64ৰ পৰা 77 ডিগ্ৰী ফাৰেনহাইটৰ ভিতৰত হোৱাৰ বাবে ই অনুকূল। বীজাণুবোৰ মাটিত 10 বছৰলৈকে জীয়াই থাকিব পাৰে। \n \n চিকিৎসা \n 1। ভেঁকুৰনাশক ঔষধে এই মাটিত বাস কৰা অণুজীৱৰ চিকিৎসা নকৰে। \n 2। সম্ভৱ হ \"লে প্ৰতিৰোধী জাতসমূহ বাছনি কৰক। \n 3। বাগিচাখন পৰিষ্কাৰ কৰি ৰাখি আৰু শস্য ঘূৰাই এই ৰোগ হোৱাটো প্ৰতিৰোধ কৰিবলৈ চেষ্টা কৰক। \n 4। মনত ৰাখিব যে এই ৰোগৰ বীজাণুবোৰ মাটিত 20 বছৰলৈকে থাকিব পাৰে। যদি ক্লাব ৰুট থাকে তেন্তে আপুনি মাটি সৌৰীকৰণ কৰিব বিচাৰিব পাৰে। * \n 5। ৰোগৰ সম্ভাৱ্য বৃদ্ধি হ্ৰাস কৰিবলৈ সংক্ৰমিত হ 'ব পৰা সংবেদনশীল অপতৃণ-সৰিয়হ, মূলা, মেষপালকৰ পাৰ্চ নিয়ন্ত্ৰণ কৰক। \n 6। সংক্ৰমিত উদ্ভিদবোৰ সাৱধানে আঁতৰাই দিয়ক আৰু ব্যৱহাৰৰ পিছত বাগিছাৰ সঁজুলিবোৰ (এটা অংশ ব্লিচ কৰি 4 অংশ পানীত) নিষ্ক্ৰিয় কৰক। শৰৎকালত আপোনাৰ বাগিচাত ঝিনুকৰ আৱৰণ বা ডলোমাইট চূণ মিহলি কৰি আপোনাৰ মাটিৰ পিএইচ অধিক ক্ষাৰীয় 7.2 লৈ বৃদ্ধি কৰক। সাধাৰণতে পিএইচ পৰীক্ষা কৰিবলৈ সৰল আৰু সুলভ মাটি পৰীক্ষা কিট উপলব্ধ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "ই হৈছে মাকৈৰ মৰা। বাৰে বাৰে ঘৰৰ পিছফালৰ বাগিচা আৰু সৰু সৰু পামত পোৱা গোমধানৰ ধোঁৱা উষ্টিলাগো জেই ভেঁকুৰৰ ফলত হয় আৰু ডাল, পাত, টেছেল বা কাণত দেখা দিব পাৰে। লক্ষণবোৰ সাধাৰণতে লক্ষ্য কৰা হয় যেতিয়া কাণত কাঠফুলাৰ দৰে টিউমাৰ বা গল উৎপন্ন হয়। এই \"ফুলা\" বোৰ সৰু, বগা-ধূসর অনিয়মত আৰম্ভ হয় যি বীজাণুৰে ভৰাৰ লগে লগে সম্প্ৰসাৰিত হয় আৰু ক 'লা হৈ পৰে। কাণৰ গলবোৰ 4-ৰ পৰা 5 ইঞ্চি ব্যাসলৈ বৃদ্ধি হ 'ব পাৰে আৰু সেইবোৰ ফাটি যোৱাৰ লগে লগে হাজাৰ হাজাৰ বীজাণু মুকলি কৰিব পাৰে। এই ভেঁকুৰৰ বীজাণুবোৰ নতুন উদ্ভিদক সংক্ৰমিত কৰিবলৈ যথেষ্ট দূৰত্বলৈ বতাহৰ দ্বাৰা উৰুৱাই দিয়া হয়। পাতবোৰৰ গলবোৰ সৰু হৈ থাকে আৰু অৱশেষত কঠিন আৰু শুকান হৈ পৰে। \n \n বাগিচাখনৰ ধ্বংসাৱশেষ আৰু মাটিৰ ওপৰত মাকৈ অধিক বৰষুণ দিয়ে। ই বতাহ, বৰষুণ আৰু জলসিঞ্চনৰ দ্বাৰা বহন কৰা হয় আৰু গৰম, শুকান বতৰত সৰ্বশ্ৰেষ্ঠ কাম কৰে। বীজাণুবোৰ 5-ৰ পৰা 7 বছৰলৈকে ব্যৱহাৰযোগ্য হৈ থাকিব পাৰে। খেতি কৰা আৰু উৰুৱাই দিয়া মাটিৰ পৰা হোৱা ঘৰ্ষণকে ধৰি বিভিন্ন আঘাতৰ ফলত হোৱা ক্ষতিয়ে ভেঁকুৰটো উদ্ভিদত প্ৰৱেশ কৰাৰ বাবে বিন্দু প্ৰদান কৰে। \n \n চিকিৎসা \n 1। উপলব্ধ হ 'লে সৰ্বশ্ৰেষ্ঠ প্ৰতিৰোধী প্ৰকাৰবোৰ বাছনি কৰক, যেনে ৰূপালী ৰজা, কল্পনা, উজ্জ্বল আৰু সেনেকা সংবেদন। ঘৰৰ পিছফালৰ বাগিচাবোৰত, ডাঠ ভেঁকুৰৰ বীজাণু মুকলি হোৱাৰ আগতে গলবোৰ সংগ্ৰহ আৰু ধ্বংস কৰাৰ পৰামৰ্শ দিয়া হয়। ই উপলব্ধ ভেঁকুৰৰ বীজাণুৰ সংখ্যা সীমিত কৰিব আৰু ৰোগ-চক্ৰ ভাঙাত সহায় কৰিব। \n 3। খেতিৰ সময়ত শিপা, ডাল আৰু পাতৰ আঘাত পৰিহাৰ কৰি সংক্ৰমণ বিন্দু হ্ৰাস কৰক। \n 4। মন্টেৰী গাৰ্ডেন কীট স্প্ৰে বা অন্যান্য জৈৱিক কীটনাশক ব্যৱহাৰ কৰি কৰ্ণ বোৰাৰৰ দৰে পোক-পতংগৰ পৰা হোৱা ক্ষতি প্ৰতিৰোধ কৰক। \n 5। ভেঁকুৰনাশক ঔষধ এক ফলপ্ৰসূ নিয়ন্ত্ৰণ বিকল্প নহয় কিয়নো ৰোগটো ইমান ব্যাপক আৰু মাটিত বছৰ বছৰ ধৰি থাকিব পাৰে। উচ্চ নাইট্ৰ \"জেন সাৰে ৰোগৰ তীব্ৰতা বৃদ্ধি কৰিব পাৰে-পাচলিৰ বাগিচাত সন্তুলিত জৈৱিক সাৰ ব্যৱহাৰ কৰক। শস্য চপোৱাৰ পিছত বাগিছাৰ সকলো ধ্বংসাৱশেষ আঁতৰাই ধ্বংস কৰক আৰু পৰৱৰ্তী বছৰত শস্য পৰিৱৰ্তনৰ অনুশীলন কৰক। বেগ বা সংক্ৰমিত উদ্ভিদৰ অংশবোৰ জ্বলোৱা-কম্পোষ্ট নকৰিব।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "ই হৈছে ক্ৰাউন গ 'ল, মাটিৰ দ্বাৰা হোৱা বেক্টেৰিয়া এগৰোবেক্টেৰিয়াম টিউমেফেচিয়েন্সৰ ফলত হোৱা এক সাধাৰণ উদ্ভিদৰ ৰোগ। ইয়াক সমগ্ৰ বিশ্বতে পোৱা যায় আৰু আঙুৰ, ৰাসবেৰী, ব্লেকবেৰী আৰু গোলাপকে ধৰি কাঠৰ জোপোহা আৰু গুল্মজাতীয় উদ্ভিদত পোৱা যায়। \n \n ক্ৰাউন গ 'লৰ লক্ষণসমূহৰ ভিতৰত আছে গোলাকাৰ, ফোঁহাৰ দৰে বৃদ্ধি-2 ইঞ্চি বা তাতকৈ ডাঙৰ ব্যাস-যি মাটিৰ ৰেখাৰ ঠিক ওপৰত বা তলৰ শাখা আৰু কাণ্ডত দেখা যায়। কেইবাটাও গল থকা উদ্ভিদবোৰে পানী আৰু পুষ্টি কাণ্ডৰ ওপৰলৈ স্থানান্তৰ কৰিব নোৱাৰে আৰু দুৰ্বল, বৃদ্ধি নোহোৱা আৰু অনুত্পাদক হৈ পৰে। গল টিস্যু বিকশিত কৰি সৰু উদ্ভিদবোৰক বধ কৰিব পাৰি। \n \n ক্ৰাউন গ 'লৰ বাবে দায়ী বেক্টেৰিয়া বহু বছৰ ধৰি মাটিত থাকিব পাৰে আৰু যেতিয়া গলবোৰ আৰ্দ্ৰতাৰে সংপৃক্ত হয় বা পুৰণি গলবোৰ পচিবলৈ ধৰে তেতিয়া মুকলি হয়। সংবেদনশীল উদ্ভিদবোৰ সতেজ ঘাঁ বা ঘৰ্ষণৰ জৰিয়তে সংক্ৰমিত হয়, যাৰ ভিতৰত বহুতো ছাঁ পেলোৱা, হিমায়িত আঘাত, মাটিৰ পোক-পতংগ, খেতি আৰু উদ্ভিদৰ ক্ষতি কৰিব পৰা অন্যান্য কাৰকৰ ফলত হয়। নাৰ্চাৰী ষ্টক প্ৰায়ে কলম আৰু বগিং দাগৰ জৰিয়তে সংক্ৰমিত হয়। \n \n চিকিৎসা \n 1। সম্ভৱ হ \"লে প্ৰতিৰোধী কল্টিভাৰসমূহ বাছনি কৰক আৰু এখন সন্মানীয় নাৰ্চাৰীৰ পৰা উদ্ভিদ ক্ৰয় কৰক। \n 2। ফুলা বা ফুলি উঠাৰ লক্ষণ দেখা দিয়া উদ্ভিদ কিনিব নালাগে। \n 3। সংবেদনশীল উদ্ভিদৰ যত্ন লোৱাৰ সময়ত, মাটিৰ সংস্পৰ্শলৈ আহিব পৰা আঘাত বা কটা ঘাঁ পৰিহাৰ কৰক। \n 4। ষ্ট্ৰিং ট্ৰিমমাৰৰ ক্ষতিৰ পৰা ৰক্ষা পাবলৈ আৰু আপোনাৰ বাগিচাৰ সঁজুলিবোৰ পৰিষ্কাৰ কৰি ৰাখিবলৈ ট্ৰী ৰেপ ব্যৱহাৰ কৰক। \n 5। প্ৰাকৃতিক বাৰলেপৰ সৈতে শীতকালীন সুৰক্ষা প্ৰদান কৰক যাতে ছাল ফাটি নাযায়। \n 6। বহু ক্ষেত্ৰত, বিদ্যমান গলবোৰ তীক্ষ্ণ কটা ছুৰীৰে আঁতৰাব পাৰি। সংক্ৰমিত উদ্ভিদৰ কলাবোৰ ধ্বংস কৰক আৰু ছটিওৱা চিলৰেৰে ঘাঁটোৰ চিকিৎসা কৰক। যদি উদ্ভিদটো আৰোগ্য নহয়, ইয়াক আঁতৰাই ধ্বংস কৰক।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "ই হৈছে ধূসর ৰঙৰ ছাঁত (বট্রিটিছ চিনেৰিয়া)। বিস্তৃত পৰিসৰৰ উদ্ভিদত পোৱা (উল্লেখ কৰিব পৰাকৈ বহুত বেছি), গ্ৰে মোল্ড হৈছে এক ভেঁকুৰৰ ৰোগ যি বাগিচাসমূহৰ মাজেৰে দ্ৰুতগতিত ভ্ৰমণ কৰে, বিশেষকৈ আৰ্দ্ৰ, ঠাণ্ডাৰ পৰা মৃদু বতৰৰ সময়ত। ৰোগৰ লক্ষণবোৰ পাত, কাণ্ড, ফুল আৰু উৎপাদিত সামগ্ৰীৰ ওপৰত ধূসর ৰঙৰ কোমল, ডাঠ দাগ হিচাপে দেখা যায়। বিশেষকৈ আৰ্দ্ৰতা অধিক হ \"লে ঠাইবোৰ ধূসর ভেঁকুৰৰ বীজাণুৰ আৱৰণেৰে আবৃত হ\" ব পাৰে। ফল বা উদ্ভিদবোৰ শুকাই যায় আৰু পচা হয় আৰু প্ৰায়ে পচা অংশৰ তলত ক 'লা, শিলৰ দৰে স্ক্লেৰোটিয়া-কঠিন ভেঁকুৰৰ ফিলামেন্টৰ এক সঘন ভৰ বিকশিত হয়। \n \n ধূসর ছাঁত প্ৰায়ে মাটিৰ পৃষ্ঠৰ ওচৰত বা উদ্ভিদৰ ছাদৰ আটাইতকৈ ঘন অঞ্চলত পোৱা যায়। ই প্ৰথমে শুকাই যোৱা ফুলৰ ওপৰত বিকশিত হয়, তাৰ পিছত উদ্ভিদৰ আন অংশলৈ দ্ৰুতগতিত বিয়পি পৰে। এই ৰোগ সংৰক্ষণ ক্ষেত্ৰতো হ \"ব পাৰে যাৰ ফলত চপোৱা ফল আৰু শাক-পাচলি পচিব পাৰে। \n \n বট্রিটিছ ব্লাইটে উদ্ভিদৰ ওপৰত, মাটিত বা মাটিত, আৰু স্ক্লেৰোটিয়া হিচাপে অতিপাত শীতকালৰ সৃষ্টি কৰে। যেতিয়া পৰিস্থিতি অনুকূল হয় তেতিয়া বীজাণুবোৰ বিকশিত হয়, আৰু বতাহৰ দ্বাৰা বা ফুল বা সৰু পাতবোৰত পানী ছটিয়াই স্থানান্তৰিত কৰা হয়, য 'ত সেইবোৰ অংকুৰিত হয় আৰু উদ্ভিদত প্ৰৱেশ কৰে। বীজাণুবোৰ অংকুৰিত হ 'বলৈ শীতল তাপমাত্ৰা (45-60 F.) আৰু উচ্চ আৰ্দ্ৰতা (93 শতাংশ আৰু তাতকৈ অধিক) প্ৰয়োজন হয়। অংকুৰিত বীজাণুবোৰে খুব কমেই সেউজীয়া, সুস্থ কলাবোৰত পোনপটীয়াকৈ প্ৰৱেশ কৰে, কিন্তু বাঢ়ি অহা উদ্ভিদৰ ঘাঁৰ জৰিয়তে প্ৰৱেশ কৰিব পাৰে। কাটিং বিশেষকৈ সংক্ৰমণৰ প্ৰতি সংবেদনশীল। \n \n চিকিৎসা \n 1। গছ-গছনিৰ মাজত বায়ু সঞ্চালন উন্নত কৰিবলৈ গছ-গছনি কটা বা ষ্টেক কৰক। প্ৰতিটো কটাৰ পিছত আপোনাৰ কটা সঁজুলিবোৰ (এটা অংশ ব্লিচৰ পৰা 4 অংশ পানী) জীৱাণুমুক্ত কৰাটো নিশ্চিত কৰক। যদি ঘৰৰ ভিতৰত বৃদ্ধি হয় তেন্তে বায়ুৰ প্ৰৱাহ উন্নত কৰিবলৈ এটা সৰু ক্লিপ-অন ফেন ব্যৱহাৰ কৰক। \n 3। উদ্ভিদৰ তলৰ মাটি পৰিষ্কাৰ কৰি ৰাখক আৰু যিকোনো পৰি যোৱা ধ্বংসাৱশেষ জমা কৰক। \n 4। উদ্ভিদৰ তলত যথেষ্ট পৰিমাণে জৈৱিক সাৰ বা মাল্চ যোগ কৰক। মল্চবোৰে ভেঁকুৰৰ বীজাণুবোৰক ফুল আৰু পাতবোৰত পুনৰ স্প্লেশ কৰাত বাধা দিব। \n 5। পুলিবোৰক দিনত শুকাবলৈ সময় দিবলৈ ৰাতিপুৱাৰ সময়ত পানী দিয়ক, বা সোৱেকাৰ নলী ব্যৱহাৰ কৰক। \n 6 সংক্ৰমিত উদ্ভিদৰ পাত বা ডালবোৰ কম্পোষ্ট নকৰিব, আৰু ভেঁকুৰৰ বীজাণুৰ বাবে শীতকালৰ স্থানবোৰ হ্ৰাস কৰিবলৈ শৰৎকালত বাগিচাৰ অঞ্চলবোৰ ভালদৰে পৰিষ্কাৰ কৰিব। \n 7। কপাৰ-চ 'আপ ভেঁকুৰনাশক ঔষধে উদ্ভিদক ৰোগৰ বীজাণুৰ পৰা সুৰক্ষিত কৰাত সহায় কৰিব। ফুল ফুলাৰ আৰম্ভণিতে প্ৰয়োগ কৰক আৰু শস্য চপোৱালৈকে প্ৰতি 7-10 দিনৰ মূৰে মূৰে অব্যাহত ৰাখক। বতৰৰ পূৰ্বানুমানত দীঘলীয়া সময়ৰ ঠাণ্ডা, আৰ্দ্ৰ বতৰৰ পূৰ্বানুমান কৰিলে ভেঁকুৰনাশক স্প্ৰে বিশেষভাৱে জৰুৰী হয়। \n 8 ব 'ট্ৰাইটিছ ব্লাইটকে ধৰি বেছিভাগ ভেঁকুৰজনিত ৰোগৰ নিৰাপদভাৱে চিকিৎসা কৰক ছেৰেনেড গাৰ্ডেনৰ সহায়ত। এই বহল বৰ্ণালীৰ জৈৱ-ভেঁকুৰনাশকত জৈৱিক ব্যৱহাৰৰ বাবে পঞ্জীয়ন কৰা বেচিলাছ চাবটিলিছৰ এটা পেটেণ্টযুক্ত ষ্ট্ৰেইন ব্যৱহাৰ কৰা হয়। সৰ্বোত্তম কথাটো হ 'ল, ছেৰেনেড মৌমাখি আৰু উপকাৰী পোক-পতংগৰ বাবে সম্পূৰ্ণৰূপে বিষাক্ত নহয়। \n 9। জৈৱিক ব্যৱহাৰৰ বাবে অনুমোদিত জৈৱিক ভেঁকুৰনাশক মাইকোষ্টপে ৰোগটো দমন কৰা দেখা গৈছে। সংবেদনশীল পাত, ফুল আৰু ফলবোৰত পোনপটীয়াকৈ স্প্ৰে (5 গ্ৰাম/50 লিটাৰ পানী) প্ৰয়োগ কৰা হয়। প্ৰতি 2-3 সপ্তাহৰ মূৰে মূৰে, বা ৰোগৰ চাপৰ ওপৰত নিৰ্ভৰ কৰি প্ৰয়োজন অনুসৰি প্ৰয়োগ কৰক। গ্ৰীণ কিউৰ ফাঙ্গাইচিডত পটাছিয়াম বাইকাৰ্বনেটৰ এটা পেটেণ্টযুক্ত সূত্ৰ থাকে-সাধাৰণতে খাদ্য সামগ্ৰীত ব্যৱহাৰ কৰা হয়-যি সংস্পৰ্শলৈ অহাৰ লগে লগে বহুতো উদ্ভিদৰ ৰোগ বধ কৰে আৰু 2 সপ্তাহলৈকে অৱশিষ্ট সুৰক্ষা প্ৰদান কৰে। ৰোগৰ প্ৰথম লক্ষণ হিচাপে 1-2 চামুচ/গেলন পানী মিহলি কৰক আৰু উদ্ভিদৰ সকলো উন্মুক্ত পৃষ্ঠত প্ৰয়োগ কৰক। সৰ্বোত্তম সুৰক্ষাৰ বাবে, 1-2 সপ্তাহৰ ব্যৱধানত পুনৰাবৃত্তি কৰক যেতিয়ালৈকে ৰোগৰ বিকাশৰ বাবে পৰিস্থিতি আৰু অনুকূল নহয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "এই ৰোগ কি (চমু পৰিচয় দিয়ক) আৰু ইয়াৰ চিকিৎসা কেনেকৈ কৰিব লাগে?",
+        "answer": "ই প্ৰাৰম্ভিক ৰোগ। বিলাহী আৰু আলু গছবোৰত সচৰাচৰ হোৱা প্ৰাৰম্ভিক ৰোগ আল্টাৰনেৰিয়া চোলানী ভেঁকুৰৰ ফলত হয় আৰু সমগ্ৰ আমেৰিকা যুক্তৰাষ্ট্ৰত দেখা যায়। লক্ষণবোৰ প্ৰথমে তলৰ, পুৰণি পাতবোৰত কেন্দ্ৰীভূত বলয়ৰ সৈতে সৰু বাদামী দাগ হিচাপে দেখা দিয়ে যিয়ে \"ষাঁড়ৰ চকু\" আৰ্হি গঠন কৰে। ৰোগটো পৰিপক্ক হোৱাৰ লগে লগে ই পাতৰ পৃষ্ঠত বাহিৰৰ ফালে বিয়পি পৰে যাৰ ফলত ই হালধীয়া হৈ শুকাই যায় আৰু মৰি যায়। অৱশেষত উদ্ভিদৰ কাণ্ড, ফল আৰু ওপৰৰ অংশ সংক্ৰমিত হ 'ব। শস্যসমূহ গুৰুতৰভাৱে ক্ষতিগ্ৰস্ত হ \"ব পাৰে। \n \n প্ৰাৰম্ভিক ব্লাইটে সংক্ৰমিত উদ্ভিদৰ কলাবোৰত অধিক শীতকাল দিয়ে আৰু বৰষুণ, জলসিঞ্চন, পোক-পতংগ আৰু বাগিচাৰ সঁজুলি ছটিয়াই বিয়পে। এই ৰোগ বিলাহীৰ বীজ আৰু আলুৰ কন্দতো হয়। ইয়াৰ নাম থকা স্বত্বেও, বৃদ্ধিৰ বতৰত যিকোনো সময়তে আগতীয়া ৰোগ হ \"ব পাৰে। উচ্চ তাপমাত্ৰা (80-85 âF.) আৰু আৰ্দ্ৰ, আৰ্দ্ৰ পৰিস্থিতিয়ে ইয়াৰ দ্ৰুত বিস্তাৰক উৎসাহিত কৰে। বহু ক্ষেত্ৰত, দুৰ্বলভাৱে পুষ্টিকৰ বা চাপযুক্ত উদ্ভিদবোৰ আক্ৰান্ত হয়। \n \n চিকিৎসা \n বায়ু সঞ্চাৰ উন্নত কৰিবলৈ আৰু ভেঁকুৰৰ সমস্যা হ্ৰাস কৰিবলৈ প্ৰুন বা ষ্টেক উদ্ভিদ। \n প্ৰতিটো কটাৰ পিছত আপোনাৰ কটা কটা কটা অংশবোৰ (এটা অংশ ব্লিচৰ পৰা 4 অংশ পানী) জীৱাণুমুক্ত কৰাটো নিশ্চিত কৰক। \n উদ্ভিদৰ তলৰ মাটি পৰিষ্কাৰ আৰু বাগিচাৰ ধ্বংসাৱশেষৰ পৰা মুক্ত ৰাখক। বীজাণুবোৰ গছ-গছনিৰ ওপৰত পুনৰ ছিঙি যোৱাৰ পৰা ৰক্ষা কৰিবলৈ জৈৱিক সাৰৰ এটা স্তৰ যোগ কৰক। \n পাতবোৰ শুকান কৰি ৰখাত সহায় কৰিবলৈ ড্ৰিপ জলসিঞ্চন আৰু চোৱেকাৰ নলী ব্যৱহাৰ কৰিব পাৰি। \n সৰ্বোত্তম নিয়ন্ত্ৰণৰ বাবে, সাধাৰণতে ৰোগ দেখা দিয়াৰ দুসপ্তাহ পূৰ্বে বা বতৰৰ পূৰ্বানুমানত দীঘলীয়া সময়ৰ আৰ্দ্ৰ বতৰৰ পূৰ্বানুমান কৰাৰ সময়ত তাম-ভিত্তিক ভেঁকুৰনাশক দ্ৰব্য সোনকালে প্ৰয়োগ কৰক। বিকল্পভাৱে, যেতিয়া ৰোগ প্ৰথমে দেখা দিয়ে তেতিয়া চিকিৎসা আৰম্ভ কৰক, আৰু প্ৰয়োজন অনুসৰি প্ৰতি 7-10 দিনত পুনৰাবৃত্তি কৰক। \n তাম আৰু পাইৰেথ্ৰিনযুক্ত, ব 'নাইড® গাৰ্ডেন ডাষ্ট হৈছে বহুতো কীটৰ আক্ৰমণ আৰু ভেঁকুৰৰ সমস্যাৰ বাবে এক সুৰক্ষিত, এক-পদক্ষেপ নিয়ন্ত্ৰণ। সৰ্বোত্তম ফলাফলৰ বাবে পাতৰ ওপৰৰ আৰু তলৰ অংশ দুয়োটাকে পাতল ইউনিফৰ্ম ফিল্ম বা ধূলিৰে ঢাকি দিয়ক। পাতৰ ঘনত্বৰ ওপৰত নিৰ্ভৰ কৰি, 10 আউন্সে 625 বৰ্গ ফুট আৱৰি ৰাখিব। প্ৰয়োজন অনুসৰি প্ৰতি 7-10 দিনত প্ৰয়োগৰ পুনৰাবৃত্তি কৰক। \n ছেৰেনেড গাৰ্ডেন হৈছে এক বিস্তৃত বৰ্ণালী, বহুতো গুৰুত্বপূৰ্ণ উদ্ভিদৰ ৰোগ নিয়ন্ত্ৰণ বা দমনৰ বাবে পৰামৰ্শ দিয়া প্ৰতিৰোধমূলক জৈৱ-ভেঁকুৰনাশক। সৰ্বোত্তম ফলাফলৰ বাবে, পাতৰ ৰোগ বিকশিত হোৱাৰ আগতে বা সংক্ৰমণৰ প্ৰথম চিনত চিকিৎসা কৰক। 7 দিনৰ ব্যৱধানত বা প্ৰয়োজন অনুসৰি পুনৰাবৃত্তি কৰক। \n শস্য চপোৱাৰ পিছত বাগিছাৰ সকলো ধ্বংসাৱশেষ আঁতৰাই ধ্বংস কৰক আৰু পৰৱৰ্তী বছৰত শস্য পৰিৱৰ্তনৰ অনুশীলন কৰক। \n উদ্ভিদৰ সংক্ৰমিত অংশবোৰ জ্বলোৱা বা মোনা কৰা। কম্পোষ্ট নকৰিব।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "ছাৰ আইজাক নিউটন এফ. আৰ. এছ. (25 ডিচেম্বৰ 1642-20 মাৰ্চ) এজন ইংৰাজ গণিতবিদ, পদাৰ্থ বিজ্ঞানী, জ্যোতিৰ্বিজ্ঞানী, আলকেমিষ্ট, ঈশ্বৰতত্ত্ববিদ আৰু লেখক আছিল যাক তেওঁৰ সময়ত প্ৰাকৃতিক দাৰ্শনিক হিচাপে বৰ্ণনা কৰা হৈছিল। তেওঁ বৈজ্ঞানিক বিপ্লৱ আৰু তাৰ পিছত হোৱা প্ৰজ্ঞাৰ এক গুৰুত্বপূৰ্ণ ব্যক্তিত্ব আছিল। 1687 চনত প্ৰথমবাৰৰ বাবে প্ৰকাশিত তেওঁৰ অগ্ৰণী গ্ৰন্থ ফিলোসোফি নেচাৰেলিছ প্রিন্সিপিয়া মেথেমেটিকা (প্ৰাকৃতিক দৰ্শনৰ গাণিতিক নীতি)-এ পূৰ্বৰ বহুতো ফলাফল একত্ৰিত কৰিছিল আৰু ধ্ৰুপদী বলবিজ্ঞান প্ৰতিষ্ঠা কৰিছিল। নিউটনে আলোকবিজ্ঞানৰ ক্ষেত্ৰতো গুৰুত্বপূৰ্ণ অৱদান আগবঢ়াইছিল, আৰু জাৰ্মান গণিতবিদ গটফ্ৰাইড ৱিলহেল্ম লেইবনিজৰ সৈতে অসীম কেল্কুলাছ বিকশিত কৰাৰ কৃতিত্ব ভাগ বতৰা কৰিছিল।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "কনফুচিয়াছ (ইংৰাজীঃ Confuchius; চীনাঃ; পিনয়িনঃ; বা সাধাৰণতে;;;;; 551-479 খ্ৰীষ্টপূৰ্ব) এগৰাকী চীনা দাৰ্শনিক আৰু বসন্ত আৰু শৰৎ কালৰ ৰাজনীতিবিদ আছিল যাক পৰম্পৰাগতভাৱে চীনা ঋষিসকলৰ দৃষ্টান্ত বুলি গণ্য কৰা হয়। কনফুচিয়াছৰ শিক্ষা আৰু দৰ্শনে পূব এছিয়াৰ সংস্কৃতি আৰু সমাজক আধাৰিত কৰে, যি আজিও সমগ্ৰ চীন আৰু পূব এছিয়াত প্ৰভাৱশালী হৈ আছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "কাই লুন (চীনাঃ চীনুছ; সৌজন্যতাপূৰ্ণ নাম জিংজং; c. 50-62-121 খ্ৰীষ্টাব্দ), পূৰ্বতে চাই লুন হিচাপে ৰোমানীকৰণ কৰা হৈছিল, পূব হান ৰাজবংশৰ এগৰাকী চীনা নপুংসক দৰবাৰৰ বিষয়া আছিল। তেওঁক পৰম্পৰাগতভাৱে কাগজ আৰু আধুনিক কাগজ নিৰ্মাণ প্ৰক্ৰিয়াৰ উদ্ভাৱক হিচাপে গণ্য কৰা হয়। যদিও খ্ৰীষ্টপূৰ্ব 3য় শতিকাৰ পৰাই কাগজৰ প্ৰাৰম্ভিক ৰূপসমূহৰ অস্তিত্ব আছিল, তথাপিও তেওঁ গছৰ বাকলি আৰু শণৰ টোপোলাৰ জৰিয়তে মজ্জা যোগ কৰাৰ বাবে কাগজৰ ইতিহাসত এক গুৰুত্বপূৰ্ণ স্থান দখল কৰিছিল যাৰ ফলত কাগজৰ বৃহৎ পৰিমাণৰ উৎপাদন আৰু বিশ্বজুৰি বিস্তাৰ হৈছিল।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "ক্ৰিষ্টফৰ কলম্বাছ (25 আগষ্টৰ পৰা 31 অক্টোবৰ 1451-20 মে '1506) আছিল গণৰাজ্য জেনোৱাৰ এগৰাকী ইটালীয় অন্বেষণকাৰী আৰু নাবিক যিয়ে কেথলিক ৰজাৰ পৃষ্ঠপোষকতাত আটলাণ্টিক মহাসাগৰ পাৰ হৈ চাৰিটা স্পেনিছ-আধাৰিত যাত্ৰা সম্পূৰ্ণ কৰিছিল, যাৰ ফলত আমেৰিকাৰ ব্যাপক ইউৰোপীয় অন্বেষণ আৰু ইউৰোপীয় উপনিৱেশিকৰণৰ পথ মুকলি হৈছিল। তেওঁৰ অভিযানসমূহ আছিল কেৰিবিয়ান আৰু মধ্য আৰু দক্ষিণ আমেৰিকাৰ সৈতে প্ৰথম ইউৰোপীয় যোগাযোগ।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "এলবাৰ্ট আইনষ্টাইন (14 মাৰ্চ 1879-18 এপ্ৰিল 1955) এজন জাৰ্মান বংশোদ্ভূত তাত্ত্বিক পদাৰ্থ বিজ্ঞানী আছিল। আপেক্ষিকতাবাদ তত্ত্বৰ বিকাশৰ বাবে আটাইতকৈ বেছি পৰিচিত, তেওঁ কোৱাণ্টাম বলবিজ্ঞান তত্ত্বৰ বিকাশত গুৰুত্বপূৰ্ণ অৱদান আগবঢ়াইছিল, আৰু এনেদৰে আধুনিক পদাৰ্থবিজ্ঞানলৈ। আপেক্ষিকতা তত্ত্বৰ পৰা উদ্ভৱ হোৱা তেওঁৰ ভৰ-শক্তি সমতুল্য সূত্ৰ E = mc2-ক \"বিশ্বৰ আটাইতকৈ বিখ্যাত সমীকৰণ\" বুলি অভিহিত কৰা হৈছে। তেওঁৰ কাম বিজ্ঞান দৰ্শনৰ ওপৰত ইয়াৰ প্ৰভাৱৰ বাবেও জনাজাত। তেওঁ 1921 চনত পদাৰ্থ বিজ্ঞানৰ নবেল বঁটা লাভ কৰিছিল \"তাত্ত্বিক পদাৰ্থ বিজ্ঞানৰ ক্ষেত্ৰত তেওঁৰ সেৱাৰ বাবে, আৰু বিশেষকৈ ফটোইলেক্ট্ৰিক প্ৰভাৱৰ নিয়মৰ আৱিষ্কাৰৰ বাবে\", যি কোৱাণ্টাম তত্ত্বৰ বিকাশৰ এক গুৰুত্বপূৰ্ণ পদক্ষেপ। পৰিৱৰ্তন তালিকাৰ অন্যতম সংশ্লেষিত উপাদান আইনষ্টাইনিয়ামৰ নাম তেওঁৰ সন্মানত ৰখা হৈছিল।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "লুই পেষ্টাৰ ফৰএমইএমআৰএছ (27 ডিচেম্বৰ 1822-28 ছেপ্টেম্বৰ 1895) এজন ফৰাচী ৰসায়নবিদ আৰু মাইক্ৰ 'বায়' লজিষ্ট আছিল যি টিকাকৰণ, মাইক্ৰ 'বায়েল ফেৰমেন্টেচন, আৰু পেষ্টুৰাইজেচনৰ নীতিৰ আৱিষ্কাৰৰ বাবে বিখ্যাত, যাৰ শেষৰটো তেওঁৰ নামেৰে নামকৰণ কৰা হৈছিল। ৰসায়ন বিজ্ঞানৰ ওপৰত তেওঁৰ গৱেষণাই ৰোগৰ কাৰণ আৰু প্ৰতিৰোধৰ বুজ লোৱাৰ ক্ষেত্ৰত উল্লেখযোগ্য সফলতা লাভ কৰিছিল, যিয়ে পৰিষ্কাৰ-পৰিচ্ছন্নতা, জনস্বাস্থ্য আৰু বহু আধুনিক চিকিৎসাৰ ভেটি স্থাপন কৰিছিল। ৰেবিজ আৰু এন্থ্ৰাক্সৰ প্ৰতিষেধকৰ বিকাশৰ জৰিয়তে লাখ লাখ লোকৰ জীৱন ৰক্ষা কৰাৰ কৃতিত্ব পেষ্টাৰৰ কামক দিয়া হয়। তেওঁক আধুনিক বেক্টেৰিয় 'লজীৰ অন্যতম প্ৰতিষ্ঠাপক হিচাপে গণ্য কৰা হয় আৰু তেওঁক \"বেক্টেৰিয়' লজীৰ পিতৃ\" আৰু \"মাইক্ৰ 'বায়' লজীৰ পিতৃ\" হিচাপে সন্মানিত কৰা হয় (ৰবাৰ্ট কোচৰ সৈতে একেলগে; পিছৰ বিশেষণটো এণ্টনি ভেন লিউৱেনহুকৰ নামেৰেও অভিহিত কৰা হয়)।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "গেলিলিও ডি ভিনচেঞ্জো ব 'নাইউটি ডি' গেলিলি (15 ফেব্ৰুৱাৰী 1564-8 জানুৱাৰী 1642) এজন ইটালীয় জ্যোতিৰ্বিজ্ঞানী, পদাৰ্থ বিজ্ঞানী আৰু অভিযন্তা আছিল, যাক কেতিয়াবা পলিমেথ হিচাপে বৰ্ণনা কৰা হয়। সাধাৰণতে গেলিলিঅ 'বুলি উল্লেখ কৰা হয়, তেওঁৰ নামটো উচ্চাৰণ কৰা হয়/ত্তন্ন৆-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল-এল। তেওঁৰ জন্ম হৈছিল পিসা চহৰত, যিটো তেতিয়া ফ্লোৰেন্সৰ ডুচীৰ অংশ আছিল। গেলিলিঅ 'ক পৰ্যবেক্ষণমূলক জ্যোতিৰ্বিজ্ঞান, আধুনিক যুগৰ ধ্ৰুপদী পদাৰ্থবিজ্ঞান, বৈজ্ঞানিক পদ্ধতি আৰু আধুনিক বিজ্ঞানৰ পিতৃ বুলি কোৱা হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "সম্ৰাট নৰ্টন নামেৰে পৰিচিত জছুৱা আব্ৰাহাম নৰ্টন (4 ফেব্ৰুৱাৰী, 1818-8 জানুৱাৰী, 1880) কেলিফৰ্ণিয়াৰ ছান ফ্ৰান্সিস্কোৰ বাসিন্দা আছিল, যিয়ে 1859 চনত নিজকে \"নৰ্টন প্ৰথম, আমেৰিকা যুক্তৰাষ্ট্ৰৰ সম্ৰাট\" বুলি ঘোষণা কৰিছিল। 1863 চনত নেপোলিয়ন তৃতীয়ই মেক্সিকো আক্ৰমণ কৰাৰ পিছত তেওঁ \"প্ৰটেক্টৰ অৱ মেক্সিকো\" উপাধি গ্ৰহণ কৰে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "লিওনেল এণ্ড্ৰেছ মেচি (স্পেনিছ উচ্চাৰণঃ [ljo ˈnel an ˈdɾes ˈmesi] (শুনক); জন্ম 24 জুন 1987), যাক লিও মেচি বুলিও জনা যায়, এগৰাকী আৰ্জেণ্টিনাৰ পেছাদাৰী ফুটবল খেলুৱৈ যি লিগ 1 ক্লাব পেৰিছ ছেইণ্ট-জাৰ্মেইনৰ বাবে ফৰৱাৰ্ড হিচাপে খেলে আৰু আৰ্জেণ্টিনা ৰাষ্ট্ৰীয় দলৰ অধিনায়ক। সৰ্বকালৰ সৰ্বশ্ৰেষ্ঠ খেলুৱৈসকলৰ ভিতৰত এজন বুলি গণ্য কৰা মেছিয়ে অভিলেখ সংখ্যক সাতটা বেলন ডি 'অৰ বঁটা আৰু অভিলেখ সংখ্যক ছয়টা ইউৰোপীয় গ' ল্ডেন শ্বু লাভ কৰিছে, আৰু 2020 চনত তেওঁক বেলন ডি 'অৰ ড্ৰিম দললৈ মনোনীত কৰা হৈছিল। 2021 চনত ক্লাব এৰি যোৱাৰ আগলৈকে তেওঁ তেওঁৰ গোটেই পেচাদাৰী কেৰিয়াৰটো বাৰ্চিলোনাৰ সৈতে অতিবাহিত কৰিছিল, য 'ত তেওঁ ক্লাব-ৰেকৰ্ড 34 খন ট্ৰফী লাভ কৰিছিল, যাৰ ভিতৰত আছে দহটা লা লিগা খিতাপ, সাতটা কোপা দেল ৰে খিতাপ আৰু চাৰিবাৰ ইউইএফএ চেম্পিয়ন্ছ লীগ। নিজৰ দেশৰ সৈতে তেওঁ 2021 চনৰ কোপা আমেৰিকা আৰু 2022 চনৰ ফিফা বিশ্বকাপ জয় কৰিছিল। এগৰাকী সফল গ \"ল স্কোৰাৰ আৰু সৃষ্টিশীল প্লেমেকাৰ মেছিয়ে লা লিগাত সৰ্বাধিক গ\" ল (474), লা লিগাত সৰ্বাধিক হেট্ৰিক (36) আৰু ইউইএফএ চেম্পিয়ন্ছ লীগত (আঠ), আৰু লা লিগাত সৰ্বাধিক সহায় (192) আৰু কোপা আমেৰিকাত (17) অভিলেখ গঢ়িছে। দক্ষিণ আমেৰিকাৰ এজন পুৰুষৰ দ্বাৰা তেওঁৰ সৰ্বাধিক আন্তঃৰাষ্ট্ৰীয় গ 'ল আছে (102)। মেছিয়ে ক্লাব আৰু দেশৰ হৈ 800ৰো অধিক জ্যেষ্ঠ কেৰিয়াৰ গ 'ল কৰিছে, আৰু এটা ক্লাবৰ হৈ এজন খেলুৱৈৰ দ্বাৰা সৰ্বাধিক গ' ল (672) কৰিছে।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "আপুনি এই ব্যক্তিজনৰ এটা চমু পৰিচয় দিব পাৰিবনে?",
+        "answer": "এলেন মেথিছন টুৰিং অ '. বি. ই. এফ. আৰ. এছ. (ইংৰাজীঃ এলান মেথিছন টুৰিং অ'. বি. ই. এফ. আৰ. এছ.; 23 জুন 1912-7 জুন 1954) এজন ইংৰাজ গণিতবিদ, কম্পিউটাৰ বিজ্ঞানী, লজিচিয়ান, ক্ৰিপ্টানালিষ্ট, দাৰ্শনিক আৰু তাত্ত্বিক জীৱবিজ্ঞানী আছিল। তাত্ত্বিক কম্পিউটাৰ বিজ্ঞানৰ বিকাশত টুৰিঙে অত্যন্ত প্ৰভাৱশালী আছিল, যিয়ে টুৰিং যন্ত্ৰৰ সৈতে এলগৰিথম আৰু গণনাৰ ধাৰণাসমূহৰ আনুষ্ঠানিককৰণ প্ৰদান কৰিছিল, যাক সাধাৰণ উদ্দেশ্যৰ কম্পিউটাৰৰ আৰ্হি হিচাপে গণ্য কৰিব পাৰি। তেওঁক বহুলভাৱে তাত্ত্বিক কম্পিউটাৰ বিজ্ঞান আৰু কৃত্ৰিম বুদ্ধিমত্তাৰ পিতৃ বুলি গণ্য কৰা হয়।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "তলৰ গ্ৰাফে দীৰ্ঘম্যাদী আন্তঃৰাষ্ট্ৰীয় প্ৰব্ৰজন, ইউকে, 1999-2008 দেখুৱায়। \n \n মূল বৈশিষ্ট্যসমূহ বাছনি কৰি আৰু প্ৰতিবেদন দি তথ্যৰ সাৰাংশ প্রস্তুত কৰক, আৰু য 'ত প্ৰাসংগিক তাত তুলনা কৰক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "এই চাৰ্টখনে 1999 চনৰ পৰা 2008 চনৰ ভিতৰত ইউকেৰ প্ৰব্ৰজন, প্ৰব্ৰজন আৰু নিট প্ৰব্ৰজনৰ বিষয়ে তথ্য প্ৰদান কৰে। \n \n দেখুওৱা সময়ছোৱাত প্ৰব্ৰজন আৰু প্ৰব্ৰজনৰ হাৰ দুয়োটাই বৃদ্ধি পাইছিল, কিন্তু প্ৰব্ৰজনৰ সংখ্যা যথেষ্ট বেছি আছিল। 2004 আৰু 2007 চনত নিট প্ৰব্ৰজন শীৰ্ষত উপনীত হৈছিল। \n \n 1999 চনত, 450,000ৰো অধিক লোক ইউ. কে.-ত বাস কৰিবলৈ আহিছিল, আনহাতে প্ৰব্ৰজন কৰা লোকৰ সংখ্যা আছিল মাত্ৰ 300,000ৰ তলত। মুঠ প্ৰব্ৰজনৰ সংখ্যা আছিল প্ৰায় 160,000, আৰু ই 2003 চনলৈকে একে স্তৰত আছিল। 1999 চনৰ পৰা 2004 চনলৈকে প্ৰব্ৰজনৰ হাৰ প্ৰায় 150,000 লোকে বৃদ্ধি কৰিছিল যদিও প্ৰব্ৰজনৰ হাৰ যথেষ্ট কম আছিল। 2004 চনত মুঠ প্ৰব্ৰজন প্ৰায় 250,000 লোকৰ শীৰ্ষত উপনীত হৈছিল। \n \n 2004 চনৰ পিছত, প্ৰব্ৰজনৰ হাৰ অধিক আছিল, কিন্তু প্ৰব্ৰজন কৰা লোকৰ সংখ্যা হ্ৰাস-বৃদ্ধি হৈছিল। 2008 চনত প্ৰায় 4,20,000 লোকৰ শীৰ্ষত উপনীত হোৱাৰ পূৰ্বে 2007 চনত প্ৰব্ৰজন হঠাতে হ্ৰাস পাইছিল। ফলস্বৰূপে, 2007 চনত মুঠ প্ৰব্ৰজনৰ সংখ্যা প্ৰায় 240,000 লৈ বৃদ্ধি পাইছিল, কিন্তু 2008 চনত প্ৰায় 160,000 লৈ হ্ৰাস পাইছিল।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "তলৰ গ্ৰাফ আৰু তালিকাখনে বিশ্বজুৰি পানীৰ ব্যৱহাৰ আৰু দুটা পৃথক দেশত পানীৰ ব্যৱহাৰৰ বিষয়ে তথ্য দিয়ে। \n \n মূল বৈশিষ্ট্যসমূহ বাছনি কৰি আৰু প্ৰতিবেদন দি তথ্যৰ সাৰাংশ প্রস্তুত কৰক, আৰু য 'ত প্ৰাসংগিক তাত তুলনা কৰক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "চাৰ্টবোৰে বিশ্বজুৰি কৃষি, উদ্যোগ আৰু ঘৰৰ বাবে ব্যৱহৃত পানীৰ পৰিমাণ আৰু ব্ৰাজিল আৰু কংগো গণতান্ত্ৰিক গণৰাজ্যত পানীৰ ব্যৱহাৰৰ তুলনা কৰিছে। \n \n এইটো স্পষ্ট যে 1900 চনৰ পৰা 2000 চনৰ ভিতৰত বিশ্বব্যাপী পানীৰ প্ৰয়োজনীয়তা যথেষ্ট বৃদ্ধি পাইছিল, আৰু ব্যৱহৃত পানীৰ সৰ্বাধিক অনুপাত কৃষিৰ বাবে আছিল। আমি এইটোও দেখিব পাৰো যে কংগোতকৈ ব্ৰাজিলত পানীৰ ব্যৱহাৰ যথেষ্ট বেছি আছিল। \n \n 1900 চনত বিশ্বজুৰি কৃষি খণ্ডত প্ৰায় 500 কিলোমিটাৰ পানী ব্যৱহাৰ কৰা হৈছিল। ঔদ্যোগিক আৰু ঘৰুৱা পানী ব্যৱহাৰৰ পৰিমাণ সেই পৰিমাণৰ প্ৰায় এক পঞ্চমাংশ আছিল। 2000 চনৰ ভিতৰত কৃষিৰ বাবে বিশ্বব্যাপী পানীৰ ব্যৱহাৰ প্ৰায় 3000 কিলোমিটাৰলৈ বৃদ্ধি পাইছিল, ঔদ্যোগিক পানীৰ ব্যৱহাৰ সেই পৰিমাণৰ মাত্ৰ আধাৰো কমলৈ বৃদ্ধি পাইছিল, আৰু ঘৰুৱা ব্যৱহাৰ প্ৰায় 500 কিলোমিটাৰত উপনীত হৈছিল। \n \n 2000 চনত ব্ৰাজিল আৰু কংগোৰ জনসংখ্যা আছিল ক্ৰমে 176 নিযুত আৰু 5.2 নিযুত। ব্ৰাজিলত প্ৰতিজন ব্যক্তিৰ পানীৰ ব্যৱহাৰ, 359 মিটাৰ 3, কংগোতকৈ বহু বেছি আছিল, মাত্ৰ 8 মিটাৰ 3, আৰু ইয়াক এই কথাৰ দ্বাৰা ব্যাখ্যা কৰিব পাৰি যে ব্ৰাজিলত 265 গুণ অধিক জলসিঞ্চন কৰা ভূমি আছিল।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "তলৰ চাৰ্টবোৰে 1970 চনৰ পৰা 2000 চনৰ ভিতৰত আমেৰিকা যুক্তৰাষ্ট্ৰৰ বিবাহ আৰু বিবাহ বিচ্ছেদৰ হাৰ, আৰু দুবছৰৰ ভিতৰত প্ৰাপ্তবয়স্ক আমেৰিকানসকলৰ বৈবাহিক স্থিতিৰ বিষয়ে তথ্য দিয়ে। \n \n মূল বৈশিষ্ট্যসমূহ বাছনি কৰি আৰু প্ৰতিবেদন দি তথ্যৰ সাৰাংশ প্রস্তুত কৰক, আৰু য 'ত প্ৰাসংগিক তাত তুলনা কৰক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "প্ৰথম বাৰ চাৰ্টে আমেৰিকা যুক্তৰাষ্ট্ৰত বিবাহ আৰু বিবাহ বিচ্ছেদৰ সংখ্যাৰ পৰিৱৰ্তন দেখুৱাইছে, আৰু দ্বিতীয় চাৰ্টে 1970 আৰু 2000 চনত আমেৰিকাৰ প্ৰাপ্তবয়স্কসকলৰ বৈবাহিক স্থিতিৰ সংখ্যা দেখুৱাইছে। \n \n এইটো স্পষ্ট যে 1970 চনৰ পৰা 2000 চনৰ ভিতৰত আমেৰিকা যুক্তৰাষ্ট্ৰত বিবাহৰ সংখ্যা হ্ৰাস পাইছিল। বেছিভাগ প্ৰাপ্তবয়স্ক আমেৰিকানৰ দুয়োটা বছৰতে বিবাহ হৈছিল, কিন্তু 2000 চনত একক প্ৰাপ্তবয়স্কৰ অনুপাত অধিক আছিল। \n \n 1970 চনত আমেৰিকা যুক্তৰাষ্ট্ৰত 25 লাখ বিবাহ আৰু 10 লাখ বিবাহ বিচ্ছেদ হৈছিল। 1980 চনত বিবাহৰ হাৰ স্থিৰ হৈ আছিল, কিন্তু 2000 চনৰ ভিতৰত 20 লাখলৈ হ্ৰাস পাইছিল। ইয়াৰ বিপৰীতে, বিবাহ বিচ্ছেদৰ হাৰ 1980 চনত শীৰ্ষত উপনীত হৈছিল, প্ৰায় 15 লাখ বিবাহ বিচ্ছেদ হৈছিল, এই সময়ছোৱাৰ শেষত \n 1 নিযুতলৈ হ্ৰাস পোৱাৰ আগতে। \n \n আমেৰিকাৰ প্ৰায় 70 শতাংশ প্ৰাপ্তবয়স্ক লোকে 1970 চনত বিবাহপাশত আৱদ্ধ হৈছিল, কিন্তু 2000 চনৰ ভিতৰত এই সংখ্যা 60 শতাংশতকৈ কমলৈ হ্ৰাস পাইছিল। একে সময়তে, অবিবাহিত লোক আৰু বিবাহ বিচ্ছেদৰ অনুপাত মুঠ প্ৰায় 10 শতাংশ বৃদ্ধি পাইছে। 2000 চনত বিধৱা আমেৰিকানৰ অনুপাত অলপ কম আছিল।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "তলৰ চাৰ্টত চাৰিখন ইউৰোপীয় দেশৰ ছয়টা উপভোক্তা সামগ্ৰীৰ বাবে ব্যয় কৰা পৰিমাণ দেখুওৱা হৈছে। \n \n তলত দেখুওৱা তথ্যসমূহ বৰ্ণনা কৰি বিশ্ববিদ্যালয়ৰ এগৰাকী প্রভাষকৰ বাবে এটা প্ৰতিবেদন লিখক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "বাৰ চাৰ্টত জাৰ্মানী, ইটালী, ফ্ৰান্স আৰু ব্ৰিটেইনৰ ছটা ভিন্ন সামগ্ৰীৰ ওপৰত গ্ৰাহকৰ ব্যয়ৰ তুলনা কৰা হৈছে। \n \n এইটো স্পষ্ট যে ব্ৰিটিছ লোকসকলে আন তিনিখন দেশৰ লোকৰ তুলনাত ছটা সামগ্ৰীৰ বাবে যথেষ্ট বেছি ধন ব্যয় কৰিছিল। ছয়টা সামগ্ৰীৰ ভিতৰত গ্ৰাহকে ফটোগ্ৰাফিক ফিল্মৰ বাবে সৰ্বাধিক ধন খৰচ কৰিছিল। \n \n ব্ৰিটেইনৰ মানুহে ফটোগ্ৰাফিক ফিল্মৰ বাবে মাত্ৰ 170,000 পাউণ্ডৰো অধিক খৰচ কৰিছিল, যিটো চাৰ্টত দেখুওৱা সৰ্বাধিক সংখ্যা। ইয়াৰ বিপৰীতে, জাৰ্মানসকল আছিল সৰ্বনিম্ন সামগ্ৰিক ব্যয়কাৰী, ছয়টা সামগ্ৰীৰ প্ৰতিটোৰ বাবে প্ৰায় একে সংখ্যা (মাত্ৰ 150,000 পাউণ্ডৰ তলত) আছিল। \n \n পুতলাৰ বাবে খৰচ কৰাৰ পৰিমাণ ফ্ৰান্স আৰু ইটালী দুয়োটাতে একে আছিল, প্ৰায় 160,000 পাউণ্ড। অৱশ্যে, ফৰাচী লোকসকলে ফটোগ্ৰাফিক ফিল্ম আৰু চিডিৰ বাবে ইটালীয়সকলতকৈ অধিক খৰচ কৰাৰ বিপৰীতে ইটালীয়সকলে ব্যক্তিগত ষ্টেৰিঅ ', টেনিছ ৰেকেট আৰু পাৰফিউমৰ বাবে অধিক ধন খৰচ কৰিছিল। ফ্ৰান্সৰ লোকসকলে টেনিছ ৰেকেটৰ বাবে ব্যয় কৰা পৰিমাণ, প্ৰায় 145,000 পাউণ্ড, চাৰ্টত দেখুওৱা সৰ্বনিম্ন সংখ্যা।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "তলৰ তালিকাখনত ছয়খন চহৰৰ ভূগৰ্ভস্থ ৰে \"ল ব্যৱস্থাৰ বিষয়ে তথ্য দিয়া হৈছে। \n \n মূল বৈশিষ্ট্যসমূহ বাছনি কৰি আৰু প্ৰতিবেদন দি তথ্যৰ সাৰাংশ প্রস্তুত কৰক, আৰু য 'ত প্ৰাসংগিক তাত তুলনা কৰক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "তালিকাখনত ছয়খন মুখ্য চহৰৰ ভূগৰ্ভস্থ ৰে \"ল নেটৱৰ্কৰ তথ্য দেখুওৱা হৈছে। \n \n তালিকাখনত ছখন নেটৱৰ্কৰ বয়স, আকাৰ আৰু প্ৰতি বছৰে সেইবোৰ ব্যৱহাৰ কৰা লোকৰ সংখ্যাৰ ক্ষেত্ৰত তুলনা কৰা হৈছে। এইটো স্পষ্ট যে তিনিটা আটাইতকৈ পুৰণি ভূগৰ্ভস্থ ব্যৱস্থা ডাঙৰ আৰু নতুন ব্যৱস্থাসমূহতকৈ উল্লেখযোগ্যভাৱে অধিক যাত্ৰীক সেৱা আগবঢ়ায়। \n \n লণ্ডন ভূমিগত হৈছে আটাইতকৈ পুৰণি ব্যৱস্থা, যিটো 1863 চনত মুকলি কৰা হৈছিল। ই 394 কিলোমিটাৰ পথৰ সৈতে সৰ্ববৃহৎ ব্যৱস্থাও। পেৰিছৰ দ্বিতীয় সৰ্ববৃহৎ ব্যৱস্থাটো 199 কিলোমিটাৰ পথৰ সৈতে লণ্ডনৰ ভূগৰ্ভস্থ পথৰ মাত্ৰ আধা আকাৰৰ। অৱশ্যে, ই প্ৰতি বছৰে অধিক লোকক সেৱা আগবঢ়ায়। আকাৰৰ ক্ষেত্ৰত মাত্ৰ তৃতীয় স্থানত থকাৰ বিপৰীতে প্ৰতি বছৰে 1927 নিযুত যাত্ৰীৰ সৈতে টকিঅ 'ব্যৱস্থাটো আটাইতকৈ সহজে ব্যৱহাৰ কৰা হয়। \n \n তিনিটা নতুন নেটৱৰ্কৰ ভিতৰত ৱাশ্বিংটন ডি. চি. ভূগৰ্ভস্থ আটাইতকৈ বিস্তৃত, 126 কিলোমিটাৰ পথৰ সৈতে, কিয়োটো আৰু লছ এঞ্জেলেছ ব্যৱস্থাৰ বাবে মাত্ৰ 11 কিলোমিটাৰ আৰু 28 কিলোমিটাৰৰ তুলনাত। 2001 চনত মুকলি হোৱা লছ এঞ্জেলেছ নেটৱৰ্ক হৈছে আটাইতকৈ নতুন, আনহাতে কিয়োটো নেটৱৰ্ক আটাইতকৈ সৰু আৰু প্ৰতি বছৰে মাত্ৰ 45 নিযুত যাত্ৰীক সেৱা আগবঢ়ায়।",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "তলৰ তালিকাখনত 2002 চনত পাঁচটা ভিন্ন দেশত বিভিন্ন সামগ্ৰীৰ ওপৰত গ্ৰাহকৰ ব্যয়ৰ তথ্য দিয়া হৈছে। \n \n মূল বৈশিষ্ট্যসমূহ বাছনি কৰি আৰু প্ৰতিবেদন দি তথ্যৰ সাৰাংশ প্রস্তুত কৰক, আৰু য 'ত প্ৰাসংগিক তাত তুলনা কৰক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "তালিকাখনত 2002 চনত পাঁচটা দেশত তিনিটা শ্ৰেণীৰ সামগ্ৰী আৰু সেৱাৰ বাবে উপভোক্তা ব্যয়ৰ শতাংশ দেখুওৱা হৈছে। \n \n এইটো স্পষ্ট যে প্ৰতিখন দেশৰ গ্ৰাহক ব্যয়ৰ সৰ্বাধিক অনুপাত খাদ্য, পানীয় আৰু ধঁপাতত ব্যয় কৰা হৈছিল। আনহাতে, অৱসৰ/শিক্ষাৰ শ্ৰেণীত তালিকাৰ সৰ্বনিম্ন শতাংশ আছে। \n \n পাঁচখন দেশৰ ভিতৰত, খাদ্য, পানীয় আৰু ধঁপাতৰ ওপৰত গ্ৰাহকৰ ব্যয় তুৰ্কীত লক্ষণীয়ভাৱে অধিক আছিল, 32.14%, আৰু আয়াৰলেণ্ডত, প্ৰায় 29%। অৱসৰ আৰু শিক্ষাৰ ক্ষেত্ৰত ব্যয়ৰ অনুপাতও তুৰস্কত সৰ্বাধিক আছিল, 4.35%, আনহাতে ইটালীত কাপোৰ আৰু জোতাৰ ক্ষেত্ৰত ব্যয় উল্লেখযোগ্যভাৱে অধিক আছিল, 9 শতাংশ, আন যিকোনো দেশৰ তুলনাত। \n \n এইটো দেখিবলৈ পোৱা যায় যে খাদ্য/পানীয়/ধঁপাত আৰু কাপোৰ/জোতাৰ বাবে ৰাষ্ট্ৰীয় উপভোক্তা ব্যয়ৰ আটাইতকৈ কম শতাংশ আছিল ক্ৰমে প্ৰায় 16 শতাংশ আৰু মাত্ৰ 5 শতাংশতকৈ কিছু বেছি। এই শ্ৰেণীসমূহৰ বাবে স্পেইনৰ সংখ্যা অলপ বেছি আছিল, কিন্তু অৱসৰ/শিক্ষাৰ বাবে সৰ্বনিম্ন সংখ্যা আছিল কেৱল 1.98%।",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "তলৰ পাই চাৰ্টবোৰে 1980 আৰু 2000 চনত অষ্ট্ৰেলিয়া আৰু ফ্ৰান্সত ইন্ধনৰ উৎসৰ দ্বাৰা বিদ্যুৎ উৎপাদনৰ একক দেখুৱাইছে। \n \n মূল বৈশিষ্ট্যসমূহ বাছনি কৰি আৰু প্ৰতিবেদন দি তথ্যৰ সাৰাংশ প্রস্তুত কৰক, আৰু য 'ত প্ৰাসংগিক তাত তুলনা কৰক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "পাই চাৰ্টবোৰে দুটা পৃথক বছৰত দুয়োখন দেশত ইন্ধনৰ পাঁচটা ভিন্ন উৎস ব্যৱহাৰ কৰি উৎপাদিত বিদ্যুতৰ পৰিমাণ তুলনা কৰে। \n \n 1980 চনৰ পৰা 2000 চনলৈকে অষ্ট্ৰেলিয়া আৰু ফ্ৰান্স দুয়োটাতে মুঠ বিদ্যুৎ উৎপাদন নাটকীয়ভাৱে বৃদ্ধি পাইছিল। যদিও দুয়োখন দেশৰ বাবে মুঠ সমান আছিল, ব্যৱহৃত ইন্ধনৰ উৎসবোৰত বৃহৎ পাৰ্থক্য আছিল। \n \n 1980 চনত অষ্ট্ৰেলিয়াত মুঠ 100 ইউনিট বিদ্যুৎৰ ভিতৰত 50 ইউনিট বিদ্যুৎ উৎপাদন কৰিবলৈ কয়লা ব্যৱহাৰ কৰা হৈছিল, 2000 চনত 170 ইউনিটৰ ভিতৰত 130 ইউনিটলৈ বৃদ্ধি পাইছিল। ইয়াৰ বিপৰীতে, 2000 চনত পাৰমাণৱিক শক্তি ফ্ৰান্সৰ আটাইতকৈ গুৰুত্বপূৰ্ণ ইন্ধনৰ উৎস হৈ পৰিছিল, যি দেশখনৰ প্ৰায় 75 শতাংশ বিদ্যুৎ উৎপাদন কৰিছিল। \n \n অষ্ট্ৰেলিয়া দুয়োখন বছৰতে ইয়াৰ বিদ্যুতৰ মাত্ৰ 25 শতাংশতকৈ কম বিদ্যুৎৰ বাবে জলবিদ্যুৎৰ ওপৰত নিৰ্ভৰশীল আছিল, কিন্তু এই ধৰণৰ শক্তি ব্যৱহাৰ কৰি উৎপাদিত বিদ্যুতৰ পৰিমাণ ফ্ৰান্সত 5ৰ পৰা মাত্ৰ 2 ইউনিটলৈ হ্ৰাস পাইছিল। আনহাতে, ফ্ৰান্সত তেল তুলনামূলকভাৱে এক গুৰুত্বপূৰ্ণ ইন্ধনৰ উৎস হৈ আছিল, কিন্তু অষ্ট্ৰেলিয়াত ইয়াৰ ব্যৱহাৰ হ্ৰাস পাইছিল। দুয়োখন দেশে বিদ্যুৎ উৎপাদনৰ বাবে 2000 চনতকৈ 1980 চনত যথেষ্ট বেছি প্ৰাকৃতিক গেছৰ ওপৰত নিৰ্ভৰ কৰিছিল।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "চৰ্লিউড হৈছে লণ্ডনৰ ওচৰৰ এখন গাঁও যাৰ জনসংখ্যা ঊনবিংশ শতিকাৰ মাজভাগৰ পৰা ক্ৰমান্বয়ে বৃদ্ধি পাইছে। তলৰ মানচিত্ৰখনত গাওঁখনৰ উন্নয়ন দেখুওৱা হৈছে। \n \n বিশ্ববিদ্যালয়ৰ এগৰাকী প্রভাষকৰ বাবে গাওঁখনৰ উন্নয়নৰ বিষয়ে বৰ্ণনা কৰি এটা প্ৰতিবেদন লিখক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "মানচিত্ৰখনত 1868 চনৰ পৰা 1994 চনৰ ভিতৰত চৰ্লিউড নামৰ এখন গাঁৱৰ বিকাশ দেখুওৱা হৈছে। \n \n এইটো স্পষ্ট যে পৰিবহণ আন্তঃগাঁথনি উন্নত হোৱাৰ লগে লগে গাওঁখন বৃদ্ধি পাইছিল। মানচিত্ৰখনত উন্নয়নৰ চাৰিটা সময়কাল দেখুওৱা হৈছে, আৰু প্ৰতিটো জনবহুল অঞ্চল মূল পথ, ৰেলপথ বা মটৰৱেৰ ওচৰত আছে। \n \n 1868 চনৰ পৰা 1883 চনলৈকে চৰ্লিউডে এটা মুখ্য পথৰ কাষৰ এটা সৰু এলেকা সামৰি লৈছিল। চৰ্লিউড পাৰ্ক আৰু গ 'ল্ফ ক' ৰ্চ এতিয়া এই মূল গাঁও অঞ্চলৰ কাষত অৱস্থিত। 1883 চনৰ পৰা 1922 চনৰ ভিতৰত দক্ষিণৰ মূল পথৰ কাষত এই গাওঁখনৰ বিকাশ ঘটিছিল আৰু 1909 চনত এই অঞ্চলটো পশ্চিমৰ পৰা পূবলৈ পাৰ হৈ এটা ৰে \"লপথ নিৰ্মাণ কৰা হৈছিল। চৰ্লিউড ষ্টেচনটো গাওঁখনৰ এই অংশত আছে। \n \n 1970 চনলৈকে ৰে 'লপথৰ কাষত পূব আৰু পশ্চিমলৈ চৰ্লিউডৰ সম্প্ৰসাৰণ অব্যাহত আছিল। সেই সময়ত, গাওঁখনৰ পূবে এখন মটৰৱে নিৰ্মাণ কৰা হৈছিল, আৰু 1970 চনৰ পৰা 1994 চনলৈকে, ৰে 'লৱে আৰু এটা মুখ্য পথৰ সৈতে মটৰৱে ছেদনপথৰ চাৰিওফালে গাওঁখনৰ অধিক বিকাশ ঘটিছিল।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "তলৰ মানচিত্ৰখন গাৰ্লছডন চহৰৰ। চহৰখনৰ বাবে এখন নতুন চুপাৰ মাৰ্কেট (এছ) ৰ পৰিকল্পনা কৰা হৈছে। মানচিত্ৰখনত চুপাৰ মাৰ্কেটৰ বাবে দুটা সম্ভাৱ্য স্থান দেখুওৱা হৈছে। \n \n মূল বৈশিষ্ট্যসমূহ বাছনি কৰি আৰু প্ৰতিবেদন দি তথ্যৰ সাৰাংশ প্রস্তুত কৰক, আৰু য 'ত প্ৰাসংগিক তাত তুলনা কৰক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "মানচিত্ৰখনত গাৰ্লছডন নামৰ এখন চহৰত এখন নতুন চুপাৰ মাৰ্কেটৰ বাবে দুটা সম্ভাৱ্য স্থান (এছ1 আৰু এছ2) দেখুওৱা হৈছে। \n \n দুয়োটা স্থানৰ মাজৰ মূল পাৰ্থক্যটো হ 'ল এছ1 চহৰৰ বাহিৰত আছে, আনহাতে এছ2 চহৰৰ কেন্দ্ৰত আছে। পথ বা ৰে 'লৰ দ্বাৰা প্ৰৱেশৰ ক্ষেত্ৰতো স্থানবোৰক তুলনা কৰিব পাৰি, আৰু তিনিটা সৰু চহৰৰ তুলনাত তেওঁলোকৰ অৱস্থান তুলনা কৰিব পাৰি। \n \n তথ্যবোৰ অধিক বিশদভাৱে চালে, এছ1 গাৰ্লছডনৰ উত্তৰ-পশ্চিমৰ গ্ৰাম্য অঞ্চলত আছে, কিন্তু ই চহৰখনৰ আৱাসিক অঞ্চলৰ ওচৰত আছে। এছ2 চহৰৰ কেন্দ্ৰটোৰ চাৰিওফালে থকা আৱাসগৃহৰ ওচৰত আছে। \n \n হিণ্ডন, ব্ৰেন্সডন আৰু ক্ৰেন্সডনৰ পৰা গাৰ্লছডন টাউন চেণ্টাৰলৈ মুখ্য পথ আছে, কিন্তু ই এক নো ট্ৰেফিক জ 'ন, সেয়েহে গাড়ীৰে এছ2লৈ প্ৰৱেশ কৰিব নোৱাৰিব। ইয়াৰ বিপৰীতে, এছ1 হিণ্ডনক যোৱা মূল পথত অৱস্থিত, কিন্তু ব্ৰেন্সডন আৰু ক্ৰেন্সডনৰ পৰা ইয়ালৈ যোৱাটো অধিক কঠিন হ 'ব। দুয়োটা চুপাৰ মাৰ্কেট স্থান হিণ্ডনৰ পৰা ক্ৰেন্সডনলৈ গাৰ্লছডনৰ মাজেৰে যোৱা ৰেলপথৰ ওচৰত আছে।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "তলৰ চিত্ৰটোৱে দেখুৱাইছে যে কেনেদৰে অষ্ট্ৰেলিয়ান বতৰ বিজ্ঞান ব্যুৰোৱে নিৰ্ভৰযোগ্য পূৰ্বানুমান প্ৰস্তুত কৰিবলৈ বতৰৰ ওপৰত শেহতীয়া তথ্য সংগ্ৰহ কৰে। \n \n তলত দেখুওৱা তথ্যসমূহ বৰ্ণনা কৰি বিশ্ববিদ্যালয়ৰ এগৰাকী প্রভাষকৰ বাবে এটা প্ৰতিবেদন লিখক। \n \n আপুনি কমেও 150টা শব্দ লিখিব লাগে।",
+        "answer": "এই সংখ্যাটোৱে অষ্ট্ৰেলিয়াৰ বতৰ বিজ্ঞান ব্যুৰোৱে বতৰৰ পূৰ্বানুমান কৰিবলৈ ব্যৱহাৰ কৰা প্ৰক্ৰিয়াটো বৰ্ণনা কৰে। \n \n বতৰৰ বিষয়ে তথ্য সংগ্ৰহৰ পৰা আৰম্ভ কৰি এই প্ৰক্ৰিয়াটোত চাৰিটা পৰ্যায় আছে। এই তথ্যসমূহ তাৰ পিছত বিশ্লেষণ কৰা হয়, উপস্থাপনৰ বাবে প্ৰস্তুত কৰা হয় আৰু শেষত জনসাধাৰণৰ আগত সম্প্ৰচাৰ কৰা হয়। \n \n প্ৰক্ৰিয়াটোৰ প্ৰথম আৰু দ্বিতীয় পৰ্যায়লৈ চাই বতৰৰ তথ্য সংগ্ৰহ কৰাৰ তিনিটা উপায় আছে আৰু ইয়াক বিশ্লেষণ কৰাৰ তিনিটা উপায় আছে। প্ৰথমতে, আগত অহা তথ্য উপগ্ৰহৰ দ্বাৰা গ্ৰহণ কৰিব পাৰি আৰু উপগ্ৰহৰ ফটো হিচাপে বিশ্লেষণৰ বাবে উপস্থাপন কৰিব পাৰি। একে তথ্য এটা ৰাডাৰ ষ্টেচনলৈও পঠিয়াব পাৰি আৰু ৰাডাৰ স্ক্ৰীণ বা ছাইনপ্টিক চাৰ্টত উপস্থাপন কৰিব পাৰি। দ্বিতীয়তে, আগত অহা তথ্যসমূহ পোনপটীয়াকৈ ৰাডাৰৰ দ্বাৰা সংগ্ৰহ কৰা হ \"ব পাৰে আৰু ৰাডাৰ স্ক্ৰীণ বা ছাইনপ্টিক চাৰ্টত বিশ্লেষণ কৰা হ\" ব পাৰে। অৱশেষত, বিচলিত বয়বোৰেও তথ্য প্ৰাপ্ত কৰে যাক এটা ছাইনপ্টিক চাৰ্টত দেখুৱাব পাৰি। \n \n প্ৰক্ৰিয়াটোৰ তৃতীয় পৰ্যায়ত, বতৰৰ সম্প্ৰচাৰ কম্পিউটাৰত প্ৰস্তুত কৰা হয়। অৱশেষত, ইয়াক টেলিভিছনত, ৰেডিঅ 'ত বা ৰেকৰ্ড কৰা টেলিফোন ঘোষণা হিচাপে জনসাধাৰণৰ ওচৰলৈ প্ৰেৰণ কৰা হয়।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

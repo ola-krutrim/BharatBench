@@ -1,0 +1,3 @@
+                   rec      ocr      know   gen  spat  math     total  std        runs
+mm-vet_Hindi  35.53333  30.3125  28.09524  33.5  28.0  15.0  31.74312  0.0  [31.74312]
+

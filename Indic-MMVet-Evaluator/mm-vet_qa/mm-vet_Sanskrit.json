@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "समीकरणे x इति किं भवति?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "अन्तिमे समीकरणे d इति किं भवति?",
+        "answer": "1.25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "समीकरणे x इति किं भवति?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "अधस्तन-वाम-समीकरणस्य उत्तरं किम्?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "दक्षिणस्यां दिशि द्वितीय-समीकरणस्य किं उत्तरम् अस्ति?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "दक्षिणस्यां दिशि द्वितीय-अन्तिम-समीकरणस्य किं उत्तरम् अस्ति?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "अन्तिमे समीकरणे y इति किम् अस्ति?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"X\" प्रचालकं कथं पुनर्परिभाषितमस्ति इति निदर्शनं अन्विष्य, चित्रे प्रदत्तस्य समीकरणस्य उत्तरं ददातु।",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "दक्षिणायां स्थिता बालिका फलकस्य उपरि किं लिखति?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "$50 इत्यनेन कियत् ग्यालन् सर्वोच्चग्यासोलिन् प्राप्तुं शक्नोमि?",
+        "answer": "13. 6 <अथवा> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "डीज़ल्-इन्धनस्य सामान्य-पेट्रोल्-इन्धनस्य च मूल्यस्य भेदः कः?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "चित्रे दर्शिते मेर्लोट् इत्यस्य कुपी तथा केबर्नेट् इत्यस्य कुपी इत्येतयोः कुलमूल्यं कियत्?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "मोयट् शैम्पेन् इत्यस्य त्रिषु कुपीनां मूल्यं कियत्?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "अहं एकं फङ्गी पिज़्ज़ा, एकं प्रोसियोट्टो पिज़्ज़ा च प्राप्नोमि। आहत्य कियत् दातव्यम्?",
+        "answer": "14. 8 <अथवा> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "अहं द्वयं मार्गेरिटा पिज़्ज़ा, एकं काल्ज़ोन् च प्राप्नोमि। आहत्य कियत् दातव्यम्?",
+        "answer": "25. 8 <अथवा> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "डिस्कौण्ट् इत्यस्य पूर्वं शूकरमांसस्य मूलमूल्यं किम् अस्ति?",
+        "answer": "14।",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "पेट्रोल् इत्यस्य मूल्यं किम्?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "अग्रभागे वामभागे स्थिते व्यक्त्या ध्रियमाणस्य टोप्याः वर्णः कः?",
+        "answer": "नीलवर्णः।",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "शैम्पू इत्यस्य दक्षिणभागे किम् अस्ति?",
+        "answer": "वातानुकूलकः।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "अधिकतमे कुडके किम् अस्ति?",
+        "answer": "मौस्से",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "फ्रिस्बी इत्यस्य पुरुषस्य च मध्ये स्थानिकः सम्बन्धः कः?",
+        "answer": "पुरुषस्य उपरि <OR> उपरि वामभागे",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "पार्किङ्ग्-स्पाट् 33 मध्ये कः कार् अस्ति?",
+        "answer": "न <अथवा> रिक्तम्",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "कस्मिन् स्थाने रक्तवर्णस्य कार्-यानस्य पार्किङ्ग् अस्ति?",
+        "answer": "31।",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "तमालपत्रस्य मूल्यं किम्?",
+        "answer": "8 <अथवा> 8.0",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "प्लम् इत्यस्य कः फलः अधिकारः अस्ति?",
+        "answer": "नारङ्गवर्णः",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "चित्रस्य आधारेण टीना फे इत्यस्य समग्र-अन्ताराष्ट्रिय-अवबोधः कः?",
+        "answer": "35 प्रतिशतं",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "चित्रस्य आधारेण, कस्मिन् देशे टीना फे इत्यस्य समग्र-जागरूकतायाः उच्चतमः स्तरः अस्ति?",
+        "answer": "आस्ट्रेलिया-देशः",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "2 क्रमाङ्कः भूमेः किं आन्तरिकं संरचनां सूचयति?",
+        "answer": "मेन्टल्",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "पीत-सूट्-धारकेन मोटार्सैकल्-चालकेन चालयिते मोटार्सैकल्-याने कः सङ्ख्या प्रदर्शिता अस्ति?",
+        "answer": "16।",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "दक्षिणदिशि स्थिते मोटार्सैकल्-याने कः सङ्ख्या दृश्यते?",
+        "answer": "4।",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "एतयोः विमानद्वये कः बृहत्तरः अस्ति?",
+        "answer": "समानम्।",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "व्यक्तिः कार्-यानात् बृहत्तरः अस्ति वा?",
+        "answer": "न।",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "पिष्ठं खण्डरूपेण विभाजनात् पूर्वं, पिष्ठं पिहित्वा मया किं करणीयम्?",
+        "answer": "उष्णस्थानम् <अण्ड्> 1 घण्टा",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "अण्डस्य दुग्धस्य च मिश्रणे किमहं शर्कराम् योजयिष्यामि?",
+        "answer": "न।",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "वनौषधानि, सास्सेज्, मशरूम्स् च कर्तनात् पूर्वं मया किं करणीयम्?",
+        "answer": "पानं लघुतरं चालयतु।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "यदा सर्व-प्रयोजन-पीतं योजयितुं आवश्यकं भवति तदा चरणस्य सूचकाङ्कः कः?",
+        "answer": "तृतीयः <अथवा> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "तृतीये चरणे किं योजयितव्यम्?",
+        "answer": "क्षीरम्।",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "अङ्गुलीनां छेदनानन्तरं बालकाः किं कुर्युः?",
+        "answer": "एकपादं गच्छतु।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "चतुर्थपादे किं ग्रहीतुं शक्यते?",
+        "answer": "नासिका",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "टयर्-पञ्चर् इत्यस्य प्रसारार्थं प्रोब् इत्यस्य उपयोगात् परं कः उपायः भवति?",
+        "answer": "पुनर्निर्माणं निष्कासय।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "द्वितीयः सोपानः कः सूचितः?",
+        "answer": "भवतः श्रोतृणां परिचयं करोतु।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "चित्रे दत्तं अन्तिमं तन्त्रं किम्?",
+        "answer": "गीतं रचय।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "फ़ोर्ड्-एफ्150 इत्येतम् अतिरिच्य सामान्यं कुल-इन्धन-व्ययः कियत् अस्ति?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "इन्धनस्य सर्वाधिकः व्ययः कः?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "प्लास्टिकस्य निर्मीयमाणस्य निक्षिप्तस्य च परिमाणस्य दृष्ट्या प्लास्टिकस्य पुनर्चक्रणे कः वर्गः निकृष्टतमं कार्यं कृतवान्?",
+        "answer": "प्याकेजिङ्ग्",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "उत्पादिते प्लास्टिकस्य परिमाणस्य परित्यक्तस्य परिमाणस्य च मध्ये मेट्रिक्-टन्-मध्ये किं अन्तरः अस्ति?",
+        "answer": "105।",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "2023 वर्षस्य प्राक्कलितः सामान्यः स्थायीशुल्कः कः?",
+        "answer": "271।",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "2023 वर्षस्य प्राक्कलित-कुलव्ययः कः?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "वासगृहस्य वातायनस्य मुखं कस्मिन् दिशायाम् अस्ति?",
+        "answer": "उत्तरस्यां दिशि",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "अस्मिन् फ्लोर्प्लान् इत्यस्मिन् पाकशालायां कानि उपकरणे स्तः?",
+        "answer": "ओवन <AND> डिशवॉशर",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "कः कक्षः बृहत्तरः अस्ति, द्विकक्षागारः वा वासगृहः वा?",
+        "answer": "द्विगुणित-गारेज्",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "कः कक्षः बृहत्तरः अस्ति, मास्टर्-शयनगृहः वा आँगनः वा?",
+        "answer": "गुरु-शयनगृहम्",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "दीपं प्लग्-इन् कृत्वा बल्ब् इत्यस्य दाहः भवति चेत् किं उपायः?",
+        "answer": "ब्लब् इत्यस्य स्थाने स्थापयतु।",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "फ्लोचार्ट् मध्ये किं सोपानं वज्र-आकृत्या अङ्कितं भवति?",
+        "answer": "जलं उत्कीर्णं भवति वा?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "शय्यातः आरोहणार्थं सामान्यः प्रतीक्षाकालः कः?",
+        "answer": "15 निमेषाः",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "कस्मिन् वर्षे मध्यमगृहमूल्यस्य वृद्धिः सर्वाधिकः अस्ति?",
+        "answer": "2008 तमे वर्षे",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012 तमे वर्षे जपान्-देशस्य जी. डी. पी. किम् अस्ति?",
+        "answer": "6, 233.15 बिलियन यू. एस्. डालर्",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "केषु वर्षेषु रोयिङ्ग् अथ्लेटिक्स् मध्ये समानसङ्ख्याकाः स्वर्णपदकाः आसन्?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "यः व्यक्तिः सर्वाधिकं वेतनं प्राप्नुयात् सः कः विभागः?",
+        "answer": "प्रशासनम्",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "पट्टिकायाः आधारेण विल्किन्स् कियत् अर्जयति?",
+        "answer": "2500 <अथवा> 2500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "कस्मिन् देशे लाभपरिमाणं माध्यात् न्यूनम् अस्ति?",
+        "answer": "भारतम्",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "कस्मिन् देशे सर्वाधिकं लाभपरिमाणं वर्तते?",
+        "answer": "आस्ट्रेलिया-देशः",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "कस्मिन् मासे सर्वाधिकः आयः उत्पन्नः भवति?",
+        "answer": "फेब्रुवरी",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "कुल-आयस्य कृते वेतनस्य कियत् प्रतिशतं योगदानं भवति?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "वामभागे कः व्यक्तिः अस्ति?",
+        "answer": "कीरा नैट्ली",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "चित्रे कः व्यक्तिः अस्ति?",
+        "answer": "मिशेल् योह्",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "अधः दक्षिणभागे कः व्यक्तिः अस्ति?",
+        "answer": "जेमी डोर्नन्",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "कः मधुरः नास्ति?",
+        "answer": "ओट्",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "अयं आपल् जैविकः अस्ति वा?",
+        "answer": "अस्ति।",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "सम्पूर्णस्य सञ्चिकायाः केलोरी कियत् भवति?",
+        "answer": "275।",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "अस्य भोजनस्य नाम किम्?",
+        "answer": "मेपो टोफू",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "अस्य भोजनस्य नाम किम्?",
+        "answer": "काप्रिस् सलाड्",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "अस्य भोजनस्य नाम किम्?",
+        "answer": "पाड् थाय्",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "वामभागे कार्-यानस्य स्वरूपं किम्?",
+        "answer": "वोल्क्स्वागन्",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "अयं कर्मागारः किं निर्माति?",
+        "answer": "छायाचित्रग्राहकः।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "कार्-यानस्य हरितचिह्नं किम् अस्ति?",
+        "answer": "राक्षसः।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "अस्य स्थलचिह्नस्य नाम किम्?",
+        "answer": "ट्रेवी फौण्टेन्",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "अस्य स्थलचिह्नस्य नाम किम्?",
+        "answer": "अनबरिया मस्जिदः",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "अस्य स्थलचिह्नस्य नाम किम्?",
+        "answer": "बाओचु पगोडा",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "अस्य ब्याङ्क्-नोट् इत्यस्य मुखमूल्यं किम्?",
+        "answer": "पञ्च <अथवा> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "एतत् ब्याङ्क्-नोट् किम्?",
+        "answer": "दश पौण्ड् <अथवा> 10 पौण्ड् <अथवा> ब्रिटिश् पौण्ड्",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "एतत् ब्याङ्क्-नोट् कस्मिन् प्रकारस्य मुद्रां सूचयति?",
+        "answer": "स्वीडीश् <OR> क्रोनर्",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "कः चेस्ट्-एक्स्-रे रोगः ज्ञातुं शक्यते? (विकल्पेषु अन्तर्भवन्ति-एटैलेक्टेसिस्; कार्डियोमेगालि; इफ्यूशन्; इन्फ़िट्रेशन्; मास्; नोड्यूल्; न्युमोनिया; न्यूमोथोराक्स्; कन्सोलिडेशन्; एडिमा; एम्फ़िसेमा; फ़िब्रोसिस्; प्लूरल् थिकनिङ्ग्; हर्निया।)",
+        "answer": "कार्डियोमेगालि",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "कः चेस्ट्-एक्स्-रे रोगः ज्ञातुं शक्यते? (विकल्पेषु अन्तर्भवन्ति-एटैलेक्टेसिस्; कार्डियोमेगालि; इफ्यूशन्; इन्फ़िट्रेशन्; मास्; नोड्यूल्; न्युमोनिया; न्यूमोथोराक्स्; कन्सोलिडेशन्; एडिमा; एम्फ़िसेमा; फ़िब्रोसिस्; प्लूरल् थिकनिङ्ग्; हर्निया।)",
+        "answer": "हर्निया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "कः चेस्ट्-एक्स्-रे रोगः ज्ञातुं शक्यते? (विकल्पेषु अन्तर्भवन्ति-एटैलेक्टेसिस्; कार्डियोमेगालि; इफ्यूशन्; इन्फ़िट्रेशन्; मास्; नोड्यूल्; न्युमोनिया; न्यूमोथोराक्स्; कन्सोलिडेशन्; एडिमा; एम्फ़िसेमा; फ़िब्रोसिस्; प्लूरल् थिकनिङ्ग्; हर्निया।)",
+        "answer": "अन्तःप्रवेशः।",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "कति पक्षिणः सन्ति?",
+        "answer": "6।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "कति तमालपत्राणि सन्ति?",
+        "answer": "5।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "कति पुस्तकानि सन्ति?",
+        "answer": "63।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "चित्रे दृश्यपाठः कः?",
+        "answer": "S3302CD",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "चित्रे दृश्यपाठः कः?",
+        "answer": "लक्ष्मी ज्वैलर्स्",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "चित्रे दृश्यपाठः कः?",
+        "answer": "स्वयमेव अल्पं क्रिस्मस्-पर्वम् आनन्दोतु।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "चित्रे दृश्यपाठः कः?",
+        "answer": "5: 30 अपराह्णे <अपि च> 88% <अपि च> मारियो कार्ट् 8 डीलक्स् <अपि च> मारियो कार्ट् 8 डीलक्स् <अपि च> सुपर् मारियो ओडिसी <अपि च> द लेजेण्ड् आफ् ज़ेल्डा <अपि च> ब्रीथ् आफ् विल्ड् <अपि च> विकल्पाः <अपि च> आरम्भः",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "चित्रे दृश्यपाठः कः?",
+        "answer": "श्री. विलियम् शेक्स्पीयर्स् <अण्ड्> कमेडीस्, हिस्टोरीस्, अण्ड् ट्रेजेडीस्। <अण्ड्> ट्रू ओरिजिनल् कापीस् इत्यस्य अनुसारं प्रकाशितम्।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "चित्रे दृश्यपाठः कः?",
+        "answer": "1642 तमस्य वर्षस्य कनेक्टिकट्-राज्यस्य विधिः-यदि कश्चन पुरुषः वा महिला वा मन्त्रवादिनी अस्ति-अर्थात् परिचितात्मया सह परामर्शं करोति वा करोति-तर्हि ते म्रियन्ते।",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "अस्य यन्त्रस्य ब्राण्ड् किम्?",
+        "answer": "मोटोरोला",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "अनुज्ञापत्र-फलक-सङ्ख्या का?",
+        "answer": "ए ई डी-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "चित्रे विद्यमानानि सर्वाणि फ़्रेञ्च्-दृश्यानि कानि?",
+        "answer": "फ़्रान्स्-देशस्य इतिहासः तथा च राज्ञः इतिहासः",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "चित्रे सर्वाः चैनीस्-दृश्यपाठः कः?",
+        "answer": "मम्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्म्",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "कः महाद्वीपः प्रमुखः अस्ति?",
+        "answer": "एशिया-महाद्वीपः",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "अस्मिन् खाद्यजालस्य निर्मातारः कः?",
+        "answer": "फैटोप्लांक्टन् <अण्ड्> सीवीड्",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "प्रत्येकस्मिन् प्रतिदर्शस्य कणानाम् सामान्य-गतिशक्तेः तुलनां करोतु। अधः दत्तानि रेखाचित्राणि समान-बद्ध-कठोर-पात्रेषु वातकस्य द्वौ शुद्ध-प्रतिदर्शौ दर्शयन्ति। प्रत्येकं वर्णयुक्तः कन्दुकः एकं वायु-कणम् प्रतिनिधित्वं करोति। द्वयोः प्रतिदर्शयोः कणानां सङ्ख्या समानम् अस्ति। कस्मिन् नमुनस्य तापमानं अधिकं भवति? नमूना ए अथवा नमूना बी?",
+        "answer": "प्रतिमानम् अ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "एतेषु कः प्रमुखः नगरः सुदूरतमः उत्तरदिशि अस्ति?",
+        "answer": "चिकागो",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "एतत् छायाचित्रं कुत्र गृहीतम्?",
+        "answer": "तुर्की <OR> सीरिया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "एतत् छायाचित्रं कुत्र गृहीतम्?",
+        "answer": "ओस्कार् <अण्ड्> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "एतत् छायाचित्रं कुत्र गृहीतम्?",
+        "answer": "कतार्",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "एतत् छायाचित्रं कस्मिन् देशे गृहीतम्?",
+        "answer": "आस्ट्रेलिया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "वृक्षाः जिराफ़ानाम् अपेक्षया उन्नताः सन्ति वा?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "अयं विमानः उड्डीयते उत पतति वा?",
+        "answer": "निष्कासनम्।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "कति जनाः उपविश्यन्ते?",
+        "answer": "एकः।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "अपशिष्टः रिक्तः वा पूर्णः वा?",
+        "answer": "रिक्तम्।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "जिराफ़ः अपायकरः दृश्यते वा?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "जले कस्यापि जेब्रा इत्यस्य प्रतिबिम्बः अस्ति वा?",
+        "answer": "अस्ति।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "पुरुषः प्रसन्नः अस्ति वा?",
+        "answer": "अस्ति।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "किं सर्वाः शावकाः समानवर्णाः सन्ति?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "तत् वैन् पृष्ठभूमौ अस्ति वा?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "सः पुरुषः पतति वा?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "किं स्थानं चित्रितम् अस्ति?",
+        "answer": "समुद्रतटः।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "सः बहिः अस्ति वा?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "वायुगुणः कथं भवति?",
+        "answer": "स्वच्छं करोतु <OR> सूर्यप्रकाशः",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "धातुभिः निर्मितस्य वेष्टनस्य वर्णः कः?",
+        "answer": "हरितः।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "पुरुषस्य वामभागे स्थितः पुरुषः उपविष्टः इव दृश्यते वा?",
+        "answer": "अस्ति।",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "पट्टिकायाः तक्ता मलिनः रजतवर्णः च भवति वा?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "चित्रस्य दक्षिणस्यां दिशि वा वामस्यां दिशि वा पर्दः अस्ति वा?",
+        "answer": "वामतः।",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "अस्मिन् चित्रे गणकयन्त्रम् अस्ति वा?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "तण्डुलस्य वामभागे पात्रस्य अधः नैप्किन् अस्ति वा?",
+        "answer": "अस्ति।",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "नट्स् अथवा शाकानि सन्ति वा?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "अस्मिन् चित्रे प्लेट् तथा फोर्क् इत्येतौ स्तः वा?",
+        "answer": "अस्ति।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "अस्य पक्ष्याः किं नाम?",
+        "answer": "शुकः <OR> कोनूर्",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "चित्रे कः पशुः बृहत्तरः अस्ति, मृगः वा कुक्कुरः वा?",
+        "answer": "शुनकः।",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "लेप्टाप् इत्यस्य वामभागे दक्षिण-मेशस्य उपरि किम् अस्ति?",
+        "answer": "टेबुल्-दीपः <अथवा> डेस्क-दीपः",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "किं पुरुषः अश्वारोहणं करोति?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "सर्फ़्बोर्ड् इत्यस्य वामभागे वा दक्षिणभागे वा सर्फ़र् अस्ति वा?",
+        "answer": "वामतः।",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "दीपः कः अस्ति, पार्श्वपीठं वा नैट्-स्टाण्ड् वा?",
+        "answer": "पार्श्व-पट्टिकम्",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "स्टम्प् तथा वेष्टनं उभयोः किं साम्यम् अस्ति?",
+        "answer": "पदार्थः",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "किं स्पून् इतीदं चाप्-स्टिक्स् इत्येतैः समानैः पदार्थैः निर्मितम् अस्ति?",
+        "answer": "अस्ति।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "पतङ्गस्य वर्णः वाताटस्य वर्णात् भिन्नः अस्ति वा?",
+        "answer": "अस्ति।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "एतेषां सर्वानां जनानां लिङ्गः समानः अस्ति वा?",
+        "answer": "न।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "एते पशवः भिन्नजातीयाः सन्ति वा?",
+        "answer": "अस्ति।",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "जनाः कुत्र सन्ति? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "ते महाविद्यालयस्य वर्गे सन्ति। अहं एवं चिन्तयामि यतो हि सा युवती महाविद्यालयवयस्का इव दृश्यते, तथा च ते मेचैः कुर्चीभिः च परिवेष्टिताः सन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "जनाः कृष्णवस्त्राणि किमर्थं धरन्ति? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "ते अन्त्येष्टिक्रिये गच्छन्ति। अहं एवं चिन्तयामि यतो हि अन्तिमसंस्कारार्थं जनाः कृष्णवस्त्राणि धारयन्ति इति परम्परा अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "महिला किमर्थं वस्त्रधारणं करोति? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "सा शयनार्थं सज्जीभवति। अहं एवं चिन्तयामि यतो हि तत् प्रकोष्ठं शयनगृहम् इव दृश्यते तथा च सा महिला स्वस्य शयनस्य सामान्यदिशं प्रति गच्छन्ती अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "एतत् कुत्र भवति? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "एतत् फ्यान्सी-भोजनालये भवति। अहं एवं चिन्तयामि यतो हि सः पुरुषः फ्यान्सिली-वेषं धारयति, पृष्ठभूमयः च मनोहारी अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "दृश्ये ग्रीष्मकालः अस्ति वा? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "न, सः पतति इव दृश्यते। अहं एवं चिन्तयामि यतो हि पृष्ठभूमौ कदलीफलानि सन्ति अपि च ते सामान्यतया पतनेन सह सम्बद्धाः सन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "किं रक्तवर्णीया स्त्रियः पुरुषं व्यभिचारिणा स्त्रियं दृष्ट्वा क्रुद्धवती भविष्यति? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "होय, रक्तवर्णीया महिला तथा पुरुषः दम्पती इव दृश्यन्ते तथा च रक्तवर्णीया महिला अन्यस्य पुरुषस्य परीक्षणं न प्रशंसयिष्यति women.I एवं चिन्तयतु यतः एकपत्निकसम्बन्धे सहभागिनः परस्परं निष्ठावन्तः भवेयुः इति अपेक्ष्यते।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "किमर्थं स्त्रियः उभयहस्तौ वायुवे अस्ति? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "सा केवलं बास्केट्बाल्-क्रीडां शूट् अकरोत्। अहं एवं चिन्तयामि यतो हि तस्याः बाहवः बास्केट्बाल्-शाट् कृते कोनीयानि सन्ति, ते च बास्केट्बाल्-क्रीडाङ्गणे सन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "बालकः किं विद्यालयं गच्छति? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "बालकः स्वायत्तविद्यालयं गच्छति, न तु सार्वजनिकविद्यालयं। मह्यं चिन्तयामि यतो हि बालकः सर्वे सूट्-परिधानं करोति, अतः सार्वजनिकविद्यालयेषु तस्य आवश्यकता नास्ति, परन्तु केचन स्वायत्तविद्यालयेषु भवति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "अस्मिन् गृहे जनाः निवसन्ति वा? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "न ते न कुर्वन्ति। अहं एवं चिन्तयामि यतोहि ते सर्वे चित्राणि अलङ्करणं च परितः पश्यन्ति, यत् यदि ते द्रष्टुं अभ्यस्ताः आसन् तर्हि तत् न करिष्यन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "श्वेतवस्त्रधारिणः पुरुषाः महिला च किमर्थं परस्परं एतावान् समीपस्थाः सन्ति? तस्य उत्तरं दत्त्वा तर्कं ददातु।",
+        "answer": "तेषां विवाहः एव अभवत्। अहं एवं चिन्तयामि यतोहि ते विवाहवस्त्राणि धरन्ति, सर्वे तान् अपश्यन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "एतत् मीम् व्याख्यातुं शक्यसे वा?",
+        "answer": "एतत् मीम् इति विलम्बस्य विषये हास्यं स्वीकृत्य, विशिष्टकालं यावत् कार्येषु विलम्बस्य प्रवृत्तिः च अस्ति। मीम् इत्यस्मिन् स्थितः व्यक्तिः 8 वादने किमपि कर्तुं योजनां करोति, परन्तु यदा ते तत् समयसीमाम् कतिपयेषु निमेषेषु विस्मरन्ति, तदा तस्य स्थाने 9 वादने यावत् प्रतीक्षां कर्तुं निश्चिनोति। शय्यायां स्थितस्य कर्मिट्-द-फ्राग् इत्यस्य प्रतिमा कार्यपूर्त्यर्थं व्यक्तेः आलस्यं प्रेरणां अभावं च सूचयति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "एतत् मीम् व्याख्यातुं शक्यसे वा?",
+        "answer": "एषा मीम् इतीदं कोविड्-19 महामार्याः कारणात् आन्लैन्-शिक्षणस्य वर्तमानस्थित्याः विषये भाष्यम् अस्ति। एतत् दर्शयति यत् भिन्नपक्षाः तेन कथं प्रभाविताः भवन्ति इति। \\n\\n प्रथमं चित्रद्वयं ज़ूम्-संस्थां शिक्षकाः च वायुवेगं धनं निक्षेप्तुं दर्शयन्ति, यत् सूचयति यत् ते परिस्थितिद्वारा लाभान् प्रापयन्ति इति। ज़ूम् इत्यस्मिन्, विशेषतया, महामार्याः कारणात् उपयोगस्य राजस्वस्य च वृद्धिः दृश्यते। \\n\\n तृतीये चित्रे वै-फ़ाई-कम्पनी अपि वायुवेगेन धनं निक्षेपीकरोति इति दृश्यते, येन सूचितं भवति यत् ते अपि परिस्थित्याः लाभं कुर्वन्तः सन्ति यतः अधिकाः जनाः अन्तर्जाल-शिक्षणार्थं अन्तर्जालस्य उपयोगं कुर्वन्तः सन्ति। \\n\\n अन्तिमं चित्रं दुःखित-विदूषक-मुखं युक्तं छात्रं दर्शयति, यत् सूचयति यत् छात्राः परिस्थित्या न उपकृताः सन्ति तथा च अन्तर्जाल-शिक्षणेन सह संघर्षं कुर्वन्तः सन्ति इति। पृष्ठभूमौ \"पुट् आन् ए हेप्पी फेस्\" इति चिह्नं, छात्राः स्वयुद्धेषु सत्सु अपि साहसिकं मुखं धरन्ति इति विचारं इतोऽपि प्रबलं करोति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "एतत् मीम् व्याख्यातुं शक्यसे वा?",
+        "answer": "ऐस्ल्याण्ड्-ग्रीन्-ल्याण्ड्-देशयोः नामानि भ्रमात्मकानि सन्ति इति तथ्यम् उद्दिश्य एतत् मीम् हास्यं जनयति। नाम्नः सत्सु अपि ऐस्ल्याण्ड्-देशः सुन्दर-हरित-भूदृश्यानां कृते प्रसिद्धः अस्ति, ग्रीन्-ल्याण्ड्-देशः प्रायः हिमेन हिमेन च आच्छादितः अस्ति। व्यक्तेः विश्वास-समस्याः सन्ति यतः एतेषां देशानां नामानि तेषां भूदृश्यानां यथार्थरूपेण प्रतिनिधित्वं न कुर्वन्ति इति मीम् वदति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "एतत् मीम् व्याख्यातुं शक्यसे वा?",
+        "answer": "परीक्षायाः समये छात्रस्य हस्तलेखनं कथं क्षीणं भवति इति विषये एतत् मीम् विनोदं जनयति। प्रथमद्वयं पृष्ठं स्वच्छं सुपाठ्यं च हस्तलेखनं दर्शयति, मध्यं पृष्ठं स्वल्पं अव्यवस्थितं हस्तलेखनं दर्शयति, अन्तिमद्वयं पृष्ठं च पूर्णतया अनुचितं लेखनं दर्शयति। परीक्षा अग्रे गच्छन्ती यथा यथा छात्रः क्लान्तः उत द्रुतः वा भवति इत्यतः एतत् भवितुम् अर्हति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "एतत् मीम् व्याख्यातुं शक्यसे वा?",
+        "answer": "नूतन-महाविद्यालय-छात्राः (नूतनविद्यार्थिनः) प्रायः टिप्पणीं स्वीकर्तुं, वर्गे सर्वं ज्ञातुं च उत्सुकाः भवन्ति इति विषये एतत् मीम् इति हास्यं वर्तते। एतत् चित्रं स्पञ्ज्-बाब्-स्क्वेर्-पेण्ट्स् इति कार्टून् इत्यतः अस्ति, यत्र स्पञ्ज्-बाब्, पैट्रिक् च उन्मत्तरूपेण टिप्पणीं लिखन्ति। शीर्षकं सूचयति यत् नूतनजनाः ज्ञातुम् एतावान् उत्सुकाः सन्ति यत् ते प्राध्यापकस्य अभिवाद्यं अपि लिखन्ति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "अस्मिन् चित्रे हास्यं किम्?",
+        "answer": "एतत् चित्रम् चित्रयन् खड्गमृगस्य कार्टून् अस्ति तथा च प्रत्येकस्मिन् चित्रे तस्य गैण्डाः शिङ्गः अस्ति यतः गैण्डाः शिङ्गः तस्य नेत्राणाम् पुरतः वर्धते। \"भवन्तः जगतं यथा भवन्तः पश्यन्ति!\" इति शीर्षकम्। अस्माकं दृक्पथः विश्वस्य विषये अस्माकं अवधारणां कथं रूपयति इति क्रीडापूर्णं भाष्यम् अस्ति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "अस्मिन् चित्रे हास्यं किम्?",
+        "answer": "अस्मिन् चित्रे कतिपयानि वस्तूनि सन्ति यानि जनाः हास्यं जानन्तिः \\n\\n1। द्वयोः चित्रयोः मध्ये वैषम्यम्-वामभागे, वयं द्वौ महिलाः पश्यामः, ये अतीव भावपूर्णाः क्रुद्धाः च सन्ति, दक्षिणदिशि, वयं एकं शलभं पश्यामः, या शान्ततया भोजनपीठस्य उपरि उपविष्टा अस्ति। \\n\\n2। शलभस्य स्थित्याः असङ्गतिः-भोजने उपविष्टां शावकं तस्य पुरतः खाद्यपटलसहितं दृश्यमानं सामान्यं नास्ति, अतः एतत् चित्रं अनपेक्षितं हास्यं च भवति। \\n\\n3 शलभस्य अभिव्यक्तिः महिलानां गर्जनैः शलभः भीतः इव दृश्यते, येन चित्रस्य हास्यं वर्धते।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "केषुचित् अवसरेषु कश्चन मीम् उपयुज्यते?",
+        "answer": "निद्रितेन पुरुषेन सह मीम् अपि च चीनी-भाषायाः शीर्षिकया सह \"अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्-अलुक्। परन्तु अन्येषु समयेषु, अहं निद्रां इच्छामि) इत्यस्य उपयोगः विभिन्नेषु अवसरेषु कर्तुं शक्यते यत्र निद्रायाः अनुभूतिः अथवा परस्परविरोधयुक्ताः अभिलाषाः इति विषयः प्रासङ्गिकः भवति। अत्र कतिपयानि परिदृश्यानि सन्ति यत्र एतत् मीम् उपयुक्तं भवितुम् अर्हति-\n \n तत्संबंधितनिद्राः दिने थकितस्य निद्रायाः वा तत्संबंधितानुभूतिं व्यञ्जयन् सामाजिकमाध्यमेषु अथवा वार्तालापेषु वा मीम् सम्बद्धुं शक्यते। तत् तत् सम्बद्धाः अनुभवान् प्रकाशयितुं लघुहृदयीयरूपेण कार्यं कर्तुं शक्नोति तथा च अन्येभ्यः हास्यप्रतिक्रिया जनयितुं शक्नोति ये सम्बद्धाः भवेयुः। \n \n कार्यसम्बद्धम् अथवा अध्ययनसम्बद्धम् हास्यं-एतत् मीम् कार्यक्षेत्रे वा अध्ययनसम्बद्ध-सन्दर्भेषु वा उपयोक्तुं शक्यते, येन हास्यरूपेण निद्रायाः इच्छां व्यञ्जयितुं वा कार्येषु निद्रावशस्य भावं व्यञ्जयितुं वा शक्यते, यस्मात् ध्यानस्य ध्यानस्य च आवश्यकता भवति। सहकर्मिणां वा सहपाठिनां वा मध्ये तत् वितरीतुं शक्यते, येन मनःस्थितिः लघुः भवेत् तथा च जागरितस्य जागरूकतायाः च समस्यानां विषये सामञ्जस्यपूर्णं अवबोधं निर्मातुं शक्यते। \n \n प्रोक्रास्टिनेषन् हास्यं-उत्पादकक्रियाकलापेषु निमग्नाः न भूत्वा निद्रायाः विश्रान्तेः वा इच्छायाः मध्ये आन्तरिकसङ्ग्रामस्य वर्णनाय अपि मीम् इत्यस्य उपयोगः कर्तुं शक्यते। दायित्वं परिहर्तुं, विश्रान्तिं च ग्रहीतुं निरन्तरं इच्छायाः विषये विलम्बस्य अथवा हास्य-आत्म-प्रतिबिम्बस्य विषये चर्चां कुर्वन् एतत् सहभागयितुं शक्यते। \n \n हास्य-व्यङ्ग्यः-निद्राकालस्य अन्यसमये निद्रायाः इच्छायाः च मध्ये मीम् इत्यस्य वैरुद्ध्यं विविध-सन्दर्भेषु हास्य-व्यङ्ग्यरूपेण उपयोक्तुं शक्यते। यत्र अस्माकं इच्छासु वा व्यवहारेषु वा अपेक्षितस्य उपयुक्तस्य वा विरोधः भवति, तत्र वार्तालापस्य हास्यं परिवर्तनं योजयित्वा, परिस्थितिं चर्चां कुर्वन् एतत् सहभागयितुं शक्यते। \n \n अन्ततः, मीम् इतीदं विभिन्नेषु परिस्थितिषु उपयोक्तुं शक्यते यत्र तस्य विषयवस्तु निद्रावृत्तिः, परस्परविरोधयुक्ताः अभिलाषाः, व्यङ्ग्य-स्थितयः च चर्चिते विषयेन वा भावेन वा सह संरेखितानि भवन्ति, येन वार्तालापस्य अथवा अन्तर्जालीय-संवादस्य कृते हास्यस्य स्पर्शः, सापेक्षता च योजिता भवति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "केषुचित् अवसरेषु कश्चन मीम् उपयुज्यते?",
+        "answer": "सामान्यतः \"स्क्रीमिङ्ग् पाण्डा\" इति नाम्ना प्रसिद्धः अयं मीम्, सामान्यतया आघातं, आश्चर्यं, भयं वा प्रकटयितुं उपयुज्यते। अचिन्त्यायाः अप्रत्याशितस्य वा घटनायाः प्रतिक्रियारूपेण, अथवा आतङ्कस्य अलार्म् इत्यस्य वा भावं जनयितुं अस्य उपयोगः भवितुम् अर्हति। केषुचित् सम्भाव्य-अवसरेषु यः कश्चित् एतत् मीम् उपयोक्तुं शक्नोति तेषु अन्तर्भवन्ति-\\n\\n-भयानकचलच्चित्रे कूर्दनस्य भयात् प्रतिक्रियां कुर्वन् \\n-टी. वी. कार्यक्रमे वा पुस्तके वा आश्चर्यजनकं कथावस्तुं प्रतिक्रियां कुर्वन् \\n-वार्तायाः शीर्षके वा वर्तमान-कार्यक्रमे वा आघातं प्रकटयतः \\n-आगामिनां समयसीमायाः परीक्षायाः वा विषये भयम् अथवा चिन्तां जनयतः \\n-क्रीडा-क्रीडायां वा अन्यस्मिन् स्पर्धायां वा अनपेक्षितस्य परिणामस्य विषये आश्चर्यम् जनयतः।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "केषुचित् अवसरेषु कश्चन मीम् उपयुज्यते?",
+        "answer": "\"क्रैयिङ्ग् क्याट्\" इति मीम् इतीदं \"माम्!\" इति चीना-भाषायाः शीर्षकेन सह अस्ति। अस्य प्रयोगः सामान्यतया दुःखस्य, असहायतायाः, सांत्वनस्य वा भावं प्रकटयितुं भवति। अत्र कानिचन अवसराः सन्ति यत्र कश्चित् एतत् मीम् उपयुज्यते-\n \n दुर्बलतां प्रकटयति-मीम् इत्यस्य उपयोगः दुर्बलतायाः क्षणस्य अभिव्यक्त्यर्थं वा यदा अभिभूतः भवति तदा वा कर्तुं शक्यते। अन्येषाम् समर्थनम् अथवा समानुभूतिम् अन्वेष्टुम् हास्यरूपेण स्वमातरं आह्वयितुं विचारं प्रेरयितुं शक्नोति। \n \n आश्वस्तिम् अथवा सहानुभूतिम् अन्विष्यमानः मित्रैः अथवा अन्तर्जालीय-समुदायैः सहानुभूतिम् अथवा समर्थनं प्रेरयितुं एतत् मीम् शेर् कर्तुं शक्यते। सम्बद्धस्य अभिज्ञायोग्यस्य च मीम्-स्वरूपस्य उपयोगेन, एतत् दुःखस्य, निराशायाः, अथवा भावनात्मकसमर्थनस्य आवश्यकतायाः भावान् प्रभावीरूपेण सम्प्रेषणं कर्तुं शक्नोति। \n \n आत्म-अवमूल्यन-हास्यः-व्यक्तिगत-परिस्थितिं वा लघु-दुर्घटनां वा प्रकाशयितुं स्व-अवमूल्यन-रीत्या अपि मीम् इत्यस्य उपयोगः कर्तुं शक्यते। एतत् व्यक्तिं स्वकीयान् अनुभूतान् \"निस्सहायतायाः\" क्षणान् हास्यरूपेण प्रकाशयितुं अनुमन्यते तथा च अन्यान् आश्वस्तिं वा आश्वस्तिं वा प्रदातुं आमन्त्रयति। \n \n विनोदपूर्णः भावनात्मकः अतिशयोक्तिः-मीम् इत्यस्य नाटकीयः अतिशयोक्तियुक्तः च अभिव्यक्तिः क्रीडात्मकरूपेण उपयुज्यते येन किमपि परिस्थितिः वा घटना वा उद्दीष्टुं शक्यते यत् आवश्यकतया कष्टप्रदं नास्ति परन्तु यत् अवधानम् अथवा परिचर्यायाः आवश्यकता भवेत्। लघुतरं असौकर्यं वा हास्य-अतिशयोक्तिः वा व्यख्याय हास्य-स्पर्शं योजयितुं शक्नोति। \n \n एतत् लक्षणीयं महत्त्वपूर्णं यत् मीम् इत्यस्य उपयोगः व्याख्या च भिन्नानि भवितुम् अर्हन्ति, तथा च व्यक्तिः भिन्न-सन्दर्भेषु तत् उपयोक्तुं सृजनात्मक-मार्गान् अन्वेष्टुं शक्नुवन्ति। उपरि सूचिताः अवसराः सामान्यविषयस्य, भावात्मकस्वरस्य च आधारेण कदा एतत् मीम् उपयोक्तुं शक्यते इति सामान्यज्ञानं प्रददाति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "एतत् भोजनं कथं पाकं कर्तव्यम्?",
+        "answer": "अस्य व्यञ्जनस्य नाम \"हंगेरियन् मश्रूम् सूप्\" इति अस्ति। अस्य हंगेरियन्-मश्रूम्-सूप् इत्यस्य स्वादः बहु अस्ति, तत् शीघ्रं निर्मीयते च। एषः मुख्यतया मश्रूम्-सूप् अस्ति, परन्तु अन्यैः पदार्थैः अस्य बहुस्वादुः प्राप्यते। मम परिवारः सूप् इत्येतं रोचते, एतत् तेषां इष्टतमेषु अन्यतमम् अस्ति। \n \n \n तयारी समयः \n 15 मिण्ट्स् \n पाकस्य समयः \n 35 मिण्ट्स् \n कुलसमयः \n 50 मिण्ट्स् \n सर्विङ्ग्स्ः \n 6 \n \n \n सामग्रीः \n \n \n 4 टेबुल्-स्पून्-अनसाल्टेड्-बटर् \n \n 2 कप्-कटाः प्याजः \n \n \n 1 पौण्ड्-फ़्रेश्-मशरूम्स्, कटाः \n \n \n 2 कप्-चिकन्-ब्रोथ् \n \n 1 टेबल्-स्पून्-सोया-सास् \n \n \n 1 टेबल्-स्पून्-पेपरिका \n \n \n 2 टेबल्-स्पून्-शुष्कं डिल-वीड् \n उल्लिम् योजयन्तु, प्रायः 5 निमेषपर्यन्तं मृदुः न भवति तावत् पाकं कुर्वन्तु, योजयतु च। मशरूम्स् योजयित्वा 5 निमेषान् यावत् भाजयतु। सूप्, सोया सास्, पेपरिका, डिल् च योजयतु; तापं न्यूनीकुरुताम्, आच्छादयतु, 15 निमेषपर्यन्तं निमज्जयतु। \n \n सोपानं 2 \n क्षीरं पिष्ठं च पृथक् पात्रे मिलित्वा मिश्रितं यावत् सूप्-रूपेण योजयतु। आवरणं कृत्वा इतोऽपि 15 निमेषपर्यन्तं निमज्जनं कुर्वन्तु, यदा कदा चालयन्तु। \n \n सोपानं 3 \n अम्लम्, पार्स्ली, लेम्बु-रसम्, लवणम्, चूर्णं कृष्णमिर्चं च योजयतु; प्रायः 3 तः 5 निमेषपर्यन्तं यावत् उष्णं न भवति तावत् यावत् अल्पोष्णतायां योजयतु। तत्क्षणमेव सेवयतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "एतत् कथं करणीयम्?",
+        "answer": "इदं \"स्पार्क्लिङ्ग् केण्टलोप् अगुआ फ्रेस्का\" इति कथ्यते। केण्टलोप् इत्यनेन सह एतत् स्फूर्तिदायकं अगुआ-भित्तिचित्रं, क्लब्-सोडा इत्यनेन सह निम्बुरसस्य शीर्षकं च उष्णदिने उत्तमं भवति। \n \n तयारी समयः \n 15 मिन्स् \n कुलसमयः \n 15 मिन्स् \n सर्विङ्ग्स्ः \n 8 \n \n सामग्रीः \n \n 2 पौण्ड् ताजा केण्टालूप् क्यूब्स् (6 कप्स्) \n \n 2 कप्स् जलं \n \n 6 टेबल्स्पून्स् नूतनतया निक्षिप्तं निम्बुरसस्य (2 लैम्स्-तः) \n \n 3 टेबल्स्पून्स् मधु \n \n 1/4 टेबल्स्पून्स् क्लब्-सोडा, शीतलम् \n \n \n केण्टालूप्-खरबूज-कन्दुकानि अथवा घनानि, अलङ्करणार्थं \n सिव् इत्यस्य माध्यमेन नुदतु, घनपदार्थान् निष्कासयतु। पात्रे उत्कीर्णं रसम् योजयतु। \n \n सोपानं 2 \n सर्व्-कृते सज्जं यावत् शीतलं करोतु। सेवनात् पूर्वमेव क्लब्-सोडा योजयतु। हिमस्य उपरि सर्व् कुर्वन्तु, खरबूज-कन्दुकैः, लैम्-जेस्ट्-ट्विस्ट् इत्यनेन च काचान् अलङ्करणं कुर्वन्तु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "एतत् भोजनं कथं पाकं कर्तव्यम्?",
+        "answer": "अस्य भोजनस्य नाम \"जिञ्जर् ग्लेज़्ड् माही माही\" इति अस्ति। महि-माही इत्यस्य कृते एतत् जिञ्जर्-सास् गन्धेन प्रज्ज्वलितम् अस्ति, मधुर-अम्ल-स्वाद-संवेदनाः च संयोजयति। एषा पाककृतिः त्वरितः अतीव स्वादिष्टः च अस्ति। भवन्तं रोचते! \n \n \n तयारी समयः \n 5 मिण्ट्स् \n पाकस्य समयः \n 10 मिण्ट्स् \n अतिरिक्तसमयः \n 20 मिण्ट्स् \n कुलसमयः \n 35 मिण्ट्स् \n सर्विङ्ग्स्ः \n 4 \n \n सामग्रीः \n \n 3 टेबल्स्पून् मधु \n \n 3 टेबल्स्पून् सोया सास् \n \n 3 टेबल्स्पून् बाल्सामिक् विनेगर् \n \n 2 टेबल्स्पून् आलिव्-तैलं \n \n \n 1 टीस्पून् ग्रासेड्-फ्रॆश्-जिञ्जर्-रूट् \n \n \n 1 लवङ्ग-लसुनम्, स्वादे चूर्णं वा। मत्स्यपटलानि लवण-मरीचिकाभ्यां सह ऋतुं करोतु, तानि म्यारिनेड् इत्यनेन सह पात्रे त्वक्-पार्श्वे स्थापयतु। आवरणं कृत्वा 20 निमेषपर्यन्तं शीतलीकरोतु। \n \n सोपानं 2 \n मध्यम-उच्च-उष्णतायां विशाले पात्रे वनस्पति-तैलं उष्णं करोतु। मत्स्यपटलानि निष्कासय, मरीनेड् आरक्षितं करोतु। मत्स्यं प्रतिपक्षे 4 तः 6 निमेषपर्यन्तं भाजयतु, केवलं एकवारं परिवृत्त्वा, यावत् मत्स्यस्य खण्डाः सहजतया काँटेन न पतन्ति। सर्विङ्ग्-प्लेटर्-मध्ये फिलेट्-इत्येतान् निष्कासयित्वा उष्णं स्थापयतु। \n \n सोपानं 3 \n आरक्षितं मरीनेड् पात्रे निक्षिपतु; मध्यम-उष्णतायां यावत् ग्लेज़्-रूपेण न्यूनं न भवति तावत् यावत् निमज्जतु। मत्स्यानाम् उपरि स्पून् ग्लेज़् कृत्वा सर्व् करोतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "एतत् भोजनं कथं पाकं कर्तव्यम्?",
+        "answer": "एतत् भोजनं \"स्ट्राबेरी रुबार्ब् पै\" इति कथ्यते। अयं स्ट्राबेरी-रुबार्ब्-पायः अस्माकं गृहे प्रियः वसन्तकालस्य मधुरभोजनः अस्ति। पूरने मधुर-तीक्ष्णं स्वादः भवति, भवतः प्रियं पै-क्रस्ट्-मध्ये सज्जीकरोतु, वनीला-ऐस्क्रीम् इत्यनेन सह सर्व् करोतु। \n \n तयारी समयः \n 20 मिण्ट्स् \n पाकस्य समयः \n 35 मिण्ट्स् \n अतिरिक्तसमयः \n 30 मिण्ट्स् \n कुलसमयः \n 1 घण्टा 25 मिण्ट्स् \n सर्विङ्ग्स्ः \n 8 \n उत्पादः \n 1 9-इञ्च् पै \n \n सामग्रीः \n \n 1 कप् श्वेतशर्करा \n \n 1⁄2 कप् सर्वोपयोगी पिष्ठम् \n \n 1 पौण्ड् रबर्ब्, 1/4 इञ्च् खण्डेषु कटाः \n \n 2 पिण्ट्स् स्ट्राबेरीस्, हुल्ड् तथा क्वार्टर्स्ड् \n \n 1 पाककृतिः \n \n सोपानं 2 \n विशाले पात्रे पिष्ठं शर्करां च योजयतु। \n \n सोपानं 3 \n स्ट्राबेरी, खण्डितं रुबार्ब् च योजयतु। शर्करया पिष्ठेन च विसर्ज्य 30 निमेषपर्यन्तं स्थित्वा स्थापयतु। \n \n सोपानं 4 \n सज्जीकृतं पै क्रस्ट् मध्ये पूरयन्तु। डाट्-टाप् इत्यस्य उपरि माखनं कृत्वा, उपरि क्रस्ट् इत्यनेन आवरणं करोतु। क्रस्ट् इत्यस्य उपरिभागस्य अधस्तनभागस्य च पार्श्वभागाः जलैः मुद्राङ्किताः करोतु। \n \n सोपानं 5 \n पेस्ट्री-ब्रश् इत्यस्य उपयोगेन पै इत्यस्य उपरि योल्क् इत्यस्य लेपनं करोतु। \n \n सोपानं 6 \n शर्करया सह सिञ्चयतु। \n \n सोपानं 7 \n उपरि लघु-छिद्राणि कर्तयतु येन वाष्पः निष्कास्यते। \n \n सोपानं 8 \n 400 °फ़ै (200 °से) मध्ये, 35 तः 40 निमेषपर्यन्तं, अथवा बुद्बुदं गोधूमवर्णं यावत् सज्जीकरोतु। रेक् मध्ये शीतलं करोतु। \n \n सोपानं 9 \n आनन्दम् अनुभवतु!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "एतत् भोजनं कथं पाकं कर्तव्यम्?",
+        "answer": "अयं खाद्यपदार्थः \"प्रामाणिक-चैनीस्-अण्ड-रोल्स्\" इति कथ्यते। एते चीना-देशीयाः अण्डपत्राणि मम मातायाः सन्ति, या अद्यावधि अत्युत्तमा पाककला अस्ति-अपि च अहं उत्तमभक्षकः अस्मि। यदि मह्यं एतत् रोचते तर्हि भवन्तः करिष्यन्ति। एतत् अत्यन्तं प्रामाणिकम् अस्ति यतो हि मम परिवारः चीनादेशीयः अस्ति, अहं अपि अस्मि। एषा पाककृतिः लिङ्ग्-कुटुम्बे न्यूनातिन्यूनं 300 वर्षप्राचीनम् अस्ति। \n \n \n तयारी समयः \n 1 घण्टा \n पाकस्य समयः \n 30 निमेषाः \n अतिरिक्तसमयः \n 1 घण्टा \n कुलसमयः \n 2 घण्टा 30 निमेषाः \n सेवायमानः \n 20 \n \n उत्पादः \n 20 अण्ड-रोल्ल् \n \n \n घटकाः \n \n 4 टी स्पून् वनस्पति-तैलं, विभाजितं \n \n 3 बृहत् अण्डानि, प्रहारितं \n \n 1 मध्यमशीर्ष-कन्दुकं, सूक्ष्मरूपेण खण्डितं \n \n [00 1⁄2 गाजर, जूलियेड् \n \n 1 पौण्ड् चैनीस् बार्बे क्षिप्तान् अण्डान् योजयित्वा, न उद्विग्नतां यावत् दृढं न भवति तावत् पाकं कुर्वन्तु। अण्डानि परिवर्त्त्य अपरपक्षस्य दृढतायै अतिरिक्तं 20 सेकेण्ड्स् यावत् पाकं करोतु। अण्डस्य पान्केक् शीतलं कर्तुं पृथक् स्थापयतु, ततः लघुवृत्तेषु खण्डयतु। \n \n सोपानं 2 \n अवशिष्टं वनस्पति-तैलं उच्चोष्णतायां पात्रे वा बृहद् पात्रे वा तापयन्तु। क्याबेज्, कारट् च योजयन्तु, 2 निमेषपर्यन्तं पाकं कुर्वन्तु। शूकरमांसम्, वेणु-अङ्कुराणि, मश्रूम्, हरित-उल्लिः, सोया-सास्, लवणम्, शर्करा, एम्. एस्. जी. च योजयतु, यावत् शाकानि मृदुः न भवन्ति तावत् यावत् प्रायः 6 निमेषपर्यन्तं पाकं कुर्वन्तु। खण्डितानि अण्डानि योजयतु, ततः मिश्रणं पात्रे प्रसृत्य, शीतकालं यावत् शीतलीकरोतु, प्रायः 1 घण्टा यावत्। \n \n सोपानं 3 \n अण्डपत्राणि सङ्गृहीतुंः भवतः कार्यस्थले एकं आवरणं स्थापयतु यस्य एकः मूलः भवन्तं प्रति निर्देशयति। आवरणं अधः तृतीये स्थाने प्रायः 3 टेबल्-स्पून् शीतलं पूरितं निक्षेपं स्थापयतु। रेपर् इत्यस्य उपरिभागद्वये लघुतरं अण्डं श्वेतवर्णं प्रक्षालयतु, ततः अधस्तनकोणं पूरणस्य उपरि पातयित्वा मध्यबिन्दुपर्यन्तं दृढतया चालयतु। अण्डकोशः उपरि वामं दक्षिणं च पार्श्वं सुगमतया पङ्क्तिं करोतु, ततः यावत् ऊर्ध्वकोणाः अण्डकोशः अण्ड-श्वेतया मुद्रितं न भवन्ति तावत् यावत् रोलिङ्ग् कुर्वन्तु। अवशिष्टैः अण्ड-रोल्ल्-रेपर्स् इत्यनेन सह पुनरावर्तयतु, समाप्तैः अण्ड-रोल्ल् इत्येतान् प्ल्यास्टिक्-रेपर् इत्यनेन आच्छादयतु येन शुष्कतां न भवेत्। \n \n सोपानं 4 \n प्रायः 6 इञ्च् तैलं वोक् अथवा डीप्-फ्रायर् मध्ये 350 डिग्री फ़ारेन्हैट् (175 डिग्री सेल्सियस्) यावत् तापयतु। \n \n सोपानं 5 \n सुवर्णवर्णं यावत्, 5 तः 7 निमेषपर्यन्तं, एकसमये 3 अथवा 4 अण्डानि भाजयन्तु। पेपर-टवल्स् मध्ये जलनिष्कासयन्तु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "एतत् भोजनं कथं पाकं कर्तव्यम्?",
+        "answer": "अयं खाद्यपदार्थः \"चोक्लेट्-कोटेड्-पीनट्-बटर्-क्रेकर्स्\" इति कथ्यते। \n \n तयारी समयः \n 30 मिण्ट्स् \n पाकस्य समयः \n 5 मिण्ट्स् \n अतिरिक्तसमयः \n 15 मिण्ट्स् \n कुलसमयः \n 50 मिण्ट्स् \n सर्विङ्ग्स्ः \n 40 \n उत्पादः \n 40 साण्ड्विच् कुकीस् \n \n \n सामग्रीः \n 3/4 कप् क्रीमी अथवा चङ्कि पीनट् बटर् \n \n 2 पौण्ड् चॉकलेट आल्मण्ड् छालः, खण्डेषु भग्नानि \n \n 80 बटरी गोलक्राकर्स् (यथा रिट्ज्®) \n \n पीनट्-बटर् इत्यनेन पूरिताः 40 साण्ड्विच्-कुकीस् इत्येतानि निर्मातुं पीनट्-बटर् इत्येतस्य पार्श्वान् मिलित्वा नुदतु। \n \n सोपानं 2 \n डबल्-बाय्लर् इत्यस्य उपरि बादामस्य शल्कं उष्णं, परन्तु उत्कीर्णं जलं न पततु। तापं न्यूनीकृत्य द्रवीभूत-चाकलेट् इतीदं डबल्-बाय्लर् इत्यस्य उपरि ज्वालयमानस्य जलस्य उपरि स्थापयतु। \n \n सोपानं 3 \n प्रत्येकं साण्ड्विच्-कुकी पिघलायिते चाकलेट्-मध्ये निमज्जयतु, येन अतिरिक्तं पुनः पात्रे प्रवहति। \n \n सोपानं 4 \n लेपितानि कुकीस् इत्येतानि मेणयुक्ते पत्रे स्थापयित्वा तत्क्षणमेव मिष्टान्नस्प्रिंक्लेस् इत्येतैः सिञ्चयतु येन तानि द्रवीकृतं चाकलेट् इत्येतं पालयन्ति। \n \n सोपानं 5 \n प्रायः 15 निमेषाः यावत् चाकलेट् सेट् न भवति तावत् यावत् कुकीस् इत्येतानि रेफ्रिजरेटर् मध्ये स्थापयतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "एतत् भोजनं कथं पाकं कर्तव्यम्?",
+        "answer": "एतत् भोजनं \"ब्रोकोली तथा कारट् स्टिर् फ्रै\" इति कथ्यते। \n \n तयारी समयः \n 10 मिन्ट्स् \n पाकस्य समयः \n 16 मिन्ट्स् \n कुलसमयः \n 26 मिन्ट्स् \n सर्विङ्ग्स्ः \n 5 \n \n पदार्थाः \n 5 1⁄2 कप् ब्रोकोली-पुष्पाणि \n \n 1 गाजरम्, लघुतरं खण्डितं \n \n 2 टी स्पून् कार्न्स्टार्क् \n \n 1 टी स्पून् चिकन्-बौय्लन्-ग्रान्युल्स्, अथवा स्वादाय \n \n \n 2 टेबल् स्पून् ब्रोकोली इत्येतां योजयित्वा, प्रायः 2 निमेषपर्यन्तं उज्ज्वलं हरितवर्णं यावत् अनावृतं पाकं करोतु। स्लाटेड्-स्पून् इत्यस्य उपयोगेन ब्रोकोली इतीदं हिमजलपात्रं प्रति स्थानान्तरं कृत्वा पाकप्रक्रियां स्थगयितुं कतिपयानि निमेषानि निमज्जनं करोतु। जलनिष्कासः। \n \n सोपानं 2 \n तस्मिन् एव बृहत्तरे पात्रे जलं पुनः उत्कीर्णं करोतु, खण्डितं गाजरं योजयित्वा 1 निमेषपर्यन्तं पाकं करोतु। जलनिष्कासः। \n \n सोपानं 3 \n एकं पात्रे जलं, कार्न्-स्टार्च् च मिलित्वा स्मूत् यावत् योजयतु। चिकन्-ग्रान्युल्स्, लवणं च योजयित्वा सम्यक् योजयतु। \n \n सोपानं 4 \n अधिकोष्णतायां वा बृहद् पात्रे वा मूङ्गूरतैलं उष्णं करोतु, ब्रोकोली, गाजरानि च 2 निमेषपर्यन्तं भाजयतु। कार्न्-स्टार्च्-मिश्रणं योजयतु, शाकानि समानरूपेण लेपितं यावत् न भवन्ति तावत् पाकं कुर्वन्तु, 1 तः 2 निमेषपर्यन्तं।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "एतत् भोजनं कथं पाकं कर्तव्यम्?",
+        "answer": "अस्य व्यञ्जनस्य नाम \"क्रीम्-चीज् तथा क्र्याब्-सुशी-रोल्स्\" इति अस्ति। \n \n तयारी समयः \n 20 मिण्ट्स् \n पाकस्य समयः \n 20 मिण्ट्स् \n कुलसमयः \n 40 मिण्ट्स् \n सर्विङ्ग्स्ः \n 2 \n उत्पादः \n 2 सुशी रोल्स् \n \n \n सामग्रीः \n 1 कप् असंस्कृतं श्वेततेलम् \n \n 2 कप्स् जलं \n \n 2 टेबल्स्पून्स् तण्डुलविनेगर् \n \n 1 टीस्पून्स् लवणं \n \n \n 2 शीट्स् नोरी सीवीड् शीट्स् \n \n \n \n सोपानं 2 \n तण्डुलं जलं च अधिकोष्णतायां पात्रे ज्वालयतु। तापं मध्यम-न्यूनं यावत् न्यूनीकरोतु, आवरणं करोतु, यावत् तण्डुलः मृदुः न भवति, तथा च द्रवः 20 तः 25 निमेषपर्यन्तं शोषितः न भवति तावत् यावत् सज्जीकरोतु। तण्डुलस्य विनेगर्, लवणम् च योजयतु। पूर्णतया शीतलं करोतु। \n सोपानं 3 \n समुद्री शैवालपत्राणि स्थापयतु। हस्तान् जलैः आर्द्रं करोतु, ततः शीतलान् तण्डुलान् प्रत्येकस्मिन् पात्रे समानरूपेण प्रसारिष्यतु, एकस्य पार्श्वे अर्ध-इञ्च्-अन्तरं दीर्घाभ्यां स्थापयतु। शहतूतस्य, अनुकरण-क्र्याब्मीट् इत्यस्य, क्रीम्-चीज् इत्यस्य च पट्टिकाः तण्डुलस्य उपरि अन्तरस्य पार्श्वे सरलरेखे व्यवस्थां करोतु। उपरिभागात् सी-वीड्-शीट् इत्यस्य अनावृत-अन्तं यावत् सुशी इत्येतं चालयतु। \n सोपानं 4 \n तीक्ष्ण-आर्द्र-छुरिकायाः उपयोगेन प्रत्येकम् आवरणं 5 अथवा 6 खण्डेषु खण्डयतु। पार्श्वे क्षिप्तेन जिञ्जर् इत्यनेन सह परिवेष्टयतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "एतत् भोजनं कथं पाकं कर्तव्यम्?",
+        "answer": "अस्य भोजनस्य नाम \"वेगन् स्वीट् पोटेटो चिक्पी करी\" इति अस्ति। \n \n तयारी समयः \n 10 मिन्ट्स् \n पाकस्य समयः \n 20 मिन्ट्स् \n कुलसमयः \n 30 मिन्ट्स् \n सर्व्सिङ्ग्स्ः \n 6 \n \n सामग्रीः \n 3 टेबल्स्पून् आलिव्-तैलं \n \n 1 उल्लिः, कटाः \n \n 2 लवङ्ग-लसुनं, कटाः \n \n 2 टीस्पून् कटाः नूतनम् अद्रकमूलम् \n \n [15 औन्स्] 1 (15 औन्स्) चणकानि, शुष्कं \n \n 1 (14.5 औन्स्) कटाः टमाटरः \n \n 1 (14 औन्स्) कर्तुम् अर्हति। उल्लिः, लसुनं, अद्रकं च उष्णतैलात् मृदुपर्यन्तं, प्रायः 5 निमेषपर्यन्तं सज्जीकरोतु। चणकानि, तमालपत्राणि, नारिकेल-दुग्धं, मधुर-आलुः च योजयतु। उत्कलनं आनयन्तु, तापं न्यूनीकुरुताम् आनयन्तु, प्रायः 15 निमेषपर्यन्तं कोमलं यावत् निमज्जन्तु। \n सोपानं 2 \n गरम्-मसाला, जीरा, हरिद्रा, लवणं, चिलि-फ्लेक्स् इत्येतैः सह ऋतुः कल्पयतु। परिवेष्टनात् पूर्वमेव पालकः योजयतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "एतत् भोजनं कथं पाकं कर्तव्यम्?",
+        "answer": "एतत् भोजनं \"लैम् चिकन् साफ्ट् टाकोस्\" इति कथ्यते। \n \n तयारी समयः \n 20 मिन्ट्स् \n पाकस्य समयः \n 30 मिन्ट्स् \n कुलसमयः \n 50 मिन्ट्स् \n उत्पादः \n 10 सर्विङ्ग्स् \n \n सामग्रीः \n 1 1⁄2 पौण्ड् त्वक्हीनः, अस्थिहीनः कुक्कुट-स्तन-मांसः-घनरूपेण \n \n 2 हरित-प्याजः, कटाः \n \n 1⁄8 कप् रेड्-वैन्-विनेगर् \n \n \n 1⁄2 निम्बः, रसयुक्तः \n \n 2 लवङ्ग-लसुनम्, क्षिप्तः \n \n 1 टी स्पून् शुष्कं ओरेगानो \n \n \n 1 टी स्पून् श्वेतशर्करा \n \n हरितमुद्राः, विनेगर्, निम्बुरसस्य, लहसुनस्य, ओरेगानो इत्यस्य, शर्करायाः, लवणस्य, मरीचस्य च योजयतु। 10 निमेषपर्यन्तं न्यून-उष्णतायां निमज्जन्तु। \n सोपानं 2 \n लोहपात्रं मध्यम-उष्णतायां तापयन्तु। पात्रे टोर्टिल्ला स्थापयित्वा, उष्णं कृत्वा, अपरपार्श्वं उष्णं कर्तुं परिवर्तयतु। अवशिष्टैः टोर्टिल्लाभिः सह पुनरावृतं करोतु। टोमेटो, लेटीस्, चीज्, साल्सा इत्येतैः सह उष्ण-टोर्टिल्ला-इत्येतेषु निम्बुक-कुक्कुट-मिश्रणं सर्व् करोतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द शाशाङ्क् रिडेम्प्षन् इति फ्रांक् डाराबोण्ट् इत्यनेन लिखितं, निर्देशितं च 1994 तमे वर्षे निर्मितं अमेरिकन्-ड्रामा-चलच्चित्रम् अस्ति, यत् 1982 तमे वर्षे स्टीफन् किङ्ग् इत्यस्य रीटा हेवर्त् तथा शाशाङ्क् रिडेम्प्षन् इति उपन्यासस्य आधारेण निर्मितम् अस्ति। एतत् चलच्चित्रं ब्याङ्क्-अधिकारिणः एन्डी डुफ्रेन् (टिम् राबिन्स्) इत्यस्य कथा कथयति, यः स्वपत्न्याः तस्याः प्रेमिकायाः च हत्यायाः कारणात् शाशाङ्क्-राज्य-कारागारे आजीवन-दण्डे दण्डितः अस्ति, यद्यपि सः निर्दोषः इति प्रतिपादयति। अग्रिमे दशकद्वये, सः एकेन सहबन्दिना, निषिद्धव्यापारिणा एलिस् \"रेड्\" रेडिङ्ग् (मोर्गन् फ़्रीमन्) इत्यनेन सह मित्रः भवति, तथा च कारागारस्य वार्डन् स्यामुयल् नार्टन् (बाब् गुण्टन्) इत्यस्य नेतृत्वे धनशोधन-कार्ये सहायकः भवति। विलियम् स्याड्लर्, क्लेन्सी ब्रौन्, गिल् बेलोस्, जेम्स् व्हिट्मोर् च सहायकपात्रेषु दृश्यन्ते।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द गाड्फ़ादर् इति 1972 तमे वर्षे निर्मितं अमेरिकादेशस्य अपराध-चलच्चित्रम् अस्ति, यस्य निर्देशकः फ़्रांसिस् फ़ोर्ड् कोप्पोला अस्ति, यः मारियो पूज़ो इत्यनेन सह चित्रकथाम् अलिखत्, यत् पूज़ो इत्यस्य 1969 तमे वर्षे सर्वाधिकविक्रयिता तस्मिन् एव शीर्षकस्य उपन्यासस्य आधारेण निर्मितम् अस्ति। अस्मिन् चलच्चित्रे मार्लन् ब्राण्डो, अल् पचिनो, जेम्स् कान्, रिचर्ड् कास्टेलानो, राबर्ट् डुवाल्, स्टर्लिङ्ग् हेडेन्, जान् मार्ले, रिचर्ड् कोण्टे, डायन् कीटन् च सन्ति। 1945 तः 1955 पर्यन्तं पितृपुरुषस्य विटो-कोर्लियोन् (ब्राण्डो) इत्यस्य अधीने कोर्लियोन्-परिवारस्य वृत्तान्तस्य द-गाड्फ़ादर्-त्रयस्य एषः प्रथमः खण्डः अस्ति। अस्य केन्द्रबिन्दुः तस्य कनिष्ठपुत्रस्य मैकेल् कोर्लियोन् (पचिनो) इत्यस्य अनिच्छुकपरिवारस्य बहिःस्थात् निर्दयी माफिया-अधिकारिः इति परिवर्तनं भवति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द डार्क् नैट् इति 2008 तमे वर्षे क्रिस्टोफर् नोलन् इत्यनेन निर्देशितं सूपर् हीरो चलच्चित्रम् अस्ति, यस्य चित्रकथायाः लेखनं सः स्वभ्रात्रा जोनाथन् इत्यनेन सह लिखितवान्। डी. सी. कामिक्स् इत्यस्य सूपर् हीरो इत्यस्य ब्याट्म्यान् इत्यस्य आधारेण निर्मितं एतत् ब्याट्म्यान् बिगिन्स् इत्यस्य (2005) उत्तरकथा, द डार्क् नैट् त्रयी इत्यस्य च द्वितीयं खण्डम् अस्ति। कथावस्तु जागरूकः ब्याट्म्यान्, आरक्षक-लेफ्टिनेण्ट् जेम्स् गोर्डन्, मण्डल-अधिवक्ता हार्वे डेण्ट् इत्येतान् अनुसरति, ये गोथम्-नगरे सङ्घटित-अपराधस्य निराकरणार्थं मैत्रीं कल्पयन्ति। तेषां प्रयत्नाः अराजकतावादी-सूत्रधारः जोकर् इत्यनेन बाधिताः भवन्ति, यः ब्याट्म्यान् नगरं अराजकतातः रक्षितुं कियत् दूरं गमिष्यति इति परीक्षयितुं प्रयतते। क्रिस्टियन् बेल्, मैकेल् कैन्, हीथ् लेड्जर्, गैरी ओल्ड्मन्, आरोन् एक्हार्ट्, मैगी गिलेन्हाल्, मोर्गन् फ़्रीमन् च अस्य समूहस्य पात्रधारिणः सन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "ट्वेल्फ् एङ्ग्री मेन् इति रेजिनाल्ड् रोस् इत्यनेन लिखितं अमेरिकादेशस्य न्यायालयस्य नाटकम् अस्ति यत् नरहत्यायाः विचारणस्य निर्णायकमण्डलेन सम्बद्धम् अस्ति। इदं प्रारम्भे 1954 तमे वर्षे दूरदर्शन-नाटकरूपेण प्रसारितम् आसीत्। अग्रिमे वर्षे एतत् मञ्चस्य कृते अनुकूलितम् अभवत्। एतत् सिड्नी ल्यूमेट् इत्यनेन निर्देशितं, 1957 तमे वर्षे प्रदर्शितं, तस्मिन् एव नाम्नः चलच्चित्रस्य कृते अभियोजितम् आसीत्। ततः परं अस्य अनेकानि पुनर्निर्माणानि, रूपांतरणानि, श्रद्धाञ्जलिः च दत्तानि।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "शिण्ड्लर्स्-लिस्ट् इति 1993 तमे वर्षे निर्मितं अमेरिकादेशस्य ऐतिहासिक-नाटकीय-महाकाव्य-चलच्चित्रम् अस्ति, यस्य निर्देशकः निर्माता च स्टीवन् स्पील्बर्ग् अस्ति, लेखनं च स्टीवन् ज़ैलियन् इत्यनेन कृतम् अस्ति। एतत् 1982 तमे वर्षे आस्ट्रेलिया-देशस्य उपन्यासकारस्य थामस् केनेली इत्यस्य शिण्ड्लर्स् आर्क् इति उपन्यासस्य आधारेण निर्मितम् अस्ति। एतत् चलच्चित्रं जर्मन्-उद्योगपतिम् ओस्कर् शिण्ड्लर् इत्यस्य कथाम् अनुसरति, यः द्वितीयविश्वयुद्धकाले स्वकारखानासु नियोक्तुं सहस्रात् अधिकान् प्रायः पोलिश्-ज्यूयिश्-शरणार्थिनः होलोकास्ट्-तः रक्षितवान्। अस्मिन् शिण्ड्लर्-रूपेण लियाम् नीसन्, एस्. एस्. अधिकारिणः अमोन् गोथ्-रूपेण राल्फ् फ़ैन्स्, शिण्ड्लर्-इत्यस्य ज्यूयिश्-लेखाकारः इट्जाक् स्टर्न्-रूपेण बेन् किंग्स्ले च सन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द लार्ड् आफ़् द रिङ्ग्स्-द रिटर्न् आफ़् द किङ्ग् 2003 तमे वर्षे पीटर् जाक्सन् इत्यनेन निर्देशितं महाकाव्य-काल्पनिक-साहसिक-चलच्चित्रम् अस्ति, यस्य चित्रकथा फ़्रेन् वाल्श्, फ़िलिप्पा बोयेन्स्, जाक्सन् इत्येताभ्यां रचिता अस्ति। एतत् 1955 तमवर्षस्य द रिटर्न् आफ् द किङ्ग् इत्यस्य आधारेण निर्मितम् अस्ति, यत् जे. आर्. आर्. टोल्कीन् इत्यस्य द लार्ड् आफ् द रिङ्ग्स् इति उपन्यासस्य तृतीयः खण्डः अस्ति। 2002 तमवर्षस्य द-लार्ड्-आफ़्-द-रिङ्ग्स्-द-टू-टवर्स् इत्यस्य उत्तरकथा द-लार्ड्-आफ़्-द-रिङ्ग्स् इति त्रयाणां अन्तिमभागः अस्ति। अस्मिन् एलीजा वुड्, इयान् मैककेलन्, लिव् टैलर्, विगो मोर्टेन्सन्, सीन् आस्टिन्, केट् ब्लान्चेट्, जान् रैस्-डेविस्, बर्नार्ड् हिल्, बिली बाय्ड्, डोमिनिक् मोनाघन्, ओर्लाण्डो ब्लूम्, ह्यूगो वीविङ्ग्, मिरांडा ओटो, डेविड् वेन्हम्, कार्ल् अर्बन्, जान् नोबल्, एन्डी सर्किस्, इयान् होल्म्, तथा सीन् बीन् इत्यादयः समूहाः सन्ति। पूर्वचलच्चित्रस्य कथावस्तुं अनुवर्तयन्तः, फ्रोडो, स्याम्, गोलुम् च वनरिङ्ग् इत्यस्य विनाशं कर्तुं मौण्ट् डूम्-प्रदेशं प्रति अन्तिमं मार्गं कुर्वन्तः सन्ति, गोलम् इत्यस्य वास्तविक-उद्देश्यं न जानन्ति, यदा तु मेरी, पिप्पिन्, गाण्डाल्फ्, अरगोर्न्, लेगोलास्, गिमली इत्यादयः मिनास्-तिरित्-नगरे सौरन् तथा तस्य सैन्यदलानां विरुद्धं मिलित्वा सैनिकाः भवन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "पल्प्-फिक्षन् इति 1994 तमे वर्षे क्वीन्टिन् टारान्टिनो इत्यनेन लिखितं, निर्देशितं च अमेरिकादेशस्य अपराध-चलच्चित्रम् अस्ति, यत् रोजर् एवरी इत्यनेन सह कल्पिता कथा अस्ति। [3] एतत् क्यालिफोर्नियादेशस्य लास्-एञ्जलीस्-नगरे अपराधस्य हिंसायाः च चत्वारः परस्परं सम्बद्धानि कथाः कथयति। अस्मिन् चलच्चित्रे जान् ट्रवोल्टा, स्यामुयल् एल्. जाक्सन्, ब्रूस् विल्लिस्, टिम् रोथ्, विङ्ग् रेम्स्, उमा थर्मान् च सन्ति। शीर्षकं 20 तमशताब्द्याः मध्यभागे लोकप्रियानि पल्प्-पत्रिकाः, कठोर-उत्कीर्ण-अपराध-उपन्यासानि च निर्दिशति, ये चित्रात्मक-हिंसायाः, मुष्टियुद्ध-संवादस्य च कृते प्रसिद्धाः आसन्।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द लार्ड् आफ़् द रिङ्ग्स्ः द फ़ेलोशिप् आफ़् द रिङ्ग् इति 2001 तमे वर्षे पीटर् जाक्सन् इत्यनेन निर्देशितं महाकाव्य-काल्पनिक-साहसिक-चलच्चित्रम् अस्ति, यत् फ्रां वाल्श्, फ़िलिप्पा बोयेन्स्, तथा जाक्सन् इत्येतैः चित्रकथायाः आधारेण निर्मितम् अस्ति, यत् 1954 तमे वर्षे द फ़ेलोशिप् आफ़् द रिङ्ग् इत्यस्य आधारेण निर्मितम् अस्ति, यत् जे. आर्. आर्. टोल्कीन् इत्यस्य द लार्ड् आफ़् द रिङ्ग्स् इति उपन्यासस्य प्रथमः खण्डः अस्ति। एतत् चलच्चित्रं द लार्ड् आफ़् द रिङ्ग्स् इति त्रयाणां प्रथमं खण्डम् अस्ति। अस्मिन् एलीजा वुड्, इयान् मैककेलन्, लिव् टैलर्, विगो मोर्टेन्सन्, सीन् आस्टिन्, केट् ब्लान्चेट्, जान् रैस्-डेविस्, बिली बाय्ड्, डोमिनिक् मोनाघन्, ओर्लाण्डो ब्लूम्, क्रिस्टोफर् ली, ह्यूगो वीविङ्ग्, सीन् बीन्, इयान् होल्म्, तथा एन्डी सेर्किस् इत्यादयः समूहाः सन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द गाड्फ़ादर् पार्ट् II इति 1974 तमे वर्षे निर्मितं अमेरिकादेशस्य महाकाव्य-अपराध-चलच्चित्रम् अस्ति, यस्य निर्देशकः च फ़्रांसिस् फ़ोर्ड् कोप्पोला अस्ति। एतत् चलच्चित्रं आंशिकरूपेण मारियो पूज़ो इत्यस्य 1969 तमे वर्षे रचितस्य द गाड्फ़ादर् इति उपन्यासस्य आधारेण निर्मितम् अस्ति, यः कोप्पोला इत्यनेन सह चित्रकथायाः सहलेखकः आसीत्, तथा च एतत् 1972 तमे वर्षे निर्मितस्य द गाड्फ़ादर् इति चलच्चित्रस्य उत्तरकथा तथा पूर्वकथा च अस्ति, यस्मिन् समान्तरनाटकानि प्रस्तूयन्ते-एकः 1958 तमे वर्षे कार्लियोन्-परिवारस्य नूतनस्य डान्-मैकेल्-कार्लियोन् (अल्-पचिनो) इत्यस्य कथां स्वीकरोति, यः तस्य जीवनस्य प्रयासस्य अनन्तरं पारिवारिकव्यवसायस्य रक्षणं करोति; प्रिक्वेल् इत्यस्मिन् तस्य पितुः विटो-कार्लियोन् (रोबर्ट्-डी-निरो) इत्यस्य सिसिलियन्-बाल्यावस्थायाः न्यूयार्क्-नगरे स्वपरिवारस्य उद्यमस्य स्थापनापर्यन्तं यात्रा अन्तर्भवति। अस्मिन् समवेत-पात्रेषु राबर्ट् डुवाल्, डायन् कीटन्, तालिया शैर्, मोर्गाना किङ्ग्, जान् काजेल्, मारियाना हिल्, ली स्ट्रास्बर्ग् च सन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "अस्य चलच्चित्रस्य लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "फेर्वेल् मै कन्क्युबैन् इति 1993 तमे वर्षे चेन् कैगे इत्यनेन निर्देशितं चीनादेशस्य ऐतिहासिकं नाटकीयचलच्चित्रम् अस्ति, यस्मिन् लेस्ली चेयुङ्ग्, गोङ्ग् ली, झाङ्ग् फेङ्ग्यी च अभ्यनयत्। लिलियन् ली इत्यस्य उपन्यासस्य आधारेण लु वेय् इत्यनेन चलच्चित्रस्य कृते स्वीकृतं, एतत् चलच्चित्रं 20 तमशताब्द्याः चीन-देशस्य राजनैतिक-कोलाहलपूर्णस्य, चीन-गणराज्यस्य प्रारम्भिकदिवसात् सांस्कृतिकक्रान्तेः परिणामपर्यन्तं निर्मितम् अस्ति। अस्मिन्, द्वौ पीकिङ्ग्-ओपेरा-अभिनेतारौ, आजीवनमित्रौ चेङ्ग् दीयी (चेउङ्ग्) तथा डुवान् ज़ियावोलोव् (झाङ्ग्), तथा ज़ियावोलोव् इत्यस्य पत्नी जुक्सियान् (गोङ्ग्) इत्येताभ्यां मध्ये समस्यायुक्ताः सम्बन्धाः वर्णिताः सन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "मोनालिसा इति इटालियन्-कलाकारस्य लियोनार्डो डा विन्सी इत्यस्य अर्धदीर्घं चित्रम् अस्ति। \n \n इटालियन्-पुनर्जागरणस्य पुरातनः उत्कृष्टकृतिः इति मन्यमानः अयं \"विश्वस्य सर्वाधिकं प्रसिद्धं, सर्वाधिकं दर्शितं, सर्वाधिकं लिखितं, सर्वाधिकं गीतं, सर्वाधिकं प्रहसनं कृतवत्\" इति वर्णितः अस्ति। चित्रकलायाः नवीनगुणेषु विषयस्य निगूढ-अभिव्यक्तिः, रचनायाः स्मारकता, रूपाणां सूक्ष्म-प्रतिरूपणं, वायुमण्डलीय-भ्रमात्मकता च अन्तर्भवन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "गर्ल् विथ अ पर्ल् इयर् रिङ्ग् (डच्ः मीस्जे मेट् डे परेल्) इतीदं डच् स्वर्णयुगस्य चित्रकारः जोहान्स् वर्मीर् इत्यस्य तैलचित्रम् अस्ति, यत् प्रायः 1665 तमे वर्षे निर्मितम्। शताब्दशः विविधनाम्ना ख्यातः अयं, 20 शताब्द्याः अन्ते, तत्र चित्रिते बालिकायाः ध्रियमाणस्य कर्णमुष्ट्याः कारणात्, वर्तमाननाम्ना प्रसिद्धः अभवत्। 1902 तमात् वर्षात् द हेग्-नगरस्य मौरिट्शुयिस्-सङ्ग्रहालये एषा कृतिः अस्ति, तथा च विविध-साहित्यिक-चलच्चित्र-उपचारानां विषयः अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द स्टारी नैट् इतीदं डच्-पोस्ट्-इम्प्रेशनिस्ट्-चित्रकारस्य विन्सेण्ट् वान् गोघ् इत्यस्य तैलचित्रम् अस्ति। 1889 तमे वर्षे जून्-मासे चित्रितं एतत्, सूर्योदयात् पूर्वमेव, सेण्ट्-रेमी-डे-प्रोवेन्स् इत्यत्र स्थितस्य तस्य आश्रयगृहस्य पूर्वमुखस्य द्वारात् दृश्यम् चित्रयति, यत्र 1941 तमवर्षात् न्यू यार्क्-नगरस्य म्यूसियम्-आफ्-माडर्न्-आर्ट् इत्यस्य स्थायीसङ्ग्रहे कल्पितस्य village.It इत्यस्य संयोजनं कृतम् अस्ति, यत् लिल्ली पी. ब्लिस् बेक्वेस्ट् इत्यस्य माध्यमेन प्राप्तम् अस्ति। वान् गोघ् इत्यस्य महान् कृतिः इति व्यापकरूपेण गण्यते, द स्टारी नैट् इतीदं पाश्चात्यकलायाः सर्वाधिक-मान्यतासु चित्रेषु अन्यतमम् अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द किस् (जर्मन्-भाषायां डेर् कुस्) इति तैल-आन्-क्यान्वास्-चित्रम् अस्ति, यत्र आस्ट्रिया-देशस्य प्रतीकात्मक-चित्रकारः गुस्ताव् Klimt.It इत्यनेन सुवर्णपत्रम्, रजतं, प्लाटिनं च योजितम् अस्ति, यत् 1907 तथा 1908 तमे वर्षे कस्मिंश्चित् समये चित्रितम् आसीत्, यदा विद्वांसः तस्य \"स्वर्णकालः\" इति आह्वयन्ति। 1908 तमे वर्षे लैब्स्पार् (प्रेमीयाः) इति शीर्षके एतत् प्रदर्शितम्, यथा प्रदर्शने सूच्यां उल्लिखितम्। अस्मिन् चित्रे युगलं परस्परं आलिङ्गनं कुर्वन्तः, तेषां शरीरानि समकालीन-आर्ट्-नोव्यू-शैल्या, पूर्वकालस्य कला-शिल्प-आन्दोलनस्य जैविक-रूपैः च प्रभावित-शैल्या अलङ्कृत-विस्तृत-सुन्दर-वस्त्रेषु संलग्नानि चित्र्यन्ते। \n \n अधुना चित्रणं वियन्ना-नगरस्य बेल्वेडेर्-नगरस्य ओस्टेरिचिस्चे-गलेरी-बेल्वेडेर्-सङ्ग्रहालये स्थापितम् अस्ति, तथा च वियन्ना-सेसेशन् (आर्ट्-नोव्यू इत्यस्य स्थानीयपरिवर्तनम्) तथा च पोर्ट्रैट्-आफ़्-अडेल्-ब्लोच्-बायर्-प्रथमस्य अनन्तरं क्लिम्ट् इत्यस्य सर्वाधिक-लोकप्रिय-कृतिः इति मन्यते। बहुभिः एतत् प्रसिद्धं कलाकृतिरूपेण मन्यते।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द बर्त् आफ़् वीनस् इतीदं इटालियन्-कलाकारस्य साण्ड्रो बोट्टिसेल्ली इत्यस्य चित्रम् अस्ति, यत् प्रायः 1480 तमस्य दशकस्य मध्यभागे निष्पादितम्। अस्मिन् वीनस्-देव्याः जन्मात् परं तटे आगच्छति इति चित्रितम् अस्ति, यदा सा समुद्रात् पूर्णरूपेण उद्भूतवती आसीत् (वीनस्-अनाडियोमीन् इति नाम्ना ख्याता, प्रायः कलायां चित्रिता च)। चित्रणं इटलीदेशस्य फ्लोरेन्स्-नगरस्य उफिज़ी-चित्रशालायां अस्ति। \n \n यद्यपि तौ युग्मं नास्ति तथापि चित्रणं अनिवार्यतया बोट्टिसेल्ली इत्यस्य अन्येन अतिविशाल-पौराणिक-चित्रणेन प्रैमावेरा इत्यनेन सह चर्चितम् अस्ति, यत् अपि उफिज़ी इत्यस्मिन् अस्ति। ते विश्वस्य प्रसिद्धेषु चित्रेषु अन्यतमाः सन्ति, तथा च इटालियन्-पुनर्जागरणस्य प्रतिमाः सन्ति; द्वयोः मध्ये प्रैमावेरायाः अपेक्षया जन्मः अधिकतया प्रसिद्धः अस्ति। शास्त्रीय-पौराणिककथासम्बद्धानां विषयाणां चित्रणम् अत्यन्तं बृहदाकारम् अस्ति, शास्त्रीय-प्राचीनतायाः आरभ्य पाश्चात्त्यकलायां प्रायः अभूतपूर्वम् आसीत्, तथैव जन्मसमये नग्नमहिला-आकृत्याः आकारः प्रामुख्यं च आसीत्। उभौ अपि मेडिसि-परिवारस्य एकेन सदस्येन नियुक्ताः इति चिन्तितम् आसीत्, परन्तु अधुना एतत् अनिश्चितम् अस्ति। \n \n कला-इतिहासज्ञैः तेषां अनन्तरूपेण विश्लेषणं कृतम् अस्ति, मुख्यविषयाः सन्ति-प्राचीन-चित्रकाराणां अनुकरणम्, विवाह-उत्सवस्य सन्दर्भः (सामान्यतया स्वीकृतः), पुनर्जागरण-नव-प्लेटोनिजम् इत्यस्य प्रभावः (किञ्चिदपि विवादास्पदः), आयुक्तानां परिचयः (न स्वीकृतः) च। तथापि, अधिकांशाः कला-इतिहासज्ञाः अङ्गीकृताः सन्ति यत् जन्मस्य अर्थस्य निरूपणार्थं सङ्कीर्णविश्लेषणस्य आवश्यकता नास्ति, यथा प्रायशः प्रैमवेरा-ग्रन्थः करोति। यद्यपि चित्रे सूक्ष्मताः सन्ति, तथापि तस्य मुख्यः अर्थः ग्रीक्-पौराणिककथायाः पारम्परिक-दृश्यस्य सरलः, यदि व्यक्तिगतः उपचारः अस्ति, तथा तस्य आकर्षणं संवेदनात्मकं, अतीव सुलभं च अस्ति, अतः तस्य महती लोकप्रियता अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "ग्रे तथा ब्ल्याक् मध्ये क्रमाङ्कनं नं। 1, विस्लर्स्-मदर् अथवा पोर्ट्रैट्-आफ्-आर्टिस्ट्स्-मदर् इति बोलचाल-नाम्ना प्रसिद्धा, क्यान्वास्-उपरि तैलचित्रम् अस्ति यत् 1871 तमे वर्षे अमेरिकादेशे जन्मितेन चित्रकारेण जेम्स् अबोट् म्याक्नील् विस्लर् इत्यनेन निर्मितम्। अस्य चित्रकलायाः विषयः विस्लर् इत्यस्य माता अन्ना म्याक्नील् विस्लर् अस्ति। चित्रणं 56.81 बै 63.94 इञ्च्स् (1,443 मि. मी. × 1,624 मि. मी.) इति अस्ति, यत् विस्लर् इत्यस्य स्वविन्यासस्य फ्रेम्-मध्ये प्रदर्शितम् अस्ति। 1891 तमे वर्षे फ़्रेञ्च्-राज्येन क्रीता, एतत् प्यारिस्-नगरस्य म्यूसी डी 'ओर्से इत्यनेन आयोजितम् अस्ति। एतत् संयुक्तराज्यामेरिका-देशात् बहिः अमेरिकीयकलाकारस्य प्रसिद्धेषु कार्येषु अन्यतमम् अस्ति। एतत् अमेरिकन्-ऐकान् तथा विक्टोरियन्-मोनालिसा इति विविधरूपेण वर्णितम् अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "द आर्नोल्फिनी पोर्ट्रैट् (अथवा द आर्नोल्फिनी वेडिङ्ग्, द आर्नोल्फिनी म्यारेज्, द पोर्ट्रैट् आफ् जियोवान्नी आर्नोल्फिनी अण्ड् हिस् वैफ्, अथवा अन्यानि शीर्षकाः) इति 1434 तमे वर्षे नेदर्लेण्ड्-देशस्य प्रारम्भिकस्य चित्रकारस्य जान् वान् ऐक् इत्यस्य ओक्-फलकस्य उपरि तैलचित्रम् अस्ति। इदं पूर्णदैर्घ्यं द्विचित्रं कल्पयति, यत् इटालियन्-व्यापारिणं जियोवान्नी डी निकोलाव् आर्नोल्फिनी तथा तस्य पत्नीं चित्रयति इति मन्यते, सम्भवतः फ्लेमिश्-नगरस्य ब्रुगेस्-नगरे तेषां निवासे। \n \n एतत् पाश्चात्यकलायाः अत्यन्तं मौलिकं जटिलं च चित्रेषु अन्यतमम् इति मन्यते, यतः तस्य सौन्दर्यं, जटिलं प्रतिमाशास्त्रं, ज्यामितीय-ओर्थोगोनल्-परिप्रेक्ष्यं, दर्पणस्य उपयोगेन चित्रस्थानस्य विस्तारः च अस्ति। अर्न्स्ट् गोम्ब्रिच् इत्यस्य मते, \"इटलीदेशे डोनाटेल्लो इत्यस्य अथवा मासासियो इत्यस्य कृत्या इव स्वस्य प्रकारेण नूतनं क्रान्तिकारी च आसीत्।\" यथार्थलोकस्य एकः सरलः मूलः अकस्मात् एकस्मिन् फलकस्य उपरि जादुमन्त्रम् इव स्थापितः आसीत्। इतिहासे प्रथमवारं सः कलाकारः यथार्थतमार्थेन परिपूर्णः प्रत्यक्षदर्शिनः अभवत्। \" इर्विन् पानोफ्स्की तथा अन्यैः केषाञ्चन कला-इतिहासकारैः एतत् छायाचित्रं विवाह-अनुबन्धस्य अद्वितीयं रूपम् इति मन्यते, यत् चित्ररूपेण अभिलिखितम् अस्ति। 1434 तमे वर्षे वान् ऐक् इत्यनेन हस्ताक्षरितं दिनाङ्कितं च एतत्, तस्मिन् एव कलाविदेन तथा तस्य भ्रात्रा हुबर्ट् इत्यनेन च गेण्ट् अल्टार्पीस् इत्यनेन सह, टेम्पेरा इत्यस्य स्थाने तैलेन निष्पादितं प्राचीनतमं प्रसिद्धं फलकचित्रम् अस्ति। 1842 तमे वर्षे लण्डन्-नगरस्य न्याशनल्-गेलरी इत्यनेन एतत् चित्रणं क्रीता।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "नदीतीरे किङ्ग्मिङ्ग्-उत्सवस्य समये (किङ्ग्मिङ्ग्-शाङ्गे-तु) साङ्ग्-वंशस्य चित्रकारस्य झाङ्ग्-जेदुवान् इत्यस्य (1085-1145) हस्तलिपिचित्रम् अस्ति, यत् अनुवर्तमानेषु शताब्देषु बहुवारं प्रतिलिपितम् अस्ति। एतत् उत्तरसङ्गीतस्य समये जनानां दैनन्दिनजीवनं, राजधान्याः बियाञ्जिङ्ग् (वर्तमानकालस्य कैफ़ेङ्ग्) इत्यस्य भूदृश्यम् च ग्रहीयते। अयं विषयः प्रायः किङ्ग्मिङ्ग्-उत्सवे उत्सवीभावम्, लौकिक-कोलाहलं च आचरति इति कथ्यते, न तु विरामदिनस्य औपचारिक-पक्षान्, यथा समाधि-प्रक्षालनम्, प्रार्थनाः च। दक्षिणतः वामतः पठन्तु, यदा दर्शकः तस्य अनावरणं करोति, क्रमेण दृश्यानि धनिकात् दरिद्रं यावत् समाजस्य सर्वस्तरेषु जीवनशैल्याः, ग्रामीणक्षेत्रेषु नगरेषु च आर्थिकक्रियाकलापान् च प्रकटयन्ति, तथा च कालस्य वस्त्राणां वास्तुकलायाः च दृश्यानि प्रददति। सर्वेषु चीना-देशस्य चित्रेषु एतत् चित्रणं सर्वाधिकं प्रसिद्धं कार्यम् इति मन्यते, तथा \"चीना-देशस्य मोनालिसा\" इति नाम्ना ख्यातम् अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "फुचुन्-पर्वतेषु वासः चीना-देशस्य चित्रकारस्य हुवाङ्-गोङ्ग्वाङ्ग् (1269-1354) इत्यस्य कतिपयेषु अवशिष्टेषु कार्येषु अन्यतमः अस्ति, तथा च तस्य महतीषु कार्येषु अन्यतमः इति मन्यते। 1348 तः 1350 पर्यन्तं चित्रितं चित्रणं 1650 तमे वर्षे द्वयोः खण्डयोः दग्धम्। अद्यत्वे एकः खण्डः हाङ्ग्ज़ौ-नगरस्य झेजियांग्-प्रान्तीय-सङ्ग्रहालये रक्षितः अस्ति, अपरः खण्डः तैपेय्-नगरस्य राष्ट्रिय-प्रासाद-सङ्ग्रहालये रक्षितः अस्ति। मिलित्वा, सम्पूर्णं चित्रणं 691.3 से. मी. यावत् दीर्घं स्यात्।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "अस्य चित्रकलायाः लघुप्रस्तावनं दातुं शक्यसे वा?",
+        "answer": "सम्राज्ञः तैज़ोङ्ग्-वर्यः तिब्बती-दूतं स्वीकृत्य (याङ्-लीबेन्-इत्यस्य ताङ्ग्-वंशस्य तिब्बतस्य च मैत्रीपूर्ण-समागमं दर्शयितुं यान्-लीबेन्-इत्यस्य रेष्म-विषये चित्रम् अस्ति। एतत् चित्रणं 129 सेण्टिमीटर् (51 इञ्च्) दीर्घं, 38.5 सेण्टिमीटर् (15.2 इञ्च्) विस्तृतं च अस्ति। बुनियन् तु बेजिङ्ग्-नगरस्य द-प्यालेस्-म्यूज़ियम् इत्यत्र अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "सीडर्-आपल्-रस्ट् (जिम्नोस्पोराङ्गियम्-जुनिपेरि-वर्जिनियाना) इति एकः कवक-रोगः अस्ति यस्य जटिलं द्विवर्षीय-जीवनचक्रं समापयितुं जुनिपर्-सस्यानां आवश्यकता भवति। विविध-जुनिपर्-जातिनां युवासु शाखासु रक्तवर्णीये-गोधूमवर्णीये पित्तरूपेण शीतकाले बीजाणवः उत्पद्यन्ते। वसन्तस्य आरम्भे, आर्द्र-वायुगुणस्य समये, एते गुल्-वृक्षाः शोफिताः भवन्ति, तथा च उज्ज्वलाः नारङ्गवर्णीय-बीजाणवः वायुना प्रज्ज्वलितानि भवन्ति, यत्र ते अतिसंवेदनशीलाः आपल्-वृक्षाः, क्र्याब्-आपल्-वृक्षाः च सङ्क्रमयन्ति। एतेषु वृक्षेषु ये बीजाणवः विकसन्ति ते आगामिवर्षे केवलं जूनिपर्-जनान् एव सङ्क्रमयन्ति। प्रतिवर्षं एषः रोगः जुनिपर्-तः आपल्-पर्यन्तं, जुनिपर्-पर्यन्तं पुनः गच्छेत्; आपल्-वृक्षयोः मध्ये प्रसारयितुं न शक्नोति। \n \n आपल् तथा क्र्याब्-आपल् इत्येतयोः वृक्षेषु पुष्पस्य किञ्चित्कालानन्तरं पत्राणां उपरिभागे म्लेच्छ-पीत-पिन्-हेड्-आकारस्य धब्बाः पश्यन्तु। एताः क्रमेण उज्ज्वलाः नारङ्गवर्णीयाः पीतवर्णीयाः बिन्दुः भवन्ति येन रोगस्य परिचयः सुलभः भवति। फलस्य उपरि नारङ्गवर्णीयाः कलकाः अपि भवितुम् अर्हन्ति। अत्यधिकतया सङ्क्रमिताः पत्राणि समयात् पूर्वं पतन्ति। \n \n उपचारः \n 1। यदा उपलभ्यन्ते तदा प्रतिरोधीसंस्कृतयः चिनोतु। \n 2. वृक्षाः अधः पतिताः पत्राणि, अन्यानि भग्नावशेषाणि च उत्थाप्य निष्कासयन्तु। \n 3. सङ्क्रमिताः जूनिपर्स् इत्येतेभ्यः गाल्स् इत्येतान् निष्कासयन्तु। केषुचित् सन्दर्भेषु जुनिपर्-वृक्षाः पूर्णतया निष्कासिताः भवेयुः। \n 4। जूनिपर्-आतिथेयेन निर्गमितानां बीजाणूनां वृक्षाणां रक्षणार्थं, कर्ष-विरामात् आरभ्य, आपल्-फलानां कृते साप्ताहिकरूपेण उपयोक्तुं लेबल्-कृतानि निवारकानि, रोग-निवारकानि कवकनाशकानि प्रयुज्यताम्। एतत् प्रतिवर्षं केवलं एकवारं भवति, अतः अस्य वसन्तकालस्य प्रसारस्य अनन्तरं अतिरिक्तानां आवेदनानां आवश्यकता नास्ति। \n 5। जुनिपर् इत्यत्र आगस्ट्-मासस्य अन्ते अक्टोबर्-मासस्य अन्ते च न्यूनातिन्यूनं चतुर्वारं ताम्र-द्रावणेन (0.5 तः 2.0 औन्स्/ग्यालन् जलं) सस्यान् सिञ्चयित्वा रस्ट् नियन्त्रयितुं शक्यते। सेरेनेड्-गार्डन् इत्यनेन अधिकांशानां फङ्गल्-जीवाणूनां च रोगाणां सुरक्षितं चिकित्सां करोतु। अयं विशाल-वर्णपट-जैविक-कवकनाशकः जैविक-उपयोगाय पञ्जीकृतस्य बेसिलस्-सब्टिलिस् इत्यस्य पेटेण्ट्ड्-स्ट्रैन् इत्यस्य उपयोगः करोति। सर्वोत्तमरूपेण, सेरेनेड् इति मधु-मधूमृगानां, लाभप्रद-कीटाणां च कृते सर्वथा विषरहितम् अस्ति। \n 7। गन्धकं, पायरेथ्रिन्स् च युक्तं बोनिड् ® आर्चार्ड् स्प्रे इति कीटानां आक्रमणानां तथा फङ्गल्-समस्यानां कृते सुरक्षितं, एक-प्रहारितं सान्द्रम् अस्ति। उत्तमफलानां कृते ऋतुकालस्य आरम्भे रक्षात्मक-स्प्रे-रूपेण (2.5 औन्स्/गैलोन्) प्रयुज्यताम्। यदि रोगः, कीटः अथवा आर्द्र-वायुगुणः अस्ति तर्हि एकस्मिन् ग्यालन्-जले 5 औन्स् योजयतु। सस्यस्य सर्वाणि भागानि, विशेषतः नूतनाः अङ्कुराणि, पूर्णतया स्प्रे कुर्वन्तु। \n 8। भवतः क्षेत्रे अन्येषाम् सम्भाव्यानां समाधानानां कृते स्वस्य स्थानीयकृषि-विस्तारकार्यालयेन सह सम्पर्कं करोतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "अन्थ्राक्नोस्। अयं कोल्लेटोट्रिचम्-वंशस्य कवकानां कारणेन भवति, यः पादप-रोगाणूनां सामान्यः समूहः अस्ति, यः अनेकेषु पादपजातीनां रोगाणां कृते उत्तरदायीः अस्ति। सङ्क्रमिताः वनस्पतयः शाखासु, पत्रेषु, फलेषु वा कृष्णवर्णीयाः, जले निमज्जिताः क्षतयः उत्पद्यन्ते। एतेषां व्रणानां केन्द्राणि प्रायः गुलाबि-जिलेटिनस्-बीजाणुना आच्छादिताः भवन्ति, विशेषतः आर्द्र-उष्ण-वायुगुणस्य समये। एन्थ्राक्नोस् इत्येषा केवलं कतिपयेषु दिनेषु एव सुन्दरं सस्यं कुञ्चित-अपशिष्टरूपेण न्यूनीकर्तुं शक्नोति। \n \n फङ्गल्-रोगः वित्तेषु, मृत्तिकायां, उद्यानस्य च भग्नावशेषेषु अतिशीतलः भवति। शीतल-आर्द्र-वायुगुणः तस्य विकासं प्रवर्धयति, तथा च बीजाणूनां निरन्तरवृद्धेः इष्टतमं तापमानं 75-85 °F मध्ये भवति। छत्राकस्य विकासाय अङ्कुरणाय च तथा सस्यस्य सङ्क्रमणाय च आर्द्रता आवश्यकी भवति। वायुभिः, वृष्ट्या, कीटैः, उद्यानसाधनैः च अस्य प्रसारः भवति। \n \n उपचारः \n 1। यदा शक्यते तदा प्रतिरोधी-सस्य-प्रकारान् चिनोतु तथा च पाश्चात्त्य-वर्धितानां बीजानां उपयोगं करोतु ये रोगेण न आक्रान्ताः सन्ति। \n 2. यदि एषा फङ्गल्-समस्या सामान्या अस्ति तर्हि स्वस्य बीजं रोपणात् मा रक्षतु। \n 3। रोगस्य प्रसारं निवारयितुं यदा वृक्षाः आर्द्राः भवन्ति तदा उद्यानात् बहिः स्थापयतु तथा च उपयोगानन्तरं सर्वाणि उद्यानसाधनानि (एकं भागं ब्लीच् कृत्वा 4 भागं जलं) निर्जंतुं सुनिश्चितं करोतु। \n 4 सङ्क्रमिताः पत्राणि, फलानि वा काण्डानि वा कम्पोस्ट् मा करोतु तथा च शिशिरर्तौ, सस्योत्पादनानन्तरं, उद्यानक्षेत्राणि पूर्णतया स्वच्छं करोतु येन शीतकाले फङ्गल्-बीजाणूनां स्थानानि न्यूनीकर्तुं शक्यते। \n 5. सेरेनेड्-गार्डन् इत्यनेन अधिकांशानां फङ्गल्-जीवाणूनां च रोगाणां सुरक्षितं चिकित्सां करोतु। अयं विशाल-वर्णपट-जैविक-कवकनाशकः जैविक-उपयोगाय पञ्जीकृतस्य बेसिलस्-सब्टिलिस् इत्यस्य पेटेण्ट्ड्-स्ट्रैन् इत्यस्य उपयोगः करोति। सर्वोत्तमरूपेण, सेरेनेड् इति मधु-मधूमृगानां, लाभप्रद-कीटाणां च कृते सर्वथा विषरहितम् अस्ति। \n 6। द्रव-ताम्र-स्प्रे, सल्फर्-पौडर् च साप्ताहिकरूपेण प्रयुज्येताम्, यदा वसन्तस्य आरम्भे पर्णस्य विकासः आरभते तदा आरभ्य सम्पूर्णे वर्धमानर्तौ अनुवर्तते। प्रातःकाले स्प्रे कुर्वन्तु, तथा च उष्ण-वायुगुणस्य समये प्रयोगान् परिहरन्तु। रोपणात् पूर्वं बीजानां उपचारः अपि कर्तुं शक्यते। \n 7। नीम्-तैल-स्प्रे एकः जैविकः, बहुउद्देश्यीयः कवकनाशकः/कीटनाशकः/शमननाशकः अस्ति यः अण्डान्, लार्वा इत्येतान्, कीटानां प्रौढावस्थां च म्रियते तथा च सस्येषु कवकानां आक्रमणं निवारयति। वसन्तस्य उद्गमस्य प्रथमलक्षणे, प्रति 7-14 दिनेषु निवारक-उपायरूपेण अथवा 7-दिनेषु अनुसूच्यां यावत् विद्यमानसमस्याः न समाप्यन्ते तावत् पूर्वमेव प्रयुज्यताम्।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "एतत् ब्याक्टिरियल्-क्यान्कर् अस्ति, यत् चेरी तथा प्लम् इत्येतेषु सर्वाधिकं भवति, परन्तु एप्रिकाट्, पीच् तथा अन्यान् अनेकान् प्रकारान् शिलापाकान् अपि प्रभावितं कर्तुं शक्नोति। अस्य सस्यस्य रोगस्य शङ्कां करोतु यदि वृक्षेषु वा शाखासु वा निमग्नानि, जले निमग्नानि वा \"गम्मी\" व्रणानि भवन्ति। वसन्तर्तौ यदा वृक्षाः सक्रियरूपेण वर्धन्ते तदा एतेषु क्षतेभ्यः क्षेत्रेभ्यः गन्धयुक्तः गन्धयुक्तः रसः स्रावितः भवेत्। केङ्कर्स् इत्येतानि परितः स्थितस्य स्वस्थस्य छालस्य अपेक्षया कृष्णवर्णाः भवन्ति, तथा च अन्तर्निहितः ऊतकः रक्तवर्णीयः-कृष्णवर्णीयः आर्द्रः च भवति। \n \n टिप्पणिः यदि कर्कर्-वृक्षाः शाखां वा काण्डं वा वेष्टन्ति तर्हि रोगग्रस्तक्षेत्रस्य उपरि स्थितानि पत्राणि कुञ्चितानि पीतवर्णीयाः भवन्ति। वृद्धिः स्थगिता तथा शाखा वा वृक्षाः वा अन्ते म्रियन्ते। \n \n स्यूडोमोनास् सिरिङ्गे इति कर्करोगस्य कारणभूतः जीवाणवः व्रणितः छालः अथवा विद्यमानेन व्रणस्य माध्यमेन वृक्षेषु प्रविशति, यथा शाखायां वा शाखायां वा प्रूनिङ्ग्-कट्। वसन्तकाले हिमस्य क्षतिः अतिरिक्तान् सङ्क्रमणान् प्रवर्धयितुं शक्नोति। ब्याक्टिरियल्-केन्कर्-सङ्क्रमणानि शिशिरर्तौ, शिशिरर्तौ, वसन्तस्य आरम्भे (शीतल-आर्द्र-वायुगुणस्य समये) च भवन्ति, तथा च वृष्ट्या, जलैः, प्रूनिङ्ग्-उपकरणैः च प्रसरन्ति। सक्रिय-कर्करेषु, संक्रमित-वृक्षेषु, संक्रमित-स्वस्थ-वृक्षाः, अपतृणानां च पृष्ठभागेषु च जीवाणवः अतिशीतलम् आगच्छन्ति। \n \n उपचारः \n 1। यदा व्रणानि शीघ्रं पूर्यन्ते तदा पुष्पवृक्षाः प्रक्षालयन्तु। \n सङ्क्रमितेभ्यः क्षेत्रेभ्यः अत्यन्तं अधः स्थिताः मृताः वा अङ्गानि निष्कासयन्तु। \n 3. वसन्तस्य आरम्भे, यदा जीवाणवः अधिकतया सक्रियाः भवन्ति तदा च प्रूनिङ्ग् निवारयतु। \n 4। सर्वाणि प्रूनिङ्ग्-कटाः तत्क्षणमेव टैङ्गल्फुट् ट्री प्रूनिङ्ग्-सीलर् इत्यनेन उपचारयन्तु, तथा च प्रत्येकं कटाः अनन्तरं स्वस्य प्रूनिङ्ग्-उपकरणं निर्जंतुकं करोतु-एकः भागः ब्लीच् कृत्वा 4 भागः जलं करोतु। \n 5। यदि वृक्षाः आधारं परितः स्ट्रिङ्ग् ट्रिम्मर् इत्येतान् उपयुञ्जते तर्हि संक्रमणं निवारयितुं श्वासोच्छ्वासयोग्येन ट्री-रैप् इत्यनेन छालस्य हानिं मा करोतु। \n 6 छालस्य हानिकरं तापमानं परिवर्तनं न्यूनीकर्तुं श्वेत-लेटेक्स्-पेण्ट् इत्यनेन सह जले पतितं छालं प्रक्षालयतु। \n 7. संशोधनेन ज्ञातं यत् ताम्र-कवकनाशकाः अस्य शिलामृग-समस्यायाः विरुद्धं किञ्चित्कम् साफल्यं प्रापयन्ति इति। तथापि, परिणामाः असङ्गताः सन्ति। समग्रप्रबन्धनकार्यक्रमस्य भागरूपेण अस्य उपयोगं कर्तुं वयं अनुशंसामः। \n 8। वायुप्रवाहं वर्धयितुं, वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृक्षाः वृ आर्गनोसैड् ® प्ल्याण्ट्-डाक्टर् इति भू-अनुकूलः प्रणालीगतः कवकनाशकः अस्ति यः अलङ्कारेषु, तृणभूमौ, फलेषु इत्यादिषु महती सङ्ख्यायां रोगाणां निवारणार्थं सम्पूर्णे सस्यस्य माध्यमेन कार्यं करोति। प्रति ग्यालन् 1/3 तः 3/4 औन्स् यावत् जलं मिश्र्य प्रूनिङ्ग्-व्रणेषु परितः क्षेत्रेषु च पेण्ट् अथवा स्प्रे कुर्वन्तु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "अयं पुष्पस्य अन्तिमः क्षयः अस्ति। तमालपत्रस्य, मरीचस्य, शहतूतस्य, शहतूतस्य च गम्भीरः विकारः अस्ति, पुष्प-अन्तिम-क्षयः इति पर्यावरण-समस्या (न तु फङ्गल् इति) प्रायः असमानजलस्य कारणात् अथवा क्याल्शियम्-अभावात् भवति। (एताः सम्बद्धाः भवेयुः; असमानजलं क्याल्शियम्-ग्रहणं बाधयितुं शक्नोति।) अयं सामान्यः उद्यानः \"रोगः\" प्रायः अत्यधिक-उर्वरकस्य, उच्च-लवण-स्तरस्य, अनावृष्टेः वा द्रुतवृद्ध्या प्रेरितः भवति। \n \n पुष्पस्य क्षयस्य लक्षणानि हरितपक्वयोः फलयोः दृश्यन्ते, तथा च जल-सिक्तैः क्षेत्रैः अभिधीयन्ते, ये क्रमेण विस्तृताः परिणताः च अधः भागे निमग्नानि, गोधूमवर्णानि, चर्मयुक्तानि स्थानानि भवन्ति। अनेकेषु सन्दर्भेषु, द्वितीयक-रोगाणुः, ये कृष्णवर्णीयाः, अस्पष्ट-सदृशाः वृद्धिः इव दृश्यन्ते, ते प्रभावितक्षेत्रं आक्रम्य फलस्य पूर्णरूपेण क्षयं जनयन्ति। पुष्पस्य क्षयः सस्यात् सस्यं प्रति न प्रसरिष्यति। \n \n उपचारः \n यतः एषा सस्यसमस्या शारीरिकरूपेण भवति, अतः कवकनाशकाः नियन्त्रणोपायरूपेण कार्यं न करिष्यन्ति। वयं निम्नलिखितान् अनुशंसामः \n \n 1। यथासंभवं प्रतिरोधीसस्यप्रकारान् चिनोतु। \n 2। मृत्तिकां समानरूपेण आर्द्रं कृत्वा, केल्प् अथवा क्याल्शियम्-द्रावणेन पादपानां सिञ्चनया च समस्याः निवारयतु। \n 3. रोपणसमये मृत्तिकायां अधिकमात्रायां क्याल्शियं-अस्थि-भोजनं, शल्क-कवचम् अथवा जिप्सं-इत्येतं योजयित्वा प्रायः एषा समस्या न वर्धते। \n 4। जुलै-आगस्ट्-मासयोः उष्ण-शुष्क-दिनेषु मृत्तिकायाः आर्द्रतां रक्षयितुं मल्च् इत्यस्य एकः स्तरः (क्षारः, कम्पोस्ट्, तृणम्) साहाय्यं करोति। अस्य आवश्यक-पोषकस्य न्यूनतां परिहर्तुं वा निवारयितुं वा द्रवरूप-क्याल्शियम् इत्यस्य 5 प्रतिशतं (1-2 टी. बी. एस्. पी./ग्यालन् जलं) पृष्ठीयप्रयोगाः उपयोक्तुं शक्यन्ते। उत्तमफलानां कृते, आसंजनं वर्धयितुं प्राकृतिक-सर्फ़्याक्टन्ट् इत्यनेन सह संयोजयतु, तथा च प्रवाह-बिन्दुपर्यन्तं पत्राणि स्प्रे कुर्वन्तु। \n 6. मल्चिङ्ग्-सस्यानि आर्द्रतायाः संरक्षणे साहाय्यं करिष्यन्ति, अपि च अधिक-एकरूप-जलपूर्तिं च प्रदातुं शक्नुवन्ति। \n 7. अधिक-नाइट्रोजन्-उर्वरकानां उपयोगः मा करोतु येन वनस्पति-वृद्धिः त्वरिता भवति तथा च सस्यैः क्याल्शियम्-ग्रहणं न्यूनीभवति। प्लानॆट्-न्याचुरल् इत्यत्र सन्तुलित-जैविक-उर्वरकानां विशाल-चयनं उपलभ्यते।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "अयं ब्रौन्-राट् (मोनिलिनिया-फ्रुक्टिकोला) इति सामान्यः फङ्गल्-रोगः अस्ति, यः बादामस्य, खुबानी-वृक्षस्य, चेरी-वृक्षस्य, पीच्-वृक्षस्य, प्लम्-वृक्षस्य च पुष्पान् फलान् च प्रभावितं करोति। मम्मिफैड्-फलेषु (वृक्षस्य उपरि भूमौ च) सङ्क्रमितेषु शाखासु च अयं अतिशीतलः भवति। \n \n अयं रोगः प्रथमवारं वसन्तकाले पुष्पान् सङ्क्रमयति, पुनः लघुशाखासु वर्धते येन कर्कर् इत्येतानि जातानि काण्डान् मारयितुं शक्नुवन्ति। यदा रोगः तीव्रः भवति तदा बहुसङ्ख्याकाः पुष्पधारकाः काण्डाः म्रियन्ते। मृतपुष्पाणि प्रायः ग्रीष्मकाले संलग्नाः भवन्ति। विकसिते वा परिपक्वे वा फलेषु वृत्ताकारः वा गोधूमवर्णः वा धब्बाः दृश्यन्ते ये पृष्ठे द्रुतगत्या प्रसृताः भवन्ति तथा च कुञ्चितक्षेत्रेषु लघु-धूसर-बीजाणवः उत्पद्यन्ते। कुपितकोशः सापेक्षिकरूपेण दृढः शुष्कः च भवति। \n \n ब्रौन्-राट्-बीजाणवः वायुना, वृष्ट्या, कीटैः च उद्घाटितानां अथवा न उद्घाटितानां पुष्पाणां, युवा-अङ्कुराणां च कृते वहन्ति। यदि पुष्पपृष्ठे जलं भवति-वृष्ट्या, शिशिरात् अथवा जलात्-तर्हि बीजाणवः अङ्कुरितुं सस्यस्य अन्तः प्रवेष्टुं च शक्नुवन्ति। रोगस्य विकासः विस्तृत-तापमात्रायाः परिधौ भवति तथा च मुकुटाः उद्घाटनात् पत्राणि पतितं यावत् पुष्पाः सङ्क्रमिताः भवितुम् अर्हन्ति। अनुकूल-परिस्थितिषु, गोधूम-क्षयः शीघ्रं प्रसरति तथा च वृक्षस्य उपरि सम्पूर्णं सस्यं पूर्णतया नष्टुं शक्यते। \n \n उपचारः \n 1। यथासंभवं प्रतिरोधी-प्रकारान् चिनोतु। \n 2। संक्रामितानां पादपानां भागानां शीघ्रं निष्कासनं विनाशं च प्रत्येकं वृक्षेषु लघुषु उद्यानेषु च रोगस्य जीवनचक्रं विच्छिन्नं कर्तुं साहाय्यं करोति, तथा च क्षतेः स्तरात् अधः गोधूमवर्णस्य क्षयं स्थापयितुं पर्याप्तं भवेत्। \n 3 वृक्षाः अधः कस्यापि पतितं फलं वा भग्नावशेषम् उत निष्कासयितुं च महत्त्वपूर्णं भवति। \n 4. वायुप्रवाहं वर्धयितुं कदाचित् वृक्षाः छेदनम् कुर्वन्तु। अपि च, पुष्पाणि, पत्राणि, फलानि च आर्द्रतां न प्राप्तुं अधः जलं भवति। \n 5। तान्गल्-फूट्-प्रूनिङ्ग्-सीलर् इत्यस्य उपयोगं कुर्वन्तु येन सर्वाः क्षतानि व्रणानि च मुद्राङ्कितानि भवन्ति, तथा च कीटैः रोगजीवैः च रक्षणं भवति। \n 6. यदा पुष्पाणि उद्घाटितुम् आरभन्ते तदा आरभ्य सम्पूर्णे वर्धमान-ऋतौ अनुवर्तन्ते तदा सङ्क्रमितेषु वृक्षेषु साप्ताहिकरूपेण ताम्र-फङ्गिसैड्स् अथवा सल्फर्-पौडर् इत्यस्य उपयोगः करणीयः। यदि शक्यते तर्हि समयप्रयोगः येन 12 घण्टाः शुष्कवायुगुणः अनुवर्तते। \n 7। आर्गनोसैड् ® प्ल्याण्ट्-डाक्टर् इति भू-अनुकूलः प्रणालीगतः कवकनाशकः अस्ति यः अलङ्कारेषु, तृणभूमौ, फलेषु इत्यादिषु महती सङ्ख्यायां रोगाणां निवारणार्थं सम्पूर्णे सस्यस्य माध्यमेन कार्यं करोति। अस्य विनाशकारि-शिला-फल-समस्यायाः निवारणार्थं पत्र-स्प्रे-रूपेण (1 टी. एस्. पी./ग्यालन् जलं) प्रयुज्यताम्। \n 8। गन्धकं, पायरेथ्रिन्स् च युक्तं बोनिड् ® आर्चार्ड् स्प्रे इति कीटानां आक्रमणानां तथा फङ्गल्-समस्यानां कृते सुरक्षितं, एक-प्रहारितं सान्द्रम् अस्ति। उत्तमफलानां कृते ऋतुकालस्य आरम्भे रक्षात्मक-स्प्रे-रूपेण (2.5 औन्स्/गैलोन्) प्रयुज्यताम्। यदि रोगः, कीटः अथवा आर्द्र-वायुगुणः अस्ति तर्हि एकस्मिन् ग्यालन्-जले 5 औन्स् योजयतु। सस्यस्य सर्वाणि भागानि, विशेषतः नूतनाः अङ्कुराणि, पूर्णतया स्प्रे कुर्वन्तु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "एषः क्लब्-रूट् अस्ति। अधिकांशाः ब्रासिका-सस्यानि (क्याबेज्, ब्रोकोली, कालिफ्लवर् इत्यादीनि) प्रभाविताः भवन्ति।), क्लब्-रूट् इति उत्तर-अमेरिकादेशस्य गृह-उद्यानेषु एकः गम्भीरः सस्यरोगः अस्ति। एतत् मृत्तिका-जनितेन प्लाज़्मोडियोफ़ोरा ब्रासिका इति छत्राकेन भवति, यः मूल-केशद्वारा अतिसंवेदनशील-सस्यान् सङ्क्रमयति। रोगग्रस्ताः मूलाः सुजीयाः भवन्ति, असङ्गताः भवन्ति, विकृताः च भवन्ति (सङ्गृहीताः), प्रायः क्षिप्ताः कुण्ठिताः च भवन्ति। फलतः सस्यानां जलं पोषकद्रव्याणि च सम्यक् ग्रहीतुं कष्टम् भवति। \n \n दिनस्य उष्णकाले वनस्पतयः प्रायः दुर्बलतया वर्धन्ते मृताः च भवन्ति; शीतरातेषु सस्यानि प्रायः पुनरुत्थातुं शक्नुवन्ति। बाह्यपत्राणि पीतवर्णीयाः, धूम्रवर्णीयाः वा भवितुम् अर्हन्ति। क्लब्-रूट् इत्यनेन उत्पादनं न्यूनीभवति तथा च सम्पूर्ण-सस्य-विफलतायाः कारणं भवितुम् अर्हति। \n \n फङ्गल्-बीजाणवः वायुना, जलैः, उद्यानसाधनैः च प्रसरितुं शक्नुवन्ति। रोगस्य विकासः विविधेषु परिसरेषु भवितुम् अर्हति, परन्तु अत्यधिक-आर्द्रता, मृत्तिकायाः निम्न-पी. एच्., मृत्तिकायाः तापमानं च 64 तः 77 °फ़ै. पर्यन्तं भवति। बीजाणवः मृत्तिकायां 10 वर्षाणि यावत् जीवितुं शक्नुवन्ति। \n \n उपचारः \n 1। कवकनाशकाः अस्य मृत्तिका-निवासिनः सूक्ष्मजीवानां चिकित्सां न करिष्यन्ति। \n 2। यथासंभवं प्रतिरोधीसंस्कृतयः चिनोतु। \n 3। उद्यानम् स्वच्छं कृत्वा, सस्यानि परिवृत्त्वा च अस्य रोगस्य घटनायाः निवारणाय प्रयतताम्। \n 4। मनसि धारयन्तु यत् रोगस्य बीजाणवः मृत्तिकायां 20 वर्षपर्यन्तं स्थातुं शक्नुवन्ति। यदि क्लब्-रूट् अस्ति तर्हि भवन्तः मृत्तिकायाः सौर-करणम् इच्छन्ति। * \n 5। संवेदनायुक्तान् अपतृणान् नियन्त्रयतु-यथा-सर्षकम्, मूली, मेषपालकस्य कोषः-ये रोगस्य सम्भाव्यं निर्माणं न्यूनीकर्तुं सङ्क्रमिताः भवेयुः। \n 6. उपयोगानन्तरं सङ्क्रमिताः वनस्पतयः सावधानतया निष्कासयन्तु तथा च उद्यानस्य उपकरणानि (एकः भागः 4 भागेषु जले ब्लीच् करोतु) निर्जमीकरोतु। \n 7 शिशिरर्तौ भवतः उद्याने ओयस्टर्-शेल् अथवा डोलोमैट्-लैम् इत्येतं मिश्र्य स्वस्य मृत्तिकायाः पी. एच्. अधिकं क्षारीयं 7.2 यावत् वर्धयतु। प्रायः पि. एच्. परीक्षणार्थं सरलानि सुलभानि च मृत्तिका-परीक्षण-उपकरणानि उपलभ्यन्ते।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "अयं कार्न् स्मट् अस्ति। प्रायः पृष्ठभागस्य उद्यानेषु, लघुक्षेत्रेषु च दृश्यमानं कार्न्-स्मट् इतीदं उस्टिलागो-ज़ी इति छत्राकस्य कारणेन भवति, तथा च शाखासु, पत्रेषु, टासल् इत्येतेषु, कर्णेषु वा दृश्येत। यदा कर्णेषु मश्रूम्-सदृशाः अर्बुदाः वा गल्स् वा उत्पद्यन्ते तदा लक्षणानि प्रायः लक्षणीयाः भवन्ति। एते \"शोफः\" लघुभिः, श्वेत-धूसर-अनियमितैः आरभ्यन्ते, यानि बीजाणूनां पूरनेन विस्तृताः कृष्णवर्णाः च भवन्ति। इयर्-गाल्स् इत्येते 4-तः 5-इञ्च्-व्यासाः यावत् वर्धयितुं शक्नुवन्ति, तथा च यदा विच्छिन्नं भवति तदा सहस्रशः बीजाणवः निर्गन्तुं शक्नुवन्ति। एते फङ्गल्-बीजाणवः नूतन-सस्यानां सङ्क्रमणं कर्तुं वायुना बहुदूरं यावत् ऊदन्ते। पत्रेषु स्थिताः गोल्स् इत्येते लघवः एव तिष्ठन्ति, अन्ते च कठिनानि शुष्कानि च भवन्ति। \n \n उद्यानस्य भग्नावशेषेषु मृत्तिकायां च कार्न्-स्मट् अतिशीतलः भवति। एतत् वायुना, वृष्ट्या, सिञ्चनया च वहति, उष्ण-शुष्क-वायुगुणेषु च सर्वोत्तमं कार्यं करोति। बीजाणवः 5 तः 7 वर्षाणि यावत् व्यवहार्यानि भवितुम् अर्हन्ति। कृषेण, मृत्तिकाप्रवाहेन घर्षणेन च सह विविधक्षतैः व्रणैः, छत्राकस्य सस्यं प्रवेष्टुं बिन्दुः दीयते। \n \n उपचारः \n 1। यदा उपलभ्यन्ते तदा उत्तमप्रतिरोधकप्रकारान् चिनोतु, यथा सिल्वर्-किङ्ग्, फाण्टासिया, ब्रिलियंट्, सेनेका सेन्सेशन् च। पृष्ठभागस्य उद्यानेषु कृष्ण-फङ्गल्-बीजाणूनां निर्गमनात् पूर्वं गल्स् इत्येतान् सङ्गृह्य नाशयन्तु इति सूच्यते। एतेन उपलभ्यमानानां फङ्गल्-बीजाणूनां सङ्ख्या परिमिता भविष्यति तथा च रोगचक्रं विघटयितुं साहाय्यं भविष्यति। \n 3. कृषिकार्यकाले मूलानां, शाखानां, पत्राणां च क्षतिं परिहर्त्वा संक्रमणस्थानानि न्यूनीकुरुताम्। \n 4. मोण्टेरी-गार्डन्-इन्सेक्ट्-स्प्रे अथवा अन्येन जैविक-कीटनाशकेन सह कार्न्-बोरर्स् इत्यादीनां कीटाणां क्षतिं निवारयतु। \n 5। कवकनाशकाः प्रभावीनियन्त्रण-विकल्पाः न सन्ति यतः रोगः एतावान् व्यापकः अस्ति तथा च वर्षाणि यावत् मृत्तिकायां स्थातुं शक्नोति। \n 6। अधिक-नाइट्रोजन्-उर्वरकानि रोगस्य तीव्रतां वर्धयितुं शक्नुवन्ति-शाक-उद्याने सन्तुलित-जैविक-उर्वरकस्य उपयोगः करोतु। \n 7। सस्योत्पादनानन्तरं उद्यानस्य सर्वान् भग्नावशेषान् निष्कासयन्तु तथा च अग्रिमवर्षे सस्यपरिवर्तनस्य अभ्यासं कुर्वन्तु। \n 8। रोगग्रस्ताः पादपभागाः स्यूते वा दग्धानि वा-कम्पोस्ट् मा करोतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "अयं क्रौन् गाल् इति सामान्यः सस्यरोगः अस्ति, यः मृत्तिका-जनित-जीवाणू-एग्रोबैक्टीरियम्-टुमेफेसिन्स् इत्यनेन भवति। अयं सम्पूर्णे विश्वे दृश्यते, तथा च काष्ठवृक्षेषु, द्राक्षेषु, रास्पबेरी-वृक्षेषु, ब्ल्याक्बेरी-वृक्षेषु, गुलाबि-पुष्पेषु च दृश्यते। \n \n क्रौन्-पित्तस्य लक्षणेषु गोलः, व्रणः सदृशः वृद्धिः अन्तर्भवति-2 इञ्चः अथ वा अधिकः व्यासाः-ये मृत्तिका-रेखायाः उपरि वा केवलं उपरि वा दृश्यन्ते, अथवा अधस्तनशाखासु काण्डेषु वा दृश्यन्ते। अनेकगाल्-युक्ताः वनस्पतयः जलम् पोषकान् च काण्डस्य उपरि चालयितुं असमर्थाः भवेयुः अपि च दुर्बलाः, अविकृताः, अनुत्पादकः च भवेयुः। पित्तकोशस्य विकासेण युवकाः वनस्पतयः म्रियन्ते। \n \n क्रौन्-गाल् इत्यस्य कृते उत्तरदायीानि जीवाणवः बहुभ्यः वर्षेभ्यः मृत्तिकायां स्थातुं शक्नुवन्ति, यदा गाल्स् आर्द्रतया पूरिताः भवन्ति अथ वा पुरातन-गाल्स् इत्येतानि विघटितानि भवन्ति तदा निर्गन्तव्याः भवन्ति। संवेदनाशीलाः वनस्पतयः नूतन-व्रणैः वा घर्षणैः वा सङ्क्रमिताः भवन्ति, येषु बहवः प्रूनिङ्ग्, फ्रीज़्-क्षतिः, मृत्तिका-कीटाः, कृषिः इत्यादिभिः कारकाणां परिणामरूपेण भवन्ति, येन सस्यानां क्षतिः भवेत्। नर्सरी-स्टाक् प्रायः ग्राफ्टिङ्ग् तथा बडिंग्-स्कार्स् इत्येतैः सङ्क्रमितः भवति। \n \n उपचारः \n 1। यथासंभवं प्रतिरोधीकृषिवृक्षाणां चयनं कुर्वन्तु तथा च प्रतिष्ठिते नर्सरी इत्यतः सस्यानि क्रीणातु। \n 2. ये वृक्षाः शोथस्य वा लक्षणानि दर्शयन्ति तान् मा क्रीणातु। \n 3। अतिसंवेदनशीलानां सस्यानां परिचर्यायां, मृत्तिकायाः संस्पर्शे आगन्तुं शक्यं क्षतं वा छेदन-व्रणं वा परिहरतु। \n 4. स्ट्रिङ्ग्-ट्रिम्मर्-क्षतिात् रक्षणार्थं ट्री-रैप् इत्यस्य उपयोगं कुर्वन्तु तथा च भवतः उद्यानस्य उपकरणानि स्वच्छतया स्थापयतु। \n 5। प्राकृतिकेन बर्ल्याप् इत्यनेन सह शीतकालस्य संरक्षणं प्रददातु येन छालः न पतति। \n 6। अनेकेषु सन्दर्भेषु विद्यमानानि गल्स् इत्येतानि तीक्ष्ण-प्रूनिङ्ग्-छुरिकाभिः निष्कासयितुं शक्यन्ते। सङ्क्रमितं पादप-ऊतकं नाशयन्तु, क्षरण-मुद्रकेन व्रणस्य चिकित्सां कुर्वन्तु। यदि सस्यं पुनः न प्राप्यते तर्हि तं निष्कासयित्वा नाशयतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "अयं ग्रे-मोल्ड् (बोट्रैटिस् सिनेरिया) अस्ति। सस्यानां विस्तृतश्रेण्यां दृश्यते (उल्लेखनीयं बहु), ग्रे-मोल्ड् इति एकः कवक-रोगः अस्ति यः उद्यानेषु, विशेषतः आर्द्रतायां, शीतलतः मृदु-वायुगुणपर्यन्तं शीघ्रं गच्छति। रोगस्य लक्षणानि पत्रेषु, शाखासु, पुष्पेषु, उत्पादेषु च धूसरवर्णस्य मृदुः मृदुः च धब्बाः इव दृश्यन्ते। विशेषतः यदि आर्द्रता अधिकं भवति तर्हि स्थानानि ग्रे-फ़ङ्गस्-बीजाणूनां प्रलेपेण आच्छाद्यन्ते। फलानि वा वनस्पतयः कुञ्चितानि कुञ्चितानि च भवन्ति तथा च प्रायः कुपितभागेषु कृष्णवर्णः, शिलासारः स्क्लेरोटिया-कठोर-फङ्गल्-फिलामन्ट्स्-इत्यस्य सङ्कीर्ण-द्रव्यराशिः भवति। \n \n ग्रे-मोल्ड् प्रायः मृत्तिकायाः पृष्ठभागस्य समीपे वा पादपस्य छत्रस्य सघनतमेषु क्षेत्रेषु वा दृश्यते। प्रथमं शुष्कपुष्पेषु अस्य विकासः भवति, ततः सस्यस्य अन्येषु भागेषु शीघ्रं प्रसृतः भवति। भण्डारणक्षेत्रेषु अपि अयं रोगः भवितुम् अर्हति, येन आहत्य आहत्य फलानि शाकानि च क्षयन्ते। \n \n बोट्रैटिस्-रोगः सस्येषु, मृत्तिकायां वा, स्क्लेरोटिया-रूपेण च अतिशीतलः भवति। यदा परिस्थितिः अनुकूलः भवति तदा बीजाणवः विकसन्ति, तथा वायुना वा पुष्पेषु अथवा युवापत्रेषु जलस्पृष्ट्या वा प्रेरिताः भवन्ति, यत्र ते अङ्कुरिताः सस्यं प्रविशन्ति। बीजाणूनां अङ्कुरणार्थं शीतलतापमानं (45-60 F.), उच्च-आर्द्रता (93 प्रतिशतं तथा तदधिकम्) च आवश्यकं भवति। अङ्कुरितानि बीजाणवः विरलतया हरित-स्वस्थ-ऊतकं प्रत्यक्षतया प्रविशन्ति, परन्तु वर्धमान-सस्येषु व्रणैः प्रवेष्टुं शक्नुवन्ति। कटाः विशेषतया सङ्क्रमणे प्रवणाः भवन्ति। \n \n उपचारः \n 1। पादपानां मध्ये वायुप्रवाहं वर्धयितुं पादपानां प्रून् अथवा स्टेक् इति करोतु। प्रत्येकं कटनात् परं स्वस्य प्रूनिङ्ग्-उपकरणं (एकं भागं ब्लीच्, 4 भागं जलं च) निर्जंतुं निश्चिनोतु। \n 2 यदि अन्तः वर्धते तर्हि वायुप्रवाहं वर्धयितुं लघु-क्लिप्-आन्-फ्यान् इत्यस्य उपयोगः करोतु। \n 3 पादपानाम् अधः मृत्तिकां स्वच्छं स्थापयन्तु तथा च पतिताः भग्नावशेषाः स्थापयन्तु। \n 4. सस्यानाम् अधः पर्याप्तमात्रायां जैविक-कम्पोस्ट् अथवा मल्च् इत्येतं योजयतु। मल्चस् इत्येतैः फङ्गल्-बीजाणवः पुष्पेषु पत्रेषु च पुनः प्रसरितुं न शक्नुवन्ति। \n 5। प्रातःकाले जलं ददातु, अथवा सोकेर्-होस् इत्यस्य उपयोगं करोतु, येन दिने सस्यानां शुष्कतायाः समयः दीयते। \n 6। संक्रामिताः सस्यपत्राणि वा काण्डानि वा कम्पोस्ट् मा करोतु, अपि च शिशिरर्तौ उद्यानक्षेत्राणि पूर्णतया स्वच्छं करोतु येन फङ्गल्-बीजाणूनां शीतकालस्थानि स्थानानि न्यूनीकर्तुं शक्यते। \n 7. ताम्र-सोप्-कवकनाशकाः रोग-बीजकणात् सस्यान् रक्षयितुं साहाय्यं करिष्यन्ति। पुष्पस्य आरम्भे प्रयुज्य, प्रति 7-10 दिनेषु सस्योत्पादनपर्यन्तं अनुवर्तयतु। यदा वायुगुणस्य पूर्वानुमानं दीर्घाः शीतल-आर्द्र-वायुगुणस्य पूर्वानुमानं करोति तदा फङ्गिसैडल्-स्प्रे विशेषतया आवश्यकं भवति। \n 8 बोट्रैटिस्-ब्लैट् इत्यादीनां अधिकांशानां फङ्गल्-रोगाणां सुरक्षित-चिकित्सां सेरेनेड्-गार्डन् इत्यनेन कुर्वन्तु। अयं विशाल-वर्णपट-जैविक-कवकनाशकः जैविक-उपयोगाय पञ्जीकृतस्य बेसिलस्-सब्टिलिस् इत्यस्य पेटेण्ट्ड्-स्ट्रैन् इत्यस्य उपयोगः करोति। सर्वोत्तमरूपेण, सेरेनेड् इति मधु-मधूमृगानां, लाभप्रद-कीटाणां च कृते सर्वथा विषरहितम् अस्ति। \n 9। जैविक-उपयोगाय अनुमोदितं जैविक-कवकनाशकं मैकोस्टाप् इत्यनेन रोगस्य दमनं दर्शितम् अस्ति। अतिसंवेदनशीलेषु पत्रेषु, पुष्पेषु, फलेषु च साक्षात् स्प्रे (5 ग्राम्/50 लीटर् जलं) कुर्वन्तु। प्रति 2 तः 3 सप्ताहेषु, अथवा रोगस्य भारस्य आधारेण आवश्यकतानुगुणं प्रयुज्यताम्। \n 10 ग्रीन्-क्यूर्-फङ्गिसैड् इत्यस्मिन् पोटेसियम्-बैकार्बोनेट् इत्यस्य पेटेण्ट्ड्-सूत्रं भवति-यत् सामान्यतः खाद्य-उत्पादेषु उपयुज्यते-यत् सम्पर्करूपेण अनेकान् पादप-रोगान् म्रियते, 2 सप्ताहपर्यन्तं अवशिष्टसंरक्षणं च प्रददाति। रोगस्य प्रथमलक्षणे, 1-2 टी. बी. एस्. पी./गैलनं जलं मिश्र्य सस्यस्य सर्वेषु अनावृतपृष्ठेषु प्रयुज्यताम्। उत्तमसंरक्षणार्थं, 1-2 सप्ताहान्तेषु पुनरावर्तयतु यावत् रोगस्य विकासाय परिस्थितयः अनुकूलानि न भवन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "अयं रोगः कः (लघु-परिचयः दीयन्तु), तस्य उपचारः कथं करणीयः?",
+        "answer": "एषः प्रारम्भिकः रोगः अस्ति। आल्टर्नेरिया सोलानी इति छत्राकस्य कारणेन, सामान्यः रोगः टमेटो-आलु-वृक्षेषु भवति, यः सम्पूर्णे संयुक्तराज्यामेरिका-देशे भवति। लक्षणानि प्रथमवारं अधस्तनेषु, पुरातनेषु पत्रेषु, \"बुल्स्-ऐ\"-विन्यासं निर्मातुं केन्द्रीकृत-वलययुक्तेषु लघुषु गोधूमवर्ण-स्थलेषु दृश्यन्ते। यदा एषः रोगः परिपक्वः भवति तदा पत्रपृष्ठे बहिः प्रसृतः भवति येन सः पीतवर्णः भवति, शुष्कः भवति, म्रियते च। अन्ते सस्यस्य काण्डः, फलं, उपरिभागः च सङ्क्रमिताः भविष्यन्ति। सस्यानां महती क्षतिः भवेत्। \n \n प्रारम्भिक-रोगस्य प्रकोपः रोगग्रस्ताः पादप-ऊतकेषु अधिकं भवति, वृष्ट्या, सिञ्चनया, कीटैः, उद्यानस्य उपकरणैः च प्रसरति। अयं रोगः तमालपत्रस्य बीजयोः, आलुक-कन्दयोः अपि भवति। यद्यपि तस्य नाम अस्ति तथापि, प्रारम्भिक-रोगः सम्पूर्णे वर्धमान-ऋतौ कस्मिंश्चित् अपि भवितुम् अर्हति। उच्चतापमानं (80-85 °F.) आर्द्र-आर्द्र-अवस्थासु अस्य द्रुतप्रसारः भवति। बहुषु सन्दर्भेषु अल्पपोषितानि अथवा भारयुक्तानि सस्यानि आक्रम्यन्ते। \n \n उपचारः \n वायुप्रवाहं वर्धयितुं तथा फङ्गल्-समस्याः न्यूनीकर्तुं प्रून् अथवा स्टेक् इति सस्यानि स्थापयतु। \n प्रत्येकस्य कटनात् परं स्वस्य प्रूनिङ्ग्-कर्षणं (एकं भागं ब्लीच् कृत्वा 4 भागं जलं) निर्जंतुं सुनिश्चितं करोतु। \n पादपानाम् अधः मृत्तिकां स्वच्छं, उद्यानस्य भग्नावशेषात् मुक्तं च स्थापयतु। जैविक-खादस्य एकं स्तरं योजयतु येन बीजाणवः पुनः वनस्पतिषु प्रसरितुं न शक्नुवन्ति। \n ड्रिप्-इरिगेशन् अपि च सोकर्-होस् इत्येतयोः उपयोगेन पत्राणि शुष्कानि स्थापयितुं शक्यते। \n उत्तमनियन्त्रणार्थं, ताम्र-आधारितानि कवकनाशकानि पूर्वमेव प्रयुज्यताम्, सामान्यतया रोगस्य प्रकाशात् सप्ताहद्वयं पूर्वम् अथवा यदा वायुगुणस्य पूर्वानुमानं दीर्घकालं यावत् आर्द्र-वायुगुणस्य पूर्वानुमानं करोति। वैकल्पिकरूपेण, यदा रोगः प्रथमवारं दृश्यते तदा चिकित्साम् आरभताम्, तथा आवश्यकतानुगुणं प्रति 7-10 दिनेषु पुनरावृतं करोतु। \n ताम्रयुक्ता, पायरेथ्रिन् युक्ता, बोनिड् ® उद्यान-धूलिः अनेकानां कीटानां आक्रमणानां, कवकानां समस्यानां च कृते सुरक्षितं, एक-चरण-नियन्त्रणम् अस्ति। उत्तमफलानां कृते पत्राणां उपरिभागः अधस्तनभागः च लघुवृत्तेण वा धूलेन वा आच्छाद्यताम्। पर्णसमूहस्य सान्द्रतायाः आधारेण 10 औन्स्-मितं 625 वर्गफीट्-परिमितम् आच्छादयिष्यति। आवश्यकतानुगुणं प्रति 7-10 दिनेषु उपयोजनानि पुनरावर्तयतु। \n सेरेनेड्-उद्यानम् एकः विशालः वर्णपटः, निवारक-जैव-कवकनाशकः अस्ति यः अनेकेषां महत्त्वपूर्णानां पादपानां रोगाणां नियन्त्रणार्थं वा दमनार्थं वा अनुशंसितः अस्ति। उत्तमफलानां कृते, पत्ररोगस्य विकासात् पूर्वं अथवा सङ्क्रमणस्य प्रथमलक्षणेन चिकित्सां करोतु। 7-दिनेषु अन्तराले वा आवश्यकतानुगुणं वा पुनरावृतं करोतु। \n सस्योत्पादनानन्तरं उद्यानस्य सर्वान् भग्नावशेषान् निष्कासयन्तु तथा च अग्रिमवर्षे सस्यपरिवर्तनस्य अभ्यासं कुर्वन्तु। \n संक्रमितानां पादपानां भागानां दहनं वा स्यूतं वा करोतु। कम्पोस्ट् मा करोतु।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "सर् ऐसाक् न्यूटन् एफ्. आर्. एस्. (25 डिसेम्बर् 1642-20 मार्च्) एकः आङ्ग्ल-गणितशास्त्रज्ञः, भौतशास्त्रज्ञः, खगोलशास्त्रज्ञः, रसज्ञः, धर्मशास्त्रज्ञः, लेखकः च आसीत् यः स्वकाले प्राकृतिक-दार्शनिकः इति वर्णितः आसीत्। सः वैज्ञानिकक्रान्तेः तथा अनुवर्तमाने ज्ञानोदयस्य च प्रमुखः व्यक्तिः आसीत्। 1687 तमे वर्षे प्रथमवारं प्रकाशितं तस्य प्रवर्तकपुस्तकं फिलोसोफी न्याचुरलिस् प्रिन्सिपिया म्याथमेटिका (म्याथमेटिकल् प्रिन्सिपल्स् आफ् न्याचुरल् फिलासफी), पूर्वतनानि अनेकानि परिणामानि एकीकृतं कृत्वा शास्त्रीय-यान्त्रिकीम् अस्थापयत्। न्यूटन्-वर्यः प्रकाशशास्त्रे अपि महत्त्वपूर्णं योगदानं दत्तवान्, तथा च जर्मन्-गणितशास्त्रज्ञेन गाट्फ्रीड् विल्हेल्म् लेब्निज् इत्यनेन सह अनन्त-कलनशास्त्रस्य विकासस्य श्रेयः वहति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "कन्फ्यूशियस् (कन्फ्यूशियस्) (चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; चीनीः कन्फ्यूशियस्; कन्फ्यूशियस् इत्यस्य शिक्षाः दर्शनः च पूर्व-एशियायाः संस्कृतिं समाजं च आधारयन्ति, अद्यावधि सम्पूर्णे चीना-देशे, पूर्व-एशियादेशे च प्रभावशालिनः सन्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "कै लुन् (चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः चीनीयः च। सः परम्परागतरूपेण कागदस्य आविष्कर्तुः आधुनिकपत्रनिर्माणप्रक्रियायाः च आविष्कर्तुः इति मन्यते। यद्यपि कागदेन प्रारम्भिकरूपाणि सा. श. पू. तृतीयशताब्देः आरभ्य विद्यमानानि आसन्, तथापि सः कागदेन इतिहासे महत्त्वपूर्णं स्थानं वहति, यतः तस्य वृक्षस्य छालस्य, हेम्प्-प्रान्तस्य च माध्यमेन पल्प् इत्यस्य संयोजनम् अभवत्, यस्य परिणामेन बृहदाकारस्य उत्पादनं, विश्वव्यापीरूपेण कागदेन प्रसारः च अभवत्।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "क्रिस्टोफर् कोलम्बस् (25 अगस्ट्-तः 31 अक्टोबर् 1451-20 मे 1506 पर्यन्तं) जीनोवा-गणराज्यस्य इटालियन्-अन्वेषकः नाविकः च आसीत्, यः क्याथलिक्-मोनार्क्स् इत्यनेन प्रायोजिते अट्लाण्टिक्-महासागरस्य पारं स्पेन्-देशस्य चत्वारः यात्रां समापितवान्, येन अमेरिका-देशस्य व्यापक-यूरोपीय-अन्वेषणस्य, यूरोपीय-उपनिवेशकालस्य च मार्गः उद्घाटितः। तस्य अभियानानि कैरिबियन्-देशेन, मध्य-दक्षिण-अमेरिकादेशेन च सह प्रथमः ज्ञातः ऐरोप्य-सम्पर्कः आसीत्।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "अल्बर्ट् ऐन्स्टीन् (14 मार्च् 1879-18 एप्रिल् 1955) जर्मनीदेशे जन्मितः सैद्धान्तिकः भौतशास्त्रज्ञः आसीत्। सापेक्षता-सिद्धान्तस्य विकासाय प्रसिद्धः सः क्वाण्टम्-मेकानिक्स्-सिद्धान्तस्य विकासे अपि महत्त्वपूर्णं योगदानं दत्तवान्, एवं आधुनिक-भौतिकशास्त्रे च। तस्य द्रव्यमान-ऊर्जा-तुल्यता-सूत्रं E = mc2, यत् सापेक्षता-सिद्धान्तात् उद्भूतम् अस्ति, तत् \"विश्वस्य सर्वाधिकं प्रसिद्धं समीकरणम्\" इति उच्यते। विज्ञानदर्शनस्य उपरि तस्य कार्यस्य प्रभावः अपि प्रसिद्धः अस्ति। सः 1921 तमे वर्षे भौतिकशास्त्रस्य नोबेल्-पुरस्कारं प्राप्तवान् \"सैद्धान्तिक-भौतिकशास्त्रस्य कृते तस्य सेवायाः कृते, विशेषतः फोटो-एलेक्ट्रिक्-प्रभावस्य नियमस्य आविष्कारस्य कृते\", यत् क्वाण्टम्-सिद्धान्तस्य विकासस्य महत्त्वपूर्णं सोपानम् आसीत्। आवर्ततालिकायाः संश्लेषिततत्त्वेषु अन्यतमस्य ऐन्स्टीनियम् इत्यस्य नाम तस्य सम्मानार्थं दत्तम्।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "लूयिस् पाश्चर् फ़ोर्मेमर्स् (27 डिसेम्बर् 1822-28 सेप्टेम्बर् 1895) कश्चन फ़्रेञ्च्-रसायनशास्त्रज्ञः सूक्ष्मजीवविज्ञानी च आसीत् यः टीकाकरणस्य, सूक्ष्मजीवाणु-किण्वनस्य, पाश्चरीकरणस्य च सिद्धान्तानां आविष्कारानां कृते प्रसिद्धः आसीत्, यस्मिन् अन्तिमस्य तस्य नामकरणं कृतम्। तस्य रसायनशास्त्रे संशोधनेन रोगानां कारणानां निवारणानां च बोधने उल्लेखनीयाः प्रगतिः प्राप्ताः, यैः स्वच्छतायाः, सार्वजनिकस्वास्थ्यस्य, आधुनिकवैद्यशास्त्रस्य च आधारः स्थापितः। रेबीस् तथा एन्थ्राक्स् इत्येतयोः रोगाणुनाशकानां विकासस्य माध्यमेन लक्षोपलक्षान् जीवान् रक्षयितुं पाश्चर् इत्यस्य कार्याणां श्रेयः दीयते। सः आधुनिक-जीवाणुविज्ञानस्य संस्थापकेषु अन्यतमः इति गण्यते, तथा च \"जीवाणुविज्ञानस्य जनकः\" तथा \"सूक्ष्मजीवविज्ञानस्य जनकः\" इति च सम्मानितः अस्ति (राबर्ट् कोच् इत्यनेन सह; उत्तरवर्ती उपाधिः एन्टोनी वान् लीयूवेन्होक् इत्यस्मै अपि प्रदत्तः)।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "गैलीलियो डी विन्सेन्ज़ो बोनायुटी डी 'गैलीली (15 फेब्रवरी 1564-8 जनवरी 1642) एकः इटालियन् खगोलशास्त्रज्ञः, भौतशास्त्रज्ञः, अभियन्त्रकः च आसीत्, यः कदाचित् बहुविद् इति वर्णितः आसीत्। सामान्यतः गैलीलियो इति निर्दिश्यमाणस्य तस्य नाम उच्चारितम् अस्ति/त्तन्नॆल्-लेय्-ओह-लेय्-लेय्-ई, इटालियन्-भाषायाम्-[गालील्-लेय्-लेय्-लेय्-लेय्-लेय्-लेय्])। तस्य जन्म पिसा-नगरे अभवत्, यत् तदा फ्लोरेन्स्-नगरस्य डची इत्यस्य भागः आसीत्। गैलीलियो-वर्यः अवलोकनात्मक-खगोलशास्त्रस्य, आधुनिक-युगस्य शास्त्रीय-भौतिकशास्त्रस्य, वैज्ञानिक-पद्धत्याः, आधुनिक-विज्ञानस्य च जनकः इति उच्यते।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "जोशुवा अब्राहम् नार्टन् (फेब्रवरी 4,1818-जनवरी 8,1880), सम्राज्ञः नार्टन् इति नाम्ना प्रसिद्धः, क्यालिफोर्नियादेशस्य सानफ्रान्सिस्को-नगरस्य निवासी आसीत्, यः 1859 तमे वर्षे स्वयमेव \"संयुक्तराज्यस्य सम्राज्ञः नार्टन् प्रथमः\" इति उद्घोषितवान्। 1863 तमे वर्षे, नेपोलियन् तृतीयेन मेक्सिको-देशम् आक्रम्य, सः \"मेक्सिको-देशस्य रक्षकः\" इति द्वितीयकपदवीं स्वीकृतवान्।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "लियोनेल् आन्ड्रेस् मेस्सी (स्पेनिश् उच्चारणम्-[ljo ˈnel an ˈdɾes ˈmesi] (श्रव्यः); जन्म 24 जून् 1987), लियो मेस्सी इति नाम्ना अपि प्रसिद्धः, एकः आर्जेंटिना-देशस्य व्यावसायिकः फुट्बाल्-क्रीडालुः अस्ति यः लिग्-1 क्लब् प्यारिस् सेण्ट्-जर्मैन् कृते अग्रेसरूपेण क्रीडति, तथा च आर्जेंटिना-देशस्य राष्ट्रियदलस्य नायकः च भवति। सर्वकालस्य महान् क्रीडालुषु अन्यतमः इति गण्यते, मेस्सी इत्ययं सप्त बालन्-डि-ओर् पुरस्कारान्, षट् यूरोपीय-गोल्डन्-शूस् इति अभिलेखान् च प्राप्नोत्, तथा च 2020 तमे वर्षे सः बालन्-डि-ओर्-ड्रीम्-टीम् इत्यस्मिन् नामाङ्कितः अभवत्। 2021 तमे वर्षे क्लब्-तः निष्कासनात् पूर्वं, सः स्वस्य सम्पूर्णं व्यावसायिकजीवनं बार्सिलोना-नगरे व्यतितवान्, यत्र सः क्लब्-अभिलेखेन 34 पारितोषिकानि जितवान्, येषु दश ला-लिगा-उपाधयः, सप्त कोपा-देल्-रे-उपाधयः, चतुर्वारं यू. ई. एफ्. ए. च्याम्पियन्स्-लीग् च आसन्। स्वदेशेन सह सः 2021 कोपा अमेरिका, 2022 फ़ीफ़ा विश्वकप् च जितवान्। ला-लीगा-क्रीडायां सर्वाधिक-गोलानां (474), ला-लीगा-क्रीडायां सर्वाधिक-ह्याट्रिक्-गोलानां (36), यू. ई. एफ्. ए. च्याम्पियन्स्-लीग्-क्रीडायां (अष्ट), ला-लीगा-क्रीडायां सर्वाधिक-सहायक-गोलानां (192), कोपा-अमेरिका-क्रीडायां (17) च अभिलेखान् मेस्सी-वर्यः धारयति। तस्य दक्षिण-अमेरिकीय-पुरुषेन (102) सर्वाधिक-अन्ताराष्ट्रिय-गोल्स् अपि सन्ति। मेस्सी इत्ययं क्लब्-देशस्य च कृते 800 तः अधिकाः वरिष्ठ-वृत्तिजीवन-गोल्स् प्राप्तवान् अस्ति, तथा च एकस्मिन् क्लब्-कृते क्रीडकस्य सर्वाधिक-गोल्स् (672) अस्ति।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "अस्य व्यक्तेः संक्षिप्तं परिचयं दातुं शक्यसे वा?",
+        "answer": "अलन् मैथिसन् ट्यूरिङ्ग् ओ. बी. ई. एफ्. आर्. एस्. (OBE FRS) (23 जून् 1912-7 जून् 1954) कश्चन आङ्ग्ल-गणितशास्त्रज्ञः, गणकयन्त्र-वैज्ञानिकः, तर्कशास्त्रज्ञः, गुप्तविश्लेषकः, दार्शनिकः, सैद्धान्तिकजीवविज्ञानी च आसीत्। ट्युरिङ्ग्-वर्यः सैद्धान्तिक-सङ्गणक-विज्ञानस्य विकासे अत्यन्तं प्रभावशालि आसीत्, येन ट्युरिङ्ग्-यन्त्रेण एल्गोरिथम्-गणनां च परिकल्पनानां औपचारिकतां प्रददाति, यत् सामान्य-प्रयोजन-सङ्गणकस्य प्रतिरूपम् इति मन्यते। सः सैद्धान्तिक-सङ्गणक-विज्ञानस्य, कृत्रिम-बुद्धेः च जनकः इति बहुधा मन्यते।",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "अधः दत्तः आलेखः दीर्घकालीनं अन्ताराष्ट्रिय-प्रवासं दर्शयति, यू. के., 1999-2008। \n \n मुख्यविशेषाणां चयनं प्रतिवेदनं च कृत्वा सूचनानां सारांशं करोतु, यत्र प्रासङ्गिकं भवति तत्र तुलनां करोतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "चार्ट्-मध्ये 1999 तः 2008 पर्यन्तं यू. के.-देशान्तरगमनस्य, देशान्तरगमनस्य, निवल-देशान्तरगमनस्य च सूचनाः दीयन्ते। \n \n दर्शिते काले प्रवासस्य, देशान्तरगमनस्य च मानं उभयोः वृद्धिः अभवत्, परन्तु देशान्तरगमनस्य संख्या लक्षणीयरूपेण अधिका आसीत्। 2004 तमे वर्षे 2007 तमे वर्षे च निवलप्रवासः अत्युच्चस्तरे आसीत्। \n \n 1999 तमे वर्षे, 450,000 तः अधिकाः जनाः यू. के.-देशे निवसितुं आगताः, परन्तु प्रवासिनः जनानां सङ्ख्या केवलं 300,000 तः न्यूना आसीत्। निवल-प्रवासस्य सङ्ख्या प्रायः 160,000 आसीत्, तथा च 2003 पर्यन्तं समानस्तरे एव आसीत्। 1999 तमात् वर्षात् 2004 तमं वर्षं यावत् देशान्तरगमनस्य मानं प्रायः 150,000 जनाः अवर्धत, परन्तु देशान्तरगमनस्य वृद्धिः अत्यल्पः आसीत्। 2004 तमे वर्षे निवलप्रवासः प्रायः 250,000 जनानां औन्नत्यम् अवाप्नोत्। \n \n 2004 तमात् वर्षात् परं, देशान्तरगमनस्य दरः उच्चः एव आसीत्, परन्तु देशान्तरगमनस्य जनानां सङ्ख्यायां परिवर्तनं जातम्। 2007 तमे वर्षे देशान्तरगमनं अकस्मात् न्यूनीभूत्, 2008 तमे वर्षे प्रायः 420,000 जनानां शिखरात् पूर्वं। परिणामतः 2007 तमे वर्षे निवल-प्रवासस्य सङ्ख्या प्रायः 240,000 यावत् वर्धिता, परन्तु 2008 तमे वर्षे पुनः प्रायः 160,000 यावत् पतिता।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "अधः दत्तः आलेखः सारणी च विश्वव्यापिनं जलस्य उपयोगस्य, भिन्नदेशयोः जलस्य उपभोगस्य च विषये सूचनां ददति। \n \n मुख्यविशेषाणां चयनं प्रतिवेदनं च कृत्वा सूचनानां सारांशं करोतु, यत्र प्रासङ्गिकं भवति तत्र तुलनां करोतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "कृषिक्षेत्रे, उद्यमेषु, गृहेषु च प्रयुक्तस्य जलस्य परिमाणस्य, ब्रज़िल्-देशस्य, कांगो-लोकतान्त्रिक-गणराज्यस्य च जलस्य उपयोगस्य च तुलनां चार्ट्-द्वारा क्रियते। \n \n एतत् स्पष्टम् अस्ति यत् 1900 तः 2000 पर्यन्तं वैश्विकजलस्य आवश्यकतासु महती वृद्धिः अभवत्, तथा च प्रयुक्तजलस्य सर्वाधिकं अनुपातं कृषिकार्ये आसीत् इति। कांगो-देशस्य अपेक्षया ब्रज़िल्-देशे जलस्य उपभोगः बहु अधिका आसीत् इति अपि वयं द्रष्टुं शक्नुमः। \n \n 1900 तमे वर्षे, सम्पूर्णे विश्वे कृषिक्षेत्रे प्रायः 500 कि. मी. 3 यावत् जलं उपयुज्यते स्म। औद्योगिकस्य गृहस्य च जलस्य उपभोगस्य अङ्कः तस्य परिमाणस्य पञ्चमांशे आसीत्। 2000 तमे वर्षे कृषिकार्यार्थं वैश्विकजलस्य उपयोगः प्रायः 3000 कि. मी. 3 यावत् वर्धितः, औद्योगिकजलस्य उपयोगः तस्य अर्धात् न्यूना एव वर्धितः, गृहस्य उपभोगः च प्रायः 500 कि. मी. 3 यावत् अभवत्। \n \n 2000 तमे वर्षे ब्रज़िल्-देशस्य, कांगो-देशस्य च जनसङ्ख्या क्रमशः 176 दशलक्षं, 5.2 दशलक्षं च आसीत्। ब्रज़िल्-देशे प्रतिव्यक्तिः जलस्य उपभोगः, 359 मी. 3 यावत्, कांगो-देशस्य अपेक्षया बहु अधिका आसीत्, केवलं 8 मी. 3 यावत् आसीत्, तथा च ब्रज़िल्-देशे 265 गुणा अधिकं सिञ्चिता भूमिः आसीत् इति तथ्यात् एतत् व्याख्यातुं शक्यते।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "अधः दत्तानि पट्टिकानि 1970 तः 2000 पर्यन्तं यु. एस्. ए.-देशस्य विवाहस्य विवाहविच्छेदस्य च प्रमाणस्य विषये, वर्षद्वये वयस्क-अमेरिकीयानां वैवाहिक-स्थित्याः विषये च सूचनां ददति। \n \n मुख्यविशेषाणां चयनं प्रतिवेदनं च कृत्वा सूचनानां सारांशं करोतु, यत्र प्रासङ्गिकं भवति तत्र तुलनां करोतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "प्रथमः बार्-चार्ट् अमेरिका-देशे विवाह-विवाहविच्छेदानां सङ्ख्यासु परिवर्तनं दर्शयति, द्वितीयः चार्ट् 1970 तथा 2000 वर्षेषु अमेरिकीय-वयस्कानां वैवाहिक-स्थित्याः अङ्कान् दर्शयति। \n \n अमेरिका-देशे 1970 तः 2000 पर्यन्तं विवाहसङ्ख्या न्यूना आसीत् इति स्पष्टम्। बहुसङ्ख्यकाः वयस्काः अमेरिकीयजनाः उभयोः वर्षेषु विवाहिताः आसन्, परन्तु 2000 तमे वर्षे एकल-वयस्कानां अनुपातः अधिकः आसीत्। \n \n 1970 तमे वर्षे अमेरिका-देशे 25 लक्षं विवाहाः, 10 लक्षं विवाहविच्छेदः च अभवन्। 1980 तमे वर्षे विवाहदरः स्थिरः एव आसीत्, परन्तु 2000 तमे वर्षे 20 लक्षं यावत् पतितः। तद्विपरीतम्, 1980 तमे वर्षे विवाह-विच्छेदस्य मानं उच्चम् आसीत्, प्रायः 15 लक्षं विवाह-विच्छेदः अभवत्, ततः पूर्वं कालस्य अन्ते \n पुनः 10 लक्षं यावत् पतति स्म। \n \n अमेरिकादेशस्य प्रायः 70 प्रतिशतं वयस्काः 1970 तमे वर्षे विवाहिताः आसन्, परन्तु 2000 तमे वर्षे एतत् सङ्ख्या 60 प्रतिशतात् न्यूना एव अभवत्। तस्मिन् एव काले, अविवाहितानां विवाहविच्छेदितानां च अनुपातः आहत्य प्रायः 10 प्रतिशतं वर्धितः। 2000 तमे वर्षे विधवानां अमेरिकीयानां अनुपातः अल्पः न्यूनः आसीत्।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "अधः दत्तं चार्ट्, चतुर्णां यूरोप्-देशेषु षट् उपभोक्तृ-वस्तूनां कृते व्ययितां राशिं दर्शयति। \n \n अधः दर्शितानां सूचनानां वर्णनं कुर्वन् विश्वविद्यालयस्य प्राध्यापकाय प्रतिवेदनं लिखतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "बार्-चार्ट्, जर्मनी, इटली, फ़्रान्स्, ब्रिटन् इत्येतेषु देशेषु षट् भिन्नवस्तुषु उपभोक्तृव्ययस्य तुलनां करोति। \n \n एतत् स्पष्टम् अस्ति यत् ब्रिटिश्-जनाः षट्षु वस्तूनां कृते अन्येषु त्रिषु देशेषु जनानां अपेक्षया बहु अधिकं धनं व्ययन्ति स्म इति। षट्षु वस्तुषु उपभोक्तारः छायाचित्र-चलच्चित्रस्य कृते सर्वाधिकं धनं व्ययताम्। \n \n ब्रिटन्-देशस्य जनाः फ़ोटोग्राफिक्-चलच्चित्रस्य कृते केवलं 170,000 पौण्ड्-तः अपि अधिकं व्ययम् अकुर्वन्, यत् चार्ट्-मध्ये दर्शितं सर्वोच्चं अङ्कम् अस्ति। तद्विपरीततया, जर्मन्-जनाः समग्रतया न्यूनतमाः व्ययाः कुर्वन्तः आसन्, षट्षु उत्पादेषु प्रत्येकस्य कृते प्रायः समानसङ्ख्याः (केवलं 150,000 पौण्ड्-तः न्यूनाः) आसन्। \n \n फ्रान्स्-इटली-देशयोः क्रीडनकानां व्ययस्य अङ्कः समानः आसीत्, प्रायः £160,000 आसीत्। परन्तु, फ़्रेञ्च्-जनाः इटालियन्-जनानां अपेक्षया छायाचित्र-चलच्चित्रस्य तथा सि. डि. इत्येतेषां कृते अधिकं व्ययम् अकुर्वन्, इटालियन्-जनाः व्यक्तिगत-स्टीरियो-चित्राणां, टेनिस्-राकेट्-चित्राणां, इत्रानां च कृते अधिकं व्ययम् अकुर्वन्। फ़्रेञ्च्-जनैः टेनिस्-र्याकेट्स् कृते व्ययितराशिः, प्रायः £145,000 इति, चार्ट्-मध्ये दर्शितं न्यूनतमं अङ्कम् अस्ति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "अधः दत्तं सारणी षट्-नगरेषु भूगर्भ-रेल्-व्यवस्थायाः विषये सूचनां ददति। \n \n मुख्यविशेषाणां चयनं प्रतिवेदनं च कृत्वा सूचनानां सारांशं करोतु, यत्र प्रासङ्गिकं भवति तत्र तुलनां करोतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "सारणी षट् प्रमुखनगरेषु भूगर्भीय-रेलजालस्य विषये दत्तांशं दर्शयति। \n \n सारणी षट्-जालपुटान् तेषां आयुः, आकारः, प्रतिवर्षं तेषाम् उपयोक्तृणां सङ्ख्यायाः च दृष्ट्या तुलनां करोति। एतत् स्पष्टम् अस्ति यत् त्रयः प्राचीनाः भूगर्भीय-व्यवस्थाः बृहत्तराः सन्ति, नूतन-व्यवस्थायाः अपेक्षया अधिकान् यात्रिकान् सेवन्ते च इति। \n \n लण्डन्-भूगर्भः प्राचीनतमः तन्त्रः अस्ति, यस्य उद्घाटनम् 1863 तमे वर्षे अभवत्। एषा बृहत्तमा व्यवस्था अपि अस्ति, यस्य मार्गः 394 किलोमीटर् अस्ति। द्वितीयं बृहत्तमं तन्त्रं, प्यारिस्-नगरे, लण्डन्-नगरस्य भूतलस्य आकारस्य अर्धांशः एव अस्ति, यस्य मार्गः 199 किलोमीटर् यावत् अस्ति। परन्तु प्रतिवर्षं अधिकजनानां सेवां करोति। यद्यपि आकारस्य दृष्ट्या केवलं तृतीयः अस्ति, तथापि टोक्यो-व्यवस्था सरलतया सर्वाधिकं प्रयुक्ता अस्ति, यत्र प्रतिवर्षं 1927 दशलक्षं यात्रिकाः सन्ति। \n \n त्रिषु नूतनेषु जालपुटेषु, वाशिङ्ग्टन्-डी. सी. भूगर्भस्थः सर्वाधिकः विस्तृतः अस्ति, यस्य मार्गः 126 किलोमीटर् अस्ति, परन्तु क्योटो-लास्-एन्जल्स्-प्रणाल्याः कृते केवलं 11 किलोमीटर्, 28 किलोमीटर् च अस्ति। 2001 तमे वर्षे उद्घाटितं लास्-एञ्जलीस्-जालं नवीनतमम् अस्ति, परन्तु क्योटो-जालं लघुतमं वर्तते, प्रतिवर्षं केवलं 45 दशलक्षं यात्रिकान् सेवते।",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "अधः दत्तं सारणी 2002 तमे वर्षे पञ्च भिन्नदेशेषु भिन्नवस्तुषु उपभोक्तृव्ययस्य विषये सूचनां ददति। \n \n मुख्यविशेषाणां चयनं प्रतिवेदनं च कृत्वा सूचनानां सारांशं करोतु, यत्र प्रासङ्गिकं भवति तत्र तुलनां करोतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "सारणी 2002 तमे वर्षे पञ्चदेशेषु उत्पादानाम् सेवायाः च त्रिषु वर्गेषु उपभोक्तृव्ययस्य प्रतिशतं दर्शयति। \n \n एतत् स्पष्टम् अस्ति यत् प्रत्येकस्मिन् देशे उपभोक्तृव्ययस्य बृहत्तमः भागः आहारेषु, पेयेषु, तमाकूपेषु च अभवत् इति। अपरपक्षे, अवकाशस्य/शिक्षायाः प्रवर्गस्य प्रतिशतं पट्टिकायां न्यूनतमम् अस्ति। \n \n पञ्चदेशेषु भोजनस्य, पेयस्य, तम्बाकू इत्यस्य च उपभोक्तृव्ययः तुर्कि-देशे लक्षणीयरूपेण अधिकः आसीत्, 32.14%, ऐर्लेण्ड्-देशे च प्रायः 29% आसीत्। विरामस्य शिक्षायाः च व्ययस्य अनुपातः तुर्कि-देशे अपि सर्वाधिकः 4.35% आसीत्, यदा तु इटली-देशे वस्त्राणां पादत्राणानां च व्ययः अन्यदेशानाम् अपेक्षया 9 प्रतिशतं अधिकः आसीत्। \n \n एतत् द्रष्टुं शक्यते यत् स्वीडन्-देशे आहारस्य/पेयस्य/तम्बाकू इत्यस्य कृते, वस्त्रस्य/पादत्राणस्य कृते च राष्ट्रिय-उपभोक्तृ-व्ययस्य न्यूनतमं प्रतिशतं क्रमशः प्रायः 16 प्रतिशतं, केवलं 5 प्रतिशतं च आसीत्। स्पेन्-देशे एतेषां वर्गेभ्यः अल्पाः अधिकाः सङ्ख्याः आसन्, परन्तु विरामस्य/शिक्षायाः कृते न्यूनतमसङ्ख्या केवलं 1.98% आसीत्।",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "अधः दत्तानि पै-पट्टिकानि 1980 तमे वर्षे 2000 तमे वर्षे च आस्ट्रेलिया-फ्रान्स्-देशयोः इन्धनस्रोतः विद्युदुत्पादनस्य एककानि दर्शयन्ति। \n \n मुख्यविशेषाणां चयनं प्रतिवेदनं च कृत्वा सूचनानां सारांशं करोतु, यत्र प्रासङ्गिकं भवति तत्र तुलनां करोतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "पै-चार्ट् इत्येताः द्वयोः देशयोः पृथक् पृथक् वर्षद्वये पञ्च भिन्नैः इन्धनस्रोतानां उपयोगेन उत्पादितस्य विद्युदुत्पादनस्य परिमाणस्य तुलनां कुर्वन्ति। \n \n 1980 तः 2000 पर्यन्तं आस्ट्रेलिया-फ्रान्स्-देशयोः कुलविद्युत्-उत्पादनं नाटकीयरूपेण वर्धितम्। यद्यपि द्वयोः देशयोः योगः समानः आसीत्, तथापि प्रयुक्तेषु इन्धनस्रोतेषु महतः भेदः आसीत्। \n \n 1980 तमे वर्षे आस्ट्रेलिया-देशे कुल-100 एककेषु 50 विद्युदुत्पादनार्थं अङ्गारस्य उपयोगः कृतः, 2000 तमे वर्षे 170 एककेषु 130 यावत् वर्धितः। तद्विपरीततया, 2000 तमे वर्षे फ्रान्स्-देशे परमाणुशक्तिः महत्त्वपूर्णः इन्धनस्रोतः अभवत्, येन देशस्य प्रायः 75 प्रतिशतं विद्युदुत्पादनं जातम्। \n \n आस्ट्रेलिया-देशः उभयोः वर्षेषु स्वस्य विद्युदुत्पादनस्य केवलं 25 प्रतिशतात् न्यूनं यावत् जलशक्तिं आश्रितः आसीत्, परन्तु अस्मिन् प्रकारेण विद्युदुत्पादितं विद्युदुत्पादनस्य परिमाणं फ्रान्स्-देशे 5 तः केवलं 2 एककं यावत् न्यूनीकृतम्। अपरपक्षे, फ्रान्स्-देशे तैलं सापेक्षिकरूपेण महत्त्वपूर्णं इन्धनस्रोतम् आसीत्, परन्तु आस्ट्रेलिया-देशे तस्य उपयोगः न्यूनीकृतः। उभौ देशौ विद्युदुत्पादनार्थं 2000 वर्षस्य अपेक्षया 1980 तमे वर्षे प्राकृतिकग्यास्-इत्यस्य उपरि अधिकतया आश्रिताः आसन्।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "चोर्लीवुड् इति लण्डन्-नगरस्य समीपे एकः ग्रामः अस्ति यस्य जनसङ्ख्या 19 शताब्द्याः मध्यभागात् निरन्तरं वर्धमाना अस्ति। अधः दत्तः मानचित्रः ग्रामस्य विकासं दर्शयति। \n \n ग्रामस्य विकासस्य वर्णनं कुर्वन् विश्वविद्यालयस्य प्राध्यापकाय प्रतिवेदनं लिखतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "मानचित्रं 1868 तः 1994 पर्यन्तं चोर्लीवुड् नामकस्य ग्रामस्य विकासं दर्शयति। \n \n एतत् स्पष्टम् अस्ति यत् परिवहनस्य मूलसौकर्याभिवृद्ध्या ग्रामस्य विकासः अभवत् इति। विकासस्य चत्वारः कालखण्डाः मानचित्रे दर्शिताः सन्ति, तथा च प्रत्येकः जनसङ्ख्यायुक्तः प्रदेशः मुख्यमार्गैः, रेलमार्गेण अथवा मोटर्-मार्गेण वा समीपस्थः अस्ति। \n \n 1868 तमात् वर्षात् 1883 तमं वर्षं यावत्, चोर्लीवुड् इत्येषः प्रमुखेषु मार्गेषु एकस्य पार्श्वे लघुक्षेत्रं व्याप्नोत्। चोर्लीवुड्-पार्क् तथा गाल्फ्-कोर्स् इतीदं अधुना अस्य मूलग्रामक्षेत्रस्य समीपे स्थितम् अस्ति। 1883 तः 1922 पर्यन्तं दक्षिणस्यां दिशि मुख्यमार्गेण अयं ग्रामः वर्धितः, 1909 तमे वर्षे पश्चिमतः पूर्वस्यां दिशि रेल्मार्गः निर्मितः। ग्रामस्य अस्मिन् भागे चोर्लीवुड्-स्थानकम् अस्ति। \n \n चोर्लीवुड् इत्यस्य विस्तारः 1970 तमं वर्षं यावत् रेल्-मार्गस्य पार्श्वे पूर्वदिशि पश्चिमदिशि च अन्ववर्तत। तस्मिन् समये ग्रामस्य पूर्वदिशि मोटरमार्गः निर्मितः, 1970 तः 1994 पर्यन्तं रेलमार्गेण सह मोटरमार्ग-छेदनस्थानां परितः ग्रामस्य अधिकं विकासः अभवत्, एकः मुख्यमार्गः च आसीत्।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "अधः दत्तः मानचित्रः गार्ल्सडन्-नगरस्य अस्ति। नगरस्य कृते नूतनस्य सूपर्-मार्केट् (एस्) इत्यस्य योजना अस्ति। मानचित्रं सूपर्-मार्केट् कृते सम्भाव्यस्थानद्वयं दर्शयति। \n \n मुख्यविशेषाणां चयनं प्रतिवेदनं च कृत्वा सूचनायाः सारांशं करोतु, यत्र प्रासङ्गिकं भवति तत्र तुलनां करोतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "मानचित्रं गार्ल्सडन् नामकस्य नगरे नूतनस्य सूपर्-मार्केट् कृते सम्भाव्यस्थानद्वयं (एस्1 तथा एस्2) दर्शयति। \n \n द्वयोः स्थलयोः मध्ये मुख्यभेदः अस्ति यत् एस्1 नगरात् बहिः अस्ति, परन्तु एस्2 नगरकेन्द्रे अस्ति। मार्गस्य वा रेल्-मार्गस्य वा प्रवेशस्य दृष्ट्या अपि एतेषां स्थलानां तुलनां कर्तुं शक्यते, तेषां स्थानं च त्रिभिः लघुनगराणां सापेक्षम्। \n \n अधिकविवरणरूपेण सूचनां दृष्ट्वा, एस्1, गार्ल्सडन्-नगरस्य वायव्यदिशि स्थिते ग्राम्यक्षेत्रे अस्ति, परन्तु नगरस्य आवासीयक्षेत्रस्य समीपे अस्ति। एस्2, नगरकेन्द्रं परितः स्थितस्य आवासक्षेत्रस्य अपि समीपे अस्ति। \n \n हिण्डन्, ब्रान्स्डन्, क्रेन्स्डन् इत्येतेभ्यः गार्ल्स्डन्-नगरकेन्द्रं प्रति प्रमुखाः मार्गाः सन्ति, परन्तु एतत् नो-ट्रैफ़िक्-ज़ोन् अस्ति, अतः कार्-द्वारा एस्2 इत्यस्य प्रवेशः न भविष्यति। तद्विपरीततया, एस्1 हिण्डन्-नगरं प्रति मुख्यमार्गे स्थितम् अस्ति, परन्तु ब्रान्स्डन् तथा क्रान्स्डन्-नगरयोः गन्तुं कठिनतरं भविष्यति। उभौ अपि सूपर्-मार्केट्-स्थलानि हिण्डन्-नगरात् क्रेन्स्डन्-नगरपर्यन्तं गल्स्डन्-नगरात् गच्छतः रेलमार्गस्य समीपे सन्ति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "अधः दत्तं रेखाचित्रं दर्शयति यत् कथं आस्ट्रेलियन्-ब्यूरो-आफ़्-मेटियोरालजी विश्वसनीयं पूर्वानुमानं निर्मातुं वायुगुणस्य विषये क्षणमात्रस्य सूचनाः सङ्गृहीयते इति। \n \n अधः दर्शितानां सूचनानां वर्णनं कुर्वन् विश्वविद्यालयस्य प्राध्यापकाय प्रतिवेदनं लिखतु। \n \n भवान् न्यूनातिन्यूनं 150 शब्दान् लिखतु।",
+        "answer": "एषा आकृतिः आस्ट्रेलियन्-ब्यूरो-आफ़्-मेटियोरालजी इत्यनेन वायुगुणस्य पूर्वानुमानार्थं प्रयुक्तां प्रक्रियां दर्शयति। \n \n प्रक्रियायां चत्वारः सोपानानि सन्ति, यस्य आरम्भः वायुगुणस्य विषये सूचनानां सङ्ग्रहणात् भवति। एषा सूचना ततः विश्लेषिता, प्रस्तुतीकरणाय निर्मिता, अन्ते च जनसामान्यं प्रति प्रसारिता भवति। \n \n प्रक्रियायाः प्रथमस्य द्वितीयस्य च चरणयोः अवलोकनं कुर्वन्, वायुगुणस्य दत्तांशसङ्ग्रहणस्य त्रयः मार्गाः, तस्य विश्लेषणस्य च त्रयः मार्गाः सन्ति। प्रथमतः, आगमनसूचनाः उपग्रहद्वारा प्राप्य उपग्रह-छायाचित्ररूपेण विश्लेषणार्थं प्रस्तूयन्ते। समानं दत्तांशं राडार्-केन्द्रम् अपि प्रेषयितुं शक्यते तथा राडार्-पटलस्य वा सिनोप्टिक्-चार्ट् इत्यस्य वा उपरि प्रस्तूयते। द्वितीयं, आगामिनः सूचनाः प्रत्यक्षतया राडार्-द्वारा सङ्गृहीताः, राडार्-पटलस्य वा सिनोप्टिक्-चार्ट् इत्यस्य वा विश्लेषणं च कर्तुं शक्नुवन्ति। अन्ते, ड्रिफ्टिङ्ग्-बाय्स् इत्येते अपि दत्तांशं प्राप्नुयुः यत् सिनोप्टिक्-चार्ट् इत्यस्मिन् दर्शयितुं शक्यते। \n \n प्रक्रियायाः तृतीये चरणे, वायुगुणस्य प्रसारणं सङ्गणकेषु सज्जीभवति। अन्ते, एतत् दूरदर्शनस्य माध्यमेन, रेडियो-माध्यमेन, अथवा ध्वनिमुद्रित-दूरभाष-घोषणायाः रूपेण जनसामान्यं प्रति प्रदत्तम् भवति।",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

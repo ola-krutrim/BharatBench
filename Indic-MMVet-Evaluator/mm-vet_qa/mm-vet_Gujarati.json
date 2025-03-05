@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "સમીકરણમાં x શું છે?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "છેલ્લા સમીકરણમાં d શું છે?",
+        "answer": "1. 25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "સમીકરણમાં x શું છે?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "નીચે ડાબી બાજુના સમીકરણનો જવાબ શું છે?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "જમણી બાજુના બીજા સમીકરણનો જવાબ શું છે?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "જમણી બાજુના બીજા છેલ્લા સમીકરણનો જવાબ શું છે?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "છેલ્લા સમીકરણમાં y શું છે?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"X\" ઓપરેટરને કેવી રીતે પુનઃવ્યાખ્યાયિત કરવામાં આવે છે તેની પેટર્ન શોધો અને છબીમાં આપેલા સમીકરણનો જવાબ આપો.",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "જમણી બાજુની છોકરી બોર્ડ પર શું લખશે?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "મને 50 ડૉલરમાં કેટલા ગેલન સર્વોચ્ચ ગેસોલિન મળી શકે?",
+        "answer": "13. 6 <અથવા> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "ડીઝલ અને નિયમિત ગેસોલિન વચ્ચે કિંમતમાં કેટલો તફાવત છે?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "છબીમાં બતાવેલ મેરલોટની એક બોટલ અને કેબરનેટની એક બોટલની કુલ કિંમત કેટલી છે?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "મોએટ શેમ્પેઇનની ત્રણ બોટલની કિંમત કેટલી છે?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "મને એક ફૂગના પિઝા અને એક પ્રોસિઉટો પિઝા મળી રહ્યા છે. મારે કુલ કેટલી ચૂકવણી કરવી જોઈએ?",
+        "answer": "14. 8 <અથવા> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "મને બે માર્ગેરિટા પિઝા અને એક કેલઝોન મળી રહ્યું છે. મારે કુલ કેટલી ચૂકવણી કરવી જોઈએ?",
+        "answer": "25. 8 <અથવા> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "ડિસ્કાઉન્ટ પહેલાં ડુક્કરના પેટની મૂળ કિંમત કેટલી છે?",
+        "answer": "14",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "પેટ્રોલની કિંમત શું છે?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "આગળની ડાબી બાજુની વ્યક્તિ દ્વારા પહેરવામાં આવતી ટોપીનો રંગ શું છે?",
+        "answer": "વાદળી",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "શેમ્પૂની જમણી બાજુ શું સ્થિત છે?",
+        "answer": "કન્ડીશનર",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "સૌથી યોગ્ય બોટલમાં શું છે?",
+        "answer": "મૂસ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "ફ્રિસ્બી અને માણસ વચ્ચે અવકાશી સંબંધ શું છે?",
+        "answer": "માણસની ઉપર <OR> ઉપર ડાબી બાજુ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "પાર્કિંગ સ્થળ 33 પર કઈ કાર છે?",
+        "answer": "ના <OR> ખાલી નથી",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "લાલ કાર પાર્કિંગ કઈ જગ્યાએ છે?",
+        "answer": "31",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "ટામેટાંની કિંમત શું છે?",
+        "answer": "આઠ <OR> 8.0",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "ફળોમાંથી કયા ફળનો અધિકાર છે?",
+        "answer": "નારંગી",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "છબીના આધારે, ટીના ફેની કુલ આંતરરાષ્ટ્રીય જાગૃતિ કેટલી છે?",
+        "answer": "35 ટકા",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "છબીના આધારે, ટીના ફે કયા દેશમાં કુલ જાગૃતિનું ઉચ્ચતમ સ્તર ધરાવે છે?",
+        "answer": "ઓસ્ટ્રેલિયા",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "નંબર 2 પૃથ્વીનું આંતરિક માળખું શું સૂચવે છે?",
+        "answer": "મેન્ટલ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "પીળો સૂટ પહેરેલા મોટરસાયકલ સવાર દ્વારા ચલાવવામાં આવતી મોટરસાયકલ પર કેટલો નંબર દર્શાવવામાં આવે છે?",
+        "answer": "16",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "જમણી બાજુએ મોટરસાઇકલ પર દર્શાવેલ નંબર કેટલો છે?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "શું આ બે વિમાનોમાંથી કયું વિમાન કદમાં મોટું છે?",
+        "answer": "એ જ રીતે",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "શું વ્યક્તિ કાર કરતાં મોટી છે?",
+        "answer": "ના",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "તેને ટુકડાઓમાં વિભાજીત કરતા પહેલા, કણકને હલાવ્યા પછી મારે શું કરવું જોઈએ?",
+        "answer": "ગરમ જગ્યા <AND> 1 કલાક",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "ઇંડા અને દૂધ ભેળવતી વખતે મારે ખાંડ ઉમેરવી જોઈએ?",
+        "answer": "ના",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "જડીબુટ્ટીઓ, સોસેજ અને મશરૂમ્સ કાપતા પહેલા મારે શું કરવું જોઈએ?",
+        "answer": "પેનને સહેજ નમાવો",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "જ્યારે આપણે બધા હેતુ માટે લોટ ઉમેરવાની જરૂર હોય ત્યારે પગલાની અનુક્રમણિકા શું છે?",
+        "answer": "ત્રીજું <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "ત્રીજા પગલામાં આપણે શું ઉમેરવું જોઈએ?",
+        "answer": "દૂધ",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "આંગળીઓ કાપ્યા પછી બાળકોએ શું કરવું જોઈએ?",
+        "answer": "એક પગ પર કૂદો",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "ચોથા પગલામાં શું દોરવું જોઈએ?",
+        "answer": "નાક",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "ટાયર પંચર ફેલાવવા માટે પ્રોબનો ઉપયોગ કર્યા પછીનું પગલું શું છે?",
+        "answer": "સમારકામ દૂર કરો",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "બીજું પગલું શું સૂચવવામાં આવ્યું છે?",
+        "answer": "તમારા પ્રેક્ષકોને ઓળખો",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "છબીમાં આપવામાં આવેલી છેલ્લી વ્યૂહરચના શું છે?",
+        "answer": "ગીત બનાવો",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "ફોર્ડ એફ150 સિવાય સરેરાશ કુલ ઇંધણ ખર્ચ કેટલો છે?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "સૌથી વધુ ઇંધણ ખર્ચ કેટલો છે?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "પ્લાસ્ટિકના બનેલા અને ફેંકવામાં આવેલા જથ્થાને ધ્યાનમાં રાખીને, પ્લાસ્ટિક રિસાયક્લિંગમાં કઈ શ્રેણીએ સૌથી ખરાબ કામ કર્યું?",
+        "answer": "પેકેજિંગ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "ઉત્પાદિત પ્લાસ્ટિકની માત્રા અને ફેંકવામાં આવેલી રકમ વચ્ચે મેટ્રિક ટનમાં કેટલો તફાવત છે?",
+        "answer": "105",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "વર્ષ 2023 માટે અંદાજિત સરેરાશ સ્ટેન્ડિંગ ચાર્જ કેટલો છે?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "વર્ષ 2023 માટે અંદાજિત કુલ ખર્ચ કેટલો છે?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "વસવાટ કરો છો ખંડની બારી કઈ દિશામાં છે?",
+        "answer": "ઉત્તર",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "આ ફ્લોરપ્લાનમાં રસોડામાં કયા ઉપકરણો છે?",
+        "answer": "પકાવવાની નાની ભઠ્ઠી <AND> ડિશવશેર",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "કયો ઓરડો મોટો છે, ડબલ ગેરેજ કે લિવિંગ રૂમ?",
+        "answer": "ડબલ ગેરેજ",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "કયો ઓરડો મોટો છે, માસ્ટર બેડરૂમ કે પેશિયો?",
+        "answer": "માસ્ટર બેડરૂમ",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "જો દીવો લગાડવામાં આવે અને બલ્બ બળી જાય તો તેનો ઉકેલ શું છે?",
+        "answer": "બ્લબને બદલો",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "ફ્લોચાર્ટમાં કયું પગલું હીરાના આકાર સાથે દોરવામાં આવે છે?",
+        "answer": "પાણી ઉકાળવામાં આવ્યું?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "પથારીમાંથી ઊઠીને રાહ જોવાનો સરેરાશ સમય કેટલો છે?",
+        "answer": "15 મિનિટ",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "કયા વર્ષમાં ઘરની સરેરાશ કિંમતનો સૌથી વધુ વૃદ્ધિ દર છે?",
+        "answer": "2008",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012 માં જાપાનનો જી. ડી. પી. શું છે?",
+        "answer": "6, 233.15 અબજ યુએસ ડોલર",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "કયા વર્ષોમાં નૌકાવિહાર અને રમતગમતમાં સમાન સંખ્યામાં સુવર્ણ ચંદ્રકો મળ્યા?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "કયા વિભાગમાંથી સૌથી વધુ પગાર મેળવનાર વ્યક્તિ છે?",
+        "answer": "વહીવટ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "ટેબલના આધારે, વિલ્કિન્સ કેટલી કમાણી કરે છે?",
+        "answer": "2500 <અથવા> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "કયા દેશનો નફો સરેરાશ કરતાં ઓછો છે?",
+        "answer": "ભારત",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "કયા દેશમાં સૌથી વધુ નફાનું માર્જિન છે?",
+        "answer": "ઓસ્ટ્રેલિયા",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "કયા મહિનામાં સૌથી વધુ આવક થાય છે?",
+        "answer": "ફેબ્રુઆરી",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "કુલ આવકમાં પગાર કેટલા ટકા ફાળો આપે છે?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "ડાબી બાજુની વ્યક્તિ કોણ છે?",
+        "answer": "કેઇરા નાઇટલી",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "તસવીરમાં દેખાતી વ્યક્તિ કોણ છે?",
+        "answer": "મિશેલ યોહ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "નીચે જમણી બાજુની વ્યક્તિ કોણ છે?",
+        "answer": "જેમી ડોર્નન",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "કયું મીઠા વગરનું છે?",
+        "answer": "ઓટ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "શું આ સફરજન ઓર્ગેનિક છે?",
+        "answer": "હા",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "આખી થેલીમાં કેટલી કેલરી હોય છે?",
+        "answer": "275",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "આ વાનગીનું નામ શું છે?",
+        "answer": "મેપો ટોફુ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "આ વાનગીનું નામ શું છે?",
+        "answer": "કેપ્રિસ કચુંબર",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "આ વાનગીનું નામ શું છે?",
+        "answer": "પેડ થાઈ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "ડાબી બાજુની કારનું સ્વરૂપ શું છે?",
+        "answer": "વોલ્કસવેગન",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "આ ફેક્ટરી શું બનાવે છે?",
+        "answer": "કેમેરા",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "કાર પર લીલો લોગો શું છે?",
+        "answer": "રાક્ષસ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "આ સીમાચિહ્નનું નામ શું છે?",
+        "answer": "ટ્રેવી ફાઉન્ટેન",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "આ સીમાચિહ્નનું નામ શું છે?",
+        "answer": "અનબરિયા મસ્જિદ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "આ સીમાચિહ્નનું નામ શું છે?",
+        "answer": "બાઓચુ પેગોડા",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "આ બૅન્કનોટની ફેસ વેલ્યુ કેટલી છે?",
+        "answer": "પાંચ <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "આ બેંકનોટ શું છે?",
+        "answer": "દસ પાઉન્ડ <અથવા> 10 પાઉન્ડ <અથવા> બ્રિટિશ પાઉન્ડ",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "આ બૅન્કનોટ કેવા પ્રકારની ચલણનું પ્રતિનિધિત્વ કરે છે?",
+        "answer": "સ્વીડિશ <OR> ક્રોનોર",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "છાતીનો કયો એક્સ-રે રોગ મળી શકે છે? (વિકલ્પોમાં નીચેનાનો સમાવેશ થાય છેઃ એટેક્ટેસિસ; કાર્ડિયોમેગેલી; એફ્યુઝન; ઘૂસણખોરી; માસ; નોડ્યુલ; ન્યુમોનિયા; ન્યુમોથોરેક્સ; કોન્સોલિડેશન; એડીમા; એમ્ફીસેમા; ફાઇબ્રોસિસ; પ્લુરલ જાડાઈ; હર્નિયા.)",
+        "answer": "કાર્ડિયોમેગેલી",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "છાતીનો કયો એક્સ-રે રોગ મળી શકે છે? (વિકલ્પોમાં નીચેનાનો સમાવેશ થાય છેઃ એટેક્ટેસિસ; કાર્ડિયોમેગેલી; એફ્યુઝન; ઘૂસણખોરી; માસ; નોડ્યુલ; ન્યુમોનિયા; ન્યુમોથોરેક્સ; કોન્સોલિડેશન; એડીમા; એમ્ફીસેમા; ફાઇબ્રોસિસ; પ્લુરલ જાડાઈ; હર્નિયા.)",
+        "answer": "હર્નિયા",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "છાતીનો કયો એક્સ-રે રોગ મળી શકે છે? (વિકલ્પોમાં નીચેનાનો સમાવેશ થાય છેઃ એટેક્ટેસિસ; કાર્ડિયોમેગેલી; એફ્યુઝન; ઘૂસણખોરી; માસ; નોડ્યુલ; ન્યુમોનિયા; ન્યુમોથોરેક્સ; કોન્સોલિડેશન; એડીમા; એમ્ફીસેમા; ફાઇબ્રોસિસ; પ્લુરલ જાડાઈ; હર્નિયા.)",
+        "answer": "ઘૂસણખોરી",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "કેટલા પક્ષીઓ છે?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "કેટલા ટામેટાં છે?",
+        "answer": "5.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "કેટલા પુસ્તકો છે?",
+        "answer": "63",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "છબીમાં તમામ દ્રશ્ય લખાણ શું છે?",
+        "answer": "S3302CD",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "છબીમાં તમામ દ્રશ્ય લખાણ શું છે?",
+        "answer": "લક્ષ્મી જ્વેલર્સ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "છબીમાં તમામ દ્રશ્ય લખાણ શું છે?",
+        "answer": "તમારી જાતને એક આનંદી નાનો નાતાલ બનાવો",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "છબીમાં તમામ દ્રશ્ય લખાણ શું છે?",
+        "answer": "5: 30 PM <અને> 88% <અને> મારિયો કાર્ટ 8 ડીલક્સ <અને> મેરીઓ કાર્ટ 8 ડીલક્સ <અને> સુપર મેરીઓ ઓડિસી <અને> ઝેલ્ડાના વંશજો <અને> જંગલી શ્વાસ <અને> વિકલ્પો <અને> શરૂ કરો",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "છબીમાં તમામ દ્રશ્ય લખાણ શું છે?",
+        "answer": "શ્રી વિલિયમ શેક્સપીયર્સ <અને> કોમેડીઝ, હિસ્ટ્રીઝ અને ટ્રેજેડીઝ. <અને> ટ્રુ ઓરિજિનલ કોપીઝ અનુસાર પ્રકાશિત.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "છબીમાં તમામ દ્રશ્ય લખાણ શું છે?",
+        "answer": "1642 ના કનેક્ટિકટ કાયદો <AND> જો કોઈ પુરુષ કે સ્ત્રી ચૂડેલ હોય-એટલે કે, કોઈ પરિચિત આત્મા સાથે છે અથવા તેની સલાહ લે છે-તો તેમને મૃત્યુદંડ આપવામાં આવશે.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "આ ઉપકરણની બ્રાન્ડ શું છે?",
+        "answer": "મોટોરોલા",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "લાયસન્સ પ્લેટ નંબર શું છે?",
+        "answer": "AED-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "છબીમાં તમામ ફ્રેન્ચ દ્રશ્ય લખાણ શું છે?",
+        "answer": "ફ્રાન્સનો ઈતિહાસ અને રાણીનો ઈતિહાસ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "છબીમાં તમામ ચીની દ્રશ્ય લખાણ શું છે?",
+        "answer": "<AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND>",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "કયા ખંડને પ્રકાશિત કરવામાં આવ્યો છે?",
+        "answer": "એશિયા",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "આ ફૂડ વેબમાં ઉત્પાદકો કોણ છે?",
+        "answer": "ફાયટોપ્લાંકટન <AND> સીવીડ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "દરેક નમૂનામાં કણોની સરેરાશ ગતિ ઊર્જાની સરખામણી કરો. નીચેની આકૃતિઓ સમાન બંધ, કઠોર કન્ટેનરમાં ગેસના બે શુદ્ધ નમૂનાઓ દર્શાવે છે. દરેક રંગીન દડો એક વાયુ કણનું પ્રતિનિધિત્વ કરે છે. બંને નમૂનાઓમાં સમાન સંખ્યામાં કણો હોય છે. કયા નમૂનાનું તાપમાન વધારે છે? નમૂના A કે નમૂના B?",
+        "answer": "નમૂના એ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "આમાંથી કયું શહેર સૌથી દૂર ઉત્તરમાં છે?",
+        "answer": "ચિકાગો",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "આ ફોટો ક્યાં લેવામાં આવ્યો છે?",
+        "answer": "ટર્કી <OR> સીરિયા",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "આ ફોટો ક્યાં લેવામાં આવ્યો છે?",
+        "answer": "ઓસ્કાર <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "આ ફોટો ક્યાં લેવામાં આવ્યો છે?",
+        "answer": "કતાર",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "આ ફોટો કયા દેશમાં લેવામાં આવ્યો હતો?",
+        "answer": "ઓસ્ટ્રેલિયા",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "શું વૃક્ષો જિરાફ કરતાં ઊંચા છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "શું આ વિમાન ઉડાન ભરે છે કે ઉતરાણ કરે છે?",
+        "answer": "ઉપાડવું",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "કેટલા લોકો નીચે બેઠા છે?",
+        "answer": "એક",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "કચરો ખાલી છે કે ભરેલો છે?",
+        "answer": "ખાલી",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "શું જિરાફ ખતરનાક દેખાય છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "શું પાણીમાં ઝેબ્રાનું કોઈ પ્રતિબિંબ છે?",
+        "answer": "હા",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "માણસ ખુશ છે?",
+        "answer": "હા",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "શું બધા જ હસબન્ડ્સ આવા જ હોય છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "શું તે વાઇન બેકગ્રાઉન્ડમાં છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "શું તે માણસ નીચે પડી જશે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "કઈ જગ્યાનું ચિત્ર છે?",
+        "answer": "કિનારાઓ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "શું તે બહાર છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "હવામાન કેવું છે?",
+        "answer": "સાફ કરો <OR> સની",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "ધાતુની બનેલી વાડનો રંગ શું છે?",
+        "answer": "લીલી",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "શું માણસની ડાબી બાજુની વ્યક્તિ બેઠેલી દેખાય છે?",
+        "answer": "હા",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "શું ટેબલની પ્લેટ ગંદા અને ચાંદી બંને છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "પડદો ચિત્રની જમણી બાજુએ છે કે ડાબી બાજુએ?",
+        "answer": "ડાબી બાજુ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "શું આ ફોટામાં કોમ્પ્યુટર છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "શું ચોખાની ડાબી બાજુના વાસણ નીચે નેપકિન્સ હોય છે?",
+        "answer": "હા",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "ત્યાં બદામ અથવા શાકભાજી છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "શું આ ચિત્રમાં પ્લેટ અને કાંટો બંને છે?",
+        "answer": "હા",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "આ પક્ષીનું નામ શું છે?",
+        "answer": "પોપટ <OR> કોનોર",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "ચિત્રમાં કયું પ્રાણી મોટું છે, બિલાડી કે કૂતરો?",
+        "answer": "બિલાડી",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "જમણા ડેસ્ક પર, લેપટોપની ડાબી બાજુ શું છે?",
+        "answer": "ટેબલ લેમ્પ <OR> ડેસ્ક લેમ્પ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "શું માણસ ઘોડા પર સવારી કરે છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "શું સર્ફર સર્ફબોર્ડની ડાબી કે જમણી બાજુએ છે?",
+        "answer": "ડાબી બાજુ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "દીવો શું છે, સાઇડ ટેબલ કે નાઇટ સ્ટેન્ડ?",
+        "answer": "બાજુનું ટેબલ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "સ્ટમ્પ અને વાડ બંનેમાં શું સામાન્ય છે?",
+        "answer": "સામગ્રી",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "શું ચમચી ચૉપસ્ટિક્સ જેવી જ સામગ્રીથી બનેલું છે?",
+        "answer": "હા",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "શું શર્ટનો રંગ પતંગ કરતાં અલગ હોય છે?",
+        "answer": "હા",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "શું આ બધા લોકો એક જ જાતિના છે?",
+        "answer": "ના",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "શું આ બે અલગ અલગ પ્રજાતિઓ છે?",
+        "answer": "હા",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "લોકો ક્યાં છે? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "તેઓ કોલેજના વર્ગખંડમાં છે. મને એવું લાગે છે કારણ કે તે યુવાન સ્ત્રી કોલેજની ઉંમરની લાગે છે, અને તેઓ ડેસ્ક અને ખુરશીઓથી ઘેરાયેલા છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "લોકો શા માટે કાળા કપડાં પહેરે છે? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "તેઓ અંતિમ સંસ્કારમાં જઈ રહ્યા છે. મને એવું લાગે છે કારણ કે લોકો માટે અંતિમ સંસ્કારમાં કાળા વસ્ત્રો પહેરવાની પરંપરા છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "સ્ત્રી શા માટે ઝભ્ભો પહેરે છે? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "તે પથારી માટે તૈયાર થઈ રહી છે. મને એવું લાગે છે કારણ કે ઓરડો એક શયનખંડ જેવો દેખાય છે અને સ્ત્રી તેના પલંગની સામાન્ય દિશામાં આગળ વધી રહી છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "આ ક્યાં થઈ રહ્યું છે? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "આ એક ફેન્સી રેસ્ટોરન્ટમાં થઈ રહ્યું છે. મને એવું લાગે છે કારણ કે તે વ્યક્તિએ ફેન્સીલી પોશાક પહેર્યો છે અને બેકગ્રાઉન્ડ ફેન્સી છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "શું તે દ્રશ્યમાં ઉનાળો છે? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "ના, તે પડી ગયેલું લાગે છે. હું એવું વિચારું છું કારણ કે પૃષ્ઠભૂમિમાં કોળા હોય છે અને તે સામાન્ય રીતે પતન સાથે સંકળાયેલા હોય છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "શું લાલ રંગની સ્ત્રી પુરુષ પર ગુસ્સે થશે, સ્ત્રીને પોશાકમાં જોવા બદલ? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "હા, લાલ રંગની સ્ત્રી અને પુરુષ દંપતી જેવા દેખાય છે અને લાલ રંગની સ્ત્રી પુરુષની અન્ય women.I ની મુલાકાત લેવાની પ્રશંસા કરશે નહીં કારણ કે એક વિવાહીત સંબંધમાં, ભાગીદારો એકબીજા પ્રત્યે વફાદાર રહે તેવી અપેક્ષા રાખવામાં આવે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "સ્ત્રીના બંને હાથ હવામાં કેમ હોય છે? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "તેણે હમણાં જ બાસ્કેટબોલ શૂટ કર્યું. મને એવું લાગે છે કારણ કે તેના હાથ બાસ્કેટબોલના શોટ માટે ખૂણાવાળા છે અને તેઓ બાસ્કેટબોલના મેદાનમાં છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "છોકરો કેવા પ્રકારની શાળામાં જાય છે? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "છોકરો ખાનગી શાળામાં જાય છે, જાહેર શાળામાં નહીં. મને એવું લાગે છે કારણ કે છોકરો બધા પોશાક પહેરે છે, જાહેર શાળાઓમાં તેની જરૂર નથી પરંતુ કેટલીક ખાનગી શાળાઓ કરે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "શું આ લોકો આ ઘરમાં રહે છે? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "ના, તેઓ નથી કરતા. મને એવું લાગે છે કારણ કે તેઓ બધા પેઇન્ટિંગ્સ અને સજાવટ તરફ જોઈ રહ્યા છે, જે જો તેમને જોવાની ટેવ હોય તો કોઈ ન કરે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "સફેદ વસ્ત્રોમાં પુરુષો અને સ્ત્રીઓ એકબીજાની આટલી નજીક કેમ છે? તેનો જવાબ આપો અને તર્ક આપો.",
+        "answer": "તેઓ હમણાં જ લગ્ન કર્યા. મને એવું લાગે છે કારણ કે તેઓ લગ્નના વસ્ત્રોમાં છે અને દરેક તેમને જોઈ રહ્યા છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "શું તમે આ મીમને સમજાવી શકો છો?",
+        "answer": "આ મીમ વિલંબ અને ચોક્કસ સમય સુધી કાર્યોમાં વિલંબ કરવાની વૃત્તિ પર રમૂજી છે. મીમમાં વ્યક્તિ 8 વાગ્યે કંઈક કરવાની યોજના ધરાવે છે, પરંતુ જ્યારે તેઓ થોડી મિનિટો સુધી તે સમયમર્યાદા ચૂકી જાય છે, ત્યારે તેઓ તેના બદલે 9 વાગ્યા સુધી રાહ જોવાનું નક્કી કરે છે. પથારીમાં પડેલા કેર્મિટ ધ ફ્રોગની છબી વ્યક્તિની આળસ અને કાર્ય પૂર્ણ કરવા માટે પ્રેરણાના અભાવને રજૂ કરે છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "શું તમે આ મીમને સમજાવી શકો છો?",
+        "answer": "આ મીમ કોવિડ-19 રોગચાળાને કારણે ઓનલાઇન શિક્ષણની વર્તમાન પરિસ્થિતિ પરની ટિપ્પણી છે. તે બતાવે છે કે તેનાથી વિવિધ પક્ષો કેવી રીતે પ્રભાવિત થાય છે. \\n\\n પ્રથમ બે છબીઓ ઝૂમ કંપની અને શિક્ષકોને હવામાં પૈસા ફેંકતા બતાવે છે, જે સૂચવે છે કે તેઓ પરિસ્થિતિમાંથી નફો કરી રહ્યા છે. ઝૂમ, ખાસ કરીને, રોગચાળાને કારણે વપરાશ અને આવકમાં વધારો જોવા મળ્યો છે. \\n\\n ત્રીજી છબી દર્શાવે છે કે વાઇફાઇ કંપની પણ હવામાં પૈસા ફેંકી રહી છે, જે સૂચવે છે કે તેઓ પણ પરિસ્થિતિમાંથી નફો કરી રહ્યા છે કારણ કે વધુ લોકો ઓનલાઇન શિક્ષણ માટે ઇન્ટરનેટનો ઉપયોગ કરી રહ્યા છે. \\n\\n છેલ્લી છબી ઉદાસી રંગલો ચહેરો ધરાવતા વિદ્યાર્થીને બતાવે છે, જે સૂચવે છે કે વિદ્યાર્થીઓને પરિસ્થિતિનો લાભ મળી રહ્યો નથી અને તેઓ ઓનલાઇન શિક્ષણ સાથે સંઘર્ષ કરી રહ્યા છે. પૃષ્ઠભૂમિમાં \"ખુશ ચહેરો મૂકો\" નું ચિહ્ન એ વિચાર પર વધુ ભાર મૂકે છે કે વિદ્યાર્થીઓ તેમના સંઘર્ષો છતાં બહાદુર ચહેરો પહેરી રહ્યા છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "શું તમે આ મીમને સમજાવી શકો છો?",
+        "answer": "આ મીમ એ હકીકત પર મજાક ઉડાવી રહ્યું છે કે આઇસલેન્ડ અને ગ્રીનલેન્ડ દેશોના નામ ભ્રામક છે. તેનું નામ હોવા છતાં, આઇસલેન્ડ તેના સુંદર લીલા લેન્ડસ્કેપ્સ માટે જાણીતું છે, જ્યારે ગ્રીનલેન્ડ મોટે ભાગે બરફ અને બરફથી ઢંકાયેલું છે. મીમ કહે છે કે વ્યક્તિને વિશ્વાસના મુદ્દાઓ છે કારણ કે આ દેશોના નામ તેમના લેન્ડસ્કેપ્સને ચોક્કસપણે રજૂ કરતા નથી.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "શું તમે આ મીમને સમજાવી શકો છો?",
+        "answer": "આ મીમ પરીક્ષા દરમિયાન વિદ્યાર્થીનું હસ્તાક્ષર કેવી રીતે બગડે છે તેની મજાક ઉડાવે છે. પ્રથમ બે પૃષ્ઠો સુઘડ અને સુપાઠ્ય હસ્તાક્ષર દર્શાવે છે, મધ્ય પૃષ્ઠ થોડું અવ્યવસ્થિત હસ્તાક્ષર દર્શાવે છે, અને છેલ્લા બે પૃષ્ઠો સંપૂર્ણપણે ગેરકાયદેસર લખાણ દર્શાવે છે. જેમ જેમ પરીક્ષા આગળ વધે છે તેમ તેમ વિદ્યાર્થી થાકી જાય છે અથવા ઉતાવળ કરે છે તેના કારણે આવું થાય છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "શું તમે આ મીમને સમજાવી શકો છો?",
+        "answer": "આ મીમ એ એક મજાક છે કે કેવી રીતે નવા કોલેજના વિદ્યાર્થીઓ (નવા વિદ્યાર્થીઓ) ઘણીવાર નોંધો લેવા અને વર્ગમાં તેઓ જે કરી શકે તે બધું શીખવા માટે આતુર હોય છે. આ છબી કાર્ટૂન સ્પોન્જબોબ સ્ક્વેરપેન્ટ્સની છે, જ્યાં સ્પોન્જબોબ અને પેટ્રિક ગુસ્સે થઈને નોંધો લખી રહ્યા છે. કેપ્શન સૂચવે છે કે નવા વિદ્યાર્થીઓ એ જાણવા માટે એટલા આતુર છે કે તેઓ પ્રોફેસરની શુભેચ્છા પણ લખી રહ્યા છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "આ છબીમાં શું રમૂજી છે?",
+        "answer": "તે ચિત્ર દોરતા ગેંડાનું કાર્ટૂન છે અને દરેક ચિત્રમાં તેનું ગેંડાનું શિંગ હોય છે કારણ કે ગેંડાનું શિંગ તેની આંખોની સામે વધે છે. કેપ્શન \"તમે વિશ્વને તમે જેવા છો તેવા જ જુઓ છો!\" આપણો પરિપ્રેક્ષ્ય વિશ્વ વિશેની આપણી ધારણાને કેવી રીતે આકાર આપે છે તેના પર એક રમતિયાળ ટિપ્પણી છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "આ છબીમાં શું રમૂજી છે?",
+        "answer": "એવી કેટલીક બાબતો છે જે લોકોને આ છબી વિશે રમૂજી લાગી શકે છેઃ \\n\\n1. બે છબીઓ વચ્ચેનો વિરોધાભાસઃ ડાબી બાજુએ, આપણે બે સ્ત્રીઓને જોઈએ છીએ જે ખૂબ જ લાગણીશીલ અને ગુસ્સે છે, જ્યારે જમણી બાજુએ, આપણે એક બિલાડી જોઈએ છીએ જે શાંતિથી ડિનર ટેબલ પર બેઠી છે. \\n\\n2. બિલાડીની પરિસ્થિતિની વાહિયાતતાઃ રાત્રિભોજનના ટેબલ પર બિલાડીને તેની સામે ખોરાકની થાળી સાથે બેઠેલી જોવી સામાન્ય નથી, તેથી આ છબી અનપેક્ષિત અને હાસ્યાસ્પદ છે. \\n\\n3. બિલાડીની અભિવ્યક્તિઃ બિલાડી સ્ત્રીઓની બૂમોથી ડરી ગયેલી દેખાય છે, જે છબીના રમૂજમાં વધારો કરે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "કયા પ્રસંગોએ કોઈ આ મીમનો ઉપયોગ કરશે?",
+        "answer": "સ્લીપી મેન સાથેની મીમ અને ચાઇનીઝ કેપ્શન \"ચાઇનીઝ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ ટાઈમ્સ. પરંતુ અન્ય સમય દરમિયાન, હું સૂવા માંગુ છું) નો ઉપયોગ વિવિધ પ્રસંગોમાં થઈ શકે છે જ્યાં ઊંઘની લાગણી અથવા વિરોધાભાસી ઇચ્છાઓ હોવાની થીમ સુસંગત છે. અહીં કેટલાક દૃશ્યો છે જ્યાં આ મીમ યોગ્ય હોઈ શકે છેઃ \n \n સંબંધિત ઊંઘઃ દિવસ દરમિયાન થાકેલા અથવા ઊંઘમાં હોવાની સંબંધિત લાગણી વ્યક્ત કરતી વખતે મીમને સોશિયલ મીડિયા પર અથવા વાતચીતમાં શેર કરી શકાય છે. તે સંબંધિત અનુભવને વ્યક્ત કરવા અને સંબંધિત કરી શકે તેવા અન્ય લોકો પાસેથી રમૂજી પ્રતિસાદ પેદા કરવા માટે તે હળવા દિલની રીત તરીકે કામ કરી શકે છે. \n \n કામ અથવા અભ્યાસ સંબંધિત રમૂજઃ આ મીમનો ઉપયોગ કામ અથવા અભ્યાસ સંબંધિત સંદર્ભોમાં ધ્યાન અને ધ્યાનની જરૂર હોય તેવા કાર્યો દરમિયાન ઊંઘવાની અથવા સુસ્તી અનુભવવાની ઇચ્છાને રમૂજી રીતે વ્યક્ત કરવા માટે થઈ શકે છે. મૂડ હળવો કરવા અને જાગૃત અને સતર્ક રહેવાના પડકારોની સહિયારી સમજણ બનાવવા માટે તેને સહકાર્યકરો અથવા સહપાઠીઓ વચ્ચે વહેંચી શકાય છે. \n \n વિલંબિત રમૂજઃ મીમનો ઉપયોગ ઉત્પાદક પ્રવૃત્તિઓમાં સામેલ થવાને બદલે ઊંઘવાની અથવા આરામ કરવાની ઇચ્છા વચ્ચેના આંતરિક સંઘર્ષને દર્શાવવા માટે પણ થઈ શકે છે. જવાબદારીઓ ટાળવા અને છૂટછાટમાં વ્યસ્ત રહેવાની સતત ઇચ્છા પર વિલંબ અથવા રમૂજી સ્વ-પ્રતિબિંબની ચર્ચા કરતી વખતે તેને શેર કરી શકાય છે. \n \n કોમેડિક વક્રોક્તિઃ ઊંઘના સમય અને અન્ય સમયે ઊંઘવાની ઇચ્છા વચ્ચે મીમના વિરોધાભાસનો ઉપયોગ વિવિધ સંદર્ભોમાં કોમેડિક વક્રોક્તિનાં સ્વરૂપ તરીકે થઈ શકે છે. તે એવી પરિસ્થિતિઓની ચર્ચા કરતી વખતે શેર કરી શકાય છે જ્યાં આપણી ઇચ્છાઓ અથવા વર્તણૂકો અપેક્ષિત અથવા યોગ્ય બાબતોનો વિરોધાભાસ કરે છે, વાતચીતમાં રમૂજી વળાંક ઉમેરે છે. \n \n આખરે, મેમનો ઉપયોગ વિવિધ પરિસ્થિતિઓમાં થઈ શકે છે જ્યાં તેની ઊંઘ, વિરોધાભાસી ઇચ્છાઓ અથવા વ્યંગાત્મક પરિસ્થિતિઓનો વિષય ચર્ચા કરવામાં આવતા વિષય અથવા લાગણી સાથે સંરેખિત થાય છે, વાતચીત અથવા ઑનલાઇન ક્રિયાપ્રતિક્રિયામાં રમૂજ અને સંબંધનો સ્પર્શ ઉમેરે છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "કયા પ્રસંગોએ કોઈ આ મીમનો ઉપયોગ કરશે?",
+        "answer": "આ મીમ, જેને સામાન્ય રીતે \"સ્ક્રીમિંગ પાંડા\" તરીકે ઓળખવામાં આવે છે, તેનો ઉપયોગ સામાન્ય રીતે આઘાત, આશ્ચર્ય અથવા ભય વ્યક્ત કરવા માટે થાય છે. તેનો ઉપયોગ આશ્ચર્યજનક અથવા અણધારી ઘટનાના જવાબમાં અથવા ગભરાટ અથવા ચેતવણીની લાગણી વ્યક્ત કરવા માટે થઈ શકે છે. કેટલાક સંભવિત પ્રસંગો કે જ્યાં કોઈ વ્યક્તિ આ મીમનો ઉપયોગ કરી શકે છે તેમાં નીચેનાનો સમાવેશ થાય છેઃ \\n\\n-હોરર મૂવીમાં કૂદકો મારવાના ડર પર પ્રતિક્રિયા આપવી \\n-ટીવી શો અથવા પુસ્તકમાં આશ્ચર્યજનક પ્લોટ ટ્વિસ્ટનો જવાબ આપવો \\n-સમાચારની હેડલાઇન અથવા વર્તમાન ઘટના પર આઘાત વ્યક્ત કરવો \\n-આગામી સમયમર્યાદા અથવા પરીક્ષા વિશે ભય અથવા ચિંતા વ્યક્ત કરવી \\n-રમતગમતની રમત અથવા અન્ય સ્પર્ધામાં અનપેક્ષિત પરિણામ પર આશ્ચર્ય દર્શાવવું.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "કયા પ્રસંગોએ કોઈ આ મીમનો ઉપયોગ કરશે?",
+        "answer": "\"રડતી બિલાડી\" મીમ ચાઇનીઝ કેપ્શન સાથે \"મોમ!\" તેનો ઉપયોગ સામાન્ય રીતે તકલીફ, અસહાયતા અથવા આરામની લાગણી વ્યક્ત કરવા માટે થાય છે. અહીં કેટલાક પ્રસંગો છે જ્યાં કોઈ વ્યક્તિ આ મેમનો ઉપયોગ કરી શકે છેઃ \n \n નબળાઈ વ્યક્ત કરવીઃ મેમનો ઉપયોગ નબળાઈની ક્ષણને વ્યક્ત કરવા માટે અથવા જ્યારે ભરાઈ ગયેલી લાગણી અનુભવવા માટે થઈ શકે છે. તે પોતાની માતાને બોલાવવાના વિચારને રમૂજી રીતે બોલાવીને અન્ય લોકો પાસેથી ટેકો અથવા સહાનુભૂતિ મેળવવાની ભાવના વ્યક્ત કરી શકે છે. \n \n આરામ અથવા સહાનુભૂતિ મેળવવીઃ આ મીમને મિત્રો અથવા ઓનલાઇન સમુદાયો તરફથી સહાનુભૂતિ અથવા સમર્થન મેળવવા માટે શેર કરી શકાય છે. સંબંધિત અને ઓળખી શકાય તેવા મેમ ફોર્મેટનો ઉપયોગ કરીને, તે ઉદાસી, નિરાશા અથવા ભાવનાત્મક સમર્થનની જરૂરિયાતની લાગણીઓને અસરકારક રીતે વ્યક્ત કરી શકે છે. \n \n સ્વ-અપમાનજનક રમૂજઃ વ્યક્તિગત પરિસ્થિતિઓ અથવા નાની દુર્ઘટનાઓને પ્રકાશમાં લાવવા માટે મીમનો ઉપયોગ સ્વ-અપમાનજનક રીતે પણ થઈ શકે છે. તે વ્યક્તિઓને અન્ય લોકોને આરામ અથવા આશ્વાસન આપવા માટે આમંત્રિત કરતી વખતે તેમની પોતાની \"અસહાયતા\" ની ક્ષણોને રમૂજી રીતે પ્રકાશિત કરવાની મંજૂરી આપે છે. \n \n રમતિયાળ ભાવનાત્મક અતિશયોક્તિઃ મીમની નાટકીય અને અતિશયોક્તિપૂર્ણ અભિવ્યક્તિનો ઉપયોગ રમતિયાળ રીતે એવી પરિસ્થિતિ અથવા ઘટના પર ભાર મૂકવા માટે કરી શકાય છે જે જરૂરી નથી કે દુઃ ખદાયી હોય પરંતુ ધ્યાન અથવા સંભાળની જરૂર હોય. નાની અસુવિધાઓ અથવા રમૂજી અતિશયોક્તિ વ્યક્ત કરતી વખતે તે રમૂજી સ્પર્શ ઉમેરી શકે છે. \n \n એ નોંધવું અગત્યનું છે કે મેમનો ઉપયોગ અને અર્થઘટન અલગ અલગ હોઈ શકે છે, અને વ્યક્તિઓ તેને વિવિધ સંદર્ભોમાં સ્વીકારવાની સર્જનાત્મક રીતો શોધી શકે છે. ઉપર સૂચવેલા પ્રસંગો આ મીમનો ઉપયોગ તેના સામાન્ય વિષયો અને ભાવનાત્મક સૂરના આધારે ક્યારે થઈ શકે તેની સામાન્ય સમજ પૂરી પાડે છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "આ વાનગી કેવી રીતે રાંધવી?",
+        "answer": "આ વાનગીને \"હંગેરિયન મશરૂમ સૂપ\" કહેવામાં આવે છે. આ હંગેરિયન મશરૂમ સૂપમાં ઘણો સ્વાદ હોય છે અને તે એકદમ ઝડપી બને છે. તે મુખ્યત્વે મશરૂમનો સૂપ છે પરંતુ તેનો ઘણો સ્વાદ અન્ય ઘટકોમાંથી મેળવે છે. મારા પરિવારને સૂપ ગમે છે અને આ તેમના મનપસંદમાંનું એક છે. \n \n \n તૈયારીનો સમયઃ \n 15 મિનિટ \n રાંધવાનો સમયઃ \n 35 મિનિટ \n કુલ સમયઃ \n 50 મિનિટ \n પીરસવાનો સમયઃ \n 6 \n \n \n \n ઘટકો \n \n 4 ચમચી અનસાલ્ટેડ માખણ \n \n 2 કપ સમારેલી ડુંગળી \n \n 1 પાઉન્ડ તાજા મશરૂમ્સ, કાપેલા \n \n 2 કપ ચિકન સૂપ \n \n 1 ચમચી સોયા સોસ \n \n 1 ચમચી પેપરિકા \n \n \n 2 ચમચી સૂકા સુવાદાણા \n \n \n ડુંગળી ઉમેરો; રાંધવા અને નરમ થાય ત્યાં સુધી જગાડવો, લગભગ 5 મિનિટ. મશરૂમ્સ ઉમેરો અને વધુ 5 મિનિટ માટે ફ્રાય કરો. સૂપ, સોયા સોસ, પૅપ્રિકા અને સુવાદાણાને હલાવો; ગરમીને ઓછી કરો, ઢાંકી દો અને 15 મિનિટ સુધી ઉકાળો. \n \n પગલું 2 \n દૂધ અને લોટને એક અલગ વાટકીમાં ભેગા કરો; મિશ્રણ થાય ત્યાં સુધી સૂપમાં હલાવો. કવર કરો અને વધુ 15 મિનિટ સુધી ઉકાળો, ક્યારેક ક્યારેક હલાવતા રહો. \n \n પગલું 3 \n ખાટા ક્રીમ, સુંગધી પાનવાળી એક વિલાયતી વનસ્પતિ, લીંબુનો રસ, મીઠું અને ગ્રાઉન્ડ કાળા મરી ઉમેરો; લગભગ 3 થી 5 મિનિટ સુધી ગરમ થાય ત્યાં સુધી ઓછી ગરમી પર જગાડવો. તરત જ પીરસો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "આ કેવી રીતે બનાવવું?",
+        "answer": "આને \"સ્પાર્કલિંગ કેન્ટલોપ અગુઆ ફ્રેસ્કા\" કહેવામાં આવે છે. કેન્ટલોપ અને ક્લબ સોડા સાથે ટોચ પર રહેલા લીંબુના રસ સાથેનું આ તાજગીભર્યું અગુઆ ફ્રેસ્કા ગરમ દિવસે સંપૂર્ણ છે. \n \n તૈયારીનો સમયઃ \n 15 મિનિટ \n કુલ સમયઃ \n 15 મિનિટ \n પીરસવાનો સમયઃ \n \n \n ઘટકો \n \n 2 પાઉન્ડ તાજા કેન્ટલોપ ક્યુબ્સ (6 કપ) \n \n 2 કપ પાણી \n \n 6 ચમચી તાજા સ્ક્વિઝ્ડ કરેલા લીંબુનો રસ (2 ચૂનોમાંથી) \n \n 3 ચમચી મધ \n \n 1/4 ચમચી મીઠું \n \n \n 2 કપ ક્લબ સોડા, ઠંડા \n \n \n કેન્ટલોપ તરબૂચના દડા અથવા ક્યુબ્સ, સુશોભન માટે \n \n \n ચાળણી દ્વારા દબાવો; ઘન પદાર્થો કાઢી નાખો. ઉકાળેલા રસને વાસણમાં ઉમેરો. \n \n પગલું 2 \n પીરસવા માટે તૈયાર થાય ત્યાં સુધી ઠંડું કરો. પીરસતાં પહેલાં ક્લબ સોડા ઉમેરો. બરફ પર પીરસો, અને તરબૂચના દડા અને ચૂનો ઝાટકો ટ્વિસ્ટ સાથે ચશ્માને ગાર્નિશ કરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "આ વાનગી કેવી રીતે રાંધવી?",
+        "answer": "આ વાનગીને \"જિંજર ગ્લેઝ્ડ માહી માહી\" કહેવામાં આવે છે. માહી માહી માટેની આ આદુની ચટણી સ્વાદથી ભરપૂર હોય છે અને મીઠી અને ખાટી સ્વાદની સંવેદનાઓને જોડે છે. આ રેસીપી ખૂબ જ સ્વાદિષ્ટ અને સ્વાદિષ્ટ છે. તમને તે ગમશે! \n \n \n તૈયારીનો સમયઃ \n 5 મિનિટ \n રાંધવાનો સમયઃ \n 10 મિનિટ \n વધારાનો સમયઃ \n 20 મિનિટ \n કુલ સમયઃ \n 35 મિનિટ \n પીરસવાનો સમયઃ \n 4 \n \n સામગ્રી \n \n 3 ચમચી મધ \n \n 3 ચમચી સોયા સોસ \n \n 3 ચમચી બાલ્સેમિક સરકો \n \n 2 ચમચી ઓલિવ તેલ \n \n 1 ચમચી છીણેલું તાજું આદુ મૂળ \n \n \n 1 લવિંગ લસણ, અથવા સ્વાદ પ્રમાણે કચડી \n \n \n મીઠું અને મરી સાથે માછલીની ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી ઝીણી કવર કરો અને 20 મિનિટ માટે રેફ્રિજરેટ કરો. \n \n પગલું 2 \n મધ્યમ-ઉચ્ચ ગરમી પર મોટી કઢાઈમાં વનસ્પતિ તેલ ગરમ કરો. માછલીની ફિલેટ્સ દૂર કરો, મેરીનેડ આરક્ષિત કરો. દરેક બાજુએ 4 થી 6 મિનિટ સુધી માછલીને ફ્રાય કરો, માત્ર એક જ વાર ફેરવો, જ્યાં સુધી કાંટોથી માછલીના ટુકડા સરળતાથી ન થાય. સર્વિંગ થાળીમાં ફિલેટ્સ દૂર કરો અને ગરમ રાખો. \n \n પગલું 3 \n કઢાઈમાં આરક્ષિત મેરીનેડ રેડવું; જાળીમાં ઘટાડો થાય ત્યાં સુધી મધ્યમ ગરમી પર ઉકાળવું. માછલી પર એક ચમચો ગરમ કરો અને સર્વ કરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "આ વાનગી કેવી રીતે રાંધવી?",
+        "answer": "આ વાનગીને \"સ્ટ્રોબેરી રૂબાર્બ પાઈ\" કહેવામાં આવે છે. આ સ્ટ્રોબેરી રૂબાર્બ પાઈ આપણા ઘરની વસંતઋતુમાં પ્રિય મીઠાઈ છે. ભરણમાં મીઠી-તીખી સુગંધ હોય છે; તમારા મનપસંદ પાઇ ક્રસ્ટમાં શેક કરો અને વેનીલા આઈસ્ક્રીમ સાથે પીરસો. \n \n તૈયારીનો સમયઃ \n 20 મિનિટ \n રાંધવાનો સમયઃ \n 35 મિનિટ \n વધારાનો સમયઃ \n 30 મિનિટ \n કુલ સમયઃ \n 1 કલાક 25 મિનિટ \n પીરસવાનો સમયઃ \n 8 \n ઉપજઃ \n 1 9 ઇંચની પાઈ \n \n ઘટકો \n \n 1 કપ સફેદ ખાંડ \n \n 1⁄2 કપ આખા હેતુ માટે લોટ \n \n 1 પાઉન્ડ રેવંચી, અડધા ઇંચના સ્લાઇસેસ \n \n 2 પિંટ સ્ટ્રોબેરી, હલ્ડ અને ક્વાર્ટર્ડ \n \n 1 રેસીપી \n \n પગલું 2 \n એક મોટા બાઉલમાં, લોટ અને ખાંડ મિક્સ કરો. \n \n પગલું 3 \n તેમાં સ્ટ્રોબેરી અને સમારેલા રેવંચી ઉમેરો. ખાંડ અને લોટ સાથે ટૉસ કરો અને 30 મિનિટ સુધી ઊભા રહેવા દો. \n \n પગલું 4 \n તૈયાર પાઈ ક્રસ્ટમાં ભરીને રેડવું. ટોચ પર માખણ મૂકો અને ટોચ પર પોપડોથી ઢાંકી દો. પોપડાની ઉપર અને નીચેની ધારને પાણીથી સીલ કરો. \n \n પગલું 5 \n પેસ્ટ્રી બ્રશનો ઉપયોગ કરીને પાઈની ટોચ પર જરદી લાગુ કરો. \n \n પગલું 6 \n ખાંડ સાથે છંટકાવ કરો. \n \n પગલું 7 \n વરાળને બહાર નીકળવા દેવા માટે ટોચ પર નાના છિદ્રો કાપો. \n \n પગલું 8 \n 400 ડિગ્રી ફેરનહીટ (200 ડિગ્રી સેલ્સિયસ) પર, 35 થી 40 મિનિટ માટે, અથવા પરપોટા અને બદામી સુધી શેકવું. રેક પર ઠંડું કરો. \n \n પગલું 9 \n આનંદ કરો!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "આ વાનગી કેવી રીતે રાંધવી?",
+        "answer": "આ વાનગીને \"અધિકૃત ચાઇનીઝ એગ રોલ્સ\" કહેવામાં આવે છે. આ ચાઇનીઝ ઇંડાના રોલ્સ મારી માતા પાસેથી આવે છે જે અત્યાર સુધીની શ્રેષ્ઠ રસોઈયા છે-અને હું એક પીકી ખાનાર છું. જો મને આ ગમશે, તો તમને ગમશે. આ ખૂબ જ પ્રમાણિક છે કારણ કે મારો પરિવાર ચીની છે અને હું પણ છું. આ વાનગી લિંગ પરિવારમાં ઓછામાં ઓછી 300 વર્ષ જૂની છે. \n \n \n તૈયારીનો સમયઃ \n 1 કલાક \n રાંધવાનો સમયઃ \n 30 મિનિટ \n વધારાનો સમયઃ \n 1 કલાક \n કુલ સમયઃ \n 2 કલાક 30 મિનિટ \n પીરસવાનો સમયઃ \n 20 \n ઉપજઃ \n 20 ઇંડા રોલ્સ \n \n \n ઘટકો \n \n 4 ચમચી વનસ્પતિ તેલ, વિભાજિત \n \n 3 મોટા ઇંડા, પીગળેલા \n \n 1 મધ્યમ માથાના કોબીજ, બારીક કાપેલા \n \n \n 1⁄2 ગાજર, જુલિયર્ડ \n \n \n 1 પાઉન્ડ ચિની બાર્બે છૂંદેલા ઇંડા નાંખો અને તેને હલાવ્યા વગર ત્યાં સુધી રાંધો જ્યાં સુધી તે ઘટ્ટ ન થઈ જાય. ઈંડાને પલટી નાંખો અને બીજી બાજુ મજબૂત કરવા માટે વધારાની 20 સેકન્ડ સુધી રાંધો. ઇંડા પેનકેકને ઠંડું કરવા માટે એક બાજુ મૂકો, પછી પાતળા સ્ટ્રીપ્સમાં કાપો. \n \n પગલું 2 \n બાકી રહેલા વનસ્પતિ તેલને કડાઈ અથવા મોટી કઢાઈમાં ઊંચી ગરમી પર ગરમ કરો. કોબીજ અને ગાજરને હલાવો; 2 મિનિટ સુધી રાંધવા. ડુક્કરનું માંસ, વાંસની કળીઓ, મશરૂમ, લીલી ડુંગળી, સોયા સોસ, મીઠું, ખાંડ અને એમએસજી ઉમેરો; શાકભાજી નરમ થાય ત્યાં સુધી રાંધવાનું ચાલુ રાખો, લગભગ 6 મિનિટ. કાપેલા ઇંડામાં હલાવો, પછી મિશ્રણને પેન પર ફેલાવો, અને લગભગ 1 કલાક ઠંડુ થાય ત્યાં સુધી રેફ્રિજરેટ કરો. \n \n પગલું 3 \n ઇંડાના રોલ્સને ભેગા કરવા માટેઃ તમારા કામની સપાટી પર એક આવરણ મૂકો, જેમાં એક ખૂણો તમારી તરફ નિર્દેશ કરે છે. રેપરના તળિયે ત્રીજા ભાગમાં ઢગલામાં ઠંડુ ભરવાના લગભગ 3 ચમચી મૂકો. રેપરની ટોચની બે ધાર પર થોડું ઇંડાનો સફેદ ભાગ બ્રશ કરો, પછી નીચેના ખૂણાને ભરવા ઉપર ફોલ્ડ કરો અને અડધા માર્ગ સુધી નિશ્ચિતપણે રોલ કરો. ડાબી અને જમણી બાજુઓને ઇંડાના રોલ પર ચપળતાથી ફોલ્ડ કરો, પછી ત્યાં સુધી રોલિંગ ચાલુ રાખો જ્યાં સુધી ઉપરના ખૂણાઓ ઇંડાના રોલને ઇંડાના સફેદ સાથે સીલ ન કરે. બાકીના ઇંડા રોલ આવરણ સાથે પુનરાવર્તન કરો, તૈયાર ઇંડા આવરણને પ્લાસ્ટિક આવરણથી ઢાંકી દો જેથી તે સૂકાઈ ન જાય. \n \n પગલું 4 \n લગભગ 6 ઇંચ તેલને વૂક અથવા ડીપ-ફ્રાયરમાં 350 ડિગ્રી ફેરનહીટ (175 ડિગ્રી સેલ્સિયસ) સુધી ગરમ કરો. \n \n પગલું 5 \n ફ્રાય ઇંડા ગોલ્ડન બ્રાઉન સુધી એક સમયે 3 અથવા 4 રોલ કરે છે, 5 થી 7 મિનિટ. કાગળના ટુવાલ પર ડ્રેઇન કરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "આ વાનગી કેવી રીતે રાંધવી?",
+        "answer": "આ વાનગીને \"ચોકલેટ કોટેડ પીનટ બટર ક્રેકર્સ\" કહેવામાં આવે છે. \n \n તૈયારીનો સમયઃ \n 30 મિનિટ \n રાંધવાનો સમયઃ \n 5 મિનિટ \n વધારાનો સમયઃ \n 15 મિનિટ \n કુલ સમયઃ \n 50 મિનિટ \n સેવાઃ \n 40 \n ઉપજઃ \n 40 સેન્ડવિચ કૂકીઝ \n \n \n ઘટકો \n 3⁄4 કપ ક્રીમી અથવા ચંકી મગફળીનું માખણ \n \n 2 પાઉન્ડ ચોકલેટ બદામની છાલ, ટુકડાઓમાં ભાંગી \n \n 80 બટરરી ગોળાકાર ફટાકડા (જેમ કે રિટ્ઝ®) \n \n 2⁄4 ઔંશ રંગીન કેન્ડી છંટકાવ મગફળીના માખણથી ભરેલી 40 સેન્ડવિચ કૂકીઝ બનાવવા માટે મગફળીના માખણની બાજુઓને એકસાથે દબાવો. \n \n પગલું 2 \n ગરમ, પરંતુ ઉકળતા નહીં, પાણી પર ડબલ બોઈલરની ટોચ પર બદામની છાલ ઓગાળો. ગરમી ઓછી કરો અને પીગળેલી ચોકલેટને ઉકળતા પાણી પર ડબલ બોઈલરની ટોચ પર રાખો. \n \n પગલું 3 \n દરેક સેન્ડવિચ કૂકીને ઓગાળવામાં આવેલી ચોકલેટમાં ડુબાડો, જેથી વધારાનો જથ્થો ફરીથી વાસણમાં વહી જાય. \n \n પગલું 4 \n મીણવાળા કાગળ પર કોટેડ કૂકીઝ મૂકો અને તરત જ કેન્ડી છંટકાવ સાથે છંટકાવ કરો જેથી તેઓ ઓગાળવામાં આવેલી ચોકલેટને વળગી રહે. \n \n પગલું 5 \n ચોકલેટ સેટ ન થાય ત્યાં સુધી રેફ્રિજરેટરમાં કૂકીઝ મૂકો, લગભગ 15 મિનિટ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "આ વાનગી કેવી રીતે રાંધવી?",
+        "answer": "આ વાનગીને \"બ્રોકોલી અને ગાજર સ્ટિર ફ્રાય\" કહેવામાં આવે છે. \n \n તૈયારીનો સમયઃ \n 10 મિનિટ \n રાંધવાનો સમયઃ \n 16 મિનિટ \n કુલ સમયઃ \n 26 મિનિટ \n પીરસવાનો સમયઃ \n 5 \n \n ઘટકો \n 5 1⁄2 કપ બ્રોકોલી ફૂલો \n \n 1 ગાજર, પાતળા કાપેલા \n \n 2 ચમચી પાણી \n \n 1 ચમચી કોર્નસ્ટાર્ચ \n \n 1 ચમચી ચિકન બુલોન ગ્રાન્યુલ્સ, અથવા સ્વાદ માટે \n \n \n 2 ચમચી મીઠું \n બ્રોકોલી ઉમેરો અને લગભગ 2 મિનિટ સુધી તેજસ્વી લીલો રંગ આવે ત્યાં સુધી ઉઘાડો. બ્રોકોલીને સ્લોટ કરેલા ચમચીનો ઉપયોગ કરીને બરફના પાણીના બાઉલમાં સ્થાનાંતરિત કરો અને રાંધવાની પ્રક્રિયાને રોકવા માટે થોડી મિનિટો માટે ડૂબાડો. ડ્રેઇન કરો. \n \n પગલું 2 \n તે જ મોટા વાસણમાં પાણીને ફરીથી ઉકાળો; તેમાં કાપેલું ગાજર ઉમેરો અને 1 મિનિટ સુધી રાંધો. ડ્રેઇન કરો. \n \n પગલું 3 \n પાણી અને કોર્નસ્ટાર્ચને એક વાટકીમાં સરળ થાય ત્યાં સુધી મિક્સ કરો. ચિકનના દાણામાં મીઠું અને હળદર ઉમેરો અને સારી રીતે મિશ્રણ કરો. \n \n પગલું 4 \n કડાઈ અથવા મોટી કઢાઈમાં મગફળીના તેલને વધુ ગરમી પર ગરમ કરો; બ્રોકોલી અને ગાજરને 2 મિનિટ સુધી સાંતળો. કોર્નસ્ટાર્ચનું મિશ્રણ ઉમેરો; રાંધવા અને શાકભાજી સમાનરૂપે કોટેડ ન થાય ત્યાં સુધી જગાડવો, 1 થી 2 મિનિટ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "આ વાનગી કેવી રીતે રાંધવી?",
+        "answer": "આ વાનગીને \"ક્રીમ ચીઝ અને ક્રેબ સુશી રોલ્સ\" કહેવામાં આવે છે. \n \n તૈયારીનો સમયઃ \n 20 મિનિટ \n રાંધવાનો સમયઃ \n 20 મિનિટ \n કુલ સમયઃ \n 40 મિનિટ \n પીરસવાનો સમયઃ \n 2 \n ઉપજઃ \n 2 સુશી રોલ્સ \n \n \n સામગ્રી \n 1 કપ રાંધેલા સફેદ ચોખા \n \n 2 કપ પાણી \n \n 2 ચમચી ચોખા સરકો \n \n 1 ચમચી મીઠું \n \n \n 2 શીટ્સ નોરી સીવીડ શીટ્સ \n \n \n 1⁄2 કાકડી, છાલેલી અને લંબાઈ મુજબ કાપેલી \n \n \n પગલું 2 \n એક શાક વઘારવાનું તપેલું માં ચોખા અને પાણીને વધુ ગરમી પર ઉકાળવા માટે લાવો. ગરમીને મધ્યમથી ઓછી કરો, ઢાંકી દો અને જ્યાં સુધી ચોખા કોમળ ન થાય અને પ્રવાહી શોષાઈ ન જાય ત્યાં સુધી 20 થી 25 મિનિટ સુધી ઉકાળો. ચોખાનો સરકો અને મીઠું મિક્સ કરો. સંપૂર્ણપણે ઠંડું કરવાની મંજૂરી આપો. \n પગલું 3 \n સીવીડ શીટ્સ મૂકો. હાથને પાણીથી ભીના કરો, પછી દરેક શીટ પર ઠંડા ચોખાને સમાનરૂપે ફેલાવો, એક ધાર સાથે અડધો ઇંચનું અંતર, લંબાઈની દિશામાં છોડી દો. ચોખાની ટોચ પર ખીચડી, અનુકરણ કરચલા માંસ અને ક્રીમ ચીઝની સ્ટ્રીપ્સ ગોઠવો, જે અંતરની વિરુદ્ધ બાજુએ એક સીધી રેખામાં હોય. ટોપિંગ્સથી સીવીડ શીટના ખુલ્લા છેડા સુધી સુશીને રોલ કરો. \n પગલું 4 \n તીક્ષ્ણ ભીની છરીનો ઉપયોગ કરીને, દરેક રોલને 5 અથવા 6 ટુકડાઓમાં કાપો. બાજુ પર સમારેલી આદુ સાથે સર્વ કરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "આ વાનગી કેવી રીતે રાંધવી?",
+        "answer": "આ વાનગીને \"વેગન સ્વીટ પોટેટો ચિકપી કરી\" કહેવામાં આવે છે. \n \n તૈયારીનો સમયઃ \n 10 મિનિટ \n રાંધવાનો સમયઃ \n 20 મિનિટ \n કુલ સમયઃ \n 30 મિનિટ \n પીરસવાનો સમયઃ \n 6 \n \n સામગ્રી \n 3 ચમચી ઓલિવ તેલ \n \n 1 ડુંગળી, સમારેલી \n \n 2 લવિંગ લસણ, છીણેલું \n \n 2 ચમચી છીણેલું તાજું આદુનું મૂળ \n \n 1 (15 ઔંસ) ચણા કરી શકે છે, ધોવાઇ શકે છે \n \n 1 (14.5 ઔંસ) ટામેટાં \n \n 1 (14 ઔંસ) કરી શકે છે ડુંગળી, લસણ અને આદુને ગરમ તેલમાં નરમ થાય ત્યાં સુધી ફ્રાય કરો, લગભગ 5 મિનિટ. અદલાબદલી ટામેટાં, ઝુચિિણી અને રીંગણા ઉમેરો. ઉકળવા માટે લાવો, ગરમીને ઓછી કરો અને લગભગ 15 મિનિટ સુધી નરમ થાય ત્યાં સુધી ઉકાળો. \n પગલું 2 \n ગરમ મસાલા, જીરું, હળદર, મીઠું અને મરચાંના ટુકડાઓ સાથે મોસમ કરો. પીરસતાં પહેલાં પાલક ઉમેરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "આ વાનગી કેવી રીતે રાંધવી?",
+        "answer": "આ વાનગીને \"લાઈમ ચિકન સોફ્ટ ટાકોસ\" કહેવામાં આવે છે. \n \n તૈયારીનો સમયઃ \n 20 મિનિટ \n રાંધવાનો સમયઃ \n 30 મિનિટ \n કુલ સમયઃ \n 50 મિનિટ \n ઉપજઃ \n 10 પિરસવાનું \n \n ઘટકો \n 1⁄2 પાઉન્ડ ચામડી વિનાનું, હાડકાં વિનાનું ચિકન સ્તન માંસ-સમઘનનું \n \n 2 લીલી ડુંગળી, સમારેલી \n \n 1⁄2 કપ રેડ વાઇન સરકો \n \n 1⁄2 ચૂનો, રસવાળું \n \n 2 લવિંગ લસણ, બારીક સમારેલી \n \n 1 ચમચી સૂકી ઓરેગાનો \n \n 1 ચમચી સફેદ ખાંડ \n \n \n લીલા ડુંગળી, સરકો, લીંબુનો રસ, લસણ, ઓરેગાનો, ખાંડ, મીઠું અને મરી ઉમેરો. ઓછી ગરમી પર 10 મિનિટ સુધી શેકો. \n પગલું 2 \n મધ્યમ ગરમી પર લોખંડની કઢાઈ ગરમ કરો. પેનમાં ટોર્ટિલા મૂકો, ગરમ કરો અને બીજી બાજુ ગરમ કરવા માટે ફેરવો. બાકીના ટોર્ટિલા સાથે પુનરાવર્તન કરો. ટામેટાં, લેટીસ, ચીઝ અને સાલસા સાથે ગરમ ટોર્ટિલામાં ચૂનો ચિકનનું મિશ્રણ પીરસો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ધ શૉશાંક રિડેમ્પશન એ ફ્રેન્ક ડારાબોન્ટ દ્વારા લખાયેલી અને દિગ્દર્શિત 1994ની અમેરિકન ડ્રામા ફિલ્મ છે, જે 1982ની સ્ટીફન કિંગની નવલકથા રીટા હેવર્થ અને શૉશાંક રિડેમ્પશન પર આધારિત છે. આ ફિલ્મ બેન્કર એન્ડી ડુફ્રેન્સ (ટિમ રોબિન્સ) ની વાર્તા કહે છે, જેને નિર્દોષ હોવાના દાવા છતાં તેની પત્ની અને તેના પ્રેમીની હત્યા બદલ શૉશાંક રાજ્ય જેલમાં આજીવન કેદની સજા ફટકારવામાં આવે છે. પછીના બે દાયકાઓમાં, તે સાથી કેદી, પ્રતિબંધિત દાણચોરી કરનાર એલિસ \"રેડ\" રેડિંગ (મોર્ગન ફ્રીમેન) સાથે મિત્રતા કરે છે અને જેલના વોર્ડન સેમ્યુઅલ નોર્ટન (બોબ ગુન્ટન) ની આગેવાની હેઠળના મની લોન્ડરિંગ ઓપરેશનમાં મહત્વનો ભાગ ભજવે છે. વિલિયમ સેડલર, ક્લેન્સી બ્રાઉન, ગિલ બેલોઝ અને જેમ્સ વ્હિટમોર સહાયક ભૂમિકામાં જોવા મળે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ધ ગોડફાધર ફ્રાન્સિસ ફોર્ડ કોપોલા દ્વારા નિર્દેશિત 1972ની અમેરિકન ગુનાહિત ફિલ્મ [2] છે, જેમણે મારિયો પુઝો સાથે મળીને પટકથા લખી હતી, જે પુઝોની આ જ શીર્ષકની 1969ની સૌથી વધુ વેચાતી નવલકથા પર આધારિત છે. આ ફિલ્મમાં માર્લોન બ્રાન્ડો, અલ પચિનો, જેમ્સ કેન, રિચાર્ડ કેસ્ટેલાનો, રોબર્ટ ડુવલ, સ્ટર્લિંગ હેડન, જ્હોન માર્લી, રિચાર્ડ કોન્ટે અને ડિયાન કીટોન છે. તે ધ ગોડફાધર ટ્રાયોલોજીનો પ્રથમ ભાગ છે, જે 1945 થી 1955 સુધી વડા વિટો કોર્લિયોન (બ્રાન્ડો) હેઠળ કોર્લિયોન પરિવારનું વર્ણન કરે છે. તે તેના સૌથી નાના પુત્ર, માઈકલ કોર્લિયોન (પચિનો) ના અનિચ્છુક પરિવારના બહારના વ્યક્તિથી ક્રૂર માફિયા બોસમાં પરિવર્તન પર કેન્દ્રિત છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ધ ડાર્ક નાઈટ ક્રિસ્ટોફર નોલાન દ્વારા નિર્દેશિત 2008ની સુપરહીરો ફિલ્મ છે, જે તેમણે તેમના ભાઈ જોનાથન સાથે મળીને લખી હતી. ડીસી કૉમિક્સ સુપરહીરો, બેટમેન પર આધારિત, તે બેટમેન બિગિન્સ (2005) ની સિક્વલ અને ધ ડાર્ક નાઈટ ટ્રિલોજીનો બીજો ભાગ છે. આ કાવતરું ચોકીદાર બેટમેન, પોલીસ લેફ્ટનન્ટ જેમ્સ ગોર્ડન અને જિલ્લા વકીલ હાર્વે ડેન્ટને અનુસરે છે, જેઓ ગોથમ શહેરમાં સંગઠિત ગુનાને નાબૂદ કરવા માટે ગઠબંધન બનાવે છે. તેમના પ્રયત્નોને અરાજકતાવાદી માસ્ટરમાઇન્ડ જોકર દ્વારા પાટા પરથી ઉતારવામાં આવે છે, જે એ ચકાસવા માંગે છે કે બેટમેન શહેરને અંધાધૂંધીથી બચાવવા માટે કેટલું દૂર જશે. કલાકારોની ટુકડીમાં ક્રિશ્ચિયન બેલ, માઇકલ કેન, હીથ લેજર, ગેરી ઓલ્ડમેન, એરોન એખર્ટ, મેગી ગિલેનહાલ અને મોર્ગન ફ્રીમેનનો સમાવેશ થાય છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ટ્વેલ્વ એંગ્રી મેન એ રેજિનાલ્ડ રોઝ દ્વારા લખાયેલ એક અમેરિકન કોર્ટરૂમ ડ્રામા છે, જે માનવવધ ટ્રાયલના જ્યુરી વિશે છે. તે શરૂઆતમાં 1954 માં ટેલિવિઝન નાટક તરીકે પ્રસારિત કરવામાં આવ્યું હતું. તે પછીના વર્ષે તેને મંચ માટે સ્વીકારવામાં આવ્યું હતું. તે સિડની લુમેટ દ્વારા નિર્દેશિત અને 1957માં રજૂ થયેલી આ જ નામની ફિલ્મ માટે રૂપાંતરિત કરવામાં આવી હતી. ત્યારથી તેને અસંખ્ય રિમેક, અનુકૂલન અને શ્રદ્ધાંજલિ આપવામાં આવી છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "શિન્ડલર 'સ લિસ્ટ એ 1993ની અમેરિકન મહાકાવ્ય ઐતિહાસિક ડ્રામા ફિલ્મ છે જેનું નિર્દેશન અને નિર્માણ સ્ટીવન સ્પીલબર્ગ દ્વારા કરવામાં આવ્યું છે અને સ્ટીવન ઝેલિયન દ્વારા લખવામાં આવ્યું છે. તે ઓસ્ટ્રેલિયન નવલકથાકાર થોમસ કેનેલીની 1982ની નવલકથા શિન્ડલર આર્ક પર આધારિત છે. આ ફિલ્મ જર્મન ઉદ્યોગપતિ ઓસ્કર શિન્ડલરને અનુસરે છે, જેમણે બીજા વિશ્વયુદ્ધ દરમિયાન તેમના કારખાનાઓમાં કામ કરીને એક હજારથી વધુ મોટે ભાગે પોલિશ-યહુદી શરણાર્થીઓને હોલોકાસ્ટમાંથી બચાવ્યા હતા. તેમાં શિન્ડલર તરીકે લિયેમ નીસન, એસએસ અધિકારી એમોન ગોથ તરીકે રાલ્ફ ફિનેસ અને શિન્ડલરના યહૂદી એકાઉન્ટન્ટ ઇત્ઝાક સ્ટર્ન તરીકે બેન કિંગ્સલે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ધ લોર્ડ ઓફ ધ રિંગ્સઃ ધ રીટર્ન ઓફ ધ કિંગ એ 2003ની મહાકાવ્ય કાલ્પનિક સાહસિક ફિલ્મ છે જેનું નિર્દેશન પીટર જેક્સન દ્વારા કરવામાં આવ્યું છે અને તેની પટકથા ફ્રાન વોલ્શ, ફિલીપા બોયેન્સ અને જેક્સન દ્વારા લખવામાં આવી છે. તે 1955ની 'ધ રીટર્ન ઓફ ધ કિંગ \"પર આધારિત છે, જે જે. આર. આર. ટોલ્કિએનની નવલકથા' ધ લોર્ડ ઓફ ધ રિંગ્સ\" નો ત્રીજો ભાગ છે. 2002ની ધ લોર્ડ ઓફ ધ રિંગ્સઃ ધ ટુ ટાવર્સની સિક્વલ, આ ફિલ્મ ધ લોર્ડ ઓફ ધ રિંગ્સ ટ્રાયોલોજીનો અંતિમ ભાગ છે. તેમાં એલિજાહ વુડ, ઇયાન મેકકેલેન, લિવ ટેલર, વિગો મોર્ટેનસન, સીન એસ્ટિન, કેટ બ્લેન્ચેટ, જ્હોન રીસ-ડેવિસ, બર્નાર્ડ હિલ, બિલી બોયડ, ડોમિનિક મોનાઘન, ઓર્લાન્ડો બ્લૂમ, હ્યુગો વીવિંગ, મિરાન્ડા ઓટ્ટો, ડેવિડ વેનહામ, કાર્લ અર્બન, જ્હોન નોબલ, એન્ડી સર્કિસ, ઇયાન હોલ્મ અને સીન બીન જેવા કલાકારો છે. અગાઉની ફિલ્મના કથાનકને ચાલુ રાખીને, ફ્રોડો, સેમ અને ગોલ્લમ વન રિંગનો નાશ કરવા માટે માઉન્ટ ડૂમ તરફ તેમનો અંતિમ રસ્તો બનાવી રહ્યા છે, ગોલ્લમના સાચા ઇરાદાઓથી અજાણ છે, જ્યારે મેરી, પિપ્પિન, ગેન્ડાલ્ફ, એરેગોર્ન, લેગોલાસ, ગિમલી અને અન્ય મિનાસ તિરિથમાં સૌરોન અને તેના સૈનિકો સામે દળોમાં જોડાય છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "પલ્પ ફિકશન એ 1994 ની અમેરિકન ગુનાહિત ફિલ્મ છે જે ક્વીન્ટીન ટેરેન્ટીનો દ્વારા રોજર એવરી સાથે કલ્પના કરવામાં આવેલી વાર્તામાંથી લખાયેલી અને દિગ્દર્શિત છે. [3] તે લોસ એન્જલસ, કેલિફોર્નિયામાં ગુના અને હિંસાની ચાર એકબીજા સાથે જોડાયેલી વાર્તાઓ કહે છે. આ ફિલ્મમાં જ્હોન ટ્રાવોલ્ટા, સેમ્યુઅલ એલ. જેક્સન, બ્રુસ વિલિસ, ટિમ રોથ, વિંગ રેમ્સ અને ઉમા થર્મન છે. આ શીર્ષક 20મી સદીના મધ્યમાં લોકપ્રિય પલ્પ સામયિકો અને હાર્ડબોઇલ્ડ ગુના નવલકથાઓનો ઉલ્લેખ કરે છે, જે તેમની ગ્રાફિક હિંસા અને પંચ સંવાદ માટે જાણીતી છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ધ લોર્ડ ઓફ ધ રિંગ્સઃ ધ ફેલોશિપ ઓફ ધ રિંગ 2001ની મહાકાવ્ય કાલ્પનિક સાહસિક ફિલ્મ છે, જેનું નિર્દેશન પીટર જેક્સન દ્વારા ફ્રાન વોલ્શ, ફિલીપા બોયેન્સ અને જેક્સનની પટકથા પરથી કરવામાં આવ્યું છે, જે 1954ની ધ ફેલોશિપ ઓફ ધ રિંગ પર આધારિત છે, જે જે. આર. આર. ટોલ્કિએનની નવલકથા ધ લોર્ડ ઓફ ધ રિંગ્સનો પ્રથમ ભાગ છે. આ ફિલ્મ ધ લોર્ડ ઓફ ધ રિંગ્સ ટ્રાયોલોજીનો પહેલો ભાગ છે. તેમાં એલિજાહ વુડ, ઇયાન મેકકેલેન, લિવ ટેલર, વિગો મોર્ટેનસન, સીન એસ્ટિન, કેટ બ્લેન્ચેટ, જ્હોન રીસ-ડેવિસ, બિલી બોયડ, ડોમિનિક મોનાઘન, ઓર્લાન્ડો બ્લૂમ, ક્રિસ્ટોફર લી, હ્યુગો વીવિંગ, સીન બીન, ઇયાન હોલ્મ અને એન્ડી સર્કિસ જેવા કલાકારો છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ધ ગોડફાધર પાર્ટ II એ ફ્રાન્સિસ ફોર્ડ કોપોલા દ્વારા નિર્મિત અને નિર્દેશિત 1974ની અમેરિકન મહાકાવ્ય ગુનાહિત ફિલ્મ છે. આ ફિલ્મ આંશિક રીતે મારિયો પુઝોની 1969ની નવલકથા ધ ગોડફાધર પર આધારિત છે, જેમણે કોપોલા સાથે પટકથા સહ-લખી હતી, અને તે 1972ની ફિલ્મ ધ ગોડફાધરની સિક્વલ અને પ્રિક્વલ બંને છે, જે સમાંતર નાટકો રજૂ કરે છેઃ એક 1958ની વાર્તા પસંદ કરે છે માઇકલ કોર્લિયોન (અલ પચિનો), કોર્લિયોન પરિવારના નવા ડોન, તેમના જીવન પરના પ્રયાસ પછીના પારિવારિક વ્યવસાયનું રક્ષણ કરે છે; પ્રિક્વલમાં તેમના પિતા, વિટો કોર્લિયોન (રોબર્ટ ડી નીરો) ની સિસિલિયન બાળપણથી લઈને ન્યુ યોર્ક સિટીમાં તેમના પારિવારિક સાહસની સ્થાપના સુધીની યાત્રાને આવરી લેવામાં આવી છે. કલાકારોની ટુકડીમાં રોબર્ટ ડુવલ, ડિયાન કીટોન, તાલિયા શાયરે, મોર્ગાના કિંગ, જ્હોન કાઝેલ, મારિયાના હિલ અને લી સ્ટ્રાસબર્ગ પણ છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "શું તમે આ ફિલ્મનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "વિદાય મારી ઉપપત્ની ચેન કૈગે દ્વારા નિર્દેશિત 1993ની ચીની ઐતિહાસિક ડ્રામા ફિલ્મ છે, જેમાં લેસ્લી ચેઉંગ, ગોંગ લી અને ઝાંગ ફેંગયી અભિનિત છે. લિલિયન લીની નવલકથા પર આધારિત લુ વેઈ દ્વારા સ્ક્રીન માટે અનુકૂલિત, આ ફિલ્મ 20મી સદીના રાજકીય રીતે તોફાની ચીનમાં રિપબ્લિક ઓફ ચાઇનાના શરૂઆતના દિવસોથી લઈને સાંસ્કૃતિક ક્રાંતિના પ્રત્યાઘાતો પર આધારિત છે. તે બે પેકિંગ ઓપેરા અભિનેતાઓ અને આજીવન મિત્રો ચેંગ દેઈ (ચેઉંગ) અને ડુઆન ઝિયાઓલોઉ (ઝાંગ) અને ઝિયાઓલોઉની પત્ની જુક્સિયન (ગોંગ) વચ્ચેના મુશ્કેલીભર્યા સંબંધોનું વર્ણન કરે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "મોના લિસા એ ઇટાલિયન કલાકાર લિયોનાર્ડો દા વિન્સીનું અડધી લંબાઈનું ચિત્ર છે. \n \n ઇટાલિયન પુનરુજ્જીવનની એક મૌલિક શ્રેષ્ઠ કૃતિ માનવામાં આવે છે, તેને \"સૌથી વધુ જાણીતી, સૌથી વધુ મુલાકાત લેવાતી, સૌથી વધુ લખાયેલી, સૌથી વધુ ગવાયેલી, વિશ્વની કલાની સૌથી વધુ પેરોડી કૃતિ\" તરીકે વર્ણવવામાં આવી છે. પેઇન્ટિંગના નવીન ગુણોમાં વિષયની રહસ્યમય અભિવ્યક્તિ, રચનાની સ્મારકતા, સ્વરૂપોનું સૂક્ષ્મ મોડેલિંગ અને વાતાવરણીય ભ્રમણા સામેલ છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ગર્લ વિથ અ પર્લ ઇયરરિંગ (ડચઃ મેઇઝે મેટ દ પેરેલ) એ ડચ સુવર્ણ યુગના ચિત્રકાર જોહાન્સ વર્મીરનું 1665ની સાલનું ઓઇલ પેઇન્ટિંગ છે. સદીઓથી વિવિધ નામોથી, તે 20મી સદીના અંતમાં ત્યાં ચિત્રિત છોકરી દ્વારા પહેરવામાં આવતી કાનની વીંટી પછી તેના વર્તમાન શીર્ષકથી જાણીતું બન્યું. આ કૃતિ 1902 થી ધ હેગમાં મૌરિટ્શુઇસના સંગ્રહમાં છે અને વિવિધ સાહિત્યિક અને સિનેમેટિક સારવારનો વિષય છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ધ સ્ટેરી નાઇટ એ ડચ પોસ્ટ-ઇમ્પ્રેશનિસ્ટ ચિત્રકાર વિન્સેન્ટ વેન ગો દ્વારા ઓઇલ-ઓન-કેનવાસ પેઇન્ટિંગ છે. જૂન 1889માં પેઇન્ટેડ, તે સૂર્યોદયના થોડા સમય પહેલા, સેન્ટ-રેમી-ડી-પ્રોવેન્સ ખાતેના તેમના આશ્રય ખંડની પૂર્વ તરફની બારીમાંથી દૃશ્ય દર્શાવે છે, જેમાં એક કાલ્પનિક village.It ઉમેરવામાં આવ્યું છે, જે 1941થી ન્યુ યોર્ક સિટીમાં મ્યુઝિયમ ઓફ મોડર્ન આર્ટના કાયમી સંગ્રહમાં છે, જે લિલી પી. બ્લિસ બીક્વેસ્ટ દ્વારા હસ્તગત કરવામાં આવ્યું છે. વ્યાપકપણે વેન ગોની મહાન કૃતિ તરીકે ગણવામાં આવે છે, ધ સ્ટેરી નાઇટ એ પશ્ચિમી કલામાં સૌથી વધુ ઓળખી શકાય તેવા ચિત્રોમાંનું એક છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ધ કિસ (જર્મનમાં ડેર કુસ) એ ઓઈલ-ઓન-કેનવાસ પેઇન્ટિંગ છે જેમાં ઓસ્ટ્રિયન સિમ્બોલિસ્ટ પેઇન્ટર ગુસ્તાવ Klimt.It દ્વારા સોનાના પાંદડા, ચાંદી અને પ્લેટિનમ ઉમેરવામાં આવ્યું હતું, જે 1907 અને 1908 માં કોઈક સમયે દોરવામાં આવ્યું હતું, જેને વિદ્વાનો તેમનો \"સુવર્ણ સમયગાળો\" કહે છે. પ્રદર્શનની સૂચિમાં જણાવ્યા મુજબ તે 1908 માં લાઇબેસ્પાર (પ્રેમીઓ) શીર્ષક હેઠળ પ્રદર્શિત કરવામાં આવ્યું હતું. આ પેઇન્ટિંગમાં એક દંપતિને એકબીજાને આલિંગન આપતા દર્શાવવામાં આવ્યા છે, તેમના શરીર સમકાલીન આર્ટ નુવુ શૈલી અને અગાઉની કળા અને હસ્તકલા ચળવળના જૈવિક સ્વરૂપોથી પ્રભાવિત શૈલીમાં સુશોભિત વિસ્તૃત સુંદર ઝભ્ભામાં ગૂંથાયેલા છે. \n \n આ પેઇન્ટિંગ હવે બેલ્વેડેર, વિયેનામાં ઓસ્ટરરીચિશે ગેલેરી બેલ્વેડેર મ્યુઝિયમમાં લટકાવવામાં આવ્યું છે અને તેને વિયેના સેસેશન (આર્ટ નોવ્યૂની સ્થાનિક વિવિધતા) અને પોર્ટ્રેટ ઓફ એડેલે બ્લોચ-બાઉર I પછી ક્લિમ્ટની સૌથી લોકપ્રિય કૃતિ માનવામાં આવે છે. તેને ઘણા લોકો દ્વારા કલાની પ્રખ્યાત કૃતિ માનવામાં આવે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ધ બર્થ ઓફ વિનસ એ ઇટાલિયન કલાકાર સેન્ડ્રો બોટિસેલીનું ચિત્ર છે, જે કદાચ 1480ના દાયકાના મધ્યમાં બનાવવામાં આવ્યું હતું. તેમાં દર્શાવવામાં આવ્યું છે કે દેવી વીનસ તેના જન્મ પછી કિનારે પહોંચે છે, જ્યારે તે સંપૂર્ણ વિકસિત સમુદ્રમાંથી બહાર આવી હતી (જેને વીનસ એનાડિઓમેને કહેવાય છે અને ઘણીવાર કલામાં દર્શાવવામાં આવે છે). આ પેઇન્ટિંગ ઇટાલીના ફ્લોરેન્સમાં ઉફિઝી ગેલેરીમાં છે. \n \n જો કે બંને જોડી નથી, તેમ છતાં ચિત્રની ચર્ચા અનિવાર્યપણે બોટિસેલીના અન્ય ખૂબ મોટા પૌરાણિક ચિત્ર, પ્રિમાવેરા સાથે કરવામાં આવી છે, જે ઉફિઝીમાં પણ છે. તેઓ વિશ્વના સૌથી પ્રસિદ્ધ ચિત્રોમાંના એક છે, અને ઇટાલિયન પુનરુજ્જીવનના ચિહ્નો છે; બેમાંથી, જન્મ પ્રિમાવેરા કરતાં વધુ જાણીતો છે. ખૂબ મોટા પાયે શાસ્ત્રીય પૌરાણિક કથાઓના વિષયોના નિરૂપણ તરીકે તેઓ શાસ્ત્રીય પ્રાચીનકાળથી પશ્ચિમી કલામાં લગભગ અભૂતપૂર્વ હતા, જેમ કે જન્મમાં નગ્ન સ્ત્રી આકૃતિનું કદ અને પ્રાધાન્ય હતું. એવું માનવામાં આવતું હતું કે તે બંનેને મેડિસી પરિવારના એક જ સભ્ય દ્વારા નિયુક્ત કરવામાં આવ્યા હતા, પરંતુ હવે આ અનિશ્ચિત છે. \n \n કલા ઇતિહાસકારો દ્વારા તેમનું અવિરતપણે વિશ્લેષણ કરવામાં આવ્યું છે, જેમાં મુખ્ય વિષયો છેઃ પ્રાચીન ચિત્રકારોનું અનુકરણ અને લગ્નની ઉજવણીનો સંદર્ભ (સામાન્ય રીતે સંમત), પુનરુજ્જીવન નિયો-પ્લેટોનિઝમનો પ્રભાવ (કંઈક અંશે વિવાદાસ્પદ), અને કમિશનરોની ઓળખ (સંમત ન). જો કે, મોટાભાગના કલા ઇતિહાસકારો સહમત થાય છે કે જન્મને તેના અર્થને ડીકોડ કરવા માટે જટિલ વિશ્લેષણની જરૂર નથી, જે રીતે પ્રિમાવેરા કદાચ કરે છે. પેઇન્ટિંગમાં સૂક્ષ્મતાઓ હોવા છતાં, તેનો મુખ્ય અર્થ ગ્રીક પૌરાણિક કથાઓના પરંપરાગત દ્રશ્યની સીધી, જો વ્યક્તિગત, સારવાર છે, અને તેની અપીલ સંવેદનાત્મક અને ખૂબ સુલભ છે, તેથી તેની પ્રચંડ લોકપ્રિયતા છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ગ્રે અને બ્લેકમાં ગોઠવણી નં. 1, જે તેના બોલચાલની ભાષાના નામ વ્હિસ્લર્સ મધર અથવા પોર્ટ્રેટ ઓફ આર્ટિસ્ટ્સ મધર હેઠળ જાણીતું છે, તે 1871 માં અમેરિકન જન્મેલા ચિત્રકાર જેમ્સ એબોટ મેકનીલ વ્હિસ્લર દ્વારા બનાવવામાં આવેલ કેનવાસ પર તેલનું ચિત્ર છે. પેઇન્ટિંગનો વિષય વ્હીસ્લરની માતા, અન્ના મેકનીલ વ્હીસ્લર છે. આ પેઇન્ટિંગ 56.81 બાય 63.94 ઇંચ (1,443 મીમી × 1,624 મીમી) છે, જે વ્હિસ્લરની પોતાની ડિઝાઇનની ફ્રેમમાં પ્રદર્શિત થાય છે. તે પેરિસમાં મ્યુઝી ડી 'ઓર્સે દ્વારા રાખવામાં આવે છે, જેને ફ્રેન્ચ રાજ્ય દ્વારા 1891 માં ખરીદવામાં આવ્યું હતું. તે યુનાઇટેડ સ્ટેટ્સની બહારના અમેરિકન કલાકારની સૌથી પ્રસિદ્ધ કૃતિઓમાંની એક છે. તેને વિવિધ રીતે અમેરિકન પ્રતીક અને વિક્ટોરિયન મોનાલિસા તરીકે વર્ણવવામાં આવ્યું છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "અર્નોલ્ફિની પોટ્રેટ (અથવા ધ અર્નોલ્ફિની વેડિંગ, ધ અર્નોલ્ફિની મેરેજ, જીઓવાન્ની અર્નોલ્ફિની અને તેની પત્નીનું પોટ્રેટ, અથવા અન્ય શીર્ષકો) એ પ્રારંભિક નેધરલેન્ડના ચિત્રકાર જાન વાન આઇક દ્વારા ઓક પેનલ પર 1434નું ઓઇલ પેઇન્ટિંગ છે. તે સંપૂર્ણ લંબાઈનું બેવડું ચિત્ર બનાવે છે, જે માનવામાં આવે છે કે તે ઇટાલિયન વેપારી જીઓવાન્ની ડી નિકોલાઓ અર્નોલ્ફિની અને તેની પત્નીને દર્શાવે છે, સંભવતઃ ફ્લેમિશ શહેર બ્રુગ્સ ખાતેના તેમના નિવાસસ્થાનમાં. \n \n તેની સુંદરતા, જટિલ પ્રતિમાશાસ્ત્ર, ભૌમિતિક ઓર્થોગોનલ પરિપ્રેક્ષ્ય અને અરીસાના ઉપયોગ સાથે ચિત્ર જગ્યાના વિસ્તરણને કારણે તેને પશ્ચિમી કલામાં સૌથી મૂળ અને જટિલ ચિત્રોમાંનું એક માનવામાં આવે છે. અર્ન્સ્ટ ગોમ્બ્રિચના જણાવ્યા અનુસાર \"તેની પોતાની રીતે તે ઇટાલીમાં ડોનાટેલ્લો અથવા માસાસિયોના કાર્ય જેટલું જ નવું અને ક્રાંતિકારી હતું. વાસ્તવિક દુનિયાના એક સરળ ખૂણાને અચાનક એક પેનલ પર જાદુની જેમ ગોઠવી દેવામાં આવ્યો હતો. ઈતિહાસમાં પ્રથમ વખત આ કલાકાર સાચા અર્થમાં સંપૂર્ણ સાક્ષી બન્યો હતો \". ઇર્વિન પાનોફ્સ્કી અને કેટલાક અન્ય કલા ઇતિહાસકારો દ્વારા આ ચિત્રને લગ્ન કરારનું એક અનોખું સ્વરૂપ માનવામાં આવે છે, જેને ચિત્ર તરીકે નોંધવામાં આવ્યું છે. 1434 માં વેન આઇક દ્વારા હસ્તાક્ષર અને તારીખ, તે જ કલાકાર અને તેમના ભાઈ હ્યુબર્ટ દ્વારા ગેન્ટ અલ્ટારપીસ સાથે, ટેમ્પેરાને બદલે તેલમાં ચલાવવામાં આવેલી સૌથી જૂની ખૂબ જ પ્રખ્યાત પેનલ પેઇન્ટિંગ છે. આ પેઇન્ટિંગ 1842માં લંડનની નેશનલ ગેલેરી દ્વારા ખરીદવામાં આવ્યું હતું.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "કિંગમિંગ ફેસ્ટિવલ દરમિયાન નદીની સાથે (કિંગમિંગ શાંઘે તુ) એ સોંગ રાજવંશના ચિત્રકાર ઝાંગ ઝેડુઆન (1085-1145) દ્વારા હાથથી દોરવામાં આવેલું ચિત્ર છે અને પછીની સદીઓમાં તેની ઘણી વખત નકલ કરવામાં આવી છે. તે ઉત્તરીય ગીત દરમિયાન લોકોના રોજિંદા જીવન અને રાજધાની બિયાન્જિંગ (હાલના કૈફેંગ) ના લેન્ડસ્કેપને મેળવે છે. આ વિષય ઘણીવાર રજાના ઔપચારિક પાસાઓ, જેમ કે કબર સાફ કરવા અને પ્રાર્થનાઓને બદલે, ક્વિંગમિંગ ઉત્સવમાં તહેવારની ભાવના અને સાંસારિક હંગામો ઉજવવા માટે કહેવામાં આવે છે. જમણેથી ડાબે વાંચો, જ્યારે એક દર્શક તેને અનરોલ કરે છે, ત્યારે ક્રમિક દ્રશ્યો સમૃદ્ધથી લઈને ગરીબ સુધીની સમાજના તમામ સ્તરોની જીવનશૈલી તેમજ ગ્રામીણ વિસ્તારો અને શહેરની આર્થિક પ્રવૃત્તિઓ દર્શાવે છે, અને સમયના કપડાં અને સ્થાપત્યની ઝલક આપે છે. આ પેઇન્ટિંગને તમામ ચાઇનીઝ પેઇન્ટિંગ્સમાં સૌથી પ્રખ્યાત કાર્ય માનવામાં આવે છે, અને તેને \"ચીનની મોના લિસા\" કહેવામાં આવે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "ફ્યુચુન પર્વતોમાં વસવાટ કરવો એ ચીની ચિત્રકાર હુઆંગ ગોંગવાંગ (1269-1354) દ્વારા બચી ગયેલી કેટલીક કૃતિઓમાંની એક છે અને તેને તેમની મહાન કૃતિઓમાંની એક માનવામાં આવે છે. 1348 અને 1350ની વચ્ચે દોરવામાં આવેલી આ પેઇન્ટિંગને 1650માં બે ટુકડાઓમાં સળગાવી દેવામાં આવી હતી. આજે, એક ટુકડો હાંગઝોઉના ઝેજિયાંગ પ્રાંતીય સંગ્રહાલયમાં રાખવામાં આવ્યો છે, જ્યારે બીજો ટુકડો તાઈપેઈના રાષ્ટ્રીય મહેલ સંગ્રહાલયમાં રાખવામાં આવ્યો છે. એકસાથે મૂકો, સમગ્ર પેઇન્ટિંગ લંબાઈમાં 691.3 સે. મી. માપશે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "શું તમે આ ચિત્રનો ટૂંકો પરિચય આપી શકો છો?",
+        "answer": "સમ્રાટ તાઇઝોંગ રીસીવિંગ ધ તિબેટીયન એન્વોય (જેને પ્રોવિઝ, બૂનિયન તુ પણ કહેવાય છે) એ તાંગ રાજવંશ અને તિબેટ વચ્ચેના મૈત્રીપૂર્ણ મુકાબલાને દર્શાવવા માટે યાન લિબેન દ્વારા રેશમ પરનું ચિત્ર છે. આ ચિત્ર 129 સેન્ટિમીટર (51 ઇંચ) લાંબું અને 38.5 સેન્ટિમીટર (15.2 ઇંચ) પહોળું છે. બુનિયન તુ બેઇજિંગના પેલેસ મ્યુઝિયમમાં છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "સિડર સફરજન રસ્ટ (જિમ્નોસ્પોરેંજીયમ જુનિપેરી-વર્જિનિયાના) એક ફૂગના રોગ છે જેમાં જુનિપર છોડ તેના જટિલ બે વર્ષના જીવન ચક્રને પૂર્ણ કરવા માટે જરૂરી છે. વિવિધ જ્યુનિપર પ્રજાતિઓની નાની ડાળીઓ પર લાલ-કથ્થઈ પિત્ત તરીકે શિયાળામાં બીજકણ. વસંતઋતુના પ્રારંભમાં, ભીના હવામાન દરમિયાન, આ ગોળો ફૂલી જાય છે અને બીજકણના તેજસ્વી નારંગી સમૂહને પવન દ્વારા ફૂંકવામાં આવે છે જ્યાં તેઓ સંવેદનશીલ સફરજન અને કરચલા-સફરજનના વૃક્ષોને ચેપ લગાડે છે. આ વૃક્ષો પર જે બીજકણ વિકસે છે તે ફક્ત પછીના વર્ષે જુનિપર્સને ચેપ લગાડે છે. દર વર્ષે, આ રોગ જુનિપરથી લઈને સફરજનથી લઈને જુનિપર સુધી ફરીથી પસાર થવો જોઈએ; તે સફરજનના ઝાડ વચ્ચે ફેલાઈ શકતો નથી. \n \n સફરજન અને કરચલા-સફરજનના વૃક્ષો પર, ખીલ્યા પછી તરત જ પાંદડાઓની ઉપરની સપાટી પર નિસ્તેજ પીળા પિનહેડ કદના ફોલ્લીઓ જુઓ. આ ધીમે ધીમે તેજસ્વી નારંગી-પીળા ફોલ્લીઓ સુધી વિસ્તરે છે જે રોગને ઓળખવા માટે સરળ બનાવે છે. ફળ પર નારંગી રંગના ફોલ્લીઓ પણ થઈ શકે છે. ભારે ચેપગ્રસ્ત પાંદડાઓ અકાળે ઘટી શકે છે. \n \n સારવાર \n 1. જ્યારે ઉપલબ્ધ હોય ત્યારે પ્રતિરોધક સંવર્ધિત જાતો પસંદ કરો. \n 2. ઝાડ નીચેથી પડી ગયેલા પાંદડાં અને અન્ય કાટમાળને ઊઠીને નિકાલ કરો. \n 3. ચેપગ્રસ્ત જ્યુનિપર્સમાંથી ગાલ દૂર કરો. કેટલાક કિસ્સાઓમાં, જ્યુનિપર છોડ સંપૂર્ણપણે દૂર કરવા જોઈએ. \n 4. જ્યુનિપર યજમાન દ્વારા છોડવામાં આવતા બીજકણથી વૃક્ષોનું રક્ષણ કરવા માટે, કળીઓ તોડવાથી શરૂ કરીને, દર અઠવાડિયે સફરજન પર ઉપયોગ માટે લેબલ થયેલ નિવારક, રોગ સામે લડતા ફૂગનાશકો લાગુ કરો. આ દર વર્ષે માત્ર એક જ વાર થાય છે, તેથી આ વસંતના પ્રસાર પછી વધારાની અરજીઓ જરૂરી નથી. \n 5. જ્યુનિપર પર, ઓગસ્ટના અંત અને ઓક્ટોબરના અંતની વચ્ચે ઓછામાં ઓછા ચાર વખત તાંબાના દ્રાવણ (0.5 થી 2.0 ઔંસ/ગેલન પાણી) સાથે છોડનો છંટકાવ કરીને રસ્ટને નિયંત્રિત કરી શકાય છે. સેરેનેડ ગાર્ડન સાથે મોટાભાગના ફૂગના અને બેક્ટેરિયાના રોગોની સુરક્ષિત રીતે સારવાર કરો. આ બ્રોડ સ્પેક્ટ્રમ બાયો-ફંગિસાઇડ બેસિલસ સબટિલિસના પેટન્ટ સ્ટ્રેનનો ઉપયોગ કરે છે જે કાર્બનિક ઉપયોગ માટે નોંધાયેલ છે. સૌથી સારી વાત એ છે કે, SERENADE મધમાખીઓ અને ફાયદાકારક જંતુઓ માટે સંપૂર્ણપણે બિન-ઝેરી છે. સલ્ફર અને પાયરેથ્રિન ધરાવતો, બોનાઇડ® ઓર્કાર્ડ સ્પ્રે જંતુના હુમલાઓ અને ફૂગની સમસ્યાઓ માટે સલામત, એક-હિટ કોન્સન્ટ્રેટ છે. શ્રેષ્ઠ પરિણામો માટે, મોસમની શરૂઆતમાં રક્ષણાત્મક સ્પ્રે (2.5 ઔંસ/ગેલન) તરીકે લાગુ કરો. જો રોગ, જંતુઓ અથવા ભીનું હવામાન હોય, તો એક ગેલન પાણીમાં 5 ઔંસ મિક્સ કરો. છોડના તમામ ભાગોમાં, ખાસ કરીને નવી કળીઓનો સારી રીતે છંટકાવ કરો. તમારા વિસ્તારમાં અન્ય સંભવિત ઉકેલો માટે તમારી સ્થાનિક કૃષિ વિસ્તરણ કચેરીનો સંપર્ક કરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "એન્થ્રાકનોઝ. તે કોલેટોટ્રિચમ જાતિમાં ફૂગને કારણે થાય છે, જે છોડના પેથોજેન્સનો એક સામાન્ય સમૂહ છે જે છોડની ઘણી પ્રજાતિઓ પરના રોગો માટે જવાબદાર છે. ચેપગ્રસ્ત છોડ દાંડી, પાંદડાં અથવા ફળ પર ઘેરા, પાણીમાં પલાળેલા જખમ વિકસાવે છે. આ જખમોના કેન્દ્રો ઘણીવાર ગુલાબી, જીલેટિનસ બીજકણથી ઢંકાયેલા હોય છે, ખાસ કરીને ભેજવાળા, ગરમ હવામાન દરમિયાન. એન્થ્રાકનોઝ માત્ર થોડા દિવસોમાં સુંદર પાકને સડી ગયેલા કચરામાં ફેરવી શકે છે. \n \n ફંગલ રોગ બીજ, માટી અને બગીચાના કાટમાળમાં અને તેના પર ઓવરવિન્ટર કરે છે. ઠંડુ ભીનું હવામાન તેના વિકાસને પ્રોત્સાહન આપે છે, અને બીજકણની સતત વૃદ્ધિ માટે મહત્તમ તાપમાન 75-85 °F ની વચ્ચે હોય છે. ફૂગના વિકાસ અને અંકુરણ માટે તેમજ છોડના ચેપ માટે ભેજ જરૂરી છે. તે પવન, વરસાદ, જંતુઓ અને બગીચાના સાધનો દ્વારા ફેલાય છે. \n \n સારવાર \n 1. શક્ય હોય ત્યારે પ્રતિકારક છોડની જાતો પસંદ કરો અને પશ્ચિમી ઉગાડવામાં આવતા બીજનો ઉપયોગ કરો જે રોગના સંપર્કમાં આવ્યા નથી. \n 2. જો આ ફૂગની સમસ્યા સામાન્ય હોય, તો તમારા પોતાના બીજને વાવેતરથી ન બચાવો. \n 3. રોગ ફેલાતો ટાળવા માટે, જ્યારે છોડ ભીના હોય ત્યારે બગીચાઓથી દૂર રહો અને ઉપયોગ કર્યા પછી બગીચાના તમામ સાધનો (એક ભાગ બ્લીચથી 4 ભાગ પાણી) ને જંતુમુક્ત કરવાની ખાતરી કરો. ચેપગ્રસ્ત પાંદડાં, ફળો અથવા દાંડીનું ખાતર ન બનાવો અને પાનખરમાં, લણણી પછી, બગીચાના વિસ્તારોને સારી રીતે સાફ કરો, જેથી શિયાળામાં ફૂગના બીજકણોનું પ્રમાણ ઘટી શકે. \n 5. સેરેનેડ ગાર્ડન સાથે મોટાભાગના ફૂગના અને બેક્ટેરિયાના રોગોની સુરક્ષિત રીતે સારવાર કરો. આ બ્રોડ સ્પેક્ટ્રમ બાયો-ફંગિસાઇડ બેસિલસ સબટિલિસના પેટન્ટ સ્ટ્રેનનો ઉપયોગ કરે છે જે કાર્બનિક ઉપયોગ માટે નોંધાયેલ છે. સૌથી સારી વાત એ છે કે, SERENADE મધમાખીઓ અને ફાયદાકારક જંતુઓ માટે સંપૂર્ણપણે બિન-ઝેરી છે. પ્રવાહી તાંબાના સ્પ્રે અને સલ્ફર પાઉડર સાપ્તાહિક લાગુ કરવા જોઈએ, જ્યારે વસંતઋતુના પ્રારંભમાં પર્ણસમૂહ વિકસાવવાનું શરૂ થાય છે અને સમગ્ર વૃદ્ધિની મોસમ દરમિયાન ચાલુ રહે છે. દિવસની શરૂઆતમાં છંટકાવ કરો અને ગરમ હવામાન દરમિયાન ઉપયોગ કરવાનું ટાળો. વાવેતર કરતા પહેલા બીજની સારવાર પણ કરી શકાય છે. \n 7. લીમડાના તેલનો છંટકાવ એ એક કાર્બનિક, બહુહેતુક ફૂગનાશક/જંતુનાશક/શમનકારી છે જે ઇંડા, લાર્વા અને જંતુઓના પુખ્ત તબક્કાઓને મારી નાખે છે તેમજ છોડ પર ફૂગના હુમલાને અટકાવે છે. નિવારક પગલા તરીકે દર 7-14 દિવસે અથવા હાલની સમસ્યાઓ દૂર ન થાય ત્યાં સુધી 7-દિવસના સમયપત્રક પર, વસંત ઉભરવાના પ્રથમ સંકેત પર વહેલી તકે લાગુ કરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "તે બેક્ટેરિયલ કેન્સર છે, જે ચેરી અને પ્લમ પર સૌથી સામાન્ય છે, પરંતુ જરદાળુ, પીચ અને અન્ય ઘણા પ્રકારના પથ્થરના ફળોને પણ અસર કરી શકે છે. જો થડ અથવા ડાળીઓ પર ડૂબી ગયેલા, પાણીમાં પલાળેલા અથવા \"ચીકણા\" જખમ બને તો આ છોડના રોગની શંકા કરો. જ્યારે વસંતઋતુમાં વૃક્ષો સક્રિય વૃદ્ધિ શરૂ કરે છે, ત્યારે આ ઘાયલ વિસ્તારોમાંથી ખાટા સુગંધિત રસ નીકળી શકે છે. કેન્સર આસપાસની તંદુરસ્ત છાલ કરતાં ઘાટા થઈ જાય છે, અને અંતર્ગત પેશીઓ લાલ-કથ્થઈથી કાળા અને ભેજવાળી હોય છે. \n \n નોંધઃ જો કેન્કર્સ શાખાઓ અથવા થડને વળાંક આપે છે, તો રોગગ્રસ્ત વિસ્તારની ઉપરના પાંદડા વળાંક લે છે અને પીળા થઈ જાય છે. વૃદ્ધિ અટકી જાય છે અને શાખા અથવા વૃક્ષ આખરે મરી જશે. \n \n બેક્ટેરિયમ કે જે કેન્સરનું કારણ બને છે, સ્યુડોમોનાસ સિરિંજી, ઘાયલ છાલ અથવા હાલના ઘા દ્વારા વૃક્ષોમાં પ્રવેશ કરે છે, જેમ કે ડાળી અથવા શાખા પર કાપણી. વસંતઋતુમાં ફ્રોસ્ટ નુકસાન વધારાના ચેપને પ્રોત્સાહન આપી શકે છે. બેક્ટેરિયલ કેન્સર ચેપ પાનખર, શિયાળો અને વસંતઋતુના પ્રારંભમાં (ઠંડા, ભીના હવામાન દરમિયાન) થાય છે અને વરસાદ અથવા પાણી અને કાપણીના સાધનો દ્વારા ફેલાય છે. સક્રિય કેન્સરમાં, ચેપગ્રસ્ત કળીઓમાં અને ચેપગ્રસ્ત અને તંદુરસ્ત વૃક્ષો અને નીંદણની સપાટી પર બેક્ટેરિયા વધુ શિયાળો ધરાવે છે. \n \n સારવાર \n 1. જ્યારે ઘા ઝડપથી મટાડે ત્યારે ખીલતી વખતે ફૂલોના વૃક્ષોની કાપણી કરો. \n 2. ચેપગ્રસ્ત વિસ્તારોની નીચે સારી રીતે સુકાઈ ગયેલા અથવા મૃત અંગો દૂર કરો. \n 3. જ્યારે બેક્ટેરિયા સૌથી વધુ સક્રિય હોય ત્યારે વસંત અને પાનખરની શરૂઆતમાં કાપણી કરવાનું ટાળો. \n 4. કાપણીના તમામ કાપણોને તરત જ ટેંગલફૂટ વૃક્ષ કાપણી સીલરથી સારવાર કરો અને દરેક કાપણી પછી તમારા કાપણીના સાધનો-એક ભાગનું બ્લીચ અને 4 ભાગનું પાણી-ને જંતુમુક્ત કરવાની ખાતરી કરો. જો વૃક્ષોના પાયાની આસપાસ સ્ટ્રિંગ ટ્રીમરનો ઉપયોગ કરવામાં આવે તો ચેપને રોકવા માટે શ્વાસ લેવા યોગ્ય વૃક્ષ આવરણથી છાલને નુકસાન પહોંચાડવાનું ટાળો. \n 6. છાલને નુકસાન પહોંચાડતા તાપમાનના વધઘટને ઘટાડવા માટે પાણી સાથે પાતળા સફેદ લેટેક્સ રંગથી છાલને બ્રશ કરો. \n 7. સંશોધનોએ દર્શાવ્યું છે કે તાંબાના ફૂગનાશક આ પથ્થરના ફળની સમસ્યા સામે થોડી સફળતા ધરાવે છે. જોકે, પરિણામો અસંગત છે. અમે તેને કુલ વ્યવસ્થાપન કાર્યક્રમના એક ભાગ તરીકે વાપરવાની ભલામણ કરીએ છીએ. \n 8. હવાનું પરિભ્રમણ સુધારવા અને થડ અને તાજને સૂકો રાખવા માટે નાના વૃક્ષોના પાયાની આસપાસથી નીંદણ અને ઘાસ દૂર કરો. \n 9. ઓર્ગેનોસાઇડ® પ્લાન્ટ ડોક્ટર એ પૃથ્વીને અનુકૂળ પ્રણાલીગત ફૂગનાશક છે જે સુશોભન, જડિયાંવાળી જમીન, ફળ અને વધુ પર મોટી સંખ્યામાં રોગોનો સામનો કરવા માટે સમગ્ર પ્લાન્ટમાં કામ કરે છે. ગેલન દીઠ 1/3 થી 3/4 ઔંસ પાણી મિક્સ કરો અને કાપણીના જખમો અને આસપાસના વિસ્તારો પર રંગ અથવા સ્પ્રે કરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "તે બ્લોસમ એન્ડ રોટ છે. ટામેટાં, મરી, કાકડી અને રીંગણનો ગંભીર વિકાર, ફૂલના અંતનો સડો એ પર્યાવરણીય સમસ્યા છે (ફૂગ નહીં) જે મોટાભાગે અસમાન પાણી અથવા કેલ્શિયમની ઉણપને કારણે થાય છે. (આ સંબંધિત હોઈ શકે છે; અસમાન પાણી કેલ્શિયમના ગ્રહણમાં દખલ કરી શકે છે.) આ સામાન્ય બગીચો \"રોગ\" ઘણીવાર વધુ પડતા ખાતર, ઉચ્ચ મીઠાનું સ્તર અથવા દુષ્કાળથી ઝડપી વૃદ્ધિ દ્વારા લાવવામાં આવે છે. \n \n બ્લોસમ એન્ડ રોટના લક્ષણો લીલા અને પાકેલા બંને ફળો પર જોવા મળે છે અને તે પાણીથી ભીના વિસ્તારો દ્વારા ઓળખવામાં આવે છે જે ધીમે ધીમે પહોળા થાય છે અને તળિયેના છેડે ધૂંધળા, કથ્થઈ, ચામડાના ફોલ્લીઓમાં પરિપક્વ થાય છે. ઘણા કિસ્સાઓમાં, ગૌણ પેથોજેન્સ, જે કાળી, અસ્પષ્ટ જેવી વૃદ્ધિ તરીકે દેખાય છે, અસરગ્રસ્ત વિસ્તાર પર હુમલો કરે છે અને ફળને સંપૂર્ણ સડી જવાનું કારણ બને છે. ફૂલના અંતનો સડો એક છોડથી બીજા છોડમાં ફેલાતો નથી. \n \n સારવાર \n આ છોડની સમસ્યા શારીરિક પ્રકૃતિની હોવાથી, ફૂગનાશક દવાઓ નિયંત્રણના પગલા તરીકે કામ કરશે નહીં. અમે નીચેની ભલામણ કરીએ છીએઃ \n \n 1. જ્યારે પણ શક્ય હોય ત્યારે પ્રતિકારક શાકભાજીની જાતો પસંદ કરો. જમીનને સમાન રીતે ભેજવાળી રાખીને અને કેલ્પ અથવા કેલ્શિયમ દ્રાવણ સાથે છોડના પાંદડાઓનો છંટકાવ કરીને સમસ્યાઓને અટકાવો. \n 3. વાવેતરના સમયે જમીનમાં કેલ્શિયમ-હાડકાનું ભોજન, છીપનું કવચ અથવા જિપ્સમ-નું ઉચ્ચ સ્તર ઉમેરવું સામાન્ય રીતે આ સમસ્યાને વિકસતી અટકાવે છે. \n 4. લીલા ઘાસ (સ્ટ્રો, ખાતર, ઘાસ) નું એક સ્તર જુલાઈ અને ઓગસ્ટના ગરમ, સૂકા દિવસો દરમિયાન જમીનમાં ભેજનું સંરક્ષણ કરવામાં મદદ કરશે. પ્રવાહી કેલ્શિયમ 5 ટકા (1-2 ટી. બી. એસ. પી./ગેલન પાણી) ના પાંદડાવાળા ઉપયોગોનો ઉપયોગ આ આવશ્યક પોષક તત્ત્વોની ખામીઓને સુધારવા અથવા અટકાવવા માટે કરી શકાય છે. શ્રેષ્ઠ પરિણામો માટે, સંલગ્નતા વધારવા માટે કુદરતી સર્ફેક્ટન્ટ સાથે જોડો અને પાંદડાઓને રન-ઓફના બિંદુ સુધી સ્પ્રે કરો. \n 6. મલ્ચિંગ પ્લાન્ટ ભેજ જાળવવામાં મદદ કરશે અને વધુ એકસમાન પાણી પુરવઠો પૂરો પાડશે. \n 7. ઉચ્ચ નાઇટ્રોજન ખાતરોનો ઉપયોગ કરવાનું ટાળો જે વનસ્પતિ વૃદ્ધિને વેગ આપે છે અને છોડ દ્વારા કેલ્શિયમનું ગ્રહણ ઘટાડે છે. પ્લેનેટ નેચરલ ખાતે સંતુલિત કાર્બનિક ખાતરોની વિશાળ પસંદગી ઉપલબ્ધ છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "તે બ્રાઉન રોટ (મોનિલીનિયા ફ્રુક્ટિકોલા) છે, જે બદામ, જરદાળુ, ચેરી, પીચ અને પ્લમના ફૂલો અને ફળોને અસર કરતો સૌથી સામાન્ય ફૂગના રોગ છે. તે મમીયુક્ત ફળો (વૃક્ષ પર અને જમીન પર) અને ચેપગ્રસ્ત ડાળીઓમાં વધુ પડતો શિયાળો આપે છે. \n \n આ રોગ સૌપ્રથમ વસંતઋતુમાં ફૂલોને ચેપ લગાડે છે અને નાની શાખાઓમાં પાછો વધે છે જે દાંડીને મારી શકે તેવા કેન્સરનું કારણ બને છે. જ્યારે રોગ ગંભીર હોય ત્યારે મોટી સંખ્યામાં ફૂલ ધરાવતા દાંડા મરી જાય છે. મૃત ફૂલો ઘણીવાર ઉનાળામાં જોડાયેલા રહે છે. વિકસતા અથવા પરિપક્વ ફળો ગોળાકાર અથવા ભૂરા રંગના ફોલ્લીઓ દર્શાવે છે જે સપાટી પર ઝડપથી ફેલાય છે અને સડી ગયેલા વિસ્તારો પર હળવા ભૂખરા રંગના બીજકણ ઉત્પન્ન થાય છે. સડી ગયેલી પેશીઓ પ્રમાણમાં મજબૂત અને સૂકી રહે છે. \n \n બ્રાઉન રોટ બીજકણ પવન, વરસાદ અને જંતુઓ દ્વારા ખુલ્લા અથવા ન ખોલેલા ફૂલો અને નાના અંકુર સુધી લઈ જવામાં આવે છે. જો પાણી હોય-ક્યાં તો વરસાદ, ઝાકળ અથવા પાણીથી-ફૂલની સપાટી પર બીજકણ અંકુરિત થઈ શકે છે અને છોડમાં પ્રવેશ કરી શકે છે. રોગનો વિકાસ તાપમાનની વિશાળ શ્રેણીમાં થાય છે અને પાંદડીઓ પડે ત્યાં સુધી કળીઓ ખુલે ત્યારથી ફૂલોને ચેપ લાગી શકે છે. અનુકૂળ પરિસ્થિતિઓમાં, ભુરો સડો ઝડપથી ફેલાય છે અને વૃક્ષ પરનો આખો પાક સંપૂર્ણપણે નાશ પામી શકે છે. \n \n સારવાર \n 1. જ્યારે પણ શક્ય હોય ત્યારે પ્રતિકારક જાતો પસંદ કરો. ચેપગ્રસ્ત છોડના ભાગોને તાત્કાલિક દૂર કરવા અને નાશ કરવાથી વ્યક્તિગત વૃક્ષો અને નાના બગીચાઓમાં રોગના જીવન ચક્રને તોડવામાં મદદ મળે છે, અને ભૂરા રંગના સડાને નુકસાનકારક સ્તરથી નીચે રાખવા માટે પૂરતું હોઈ શકે છે. વૃક્ષો નીચેથી પડી ગયેલા કોઈપણ ફળ અથવા કાટમાળને એકત્ર કરીને દૂર કરવો મહત્વપૂર્ણ છે. \n 4. હવાના પરિભ્રમણને સુધારવા માટે ક્યારેક વૃક્ષોની કાપણી કરો. ઉપરાંત, ફૂલો, પર્ણસમૂહ અને ફળોને ભીના ન થાય તે માટે નીચેથી પાણી પીવું. \n 5. તમામ કાપ અને જખમોને સીલ કરવા અને જંતુઓ અને રોગના સજીવો સામે રક્ષણ આપવા માટે ટેંગલફૂટ પ્રૂનિંગ સીલરનો ઉપયોગ કરો. \n 6. ઉપયોગમાં લેવા માટે તૈયાર તાંબાના ફૂગનાશક દવાઓ અથવા સલ્ફર પાવડર ચેપગ્રસ્ત વૃક્ષો પર દર અઠવાડિયે લાગુ કરવા જોઈએ, જ્યારે ફૂલો હમણાં જ ખુલવાનું શરૂ કરે છે અને સમગ્ર વૃદ્ધિની મોસમ દરમિયાન ચાલુ રહે છે. જો શક્ય હોય તો, સમયનો ઉપયોગ જેથી 12 કલાકનું શુષ્ક હવામાન લાગુ થાય. \n 7. ઓર્ગેનોસાઇડ® પ્લાન્ટ ડોક્ટર એ પૃથ્વીને અનુકૂળ પ્રણાલીગત ફૂગનાશક છે જે સુશોભન, જડિયાંવાળી જમીન, ફળ અને વધુ પર મોટી સંખ્યામાં રોગોનો સામનો કરવા માટે સમગ્ર પ્લાન્ટમાં કામ કરે છે. આ વિનાશક પથ્થરના ફળોની સમસ્યાનો સામનો કરવા માટે પાંદડાના સ્પ્રે (1 ચમચી/ગેલન પાણી) તરીકે લાગુ કરો. \n 8. સલ્ફર અને પાયરેથ્રિન ધરાવતો, બોનાઇડ® ઓર્કાર્ડ સ્પ્રે જંતુના હુમલાઓ અને ફૂગની સમસ્યાઓ માટે સલામત, એક-હિટ કોન્સન્ટ્રેટ છે. શ્રેષ્ઠ પરિણામો માટે, મોસમની શરૂઆતમાં રક્ષણાત્મક સ્પ્રે (2.5 ઔંસ/ગેલન) તરીકે લાગુ કરો. જો રોગ, જંતુઓ અથવા ભીનું હવામાન હોય, તો એક ગેલન પાણીમાં 5 ઔંસ મિક્સ કરો. છોડના તમામ ભાગો, ખાસ કરીને નવા અંકુરોનો સંપૂર્ણ છંટકાવ કરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "તે ક્લબ રુટ છે. મોટાભાગના બ્રાસિકા પાકો (કોબીજ, બ્રોકોલી, કોબીજ વગેરે) ને અસર કરે છે.), ક્લબ રૂટ એ ઉત્તર અમેરિકાના ઘરના બગીચાઓમાં છોડનો ગંભીર રોગ છે. તે માટીમાં જન્મેલી ફૂગ પ્લાઝમોડિઓફોરા બ્રાસ્સિકાને કારણે થાય છે જે સંવેદનશીલ છોડના મૂળના વાળ દ્વારા ચેપ લગાડે છે. રોગગ્રસ્ત મૂળમાં સોજો આવે છે, ખોટો આકાર ધારણ કરે છે અને વિકૃત થઈ જાય છે (ભેગા થાય છે) જે ઘણીવાર ફાટી જાય છે અને સડી જાય છે. પરિણામે, છોડ પાણી અને પોષક તત્ત્વોને યોગ્ય રીતે શોષવામાં મુશ્કેલી અનુભવે છે. \n \n છોડ ઘણીવાર નબળી રીતે વૃદ્ધિ પામે છે અને દિવસની ગરમીમાં મરી જાય છે; છોડ ઘણીવાર ઠંડી રાત દરમિયાન પુનર્જીવિત થાય છે. બાહ્ય પાંદડા પીળા, જાંબલી અથવા ભૂરા રંગના થઈ શકે છે. ક્લબ રૂટ ઉપજમાં ઘટાડો કરશે અને પાકની સંપૂર્ણ નિષ્ફળતાનું કારણ બની શકે છે. \n \n ફૂગના બીજકણ પવન, પાણી અને બગીચાના સાધનો દ્વારા ફેલાઈ શકે છે. રોગનો વિકાસ પરિસ્થિતિઓની વિશાળ શ્રેણીમાં થઈ શકે છે, પરંતુ અતિશય ભેજ, નીચું માટીનું પીએચ અને 64 અને 77 ડિગ્રી ફેરનહીટ વચ્ચેના જમીનના તાપમાન દ્વારા તેની તરફેણ કરવામાં આવે છે. બીજકણ જમીનમાં 10 વર્ષ સુધી ટકી શકે છે. \n \n સારવાર \n 1. ફૂગનાશકો આ જમીનમાં રહેતા સુક્ષ્મસજીવોની સારવાર નહીં કરે. \n 2. શક્ય હોય ત્યારે પ્રતિકારક સંવર્ધિત જાતો પસંદ કરો. \n 3. બગીચાને સ્વચ્છ રાખીને અને પાકને ફેરવીને આ રોગની ઘટનાને અટકાવવાનો પ્રયાસ કરો. \n 4. ધ્યાનમાં રાખો કે રોગના બીજકણ જમીનમાં 20 વર્ષ સુધી ટકી શકે છે. જો ક્લબ રૂટ હાજર હોય તો તમે માટીને સૌરકરણ કરવા માગી શકો છો. * \n 5. સંવેદનશીલ નીંદણને નિયંત્રિત કરો-સરસવ, મૂળો, ભરવાડનો પર્સ-જે રોગના સંભવિત નિર્માણને ઘટાડવા માટે ચેપ લાગી શકે છે. \n 6. ચેપગ્રસ્ત છોડ કાળજીપૂર્વક દૂર કરો અને ઉપયોગ કર્યા પછી બગીચાના સાધનો (એક ભાગ બ્લીચ 4 ભાગ પાણી) ને જંતુમુક્ત કરો. પાનખરમાં તમારા બગીચામાં છીપ શેલ અથવા ડોલોમાઇટ ચૂનો ભેળવીને તમારી જમીનનું pH વધારીને વધુ આલ્કલાઇન 7.2 કરો. પી. એચ. ને વારંવાર ચકાસવા માટે સરળ અને પરવડે તેવી માટી પરીક્ષણ કિટ ઉપલબ્ધ છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "તે મકાઈનો કચરો છે. વારંવાર આંગણાના બગીચાઓ અને નાના ખેતરોમાં જોવા મળે છે, મકાઈની સ્મટ ફૂગ ઉસ્ટિલાગો ઝીને કારણે થાય છે અને તે દાંડીઓ, પાંદડાં, ટસેલ્સ અથવા કાનમાં દેખાઈ શકે છે. લક્ષણો સામાન્ય રીતે ત્યારે જોવા મળે છે જ્યારે કાન મશરૂમ જેવી ગાંઠો અથવા ગળામાં ગાંઠ પેદા કરે છે. આ \"સોજો\" નાની, સફેદ-ભૂખરા રંગની અનિયમિતતાઓ તરીકે શરૂ થાય છે જે બીજકણથી ભરાય છે ત્યારે વિસ્તરે છે અને કાળી થઈ જાય છે. કાનના ગળાનો વ્યાસ 4 થી 5 ઇંચ સુધી વધી શકે છે અને જ્યારે તે ફાટી જાય છે ત્યારે હજારો બીજકણ છોડે છે. આ ફૂગના બીજકણ નવા છોડને ચેપ લગાડવા માટે પવન દ્વારા નોંધપાત્ર અંતર સુધી ફૂંકાય છે. પાંદડા પરના ગોળ નાના રહે છે અને છેવટે સખત અને સૂકા થઈ જાય છે. \n \n બગીચાના કાટમાળ પર અને જમીનમાં મકાઈનો કચરો ઓવરવિન્ટર કરે છે. તે પવન, વરસાદ અને સિંચાઈ દ્વારા વહન કરવામાં આવે છે અને ગરમ, શુષ્ક હવામાનમાં શ્રેષ્ઠ રીતે કામ કરે છે. બીજકણ 5 થી 7 વર્ષ સુધી વ્યવહારુ રહી શકે છે. ખેતી અને ફૂંકાતી માટીના ઘર્ષણ સહિત વિવિધ ઇજાઓના ઘા, ફૂગને છોડમાં પ્રવેશવા માટે બિંદુઓ પૂરા પાડે છે. \n \n સારવાર \n 1. જ્યારે ઉપલબ્ધ હોય ત્યારે શ્રેષ્ઠ પ્રતિકારક જાતો પસંદ કરો, જેમ કે સિલ્વર કિંગ, ફેન્ટાસિયા, બ્રિલિયન્ટ અને સેનેકા સેન્સેશન. બેકયાર્ડ બગીચાઓમાં, શ્યામ ફૂગના બીજકણ છોડવામાં આવે તે પહેલાં ગલ્સ એકત્રિત કરીને તેનો નાશ કરવાનું સૂચન કરવામાં આવે છે. આ ઉપલબ્ધ ફૂગના બીજકણની સંખ્યાને મર્યાદિત કરશે અને રોગ-ચક્રને તોડવામાં મદદ કરશે. \n 3. ખેતી દરમિયાન મૂળ, દાંડીઓ અને પાંદડાઓને ઈજા ન થાય તે રીતે ચેપનાં બિંદુઓ ઘટાડવાં. \n 4. મોન્ટેરી® ગાર્ડન ઇન્સેક્ટ સ્પ્રે અથવા અન્ય કાર્બનિક જંતુનાશકો સાથે મકાઈના બોરર્સ જેવા જંતુઓથી થતા નુકસાનને અટકાવો. \n 5. ફૂગનાશકો અસરકારક નિયંત્રણ વિકલ્પ નથી કારણ કે આ રોગ એટલો વ્યાપક છે અને જમીનમાં વર્ષો સુધી ટકી શકે છે. \n 6. ઉચ્ચ નાઇટ્રોજન ખાતરો રોગની તીવ્રતામાં વધારો કરી શકે છે-શાકભાજીના બગીચામાં સંતુલિત કાર્બનિક ખાતરનો ઉપયોગ કરો. લણણી પછી બગીચાના તમામ કાટમાળને દૂર કરો અને નાશ કરો અને પછીના વર્ષે પાક ફેરવવાની પ્રેક્ટિસ કરો. \n 8. ચેપગ્રસ્ત છોડના ભાગોને થેલીમાં ભરી દો અથવા બાળી નાખો-ખાતર ન બનાવો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "તે ક્રાઉન પિત્ત છે, જે જમીનથી જન્મેલા બેક્ટેરિયમ એગ્રોબેક્ટેરિયમ ટ્યૂમેફેસિયન્સને કારણે થતો એક સામાન્ય વનસ્પતિ રોગ છે. તે સમગ્ર વિશ્વમાં જોવા મળે છે અને દ્રાક્ષ, રાસબેરિઝ, બ્લેકબેરી અને ગુલાબ સહિતના લાકડાના ઝાડીઓ અને જડીબુટ્ટીઓ પર જોવા મળે છે. \n \n ક્રાઉન પિત્તના લક્ષણોમાં ગોળ, મસા જેવા વિકાસનો સમાવેશ થાય છે-2 ઇંચ કે તેથી વધુ વ્યાસ-જે જમીનની રેખા પર અથવા તેની ઉપર, અથવા નીચલી શાખાઓ અને દાંડા પર દેખાય છે. ઘણા ગલ્સ ધરાવતા છોડ પાણી અને પોષક તત્ત્વોને થડની ઉપર ખસેડવા માટે અસમર્થ હોઈ શકે છે અને નબળા, કુંઠિત અને બિનઉત્પાદક બની શકે છે. પિત્ત પેશીઓ વિકસાવીને યુવાન છોડનો નાશ કરી શકાય છે. \n \n ક્રાઉન પિત્ત માટે જવાબદાર બેક્ટેરિયા જમીનમાં ઘણા વર્ષો સુધી ટકી શકે છે અને જ્યારે ગલ્સ ભેજથી સંતૃપ્ત થાય છે અથવા જૂની ગલ્સ વિઘટિત થાય છે ત્યારે મુક્ત થાય છે. સંવેદનશીલ છોડ તાજા જખમો અથવા ઘર્ષણ દ્વારા ચેપગ્રસ્ત થાય છે, જેમાંથી ઘણા કાપણી, સ્થિર ઈજા, માટીના જંતુઓ, ખેતી અને અન્ય પરિબળોનું પરિણામ છે જે છોડને નુકસાન પહોંચાડી શકે છે. નર્સરી સ્ટોકને ઘણીવાર કલમ અને ઉભરતા ડાઘ દ્વારા ચેપ લાગે છે. \n \n સારવાર \n 1. શક્ય હોય ત્યારે પ્રતિરોધક સંવર્ધિત જાતો પસંદ કરો અને પ્રતિષ્ઠિત નર્સરીમાંથી છોડ ખરીદો. \n 2. એવા છોડ ન ખરીદો કે જે સોજો અથવા ગળફડના સંકેતો દર્શાવે છે. \n 3. સંવેદનશીલ છોડની સંભાળ લેતી વખતે, જમીનના સંપર્કમાં આવી શકે તેવા ઇજા અથવા કાપણીના જખમો ટાળો. \n 4. સ્ટ્રિંગ ટ્રીમરના નુકસાન સામે રક્ષણ આપવા અને તમારા બગીચાના સાધનોને સ્વચ્છ રાખવા માટે ટ્રી રેપનો ઉપયોગ કરો. \n 5. કુદરતી બર્લેપ સાથે શિયાળાનું રક્ષણ પૂરું પાડો જેથી છાલ તૂટી ન જાય. \n 6. ઘણા કિસ્સાઓમાં, હાલની છરીઓને તીક્ષ્ણ કાપણી છરીથી દૂર કરી શકાય છે. ચેપગ્રસ્ત છોડની પેશીઓનો નાશ કરો અને ઘાને કાપણી સીલરથી સારવાર કરો. જો છોડ પુનઃપ્રાપ્ત ન થાય, તો તેને દૂર કરો અને નાશ કરો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "તે ગ્રે મોલ્ડ (બોટ્રિટિસ સિનેરિયા) છે. છોડની વિશાળ શ્રેણી પર જોવા મળે છે (ઉલ્લેખ કરવા માટે ઘણા બધા), ગ્રે મોલ્ડ એક ફૂગના રોગ છે જે બગીચાઓમાં ઝડપથી પ્રવાસ કરે છે, ખાસ કરીને ભીના, ઠંડાથી હળવા હવામાન દરમિયાન. રોગના લક્ષણો પાંદડા, દાંડી, ફૂલો અને ઉપજ પર ભૂખરા રંગના નરમ, નરમ ફોલ્લીઓ તરીકે દેખાય છે. ખાસ કરીને જો ભેજ વધારે હોય તો સ્થળો ગ્રે ફૂગના બીજકણના આવરણથી ઢંકાયેલા થઈ શકે છે. ફળો અથવા છોડ સુકાઈ જાય છે અને સડી જાય છે અને ઘણીવાર કાળા, પથ્થર જેવા સ્ક્લેરોટિયા-કઠણ ફૂગના તંતુઓનો સઘન સમૂહ-સડી ગયેલા ભાગો હેઠળ વિકસે છે. \n \n ગ્રે મોલ્ડ ઘણીવાર જમીનની સપાટીની નજીક અથવા છોડના છત્રના સૌથી ગીચ વિસ્તારોમાં જોવા મળે છે. તે પહેલા સુકાઈ ગયેલા ફૂલો પર વિકસે છે, પછી ઝડપથી છોડના અન્ય ભાગોમાં ફેલાય છે. આ રોગ સંગ્રહિત વિસ્તારોમાં પણ થઈ શકે છે જેના કારણે લણણી કરાયેલા ફળો અને શાકભાજીઓ સડી શકે છે. \n \n બોટ્રીટીસ ફૂગ છોડ પર, જમીન પર અથવા જમીન પર, અને સ્ક્લેરોટિયા તરીકે ઓવરવિન્ટર કરે છે. જ્યારે પરિસ્થિતિઓ શ્રેષ્ઠ હોય ત્યારે બીજકણ વિકસે છે, અને પવન અથવા પાણીના છાંટા દ્વારા ફૂલો અથવા નાના પાંદડાઓ પર ખસેડવામાં આવે છે, જ્યાં તેઓ અંકુરિત થાય છે અને છોડમાં પ્રવેશ કરે છે. બીજકણને અંકુરિત થવા માટે ઠંડા તાપમાન (45-60 F.) અને ઉચ્ચ ભેજ (93 ટકા અને તેથી વધુ) ની જરૂર પડે છે. અંકુરિત બીજક ભાગ્યે જ લીલા, તંદુરસ્ત પેશીઓમાં સીધા પ્રવેશ કરે છે, પરંતુ વધતા જતા છોડ પરના જખમો દ્વારા પ્રવેશ કરી શકે છે. કાપણી ખાસ કરીને ચેપ માટે સંવેદનશીલ હોય છે. \n \n સારવાર \n 1. છોડ વચ્ચે હવાના પરિભ્રમણને સુધારવા માટે છોડની કાપણી કરો અથવા હિસ્સો બનાવો. દરેક કાપણી પછી તમારા કાપણીના સાધનો (એક ભાગનું બ્લીચ અને 4 ભાગનું પાણી) ને જંતુમુક્ત કરવાની ખાતરી કરો. \n 2. જો ઘરની અંદર વૃદ્ધિ થાય તો હવાના પ્રવાહને સુધારવા માટે નાના ક્લિપ-ઓન પંખનો ઉપયોગ કરો. \n 3. છોડની નીચેની જમીનને સ્વચ્છ રાખો અને પડી ગયેલા કાટમાળને બહાર કાઢો. \n 4. છોડની નીચે સારી માત્રામાં કાર્બનિક ખાતર અથવા લીલા ઘાસ ઉમેરો. મલ્ચ ફૂગના બીજકણને ફૂલો અને પાંદડાઓ પર ફરીથી છાંટા પાડતા અટકાવશે. \n 5. દિવસ દરમિયાન છોડને સૂકવવાનો સમય આપવા માટે વહેલી સવારના કલાકોમાં પાણી આપો અથવા ભીની નળીનો ઉપયોગ કરો. \n 6. ચેપગ્રસ્ત છોડના પાંદડા અથવા દાંડીનું ખાતર ન બનાવો, અને શિયાળામાં ફૂગના બીજકણોનું પ્રમાણ ઘટાડવા માટે પાનખરમાં બગીચાના વિસ્તારોને સારી રીતે સાફ કરો. \n 7. કોપર-સોપ ફૂગનાશક દવાઓ રોગના બીજકણથી છોડનું રક્ષણ કરવામાં મદદ કરશે. ફૂલોની શરૂઆતમાં લાગુ કરો અને લણણી સુધી દર 7-10 દિવસે ચાલુ રાખો. જ્યારે હવામાનની આગાહી ઠંડા, ભીના હવામાનના લાંબા સમયગાળાની આગાહી કરે છે ત્યારે ફૂગનાશક સ્પ્રેની ખાસ ખાતરી આપવામાં આવે છે. \n 8. SERENADE ગાર્ડન સાથે બોટ્રિટિસ બ્લાઇટ સહિત મોટાભાગના ફૂગના રોગોની સુરક્ષિત રીતે સારવાર કરો. આ બ્રોડ સ્પેક્ટ્રમ બાયો-ફંગિસાઇડ બેસિલસ સબટિલિસના પેટન્ટ સ્ટ્રેનનો ઉપયોગ કરે છે જે કાર્બનિક ઉપયોગ માટે નોંધાયેલ છે. સૌથી શ્રેષ્ઠ, SERENADE મધમાખીઓ અને ફાયદાકારક જંતુઓ માટે સંપૂર્ણપણે બિન-ઝેરી છે. \n 9. જૈવિક ઉપયોગ માટે માન્ય જૈવિક ફૂગનાશક માયકોસ્ટોપ રોગનું દમન દર્શાવે છે. સંવેદનશીલ પાંદડાં, ફૂલો અને ફળો પર સીધો છંટકાવ (5 ગ્રામ/50 લિટર પાણી) કરો. દર 2-3 અઠવાડિયે અથવા રોગના દબાણને આધારે જરૂર મુજબ લાગુ કરો. \n 10. ગ્રીન ક્યોર ફૂગનાશકમાં પોટેશિયમ બાયકાર્બોનેટનું પેટન્ટ કરેલું સૂત્ર હોય છે-જે સામાન્ય રીતે ખાદ્ય ઉત્પાદનોમાં વપરાય છે-જે સંપર્ક પર ઘણા છોડના રોગોને મારી નાખે છે અને 2 અઠવાડિયા સુધી શેષ રક્ષણ પૂરું પાડે છે. રોગના પ્રથમ સંકેત પર, 1-2 ટી. એસ. પી./ગેલન પાણી મિક્સ કરો અને છોડની તમામ ખુલ્લી સપાટીઓ પર લાગુ કરો. શ્રેષ્ઠ રક્ષણ માટે, 1-2 અઠવાડિયાના અંતરાલે પુનરાવર્તન કરો જ્યાં સુધી રોગના વિકાસ માટે પરિસ્થિતિઓ અનુકૂળ ન રહે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "આ રોગ શું છે (ટૂંકો પરિચય આપો) અને તેની સારવાર કેવી રીતે કરવી?",
+        "answer": "તે પ્રારંભિક રોગ છે. ટામેટાં અને બટાટાના છોડ પર સામાન્ય, પ્રારંભિક ફૂગ અલ્ટરનેરિયા સોલાની ફૂગને કારણે થાય છે અને સમગ્ર યુનાઇટેડ સ્ટેટ્સમાં જોવા મળે છે. લક્ષણો સૌપ્રથમ નીચલા, જૂના પાંદડાઓ પર કેન્દ્રિત વીંટીઓ સાથે નાના ભૂરા રંગના ફોલ્લીઓ તરીકે દેખાય છે જે \"આખલાની આંખ\" પેટર્ન બનાવે છે. જેમ જેમ રોગ પરિપક્વ થાય છે તેમ તેમ તે પાંદડાની સપાટી પર બહારની તરફ ફેલાય છે, જેના કારણે તે પીળો થઈ જાય છે, સુકાઈ જાય છે અને મરી જાય છે. આખરે દાંડી, ફળ અને છોડનો ઉપરનો ભાગ ચેપગ્રસ્ત થઈ જશે. પાકને ભારે નુકસાન થઈ શકે છે. \n \n પ્રારંભિક રોગચાળો ચેપગ્રસ્ત છોડની પેશીઓ પર ઓવરવિન્ટર કરે છે અને વરસાદ, સિંચાઈ, જંતુઓ અને બગીચાના સાધનોના છાંટા દ્વારા ફેલાય છે. આ રોગ ટામેટાના બીજ અને બટાટાના કંદમાં પણ ફેલાય છે. તેનું નામ હોવા છતાં, પ્રારંભિક રોગચાળો વૃદ્ધિની મોસમ દરમિયાન કોઈપણ સમયે થઈ શકે છે. ઉચ્ચ તાપમાન (80-85 °F.) અને ભીની, ભેજવાળી પરિસ્થિતિઓ તેના ઝડપી ફેલાવાને પ્રોત્સાહન આપે છે. ઘણા કિસ્સાઓમાં, નબળા પોષિત અથવા તણાવગ્રસ્ત છોડ પર હુમલો કરવામાં આવે છે. \n \n સારવાર \n હવાના પરિભ્રમણને સુધારવા અને ફૂગની સમસ્યાઓને ઘટાડવા માટે છોડની કાપણી કરો. \n દરેક કાપણી પછી તમારી કાપણીની કાતર (એક ભાગ બ્લીચથી 4 ભાગ પાણી) ને જંતુમુક્ત કરવાની ખાતરી કરો. \n છોડની નીચેની જમીનને સ્વચ્છ અને બગીચાના કાટમાળથી મુક્ત રાખો. વનસ્પતિ પર બીજકણોનો ફરીથી છંટકાવ ન થાય તે માટે કાર્બનિક ખાતરનું એક સ્તર ઉમેરો. \n પર્ણસમૂહને સૂકો રાખવામાં મદદ કરવા માટે ટપક સિંચાઈ અને સોકર હોઝનો ઉપયોગ કરી શકાય છે. \n શ્રેષ્ઠ નિયંત્રણ માટે, રોગ સામાન્ય રીતે દેખાય તેના બે અઠવાડિયા પહેલા અથવા જ્યારે હવામાનની આગાહીઓ લાંબા સમય સુધી ભીના હવામાનની આગાહી કરે છે ત્યારે તાંબુ આધારિત ફૂગનાશક દવાઓ વહેલી તકે લાગુ કરો. વૈકલ્પિક રીતે, જ્યારે રોગ પ્રથમ દેખાય ત્યારે સારવાર શરૂ કરો અને જ્યાં સુધી જરૂરી હોય ત્યાં સુધી દર 7-10 દિવસે પુનરાવર્તન કરો. \n તાંબુ અને પાયરેથ્રિન ધરાવતું, બોનાઇડ® ગાર્ડન ડસ્ટ એ ઘણા જંતુઓના હુમલાઓ અને ફૂગની સમસ્યાઓ માટે સલામત, એક પગલું નિયંત્રણ છે. શ્રેષ્ઠ પરિણામો માટે, પાતળા એકસમાન આવરણ અથવા ધૂળથી પાંદડાઓની ટોચ અને નીચેની બાજુઓને ઢાંકી દો. પર્ણસમૂહની ગીચતાને આધારે, 10 ઔંસ 625 ચોરસ ફૂટને આવરી લેશે. જરૂરિયાત મુજબ દર 7-10 દિવસે અરજીઓનું પુનરાવર્તન કરો. \n સેરેનેડ ગાર્ડન એક વ્યાપક વર્ણપટ છે, જે ઘણા મહત્વપૂર્ણ છોડના રોગોના નિયંત્રણ અથવા દમન માટે ભલામણ કરાયેલ નિવારક જૈવ-ફૂગનાશક છે. શ્રેષ્ઠ પરિણામો માટે, પાંદડાના રોગના વિકાસ પહેલાં અથવા ચેપના પ્રથમ સંકેત પર સારવાર કરો. 7 દિવસના અંતરાલે અથવા જરૂરિયાત મુજબ પુનરાવર્તન કરો. \n લણણી પછી બગીચાના તમામ કાટમાળને દૂર કરો અને નાશ કરો અને પછીના વર્ષે પાક ફેરવવાની પ્રેક્ટિસ કરો. \n ચેપગ્રસ્ત છોડના ભાગોને બાળી નાખો અથવા થેલીમાં ભરી દો. ખાતર ન બનાવો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "સર આઇઝેક ન્યૂટન એફઆરએસ (25 ડિસેમ્બર 1642-20 માર્ચ) એક અંગ્રેજી ગણિતશાસ્ત્રી, ભૌતિકશાસ્ત્રી, ખગોળશાસ્ત્રી, રસાયણશાસ્ત્રી, ધર્મશાસ્ત્રી અને લેખક હતા જેમને તેમના સમયમાં કુદરતી ફિલસૂફ તરીકે વર્ણવવામાં આવ્યા હતા. તેઓ વૈજ્ઞાનિક ક્રાંતિ અને તેના પછીના બોધમાં મુખ્ય વ્યક્તિ હતા. તેમના અગ્રણી પુસ્તક ફિલોસોફી નેચરલિસ પ્રિન્સિપિયા મેથેમેટિકા (મેથેમેટિકલ પ્રિન્સિપલ્સ ઓફ નેચરલ ફિલોસોફી), જે સૌપ્રથમ 1687 માં પ્રકાશિત થયું હતું, તેણે અગાઉના ઘણા પરિણામોને એકીકૃત કર્યા અને શાસ્ત્રીય મિકેનિક્સની સ્થાપના કરી. ન્યૂટને ઓપ્ટિક્સમાં પણ મહત્ત્વપૂર્ણ યોગદાન આપ્યું હતું અને અનંત કલન વિકસાવવા માટે જર્મન ગણિતશાસ્ત્રી ગોટફ્રાઇડ વિલ્હેમ લીબનીઝ સાથે શ્રેય શેર કર્યો હતો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "કન્ફ્યુશિયસ (/kjuːs/kjuːs/kjuːs// kjuːs// kjuːs///kjuːs////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// / કન્ફ્યુશિયસના ઉપદેશો અને ફિલસૂફી પૂર્વ એશિયાની સંસ્કૃતિ અને સમાજને આધાર આપે છે, જે આજે પણ ચીન અને પૂર્વ એશિયામાં પ્રભાવશાળી છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "કાઈ લૂન (ચાઇનીઝઃ; સૌજન્ય નામ જિંગઝોંગ (); c. 50-62-121 CE), અગાઉ ત્સાઈ લૂન તરીકે રોમનીકૃત, પૂર્વીય હાન રાજવંશના ચીની નપુંસક દરબારી અધિકારી હતા. તેમને પરંપરાગત રીતે કાગળના શોધક અને આધુનિક કાગળ બનાવવાની પ્રક્રિયા તરીકે ગણવામાં આવે છે. કાગળના પ્રારંભિક સ્વરૂપો ઇ. સ. પૂર્વે ત્રીજી સદીથી અસ્તિત્વમાં હોવા છતાં, વૃક્ષની છાલ અને શણના છેડા દ્વારા પલ્પ ઉમેરવાને કારણે તે કાગળના ઇતિહાસમાં નિર્ણાયક સ્થાન ધરાવે છે, જેના પરિણામે મોટા પાયે ઉત્પાદન થયું અને કાગળનો વિશ્વભરમાં ફેલાવો થયો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "ક્રિસ્ટોફર કોલંબસ (25 ઓગસ્ટ અને 31 ઓક્ટોબર 1451-20 મે 1506 ની વચ્ચે) જેનોઆ પ્રજાસત્તાકના એક ઇટાલિયન સંશોધક અને નાવિક હતા, જેમણે કેથોલિક રાજાઓ દ્વારા પ્રાયોજિત એટલાન્ટિક મહાસાગરમાં ચાર સ્પેનિશ-આધારિત સફર પૂર્ણ કરી હતી, જેણે વ્યાપક યુરોપિયન સંશોધન અને અમેરિકાના યુરોપિયન વસાહતીકરણનો માર્ગ ખોલ્યો હતો. તેમના અભિયાનો કેરેબિયન અને મધ્ય અને દક્ષિણ અમેરિકા સાથેનો પ્રથમ જાણીતો યુરોપિયન સંપર્ક હતો.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "આલ્બર્ટ આઈન્સ્ટાઈન (14 માર્ચ 1879-18 એપ્રિલ 1955) જર્મનીમાં જન્મેલા સૈદ્ધાંતિક ભૌતિકશાસ્ત્રી હતા. સાપેક્ષતાના સિદ્ધાંતને વિકસાવવા માટે જાણીતા, તેમણે ક્વોન્ટમ મિકેનિક્સના સિદ્ધાંતના વિકાસમાં પણ મહત્વપૂર્ણ યોગદાન આપ્યું અને આમ આધુનિક ભૌતિકશાસ્ત્રમાં પણ યોગદાન આપ્યું. તેમના દળ-ઊર્જા સમાનતા સૂત્ર E = mc2, જે સાપેક્ષતા સિદ્ધાંતમાંથી ઉદ્ભવે છે, તેને \"વિશ્વનું સૌથી પ્રસિદ્ધ સમીકરણ\" તરીકે ઓળખવામાં આવે છે. તેમનું કાર્ય વિજ્ઞાનની ફિલસૂફી પર તેના પ્રભાવ માટે પણ જાણીતું છે. તેમને 1921માં ભૌતિકશાસ્ત્રમાં નોબેલ પુરસ્કાર \"સૈદ્ધાંતિક ભૌતિકશાસ્ત્રમાં તેમની સેવાઓ માટે, અને ખાસ કરીને ફોટોઇલેક્ટ્રિક અસરના કાયદાની શોધ માટે\" મળ્યો હતો, જે ક્વોન્ટમ સિદ્ધાંતના વિકાસમાં એક નિર્ણાયક પગલું હતું. આઈન્સ્ટાઈનિયમ, સામયિક કોષ્ટકમાં કૃત્રિમ ઘટકોમાંનું એક, તેમના માનમાં નામ આપવામાં આવ્યું હતું.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "લુઇસ પાશ્ચર ફોરમેમઆરએસ (27 ડિસેમ્બર 1822-28 સપ્ટેમ્બર 1895) ફ્રેન્ચ રસાયણશાસ્ત્રી અને માઇક્રોબાયોલોજિસ્ટ હતા, જેઓ રસીકરણ, માઇક્રોબાયલ ફર્મેન્ટેશન અને પેસ્ટ્યુરાઇઝેશનના સિદ્ધાંતોની શોધ માટે જાણીતા હતા, જેમાંથી છેલ્લું તેમના નામ પરથી રાખવામાં આવ્યું હતું. રસાયણશાસ્ત્રમાં તેમના સંશોધનથી રોગોના કારણો અને નિવારણની સમજણમાં નોંધપાત્ર સફળતા મળી, જેણે સ્વચ્છતા, જાહેર આરોગ્ય અને મોટાભાગની આધુનિક દવાઓનો પાયો નાખ્યો. પાશ્ચરના કાર્યોને હડકવા અને એન્થ્રેક્સ માટેની રસીઓના વિકાસ દ્વારા લાખો લોકોના જીવ બચાવવાનો શ્રેય આપવામાં આવે છે. તેમને આધુનિક બેક્ટેરિયોલોજીના સ્થાપકોમાંના એક તરીકે ગણવામાં આવે છે અને તેમને \"બેક્ટેરિયોલોજીના પિતા\" અને \"માઇક્રોબાયોલોજીના પિતા\" તરીકે સન્માનિત કરવામાં આવ્યા છે (રોબર્ટ કોચ સાથે મળીને; બાદમાંનું ઉપનામ પણ એન્ટોની વાન લીઉવેનહોકને આભારી છે).",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "ગેલિલિયો ડી વિન્સેન્ઝો બોનાયુતી ડી 'ગેલિલી (15 ફેબ્રુઆરી 1564-8 જાન્યુઆરી 1642) એક ઇટાલિયન ખગોળશાસ્ત્રી, ભૌતિકશાસ્ત્રી અને ઇજનેર હતા, જેને કેટલીકવાર બહુપત્નીત્વશાસ્ત્રી તરીકે વર્ણવવામાં આવે છે. સામાન્ય રીતે તેને ગેલિલિયો તરીકે ઓળખવામાં આવે છે, તેનું નામ ઉચ્ચારવામાં આવે છે/ત્તન્ન૆લ્ગાલ્વીઓ ˌɡælɪˈleɪ.iˌ (GAL-ih-Lay-oh GAL-ih-Lay-ee, ઇટાલિયનઃ [gaaliːo gaaliːi]). તેમનો જન્મ પિસા શહેરમાં થયો હતો, જે તે સમયે ફ્લોરેન્સના ડચીનો ભાગ હતો. ગેલિલિયોને નિરીક્ષણ ખગોળશાસ્ત્ર, આધુનિક યુગના શાસ્ત્રીય ભૌતિકશાસ્ત્ર, વૈજ્ઞાનિક પદ્ધતિ અને આધુનિક વિજ્ઞાનના પિતા તરીકે ઓળખવામાં આવે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "જોશુઆ અબ્રાહમ નોર્ટન (4 ફેબ્રુઆરી, 1818-8 જાન્યુઆરી, 1880), સમ્રાટ નોર્ટન તરીકે ઓળખાતા, સાન ફ્રાન્સિસ્કો, કેલિફોર્નિયાના રહેવાસી હતા, જેમણે 1859માં પોતાને \"નોર્ટન પ્રથમ, યુનાઇટેડ સ્ટેટ્સના સમ્રાટ\" જાહેર કર્યા હતા. 1863માં, નેપોલિયન ત્રીજાએ મેક્સિકો પર આક્રમણ કર્યા પછી, તેણે \"મેક્સિકોના સંરક્ષક\" નું ગૌણ બિરુદ લીધું.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "લિયોનેલ એન્ડ્રેસ મેસ્સી (સ્પેનિશ ઉચ્ચારણઃ [ljo ˈnel an ˈdɾes ˈmesi] (સાંભળો); જન્મ 24 જૂન 1987), જેને લિયો મેસ્સી તરીકે પણ ઓળખવામાં આવે છે, તે આર્જેન્ટિનાનો વ્યાવસાયિક ફૂટબોલર છે, જે લિગ 1 ક્લબ પેરિસ સેન્ટ-જર્મેન માટે ફોરવર્ડ તરીકે રમે છે અને આર્જેન્ટિનાની રાષ્ટ્રીય ટીમનો સુકાની છે. તમામ સમયના મહાન ખેલાડીઓમાંના એક તરીકે વ્યાપકપણે ગણવામાં આવતા, મેસ્સીએ વિક્રમી સાત બેલોન ડી 'ઓર પુરસ્કારો અને વિક્રમી છ યુરોપિયન ગોલ્ડન શૂઝ જીત્યા છે, અને 2020 માં તેને બેલોન ડી' ઓર ડ્રીમ ટીમમાં નામ આપવામાં આવ્યું હતું. 2021 માં ક્લબ છોડ્યું ત્યાં સુધી, તેણે તેની સંપૂર્ણ વ્યાવસાયિક કારકિર્દી બાર્સેલોના સાથે વિતાવી હતી, જ્યાં તેણે ક્લબ-રેકોર્ડ 34 ટ્રોફી જીતી હતી, જેમાં દસ લા લિગા ખિતાબ, સાત કોપા ડેલ રે ખિતાબ અને ચાર વખત યુઇએફએ ચેમ્પિયન્સ લીગનો સમાવેશ થાય છે. પોતાના દેશ સાથે તેણે 2021 કોપા અમેરિકા અને 2022 ફિફા વિશ્વ કપ જીત્યો હતો. એક ઉત્કૃષ્ટ ગોલસ્કોરર અને સર્જનાત્મક પ્લેમેકર, મેસ્સી લા લિગા (474) માં સૌથી વધુ ગોલ, લા લિગા (36) અને યુઇએફએ ચેમ્પિયન્સ લીગ (આઠ) માં સૌથી વધુ હેટ્રિક અને લા લિગા (192) અને કોપા અમેરિકા (17) માં સૌથી વધુ સહાયનો રેકોર્ડ ધરાવે છે. તેની પાસે દક્ષિણ અમેરિકન પુરુષ (102) દ્વારા સૌથી વધુ આંતરરાષ્ટ્રીય ગોલ પણ છે. મેસ્સીએ ક્લબ અને દેશ માટે 800 થી વધુ વરિષ્ઠ કારકિર્દી ગોલ કર્યા છે, અને એક જ ક્લબ (672) માટે એક ખેલાડી દ્વારા સૌથી વધુ ગોલ કર્યા છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "શું તમે આ વ્યક્તિનો ટૂંકો પરિચય આપી શકો?",
+        "answer": "એલન મેથિસન ટ્યુરિંગ ઓ. બી. ઈ. એફ. આર. એસ. (/ˈtjːrɪng/; 23 જૂન 1912-7 જૂન 1954) એક અંગ્રેજી ગણિતશાસ્ત્રી, કોમ્પ્યુટર વૈજ્ઞાનિક, તર્કશાસ્ત્રી, સંકેતલિપી વિશ્લેષક, ફિલસૂફ અને સૈદ્ધાંતિક જીવવિજ્ઞાની હતા. ટ્યુરિંગ સૈદ્ધાંતિક કમ્પ્યુટર વિજ્ઞાનના વિકાસમાં અત્યંત પ્રભાવશાળી હતા, જે ટ્યુરિંગ મશીન સાથે અલ્ગોરિધમ અને ગણતરીની વિભાવનાઓનું ઔપચારિકરણ પ્રદાન કરે છે, જેને સામાન્ય હેતુના કમ્પ્યુટરનું મોડેલ ગણી શકાય. તેમને વ્યાપક રીતે સૈદ્ધાંતિક કોમ્પ્યુટર વિજ્ઞાન અને કૃત્રિમ બુદ્ધિના પિતા માનવામાં આવે છે.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "નીચેનો આલેખ લાંબા ગાળાનું આંતરરાષ્ટ્રીય સ્થળાંતર, યુકે, 1999-2008 દર્શાવે છે. \n \n મુખ્ય લાક્ષણિકતાઓ પસંદ કરીને અને અહેવાલ આપીને માહિતીનો સારાંશ બનાવો અને જ્યાં સુસંગત હોય ત્યાં સરખામણી કરો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "આ ચાર્ટ 1999 અને 2008 વચ્ચે યુકેના ઇમિગ્રેશન, સ્થળાંતર અને ચોખ્ખા સ્થળાંતર વિશે માહિતી આપે છે. \n \n દર્શાવેલ સમયગાળા દરમિયાન ઇમિગ્રેશન અને સ્થળાંતર દર બંનેમાં વધારો થયો છે, પરંતુ ઇમિગ્રેશનના આંકડા નોંધપાત્ર રીતે વધારે હતા. ચોખ્ખું સ્થળાંતર 2004 અને 2007માં ટોચ પર પહોંચ્યું હતું. \n \n 1999માં, 450,000થી વધુ લોકો યુકેમાં રહેવા આવ્યા હતા, જ્યારે સ્થળાંતર કરનારા લોકોની સંખ્યા માત્ર 300,000થી ઓછી હતી. ચોખ્ખા સ્થળાંતરનો આંકડો આશરે 160,000 હતો અને તે 2003 સુધી સમાન સ્તરે રહ્યો હતો. 1999 થી 2004 સુધી, સ્થળાંતર દરમાં લગભગ 150,000 લોકોનો વધારો થયો હતો, પરંતુ સ્થળાંતરમાં ઘણો ઓછો વધારો થયો હતો. 2004માં ચોખ્ખું સ્થળાંતર લગભગ 250,000 લોકોની ટોચે પહોંચ્યું હતું. \n \n 2004 પછી, સ્થળાંતરનો દર ઊંચો રહ્યો, પરંતુ સ્થળાંતર કરનારા લોકોની સંખ્યામાં વધઘટ થતી રહી. 2008માં આશરે 4,20,000 લોકોની ટોચે પહોંચ્યા તે પહેલાં 2007માં સ્થળાંતરમાં અચાનક ઘટાડો થયો હતો. પરિણામે, 2007માં સ્થળાંતરનો ચોખ્ખો આંકડો વધીને આશરે 240,000 થયો હતો, પરંતુ 2008માં તે ઘટીને લગભગ 160,000 થયો હતો.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "નીચેનો આલેખ અને કોષ્ટક વિશ્વભરમાં પાણીના ઉપયોગ અને બે અલગ અલગ દેશોમાં પાણીના વપરાશ વિશે માહિતી આપે છે. \n \n મુખ્ય લાક્ષણિકતાઓ પસંદ કરીને અને અહેવાલ આપીને માહિતીનો સારાંશ આપો અને જ્યાં સુસંગત હોય ત્યાં સરખામણી કરો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "આ ચાર્ટમાં વિશ્વભરમાં કૃષિ, ઉદ્યોગ અને ઘરો માટે ઉપયોગમાં લેવાતા પાણીની માત્રા અને બ્રાઝિલ અને ડેમોક્રેટિક રિપબ્લિક ઓફ કોંગોમાં પાણીના ઉપયોગની સરખામણી કરવામાં આવી છે. \n \n તે સ્પષ્ટ છે કે 1900 અને 2000 ની વચ્ચે વૈશ્વિક પાણીની જરૂરિયાતોમાં નોંધપાત્ર વધારો થયો છે, અને ઉપયોગમાં લેવાતા પાણીનો સૌથી મોટો હિસ્સો કૃષિ માટે જવાબદાર છે. આપણે એ પણ જોઈ શકીએ છીએ કે કોંગો કરતાં બ્રાઝિલમાં પાણીનો વપરાશ નોંધપાત્ર રીતે વધારે હતો. \n \n 1900માં, વિશ્વભરમાં કૃષિ ક્ષેત્ર દ્વારા લગભગ 500 કિમી3 પાણીનો ઉપયોગ કરવામાં આવતો હતો. ઔદ્યોગિક અને ઘરેલું પાણીના વપરાશના આંકડા તે રકમના લગભગ પાંચમા ભાગ જેટલા હતા. 2000 સુધીમાં, કૃષિ માટે વૈશ્વિક પાણીનો ઉપયોગ વધીને આશરે 3000 કિમી3 થયો હતો, ઔદ્યોગિક પાણીનો ઉપયોગ વધીને અડધાથી પણ ઓછો થઈ ગયો હતો અને ઘરેલું વપરાશ આશરે 500 કિમી3 સુધી પહોંચી ગયો હતો. \n \n વર્ષ 2000માં, બ્રાઝિલ અને કોંગોની વસ્તી અનુક્રમે 176 મિલિયન અને 5.2 મિલિયન હતી. બ્રાઝિલમાં વ્યક્તિ દીઠ પાણીનો વપરાશ, 359 મીટર 3 પર, કોંગો કરતાં ઘણો વધારે હતો, માત્ર 8 મીટર 3 પર, અને આ હકીકત એ હકીકત દ્વારા સમજાવી શકાય છે કે બ્રાઝિલ પાસે 265 ગણી વધુ સિંચિત જમીન હતી.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "નીચે આપેલા ચાર્ટમાં 1970 અને 2000 વચ્ચે યુ. એસ. એ. માં લગ્ન અને છૂટાછેડાના દર અને બે વર્ષમાં પુખ્ત અમેરિકનોની વૈવાહિક સ્થિતિ વિશે માહિતી આપવામાં આવી છે. \n \n મુખ્ય લાક્ષણિકતાઓ પસંદ કરીને અને અહેવાલ આપીને માહિતીનો સારાંશ આપો અને જ્યાં સુસંગત હોય ત્યાં સરખામણી કરો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "પ્રથમ બાર ચાર્ટ યુએસએમાં લગ્ન અને છૂટાછેડાની સંખ્યામાં ફેરફારો દર્શાવે છે, અને બીજો ચાર્ટ 1970 અને 2000માં અમેરિકન પુખ્ત વયના લોકોની વૈવાહિક સ્થિતિના આંકડા દર્શાવે છે. \n \n એ સ્પષ્ટ છે કે 1970 અને 2000ની વચ્ચે યુ. એસ. એ. માં લગ્નની સંખ્યામાં ઘટાડો થયો હતો. મોટાભાગના પુખ્ત અમેરિકનોએ બંને વર્ષોમાં લગ્ન કર્યા હતા, પરંતુ 2000માં એકલા પુખ્ત વયના લોકોનું પ્રમાણ વધારે હતું. \n \n 1970માં, યુ. એસ. એ. માં 25 લાખ લગ્ન અને 10 લાખ છૂટાછેડા થયા હતા. 1980માં લગ્નનો દર સ્થિર રહ્યો હતો, પરંતુ વર્ષ 2000 સુધીમાં તે ઘટીને 20 લાખ થઈ ગયો હતો. તેનાથી વિપરીત, છૂટાછેડાનો દર 1980માં ટોચ પર હતો, લગભગ 15 લાખ છૂટાછેડા, તે સમયગાળાના અંતે \n ઘટીને 10 લાખ થયો હતો. \n \n આશરે 70 ટકા અમેરિકન પુખ્ત વયના લોકોએ 1970માં લગ્ન કર્યા હતા, પરંતુ 2000 સુધીમાં આ આંકડો ઘટીને માત્ર 60 ટકાથી નીચે આવી ગયો હતો. તે જ સમયે, અપરિણીત લોકો અને છૂટાછેડા લેનારાઓનું પ્રમાણ કુલ મળીને લગભગ 10 ટકા વધ્યું છે. વર્ષ 2000માં વિધવા અમેરિકનોની સંખ્યા થોડી ઓછી હતી.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "નીચે આપેલો ચાર્ટ ચાર યુરોપિયન દેશોમાં છ ઉપભોક્તા વસ્તુઓ પર ખર્ચવામાં આવેલી રકમ દર્શાવે છે. \n \n નીચે દર્શાવેલ માહિતીનું વર્ણન કરતા યુનિવર્સિટીના લેક્ચરર માટે એક અહેવાલ લખો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "બાર ચાર્ટ જર્મની, ઇટાલી, ફ્રાન્સ અને બ્રિટનમાં છ જુદી જુદી વસ્તુઓ પરના ગ્રાહક ખર્ચની સરખામણી કરે છે. \n \n એ સ્પષ્ટ છે કે બ્રિટિશ લોકોએ તમામ છ ચીજવસ્તુઓ પર અન્ય ત્રણ દેશોના લોકો કરતાં નોંધપાત્ર રીતે વધુ નાણાં ખર્ચ્યા હતા. છ વસ્તુઓમાંથી ગ્રાહકોએ ફોટોગ્રાફિક ફિલ્મ પર સૌથી વધુ પૈસા ખર્ચ્યા હતા. \n \n બ્રિટનમાં લોકોએ ફોટોગ્રાફિક ફિલ્મ પર માત્ર 170,000 પાઉન્ડથી વધુનો ખર્ચ કર્યો, જે ચાર્ટ પર દર્શાવવામાં આવેલ સૌથી વધુ આંકડો છે. તેનાથી વિપરીત, છ ઉત્પાદનોમાંથી દરેક માટે લગભગ સમાન આંકડા (માત્ર 150,000 પાઉન્ડથી ઓછા) સાથે, જર્મનો સૌથી ઓછા એકંદર ખર્ચ કરનારા હતા. \n \n રમકડાં પર ખર્ચ કરવાના આંકડા ફ્રાન્સ અને ઇટાલી બંનેમાં સમાન હતા, લગભગ £160,000. જો કે, જ્યારે ફ્રેન્ચ લોકોએ ફોટોગ્રાફિક ફિલ્મ અને સીડી પર ઈટાલિયનો કરતાં વધુ ખર્ચ કર્યો હતો, ત્યારે ઈટાલિયનોએ વ્યક્તિગત સ્ટીરિયો, ટેનિસ રેકેટ અને અત્તર માટે વધુ ચૂકવણી કરી હતી. ફ્રેન્ચ લોકો દ્વારા ટેનિસ રેકેટ પર ખર્ચવામાં આવેલી રકમ, આશરે £145,000, ચાર્ટ પર દર્શાવવામાં આવેલ સૌથી નીચો આંકડો છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "નીચેનું કોષ્ટક છ શહેરોમાં ભૂગર્ભ રેલ્વે પ્રણાલીઓ વિશે માહિતી આપે છે. \n \n મુખ્ય લાક્ષણિકતાઓ પસંદ કરીને અને અહેવાલ આપીને માહિતીનો સારાંશ આપો અને જ્યાં સુસંગત હોય ત્યાં સરખામણી કરો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "કોષ્ટક છ મોટા શહેરોમાં ભૂગર્ભ રેલ નેટવર્ક વિશેની માહિતી દર્શાવે છે. \n \n કોષ્ટક છ નેટવર્કની તેમની ઉંમર, કદ અને દર વર્ષે તેનો ઉપયોગ કરતા લોકોની સંખ્યાના સંદર્ભમાં સરખામણી કરે છે. તે સ્પષ્ટ છે કે ત્રણ સૌથી જૂની ભૂગર્ભ પ્રણાલીઓ મોટી છે અને નવી પ્રણાલીઓ કરતાં નોંધપાત્ર રીતે વધુ મુસાફરોને સેવા આપે છે. \n \n લંડન ભૂગર્ભ એ સૌથી જૂની પ્રણાલી છે, જે 1863 માં ખોલવામાં આવી હતી. તે 394 કિલોમીટરના માર્ગ સાથે સૌથી મોટી પ્રણાલી પણ છે. પેરિસમાં બીજી સૌથી મોટી સિસ્ટમ, 199 કિલોમીટરના માર્ગ સાથે, લંડન ભૂગર્ભના કદની માત્ર અડધી છે. જો કે, તે દર વર્ષે વધુ લોકોને સેવા આપે છે. કદની દ્રષ્ટિએ માત્ર ત્રીજા સ્થાને હોવા છતાં, ટોક્યો સિસ્ટમ સરળતાથી સૌથી વધુ ઉપયોગમાં લેવાય છે, જેમાં દર વર્ષે 1927 મિલિયન મુસાફરો હોય છે. \n \n ત્રણ નવા નેટવર્કમાંથી, વોશિંગ્ટન ડી. સી. ભૂગર્ભ 126 કિલોમીટરના માર્ગ સાથે સૌથી વધુ વ્યાપક છે, જ્યારે ક્યોટો અને લોસ એન્જલસ પ્રણાલીઓ માટે માત્ર 11 કિલોમીટર અને 28 કિલોમીટર છે. લોસ એન્જલસ નેટવર્ક સૌથી નવું છે, જે 2001 માં ખોલવામાં આવ્યું હતું, જ્યારે ક્યોટો નેટવર્ક સૌથી નાનું છે અને દર વર્ષે માત્ર 45 મિલિયન મુસાફરોને સેવા આપે છે.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "નીચેનું કોષ્ટક 2002માં પાંચ જુદા જુદા દેશોમાં વિવિધ વસ્તુઓ પર ગ્રાહકના ખર્ચની માહિતી આપે છે. \n \n મુખ્ય લાક્ષણિકતાઓ પસંદ કરીને અને અહેવાલ આપીને માહિતીનો સારાંશ આપો અને જ્યાં સુસંગત હોય ત્યાં સરખામણી કરો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "આ કોષ્ટક 2002માં પાંચ દેશોમાં ઉત્પાદનો અને સેવાઓની ત્રણ શ્રેણીઓ માટે ગ્રાહક ખર્ચની ટકાવારી દર્શાવે છે. \n \n તે સ્પષ્ટ છે કે દરેક દેશમાં ગ્રાહક ખર્ચનો સૌથી મોટો હિસ્સો ખોરાક, પીણાં અને તમાકુ પર ગયો હતો. બીજી બાજુ, લેઝર/શિક્ષણ શ્રેણીમાં સૌથી ઓછી ટકાવારી છે. \n \n પાંચ દેશોમાંથી, તુર્કીમાં ખોરાક, પીણાં અને તમાકુ પર ગ્રાહક ખર્ચ નોંધપાત્ર રીતે 32.14% અને આયર્લેન્ડમાં લગભગ 29% હતો. ફુરસદ અને શિક્ષણ પરના ખર્ચનું પ્રમાણ પણ તુર્કીમાં સૌથી વધુ હતું, 4.35%, જ્યારે કપડાં અને ફૂટવેર પરનો ખર્ચ ઇટાલીમાં અન્ય કોઈપણ દેશોની સરખામણીએ 9 ટકા નોંધપાત્ર રીતે વધારે હતો. \n \n એવું જોઈ શકાય છે કે સ્વીડનમાં ખોરાક/પીણાં/તમાકુ અને કપડાં/ફૂટવેર માટેના રાષ્ટ્રીય ગ્રાહક ખર્ચની સૌથી ઓછી ટકાવારી અનુક્રમે લગભગ 16 ટકા અને માત્ર 5 ટકાથી વધુ હતી. સ્પેનમાં આ વર્ગો માટે થોડો ઊંચો આંકડો હતો, પરંતુ મનોરંજન/શિક્ષણ માટે સૌથી ઓછો આંકડો માત્ર 1.98% હતો.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "નીચે આપેલા પાઇ ચાર્ટમાં 1980 અને 2000માં ઓસ્ટ્રેલિયા અને ફ્રાન્સમાં બળતણ સ્ત્રોત દ્વારા વીજ ઉત્પાદનના એકમો દર્શાવવામાં આવ્યા છે. \n \n મુખ્ય લાક્ષણિકતાઓ પસંદ કરીને અને અહેવાલ આપીને માહિતીનો સારાંશ આપો અને જ્યાં સુસંગત હોય ત્યાં સરખામણી કરો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "પાઇ ચાર્ટમાં બે અલગ-અલગ વર્ષોમાં બે દેશોમાં ઇંધણના પાંચ અલગ-અલગ સ્રોતોનો ઉપયોગ કરીને ઉત્પાદિત વીજળીની માત્રાની તુલના કરવામાં આવી છે. \n \n ઓસ્ટ્રેલિયા અને ફ્રાન્સ બંનેમાં 1980 થી 2000 સુધી કુલ વીજ ઉત્પાદનમાં નાટ્યાત્મક વધારો થયો. જ્યારે બંને દેશોનો સરવાળો સમાન હતો, ત્યારે ઉપયોગમાં લેવાતા બળતણ સ્રોતોમાં મોટો તફાવત હતો. \n \n કોલસાનો ઉપયોગ 1980માં ઓસ્ટ્રેલિયામાં વીજળીના કુલ 100 એકમોમાંથી 50 એકમોનું ઉત્પાદન કરવા માટે કરવામાં આવ્યો હતો, જે 2000માં વધીને 170 એકમોમાંથી 130 એકમો થયો હતો. તેનાથી વિપરીત, 2000માં ફ્રાન્સમાં પરમાણુ ઊર્જા સૌથી મહત્વપૂર્ણ બળતણ સ્ત્રોત બની હતી, જે દેશની લગભગ 75 ટકા વીજળીનું ઉત્પાદન કરતી હતી. \n \n ઓસ્ટ્રેલિયા બંને વર્ષોમાં તેની વીજળીના માત્ર 25 ટકાથી ઓછી વીજળી માટે જળવિદ્યુત પર નિર્ભર હતું, પરંતુ ફ્રાન્સમાં આ પ્રકારની વીજળીનો ઉપયોગ કરીને ઉત્પાદિત વીજળીની માત્રા 5 થી ઘટીને માત્ર 2 યુનિટ થઈ ગઈ. બીજી બાજુ, ફ્રાન્સમાં તેલ પ્રમાણમાં મહત્વપૂર્ણ બળતણ સ્ત્રોત રહ્યું, પરંતુ ઓસ્ટ્રેલિયામાં તેનો ઉપયોગ ઘટ્યો. બંને દેશો વીજળી ઉત્પાદન માટે 2000ની સરખામણીએ 1980માં નોંધપાત્ર રીતે વધુ કુદરતી ગેસ પર નિર્ભર હતા.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "ચોર્લીવુડ લંડન નજીકનું એક ગામ છે, જેની વસ્તી ઓગણીસમી સદીના મધ્યભાગથી સતત વધી છે. નીચેનો નકશો ગામનો વિકાસ દર્શાવે છે. \n \n ગામના વિકાસનું વર્ણન કરતા યુનિવર્સિટીના લેક્ચરરને એક અહેવાલ લખો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "આ નકશો 1868 અને 1994ની વચ્ચે ચાર્લીવુડ નામના ગામની વૃદ્ધિ દર્શાવે છે. \n \n તે સ્પષ્ટ છે કે પરિવહન માળખામાં સુધારો થતાં ગામનો વિકાસ થયો હતો. વિકાસના ચાર સમયગાળા નકશા પર દર્શાવવામાં આવ્યા છે, અને દરેક વસ્તી ધરાવતો વિસ્તાર મુખ્ય રસ્તાઓ, રેલવે અથવા મોટરવેની નજીક છે. \n \n 1868 થી 1883 સુધી, ચાર્લીવુડે મુખ્ય રસ્તાઓમાંથી એકની બાજુના નાના વિસ્તારને આવરી લીધો હતો. ચોર્લીવુડ પાર્ક અને ગોલ્ફ કોર્સ હવે આ મૂળ ગામ વિસ્તારની બાજુમાં સ્થિત છે. આ ગામ 1883 અને 1922ની વચ્ચે દક્ષિણ તરફના મુખ્ય માર્ગ પર વિકસ્યું હતું અને 1909માં આ વિસ્તારને પશ્ચિમથી પૂર્વ તરફ પાર કરતી રેલવે લાઇન બનાવવામાં આવી હતી. ચોરલીવુડ સ્ટેશન ગામના આ ભાગમાં આવેલું છે. \n \n ચોર્લીવુડનું વિસ્તરણ 1970 સુધી રેલવે લાઇનની બાજુમાં પૂર્વ અને પશ્ચિમ તરફ ચાલુ રહ્યું. તે સમયે, ગામની પૂર્વમાં મોટરવે બાંધવામાં આવ્યો હતો, અને 1970 થી 1994 સુધી, ગામનો વધુ વિકાસ રેલવે અને મુખ્ય રસ્તાઓમાંથી એક સાથે મોટરવે આંતરછેદોની આસપાસ થયો હતો.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "નીચેનો નકશો ગાર્લસડન નગરનો છે. નગર માટે એક નવું સુપરમાર્કેટ (એસ) નું આયોજન કરવામાં આવ્યું છે. નકશો સુપરમાર્કેટ માટે બે સંભવિત સ્થળો દર્શાવે છે. \n \n મુખ્ય લાક્ષણિકતાઓ પસંદ કરીને અને અહેવાલ આપીને માહિતીનો સારાંશ આપો અને જ્યાં સુસંગત હોય ત્યાં સરખામણી કરો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "આ નકશો ગાર્લ્સડોન નામના શહેરમાં નવા સુપરમાર્કેટ માટે બે સંભવિત સ્થળો (S1 અને S2) દર્શાવે છે. \n \n બે સ્થળો વચ્ચેનો મુખ્ય તફાવત એ છે કે S1 શહેરની બહાર છે, જ્યારે S2 શહેરના કેન્દ્રમાં છે. આ સ્થળોની સરખામણી માર્ગ અથવા રેલ દ્વારા પહોંચવાની દ્રષ્ટિએ પણ કરી શકાય છે, અને તેમની સ્થિતિ ત્રણ નાના શહેરોની સરખામણીમાં છે. \n \n વધુ વિગતવાર માહિતીને જોતાં, S1 એ ગાર્લ્સડોનની ઉત્તર પશ્ચિમમાં ગ્રામ્ય વિસ્તારમાં છે, પરંતુ તે શહેરના રહેણાંક વિસ્તારની નજીક છે. એસ2 આવાસ વિસ્તારની પણ નજીક છે, જે શહેરના કેન્દ્રની આસપાસ છે. \n \n હિન્ડન, બ્રેન્ડન અને ક્રેન્ડનથી ગાર્સ્ડન ટાઉન સેન્ટર સુધીના મુખ્ય રસ્તાઓ છે, પરંતુ આ નો ટ્રાફિક ઝોન છે, તેથી કાર દ્વારા એસ 2 સુધી પહોંચવાની કોઈ સુવિધા રહેશે નહીં. તેનાથી વિપરીત, એસ1 હિંડનના મુખ્ય માર્ગ પર આવેલું છે, પરંતુ બ્રાન્સડોન અને ક્રેન્સડોનથી પહોંચવું વધુ મુશ્કેલ હશે. બંને સુપરમાર્કેટ સાઇટ્સ રેલ્વેની નજીક છે જે હિન્ડોનથી ક્રેન્સડોન સુધી ગાર્લ્સડોનમાંથી પસાર થાય છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "નીચેની આકૃતિ દર્શાવે છે કે કેવી રીતે ઓસ્ટ્રેલિયન બ્યુરો ઓફ મેટિયોરોલોજી વિશ્વસનીય આગાહીઓ કરવા માટે હવામાન પર અપ-ટુ-મિનિટ માહિતી એકત્રિત કરે છે. \n \n નીચે દર્શાવેલ માહિતીનું વર્ણન કરતા યુનિવર્સિટીના લેક્ચરર માટે એક અહેવાલ લખો. \n \n તમારે ઓછામાં ઓછા 150 શબ્દો લખવા જોઈએ.",
+        "answer": "આ આંકડો ઓસ્ટ્રેલિયન હવામાન વિભાગ દ્વારા હવામાનની આગાહી કરવા માટે ઉપયોગમાં લેવાતી પ્રક્રિયાને સમજાવે છે. \n \n આ પ્રક્રિયામાં ચાર તબક્કાઓ છે, જેની શરૂઆત હવામાન વિશેની માહિતીના સંગ્રહથી થાય છે. આ માહિતીનું પછી વિશ્લેષણ કરવામાં આવે છે, પ્રસ્તુતિ માટે તૈયાર કરવામાં આવે છે અને અંતે જાહેર જનતા સુધી પ્રસારિત કરવામાં આવે છે. \n \n પ્રક્રિયાના પ્રથમ અને બીજા તબક્કાઓને જોતાં, હવામાનની માહિતી એકત્રિત કરવાની ત્રણ રીતો છે અને તેનું વિશ્લેષણ કરવાની ત્રણ રીતો છે. પ્રથમ, આવનારી માહિતી ઉપગ્રહ દ્વારા પ્રાપ્ત કરી શકાય છે અને ઉપગ્રહ ફોટો તરીકે વિશ્લેષણ માટે રજૂ કરી શકાય છે. સમાન માહિતી રડાર સ્ટેશન પર પણ પસાર કરી શકાય છે અને રડાર સ્ક્રીન અથવા સિનોપ્ટિક ચાર્ટ પર રજૂ કરી શકાય છે. બીજું, આવનારી માહિતી સીધા રડાર દ્વારા એકત્રિત કરી શકાય છે અને રડાર સ્ક્રીન અથવા સિનોપ્ટિક ચાર્ટ પર તેનું વિશ્લેષણ કરી શકાય છે. છેવટે, ડ્રિફ્ટિંગ બોય્ઝ પણ માહિતી મેળવે છે જે સિનોપ્ટિક ચાર્ટ પર દર્શાવી શકાય છે. \n \n પ્રક્રિયાના ત્રીજા તબક્કે, હવામાન પ્રસારણ કમ્પ્યુટર પર તૈયાર કરવામાં આવે છે. છેવટે, તે ટેલિવિઝન પર, રેડિયો પર અથવા રેકોર્ડ કરેલી ટેલિફોન જાહેરાત તરીકે લોકોને પહોંચાડવામાં આવે છે.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

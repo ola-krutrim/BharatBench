@@ -1,0 +1,60 @@
+{"image": "001.jpg", "text": "ফটোখনত থকা এই বিখ্যাত দৃশ্যটোৰ নাম কি?", "category": "conv", "question_id": 0}
+{"image": "001.jpg", "text": "এই ফটোখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 1}
+{"image": "001.jpg", "text": "এই দৃষ্টিশক্তি সৃষ্টি হোৱাৰ সম্ভাব্য কাৰণসমূহ কি কি?", "category": "complex", "question_id": 2}
+{"image": "001.jpg", "text": "এই স্থানলৈ শেহতীয়া ভ্ৰমণৰ বিষয়ে এটা আকৰ্ষণীয় ভ্ৰমণ ব্লগ পোষ্ট লিখক, সাংস্কৃতিক অভিজ্ঞতা আৰু দৰ্শনীয় আকৰ্ষণসমূহৰ ওপৰত আলোকপাত কৰক, যাৰ ভিতৰত ফটোখনত দেখা আকৰ্ষণ আৰু অন্যান্য দৰ্শনীয় আকৰ্ষণ দুয়োটাই আছে।", "category": "complex", "question_id": 3}
+{"image": "002.jpg", "text": "এইটো কি ধৰণৰ ফল?", "category": "conv", "question_id": 4}
+{"image": "002.jpg", "text": "ছবিখনৰ ভিতৰত কটা নোহোৱা কিমানখন ফল আছে?", "category": "conv", "question_id": 5}
+{"image": "002.jpg", "text": "এই ফটোখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 6}
+{"image": "002.jpg", "text": "ছবিখনৰ ফলবোৰৰ সুগন্ধটো কল্পনা কৰক। যিজনে আগতে কেতিয়াও এই ফলটো খোৱা নাই, আপুনি ইয়াক কেনেকৈ বৰ্ণনা কৰিব?", "category": "complex", "question_id": 7}
+{"image": "003.jpg", "text": "এই ফটোখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 8}
+{"image": "003.jpg", "text": "এই চিত্ৰখনৰ উদ্দেশ্যমূলক প্ৰভাৱ কি হ \"ব পাৰে?", "category": "complex", "question_id": 9}
+{"image": "003.jpg", "text": "এটা উৎকৃষ্ট শিল্পকৰ্মৰ ওপৰত এই সৃষ্টিশীল টুইষ্টক বিভিন্ন দৰ্শকে কেনেদৰে বেলেগ বেলেগ ধৰণে ব্যাখ্যা কৰিব পাৰে সেই বিষয়ে আলোচনা কৰক।", "category": "complex", "question_id": 10}
+{"image": "004.jpg", "text": "ফটোখনত থকা ব্যক্তিজনৰ নাম কি?", "category": "conv", "question_id": 11}
+{"image": "004.jpg", "text": "মিমত কোনটো আইকনিক চিনেমাৰ দৃশ্যক পেৰ \"ডি কৰা হৈছে?", "category": "conv", "question_id": 12}
+{"image": "004.jpg", "text": "এই মিমে কেনেকৈ ইলন মাস্কৰ ৰাজহুৱা ভাবমূৰ্তি, ব্যক্তিত্ব বা কাৰ্য্যৰ ওপৰত প্ৰতিফলিত বা মন্তব্য কৰে?", "category": "complex", "question_id": 13}
+{"image": "005.jpg", "text": "অনুগ্ৰহ কৰি মেমটো বিশদভাৱে ব্যাখ্যা কৰক।", "category": "detail", "question_id": 14}
+{"image": "005.jpg", "text": "এই মেমটোৱে প্ৰকাশ কৰা একেই অনুভূতি আন কি ধৰণে কোনোবাই প্ৰকাশ কৰিব পাৰে?", "category": "complex", "question_id": 15}
+{"image": "006.jpg", "text": "এইটো কোনে ৰং কৰিছিল আপুনি জানেনে?", "category": "conv", "question_id": 16}
+{"image": "006.jpg", "text": "এই চিত্ৰখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 17}
+{"image": "006.jpg", "text": "কলা জগতত এই চিত্ৰকলাৰ ঐতিহাসিক প্ৰভাৱ আৰু গুৰুত্বৰ বিষয়ে আলোচনা কৰক।", "category": "complex", "question_id": 18}
+{"image": "007.jpg", "text": "এই ফটোখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 19}
+{"image": "007.jpg", "text": "এই ঠাইখন ভ্ৰমণ কৰাৰ বাবে আটাইতকৈ ভাল বতৰ, ঋতু, দিনটোৰ সময় কি? এই ফটোখন লোৱাৰ সময়টো এই ঠাইখন ভ্ৰমণ কৰাৰ বাবে ভাল সময় নেকি?", "category": "complex", "question_id": 20}
+{"image": "008.jpg", "text": "ছবিখনৰ চৰিত্ৰটোৰ নাম কি?", "category": "conv", "question_id": 21}
+{"image": "008.jpg", "text": "এই চৰিত্ৰটোৰ ব্যক্তিত্ব কি? চৰিত্ৰটোৰ ডিজাইনৰ কি উপাদান বা দিশবোৰে ইয়াৰ জনপ্ৰিয়তাত অৰিহণা যোগাব পাৰে ব্যাখ্যা কৰক।", "category": "complex", "question_id": 22}
+{"image": "009.jpg", "text": "মই ইয়ালৈ অহাৰ সময়ত কি কি বিষয়ত সাৱধান হ \"ব লাগে?", "category": "complex", "question_id": 23}
+{"image": "009.jpg", "text": "যদি আপুনি এজন ফটোগ্ৰাফাৰ আছিল যিয়ে এই স্থানৰ গুৰুত্ব বুজিবলৈ বিচাৰিছিল, তেন্তে আপুনি দিনটোৰ কোনটো সময় আৰু বতৰৰ অৱস্থা বাছনি কৰিব? আপোনাৰ পচন্দৰ আঁৰৰ কাৰণবোৰ বৰ্ণনা কৰক।", "category": "complex", "question_id": 24}
+{"image": "010.jpg", "text": "এই ফটোখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 25}
+{"image": "010.jpg", "text": "এই ছবিখনৰ অস্বাভাৱিকতা কি?", "category": "complex", "question_id": 26}
+{"image": "011.jpg", "text": "ফ্ৰিজৰ বাওঁফালে কি কি ফল থাকে?", "category": "conv", "question_id": 27}
+{"image": "011.jpg", "text": "ব্লুবৰীৰ সৈতে সোৱাদযুক্ত দৈৰ ব্ৰেণ্ডটো কি?", "category": "conv", "question_id": 28}
+{"image": "011.jpg", "text": "ফ্ৰিজটোত কোনো ষ্ট্ৰবেৰীৰ সোৱাদযুক্ত দৈ আছে নেকি?", "category": "conv", "question_id": 29}
+{"image": "011.jpg", "text": "এই ফটোখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 30}
+{"image": "011.jpg", "text": "এইবোৰৰ সৈতে মই কি কি খাদ্য ৰান্ধিব পাৰো?", "category": "complex", "question_id": 31}
+{"image": "012.jpg", "text": "ছেটত কিমানখন কফি মগ আছে?", "category": "conv", "question_id": 32}
+{"image": "012.jpg", "text": "ইয়াৰ বাবে এটা আকৰ্ষণীয় সামগ্ৰীৰ বিৱৰণ লিখক।", "category": "complex", "question_id": 33}
+{"image": "013.jpg", "text": "এই ব্যঞ্জনৰ বিশদ ৰন্ধন প্ৰণালীটো দেখুৱাওক।", "category": "complex", "question_id": 34}
+{"image": "014.jpg", "text": "আপুনি এই মিমক বিশদভাৱে ব্যাখ্যা কৰিব পাৰিবনে?", "category": "complex", "question_id": 35}
+{"image": "015.jpg", "text": "মিমত উল্লেখ কৰা দুটা যন্ত্ৰ শিক্ষণ ধাৰণা কি কি?", "category": "conv", "question_id": 36}
+{"image": "015.jpg", "text": "এই মিমটোৰ বিশদ বিৱৰণ দিয়ক।", "category": "detail", "question_id": 37}
+{"image": "015.jpg", "text": "এইটো কিয় হাস্যৰসাত্মক সেই বিষয়ে আপুনি ব্যাখ্যা কৰিব পাৰিবনে? পৰ্য্যায়ক্ৰমে ইয়াৰ বিষয়ে চিন্তা কৰক।", "category": "complex", "question_id": 38}
+{"image": "016.jpg", "text": "এই ছবিখনৰ বিশদ বিৱৰণ দিয়ক। পেনেল অনুসৰি ইয়াক বৰ্ণনা কৰক।", "category": "detail", "question_id": 39}
+{"image": "016.jpg", "text": "এই ছবিখনৰ বিষয়ে কি হাস্যৰসাত্মক? ইয়াক পেনেল অনুসৰি বৰ্ণনা কৰক।", "category": "complex", "question_id": 40}
+{"image": "017.jpg", "text": "কোনবোৰ পদাৰ্থই জীৱটোক গঠন কৰা দেখা যায়?", "category": "conv", "question_id": 41}
+{"image": "017.jpg", "text": "এইটো এল. এল. এ. এম. এ. স্থাপত্যৰ ওপৰত আধাৰিত এল. এল. এ. ভি. এ., বৃহৎ ভাষা আৰু দৃষ্টি সহায়কৰ প্ৰতীকচিহ্ন। অনুগ্ৰহ কৰি এই প্ৰতীকচিহ্নটো বিশদভাৱে ব্যাখ্যা কৰক, আৰু ইয়াৰ ডিজাইনৰ বিষয়ে আপুনি কেনে ভাবে।", "category": "complex", "question_id": 42}
+{"image": "018.jpg", "text": "চিত্ৰখনত থকা জন্তুবোৰ কি আৰু তেওঁলোকে কি কৰি আছে?", "category": "conv", "question_id": 43}
+{"image": "018.jpg", "text": "এই চিত্ৰখনৰ ওপৰত আধাৰিত কৰি এটা ৰূপকথা লিখক।", "category": "complex", "question_id": 44}
+{"image": "019.jpg", "text": "এই স্কেচক বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 45}
+{"image": "019.jpg", "text": "এই মক-আপটোক এটা ৰঙীন ৱেবছাইটলৈ ৰূপান্তৰিত কৰিবলৈ সংক্ষিপ্ত এইচ. টি. এম. এল./জে. এছ. লিখক, য 'ত কৌতুকবোৰ দুটা প্ৰকৃত কৌতুকৰ দ্বাৰা সলনি কৰা হয়।", "category": "complex", "question_id": 46}
+{"image": "020.jpg", "text": "এই স্কেচক বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 47}
+{"image": "020.jpg", "text": "এই মক-আপটোক এটা ৰঙীন আৰু পাৰস্পৰিক ৱেবছাইটলৈ ৰূপান্তৰিত কৰিবলৈ সংক্ষিপ্ত এইচ. টি. এম. এল./জে. এছ. লিখক, য 'ত কৌতুকটো এটা প্ৰকৃত কৌতুকৰ দ্বাৰা সলনি কৰা হয়।", "category": "complex", "question_id": 48}
+{"image": "021.jpg", "text": "এই ছবিখনৰ সমাপ্তি কি?", "category": "conv", "question_id": 49}
+{"image": "021.jpg", "text": "চলচ্চিত্ৰখনৰ সন্দৰ্ভত এই দৃশ্যটোৰ গুৰুত্ব কি?", "category": "complex", "question_id": 50}
+{"image": "022.jpg", "text": "এই ব্যঞ্জনবোৰ পৰিৱেশন কৰা ৰেষ্টুৰেণ্টখনৰ নাম কি?", "category": "conv", "question_id": 51}
+{"image": "022.jpg", "text": "এই ফটোখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 52}
+{"image": "022.jpg", "text": "যদি কোনোবাই খাদ্যটোত নতুন সোৱাদ বা টপিংৰ পৰামৰ্শ দিয়ে, তেন্তে এই পৰিৱৰ্তনৰ কাৰণ আৰু ই সামগ্ৰিক সোৱাদ কেনেদৰে সলনি কৰিব পাৰে সেই বিষয়ে বৰ্ণনা কৰক।", "category": "complex", "question_id": 53}
+{"image": "023.jpg", "text": "এই বিজ্ঞাপনত কোনটো ব্ৰেণ্ড দেখুওৱা হৈছে?", "category": "conv", "question_id": 54}
+{"image": "023.jpg", "text": "এই ফটোখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 55}
+{"image": "023.jpg", "text": "এইটো ঘৰত ৰন্ধাৰ বাবে মোক এটা বিশদ ৰন্ধন প্ৰণালী দেখুৱাওক।", "category": "complex", "question_id": 56}
+{"image": "024.jpg", "text": "এই ফটোখন বিশদভাৱে বৰ্ণনা কৰক।", "category": "detail", "question_id": 57}
+{"image": "024.jpg", "text": "এই চহৰখনে কি সমস্যাৰ সন্মুখীন হ \"ব পাৰে? কিছুমান সম্ভাব্য সমাধান কি কি?", "category": "complex", "question_id": 58}
+{"image": "024.jpg", "text": "বৰ্তমানৰ যান-জঁটৰ অৱস্থাক সূচাই দিয়া সকলো সংকেত ব্যাখ্যা কৰক।", "category": "complex", "question_id": 59}

@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "समीकरणात x म्हणजे काय?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "शेवटच्या समीकरणात d म्हणजे काय?",
+        "answer": "1. 25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "समीकरणात x म्हणजे काय?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "खालच्या डाव्या समीकरणाचे उत्तर काय आहे?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "उजवीकडील दुसऱ्या समीकरणाचे उत्तर काय आहे?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "उजवीकडील दुसऱ्या शेवटच्या समीकरणाचे उत्तर काय आहे?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "शेवटच्या समीकरणात y म्हणजे काय?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"एक्स\" ऑपरेटरची पुन्हा व्याख्या कशी केली जाते याचा नमुना शोधा आणि प्रतिमेत दिलेल्या समीकरणाचे उत्तर द्या.",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "उजवीकडील मुलगी फलकावर काय लिहिणार आहे?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "50 डॉलरमध्ये मला सर्वोच्च पेट्रोलचे किती गॅलन मिळू शकतात?",
+        "answer": "13. 6 <किंवा> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "डिझेल आणि नियमित पेट्रोलमधील किंमतीतील फरक किती आहे?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "प्रतिमेत दाखवलेल्या मेर्लोटच्या एका बाटलीची आणि कॅबरनेटच्या एका बाटलीची एकूण किंमत किती आहे?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "मोएट शॅम्पेनच्या तीन बाटल्यांची किंमत किती आहे?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "मला एक बुरशीजन्य पिझ्झा आणि एक प्रोसिउटो पिझ्झा मिळत आहे. मी एकूण किती पैसे द्यावे?",
+        "answer": "14. 8 <किंवा> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "मला दोन मार्गेरिटा पिझ्झा आणि एक कॅल्झोन मिळत आहे. मी एकूण किती पैसे द्यावे?",
+        "answer": "25. 8 <किंवा> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "सवलतीपूर्वी डुकराच्या पोटाची मूळ किंमत किती आहे?",
+        "answer": "14.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "पेट्रोलचे दर किती?",
+        "answer": "4.299 <किंवा> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "समोर डाव्या बाजूला असलेल्या व्यक्तीने घातलेल्या टोपीचा रंग काय आहे?",
+        "answer": "निळा",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "शॅम्पूच्या उजवीकडे काय आहे?",
+        "answer": "कंडिशनर",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "सर्वात योग्य बाटलीमध्ये काय आहे?",
+        "answer": "मूस",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "फ्रिस्बी आणि माणूस यांच्यातील अवकाशीय संबंध काय आहे?",
+        "answer": "पुरुष <OR> वर डावीकडे",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "पार्किंग स्थळ 33 वर कोणती गाडी आहे?",
+        "answer": "नाही <किंवा> रिकामे",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "लाल रंगाची कार पार्किंग कोणत्या ठिकाणी आहे?",
+        "answer": "31.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "टोमॅटोची किंमत किती आहे?",
+        "answer": "आठ <OR> 8",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "प्लमचे कोणते फळ योग्य आहे?",
+        "answer": "नारंगी",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "प्रतिमेच्या आधारे, टीना फेची एकूण आंतरराष्ट्रीय जागरूकता किती आहे?",
+        "answer": "35 टक्के",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "प्रतिमेच्या आधारे, टीना फे कोणत्या देशात एकूण जागरूकतेची सर्वोच्च पातळी आहे?",
+        "answer": "ऑस्ट्रेलिया",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "क्रमांक 2 पृथ्वीची अंतर्गत रचना कोणती दर्शवितो?",
+        "answer": "मेंटल",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "पिवळा सूट घातलेल्या मोटारसायकलस्वाराने चालवलेल्या मोटारसायकलवर कोणता क्रमांक दर्शविला आहे?",
+        "answer": "16.",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "उजवीकडील मोटारसायकलवर कोणता क्रमांक दर्शविला आहे?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "या दोन विमानांपैकी कोणते विमान आकाराने मोठे आहे?",
+        "answer": "तशाच",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "व्यक्ती गाडीपेक्षा मोठी आहे का?",
+        "answer": "नाही",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "कणकेचे तुकडे करण्यापूर्वी, कणिक मळल्यानंतर मी काय करावे?",
+        "answer": "उबदार जागा <आणि> 1 तास",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "अंडी आणि दूध मिसळताना मी साखर घालावी का?",
+        "answer": "नाही",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "औषधी वनस्पती, सॉसेज आणि मशरूम कापण्यापूर्वी मी काय करावे?",
+        "answer": "पॅन किंचित झुकवा",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "जेव्हा आपल्याला सर्व हेतूचे पीठ घालण्याची आवश्यकता असते तेव्हा पायरीचा निर्देशांक काय असतो?",
+        "answer": "तिसरा <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "तिसऱ्या टप्प्यात आपण काय जोडले पाहिजे?",
+        "answer": "दूध.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "बोटे फोडल्यावर मुलांनी काय करावे?",
+        "answer": "एका पायावर उडी मारा",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "चौथ्या टप्प्यात काय काढले पाहिजे?",
+        "answer": "नाक",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "टायर पंचर पसरवण्यासाठी प्रोब वापरल्यानंतरची पायरी काय आहे?",
+        "answer": "दुरुस्ती काढून टाका",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "सुचवलेली दुसरी पायरी काय आहे?",
+        "answer": "तुमचे प्रेक्षक ओळखा",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "चित्रात दिलेली शेवटची रणनीती काय आहे?",
+        "answer": "गाणे बनवा",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "फोर्ड एफ150 वगळता एकूण इंधनाची सरासरी किंमत किती आहे?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "इंधनाचा सर्वाधिक खर्च किती आहे?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "तयार केलेल्या आणि फेकून दिलेल्या प्लास्टिकचे प्रमाण लक्षात घेता, प्लास्टिकच्या पुनर्वापरात कोणत्या श्रेणीने सर्वात वाईट काम केले?",
+        "answer": "पॅकेजिंग",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "उत्पादित प्लास्टिकचे प्रमाण आणि टाकून दिलेले प्रमाण यात मेट्रिक टनमध्ये काय फरक आहे?",
+        "answer": "105",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "2023 या वर्षासाठी अंदाजित सरासरी स्थायी शुल्क किती आहे?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "2023 या वर्षासाठी अंदाजित एकूण खर्च किती आहे?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "लिव्हिंग रूमची खिडकी कोणत्या दिशेने आहे?",
+        "answer": "उत्तरेकडे",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "या फ्लोअरप्लॅनमध्ये स्वयंपाकघरात कोणती उपकरणे आहेत?",
+        "answer": "ओव्हन <AND> डिशवॉशर",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "कोणती खोली मोठी आहे, दुहेरी गॅरेज किंवा बैठक खोली?",
+        "answer": "दुहेरी गॅरेज",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "कोणती खोली मोठी आहे, मुख्य शयनकक्ष किंवा अंगण?",
+        "answer": "मास्टर शयनकक्ष",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "दिवा लावला गेला आणि बल्ब जळून खाक झाला तर उपाय काय?",
+        "answer": "ब्लब बदला",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "फ्लोचार्टमधील कोणती पायरी हिऱ्याच्या आकाराने काढली जाते?",
+        "answer": "पाणी उकळत आहे का?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "अंथरुणावरून उठण्यासाठी सरासरी प्रतीक्षा वेळ किती आहे?",
+        "answer": "15 मिनिटे",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "घरांच्या सरासरी किंमतीचा सर्वाधिक वाढीचा दर कोणत्या वर्षी आहे?",
+        "answer": "2008",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012 मध्ये जपानचा जी. डी. पी. काय आहे?",
+        "answer": "6, 233.15 अब्ज अमेरिकी डॉलर",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "कोणत्या वर्षांत नौकानयन आणि एथलेटिक्समध्ये सुवर्णपदकांची संख्या समान होती?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "सर्वाधिक पगार असणारी व्यक्ती कोणत्या विभागातून आहे?",
+        "answer": "प्रशासन",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "टेबलच्या आधारे, विल्किन्सची कमाई किती आहे?",
+        "answer": "2500 <किंवा> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "कोणत्या देशाचे नफा सरासरीपेक्षा कमी आहे?",
+        "answer": "भारत",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "कोणत्या देशाचे नफा मार्जिन सर्वाधिक आहे?",
+        "answer": "ऑस्ट्रेलिया",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "कोणत्या महिन्यात सर्वाधिक उत्पन्न मिळते?",
+        "answer": "फेब्रुवारी",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "एकूण उत्पन्नात वेतनाचा वाटा किती टक्के असतो?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "डावीकडील व्यक्ती कोण आहे?",
+        "answer": "केइरा नाइटली",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "चित्रातील व्यक्ती कोण आहे?",
+        "answer": "मिशेल योह",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "तळाशी उजवीकडील व्यक्ती कोण आहे?",
+        "answer": "जेमी डोर्नन",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "कोणती गोड नसलेली आहे?",
+        "answer": "ओट.",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "हे सफरचंद सेंद्रिय आहे का?",
+        "answer": "होय",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "संपूर्ण पिशवीमध्ये किती उष्मांक आहेत?",
+        "answer": "275.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "या पदार्थाचे नाव काय आहे?",
+        "answer": "मॅपो टोफू",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "या पदार्थाचे नाव काय आहे?",
+        "answer": "कॅप्रीस सॅलड",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "या पदार्थाचे नाव काय आहे?",
+        "answer": "पॅड थाई",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "डावीकडील गाडीची रचना काय आहे?",
+        "answer": "व्होल्क्सवॅगन",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "हा कारखाना काय बनवतो?",
+        "answer": "कॅमेरा",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "गाडीवरील हिरवा लोगो काय आहे?",
+        "answer": "राक्षस",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "या खुणाचे नाव काय आहे?",
+        "answer": "ट्रेवी कारंजा",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "या खुणाचे नाव काय आहे?",
+        "answer": "अनबरिया मशीद",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "या खुणाचे नाव काय आहे?",
+        "answer": "बाओचू पॅगोडा",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "या नोटेचे अंकित मूल्य किती आहे?",
+        "answer": "पाच <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "ही नोट काय आहे?",
+        "answer": "दहा पौंड <किंवा> 10 पौंड <किंवा> ब्रिटिश पौंड",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "ही बँकनोट कोणत्या प्रकारच्या चलनाचे प्रतिनिधित्व करते?",
+        "answer": "स्वीडिश <OR> क्रोनर",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "छातीचा कोणता क्ष-किरण रोग आढळू शकतो? (पर्यायांमध्ये समाविष्ट आहेः एटेक्टेसिस; कार्डिओमेगॅली; प्रवाह; घुसखोरी; मास; नोड्यूल; न्यूमोनिया; न्यूमोथोरॅक्स; कन्सोलिडेशन; एडिमा; एम्फीसिमा; फायब्रोसिस; प्लुरल थिकनिंग; हर्निया.)",
+        "answer": "कार्डिओमेगाली",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "छातीचा कोणता क्ष-किरण रोग आढळू शकतो? (पर्यायांमध्ये समाविष्ट आहेः एटेक्टेसिस; कार्डिओमेगॅली; प्रवाह; घुसखोरी; मास; नोड्यूल; न्यूमोनिया; न्यूमोथोरॅक्स; कन्सोलिडेशन; एडिमा; एम्फीसिमा; फायब्रोसिस; प्लुरल थिकनिंग; हर्निया.)",
+        "answer": "हर्निया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "छातीचा कोणता क्ष-किरण रोग आढळू शकतो? (पर्यायांमध्ये समाविष्ट आहेः एटेक्टेसिस; कार्डिओमेगॅली; प्रवाह; घुसखोरी; मास; नोड्यूल; न्यूमोनिया; न्यूमोथोरॅक्स; कन्सोलिडेशन; एडिमा; एम्फीसिमा; फायब्रोसिस; प्लुरल थिकनिंग; हर्निया.)",
+        "answer": "घुसखोरी",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "किती पक्षी आहेत?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "किती टोमॅटो आहेत?",
+        "answer": "5.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "किती पुस्तके आहेत?",
+        "answer": "63",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "चित्रातील सर्व दृश्यांचा मजकूर काय आहे?",
+        "answer": "S3302CD",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "चित्रातील सर्व दृश्यांचा मजकूर काय आहे?",
+        "answer": "लक्ष्मी ज्वेलर्स",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "चित्रातील सर्व दृश्यांचा मजकूर काय आहे?",
+        "answer": "स्वतः ला एक आनंदी लहान ख्रिसमस मिळवा",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "चित्रातील सर्व दृश्यांचा मजकूर काय आहे?",
+        "answer": "5: 30 PM <आणि> 88% <आणि> मारियो कार्ट 8 डिलक्स <आणि> मॅरिओ कार्ट 8 डिलक्स <आणि> सुपर मॅरिओ ओडिसी <आणि> झेल्डाचा वंशज <आणि> वाळवंटाचा श्वास <आणि> पर्याय <आणि> प्रारंभ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "चित्रातील सर्व दृश्यांचा मजकूर काय आहे?",
+        "answer": "श्री. विल्यम शेकस्पियर्स <आणि> कामेडीज, हिस्ट्रीज आणि ट्रेजेडीज. <आणि> खऱ्या मूळ प्रतींनुसार प्रकाशित.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "चित्रातील सर्व दृश्यांचा मजकूर काय आहे?",
+        "answer": "1642 चा कनेक्टिकट कायदा <AND> जर कोणताही पुरुष किंवा स्त्री जादूटोणा करणारा असेल-म्हणजे त्याने एखाद्या परिचित आत्म्याशी सल्लामसलत केली असेल-तर त्यांना ठार मारले जाईल.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "या यंत्राचा ब्रँड काय आहे?",
+        "answer": "मोटोरोला",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "लायसन्स प्लेट क्रमांक काय आहे?",
+        "answer": "एईडी-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "प्रतिमेतील सर्व फ्रेंच दृश्यांचा मजकूर काय आहे?",
+        "answer": "फ्रान्सचा इतिहास आणि राणीचा इतिहास",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "प्रतिमेतील सर्व चिनी दृश्यांचा मजकूर काय आहे?",
+        "answer": "<AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND>",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "कोणत्या खंडावर प्रकाश टाकला आहे?",
+        "answer": "आशिया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "या खाद्यपदार्थांच्या जाळ्यात कोणते उत्पादक आहेत?",
+        "answer": "फायटोप्लँक्टन <AND> समुद्री शैवाल",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "प्रत्येक नमुन्यातील कणांच्या सरासरी गतिज उर्जेची तुलना करा. खालील आकृतींमध्ये वायूचे दोन शुद्ध नमुने समान बंद, कडक कंटेनरमध्ये दर्शविले आहेत. प्रत्येक रंगीत चेंडू एक वायू कण दर्शवितो. दोन्ही नमुन्यांमध्ये कणांची संख्या समान आहे. कोणत्या नमुन्याचे तापमान जास्त आहे? नमुना अ किंवा नमुना ब?",
+        "answer": "नमुना अ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "हायलाइट केलेले यापैकी कोणते शहर उत्तरेकडे सर्वात दूर आहे?",
+        "answer": "चिकागो",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "हा फोटो कुठे काढला आहे?",
+        "answer": "टर्की <OR> सिरिया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "हा फोटो कुठे काढला आहे?",
+        "answer": "ऑस्कर <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "हा फोटो कुठे काढला आहे?",
+        "answer": "कतार",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "हा फोटो कोणत्या देशात घेण्यात आला होता?",
+        "answer": "ऑस्ट्रेलिया",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "ही झाडे जिराफांपेक्षा उंच आहेत का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "हे विमान उड्डाण करत आहे की लँडिंग करत आहे?",
+        "answer": "काढून टाकणे",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "किती लोक खाली बसले आहेत?",
+        "answer": "एक.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "कचरा रिकामा आहे की भरलेला?",
+        "answer": "रिकामे",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "जिराफ धोकादायक दिसतो का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "पाण्यात झेब्राचे काही प्रतिबिंब आहे का?",
+        "answer": "होय",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "माणूस आनंदी आहे का?",
+        "answer": "होय",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "सगळ्यांचा रंग सारखाच असतो का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "ती दारू पार्श्वभूमीत आहे का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "तो माणूस खाली पडणार आहे का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "कोणत्या जागेचे चित्र आहे?",
+        "answer": "किनारा",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "ते बाहेरचे आहे का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "हवामान कसे आहे?",
+        "answer": "स्वच्छ <किंवा> सूर्यप्रकाश",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "धातूपासून बनवलेल्या कुंपणाचा रंग काय आहे?",
+        "answer": "हिरवा रंग.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "त्या माणसाच्या डाव्या बाजूला असलेली व्यक्ती बसलेली दिसते का?",
+        "answer": "होय",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "टेबलची थाळी घाण आणि चांदी दोन्ही आहे का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "पडदा चित्राच्या उजव्या बाजूला आहे की डाव्या बाजूला?",
+        "answer": "डावीकडे",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "या फोटोमध्ये संगणक आहे का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "तांदळाच्या डाव्या बाजूला असलेल्या भांड्याखाली नॅपकिन्स आहेत का?",
+        "answer": "होय",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "तेथे शेंगदाणे किंवा भाज्या आहेत का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "या चित्रात प्लेट्स आणि काँटे दोन्ही आहेत का?",
+        "answer": "होय",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "या पक्ष्याला काय म्हणतात?",
+        "answer": "पोपट <OR> कोनूर",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "चित्रातील कोणता प्राणी मोठा आहे, मांजर की कुत्रा?",
+        "answer": "मांजर",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "उजव्या डेस्कवर, लॅपटॉपच्या डाव्या बाजूला काय आहे?",
+        "answer": "टेबल दिवा <किंवा> डेस्क दिवा",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "माणूस घोड्यावर स्वार होतो का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "सर्फर हा सर्फबोर्डच्या डावीकडे आहे की उजवीकडे?",
+        "answer": "डावीकडे",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "दिवा कशावर आहे, बाजूचे टेबल किंवा नाईटस्टँड?",
+        "answer": "बाजूचे टेबल",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "स्टंप आणि कुंपण या दोन्हींमध्ये काय साम्य आहे?",
+        "answer": "साहित्य",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "चमच्याने चॉपस्टिक्स सारख्याच सामग्रीची निर्मिती केली आहे का?",
+        "answer": "होय",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "शर्टचा रंग पतंगापेक्षा वेगळा असतो का?",
+        "answer": "होय",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "हे सर्व लोक समान लिंग आहेत का?",
+        "answer": "नाही",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "या दोन वेगवेगळ्या प्रजाती आहेत का?",
+        "answer": "होय",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "लोक कुठे आहेत? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "ते महाविद्यालयाच्या वर्गात आहेत. मला असे वाटते कारण ती तरुण स्त्री महाविद्यालयीन वयाची दिसते आणि त्यांच्या भोवती मेज आणि खुर्च्या आहेत.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "लोक काळे कपडे का घालतात? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "ते अंत्यविधीला जात आहेत. मला असे वाटते कारण अंत्यविधीला लोकांनी काळे कपडे घालणे ही परंपरा आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "स्त्रीने झगा का घातला आहे? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "ती अंथरुणासाठी तयार होत आहे. मला असे वाटते कारण ती खोली शयनकक्षासारखी दिसते आणि स्त्री तिच्या शयनगृहाच्या सामान्य दिशेने जात आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "हे कुठे घडत आहे? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "एका फॅन्सी रेस्टॉरंटमध्ये हे घडत आहे. मला असे वाटते कारण त्या माणसाने फॅन्सीली कपडे घातले आहेत आणि पार्श्वभूमी फॅन्सी आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "दृश्यात उन्हाळा आहे का? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "नाही, तो पडलेला दिसतो. मला असे वाटते कारण पार्श्वभूमीत भोपळे आहेत आणि ते सामान्यतः पडण्याशी संबंधित असतात.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "लाल रंगाचे कपडे घातलेली स्त्री त्या पुरुषावर, स्त्रीकडे पोशाखात पाहिल्याबद्दल रागावणार आहे का? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "होय, लाल रंगाची स्त्री आणि पुरुष हे जोडपे असल्यासारखे दिसतात आणि लाल रंगाची स्त्री पुरुषाने इतर women.I चा विचार केल्याचे कौतुक करणार नाही कारण एकतर्फी नातेसंबंधात, जोडीदारांनी एकमेकांशी विश्वासू राहणे अपेक्षित असते.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "स्त्रीचे दोन्ही हात हवेत का असतात? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "तिने फक्त बास्केटबॉलचे शूटिंग केले. मला असे वाटते कारण तिचे हात बास्केटबॉल शॉटसाठी कोनीय आहेत आणि ते बास्केटबॉलच्या मैदानात आहेत.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "मुलगा कोणत्या प्रकारच्या शाळेत जातो? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "मुलगा खाजगी शाळेत जातो, सार्वजनिक शाळेत नाही. मला असे वाटते कारण मुलगा सर्वांनी सूट परिधान केला आहे, सार्वजनिक शाळांना त्याची आवश्यकता नाही परंतु काही खाजगी शाळा करतात.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "या घरात लोक राहतात का? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "नाही, ते करत नाहीत. मला असे वाटते कारण ते सर्व चित्रे आणि सजावटीकडे पाहत आहेत, जे पाहण्याची त्यांना सवय असेल तर कोणी केले नसते.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "पांढऱ्या पोशाखातील पुरुष आणि स्त्री एकमेकांच्या इतक्या जवळ का आहेत? त्याचे उत्तर द्या आणि तर्क द्या.",
+        "answer": "त्यांनी नुकतेच लग्न केले आहे. मला असे वाटते कारण ते लग्नाच्या पोशाखात आहेत आणि प्रत्येकजण त्यांच्याकडे पाहत आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "तुम्ही हे मीम स्पष्ट करू शकता का?",
+        "answer": "विलंब आणि विशिष्ट वेळेपर्यंत कामांना विलंब करण्याच्या प्रवृत्तीवर हा मिम एक विनोदी दृष्टिकोन आहे. मिमेमधील व्यक्ती 8 वाजता काहीतरी करण्याची योजना आखते, परंतु जेव्हा ते काही मिनिटांत ती मुदत चुकतात, तेव्हा ते त्याऐवजी 9 वाजेपर्यंत वाट पाहण्याचे ठरवतात. अंथरुणावर पडलेली कर्मिट द फ्रॉगची प्रतिमा त्या व्यक्तीचा आळस आणि कार्य पूर्ण करण्यासाठीच्या प्रेरणेचा अभाव दर्शवते.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "तुम्ही हे मीम स्पष्ट करू शकता का?",
+        "answer": "हे मीम कोविड-19 महामारीमुळे ऑनलाइन शिक्षणाच्या सध्याच्या परिस्थितीवर भाष्य आहे. यामुळे वेगवेगळ्या पक्षांवर कसा परिणाम होतो हे यातून दिसून येते. \\n\\n पहिल्या दोन प्रतिमांमध्ये झूम कंपनी आणि शिक्षक हवेत पैसे फेकताना दिसतात, जे सूचित करते की ते परिस्थितीचा फायदा घेत आहेत. विशेषतः झूमचा वापर आणि महसुलात महामारीमुळे वाढ दिसून आली आहे. \\n\\n तिसऱ्या चित्रात वायफाय कंपनी देखील हवेत पैसे फेकत असल्याचे दिसून येते, जे सूचित करते की ते देखील या परिस्थितीचा फायदा घेत आहेत कारण अधिक लोक ऑनलाइन शिक्षणासाठी इंटरनेटचा वापर करत आहेत. \\n\\n शेवटच्या चित्रात एक उदास जोकर चेहरा असलेला विद्यार्थी दिसतो, जो सूचित करतो की विद्यार्थ्यांना परिस्थितीचा फायदा होत नाही आणि ते ऑनलाइन शिक्षणासाठी संघर्ष करत आहेत. पार्श्वभूमीतील 'आनंदी चेहरा घाला' हे चिन्ह पुढे या कल्पनेवर जोर देते की विद्यार्थी त्यांच्या संघर्षानंतरही धाडसी चेहरा परिधान करत आहेत.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "तुम्ही हे मीम स्पष्ट करू शकता का?",
+        "answer": "आइसलँड आणि ग्रीनलँड या देशांची नावे दिशाभूल करणारी आहेत या वस्तुस्थितीची ही मिम खिल्ली उडवत आहे. त्याचे नाव असूनही, आइसलँड त्याच्या सुंदर हिरव्या भूप्रदेशांसाठी ओळखला जातो, तर ग्रीनलँड बहुतेक बर्फ आणि बर्फाने झाकलेला आहे. या देशांची नावे त्यांच्या भूप्रदेशाचे अचूक प्रतिनिधित्व करत नसल्यामुळे त्या व्यक्तीला विश्वासाचे प्रश्न आहेत असे मीम म्हणत आहे.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "तुम्ही हे मीम स्पष्ट करू शकता का?",
+        "answer": "परीक्षेदरम्यान विद्यार्थ्याचे हस्तलेखन कसे बिघडते याची ही मिम खिल्ली उडवते. पहिली दोन पाने नीटनेटके आणि सुपाठ्य हस्तलेखन दर्शवितात, मधले पान किंचित गोंधळलेले हस्तलेखन दर्शवितात आणि शेवटची दोन पाने पूर्णपणे अवैध लेखन दर्शवितात. परीक्षा जसजशी पुढे सरकते तसतसे विद्यार्थी थकलेले किंवा घाईत असल्यामुळे असे होण्याची शक्यता आहे.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "तुम्ही हे मीम स्पष्ट करू शकता का?",
+        "answer": "नवीन महाविद्यालयीन विद्यार्थी (नवशिक्या) अनेकदा नोट्स घेण्यासाठी आणि वर्गात त्यांना शक्य असलेल्या सर्व गोष्टी शिकण्यासाठी कसे उत्सुक असतात याबद्दल हा मिम एक विनोद आहे. ही प्रतिमा स्पंजबॉब स्क्वेअरपँट्स या व्यंगचित्रातील आहे, जिथे स्पंजबॉब आणि पॅट्रिक वेडेपणाने नोट्स लिहित आहेत. शिर्षक असे सूचित करते की नवीन लोक हे जाणून घेण्यासाठी इतके उत्सुक आहेत की ते प्राध्यापकाचे अभिवादनही लिहून ठेवत आहेत.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "या चित्रात काय मजेदार आहे?",
+        "answer": "हे चित्र रेखाटणाऱ्या गेंड्याचे व्यंगचित्र आहे आणि प्रत्येक चित्रात गेंड्याचे शिंग असते कारण गेंड्याचे शिंग त्याच्या डोळ्यांसमोर वाढते. मथळा \"तुम्ही जसे आहात तसे जग पाहता!\" आपला दृष्टीकोन जगाबद्दलच्या आपल्या आकलनास कसे आकार देतो यावर एक खेळकर भाष्य आहे.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "या चित्रात काय मजेदार आहे?",
+        "answer": "या प्रतिमेबद्दल लोकांना मजेदार वाटणाऱ्या काही गोष्टी आहेतः \\n\\n1. दोन प्रतिमांमधील फरकः डावीकडे, आपल्याला दोन स्त्रिया दिसतात ज्या खूप भावनिक आणि संतप्त आहेत, तर उजवीकडे, आपल्याला एक मांजर दिसते जी शांतपणे जेवणाच्या टेबलावर बसली आहे. \\n\\n2. मांजरीच्या परिस्थितीची विसंगतीः जेवणाच्या टेबलावर मांजर समोर अन्नाची थाळी घेऊन बसलेली पाहणे सामान्य नाही, त्यामुळे ही प्रतिमा अनपेक्षित आणि हास्यास्पद आहे. \\n\\n3. मांजरीची अभिव्यक्तीः महिलांच्या ओरडण्याने मांजर घाबरल्याचे दिसते, ज्यामुळे प्रतिमेचा विनोद वाढतो.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "हा मिम कोणी कोणत्या प्रसंगी वापरेल?",
+        "answer": "झोपी गेलेल्या माणसासह मीम आणि चिनी मथळा \"оме оме оме оме оме оме оме оме оме оме оме оме оме оме оме оме\" (झोपेच्या वेळेव्यतिरिक्त, मला झोपायचे नाही. परंतु इतर वेळी, मला झोपायचे आहे) विविध प्रसंगी वापरले जाऊ शकते जेथे झोपेची भावना किंवा परस्परविरोधी इच्छा असणे ही संकल्पना संबंधित आहे. येथे काही परिस्थिती आहेत जिथे ही मिम योग्य असू शकतेः \n \n संबंधित झोपेची स्थितीः दिवसा थकलेली किंवा झोपलेली असल्याची संबंधित भावना व्यक्त करताना ही मिम सामाजिक माध्यमांवर किंवा संभाषणात सामायिक केली जाऊ शकते. तो संबंधित अनुभव सांगण्याचा आणि संबंधित असू शकणाऱ्या इतरांकडून विनोदी प्रतिसाद निर्माण करण्याचा हा एक हलक्या मनाचा मार्ग म्हणून काम करू शकतो. \n \n काम किंवा अभ्यासाशी संबंधित विनोदः ज्या कामांमध्ये लक्ष देणे आणि लक्ष केंद्रित करणे आवश्यक आहे अशा कामांमध्ये झोपण्याची किंवा झोपेची इच्छा विनोदाने व्यक्त करण्यासाठी हे मिम कामाच्या किंवा अभ्यासाशी संबंधित संदर्भांमध्ये वापरले जाऊ शकते. मनाची मनःस्थिती हळुवार करण्यासाठी आणि जागृत आणि सतर्क राहण्याच्या आव्हानांबद्दल सामायिक समज निर्माण करण्यासाठी हे सहकारी किंवा वर्गमित्रांमध्ये सामायिक केले जाऊ शकते. \n \n विलंबित विनोदः उत्पादक कृतींमध्ये गुंतण्याऐवजी झोपण्याची किंवा विश्रांती घेण्याची इच्छा यांच्यातील अंतर्गत संघर्ष दर्शविण्यासाठी देखील मेमेचा वापर केला जाऊ शकतो. जबाबदाऱ्या टाळण्याच्या आणि विश्रांती घेण्याच्या सततच्या इच्छेवर विलंब किंवा विनोदी आत्म-प्रतिबिंबांवर चर्चा करताना ते सामायिक केले जाऊ शकते. \n \n विनोदी विडंबनाः झोपेची वेळ आणि इतर वेळी झोपण्याची इच्छा यांच्यातील मिमेचा विरोधाभास विविध संदर्भांमध्ये विनोदी विडंबनाचा एक प्रकार म्हणून वापरला जाऊ शकतो. जिथे आपल्या इच्छा किंवा वर्तणूक अपेक्षित किंवा योग्य गोष्टींशी विसंगत असतात अशा परिस्थितींवर चर्चा करताना ते सामायिक केले जाऊ शकते, ज्यामुळे संभाषणात एक विनोदी वळण येते. \n \n शेवटी, मेमेचा वापर वेगवेगळ्या परिस्थितींमध्ये केला जाऊ शकतो जिथे त्याची निद्रानाश, परस्परविरोधी इच्छा किंवा उपरोधिक परिस्थिती ही चर्चा होत असलेल्या विषयाशी किंवा भावनेशी जुळते, ज्यामुळे संभाषणात किंवा ऑनलाइन संवादात विनोद आणि सापेक्षतेचा स्पर्श जोडला जातो.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "हा मिम कोणी कोणत्या प्रसंगी वापरेल?",
+        "answer": "सामान्यतः 'स्क्रीमिंग पांडा' म्हणून ओळखला जाणारा हा मिम, सामान्यतः धक्का, आश्चर्य किंवा भीती व्यक्त करण्यासाठी वापरला जातो. याचा वापर एखाद्या धक्कादायक किंवा अनपेक्षित घटनेला प्रतिसाद म्हणून किंवा भीती किंवा धोक्याची भावना व्यक्त करण्यासाठी केला जाऊ शकतो. कोणीतरी हा मिम वापरू शकेल अशा काही संभाव्य प्रसंगी खालील गोष्टींचा समावेश होतोः \\n-भीतीदायक चित्रपटातील उडी मारण्याच्या भीतीला प्रतिसाद देणे \\n-दूरचित्रवाणी कार्यक्रम किंवा पुस्तकातील एका आश्चर्यकारक कथानकाला प्रतिसाद देणे \\n-बातम्यांच्या मथळ्यावर किंवा सध्याच्या घटनेवर धक्का व्यक्त करणे \\n-आगामी अंतिम मुदतीबद्दल किंवा परीक्षेबद्दल भीती किंवा चिंता व्यक्त करणे \\n-क्रीडा खेळ किंवा इतर स्पर्धेतील अनपेक्षित निकालावर आश्चर्य व्यक्त करणे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "हा मिम कोणी कोणत्या प्रसंगी वापरेल?",
+        "answer": "\"रडणारी मांजर\" हा मिम चिनी मथळ्यासह \"आई!\" सामान्यतः दुःखाची भावना, असहायता किंवा सांत्वन मिळवण्यासाठी याचा वापर केला जातो. येथे असे काही प्रसंग आहेत जेथे कोणीतरी हे मिम वापरू शकतेः \n \n असुरक्षितता व्यक्त करणेः असुरक्षिततेचा क्षण व्यक्त करण्यासाठी किंवा भारावून गेल्यासारखे वाटताना या मिमचा वापर केला जाऊ शकतो. एखाद्याच्या आईला हाक मारण्याच्या कल्पनेचे विनोदाने आवाहन करून ते इतरांकडून पाठिंबा किंवा सहानुभूती मिळवण्याची भावना व्यक्त करू शकते. \n \n सांत्वन किंवा सहानुभूती मिळवणेः मित्रांकडून किंवा ऑनलाइन समुदायांकडून सहानुभूती किंवा पाठिंबा मिळविण्यासाठी हा मिम सामायिक केला जाऊ शकतो. संबंधित आणि ओळखण्यायोग्य मेम स्वरूपाचा वापर करून, ते दुःख, निराशा किंवा भावनिक पाठिंब्याची आवश्यकता या भावना प्रभावीपणे व्यक्त करू शकते. \n \n आत्म-निंदनीय विनोदः वैयक्तिक परिस्थिती किंवा किरकोळ अपघातांवर प्रकाश टाकण्यासाठी मीमचा वापर आत्म-निंदनीय पद्धतीने देखील केला जाऊ शकतो. इतरांना सांत्वन किंवा आश्वासन देण्यासाठी आमंत्रित करताना हे व्यक्तींना त्यांच्या स्वतःच्या समजल्या जाणाऱ्या \"असहायतेच्या\" क्षणांवर विनोदाने प्रकाश टाकण्यास अनुमती देते. \n \n खेळकर भावनिक अतिशयोक्तीः मिमेच्या नाट्यमय आणि अतिशयोक्तीपूर्ण अभिव्यक्तीचा वापर एखाद्या परिस्थितीवर किंवा घटनेवर जोर देण्यासाठी खेळकर पद्धतीने केला जाऊ शकतो जी अपरिहार्यपणे त्रासदायक नसते परंतु लक्ष किंवा काळजीची आवश्यकता असू शकते. किरकोळ गैरसोय किंवा विनोदी अतिशयोक्ती व्यक्त करताना हे एक विनोदी स्पर्श जोडू शकते. \n \n हे लक्षात घेणे महत्वाचे आहे की मेमचा वापर आणि अर्थ वेगवेगळे असू शकतात आणि व्यक्ती ते वेगवेगळ्या संदर्भात जुळवून घेण्यासाठी सर्जनशील मार्ग शोधू शकतात. वरील सुचवलेले प्रसंग हे मिम त्याच्या सामान्य संकल्पनांवर आणि भावनिक स्वरावर आधारित कधी वापरले जाऊ शकते याची सामान्य समज देतात.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "हा पदार्थ कसा बनवायचा?",
+        "answer": "या पदार्थाला 'हंगेरियन मशरूम सूप' म्हणतात. या हंगेरियन मशरूम सूपमध्ये भरपूर चव असते आणि ते तयार करणे बर्यापैकी जलद असते. हे प्रामुख्याने मशरूमचे सूप आहे परंतु त्याची बरीच चव इतर घटकांमधून मिळते. माझ्या कुटुंबाला सूप आवडते आणि हे त्यांच्या आवडत्या पदार्थांपैकी एक आहे. \n \n \n तयारीची वेळः \n 15 मिनिटे \n शिजवण्याची वेळः \n 35 मिनिटे \n एकूण वेळः \n 50 मिनिटे \n साहित्यः \n 6 \n \n 4 टेबलस्पून अनसाल्टेड लोणी \n \n 2 कप चिरलेला कांदे \n \n 1 पौंड ताजे मशरूम, कापलेले \n \n \n 2 कप चिकन मटनाचा रस्सा \n \n 1 टेबलस्पून सोया सॉस \n \n 1 टेबलस्पून पेपरिका \n \n \n 2 टेबलस्पून वाळलेल्या डिल तण \n \n कांदे घाला; शिजवा आणि मऊ होईपर्यंत ढवळा, सुमारे 5 मिनिटे. मशरूम घाला आणि आणखी 5 मिनिटे शिजवा. मटनाचा रस्सा, सोया सॉस, पेपरिका आणि बडीशेप मिसळा; उष्णता कमी करा, झाकण ठेवा आणि 15 मिनिटे शिजवा. \n \n पायरी 2 \n एका वेगळ्या वाडग्यात दूध आणि पीठ एकत्र मिसळा; मिश्रण होईपर्यंत सूपमध्ये ढवळून घ्या. अधूनमधून ढवळत, झाकण ठेवून आणखी 15 मिनिटे शिजवा. \n \n पायरी 3 \n त्यात आंबट मलई, अजमोदा, लिंबाचा रस, मीठ आणि काळी मिरी घाला; सुमारे 3 ते 5 मिनिटे गरम होईपर्यंत मंद आचेवर ढवळून घ्या. लगेच सर्व्ह करा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "हे कसे करावे?",
+        "answer": "याला 'स्पार्कलिंग कॅन्टलोप अगुआ फ्रेस्का' म्हणतात. कँटलूप आणि लिंबाच्या रसासह क्लब सोडासह हे ताजेतवाने करणारे अगुआ भित्तिचित्र उष्णतेच्या दिवशी परिपूर्ण असते. \n \n तयारीची वेळः \n 15 मिनिटे \n एकूण वेळः \n 15 मिनिटे \n सर्व्हिंग्जः \n \n \n साहित्य \n \n 2 पौंड ताजे कँटलूप क्यूब्स (6 कप) \n \n 2 कप पाणी \n \n 6 टेबलस्पून ताजे पिळून काढलेला लिंबाचा रस (2 लिंबूपासून) \n \n 3 टेबलस्पून मध \n \n 1/4 टेबलस्पून मीठ \n \n \n 2 कप क्लब सोडा, थंड केलेले \n \n \n कँटलूप खरबूजचे गोळे किंवा क्यूब्स, सजावटीसाठी \n चाळणीतून दाबा; घन पदार्थ फेकून द्या. उकडलेला रस एका भांड्यात घाला. \n \n पायरी 2 \n सर्व्ह करण्यासाठी तयार होईपर्यंत थंड करा. सर्व्ह करण्यापूर्वी क्लब सोडा घाला. बर्फावर सर्व्ह करा आणि खरबूजेचे गोळे आणि लिंबाचा झेंडू लावून चष्मा सजवा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "हा पदार्थ कसा बनवायचा?",
+        "answer": "या पदार्थाला 'जिंजर ग्लेझ्ड माही माही' म्हणतात. माही माहीसाठीच्या या आल्याच्या चटणीत गोड आणि आंबट अशा दोन्ही प्रकारच्या स्वादांची अनुभूती असते. ही पाककृती एक झटपट आणि अतिशय स्वादिष्ट आहे. तुम्हाला ते आवडेल! \n \n \n तयारीची वेळः \n 5 मिनिटे \n शिजवण्याची वेळः \n 10 मिनिटे \n अतिरिक्त वेळः \n 20 मिनिटे \n एकूण वेळः \n 35 मिनिटे \n सर्व्हिंग्जः \n 4 \n \n साहित्य \n \n 3 टेबलस्पून मध \n \n \n 3 टेबलस्पून सोया सॉस \n \n 3 टेबलस्पून बाल्समिक व्हिनेगर \n \n 2 टेबलस्पून ऑलिव्ह तेल \n \n 1 टेबलस्पून किसलेले ताजे आले मूळ \n \n \n 1 लवंग लसूण, किंवा चवीनुसार चिरून \n \n मीठ आणि मिरपूड सह मोसमी मासे फिलेट; मॅरिनेड सह डिश मध्ये त्वचा-बाजू खाली ठेवा. झाकण ठेवून 20 मिनिटे फ्रीजमध्ये ठेवा. \n \n पायरी 2 \n मध्यम-उच्च आचेवर मोठ्या कढईमध्ये वनस्पती तेल गरम करा. फिश फिलेट्स काढून टाका, मॅरिनेड राखून ठेवा. प्रत्येक बाजूला 4 ते 6 मिनिटे मासे तळून घ्या, फक्त एकदाच फिरवा, जोपर्यंत मासे सहजपणे काट्याने चिकटतात. फिलेट्स एका सर्व्हर थाळीत काढून ठेवा आणि गरम ठेवा. \n \n पायरी 3 \n राखीव मॅरिनेड कढईमध्ये घाला; घट्ट होईपर्यंत मध्यम आचेवर शिजवा. माशांवर चमच्याने फोडणी करा आणि सर्व्ह करा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "हा पदार्थ कसा बनवायचा?",
+        "answer": "या पदार्थाला 'स्ट्रॉबेरी रूबार्ब पाई' म्हणतात. ही स्ट्रॉबेरी रूबार्ब पाई आमच्या घरातील वसंत ऋतूतील आवडती मिष्टान्न आहे. भरण्यात गोड-तिखट चव असते; तुमच्या आवडत्या पाई क्रस्टमध्ये बेक करा आणि व्हॅनिला आइस्क्रीमसह सर्व्ह करा. \n \n तयारीची वेळः \n 20 मिनिटे \n शिजवण्याची वेळः \n 35 मिनिटे \n अतिरिक्त वेळः \n 30 मिनिटे \n एकूण वेळः \n 1 तास 25 मिनिटे \n खाण्याची वेळः \n 8 \n उत्पादनः \n 1 9 इंच पाई \n \n साहित्य \n \n \n 1 कप पांढरी साखर \n \n 1⁄2 कप सर्व-हेतूचे पीठ \n \n 1 पौंड रबर्ब, 1/4 इंच कापांमध्ये कापून \n \n 2 पिंट स्ट्रॉबेरी, हुल्ले आणि चतुर्थांश \n \n 1 पाककृती \n \n पायरी 2 \n एका मोठ्या वाडग्यात पीठ आणि साखर मिसळा. \n \n पायरी 3 \n त्यात स्ट्रॉबेरी आणि चिरलेला रबार्ब घाला. साखर आणि पीठ घालून ढवळून घ्या आणि 30 मिनिटे उभे राहू द्या. \n \n पायरी 4 \n तयार पाई क्रस्टमध्ये भरणे घाला. वरच्या बाजूला लोणी घाला आणि वरच्या कवचाने झाकून ठेवा. पृष्ठभागाच्या वरच्या आणि खालच्या कडा पाण्याने बंद करा. \n \n पायरी 5 \n पेस्ट्री ब्रशचा वापर करून पाईच्या वर जर्दी लावा. \n \n पायरी 6 \n साखरेसह शिंपडा. \n \n पायरी 7 \n वाफ बाहेर पडू देण्यासाठी वरच्या बाजूला लहान छिद्र करा. \n \n पायरी 8 \n 400 अंश फॅरनहाइटवर (200 अंश से.), 35 ते 40 मिनिटे किंवा बुडबुडे आणि तपकिरी होईपर्यंत बेक करा. रॅकवर थंड करा. \n \n पायरी 9 \n आनंद घ्या!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "हा पदार्थ कसा बनवायचा?",
+        "answer": "या पदार्थाला 'ऑथेंटिक चायनीज एग रोल्स' म्हणतात. हे चिनी अंड्यांचे रोल माझ्या आईकडून येतात, जी आतापर्यंतची सर्वात उत्तम स्वयंपाकी आहे-आणि मी एक चविष्ट भक्षक आहे. जर मला हे आवडत असेल तर तुम्हाला आवडेल. हे अतिशय प्रामाणिक आहे कारण माझे कुटुंब चिनी आहे आणि मी देखील आहे. ही पाककृती लिंग कुटुंबातील किमान 300 वर्षे जुनी आहे. \n \n \n तयारीची वेळः \n 1 तास \n शिजवण्याची वेळः \n 30 मिनिटे \n अतिरिक्त वेळः \n 1 तास \n एकूण वेळः \n 2 तास 30 मिनिटे \n खाण्याची वेळः \n 20 \n उत्पादनः \n 20 अंड्यांचे रोल \n \n \n साहित्य \n \n 4 टिस्पून वनस्पती तेल, विभाजित \n \n 3 मोठी अंडी, कुजलेले \n \n 1 मध्यम डोके कोशिंबीर, बारीक चिरलेले \n \n [00 1⁄2 गाजर, ज्युलिन केलेले \n \n \n 1 पौंड चिनी बार्बे फोडणी केलेली अंडी घाला आणि घट्ट होईपर्यंत ढवळत न राहता शिजवा. अंडी उलटवा आणि दुसरी बाजू घट्ट करण्यासाठी अतिरिक्त 20 सेकंद शिजवा. अंडे पॅनकेक थंड होण्यासाठी बाजूला ठेवा, नंतर पातळ पट्ट्यांमध्ये कापून घ्या. \n \n पायरी 2 \n उरलेले वनस्पती तेल एका कढईमध्ये किंवा मोठ्या कढईमध्ये मोठ्या आचेवर गरम करा. कोशिंबीर आणि गाजर मिसळा; सुकण्यासाठी 2 मिनिटे शिजवा. डुकराचे मांस, बांबूचे अंकुर, मशरूम, हिरवे कांदे, सोया सॉस, मीठ, साखर आणि एमएसजी घाला; भाज्या मऊ होईपर्यंत शिजवणे सुरू ठेवा, सुमारे 6 मिनिटे. चिरलेली अंडी ढवळून घ्या, नंतर हे मिश्रण एका पॅनमध्ये पसरवा आणि सुमारे 1 तास थंड होईपर्यंत थंड करा. \n \n अंडे गोळा करण्यासाठीची पायरी 3 \n: तुमच्या कामाच्या पृष्ठभागावर एक आवरण ठेवा, ज्याचा एक कोपरा तुमच्या दिशेने असेल. एका ढीगामध्ये सुमारे 3 टेबलस्पून थंड केलेले भरणे वेष्टनाच्या तळाशी तिसऱ्या बाजूला ठेवा. अंड्याचा थोडासा पांढरा भाग वेष्टनाच्या वरच्या दोन कडांवर ब्रश करा, नंतर तळाचा कोपरा भरण्यावर दुमडा आणि अर्ध्या बिंदूपर्यंत घट्टपणे गुंडाळा. डाव्या आणि उजव्या बाजूंना अंड्याच्या गुंडाळीवर घट्ट दुमडा, नंतर वरच्या कोपऱ्यांनी अंड्याच्या गुंडाळीला अंड्याच्या पांढऱ्या भागाने सील करेपर्यंत गुंडाळणे सुरू ठेवा. अंडी गुंडाळलेल्या उरलेल्या गुंडाळ्यांसह पुनरावृत्ती करा, तयार अंडी गुंडाळलेल्या गुंडाळ्यांना प्लास्टिकच्या गुंडाळ्याने झाकून ठेवा जेणेकरून ते कोरडे होणार नाहीत. \n \n पायरी 4 \n एका कढईमध्ये किंवा डीप फ्रायरमध्ये सुमारे 6 इंच तेल 350 अंश फॅरेनहाइट (175 अंश से.) पर्यंत गरम करा. \n \n पायरी 5 \n 5 ते 7 मिनिटे सोनेरी तपकिरी होईपर्यंत एका वेळी 3 किंवा 4 अंडी तळून घ्या. कागदी टॉवेल्सवर निचरा करा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "हा पदार्थ कसा बनवायचा?",
+        "answer": "या पदार्थाला 'चॉकलेट कोटेड पीनट बटर क्रॅकर्स' म्हणतात. \n \n तयारीची वेळः \n 30 मिनिटे \n शिजवण्याची वेळः \n 5 मिनिटे \n अतिरिक्त वेळः \n 15 मिनिटे \n एकूण वेळः \n 50 मिनिटे \n सर्व्हः \n 40 \n उत्पन्नः \n 40 सँडविच कुकीज \n \n \n साहित्य \n 3⁄4 कप क्रीमी किंवा चंकी शेंगदाण्याचे लोणी \n \n 2 पौंड चॉकलेट बदामाची साल, तुकडे करून तोडले \n \n 80 बटररी गोल फटाके (जसे की रिट्झ®) \n \n 2⁄4 औंस रंगीत कँडी फवारणी 40 शेंगदाणा लोणी भरलेल्या सँडविच कुकीज तयार करण्यासाठी शेंगदाणा लोणीच्या बाजू एकत्र दाबा. \n \n पायरी 2 \n दुहेरी बॉयलरच्या शीर्षस्थानी बदामाची साल गरम पाण्यावर वितळा, परंतु उकळत नाही. उष्णता कमी करा आणि वितळलेले चॉकलेट उकळत्या पाण्यावर दुहेरी बॉयलरच्या वर ठेवा. \n \n पायरी 3 \n प्रत्येक सँडविच कुकी वितळलेल्या चॉकलेटमध्ये बुडवून ठेवा, ज्यामुळे अतिरिक्त रक्कम परत भांड्यात जाऊ शकेल. \n \n पायरी 4 \n कोटेड कुकीज मेणाच्या कागदावर ठेवा आणि लगेच कँडी फवारणीसह शिंपडा जेणेकरून ते वितळलेल्या चॉकलेटला चिकटतील. \n \n पायरी 5 \n चॉकलेट सेट होईपर्यंत रेफ्रिजरेटरमध्ये कुकीज ठेवा, सुमारे 15 मिनिटे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "हा पदार्थ कसा बनवायचा?",
+        "answer": "या पदार्थाला 'ब्रोकोली अँड गाजर स्टिर फ्राय' म्हणतात. \n \n तयारीची वेळः \n 10 मिनिटे \n शिजवण्याची वेळः \n 16 मिनिटे \n एकूण वेळः \n 26 मिनिटे \n उत्पादनः \n 5 कप \n \n साहित्य \n 5 1⁄2 कप ब्रोकोली फुले \n \n 1 गाजर, बारीक चिरलेले \n \n 2 टिस्पून पाणी \n \n 1 टिस्पून कॉर्नस्टार्च \n \n 1 टिस्पून चिकन बुइलन दाणे, किंवा चवीनुसार \n \n 2 टेबलस्पून मीठ ब्रोकोली घाला आणि सुमारे 2 मिनिटे चमकदार हिरवा रंग होईपर्यंत उघडे शिजवा. चिरलेला चमच्याने बर्फाच्या पाण्याच्या वाडग्यात ब्रोकोली हस्तांतरित करा आणि स्वयंपाक प्रक्रिया थांबवण्यासाठी अनेक मिनिटे विसर्जित करा. निचरा करा. \n \n पायरी 2 \n त्याच मोठ्या भांड्यात पाणी पुन्हा उकळून घ्या; चिरलेला गाजर घाला आणि 1 मिनिट शिजवा. निचरा करा. \n \n पायरी 3 \n पाणी आणि कॉर्नस्टार्च एका वाडग्यात गुळगुळीत होईपर्यंत एकत्र मिसळा. चिकनचे दाणे आणि मीठ घालून चांगले मिसळा. \n \n पायरी 4 \n एका कढईमध्ये किंवा मोठ्या कढईमध्ये शेंगदाण्याचे तेल गरम करा; ब्रोकोली आणि गाजर 2 मिनिटे तळून घ्या. कॉर्नस्टार्चचे मिश्रण घाला; शिजवा आणि भाज्या समान रीतीने लेप होईपर्यंत ढवळून घ्या, 1 ते 2 मिनिटे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "हा पदार्थ कसा बनवायचा?",
+        "answer": "या पदार्थाला 'क्रीम चीज आणि क्रॅब सुशी रोल्स' असे म्हणतात. \n \n तयारीची वेळः \n 20 मिनिटे \n शिजवण्याची वेळः \n 20 मिनिटे \n एकूण वेळः \n 40 मिनिटे \n उत्पादनः \n 2 सुशी रोल \n \n \n साहित्य \n 1 कप न शिजवलेला पांढरा भात \n \n 2 कप पाणी \n \n 2 टेबलस्पून तांदूळ व्हिनेगर \n \n 1 टिस्पून मीठ \n \n 2 शीट्स नोरी सीवीड शीट्स \n \n \n 1⁄2 काकडी, सोललेली आणि लांबीनुसार चिरलेली \n \n \n पायरी 2 \n भात आणि पाणी एका कढईमध्ये मोठ्या आचेवर उकळण्यासाठी आणा. उष्णता मध्यम-कमी करा, झाकण ठेवा आणि तांदूळ मऊ होईपर्यंत आणि द्रव शोषले जाईपर्यंत, 20 ते 25 मिनिटे शिजवा. तांदळाचे व्हिनेगर आणि मीठ मिसळा. पूर्णपणे थंड होऊ द्या. \n पायरी 3 \n समुद्री शैवाल पत्रके तयार करा. पाण्याने हात ओलसर करा, नंतर थंड केलेला तांदूळ प्रत्येक शीटवर समान रीतीने पसरवा, एका काठावर अर्ध्या इंचाचे अंतर ठेवून, लांबीनुसार. तांदळाच्या वरच्या बाजूला खाऱ्या जागेच्या विरुद्ध बाजूस एका सरळ रेषेत काकडी, अनुकरण क्रॅबमेट आणि क्रीम चीजच्या पट्ट्या ठेवा. शीर्षस्थानी असलेल्या सुशीला समुद्री शैवाल पत्रकाच्या उघड्या टोकापर्यंत गुंडाळा. \n पायरी 4 \n एका धारदार ओल्या चाकूचा वापर करून, प्रत्येक रोलचे 5 किंवा 6 तुकडे करा. बाजूला बारीक चिरलेल्या आल्याबरोबर सर्व्ह करा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "हा पदार्थ कसा बनवायचा?",
+        "answer": "या पदार्थाला 'व्हेगन स्वीट पोटेटो चिकपी करी' म्हणतात. \n \n तयारीची वेळः \n 10 मिनिटे \n शिजवण्याची वेळः \n 20 मिनिटे \n एकूण वेळः \n 30 मिनिटे \n साहित्यः \n 3 टेबलस्पून ऑलिव्ह तेल \n \n 1 कांदे, चिरलेला \n \n 2 लवंग लसूण, बारीक चिरलेला \n \n 2 चिमटे किसलेले ताजे आलेचे मूळ \n \n 1 (15 औंस) चणे, निचरा केलेले \n \n 1 (14.5 औंस) चिरलेले टोमॅटो \n \n 1 (14 औंस) करू शकतात. कांदे, लसूण आणि आले गरम तेलात मऊ होईपर्यंत शिजवा, सुमारे 5 मिनिटे. टोमॅटो, मिरची, कांदे आणि लसूण घाला करा. उकळणे आणा, उष्णता कमी करा आणि निविदा होईपर्यंत शिजवा, सुमारे 15 मिनिटे. \n पायरी 2 \n गरम मसाला, जिरे, हळद, मीठ आणि चिली फ्लेक्ससह हंगाम. सर्व्ह करण्यापूर्वी त्यात कोथिंबीर घाला.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "हा पदार्थ कसा बनवायचा?",
+        "answer": "या पदार्थाला 'लाइम चिकन सॉफ्ट टॅकोस' म्हणतात. \n \n तयारीची वेळः \n 20 मिनिटे \n शिजवण्याची वेळः \n 30 मिनिटे \n एकूण वेळः \n 50 मिनिटे \n उत्पादनः \n 1⁄2 पौंड त्वचा नसलेले, हाड नसलेले कोंबडीचे स्तन मांस-चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी चौकोनी. हिरव्या मिरच्या, व्हिनेगर, लिंबाचा रस, लसूण, ओरेगानो, साखर, मीठ आणि मिरपूड घाला. कमी आचेवर 10 मिनिटे शिजवा. \n पायरी 2 \n लोखंडी कढई मध्यम आचेवर गरम करा. पॅनमध्ये टॉर्टिला ठेवा, गरम करा आणि दुसऱ्या बाजूला गरम करण्यासाठी फिरवा. उर्वरित टॉर्टिलासह पुनरावृत्ती करा. उबदार टॉर्टिलामध्ये लिंबू चिकनचे मिश्रण सर्व्ह करा, त्यावर टोमॅटो, लेटस, चीज आणि साल्सा घाला.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "द शॉशांक रिडेम्पशन हा फ्रँक डाराबॉन्ट लिखित आणि दिग्दर्शित 1994 सालचा अमेरिकन नाट्य चित्रपट आहे, जो 1982 सालच्या स्टीफन किंगच्या रीटा हेवर्थ आणि शॉशांक रिडेम्पशन या कादंबरीवर आधारित आहे. हा चित्रपट बँकर अँडी डुफ्रेन्सची (टिम रॉबिन्स) कथा सांगतो, ज्याला निर्दोष असल्याचा दावा करूनही त्याची पत्नी आणि तिच्या प्रियकराच्या हत्येसाठी शॉशांक राज्य तुरुंगात जन्मठेपेची शिक्षा सुनावली जाते. पुढील दोन दशकांमध्ये, तो एका सहकारी कैदी, प्रतिबंधित तस्करी करणारा एलिस \"रेड\" रेडिंग (मॉर्गन फ्रीमन) याच्याशी मैत्री करतो आणि तुरुंग वॉर्डन सॅम्युअल नॉर्टन (बॉब गुंटन) याच्या नेतृत्वाखालील मनी लॉन्ड्रिंग ऑपरेशनमध्ये महत्त्वपूर्ण भूमिका बजावतो. विल्यम सॅडलर, क्लॅन्सी ब्राऊन, गिल बेलोज आणि जेम्स व्हिटमोर सहाय्यक भूमिकांमध्ये दिसतात.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "द गॉडफादर हा फ्रान्सिस फोर्ड कोपोला दिग्दर्शित 1972 सालचा अमेरिकन गुन्हेगारी चित्रपट आहे, ज्याने त्याच नावाच्या पुझोच्या 1969 सालच्या सर्वाधिक विक्री झालेल्या कादंबरीवर आधारित, मारियो पुझोसोबत पटकथा लिहिली होती. या चित्रपटात मार्लन ब्रॅंडो, अल पचिनो, जेम्स कान, रिचर्ड कॅस्टेलानो, रॉबर्ट डुव्हॉल, स्टर्लिंग हेडन, जॉन मार्ले, रिचर्ड कोंटे आणि डायन कीटन यांच्या भूमिका आहेत. द गॉडफादर या त्रयीतील हा पहिला भाग आहे, जो 1945 ते 1955 या काळात पितृसत्ताक व्हिटो कॉर्लियोन (ब्रॅंडो) यांच्या नेतृत्वाखालील कॉर्लियोन कुटुंबाचे वर्णन करतो. हा त्याचा सर्वात धाकटा मुलगा मायकेल कॉर्लियोन (पॅचिनो) याच्या अनिच्छुक कौटुंबिक बाहेरील व्यक्तीकडून निर्दयी माफिया बॉसमध्ये झालेल्या परिवर्तनावर केंद्रित आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "द डार्क नाईट हा क्रिस्टोफर नोलन दिग्दर्शित 2008 सालचा सुपरहिरो चित्रपट आहे, ज्याची पटकथा त्याने त्याचा भाऊ जोनाथनसोबत मिळून लिहिली होती. डी. सी. कॉमिक्स सुपरहिरो, बॅटमॅनवर आधारित, हा बॅटमॅन बिगिन्सचा (2005) पुढचा भाग आणि द डार्क नाईट ट्रायोलॉजीमधील दुसरा भाग आहे. हे कथानक सतर्क बॅटमॅन, पोलिस लेफ्टनंट जेम्स गॉर्डन आणि जिल्हा वकील हार्वे डेंट यांचे अनुसरण करते, जे गॉथम शहरातील संघटित गुन्हेगारी नष्ट करण्यासाठी युती करतात. बॅटमॅन शहराला अराजकतेपासून वाचवण्यासाठी किती दूर जाईल याची चाचणी घेण्याचा प्रयत्न करणारा अराजकतावादी मास्टरमाइंड जोकर त्यांच्या प्रयत्नांना पायदळी तुडवतो. या चित्रपटातील कलाकारांमध्ये ख्रिश्चन बेल, मायकेल केन, हीथ लेजर, गॅरी ओल्डमन, आरोन एखर्ट, मॅगी गिलेनहाल आणि मॉर्गन फ्रीमन यांचा समावेश आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "ट्वेल्व अँग्री मेन हे रेजिनाल्ड रोझ यांनी लिहिलेले एक अमेरिकन कोर्टरूम ड्रामा आहे, जे खुनाच्या खटल्याच्या ज्युरीशी संबंधित आहे. हे सुरुवातीला 1954 मध्ये दूरचित्रवाणीवरील नाटक म्हणून प्रसारित करण्यात आले होते. पुढच्या वर्षी त्याचे रुपांतर रंगभूमीसाठी करण्यात आले. सिडनी लुमेट दिग्दर्शित आणि 1957 मध्ये प्रदर्शित झालेल्या याच नावाच्या चित्रपटासाठी त्याचे रुपांतर करण्यात आले होते. तेव्हापासून त्याला असंख्य पुनर्निर्मिती, रुपांतर आणि श्रद्धांजली देण्यात आली आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "शिंडलर्स लिस्ट हा स्टीव्हन स्पीलबर्ग दिग्दर्शित आणि निर्मित आणि स्टीव्हन झेलियन लिखित 1993 सालचा अमेरिकन ऐतिहासिक नाट्यमय महाकाव्य चित्रपट आहे. हा चित्रपट ऑस्ट्रेलियन कादंबरीकार थॉमस केनेली यांच्या 1982 मधील शिंडलर्स आर्क या कादंबरीवर आधारित आहे. हा चित्रपट ऑस्कर शिंडलर या जर्मन उद्योगपतीचा मागोवा घेतो, ज्याने दुसऱ्या महायुद्धादरम्यान त्याच्या कारखान्यांमध्ये काम करून एक हजाराहून अधिक बहुतेक पोलिश-ज्यू निर्वासितांना होलोकॉस्टमधून वाचवले. यात शिंडलरच्या भूमिकेत लियाम नीसन, एसएस अधिकारी आमोन गोथच्या भूमिकेत राल्फ फिनेस आणि शिंडलरचा ज्यू लेखापाल इझाक स्टर्नच्या भूमिकेत बेन किंग्सले आहेत.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "द लॉर्ड ऑफ द रिंग्सः द रिटर्न ऑफ द किंग हा फ्रॅन वॉल्श, फिलीपा बोएन्स आणि जॅक्सन यांच्या पटकथेतून पीटर जॅक्सन दिग्दर्शित 2003 सालचा महाकाव्य कल्पनारम्य साहसी चित्रपट आहे. हा चित्रपट जे. आर. आर. टोल्किन यांच्या 1955 सालच्या 'द रिटर्न ऑफ द किंग \"या कादंबरीच्या तिसऱ्या खंडावर आधारित आहे. 2002च्या 'द लॉर्ड ऑफ द रिंग्सः द टू टॉवर्स' चा पुढचा भाग असलेला हा चित्रपट 'द लॉर्ड ऑफ द रिंग्स' या त्रयीतील शेवटचा भाग आहे. यात एलिजा वुड, इयान मॅककेलन, लिव्ह टायलर, विगो मॉर्टेंसन, सीन अॅस्टिन, केट ब्लँचेट, जॉन रायस-डेव्हिस, बर्नार्ड हिल, बिली बॉयड, डॉमिनिक मोनाघन, ऑर्लॅंडो ब्लूम, ह्यूगो वीव्हिंग, मिरांडा ओटो, डेव्हिड वेनहॅम, कार्ल अर्बन, जॉन नोबल, अँडी सर्किस, इयान होल्म आणि सीन बीन यांचा समावेश आहे. मागील चित्रपटाचे कथानक पुढे चालू ठेवत, फ्रोडो, सॅम आणि गोल्लम, गोल्लमच्या खऱ्या हेतूबद्दल अनभिज्ञ राहून वन रिंग नष्ट करण्यासाठी माउंट डूमच्या दिशेने अंतिम मार्ग काढत आहेत, तर मेरी, पिपिन, गॅन्डाल्फ, अरागोर्न, लेगोलास, गिमली आणि इतर मिनास तिरिथमध्ये सौरॉन आणि त्याच्या सैन्यांविरुद्ध एकत्र येतात.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "पल्प फिक्शन हा क्वेंटिन टॅरेंटीनोने लिहिलेला आणि दिग्दर्शित केलेला 1994 सालचा अमेरिकन गुन्हेगारी चित्रपट आहे, ज्याची कल्पना त्याने रॉजर एव्हरीसोबत केली होती. [3] हे कॅलिफोर्नियातील लॉस एंजेलिसमधील गुन्हेगारी आणि हिंसाचाराच्या चार गुंफलेल्या कथा सांगते. या चित्रपटात जॉन ट्रॅव्होल्टा, सॅम्युअल एल. जॅक्सन, ब्रुस विलिस, टिम रॉथ, विंग रेम्स आणि उमा थर्मन यांच्या भूमिका आहेत. शीर्षक 20 व्या शतकाच्या मध्यात लोकप्रिय असलेल्या पल्प मासिके आणि कठोरपणे उकळलेल्या गुन्हेगारी कादंबऱ्यांचा संदर्भ देते, जे त्यांच्या चित्रमय हिंसा आणि मुष्टीयुक्त संवादासाठी ओळखले जातात.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "द लॉर्ड ऑफ द रिंग्सः द फेलोशिप ऑफ द रिंग हा फ्रॅन वॉल्श, फिलीपा बोयेन्स आणि जॅक्सन यांच्या पटकथेतून पीटर जॅक्सन दिग्दर्शित 2001 सालचा महाकाव्य कल्पनारम्य साहसी चित्रपट आहे, जो 1954 सालच्या द फेलोशिप ऑफ द रिंगवर आधारित आहे, जे. आर. आर. टोल्किन यांच्या द लॉर्ड ऑफ द रिंग्स या कादंबरीचा पहिला खंड आहे. हा चित्रपट द लॉर्ड ऑफ द रिंग्ज या त्रयीतील पहिला भाग आहे. यात एलिजा वुड, इयान मॅककेलन, लिव्ह टायलर, विगो मॉर्टेंसन, सीन अॅस्टिन, केट ब्लँचेट, जॉन रायस-डेव्हिस, बिली बॉयड, डॉमिनिक मोनाघन, ऑर्लॅंडो ब्लूम, क्रिस्टोफर ली, ह्यूगो वीव्हिंग, सीन बीन, इयान होल्म आणि अँडी सर्किस यांचा समावेश आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "द गॉडफादर पार्ट II हा फ्रान्सिस फोर्ड कोपोला निर्मित आणि दिग्दर्शित 1974 सालचा अमेरिकन महाकाव्य गुन्हेगारी चित्रपट आहे. हा चित्रपट अंशतः मारियो पुझोच्या 1969 सालच्या 'द गॉडफादर' या कादंबरीवर आधारित आहे, ज्याने कोपोलासोबत पटकथा लिहिली होती आणि तो 1972 सालच्या 'द गॉडफादर' या चित्रपटाचा सिक्वेल आणि प्रीक्वेल दोन्ही आहे, जो समांतर नाटके सादर करतोः एक 1958 सालची मायकेल कॉर्लियोन (अल पचिनो), कॉर्लियोन कुटुंबातील नवीन डॉनची कथा उचलतो, जो त्याच्या जीवनावरील प्रयत्नांनंतर कौटुंबिक व्यवसायाचे रक्षण करतो; प्रीक्वेलमध्ये त्याचे वडील व्हिटो कॉर्लियोन (रॉबर्ट डी निरो) यांचा सिसिलियन बालपणापासून ते न्यूयॉर्क शहरातील त्याच्या कौटुंबिक उपक्रमाच्या स्थापनेपर्यंतचा प्रवास समाविष्ट आहे. या चित्रपटात रॉबर्ट डुव्हॉल, डायन कीटन, तालिया शायरे, मोर्गाना किंग, जॉन काझेल, मारियाना हिल आणि ली स्ट्रासबर्ग यांच्याही भूमिका आहेत.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "या चित्रपटाची छोटीशी ओळख तुम्ही देऊ शकाल का?",
+        "answer": "फेअरवेल माय कॉन्क्युबीन हा 1993 साली प्रदर्शित झालेला चेन कैगे दिग्दर्शित चिनी ऐतिहासिक नाट्यमय चित्रपट आहे, ज्यामध्ये लेस्ली चेउंग, गोंग ली आणि झांग फेंगयी यांच्या भूमिका आहेत. लिलियन ली यांच्या कादंबरीवर आधारित लु वेई यांनी पडद्यासाठी रुपांतर केलेला हा चित्रपट 20 व्या शतकातील राजकीयदृष्ट्या अशांत चीनमध्ये, चीन प्रजासत्ताकाच्या सुरुवातीच्या काळापासून सांस्कृतिक क्रांतीनंतरच्या काळावर आधारित आहे. यात दोन पेकिंग ऑपेरा अभिनेते आणि आजीवन मित्र चेंग देई (चेउंग) आणि डुआन झियाओलोउ (झांग) आणि झियाओलोऊची पत्नी जुक्सियन (गोंग) यांच्यातील अशांत संबंधांचे वर्णन केले आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "मोनालिसा हे इटालियन कलाकार लिओनार्डो दा विंची यांचे अर्ध लांबीचे चित्र आहे. \n \n इटालियन पुनरुज्जीवनाची एक प्राचीन उत्कृष्ट कलाकृती मानली जाणारी, तिचे वर्णन 'जगातील सर्वात प्रसिद्ध, सर्वाधिक भेट दिलेली, सर्वात जास्त लिहिलेली, सर्वात जास्त गायलेली, सर्वात विडंबनात्मक कलाकृती' असे केले गेले आहे. चित्रकलेच्या नाविन्यपूर्ण गुणांमध्ये विषयाची गूढ अभिव्यक्ती, रचनेची स्मारकता, रूपांचे सूक्ष्म प्रतिरूपण आणि वातावरणातील भ्रमवाद यांचा समावेश आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "गर्ल विथ अ पर्ल इअररिंग (डचः मेजे मेट डी परेल) हे डच सुवर्णयुगाचे चित्रकार जोहान्स व्हर्मीर यांचे इ. स. 1665 सालचे तैलचित्र आहे. शतकानुशतके वेगवेगळ्या नावांनी ओळखले जात असताना, 20 व्या शतकाच्या अखेरीस तिथे चित्रित केलेल्या मुलीने परिधान केलेल्या कानातील अंगठीमुळे ते त्याच्या सध्याच्या शीर्षकाने ओळखले जाऊ लागले. हे काम 1902 पासून द हेग येथील मॉरिट्शुइसच्या संग्रहात आहे आणि विविध साहित्यिक आणि चित्रपटविषयक उपचारांचा विषय आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "द स्टेरी नाईट हे डच पोस्ट-इम्प्रेशनिस्ट चित्रकार व्हिन्सेंट व्हॅन गॉग यांचे ऑईल-ऑन-कॅनव्हास चित्र आहे. जून 1889 मध्ये रंगवलेले, त्यात सूर्योदयापूर्वी सेंट-रेमी-डी-प्रोव्हन्स येथील त्याच्या आश्रय खोलीच्या पूर्वेकडील खिडकीतून दिसणारे दृश्य दर्शविले आहे, ज्यामध्ये काल्पनिक village.It जोडले गेले आहे, जे 1941 पासून न्यूयॉर्क शहरातील म्युझियम ऑफ मॉडर्न आर्टच्या कायमस्वरूपी संग्रहात आहे, जे लिली पी. ब्लिस बेक्वेस्टद्वारे अधिग्रहित केले गेले आहे. व्हॅन गॉगची महान कलाकृती म्हणून व्यापकपणे ओळखली जाणारी 'द स्टेरी नाईट' ही पाश्चात्य कलेतील सर्वात ओळखल्या जाणाऱ्या चित्रांपैकी एक आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "द किस (जर्मनमध्ये डेर कुस) हे ऑइल-ऑन-कॅनव्हास पेंटिंग आहे ज्यात ऑस्ट्रियन प्रतीकात्मक चित्रकार गुस्ताव Klimt.It यांनी सोन्याचे पान, चांदी आणि प्लॅटिनम जोडले आहे, जे 1907 आणि 1908 मध्ये एखाद्या वेळी रंगवले गेले होते, ज्याला विद्वान त्याचा \"सुवर्ण काळ\" म्हणतात. प्रदर्शनाच्या कॅटलॉगमध्ये नमूद केल्याप्रमाणे 1908 मध्ये लाइबेस्पार (प्रेमी) या शीर्षकाखाली त्याचे प्रदर्शन करण्यात आले. समकालीन आर्ट नोव्यू शैली आणि पूर्वीच्या कला आणि हस्तकला चळवळीच्या सेंद्रिय प्रकारांनी प्रभावित शैलीत सुशोभित केलेल्या विस्तृत सुंदर पोशाखांमध्ये गुंफलेल्या जोडप्याचे चित्रण या चित्रात केले आहे. \n \n हे चित्र आता बेल्व्हेडेर, व्हिएन्ना येथील ऑस्टेरिचिशे गॅलेरी बेल्व्हेडेर संग्रहालयात टांगलेले आहे आणि व्हिएन्ना सेसेशन (आर्ट नोव्यूचा स्थानिक प्रकार) आणि पोर्ट्रेट ऑफ अॅडेल ब्लॉच-बाउर I नंतर क्लिम्टच्या सर्वात लोकप्रिय कार्याचा उत्कृष्ट नमुना मानला जातो. अनेक लोक याला एक प्रसिद्ध कलाकृती मानतात.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "द बर्थ ऑफ व्हीनस हे इटालियन कलाकार सँड्रो बोटिसेली यांचे एक चित्र आहे, जे बहुधा 1480 च्या दशकाच्या मध्यात अंमलात आणले गेले. त्यात व्हीनस देवी तिच्या जन्मानंतर किनाऱ्यावर येताना दर्शविली गेली आहे, जेव्हा ती पूर्णपणे वाढलेल्या समुद्रातून बाहेर आली होती (ज्याला व्हीनस एनाडिओमीन म्हणतात आणि अनेकदा कलेमध्ये चित्रित केले जाते). हे चित्र इटलीतील फ्लॉरेन्स येथील उफिझी गॅलरीमध्ये आहे. \n \n जरी दोन्ही जोड्या नसल्या, तरी चित्रकलेची चर्चा अपरिहार्यपणे बोटिसेलीच्या इतर खूप मोठ्या पौराणिक चित्रासह, प्राइमावेराशी देखील उफिझीमध्ये केली गेली आहे. ते जगातील सर्वात प्रसिद्ध चित्रांपैकी एक आहेत आणि इटालियन पुनरुज्जीवनाचे प्रतीक आहेत; या दोघांपैकी जन्म हा प्रिमावेरापेक्षा अधिक प्रसिद्ध आहे. खूप मोठ्या प्रमाणावर शास्त्रीय पौराणिक कथांमधील विषयांचे चित्रण म्हणून ते शास्त्रीय प्राचीन काळापासून पाश्चात्य कलेमध्ये अक्षरशः अभूतपूर्व होते, तसेच जन्मात नग्न स्त्री आकृतीचा आकार आणि महत्त्व होते. त्या दोघांनाही मेडिसी कुटुंबातील एकाच सदस्याने नियुक्त केले होते असे मानले जात होते, परंतु हे आता अनिश्चित आहे. \n \n कला इतिहासकारांनी त्यांचे अविरतपणे विश्लेषण केले आहे, ज्यात मुख्य संकल्पना आहेतः प्राचीन चित्रकारांचे अनुकरण आणि विवाह सोहळ्याचा संदर्भ (सामान्यतः मान्य), नव-प्लेटोनिझमचा पुनरुज्जीवन प्रभाव (काहीसा वादग्रस्त) आणि आयुक्तांची ओळख (सहमत नाही). तथापि, बहुतेक कला इतिहासकार सहमत आहेत की जन्माला त्याचा अर्थ उलगडण्यासाठी जटिल विश्लेषणाची आवश्यकता नाही, ज्या प्रकारे बहुधा प्रिमावेरा करतो. चित्रात सूक्ष्मता असली तरी, त्याचा मुख्य अर्थ, जर वैयक्तिक असेल तर, ग्रीक पौराणिक कथांमधील पारंपारिक दृश्याचा थेट उपचार आहे आणि त्याचे आकर्षण संवेदनात्मक आणि अतिशय सुलभ आहे, म्हणून त्याची प्रचंड लोकप्रियता आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "राखाडी आणि काळ्या रंगाची मांडणी क्र. व्हिस्लर्स मदर किंवा पोर्ट्रेट ऑफ आर्टिस्ट्स मदर या बोलण्यातील नावाने प्रसिद्ध असलेले 1 हे चित्र, अमेरिकेत जन्मलेले चित्रकार जेम्स अॅबॉट मॅकनील व्हिस्लर यांनी 1871 साली कॅनव्हासवरील तेलावर रेखाटलेले आहे. चित्रकलेचा विषय व्हिस्लरची आई, अॅना मॅकनील व्हिस्लर आहे. चित्र 56.81 बाय 63.94 इंच (1,443 मिमी × 1,624 मिमी) आहे, जे व्हिस्लरच्या स्वतःच्या रचनेच्या चौकटीत प्रदर्शित केले आहे. 1891 मध्ये फ्रेंच राज्याने विकत घेतल्यानंतर, तो पॅरिसमधील म्युझी डी 'ऑर्सेच्या ताब्यात आहे. अमेरिकेबाहेरील एखाद्या अमेरिकन कलाकाराच्या सर्वात प्रसिद्ध कलाकृतींपैकी ही एक आहे. अमेरिकन प्रतिमा आणि व्हिक्टोरियन मोनालिसा म्हणून त्याचे विविध प्रकारे वर्णन केले गेले आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "द अर्नॉल्फिनी पोर्ट्रेट (किंवा द अर्नॉल्फिनी वेडिंग, द अर्नॉल्फिनी मॅरेज, द पोर्ट्रेट ऑफ जिओव्हानी अर्नॉल्फिनी अँड हिज वाईफ, किंवा इतर शीर्षके) हे प्रारंभिक नेदरलँडिश चित्रकार जान व्हॅन आयक यांनी ओक पॅनेलवर 1434 साली रेखाटलेले तैलचित्र आहे. हे एक पूर्ण लांबीचे दुहेरी चित्र तयार करते, जे इटालियन व्यापारी जिओव्हानी डी निकोलाओ अर्नोल्फिनी आणि त्याच्या पत्नीचे चित्रण करते असे मानले जाते, बहुधा फ्लेमिश शहरातील ब्रुगेस येथील त्यांच्या निवासस्थानी. त्याचे सौंदर्य, गुंतागुंतीची प्रतिमाशास्त्र, भौमितिक ऑर्थोगोनल दृष्टीकोन आणि आरशाच्या वापरासह चित्र जागेचा विस्तार यामुळे हे पाश्चात्य कलेतील सर्वात मूळ आणि गुंतागुंतीच्या चित्रांपैकी एक मानले जाते. अर्न्स्ट गोम्ब्रिच यांच्या मते, \"इटलीतील डोनाटेलो किंवा मासासिओ यांच्या कार्याइतकेच ते त्याच्या स्वतःच्या पद्धतीने नवीन आणि क्रांतिकारी होते. वास्तविक जगाचा एक साधा कोपरा अचानक एखाद्या पटलावर जादूसारखा बसवला गेला होता. इतिहासात प्रथमच हा कलाकार खऱ्या अर्थाने परिपूर्ण प्रत्यक्षदर्शी बनला. इर्विन पॅनोफ्स्की आणि इतर काही कला इतिहासकारांनी या चित्राला विवाह कराराचा एक अनोखा प्रकार मानले आहे, ज्याची चित्रकला म्हणून नोंद केली गेली आहे. 1434 मध्ये व्हॅन आयकने स्वाक्षरी केली आणि दिनांकित केले, त्याच कलाकाराने आणि त्याचा भाऊ ह्यूबर्टने गेन्ट अल्टारपीससह, टेम्पेराऐवजी तेलात अंमलात आणलेले हे सर्वात जुने अतिशय प्रसिद्ध पॅनेल पेंटिंग आहे. 1842 मध्ये लंडनमधील नॅशनल गॅलरीने हे चित्र विकत घेतले.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "किंगमिंग महोत्सवादरम्यान नदीच्या काठावर (किंगमिंग शांगहे तू) हे सोंग राजवंशाचे चित्रकार झांग झेडुआन (1085-1145) यांचे हस्तलिखित चित्र आहे आणि पुढील शतकांमध्ये त्याची अनेक वेळा नक्कल केली गेली. हे नॉर्दर्न सॉंग दरम्यान लोकांचे दैनंदिन जीवन आणि राजधानी, बियान्जिंग (सध्याचे कैफेंग) चे परिदृश्य टिपते. थडगे उडवणे आणि प्रार्थना यासारख्या सुट्टीच्या औपचारिक पैलूंऐवजी, किंगमिंग महोत्सवात उत्सवाची भावना आणि सांसारिक गोंधळ साजरा करण्यासाठी ही संकल्पना अनेकदा सांगितली जाते. उजवीकडून डावीकडे वाचा, जेव्हा एक प्रेक्षक त्याचे अनावरण करतो, तेव्हा एकापाठोपाठ एक दृश्ये समाजातील श्रीमंत ते गरीब अशा सर्व स्तरांची जीवनशैली तसेच ग्रामीण भागातील आणि शहरातील आर्थिक घडामोडी प्रकट करतात आणि कालखंडातील कपडे आणि वास्तुकलेची झलक दाखवतात. ही चित्रकला सर्व चिनी चित्रांमध्ये सर्वात प्रसिद्ध कलाकृती मानली जाते आणि तिला \"चीनची मोना लिसा\" असे म्हटले गेले आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "फुचुन पर्वतांमध्ये राहणे हे चिनी चित्रकार हुआंग गोंगवांग (1269-1354) यांच्या काही जिवंत कामांपैकी एक आहे आणि ते त्यांच्या महान कामांपैकी एक मानले जाते. 1348 ते 1350 दरम्यान रंगवलेले हे चित्र 1650 मध्ये दोन तुकड्यांमध्ये जाळण्यात आले. आज, एक तुकडा हांगझोऊ येथील झेजियांग प्रांतीय संग्रहालयात ठेवण्यात आला आहे, तर दुसरा तुकडा तैपेईमधील नॅशनल पॅलेस संग्रहालयात ठेवण्यात आला आहे. एकत्रितपणे, संपूर्ण चित्रकलेची लांबी 691.3 से. मी. असेल.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "तुम्ही या चित्राची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "तांग राजवंश आणि तिबेट यांच्यातील मैत्रीपूर्ण चकमक दर्शविण्यासाठी सम्राट तैझोंग रिसेव्हिंग द तिबेटीयन एन्व्हाय (ज्याला प्रोव्हिंग, बूनियन तु असेही म्हणतात) हे यान लिबेनने रेशीमवर रेखाटलेले एक चित्र आहे. हे चित्र 129 सेंटीमीटर (51 इंच) लांब आणि 38.5 सेंटीमीटर (15.2 इंच) रुंद आहे. बुनियन तू बीजिंगमधील द पॅलेस म्युझियममध्ये आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "देवदार सफरचंद गंज (जिम्नोस्पोरॅन्जियम जुनिपेरी-व्हर्जिनियाना) हा एक बुरशीजन्य रोग आहे ज्यासाठी जुनिपर वनस्पतींना त्यांचे गुंतागुंतीचे दोन वर्षांचे जीवनचक्र पूर्ण करणे आवश्यक आहे. विविध जुनिपर प्रजातींच्या तरुण फांद्यांवर लालसर-तपकिरी पित्त म्हणून शीतकाळात बीजाणू तयार होतात. वसंत ऋतूच्या सुरुवातीला, ओल्या हवामानात, हे गोळे फुगतात आणि बीजाणूचे चमकदार नारिंगी द्रव्यमान वाऱ्याने उडवले जाते जिथे ते सफरचंद आणि खेकडा-सफरचंदांच्या झाडांना संक्रमित करतात. या झाडांवर विकसित होणारे बीजाणू केवळ पुढच्या वर्षी जुनिपर्सना संक्रमित करतील. वर्षानुवर्षे, हा रोग जुनिपरपासून सफरचंदांपर्यंत पुन्हा जुनिपरपर्यंत जायला हवा; तो सफरचंदाच्या झाडांमध्ये पसरू शकत नाही. \n \n सफरचंद आणि खेकडा-सफरचंदांच्या झाडांवर, फुलल्यानंतर लगेचच पानांच्या वरच्या पृष्ठभागावर फिकट पिवळ्या पिनहेड आकाराचे ठिपके शोधा. हे हळूहळू मोठे होऊन चमकदार नारिंगी-पिवळ्या रंगाचे ठिपके होतात ज्यामुळे रोग ओळखणे सोपे होते. फळावरही नारिंगी ठिपके दिसू शकतात. मोठ्या प्रमाणात संक्रमित पाने अकाली खाली पडू शकतात. \n \n उपचार \n 1. उपलब्ध असताना प्रतिरोधक संवर्धनाची निवड करा. \n 2. झाडांखाली पडलेली पाने आणि इतर अवशेष जागे करा आणि विल्हेवाट लावा. \n 3. संक्रमित ज्युनिपर्सपासून गल काढून टाका. काही प्रकरणांमध्ये, जुनिपर रोपे पूर्णपणे काढून टाकली पाहिजेत. \n 4. ज्युनिपर होस्टद्वारे सोडल्या जाणाऱ्या बीजाणूपासून झाडांचे संरक्षण करण्यासाठी, अंकुर फुटणापासून सुरुवात करून, सफरचंदांवर वापरासाठी साप्ताहिक लेबल लावलेली प्रतिबंधात्मक, रोगाशी लढणारी बुरशीनाशके लावा. हे वर्षातून फक्त एकदाच घडते, त्यामुळे या वसंत ऋतूच्या प्रसारानंतर अतिरिक्त अर्ज आवश्यक नाहीत. \n 5. जुनिपरवर, ऑगस्टच्या उत्तरार्धात आणि ऑक्टोबरच्या उत्तरार्धात किमान चार वेळा तांब्याच्या द्रावणाने (0.5 ते 2.0 औंस/गॅलन पाणी) वनस्पतींवर फवारणी करून गंज नियंत्रित केला जाऊ शकतो. सेरेनेड गार्डनद्वारे बहुतेक बुरशीजन्य आणि जीवाणूजन्य रोगांवर सुरक्षितपणे उपचार करा. हे व्यापक जैव-बुरशीनाशक सेंद्रिय वापरासाठी नोंदणीकृत असलेल्या बॅसिलस सबटिलिसच्या पेटंट केलेल्या जातीचा वापर करते. सर्वात चांगली गोष्ट म्हणजे, सेरेनेड मधमाश्या आणि फायदेशीर कीटकांसाठी पूर्णपणे विषारी नाही. \n 7. गंधक आणि पायरेथ्रिन असलेली, बोनाइड® ऑर्चर्ड स्प्रे ही कीटकांच्या हल्ल्यांसाठी आणि बुरशीच्या समस्यांसाठी एक सुरक्षित, एक-हिट कॉन्सन्ट्रेट आहे. सर्वोत्तम परिणामांसाठी, हंगामाच्या सुरुवातीला संरक्षक फवारणी (2.5 औंस/गॅलन) म्हणून लावा. रोग, कीटक किंवा ओलसर हवामान असल्यास, एका गॅलन पाण्यात 5 औंस मिसळा. वनस्पतीच्या सर्व भागांवर, विशेषतः नवीन अंकुरांवर पूर्णपणे फवारणी करा. तुमच्या परिसरातील इतर संभाव्य उपाययोजनांसाठी तुमच्या स्थानिक कृषी विस्तार कार्यालयाशी संपर्क साधा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "अँथ्रॅक्नोझ. हे कोलेटोट्रिचम वंशातील बुरशीमुळे होते, जो वनस्पतींच्या रोगजनकांचा एक सामान्य गट आहे जो अनेक वनस्पतींच्या प्रजातींवरील रोगांसाठी जबाबदार असतो. संक्रमित वनस्पतींच्या देठांवर, पानांवर किंवा फळांवर गडद, पाण्यात भिजवलेल्या जखमा होतात. या जखमांची केंद्रे बहुधा विशेषतः ओलसर, उबदार हवामानात गुलाबी, जिलेटिनयुक्त बीजकांनी झाकली जातात. अँथ्रॅक्नोझ केवळ काही दिवसांत सुंदर कापणीचे कुजलेल्या कचऱ्यात रूपांतर करू शकते. \n \n बुरशीजन्य रोग बियाणे, माती आणि बागेच्या ढिगाऱ्याखाली आणि त्यावर जास्त पडतो. थंड ओलसर हवामान त्याच्या विकासास चालना देते आणि बीजाणूच्या निरंतर वाढीसाठी इष्टतम तापमान 75-85 एफ दरम्यान असते. बुरशीच्या विकासासाठी आणि अंकुरणासाठी तसेच वनस्पतीच्या संसर्गासाठी आर्द्रता आवश्यक असते. तो वारा, पाऊस, कीटक आणि बागेच्या साधनांद्वारे पसरतो. \n \n उपचार \n 1. जेव्हा शक्य असेल तेव्हा प्रतिरोधक वनस्पतींचे प्रकार निवडा आणि रोगाच्या संपर्कात न आलेल्या पाश्चिमात्य पिकवलेल्या बिया वापरा. \n 2. जर ही बुरशीजन्य समस्या सामान्य असेल तर तुमच्या स्वतःच्या बियाण्याला लागवडीपासून वाचवू नका. \n 3. रोगाचा प्रसार टाळण्यासाठी, झाडे ओले असताना बागांपासून दूर रहा आणि वापरल्यानंतर बागेतील सर्व साधनांचे (एक भाग ब्लीच करून 4 भाग पाणी) निर्जंतुकीकरण करण्याचे सुनिश्चित करा. संसर्गित पाने, फळे किंवा देठ कंपोस्ट करू नका आणि शरद ऋतूतील बागेच्या भागांची कापणी केल्यानंतर, बुरशीजन्य बीजाणूसाठी हिवाळ्यातील जागा कमी करण्यासाठी पूर्णपणे साफ करा. \n 5. सेरेनेड गार्डनद्वारे बहुतेक बुरशीजन्य आणि जीवाणूजन्य रोगांवर सुरक्षितपणे उपचार करा. हे व्यापक जैव-बुरशीनाशक सेंद्रिय वापरासाठी नोंदणीकृत असलेल्या बॅसिलस सबटिलिसच्या पेटंट केलेल्या जातीचा वापर करते. सर्वात चांगली गोष्ट म्हणजे, सेरेनेड मधमाश्या आणि फायदेशीर कीटकांसाठी पूर्णपणे विषारी नाही. \n 6. वसंत ऋतूच्या सुरुवातीला पाने विकसित होण्यास सुरुवात होते आणि संपूर्ण वाढीच्या हंगामात सुरू राहते, तेव्हा द्रवरूप तांब्याची फवारणी आणि गंधाची पूड आठवड्यातून एकदा लावली पाहिजे. दिवसा लवकर फवारणी करा आणि उष्ण हवामानात फवारणी टाळा. लागवड करण्यापूर्वी बियाण्यांवरही उपचार केले जाऊ शकतात. \n 7. कडुनिंबाची तेल फवारणी ही एक सेंद्रिय, बहुउद्देशीय बुरशीनाशक/कीटकनाशक/शमननाशक आहे जी अंडी, अळ्या आणि कीटकांच्या प्रौढ अवस्थांना नष्ट करते तसेच वनस्पतींवर बुरशीजन्य हल्ला रोखते. वसंत ऋतूतील उगवण्याच्या पहिल्या चिन्हाच्या वेळी, प्रतिबंधात्मक उपाय म्हणून प्रत्येक 7-14 दिवशी किंवा विद्यमान समस्या दूर होईपर्यंत 7 दिवसांच्या वेळापत्रकानुसार लवकर अर्ज करा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "हा जिवाणूजन्य कर्करोग आहे, जो चेरी आणि प्लमवर सर्वात सामान्य आहे, परंतु जरदाळू, पीच आणि इतर अनेक प्रकारच्या दगडी फळांवर देखील परिणाम करू शकतो. खोडावर किंवा फांद्यांवर बुडालेल्या, पाण्यात भिजलेल्या किंवा \"चिकट\" जखमा निर्माण झाल्यास या वनस्पती रोगाचा संशय घ्या. वसंत ऋतूमध्ये जेव्हा झाडांची सक्रिय वाढ सुरू होते, तेव्हा या जखमी भागातून आंबट दुर्गंधीयुक्त रस बाहेर पडू शकतो. कर्करोग आसपासच्या निरोगी झाडाची साल पेक्षा गडद होतो आणि अंतर्गत ऊती लालसर-तपकिरी ते काळ्या आणि ओलसर असतात. \n \n टीपः जर कँकर फांद्यांना किंवा खोडाला वेढा घालतात, तर रोगग्रस्त भागावरील पाने वळतात आणि पिवळी होतात. वाढ थांबते आणि फांदी किंवा झाड अखेरीस मरते. \n \n कर्करोगास कारणीभूत असलेला स्यूडोमोनास सिरिंजी हा जीवाणू, जखमी झाडाची साल किंवा अस्तित्वात असलेल्या जखमेद्वारे झाडांमध्ये प्रवेश करतो, जसे की फांदी किंवा फांदीवरील छाटणी. वसंत ऋतूतील दंवाचे नुकसान अतिरिक्त संसर्गास चालना देऊ शकते. जिवाणूजन्य कर्करोगाचे संक्रमण शरद ऋतूतील, हिवाळ्यातील आणि वसंत ऋतूच्या सुरुवातीच्या काळात (थंड, ओल्या हवामानात) होते आणि ते पाऊस किंवा पाणी आणि छाटणीच्या साधनांद्वारे पसरतात. सक्रिय कर्करोगांमध्ये, संक्रमित कळ्यांमध्ये आणि संक्रमित आणि निरोगी झाडे आणि तणांच्या पृष्ठभागावर जीवाणू जास्त हिवाळ्यात असतात. \n \n उपचार \n 1. जखमा लवकर भरून निघतात तेव्हा फुलांच्या झाडांची छाटणी करा. \n 2. संक्रमित भागाच्या अगदी खाली वाळलेले किंवा मृत हातपाय काढून टाका. \n 3. वसंत ऋतूच्या सुरुवातीला छाटणी करणे टाळा आणि जेव्हा जीवाणू सर्वात सक्रिय असतात तेव्हा पडणे टाळा. \n 4. छाटणीच्या सर्व कापणीवर टँगलफूट ट्री प्रूनिंग सीलरने ताबडतोब उपचार करा आणि प्रत्येक कापणीनंतर तुमची छाटणीची उपकरणे-एक भाग ब्लीच ते 4 भाग पाणी-निर्जंतुक करण्याची खात्री करा. \n 5. जर झाडांच्या पायथ्याभोवती स्ट्रिंग ट्रिमरचा वापर केला तर संसर्ग टाळण्यासाठी श्वास घेण्याजोग्या ट्री रॅपने झाडाची साल खराब करणे टाळा. \n 6. झाडाची साल हानीकारक तापमान चढउतार कमी करण्यासाठी पाण्याने पातळ केलेल्या पांढऱ्या लेटेक्स पेंटने ब्रश करा. \n 7. संशोधनात असे दिसून आले आहे की तांब्याच्या बुरशीनाशकांना या दगडी फळांच्या समस्येविरुद्ध काही प्रमाणात यश मिळते. तथापि, परिणाम विसंगत आहेत. एकूण व्यवस्थापन कार्यक्रमाचा एक भाग म्हणून त्याचा वापर करण्याची आम्ही शिफारस करतो. \n 8. हवेचा प्रवाह सुधारण्यासाठी आणि खोड आणि मुकुट कोरडा ठेवण्यासाठी तरुण झाडांच्या पायथ्यापासून तण आणि गवत काढून टाका. \n 9. ऑर्गेनोसाइड® प्लांट डॉक्टर हे पृथ्वी-अनुकूल प्रणालीगत बुरशीनाशक आहे जे संपूर्ण वनस्पतीमध्ये सजावटीच्या वस्तू, गवताळ जमीन, फळे आणि इतर अनेक रोगांचा सामना करण्यासाठी काम करते. प्रति गॅलन 1/3 ते 3/4 औंस पाणी मिसळा आणि छाटणीच्या जखमांवर आणि आसपासच्या भागावर रंग किंवा फवारणी करा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "हे फुलांचे शेवटचे सडणे आहे. टोमॅटो, मिरपूड, काकडी आणि वांगीचा एक गंभीर विकार, फुलांच्या शेवटी कुजणे ही एक पर्यावरणीय समस्या आहे (बुरशीजन्य नाही) जी बहुतेक वेळा असमान पाणी किंवा कॅल्शियमच्या कमतरतेमुळे होते. (हे संबंधित असू शकतात; असमान पाणी पिण्यामुळे कॅल्शियमच्या सेवनात व्यत्यय येऊ शकतो.) हा सामान्य बाग \"रोग\" बहुतेकदा जास्त खत, उच्च मिठाची पातळी किंवा दुष्काळामुळे झपाट्याने वाढल्यामुळे होतो. \n \n फुलांच्या शेवटी कुजण्याची लक्षणे हिरव्या आणि पिकलेल्या दोन्ही फळांवर दिसून येतात आणि पाण्याने भिजवलेल्या भागांद्वारे ओळखली जातात जी हळूहळू रुंद होतात आणि खालच्या टोकावरील बुडालेल्या, तपकिरी, चामड्याच्या ठिपक्यांमध्ये परिपक्व होतात. अनेक प्रकरणांमध्ये, दुय्यम रोगजनक, जे काळ्या, अस्पष्ट वाढीसमान दिसतात, ते प्रभावित भागावर हल्ला करतात आणि फळ पूर्णपणे कुजण्यास कारणीभूत ठरतात. फुलांच्या शेवटी होणारा कुजणे एका वनस्पतीपासून दुसऱ्या वनस्पतीपर्यंत पसरत नाही. \n \n उपचार \n ही वनस्पतीची समस्या शारीरिक स्वरूपाची असल्याने, बुरशीनाशके नियंत्रण उपाय म्हणून काम करणार नाहीत. आम्ही खालील शिफारस करतोः \n \n 1. जेव्हा शक्य असेल तेव्हा प्रतिरोधक भाज्यांचे प्रकार निवडा. \n 2. माती समान ओलसर ठेवून आणि केल्प किंवा कॅल्शियम द्रावणाने वनस्पतींवर पानांची फवारणी करून समस्या टाळा. \n 3. लागवडीच्या वेळी मातीमध्ये उच्च पातळीचे कॅल्शियम-हाडांचे जेवण, ऑयस्टर शेल किंवा जिप्सम घालणे सहसा ही समस्या विकसित होण्यापासून रोखते. मल्चचा एक थर (पेंढा, कंपोस्ट, गवत) जुलै आणि ऑगस्टच्या उष्ण, कोरड्या दिवसांत मातीतील ओलावा टिकवून ठेवण्यास मदत करेल. द्रव कॅल्शियम 5 टक्के (1-2 टेस्पून/गॅलन पाणी) च्या पानांचा वापर या आवश्यक पोषक तत्वांची कमतरता सुधारण्यासाठी किंवा रोखण्यासाठी केला जाऊ शकतो. सर्वोत्तम परिणामांसाठी, आसंजन वाढविण्यासाठी नैसर्गिक सर्फॅक्टंटसह एकत्र करा आणि गळतीच्या बिंदूपर्यंत पाने फवारणी करा. \n 6. मल्चिंग रोपे आर्द्रता जतन करण्यास आणि अधिक एकसमान पाणी पुरवठा प्रदान करण्यास मदत करतील. \n 7. उच्च नायट्रोजन खतांचा वापर करणे टाळा जे वनस्पतींच्या वाढीस गती देतात आणि वनस्पतींद्वारे कॅल्शियमचे सेवन कमी करतात. प्लॅनेट नॅचरल येथे संतुलित सेंद्रिय खतांची मोठी निवड उपलब्ध आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "हा ब्राऊन रॉट (मोनिलिनिया फ्रुक्टिकोला) हा सर्वात सामान्य बुरशीजन्य रोग आहे, जो बदाम, जर्दाळू, चेरी, पीच आणि प्लमच्या फुलांवर आणि फळांवर परिणाम करतो. हे ममीकृत फळांमध्ये (झाडावर आणि जमिनीवर) आणि संक्रमित फांद्यांमध्ये अतिशीत असते. \n \n हा रोग प्रथम वसंत ऋतूमध्ये फुलांना संक्रमित करतो आणि पुन्हा लहान फांद्यांमध्ये वाढतो ज्यामुळे कँकर होतात जे देठ नष्ट करू शकतात. जेव्हा हा रोग गंभीर असतो तेव्हा मोठ्या संख्येने फुले देणार्या देठांचा मृत्यू होतो. मृत फुले अनेकदा उन्हाळ्यात जोडलेली असतात. विकसनशील किंवा परिपक्व फळे गोलाकार किंवा तपकिरी ठिपके दर्शवतात जे पृष्ठभागावर वेगाने पसरतात आणि कुजलेल्या भागांवर बीजाणूचे हलके राखाडी द्रव्यमान तयार होते. कुजलेली ऊती तुलनेने घट्ट आणि कोरडी राहते. \n \n तपकिरी सडलेले बीजाणू वारा, पाऊस आणि कीटकांद्वारे खुल्या किंवा न उघडलेल्या फुलांमध्ये आणि तरुण अंकुरांमध्ये वाहून नेले जातात. जर पाणी एकतर पाऊस, दव किंवा पाण्यामुळे फुलांच्या पृष्ठभागावर असेल तर बीजाणू उगवू शकतात आणि वनस्पतीमध्ये प्रवेश करू शकतात. रोगाचा विकास तापमानाच्या विस्तृत श्रेणीत होतो आणि कळ्या उघडल्यापासून पाकळ्या पडण्यापर्यंत फुलांना संसर्ग होऊ शकतो. अनुकूल परिस्थितीत, तपकिरी कुजणे वेगाने पसरते आणि संपूर्ण पीक झाडावर पूर्णपणे नष्ट केले जाऊ शकते. \n \n उपचार \n 1. जेव्हा शक्य असेल तेव्हा प्रतिरोधक जाती निवडा. \n 2. संक्रमित वनस्पतींचे भाग त्वरित काढून टाकणे आणि नष्ट करणे वैयक्तिक झाडे आणि लहान फळबागांमधील रोगाचे जीवनचक्र तोडण्यास मदत करते आणि तपकिरी सडणे हानीकारक पातळीच्या खाली ठेवण्यासाठी पुरेसे असू शकते. \n 3. झाडाखाली पडलेली कोणतीही फळे किंवा अवशेष गोळा करणे आणि काढून टाकणे महत्वाचे आहे. \n 4. हवेचा प्रवाह सुधारण्यासाठी झाडांची अधूनमधून छाटणी करा. तसेच, फुले, पाने आणि फळे ओले होऊ नयेत म्हणून खालून पाणी द्यावे. \n 5. सर्व कट आणि जखमा सील करण्यासाठी आणि कीटक आणि रोग जीवांपासून संरक्षण करण्यासाठी टेंगलफूट® छाटणी सीलर्सचा वापर करा. \n 6. वापरासाठी तयार असलेली तांब्याची बुरशीनाशके किंवा गंधकयुक्त पूड संक्रमित झाडांना दर आठवड्याला लावायला हवी, जेव्हा फुले उघडू लागतात आणि संपूर्ण वाढीच्या हंगामात चालू राहतात. जर शक्य असेल तर, 12 तास कोरडे हवामान असावे यासाठी वेळेचा वापर केला जातो. \n 7. ऑर्गेनोसाइड® प्लांट डॉक्टर हे एक पृथ्वी-अनुकूल प्रणालीगत बुरशीनाशक आहे जे संपूर्ण वनस्पतीमध्ये सजावटीच्या वस्तू, गवताळ जमीन, फळे आणि इतर अनेक रोगांचा सामना करण्यासाठी कार्य करते. या विध्वंसक दगडी फळांच्या समस्येचा सामना करण्यासाठी पानांचा फवारा (1 टिस्पून/गॅलन पाणी) म्हणून लावा. \n 8. गंधक आणि पायरेथ्रिन असलेली, बोनाइड® ऑर्चर्ड स्प्रे ही कीटकांच्या हल्ल्यांसाठी आणि बुरशीच्या समस्यांसाठी एक सुरक्षित, एक-हिट कॉन्सन्ट्रेट आहे. सर्वोत्तम परिणामांसाठी, हंगामाच्या सुरुवातीला संरक्षक फवारणी (2.5 औंस/गॅलन) म्हणून लावा. रोग, कीटक किंवा ओलसर हवामान असल्यास, एका गॅलन पाण्यात 5 औंस मिसळा. वनस्पतीच्या सर्व भागांवर, विशेषतः नवीन अंकुरांवर पूर्णपणे फवारणी करा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "ते क्लब रूट आहे. बहुतेक ब्रासिका पिकांवर (कोबी, ब्रोकोली, फुलकोबी इ.) परिणाम होतो.), क्लब रूट हा उत्तर अमेरिकेतील घरगुती बागांमधील एक गंभीर वनस्पती रोग आहे. हे प्लाझ्मोडिओफोरा ब्रासिका या मातीजन्य बुरशीमुळे होते, जी मुळांच्या केसांद्वारे अतिसंवेदनशील वनस्पतींना संक्रमित करते. रोगग्रस्त मुळे सुजलेली, चुकीच्या आकाराची आणि विकृत (जोडलेली) होतात आणि अनेकदा फुटतात आणि कुजत जातात. परिणामी, वनस्पतींना पाणी आणि पोषकद्रव्ये योग्यरित्या शोषून घेण्यात अडचण येते. \n \n झाडे अनेकदा खराब वाढतात आणि दिवसाच्या उष्णतेमध्ये मरतात; थंड रात्री वनस्पती अनेकदा पुनरुज्जीवित होतात. बाहेरील पाने पिवळी, जांभळी किंवा तपकिरी होऊ शकतात. क्लब रूटमुळे उत्पादन कमी होईल आणि एकूण पीक निकामी होऊ शकते. \n \n बुरशीजन्य बीजाणू वारा, पाणी आणि बागेच्या साधनांद्वारे पसरू शकतात. रोगाचा विकास विविध परिस्थितींमध्ये होऊ शकतो, परंतु जास्त ओलावा, कमी मातीचे पीएच आणि 64 ते 77 डिग्री फॅरेनहाइट दरम्यानचे मातीचे तापमान याला अनुकूल आहे. बीजाणू जमिनीत 10 वर्षांपर्यंत जगू शकतात. \n \n उपचार \n 1. बुरशीनाशके या मातीमध्ये राहणाऱ्या सूक्ष्मजीवांवर उपचार करणार नाहीत. \n 2. शक्य असेल तेव्हा प्रतिरोधक संवर्धनाची निवड करा. \n 3. बाग स्वच्छ ठेवून आणि पिके फिरवून हा रोग होऊ नये यासाठी प्रयत्न करा. \n 4. लक्षात ठेवा की रोगाचे बीजाणू जमिनीत 20 वर्षांपर्यंत टिकू शकतात. जर क्लब रूट अस्तित्वात असेल तर तुम्हाला मातीचे सौरकरण करायचे असेल. * \n 5. रोगाची संभाव्य वाढ कमी करण्यासाठी संसर्ग होऊ शकणारी मोहरी, मुळा, मेंढपाळांची पर्स या संवेदनाक्षम तणांवर नियंत्रण ठेवा. \n 6. वापरल्यानंतर संक्रमित झाडे काळजीपूर्वक काढून टाका आणि बागेतील साधने निर्जंतुक करा (एक भाग ब्लीच 4 भाग पाण्यात). \n 7. शरद ऋतूमध्ये तुमच्या बागेत ऑयस्टर शेल किंवा डोलोमाइट चुना मिसळून तुमच्या मातीचे पीएच अधिक अल्कधर्मी 7.2 पर्यंत वाढवा. पी. एच. वारंवार तपासण्यासाठी साधे आणि परवडणारे माती चाचणी संच उपलब्ध आहेत.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "तो कॉर्न स्मट आहे. घरामागील बागांमध्ये आणि छोट्या शेतांमध्ये वारंवार आढळणारा मक्याचा डाग उस्टिलागो झी या बुरशीमुळे होतो आणि तो देठ, पाने, दांडे किंवा कानांमध्ये दिसू शकतो. जेव्हा कान मशरूमसारख्या गाठी किंवा गळू तयार करतात तेव्हा सामान्यतः लक्षणे दिसून येतात. ही \"सूज\" लहान, पांढऱ्या-राखाडी अनियमिततेपासून सुरू होते जी वाढतात आणि बीजाणू भरताना काळ्या रंगाची होतात. कानाच्या गाठी 4 ते 5 इंच व्यासापर्यंत वाढू शकतात आणि फुटल्यावर हजारो बीजाणू सोडतात. नवीन वनस्पतींना संक्रमित करण्यासाठी हे बुरशीजन्य बीजाणू वाऱ्यामुळे बरेच अंतर उडवले जातात. पानांवरील गुठळ्या लहान राहतात आणि अखेरीस कठीण आणि कोरड्या होतात. \n \n बागेच्या ढिगाऱ्यावर आणि मातीमध्ये कॉर्न स्मट अतिशीत आहे. तो वारा, पाऊस आणि सिंचनाद्वारे वाहून नेला जातो आणि उष्ण, कोरड्या हवामानात सर्वोत्तम कामगिरी करतो. बीजाणू 5 ते 7 वर्षांपर्यंत व्यवहार्य राहू शकतात. लागवडीसह विविध दुखापतींमुळे झालेल्या जखमा आणि वाहत्या मातीमुळे होणाऱ्या ओरखडे, बुरशीला वनस्पतीमध्ये प्रवेश करण्यासाठी गुण प्रदान करतात. \n \n उपचार \n 1. जेव्हा उपलब्ध असेल तेव्हा सिल्वर किंग, फॅन्टासिया, ब्रिलियंट आणि सेनेका सेन्सेशन यासारखे सर्वोत्तम प्रतिरोधक प्रकार निवडा. घरामागील बागांमध्ये, गडद बुरशीजन्य बीजाणू सोडले जाण्यापूर्वी गल्स गोळा करणे आणि नष्ट करणे सुचवले जाते. यामुळे उपलब्ध बुरशीजन्य बीजाणूची संख्या मर्यादित होईल आणि रोग-चक्र तोडण्यास मदत होईल. \n 3. लागवडीदरम्यान मुळे, देठ आणि पानांना इजा होणे टाळून संसर्गाचे बिंदू कमी करा. \n 4. मॉन्टेरी® गार्डन कीटक फवारणी किंवा इतर सेंद्रिय कीटकनाशकांद्वारे कॉर्न बोरर्ससारख्या कीटकांपासून होणारे नुकसान टाळा. \n 5. बुरशीनाशके हा एक प्रभावी नियंत्रण पर्याय नाही कारण हा रोग इतका व्यापक आहे आणि जमिनीत वर्षानुवर्षे टिकू शकतो. \n 6. उच्च नायट्रोजन खते रोगाची तीव्रता वाढवू शकतात-भाजीपाल्याच्या बागेत संतुलित सेंद्रिय खत वापरा. कापणीनंतर बागेतील सर्व अवशेष काढून टाका आणि नष्ट करा आणि पुढच्या वर्षी पीक फेरपालट करा. \n 8. पिशवीत टाका किंवा संक्रमित वनस्पतींचे भाग जाळा-कंपोस्ट करू नका.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "हा मुकुट पित्त आहे, हा माती-जनित जीवाणू एग्रोबॅक्टेरियम ट्यूमेफेशियन्समुळे होणारा एक सामान्य वनस्पती रोग आहे. हे जगभरात आढळते आणि द्राक्ष, रास्पबेरी, ब्लॅकबेरी आणि गुलाब यासह वृक्षाच्छादित झुडपे आणि औषधी वनस्पतींवर आढळते. \n \n मुकुट पित्ताच्या लक्षणांमध्ये गोल, चामखीळासारखी वाढ-2 इंच किंवा व्यासाने मोठी-जी मातीच्या रेषेवर किंवा अगदी वर किंवा खालच्या फांद्या आणि देठांवर दिसते. अनेक गॉल असलेली झाडे पाणी आणि पोषक द्रव्ये खोडावर हलवू शकत नाहीत आणि कमकुवत, वाढलेली आणि अनुत्पादक होऊ शकतात. पित्ताच्या ऊतींचा विकास करून तरुण वनस्पती नष्ट केल्या जाऊ शकतात. \n \n मुकुट पित्तासाठी जबाबदार असलेले जीवाणू जमिनीत अनेक वर्षे टिकून राहू शकतात आणि जेव्हा गल्स आर्द्रतेने संतृप्त होतात किंवा जुन्या गल्स विघटित होतात तेव्हा सोडले जातात. संवेदनशील वनस्पतींना ताज्या जखमा किंवा ओरखड्यांद्वारे संसर्ग होतो, ज्यापैकी अनेक छाटणी, गोठवलेली दुखापत, मातीचे कीटक, लागवड आणि वनस्पतींचे नुकसान करू शकणाऱ्या इतर घटकांचा परिणाम आहेत. रोपवाटिकेत साठलेल्या जनावरांना अनेकदा कलम आणि उगवण्याच्या जखमांद्वारे संसर्ग होतो. \n \n उपचार \n 1. जेव्हा शक्य असेल तेव्हा प्रतिरोधक संवर्धनाची निवड करा आणि प्रतिष्ठित रोपवाटिकेतून वनस्पती खरेदी करा. \n 2. सूज किंवा गळतीची चिन्हे दर्शविणारी झाडे खरेदी करू नका. \n 3. संवेदनाक्षम वनस्पतींची काळजी घेताना, मातीच्या संपर्कात येऊ शकणाऱ्या दुखापती किंवा छाटणीच्या जखमा टाळा. \n 4. स्ट्रिंग ट्रिमरच्या नुकसानीपासून संरक्षण करण्यासाठी आणि तुमच्या बागेतील साधने स्वच्छ ठेवण्यासाठी ट्री रॅप वापरा. \n 5. झाडाची साल फुटू नये म्हणून नैसर्गिक बर्लॅपसह हिवाळ्यातील संरक्षण प्रदान करा. \n 6. अनेक प्रकरणांमध्ये, अस्तित्वात असलेले गोळे धारदार छरीने काढले जाऊ शकतात. संक्रमित वनस्पतीच्या ऊतींचा नाश करा आणि जखमेवर छाटणी सीलरने उपचार करा. जर वनस्पती बरी होत नसेल तर ती काढून नष्ट करा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "हा राखाडी रंगाचा बुरशी (बोट्रिटिस सिनेरिया) आहे. वनस्पतींच्या विस्तृत श्रेणीवर आढळणारा (उल्लेख करण्यासाठी खूप जास्त), राखाडी बुरशी हा एक बुरशीजन्य रोग आहे जो बागांमधून वेगाने प्रवास करतो, विशेषतः ओलसर, थंड ते सौम्य हवामानात. रोगाची लक्षणे पाने, देठ, फुले आणि उत्पादनांवर राखाडी रंगाचे मऊ, मऊ ठिपके म्हणून दिसून येतात. विशेषतः आर्द्रता जास्त असल्यास, ठिपके राखाडी बुरशीच्या बीजाणूच्या आवरणाने झाकले जाऊ शकतात. फळे किंवा वनस्पती सुकतात आणि कुजत जातात आणि अनेकदा कुजलेल्या भागांखाली काळे, दगडासारखे स्क्लेरोटिया-कठीण बुरशीजन्य तंतूंचे एक संक्षिप्त द्रव्यमान विकसित होते. \n \n राखाडी बुरशी बहुतेकदा मातीच्या पृष्ठभागाजवळ किंवा वनस्पतीच्या छत्राच्या सर्वात दाट भागात आढळते. हे प्रथम वाळलेल्या फुलांवर विकसित होते, नंतर वनस्पतीच्या इतर भागांमध्ये वेगाने पसरते. साठवण क्षेत्रातही हा रोग होऊ शकतो ज्यामुळे कापणी केलेली फळे आणि भाज्या कुजत पडतात. \n \n बोट्रिटिस ब्लाइट वनस्पतींवर, जमिनीत किंवा जमिनीवर आणि स्क्लेरोटिया म्हणून अतिशीत आहे. जेव्हा परिस्थिती अनुकूल असते तेव्हा बीजाणू विकसित होतात आणि वाऱ्यामुळे किंवा फुलांवर किंवा तरुण पानांवर शिंपडणाऱ्या पाण्याने हलवले जातात, जिथे ते उगवतात आणि वनस्पतीमध्ये प्रवेश करतात. बीजाणू अंकुरित होण्यासाठी थंड तापमान (45-60 एफ.) आणि उच्च आर्द्रता (93 टक्के आणि त्याहून अधिक) आवश्यक असते. अंकुरित बीजाणू क्वचितच हिरव्या, निरोगी ऊतींमध्ये थेट प्रवेश करतात, परंतु वाढत्या वनस्पतींवरील जखमांमधून प्रवेश करू शकतात. कापणी विशेषतः संसर्गास संवेदनाक्षम असते. \n \n उपचार \n 1. वनस्पतींमधील हवेचा प्रवाह सुधारण्यासाठी रोपांची छाटणी करा किंवा दांडे मारा. प्रत्येक कापणीनंतर तुमची छाटणीची उपकरणे (एक भाग ब्लीच ते 4 भाग पाणी) निर्जंतुक करण्याची खात्री करा. घराच्या आत वाढत असल्यास हवेचा प्रवाह सुधारण्यासाठी एक लहान क्लिप-ऑन पंखा वापरा. \n 3. झाडाखालील माती स्वच्छ ठेवा आणि पडलेले अवशेष गोळा करा. \n 4. वनस्पतींच्या खाली चांगल्या प्रमाणात सेंद्रिय कंपोस्ट किंवा गवत घाला. मल्चमुळे बुरशीजन्य बीजाणू पुन्हा फुले आणि पानांवर शिंपडण्यापासून रोखले जातील. \n 5. दिवसा झाडांना कोरडे होण्यासाठी वेळ देण्यासाठी पहाटेच्या वेळी पाणी द्या किंवा भिजणारी नळी वापरा. संक्रमित वनस्पतींची पाने किंवा देठ कंपोस्ट करू नका आणि बुरशीजन्य बीजाणूसाठी हिवाळ्यातील जागा कमी करण्यासाठी शरद ऋतूतील बागांचे भाग पूर्णपणे स्वच्छ करा. \n 7. कॉपर-सोप बुरशीनाशके रोगांच्या बीजाणूपासून वनस्पतींचे संरक्षण करण्यास मदत करतील. फुलांच्या प्रारंभी लावा आणि कापणी होईपर्यंत प्रत्येक 7-10 दिवसांनी सुरू ठेवा. जेव्हा हवामानाचा अंदाज थंड, ओल्या हवामानाच्या दीर्घ कालावधीचा अंदाज वर्तवतो तेव्हा बुरशीनाशक फवारणी विशेषतः आवश्यक असते. \n 8. बोट्राइटिस ब्लाइटसह बहुतेक बुरशीजन्य रोगांवर सेरेनेड गार्डनद्वारे सुरक्षितपणे उपचार करा. हे व्यापक जैव-बुरशीनाशक सेंद्रिय वापरासाठी नोंदणीकृत असलेल्या बॅसिलस सबटिलिसच्या पेटंट केलेल्या जातीचा वापर करते. सर्वात चांगली गोष्ट म्हणजे, सेरेनेड मधमाश्या आणि फायदेशीर कीटकांसाठी पूर्णपणे विषारी नाही. \n 9. मायकोस्टॉप या सेंद्रिय वापरासाठी मान्यताप्राप्त जैविक बुरशीनाशकाने या रोगाचे दडपण दर्शविले आहे. संवेदनाक्षम पाने, फुले आणि फळांवर थेट फवारणी (5 ग्रॅम/50 लिटर पाणी) करा. दर 2-3 आठवड्यांनी किंवा रोगाच्या दाबानुसार आवश्यकतेनुसार लागू करा. \n 10. ग्रीन क्योर बुरशीनाशकामध्ये पोटॅशियम बायकार्बोनेटचे पेटंट केलेले सूत्र असते-जे सामान्यतः खाद्यपदार्थांमध्ये वापरले जाते-जे वनस्पतींचे अनेक रोग संपर्काच्या वेळी नष्ट करते आणि 2 आठवड्यांपर्यंतचे अवशिष्ट संरक्षण प्रदान करते. रोगाच्या पहिल्या चिन्हाच्या वेळी, 1-2 टेस्पून/गॅलन पाणी मिसळा आणि वनस्पतीच्या सर्व उघड्या पृष्ठभागावर लावा. सर्वोत्तम संरक्षणासाठी, रोगाच्या विकासासाठी परिस्थिती अनुकूल होईपर्यंत 1 ते 2 आठवड्यांच्या अंतराने पुनरावृत्ती करा.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "हा रोग काय आहे (थोडक्यात परिचय द्या) आणि त्यावर उपचार कसे करावे?",
+        "answer": "हा सुरुवातीचा रोग आहे. टोमॅटो आणि बटाट्याच्या वनस्पतींवर सामान्य, प्रारंभिक रोग अल्टरनेरिया सोलानी या बुरशीमुळे होतो आणि संपूर्ण अमेरिकेत आढळतो. लक्षणे प्रथम खालच्या, जुन्या पानांवर केंद्रित वर्तुळांसह लहान तपकिरी ठिपके म्हणून दिसून येतात जे \"बैलांच्या डोळ्याचा\" नमुना तयार करतात. जसजसा हा रोग परिपक्व होतो, तसतसा तो पानांच्या पृष्ठभागावर बाहेर पसरतो, ज्यामुळे तो पिवळा होतो, कोरडा होतो आणि मरतो. अखेरीस खोड, फळे आणि वनस्पतीच्या वरच्या भागाला संसर्ग होईल. पिकांचे मोठे नुकसान होऊ शकते. \n \n संसर्गित वनस्पतीच्या ऊतींवर लवकर रोगाचा प्रादुर्भाव होतो आणि पाऊस, सिंचन, कीटक आणि बागेतील साधने शिंपडल्याने पसरतो. हा रोग टोमॅटोच्या बिया आणि बटाट्याच्या कंदांमध्येही पसरतो. त्याचे नाव असूनही, वाढीच्या हंगामात कधीही लवकर रोग होऊ शकतो. उच्च तापमान (80-85 °F.) आणि ओल्या, दमट परिस्थितीमुळे त्याचा जलद प्रसार होतो. अनेक प्रकरणांमध्ये, अपुरे पोषण असलेल्या किंवा ताणलेल्या वनस्पतींवर हल्ला केला जातो. \n \n उपचार \n हवेचे परिसंचरण सुधारण्यासाठी आणि बुरशीच्या समस्या कमी करण्यासाठी रोपांची छाटणी किंवा दांडा. \n प्रत्येक कापणीनंतर तुमची छाटणी कातडी (एक भाग ब्लीच ते 4 भाग पाणी) निर्जंतुक करण्याची खात्री करा. \n झाडाखालील माती स्वच्छ आणि बागेच्या अवशेषांपासून मुक्त ठेवा. वनस्पतीवर बीजाणू पुन्हा शिंपडण्यापासून रोखण्यासाठी सेंद्रिय कंपोस्टचा थर घाला. \n पाने कोरडी ठेवण्यासाठी ठिबक सिंचन आणि भिजवण्याच्या नळ्यांचा वापर केला जाऊ शकतो. \n सर्वोत्तम नियंत्रणासाठी, रोग सामान्यपणे दिसण्याच्या दोन आठवडे आधी किंवा जेव्हा हवामानाचा अंदाज दीर्घ कालावधीच्या ओल्या हवामानाचा अंदाज लावतो तेव्हा तांबे-आधारित बुरशीनाशके लवकर लावा. वैकल्पिकरित्या, जेव्हा रोग पहिल्यांदा दिसून येतो तेव्हा उपचार सुरू करा आणि जोपर्यंत आवश्यक असेल तोपर्यंत प्रत्येक 7-10 दिवसांनी पुनरावृत्ती करा. \n तांबे आणि पायरेथ्रिन असलेले, बोनाइड® गार्डन डस्ट हे अनेक कीटकांचे हल्ले आणि बुरशीच्या समस्यांसाठी एक सुरक्षित, एक-चरणीय नियंत्रण आहे. चांगल्या परिणामांसाठी, पानांचे वरचे आणि खालचे दोन्ही भाग पातळ एकसमान आवरण किंवा धूळाने झाकून ठेवा. पानांच्या घनतेनुसार, 10 औंस 625 चौरस फूट व्यापेल. आवश्यकतेनुसार दर 7-10 दिवसांनी अर्जांची पुनरावृत्ती करा. \n सेरेनेड गार्डन ही एक व्यापक श्रेणी आहे, जी अनेक महत्त्वाच्या वनस्पती रोगांच्या नियंत्रणासाठी किंवा दडपण्यासाठी शिफारस केलेली प्रतिबंधात्मक जैव-बुरशीनाशक आहे. उत्तम परिणामांसाठी, पानांचा रोग विकसित होण्यापूर्वी किंवा संसर्गाच्या पहिल्या चिन्हावर उपचार करा. 7 दिवसांच्या अंतराने किंवा आवश्यकतेनुसार पुनरावृत्ती करा. \n कापणीनंतर बागेतील सर्व अवशेष काढून टाका आणि नष्ट करा आणि पुढच्या वर्षी पीक फेरपालट करण्याचा सराव करा. \n संक्रमित वनस्पतींचे भाग जाळा किंवा पिशवीत ठेवा. कंपोस्ट करू नका.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "सर आयझॅक न्यूटन एफ. आर. एस. (25 डिसेंबर 1642-20 मार्च) हे एक इंग्रजी गणितशास्त्रज्ञ, भौतिकशास्त्रज्ञ, खगोलशास्त्रज्ञ, रसायनशास्त्रज्ञ, धर्मशास्त्रज्ञ आणि लेखक होते ज्यांचे त्यांच्या काळात नैसर्गिक तत्त्वज्ञ म्हणून वर्णन केले गेले होते. वैज्ञानिक क्रांती आणि त्यानंतरच्या प्रबोधनातील ते एक प्रमुख व्यक्तिमत्व होते. 1687 मध्ये प्रथम प्रकाशित झालेल्या 'फिलॉसॉफी नॅच्युरलिस प्रिन्सिपिया मॅथेमॅटिका' (नॅच्युरल फिलॉसॉफीची गणितीय तत्त्वे) या त्यांच्या अग्रगण्य पुस्तकाने मागील अनेक निकालांचे एकत्रीकरण केले आणि शास्त्रीय यांत्रिकीची स्थापना केली. न्यूटनने प्रकाशशास्त्रात देखील महत्त्वपूर्ण योगदान दिले आणि अनंत कलनशास्त्र विकसित करण्याचे श्रेय जर्मन गणितशास्त्रज्ञ गॉटफ्रीड विल्हेम लीबनिझ यांना दिले.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "कन्फ्यूशियस (चीनीः; पिनयिनः;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; कन्फ्यूशियसची शिकवण आणि तत्वज्ञान पूर्व आशियाई संस्कृती आणि समाजाला आधार देते, जे आजही संपूर्ण चीन आणि पूर्व आशियामध्ये प्रभावी आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "काई लून (चीनीः चीनी; सौजन्याने नावः जिंगझोंग (चीनी); सी. 50-62-इ. स. 121), पूर्वी त्साई लून म्हणून रोमनीकृत, हा पूर्व हान राजवंशाचा चिनी नपुंसक दरबारी अधिकारी होता. पारंपरिकरीत्या ते कागदाचे आणि आधुनिक कागद बनवण्याच्या प्रक्रियेचे शोधक मानले जातात. जरी कागदाचे सुरुवातीचे प्रकार इ. स. पू. 3ऱ्या शतकापासून अस्तित्वात असले, तरी त्याच्या झाडाची साल आणि भांग टोकांद्वारे पल्प जोडल्यामुळे कागदाच्या इतिहासात त्याचे महत्त्वपूर्ण स्थान आहे, ज्याचा परिणाम मोठ्या प्रमाणात उत्पादन आणि कागदाचा जगभरात प्रसार होण्यात झाला.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "क्रिस्टोफर कोलंबस (25 ऑगस्ट ते 31 ऑक्टोबर 1451-20 मे 1506 दरम्यान) हा जेनोआ प्रजासत्ताकाचा एक इटालियन संशोधक आणि नाविक होता, ज्याने कॅथोलिक सम्राटांनी प्रायोजित केलेल्या अटलांटिक महासागरात चार स्पॅनिश-आधारित समुद्रपर्यटन पूर्ण केले, ज्यामुळे व्यापक युरोपियन शोध आणि अमेरिकेच्या युरोपियन वसाहतीकरणाचा मार्ग खुला झाला. त्याच्या मोहिमा कॅरिबियन आणि मध्य आणि दक्षिण अमेरिकेशी झालेला पहिला ज्ञात युरोपियन संपर्क होता.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "अल्बर्ट आईन्स्टाईन (14 मार्च 1879-18 एप्रिल 1955) हे जर्मनीत जन्मलेले सैद्धांतिक भौतिकशास्त्रज्ञ होते. सापेक्षतेचा सिद्धांत विकसित करण्यासाठी प्रसिद्ध असलेल्या त्याने क्वांटम यांत्रिकीच्या सिद्धांताच्या विकासात आणि अशा प्रकारे आधुनिक भौतिकशास्त्रात देखील महत्त्वपूर्ण योगदान दिले. त्याचे वस्तुमान-ऊर्जा समतुल्य सूत्र E = mc2, जे सापेक्षता सिद्धांतातून उद्भवते, त्याला 'जगातील सर्वात प्रसिद्ध समीकरण' असे संबोधले गेले आहे. त्यांचे कार्य विज्ञानाच्या तत्त्वज्ञानावरील प्रभावासाठी देखील ओळखले जाते. क्वांटम सिद्धांताच्या विकासातील एक महत्त्वपूर्ण पाऊल, \"सैद्धांतिक भौतिकशास्त्रातील त्यांच्या सेवेसाठी आणि विशेषतः फोटोइलेक्ट्रिक प्रभावाच्या नियमाच्या शोधासाठी\" त्यांना 1921 चा भौतिकशास्त्रातील नोबेल पुरस्कार मिळाला. आवर्त सारणीतील कृत्रिम घटकांपैकी एक असलेल्या आईन्स्टाईनियमला त्याच्या सन्मानार्थ नाव देण्यात आले.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "लुई पाश्चर फॉरएमईएमआरएस (27 डिसेंबर 1822-28 सप्टेंबर 1895) हे एक फ्रेंच रसायनशास्त्रज्ञ आणि सूक्ष्मजीवशास्त्रज्ञ होते, जे लसीकरण, सूक्ष्मजीव किण्वन आणि पाश्चरायझेशन या तत्त्वांच्या शोधांसाठी प्रसिद्ध होते, ज्यापैकी शेवटच्या तत्त्वाला त्यांचे नाव देण्यात आले होते. त्यांच्या रसायनशास्त्रातील संशोधनाने रोगांची कारणे आणि प्रतिबंध समजून घेण्यात उल्लेखनीय प्रगती केली, ज्यामुळे स्वच्छता, सार्वजनिक आरोग्य आणि बहुतेक आधुनिक औषधांचा पाया रचला गेला. रेबीज आणि अँथ्रॅक्सच्या लसींच्या विकासाद्वारे लाखो लोकांचे प्राण वाचवण्याचे श्रेय पाश्चरच्या कार्याला दिले जाते. त्यांना आधुनिक जीवाणूशास्त्राच्या संस्थापकांपैकी एक मानले जाते आणि त्यांना \"जीवाणूशास्त्राचे जनक\" आणि \"सूक्ष्मजीवशास्त्राचे जनक\" म्हणून सन्मानित केले गेले आहे (रॉबर्ट कोच यांच्यासमवेत; नंतरचे टोपणनाव अँटोनी व्हॅन लीउवेनहॉक यांना देखील दिले जाते).",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "गॅलिलिओ डी विन्सेन्झो बोनायुती डी गॅलिली (15 फेब्रुवारी 1564-8 जानेवारी 1642) हा एक इटालियन खगोलशास्त्रज्ञ, भौतिकशास्त्रज्ञ आणि अभियंता होता, ज्याचे कधीकधी बहुश्रुत म्हणून वर्णन केले जाते. सामान्यतः गॅलिलिओ म्हणून संबोधले जाणारे, त्याचे नाव उच्चारले जाते/βαl मुतेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल्लेल त्यांचा जन्म पिसा शहरात झाला होता, जो त्यावेळी डची ऑफ फ्लॉरेन्सचा भाग होता. गॅलेलियोला निरीक्षणात्मक खगोलशास्त्र, आधुनिक काळातील शास्त्रीय भौतिकशास्त्र, वैज्ञानिक पद्धत आणि आधुनिक विज्ञानाचे जनक म्हटले गेले आहे.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "जोशुआ अब्राहम नॉर्टन (4 फेब्रुवारी 1818-8 जानेवारी 1880), ज्याला सम्राट नॉर्टन म्हणून ओळखले जाते, तो सॅन फ्रान्सिस्को, कॅलिफोर्नियाचा रहिवासी होता, ज्याने 1859 मध्ये स्वतःला 'नॉर्टन पहिला, अमेरिकेचा सम्राट' घोषित केले. 1863 मध्ये, नेपोलियन तिसरा याने मेक्सिकोवर आक्रमण केल्यानंतर, त्याने 'मेक्सिकोचा संरक्षक' ही दुय्यम पदवी घेतली.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "लिओनेल आंद्रेस मेस्सी (स्पॅनिश उच्चारः [ljo ˈnel an ˈdɾes ˈmesi] (ऐका); जन्म 24 जून 1987), ज्याला लिओ मेस्सी म्हणूनही ओळखले जाते, हा अर्जेंटिनाचा व्यावसायिक फुटबॉलपटू आहे जो लिग 1 क्लब पॅरिस सेंट-जर्मेनसाठी फॉरवर्ड म्हणून खेळतो आणि अर्जेंटिनाच्या राष्ट्रीय संघाचा कर्णधार असतो. सर्वकालीन महान खेळाडूंपैकी एक म्हणून ओळखल्या जाणाऱ्या मेस्सीने विक्रमी सात बॅलन डी 'ओर पुरस्कार आणि विक्रमी सहा युरोपियन गोल्डन शूज जिंकले आहेत आणि 2020 मध्ये त्याला बॅलन डी' ओर ड्रीम संघात स्थान देण्यात आले. 2021 मध्ये क्लब सोडण्यापर्यंत, त्याने आपली संपूर्ण व्यावसायिक कारकीर्द बार्सिलोनाबरोबर घालवली होती, जिथे त्याने दहा ला लिगा विजेतेपद, सात कोपा डेल रे विजेतेपद आणि चार वेळा यू. ई. एफ. ए. चॅम्पियन्स लीगसह क्लब-विक्रमी 34 ट्रॉफी जिंकल्या. आपल्या देशासह त्याने 2021 कोपा अमेरिका आणि 2022 फिफा विश्वचषक जिंकला. ला लिगा (474) मध्ये सर्वाधिक गोल, ला लिगा (36) आणि यू. ई. एफ. ए. चॅम्पियन्स लीग (आठ) मध्ये सर्वाधिक हॅटट्रिक आणि ला लिगा (192) आणि कोपा अमेरिका (17) मध्ये सर्वाधिक सहाय्य करण्याचे विक्रम मेस्सीच्या नावावर आहेत. दक्षिण अमेरिकन पुरुषाकडून (102) सर्वाधिक आंतरराष्ट्रीय गोलही त्याने केले आहेत. मेस्सीने क्लब आणि देशासाठी 800 हून अधिक वरिष्ठ कारकीर्द गोल केले आहेत आणि एकाच क्लबसाठी (672) एका खेळाडूने सर्वाधिक गोल केले आहेत.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "तुम्ही या व्यक्तीची छोटीशी ओळख करून देऊ शकता का?",
+        "answer": "एलन मॅथिसन ट्युरिंग ओ. बी. ई. एफ. आर. एस. (23 जून 1912-7 जून 1954) हे एक इंग्रजी गणितशास्त्रज्ञ, संगणक शास्त्रज्ञ, तर्कशास्त्रज्ञ, गूढलिपी विश्लेषक, तत्वज्ञानी आणि सैद्धांतिक जीवशास्त्रज्ञ होते. ट्युरिंग हे सैद्धांतिक संगणक विज्ञानाच्या विकासात अत्यंत प्रभावशाली होते, ज्याने ट्युरिंग मशीनसह अल्गोरिदम आणि संगणनाच्या संकल्पनांचे औपचारिकरण प्रदान केले, ज्याला सामान्य-हेतू संगणकाचे मॉडेल मानले जाऊ शकते. त्यांना सैद्धांतिक संगणक विज्ञान आणि कृत्रिम बुद्धिमत्तेचे जनक मानले जाते.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "खालील आलेख दीर्घकालीन आंतरराष्ट्रीय स्थलांतर, यू. के., 1999-2008 दर्शवितो. \n \n मुख्य वैशिष्ट्ये निवडून आणि अहवाल देऊन माहितीचा सारांश करा आणि जेथे संबंधित असेल तेथे तुलना करा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "हा तक्ता 1999 ते 2008 दरम्यान यूकेचे स्थलांतर, स्थलांतर आणि निव्वळ स्थलांतर याबद्दल माहिती देतो. \n \n दाखवलेल्या कालावधीत स्थलांतर आणि स्थलांतर हे दोन्ही दर वाढले, परंतु स्थलांतराचे आकडे लक्षणीयरीत्या जास्त होते. निव्वळ स्थलांतर 2004 आणि 2007 मध्ये शिखरावर होते. \n \n 1999 मध्ये, 4,50,000 हून अधिक लोक यू. के. मध्ये राहण्यासाठी आले, तर स्थलांतरित लोकांची संख्या 3,00,000 च्या अगदी खाली होती. निव्वळ स्थलांतराचा आकडा सुमारे 1,60,000 होता आणि तो 2003 पर्यंत समान पातळीवर राहिला. 1999 ते 2004 या काळात स्थलांतरितांच्या संख्येत सुमारे 1,50,000 लोकांनी वाढ केली, परंतु स्थलांतरितांच्या संख्येत खूपच कमी वाढ झाली. निव्वळ स्थलांतर 2004 मध्ये सुमारे 2,50,000 लोकांपर्यंत पोहोचले. \n \n 2004 नंतर, स्थलांतराचे प्रमाण जास्त राहिले, परंतु स्थलांतरित लोकांच्या संख्येत चढ-उतार झाले. 2008 मध्ये सुमारे 4,20,000 लोकांच्या शिखरावर पोहोचण्यापूर्वी 2007 मध्ये स्थलांतर अचानक कमी झाले. परिणामी, 2007 मध्ये निव्वळ स्थलांतराची संख्या सुमारे 240,000 पर्यंत वाढली, परंतु 2008 मध्ये ती सुमारे 160,000 पर्यंत घसरली.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "खालील आलेख आणि तक्ता जगभरातील पाण्याचा वापर आणि दोन वेगवेगळ्या देशांमधील पाण्याच्या वापराची माहिती देतात. \n \n मुख्य वैशिष्ट्ये निवडून आणि अहवाल देऊन माहितीचा सारांश करा आणि जेथे संबंधित असेल तेथे तुलना करा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "या तक्त्यांमध्ये जगभरातील शेती, उद्योग आणि घरांसाठी वापरल्या जाणाऱ्या पाण्याच्या प्रमाणाची आणि ब्राझील आणि काँगोच्या लोकशाही प्रजासत्ताकातील पाण्याच्या वापराची तुलना केली आहे. \n \n हे स्पष्ट आहे की 1900 ते 2000 दरम्यान जागतिक पाण्याच्या गरजांमध्ये लक्षणीय वाढ झाली आणि वापरलेल्या पाण्याचे सर्वाधिक प्रमाण शेतीमध्ये होते. आपण हे देखील पाहू शकतो की काँगोच्या तुलनेत ब्राझीलमध्ये पाण्याचा वापर लक्षणीयरीत्या जास्त होता. \n \n 1900 मध्ये, जगभरातील कृषी क्षेत्राद्वारे सुमारे 500 किमी 3 पाणी वापरले जात होते. औद्योगिक आणि घरगुती पाणी वापराचे आकडे त्या रकमेच्या सुमारे एक पंचमांश होते. 2000 सालापर्यंत, शेतीसाठी जागतिक पाण्याचा वापर सुमारे 3000 चौरस किलोमीटरपर्यंत वाढला होता, औद्योगिक पाण्याचा वापर त्या रकमेच्या निम्म्यापर्यंत वाढला होता आणि घरगुती वापर अंदाजे 500 चौरस किलोमीटरपर्यंत पोहोचला होता. \n \n वर्ष 2000 मध्ये, ब्राझील आणि काँगोची लोकसंख्या अनुक्रमे 176 दशलक्ष आणि 5.2 दशलक्ष होती. ब्राझीलमध्ये प्रति व्यक्ती 359 मीटर 3 इतका पाण्याचा वापर काँगोच्या तुलनेत खूपच जास्त होता, केवळ 8 मीटर 3 इतका होता आणि ब्राझीलमध्ये 265 पट जास्त सिंचित जमीन होती या वस्तुस्थितीवरून हे स्पष्ट केले जाऊ शकते.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "खालील तक्ते 1970 ते 2000 दरम्यान यू. एस. ए. मधील विवाह आणि घटस्फोटांचे प्रमाण आणि दोन वर्षांतील प्रौढ अमेरिकन लोकांच्या वैवाहिक स्थितीची माहिती देतात. \n \n मुख्य वैशिष्ट्ये निवडून आणि अहवाल देऊन माहितीचा सारांश करा आणि जेथे संबंधित असेल तेथे तुलना करा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "पहिला बार चार्ट यू. एस. ए. मधील विवाह आणि घटस्फोटांच्या संख्येतील बदल दर्शवितो आणि दुसरा चार्ट 1970 आणि 2000 मधील अमेरिकन प्रौढांच्या वैवाहिक स्थितीची आकडेवारी दर्शवितो. \n \n हे स्पष्ट आहे की 1970 ते 2000 दरम्यान यू. एस. ए. मध्ये विवाहांच्या संख्येत घट झाली होती. बहुतांश प्रौढ अमेरिकन लोकांचे लग्न दोन्ही वर्षांत झाले होते, परंतु 2000 साली एकट्या प्रौढांचे प्रमाण जास्त होते. \n \n 1970 साली यू. एस. ए. मध्ये 25 लाख विवाह आणि 10 लाख घटस्फोट झाले होते. 1980 मध्ये विवाहाचे प्रमाण स्थिर राहिले, परंतु 2000 सालापर्यंत ते 20 लाखांपर्यंत घसरले. याउलट, घटस्फोटाचे प्रमाण 1980 मध्ये उच्चांकावर पोहोचले, सुमारे 15 लाख घटस्फोट, त्या कालावधीच्या शेवटी \n 10 लाखांवर परत येण्यापूर्वी. \n \n सुमारे 70 टक्के अमेरिकन प्रौढांचे लग्न 1970 साली झाले होते, परंतु 2000 सालापर्यंत ही संख्या 60 टक्क्यांपेक्षा कमी झाली. त्याच वेळी, अविवाहित लोक आणि घटस्फोटितांच्या प्रमाणात एकूण सुमारे 10 टक्क्यांनी वाढ झाली. 2000 साली विधवा अमेरिकन लोकांचे प्रमाण थोडे कमी होते.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "खालील तक्ता चार युरोपीय देशांमधील सहा ग्राहकोपयोगी वस्तूंवर खर्च केलेली रक्कम दर्शवितो. \n \n खाली दर्शविलेल्या माहितीचे वर्णन करणारा अहवाल विद्यापीठाच्या प्राध्यापकांसाठी लिहा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "बार चार्टमध्ये जर्मनी, इटली, फ्रान्स आणि ब्रिटनमधील सहा वेगवेगळ्या वस्तूंवरील ग्राहकांच्या खर्चाची तुलना केली आहे. \n \n हे स्पष्ट आहे की ब्रिटीश लोकांनी इतर तीन देशांतील लोकांपेक्षा सर्व सहा वस्तूंवर लक्षणीय जास्त पैसे खर्च केले. सहा वस्तूंपैकी ग्राहकांनी छायाचित्रण चित्रपटावर सर्वाधिक पैसे खर्च केले. \n \n ब्रिटनमधील लोकांनी छायाचित्रण चित्रपटावर फक्त £170,000 पेक्षा जास्त खर्च केला, जो चार्टवर दर्शविलेला सर्वोच्च आकडा आहे. याउलट, सहा उत्पादनांपैकी प्रत्येकासाठी अंदाजे समान आकडेवारीसह (फक्त 150,000 पाउंडच्या खाली) जर्मन सर्वात कमी एकूण खर्च करणारे होते. \n \n खेळण्यांवर खर्च करण्याची आकडेवारी फ्रान्स आणि इटली या दोन्ही देशांमध्ये समान होती, सुमारे £160,000. तथापि, फ्रेंच लोकांनी छायाचित्रण चित्रपट आणि सी. डी. वर इटालियन लोकांपेक्षा जास्त खर्च केला, तर इटालियन लोकांनी वैयक्तिक स्टिरिओ, टेनिस रॅकेट आणि परफ्यूमसाठी अधिक पैसे दिले. फ्रेंच लोकांनी टेनिस रॅकेटवर खर्च केलेली रक्कम, सुमारे £145,000, ही तक्त्यावर दर्शविलेली सर्वात कमी रक्कम आहे.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "खालील तक्त्यात सहा शहरांमधील भूमिगत रेल्वे व्यवस्थेची माहिती दिली आहे. \n \n मुख्य वैशिष्ट्ये निवडून आणि अहवाल देऊन माहितीचा सारांश करा आणि जेथे संबंधित असेल तेथे तुलना करा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "ही सारणी सहा प्रमुख शहरांमधील भूमिगत रेल्वे जाळ्यांविषयीची माहिती दर्शवते. \n \n टेबल सहा नेटवर्कची तुलना त्यांचे वय, आकार आणि दरवर्षी त्यांचा वापर करणाऱ्या लोकांची संख्या यांच्या दृष्टीने करते. हे स्पष्ट आहे की तीन सर्वात जुन्या भूमिगत प्रणाली मोठ्या आहेत आणि नवीन प्रणालींपेक्षा लक्षणीयरीत्या अधिक प्रवाशांना सेवा देतात. \n \n लंडन भूमिगत ही सर्वात जुनी प्रणाली आहे, जी 1863 मध्ये उघडली गेली. 394 किलोमीटरच्या मार्गासह ही सर्वात मोठी प्रणाली देखील आहे. पॅरिसमधील दुसरी सर्वात मोठी प्रणाली, 199 किलोमीटरच्या मार्गासह, लंडनच्या भूमिगत आकाराच्या केवळ निम्म्या आकाराची आहे. तथापि, ती दरवर्षी अधिक लोकांना सेवा देते. आकाराच्या बाबतीत केवळ तिसऱ्या क्रमांकावर असताना, दरवर्षी 1927 दशलक्ष प्रवाश्यांसह टोकियो प्रणाली सहजपणे सर्वात जास्त वापरली जाते. \n \n तीन नवीन जाळ्यांपैकी, क्योटो आणि लॉस एंजेलिस प्रणालींसाठी केवळ 11 किलोमीटर आणि 28 किलोमीटरच्या तुलनेत, 126 किलोमीटरच्या मार्गासह वॉशिंग्टन डी. सी. भूमिगत सर्वात विस्तृत आहे. लॉस एंजेलिसचे जाळे सर्वात नवीन आहे, जे 2001 मध्ये उघडले गेले आहे, तर क्योटो जाळे सर्वात लहान आहे आणि दर वर्षी केवळ 45 दशलक्ष प्रवाशांना सेवा देते.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "खालील तक्त्यात 2002 मधील पाच वेगवेगळ्या देशांतील वेगवेगळ्या वस्तूंवरील ग्राहकांच्या खर्चाची माहिती दिली आहे. \n \n मुख्य वैशिष्ट्ये निवडून आणि अहवाल देऊन माहितीचा सारांश करा आणि जेथे संबंधित असेल तेथे तुलना करा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "या तक्त्यात 2002 मधील पाच देशांमधील उत्पादने आणि सेवांच्या तीन श्रेणींसाठी ग्राहक खर्चाची टक्केवारी दर्शविली आहे. \n \n हे स्पष्ट आहे की प्रत्येक देशातील ग्राहकांच्या खर्चाचे सर्वात मोठे प्रमाण अन्न, पेय आणि तंबाखूवर गेले. दुसरीकडे, विश्रांती/शिक्षण श्रेणीची टक्केवारी सर्वात कमी आहे. \n \n पाच देशांपैकी, अन्न, पेय आणि तंबाखूवरील ग्राहकांचा खर्च तुर्कीमध्ये लक्षणीयरीत्या जास्त होता, 32.14% आणि आयर्लंडमध्ये जवळजवळ 29%. विश्रांती आणि शिक्षणावरील खर्चाचे प्रमाण देखील तुर्कीमध्ये सर्वाधिक होते, 4.35%, तर इटलीमध्ये कपडे आणि पादत्राणांवरील खर्च इतर कोणत्याही देशांच्या तुलनेत 9 टक्के इतका लक्षणीयरीत्या जास्त होता. \n \n असे दिसून येते की स्वीडनमध्ये अन्न/पेय/तंबाखू आणि कपडे/पादत्राणे यासाठी राष्ट्रीय ग्राहक खर्चाची सर्वात कमी टक्केवारी अनुक्रमे सुमारे 16 टक्के आणि फक्त 5 टक्क्यांहून अधिक होती. स्पेनमध्ये या श्रेणींसाठी किंचित जास्त आकडेवारी होती, परंतु विश्रांती/शिक्षणासाठी सर्वात कमी संख्या, फक्त 1.98% होती.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "खालील पाई तक्ते 1980 आणि 2000 मधील ऑस्ट्रेलिया आणि फ्रान्समधील इंधन स्त्रोतांद्वारे वीज उत्पादनाचे एकक दर्शवतात. \n \n मुख्य वैशिष्ट्ये निवडून आणि अहवाल देऊन माहितीचा सारांश करा आणि जेथे संबंधित असेल तेथे तुलना करा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "पाई तक्ते दोन वेगवेगळ्या वर्षांत दोन देशांमध्ये इंधनाच्या पाच वेगवेगळ्या स्त्रोतांचा वापर करून उत्पादित केलेल्या विजेच्या प्रमाणाची तुलना करतात. \n \n ऑस्ट्रेलिया आणि फ्रान्स या दोन्ही देशांमध्ये 1980 ते 2000 या काळात एकूण वीज उत्पादनात लक्षणीय वाढ झाली. दोन्ही देशांची एकूण संख्या समान असली तरी वापरलेल्या इंधन स्त्रोतांमध्ये मोठा फरक होता. \n \n 1980 मध्ये ऑस्ट्रेलियातील एकूण 100 युनिट विजेपैकी 50 युनिट वीजनिर्मितीसाठी कोळशाचा वापर करण्यात आला, जो 2000 मध्ये 170 युनिटपैकी 130 पर्यंत वाढला. याउलट, 2000 साली अणुऊर्जा हा फ्रान्समधील सर्वात महत्त्वाचा इंधन स्रोत बनला, ज्यामुळे देशातील सुमारे 75 टक्के वीजनिर्मिती झाली. \n \n ऑस्ट्रेलिया दोन्ही वर्षांत त्याच्या विजेच्या फक्त 25 टक्क्यांपेक्षा कमी विजेसाठी जलविद्युतवर अवलंबून होते, परंतु या प्रकारच्या विजेचा वापर करून तयार केलेल्या विजेचे प्रमाण फ्रान्समध्ये 5 वरून केवळ 2 युनिट्सपर्यंत घसरले. दुसरीकडे, फ्रान्समध्ये तेल हा तुलनेने महत्त्वाचा इंधन स्रोत राहिला, परंतु ऑस्ट्रेलियामध्ये त्याचा वापर कमी झाला. दोन्ही देश वीज उत्पादनासाठी 2000च्या तुलनेत 1980मध्ये मोठ्या प्रमाणात नैसर्गिक वायूवर अवलंबून होते.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "चार्लीवूड हे लंडनजवळचे एक गाव आहे ज्याची लोकसंख्या एकोणिसाव्या शतकाच्या मध्यापासून सातत्याने वाढली आहे. खालील नकाशा गावाचा विकास दर्शवितो. \n \n विद्यापीठाच्या प्राध्यापकांसाठी गावाच्या विकासाचे वर्णन करणारा अहवाल लिहा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "हा नकाशा 1868 ते 1994 दरम्यानच्या चार्लीवूड नावाच्या गावाची वाढ दर्शवितो. \n \n हे स्पष्ट आहे की वाहतूक पायाभूत सुविधांमध्ये सुधारणा झाल्यामुळे गावाचा विकास झाला. विकासाचे चार कालखंड नकाशावर दर्शविले आहेत आणि प्रत्येक लोकसंख्या असलेला भाग मुख्य रस्ते, रेल्वे किंवा मोटारमार्गाच्या जवळ आहे. \n \n 1868 ते 1883 पर्यंत, चार्लीवूडने मुख्य रस्त्यांपैकी एकाच्या बाजूचा एक छोटासा भाग व्यापला. चार्लीवूड पार्क आणि गोल्फ कोर्स आता या मूळ गाव क्षेत्राच्या शेजारी आहे. 1883 ते 1922 दरम्यान दक्षिणेकडील मुख्य रस्त्यालगत हे गाव वाढले आणि 1909 मध्ये या भागातून पश्चिमेकडून पूर्वेकडे जाण्यासाठी एक रेल्वे मार्ग बांधण्यात आला. चार्लीवूड स्थानक गावाच्या या भागात आहे. \n \n चार्लीवूडचा विस्तार 1970 पर्यंत रेल्वे मार्गाच्या बाजूने पूर्व आणि पश्चिमेला चालू राहिला. त्या वेळी, गावाच्या पूर्वेला एक मोटारमार्ग बांधण्यात आला आणि 1970 ते 1994 या काळात रेल्वे आणि मुख्य रस्त्यांपैकी एक असलेल्या मोटारमार्गाच्या छेदनबिंदूभोवती गावाचा पुढील विकास झाला.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "खालील नकाशा गार्ल्सडॉन शहराचा आहे. शहरासाठी एक नवीन सुपरमार्केट (एस) नियोजित आहे. नकाशामध्ये सुपरमार्केटसाठी दोन संभाव्य ठिकाणे दर्शविली आहेत. \n \n मुख्य वैशिष्ट्ये निवडून आणि अहवाल देऊन माहितीचा सारांश करा आणि जेथे संबंधित असेल तेथे तुलना करा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "नकाशामध्ये गार्ल्सडॉन नावाच्या शहरातील नवीन सुपरमार्केटसाठी दोन संभाव्य ठिकाणे (एस 1 आणि एस 2) दर्शविली आहेत. \n \n दोन्ही स्थळांमधील मुख्य फरक असा आहे की एस 1 शहराच्या बाहेर आहे, तर एस 2 शहराच्या मध्यभागी आहे. रस्ते किंवा रेल्वेने पोहोचण्याच्या दृष्टीने आणि तीन लहान शहरांच्या तुलनेत त्यांच्या स्थानाच्या बाबतीतही या स्थळांची तुलना केली जाऊ शकते. \n \n अधिक तपशीलवार माहिती पाहता, एस 1 हे गार्ल्सडॉनच्या वायव्येकडील ग्रामीण भागात आहे, परंतु ते शहराच्या निवासी क्षेत्राच्या जवळ आहे. एस2 हे शहराच्या मध्यभागाला वेढलेल्या गृहनिर्माण क्षेत्राच्या अगदी जवळ आहे. \n \n हिंडन, ब्रान्सडॉन आणि क्रॅन्सडॉन ते गार्ल्सडॉन शहर केंद्रापर्यंत मुख्य रस्ते आहेत, परंतु हे नो ट्रॅफिक झोन आहे, त्यामुळे एस 2 ला गाडीने जाता येणार नाही. याउलट, एस1 हे हिंडनच्या मुख्य रस्त्यावर आहे, परंतु ब्रॅन्सडॉन आणि क्रॅन्सडॉन येथून पोहोचणे अधिक कठीण आहे. दोन्ही सुपरमार्केट साइट्स हिंडनपासून क्रॅन्डनपर्यंत गार्ल्सडॉनमधून जाणाऱ्या रेल्वेच्या जवळ आहेत.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "खालील आकृती दर्शवते की ऑस्ट्रेलियन हवामानशास्त्र विभाग विश्वासार्ह अंदाज तयार करण्यासाठी हवामानाची अद्ययावत माहिती कशी गोळा करतो. \n \n खाली दर्शविलेल्या माहितीचे वर्णन करणारा अहवाल विद्यापीठाच्या प्राध्यापकांसाठी लिहा. \n \n तुम्ही किमान 150 शब्द लिहिले पाहिजेत.",
+        "answer": "ऑस्ट्रेलियन हवामानशास्त्र विभागाने हवामानाचा अंदाज लावण्यासाठी वापरलेली प्रक्रिया ही आकृती स्पष्ट करते. \n \n या प्रक्रियेत चार टप्पे आहेत, ज्याची सुरुवात हवामानाची माहिती गोळा करण्यापासून होते. ही माहिती नंतर विश्लेषित केली जाते, सादरीकरणासाठी तयार केली जाते आणि शेवटी लोकांपर्यंत प्रसारित केली जाते. \n \n प्रक्रियेचे पहिले आणि दुसरे टप्पे पाहता, हवामानाची माहिती गोळा करण्याचे तीन मार्ग आहेत आणि त्याचे विश्लेषण करण्याचे तीन मार्ग आहेत. प्रथम, येणारी माहिती उपग्रहाद्वारे प्राप्त केली जाऊ शकते आणि उपग्रह छायाचित्र म्हणून विश्लेषणासाठी सादर केली जाऊ शकते. तीच माहिती रडार स्टेशनवर देखील पाठवली जाऊ शकते आणि रडार स्क्रीनवर किंवा सिनॉप्टिक चार्टवर सादर केली जाऊ शकते. दुसरे म्हणजे, येणारी माहिती थेट रडारद्वारे गोळा केली जाऊ शकते आणि रडार स्क्रीनवर किंवा सिनॉप्टिक चार्टवर विश्लेषण केले जाऊ शकते. शेवटी, हलणाऱ्या बुईंना देखील डेटा प्राप्त होतो जो सिनोप्टिक चार्टवर दर्शविला जाऊ शकतो. \n \n प्रक्रियेच्या तिसऱ्या टप्प्यात, हवामान प्रसारण संगणकावर तयार केले जाते. शेवटी, तो दूरदर्शनवर, रेडिओवर किंवा ध्वनिमुद्रित दूरध्वनी घोषणा म्हणून लोकांपर्यंत पोहोचवला जातो.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

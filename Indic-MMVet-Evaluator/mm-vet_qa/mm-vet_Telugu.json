@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "సమీకరణంలో x అంటే ఏమిటి?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "చివరి సమీకరణంలో d అంటే ఏమిటి?",
+        "answer": "1. 25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "సమీకరణంలో x అంటే ఏమిటి?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "దిగువ ఎడమ సమీకరణానికి సమాధానం ఏమిటి?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "కుడివైపున ఉన్న రెండవ సమీకరణానికి సమాధానం ఏమిటి?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "కుడివైపున ఉన్న రెండవ చివరి సమీకరణానికి సమాధానం ఏమిటి?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "చివరి సమీకరణంలో y అంటే ఏమిటి?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"X\" ఆపరేటర్ ఎలా పునర్నిర్వచించబడిందనే నమూనాను కనుగొని, చిత్రంలో ఇచ్చిన సమీకరణానికి సమాధానం ఇవ్వండి.",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "కుడివైపున ఉన్న అమ్మాయి బోర్డుపై ఏమి వ్రాస్తుంది?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "50 డాలర్లతో నేను ఎన్ని గాలన్ల గరిష్ట గ్యాసోలిన్ పొందగలను?",
+        "answer": "13. 6 <లేదా> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "డీజిల్ మరియు సాధారణ గ్యాసోలిన్ మధ్య ధరల వ్యత్యాసం ఏమిటి?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "చిత్రంలో చూపిన మెర్లోట్ బాటిల్ మరియు కాబెర్నెట్ బాటిల్ మొత్తం ధర ఎంత?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "మోయెట్ షాంపైన్ మూడు సీసాల ధర ఎంత?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "నాకు ఒక ఫంగి పిజ్జా మరియు ఒక ప్రోసియోటో పిజ్జా దొరుకుతున్నాయి. నేను మొత్తం ఎంత చెల్లించాలి?",
+        "answer": "14. 8 <లేదా> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "నాకు రెండు మార్గరీటా పిజ్జా మరియు ఒక కాల్జోన్ లభిస్తున్నాయి. నేను మొత్తం ఎంత చెల్లించాలి?",
+        "answer": "25. 8 <లేదా> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "తగ్గింపుకు ముందు పంది మాంసం బొడ్డు అసలు ధర ఎంత?",
+        "answer": "14.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "పెట్రోలు ధర ఎంత?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "ముందు ఎడమ వైపున ఉన్న వ్యక్తి ధరించే టోపీ రంగు ఏమిటి?",
+        "answer": "నీలం",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "షాంపూ యొక్క కుడి వైపున ఏమి ఉంది?",
+        "answer": "కండిషనర్",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "సరైన సీసాలో ఏది ఉంటుంది?",
+        "answer": "మౌస్",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "ఫ్రిస్బీకి, మనిషికి మధ్య ప్రాదేశిక సంబంధం ఏమిటి?",
+        "answer": "మనిషి పైన <OR> ఎడమవైపు",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "పార్కింగ్ స్పాట్ 33 లో ఏ కారు ఉంది?",
+        "answer": "లేదు <OR> ఖాళీ",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "ఎర్రటి కారు పార్కింగ్ ఏ ప్రదేశంలో ఉంది?",
+        "answer": "31.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "టమోటాల ధర ఎంత?",
+        "answer": "ఎనిమిది <OR> 8",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "ఏ పండ్లు ప్లమ్ యొక్క హక్కు?",
+        "answer": "ఆరెంజ్",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "చిత్రం ఆధారంగా, టీనా ఫే గురించి మొత్తం అంతర్జాతీయ అవగాహన ఏమిటి?",
+        "answer": "35 శాతం",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "చిత్రం ఆధారంగా, టీనా ఫే ఏ దేశంలో అత్యధిక స్థాయి అవగాహన కలిగి ఉంది?",
+        "answer": "ఆస్ట్రేలియా",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "2వ సంఖ్య భూమి యొక్క అంతర్గత నిర్మాణాన్ని సూచిస్తుంది?",
+        "answer": "మాంటిల్",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "పసుపు రంగు సూట్ ధరించిన మోటారుసైకిలిస్టు నడుపుతున్న మోటారుసైకిల్పై చూపిన సంఖ్య ఏమిటి?",
+        "answer": "16.",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "కుడి వైపున ఉన్న మోటారుసైకిల్పై చూపిన సంఖ్య ఏమిటి?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "ఈ రెండు జెట్లలో ఏది పరిమాణంలో పెద్దది?",
+        "answer": "అదే",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "కారు కంటే వ్యక్తి పెద్దవాడా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "పిండిని ముక్కలుగా విభజించే ముందు పిండిని మెత్తగా చేసిన తర్వాత నేను ఏమి చేయాలి?",
+        "answer": "వెచ్చని ప్రదేశం <AND> 1 గంట",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "గుడ్డు మరియు పాలు కలిపేటప్పుడు నేను చక్కెరను జోడించాలా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "మూలికలు, సాసేజ్ మరియు పుట్టగొడుగులను కత్తిరించే ముందు నేను ఏమి చేయాలి?",
+        "answer": "పాన్ను కొద్దిగా తిప్పండి",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "మనము అన్ని ప్రయోజన పిండిని జోడించాల్సినప్పుడు దశ యొక్క సూచిక ఏమిటి?",
+        "answer": "మూడవ <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "మూడవ దశలో మనం ఏమి జోడించాలి?",
+        "answer": "పాలు",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "వేళ్లు నొక్కిన తర్వాత పిల్లలు ఏమి చేయాలి?",
+        "answer": "ఒక పాదం మీద హాప్ చేయండి",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "నాలుగో దశలో ఏమి గీయాలి?",
+        "answer": "ముక్కు",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "టైర్ పంక్చర్ను వ్యాప్తి చేయడానికి ప్రోబ్ను ఉపయోగించిన తరువాత దశ ఏమిటి?",
+        "answer": "మరమ్మతు తొలగించండి",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "సూచించిన రెండవ దశ ఏమిటి?",
+        "answer": "మీ ప్రేక్షకులను గుర్తించండి",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "చిత్రంలో ఇవ్వబడిన చివరి వ్యూహం ఏమిటి?",
+        "answer": "ఒక పాట పాడండి",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "ఫోర్డ్ ఎఫ్150 మినహా సగటు మొత్తం ఇంధన ఖర్చు ఎంత?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "అత్యధిక ఇంధన వ్యయం ఎంత?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "తయారు చేసి బయటకు విసిరిన ప్లాస్టిక్ మొత్తాన్ని పరిగణనలోకి తీసుకుంటే, ప్లాస్టిక్ రీసైక్లింగ్లో ఏ వర్గం చెత్తగా పనిచేసింది?",
+        "answer": "ప్యాకేజింగ్",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "ఉత్పత్తి చేయబడిన ప్లాస్టిక్ పరిమాణం మరియు పారవేయబడిన మొత్తం మధ్య మెట్రిక్ టన్నులలో తేడా ఏమిటి?",
+        "answer": "105",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "2023 సంవత్సరానికి అంచనా వేసిన సగటు స్టాండింగ్ ఛార్జ్ ఎంత?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "2023 సంవత్సరానికి అంచనా వేసిన మొత్తం ఖర్చు ఎంత?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "లివింగ్ రూమ్ కిటికీ ఏ దిశలో ఉంటుంది?",
+        "answer": "ఉత్తరాన",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "ఈ ఫ్లోర్ప్లాన్లో వంటగదిలో ఏయే ఉపకరణాలు ఉన్నాయి?",
+        "answer": "ఓవెన్ <AND> డిష్వాషర్",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "ఏ గది పెద్దది, డబుల్ గ్యారేజ్ లేదా లివింగ్ రూమ్?",
+        "answer": "డబుల్ గ్యారేజ్",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "ఏ గది పెద్దది, మాస్టర్ బెడ్ రూమ్ లేదా డాబా?",
+        "answer": "మాస్టర్ బెడ్ రూమ్",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "దీపం అమర్చబడి, బల్బ్ కాలిపోతే పరిష్కారం ఏమిటి?",
+        "answer": "బ్లబ్ని భర్తీ చేయండి",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "ఫ్లోచార్ట్లో ఏ దశను డైమండ్ ఆకారంతో గీస్తారు?",
+        "answer": "నీళ్లు కారుతున్నాయా?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "మంచం నుండి లేవడానికి సగటు వేచి ఉండే సమయం ఎంత?",
+        "answer": "15 నిమిషాలు",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "మధ్యస్థ గృహ ధరలో అత్యధిక వృద్ధి రేటు ఏ సంవత్సరంలో ఉంది?",
+        "answer": "2008",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012 లో జపాన్ యొక్క జి. డి. పి ఏమిటి?",
+        "answer": "6, 233.15 బిలియన్ US డాలర్లు",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "ఏ సంవత్సరాలలో రోయింగ్ మరియు అథ్లెటిక్స్ ఒకే సంఖ్యలో బంగారు పతకాలను కలిగి ఉన్నాయి?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "అత్యధిక జీతం కలిగిన వ్యక్తి ఏ శాఖ నుండి?",
+        "answer": "పరిపాలన",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "పట్టిక ఆధారంగా, విల్కిన్స్ ఎంత సంపాదిస్తున్నాడు?",
+        "answer": "2500 <లేదా> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "సగటు కంటే తక్కువ లాభాల మార్జిన్ ఉన్న దేశం ఏది?",
+        "answer": "భారత్",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "ఏ దేశం అత్యధిక లాభాల మార్జిన్ కలిగి ఉంది?",
+        "answer": "ఆస్ట్రేలియా",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "ఏ నెలలో అత్యధిక ఆదాయం వస్తుంది?",
+        "answer": "ఫిబ్రవరి",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "మొత్తం ఆదాయానికి జీతం ఎంత శాతం దోహదం చేస్తుంది?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "ఎడమవైపు ఉన్న వ్యక్తి ఎవరు?",
+        "answer": "కీరా నైట్లీ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "చిత్రంలో ఉన్న వ్యక్తి ఎవరు?",
+        "answer": "మిచెల్ యోహ్",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "దిగువ కుడి వైపున ఉన్న వ్యక్తి ఎవరు?",
+        "answer": "జామీ డోర్నాన్",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "ఏది తియ్యగా ఉండదు?",
+        "answer": "వోట్",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "ఈ ఆపిల్ సేంద్రీయమా?",
+        "answer": "అవును",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "మొత్తం సంచిలో ఎంత కేలరీలు ఉంటాయి?",
+        "answer": "275.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "ఈ వంటకం పేరు ఏమిటి?",
+        "answer": "మ్యాపో టోఫు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "ఈ వంటకం పేరు ఏమిటి?",
+        "answer": "కాప్రెస్ సలాడ్",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "ఈ వంటకం పేరు ఏమిటి?",
+        "answer": "పాడ్ థాయ్",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "ఎడమ వైపున ఉన్న కారు యొక్క ఆకృతి ఏమిటి?",
+        "answer": "వోల్క్స్వ్యాగన్",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "ఈ కర్మాగారం ఏమి చేస్తుంది?",
+        "answer": "కెమెరా",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "కారుపై ఉన్న ఆకుపచ్చ లోగో ఏమిటి?",
+        "answer": "రాక్షసుడు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "ఈ మైలురాయి పేరు ఏమిటి?",
+        "answer": "ట్రెవి ఫౌంటెన్",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "ఈ మైలురాయి పేరు ఏమిటి?",
+        "answer": "అన్బరియా మసీదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "ఈ మైలురాయి పేరు ఏమిటి?",
+        "answer": "బావోచు పగోడా",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "ఈ నోటుకు ముఖ విలువ ఎంత?",
+        "answer": "ఐదు <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "ఈ బ్యాంకు నోటు ఏమిటి?",
+        "answer": "పది పౌండ్ <OR> 10 పౌండ్ <OR> బ్రిటిష్ పౌండ్",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "ఈ బ్యాంకు నోటు ఏ రకమైన కరెన్సీని సూచిస్తుంది?",
+        "answer": "స్వీడిష్ <OR> క్రోనర్",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "ఏ ఛాతీ ఎక్స్-రే వ్యాధిని కనుగొనవచ్చు? (ఎంపికలుః అటెలెక్టాసిస్; కార్డియోమెగాలి; ఎఫ్యూషన్; ఇన్ఫిల్ట్రేషన్; మాస్; నోడ్యూల్; న్యుమోనియా; న్యూమోథోరాక్స్; కన్సాలిడేషన్; ఎడెమా; ఎంఫిసెమా; ఫైబ్రోసిస్; ప్లూరల్ బిగుతు; హెర్నియా.)",
+        "answer": "కార్డియోమెగాలి",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "ఏ ఛాతీ ఎక్స్-రే వ్యాధిని కనుగొనవచ్చు? (ఎంపికలుః అటెలెక్టాసిస్; కార్డియోమెగాలి; ఎఫ్యూషన్; ఇన్ఫిల్ట్రేషన్; మాస్; నోడ్యూల్; న్యుమోనియా; న్యూమోథోరాక్స్; కన్సాలిడేషన్; ఎడెమా; ఎంఫిసెమా; ఫైబ్రోసిస్; ప్లూరల్ బిగుతు; హెర్నియా.)",
+        "answer": "హెర్నియా",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "ఏ ఛాతీ ఎక్స్-రే వ్యాధిని కనుగొనవచ్చు? (ఎంపికలుః అటెలెక్టాసిస్; కార్డియోమెగాలి; ఎఫ్యూషన్; ఇన్ఫిల్ట్రేషన్; మాస్; నోడ్యూల్; న్యుమోనియా; న్యూమోథోరాక్స్; కన్సాలిడేషన్; ఎడెమా; ఎంఫిసెమా; ఫైబ్రోసిస్; ప్లూరల్ బిగుతు; హెర్నియా.)",
+        "answer": "చొరబాట్లు",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "ఎన్ని పక్షులు ఉన్నాయి?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "ఎన్ని టమోటాలు ఉన్నాయి?",
+        "answer": "5.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "ఎన్ని పుస్తకాలు ఉన్నాయి?",
+        "answer": "63",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "చిత్రంలోని సన్నివేశాల పాఠం ఏమిటి?",
+        "answer": "S3302CD",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "చిత్రంలోని సన్నివేశాల పాఠం ఏమిటి?",
+        "answer": "లక్ష్మీ జ్యువెల్లర్స్",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "చిత్రంలోని సన్నివేశాల పాఠం ఏమిటి?",
+        "answer": "మిమ్మల్ని మీరు మెర్రీ లిటిల్ క్రిస్మస్ గా జరుపుకోండి",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "చిత్రంలోని సన్నివేశాల పాఠం ఏమిటి?",
+        "answer": "5: 30 PM <AND> 88% <AND> మారియో కార్ట్ 8 డీలక్స్ <AND> మారియో కార్ట్ 8 డీలక్స్ <AND> సూపర్ మారియో ఒడిస్సీ <AND> ది లెజెండ్ ఆఫ్ జెల్డా <AND> బ్రీత్ ఆఫ్ విల్డ్ <AND> ఆప్షన్స్ <AND> స్టార్ట్",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "చిత్రంలోని సన్నివేశాల పాఠం ఏమిటి?",
+        "answer": "మిస్టర్ విలియం షేక్స్పియర్స్ <AND> కామిడీలు, చరిత్రలు & విషాదాలు. <AND> ట్రూ ఒరిజినల్ కాపీల ప్రకారం ప్రచురించబడింది.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "చిత్రంలోని సన్నివేశాల పాఠం ఏమిటి?",
+        "answer": "1642 నాటి కనెక్టికట్ చట్టం <AND> ఎవరైనా పురుషుడు లేదా స్త్రీ మంత్రగత్తె అయితే-అంటే, సుపరిచితమైన ఆత్మను కలిగి ఉంటే లేదా సంప్రదిస్తే-వారు చంపబడతారు.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "ఈ పరికరం యొక్క బ్రాండ్ ఏమిటి?",
+        "answer": "మోటోరోలా",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "లైసెన్స్ ప్లేట్ నంబర్ ఏమిటి?",
+        "answer": "AED-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "చిత్రంలోని ఫ్రెంచ్ సన్నివేశాల పాఠం ఏమిటి?",
+        "answer": "ఫ్రెంచి చరిత్ర <మరియు> మొదటి చరిత్ర ఒక సంవత్సరం <మరియు> క్వీల్ చరిత్ర",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "చిత్రంలోని చైనీస్ సన్నివేశాల పాఠం ఏమిటి?",
+        "answer": "<AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND> <AND>",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "ఏ ఖండం హైలైట్ చేయబడింది?",
+        "answer": "ఆసియా",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "ఈ ఆహార వెబ్లో ఉత్పత్తిదారులు ఎవరు?",
+        "answer": "ఫైటోప్లాంక్టన్ <AND> సముద్రపు పాచి",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "ప్రతి నమూనాలోని కణాల సగటు గతి శక్తులను పోల్చండి. దిగువ రేఖాచిత్రాలు ఒకే విధమైన మూసివేసిన, దృఢమైన కంటైనర్లలో రెండు స్వచ్ఛమైన వాయువు నమూనాలను చూపుతాయి. ప్రతి రంగు బంతి ఒక వాయువు కణాన్ని సూచిస్తుంది. రెండు నమూనాలు ఒకే సంఖ్యలో కణాలను కలిగి ఉంటాయి. ఏ నమూనాలో ఎక్కువ ఉష్ణోగ్రత ఉంటుంది? శాంపిల్ A లేదా శాంపిల్ B?",
+        "answer": "నమూనా A",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "ఈ హైలైట్ చేసిన నగరాల్లో ఏది ఉత్తరాన అత్యంత దూరంలో ఉంది?",
+        "answer": "చికాగో",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "ఈ ఫోటో ఎక్కడ తీశారు?",
+        "answer": "టర్కీ <OR> సిరియా",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "ఈ ఫోటో ఎక్కడ తీశారు?",
+        "answer": "ఆస్కార్ <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "ఈ ఫోటో ఎక్కడ తీశారు?",
+        "answer": "ఖతార్",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "ఈ ఫోటో ఏ దేశంలో తీశారు?",
+        "answer": "ఆస్ట్రేలియా",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "జిరాఫీల కంటే చెట్లు ఎత్తుగా ఉన్నాయా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "ఈ విమానం టేకాఫ్ అవుతోందా లేదా ల్యాండింగ్ అవుతోందా?",
+        "answer": "తీసివేయడం",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "ఎంత మంది కూర్చున్నారు?",
+        "answer": "ఒకటి.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "చెత్త ఖాళీగా ఉందా లేదా నిండిపోయిందా?",
+        "answer": "ఖాళీగా",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "జిరాఫీ ప్రమాదకరమైనదిగా కనిపిస్తుందా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "నీటిలో జీబ్రాకు ఏదైనా ప్రతిబింబం ఉందా?",
+        "answer": "అవును",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "ఆ వ్యక్తి సంతోషంగా ఉన్నాడా?",
+        "answer": "అవును",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "అందరు మగాళ్లూ ఒకే రకంగా ఉంటారా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "నేపథ్యంలో ఆ వైన్ ఉందా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "ఆ వ్యక్తి కింద పడిపోతాడా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "ఏ ప్రదేశంలో చిత్రీకరించబడింది?",
+        "answer": "తీరం",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "ఇది బయట ఉందా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "వాతావరణం ఎలా ఉంది?",
+        "answer": "శుభ్రమైన <లేదా> ఎండ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "లోహంతో చేసిన కంచె రంగు ఏమిటి?",
+        "answer": "ఆకుపచ్చ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "మనిషికి ఎడమవైపున ఉన్న వ్యక్తి కూర్చున్నట్లు కనిపిస్తున్నాడా?",
+        "answer": "అవును",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "టేబుల్ ప్లేట్ మురికిగా, వెండిగా ఉందా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "తెర కుడివైపు ఉందా లేదా చిత్రానికి ఎడమ వైపున ఉందా?",
+        "answer": "ఎడమ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "ఈ ఫోటోలో కంప్యూటర్ ఉందా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "బియ్యం ఎడమ వైపున ఉన్న పాత్ర కింద న్యాప్కిన్లు ఉన్నాయా?",
+        "answer": "అవును",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "పండ్లు లేదా కూరగాయలు ఉన్నాయా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "ఈ చిత్రంలో ప్లేట్లు మరియు ఫోర్కులు రెండూ ఉన్నాయా?",
+        "answer": "అవును",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "ఈ పక్షిని ఏమని పిలుస్తారు?",
+        "answer": "చిలుక <OR> శంకువు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "చిత్రంలో ఏ జంతువు పెద్దది, పిల్లి లేదా కుక్క?",
+        "answer": "పిల్లి",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "కుడి డెస్క్ మీద, ల్యాప్టాప్కు ఎడమ వైపున ఏమిటి?",
+        "answer": "టేబుల్ లాంప్ <OR> డెస్క్ లాంప్",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "మనిషి గుర్రపు స్వారీ చేస్తాడా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "సర్ఫర్ సర్ఫ్బోర్డుకు ఎడమ వైపున ఉందా లేదా కుడి వైపున ఉందా?",
+        "answer": "ఎడమ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "దీపం, సైడ్ టేబుల్ లేదా నైట్స్టాండ్ ఏమిటి?",
+        "answer": "పక్క టేబుల్",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "స్టంప్ మరియు కంచె రెండింటికీ ఉమ్మడిగా ఏమిటి?",
+        "answer": "పదార్థం",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "చెంచా చాప్ స్టిక్లతో సమానమైన పదార్థంతో తయారు చేయబడిందా?",
+        "answer": "అవును",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "చొక్కాకు గాలిపటం కంటే భిన్నమైన రంగు ఉందా?",
+        "answer": "అవును",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "ఈ ప్రజలందరికీ ఒకే లింగం ఉందా?",
+        "answer": "లేదు",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "ఈ రెండు జాతులు వేరుగా ఉంటాయా?",
+        "answer": "అవును",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "వ్యక్తులు ఎక్కడ ఉన్నారు? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "వారు కళాశాల తరగతి గదిలో ఉన్నారు. నేను అలా అనుకుంటున్నాను ఎందుకంటే అతను యువ మహిళ కళాశాల వయస్సులో ఉన్నట్లు అనిపిస్తుంది, మరియు వారి చుట్టూ డెస్క్లు మరియు కుర్చీలు ఉన్నాయి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "ప్రజలు నల్లటి దుస్తులు ఎందుకు ధరిస్తారు? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "వారు అంత్యక్రియలకు వెళ్తున్నారు. అంత్యక్రియలకు ప్రజలు నలుపు రంగు దుస్తులు ధరించడం సాంప్రదాయం కాబట్టి నేను అలా అనుకుంటున్నాను.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "స్త్రీ దుస్తులు ఎందుకు ధరిస్తుంది? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "ఆమె మంచం కోసం సిద్ధమవుతోంది. నేను అలా అనుకుంటున్నాను ఎందుకంటే గది ఒక పడకగది లాగా కనిపిస్తుంది మరియు స్త్రీ తన మంచం యొక్క సాధారణ దిశలో ఉంది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "ఇది ఎక్కడ జరుగుతోంది? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "ఇది ఒక విలాసవంతమైన రెస్టారెంట్లో జరుగుతోంది. ఆ వ్యక్తి ఫ్యాన్సిలీ దుస్తులు ధరించి, నేపథ్యం ఫాన్సీగా ఉన్నందున నేను అలా అనుకుంటున్నాను.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "సన్నివేశంలో వేసవి కాలం ఉందా? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "లేదు, అది పడిపోయినట్లు కనిపిస్తోంది. నేను అలా అనుకుంటున్నాను ఎందుకంటే నేపథ్యంలో గుమ్మడికాయలు ఉన్నాయి మరియు అవి సాధారణంగా పడిపోవడంతో ముడిపడి ఉంటాయి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "దుస్తులు ధరించిన స్త్రీని చూసినందుకు, ఎరుపు రంగు దుస్తులు ధరించిన స్త్రీ పురుషుడిపై కోపంగా ఉంటుందా? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "అవును, ఎరుపు రంగు దుస్తులు ధరించిన స్త్రీ మరియు పురుషుడు జంటగా కనిపిస్తారు మరియు ఎరుపు రంగు దుస్తులు ధరించిన స్త్రీ పురుషుడు ఇతరులను తనిఖీ చేయడాన్ని మెచ్చుకోరు ఎందుకంటే ఏకస్వామ్య సంబంధంలో, భాగస్వాములు ఒకరికొకరు నమ్మకంగా ఉండాలని భావిస్తున్నారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "స్త్రీకి రెండు చేతులు గాలిలో ఎందుకు ఉన్నాయి? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "ఆమె కేవలం బాస్కెట్బాల్ను షూట్ చేసింది. నేను అలా అనుకుంటున్నాను ఎందుకంటే ఆమె చేతులు బాస్కెట్బాల్ షాట్ కోసం కోణంలో ఉన్నాయి మరియు అవి బాస్కెట్బాల్ అరేనాలో ఉన్నాయి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "బాలుడు ఏ రకమైన పాఠశాలకు వెళ్తాడు? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "బాలుడు ప్రభుత్వ పాఠశాలకు కాకుండా ప్రైవేట్ పాఠశాలకు వెళ్తాడు. నేను అలా అనుకుంటున్నాను ఎందుకంటే అబ్బాయి అందరూ సూట్ ధరించి ఉన్నందున, ప్రభుత్వ పాఠశాలలకు అది అవసరం లేదు కానీ కొన్ని ప్రైవేట్ పాఠశాలలు అలా చేస్తాయి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "ఈ ఇంట్లో మనుషులు నివసిస్తున్నారా? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "లేదు, వారు చేయరు. నేను అలా అనుకుంటున్నాను ఎందుకంటే వారందరూ పెయింటింగ్స్ మరియు అలంకరణలను చుట్టూ చూస్తున్నారు, వాటిని చూడటానికి అలవాటు పడినట్లయితే ఎవరూ అలా చేయరు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "తెల్లటి దుస్తులు ధరించిన స్త్రీ, పురుషులు ఒకరికొకరు ఎందుకు అంత దగ్గరగా ఉంటారు? దానికి సమాధానం ఇవ్వండి మరియు హేతుబద్ధతను ఇవ్వండి.",
+        "answer": "అప్పుడే వారికి వివాహం జరిగింది. నేను అలా అనుకుంటున్నాను ఎందుకంటే వారు వివాహ దుస్తులలో ఉన్నారు మరియు ప్రతి ఒక్కరూ వారిని చూస్తున్నారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "మీరు ఈ మీమ్ను వివరించగలరా?",
+        "answer": "ఈ మీమ్ అనేది వాయిదా వేయడం మరియు నిర్దిష్ట సమయం వరకు పనులను ఆలస్యం చేసే ధోరణిని హాస్యభరితంగా తీసుకుంటుంది. మీమ్లోని వ్యక్తి 8 గంటలకు ఏదైనా చేయాలని యోచిస్తాడు, కానీ వారు ఆ గడువును కొన్ని నిమిషాలు కోల్పోయినప్పుడు, వారు బదులుగా 9 గంటల వరకు వేచి ఉండాలని నిర్ణయించుకుంటారు. మంచం మీద పడి ఉన్న కెర్మిట్ కప్ప చిత్రం వ్యక్తి యొక్క సోమరితనం మరియు పనిని పూర్తి చేయడానికి ప్రేరణ లేకపోవడాన్ని సూచిస్తుంది.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "మీరు ఈ మీమ్ను వివరించగలరా?",
+        "answer": "ఈ మీమ్ అనేది కోవిడ్-19 మహమ్మారి కారణంగా ఆన్లైన్ అభ్యాసం యొక్క ప్రస్తుత పరిస్థితిపై వ్యాఖ్యానం. ఇది వివిధ పార్టీలను ఎలా ప్రభావితం చేస్తుందో చూపిస్తుంది. \\n\\n మొదటి రెండు చిత్రాలు జూమ్ కంపెనీ మరియు ఉపాధ్యాయులు డబ్బును గాలిలోకి విసురుతున్నట్లు చూపుతాయి, ఇది వారు పరిస్థితి నుండి లాభం పొందుతున్నారని సూచిస్తుంది. జూమ్, ముఖ్యంగా, మహమ్మారి కారణంగా వినియోగం మరియు ఆదాయంలో పెరుగుదలను చూసింది. \\n\\n మూడవ చిత్రం వైఫై కంపెనీ కూడా డబ్బును గాలిలోకి విసురుతున్నట్లు చూపిస్తుంది, ఇది ఆన్లైన్ అభ్యాసం కోసం ఎక్కువ మంది ప్రజలు ఇంటర్నెట్ను ఉపయోగిస్తున్నందున వారు కూడా ఈ పరిస్థితి నుండి లాభం పొందుతున్నారని సూచిస్తుంది. \\n\\n చివరి చిత్రం విచారకరమైన విదూషకుడి ముఖంతో ఒక విద్యార్థిని చూపిస్తుంది, ఇది విద్యార్థులు పరిస్థితి నుండి ప్రయోజనం పొందడం లేదని మరియు ఆన్లైన్ అభ్యాసంతో కష్టపడుతున్నారని సూచిస్తుంది. నేపథ్యంలో \"సంతోషకరమైన ముఖాన్ని ధరించండి\" అనే గుర్తు విద్యార్థులు తమ పోరాటాలు ఉన్నప్పటికీ ధైర్యమైన ముఖాన్ని ధరిస్తున్నారనే ఆలోచనను మరింత నొక్కి చెబుతుంది.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "మీరు ఈ మీమ్ను వివరించగలరా?",
+        "answer": "ఐస్లాండ్ మరియు గ్రీన్లాండ్ దేశాల పేర్లు తప్పుదోవ పట్టిస్తున్నాయనే వాస్తవాన్ని ఈ మీమ్ ఎగతాళి చేస్తోంది. పేరు ఉన్నప్పటికీ, ఐస్లాండ్ దాని అందమైన ఆకుపచ్చ ప్రకృతి దృశ్యాలకు ప్రసిద్ధి చెందింది, అయితే గ్రీన్లాండ్ ఎక్కువగా మంచు మరియు మంచుతో కప్పబడి ఉంటుంది. ఈ దేశాల పేర్లు వారి ప్రకృతి దృశ్యాలను ఖచ్చితంగా సూచించనందున వ్యక్తికి విశ్వాస సమస్యలు ఉన్నాయని మీమ్ చెబుతోంది.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "మీరు ఈ మీమ్ను వివరించగలరా?",
+        "answer": "పరీక్ష సమయంలో ఒక విద్యార్థి చేతివ్రాత ఎలా క్షీణిస్తుందనే దానిపై ఈ మీమ్ సరదాగా ఉంది. మొదటి రెండు పేజీలు చక్కగా మరియు స్పష్టమైన చేతివ్రాతను చూపుతాయి, మధ్య పేజీ కొద్దిగా గజిబిజిగా చేతివ్రాతను చూపిస్తుంది మరియు చివరి రెండు పేజీలు పూర్తిగా అస్పష్టమైన వ్రాతలను చూపుతాయి. పరీక్ష ముందుకు సాగుతున్న కొద్దీ విద్యార్థి అలసిపోవడం లేదా హడావిడిగా ఉండటం దీనికి కారణం కావచ్చు.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "మీరు ఈ మీమ్ను వివరించగలరా?",
+        "answer": "కొత్త కళాశాల విద్యార్థులు (కొత్తవారు) తరచుగా గమనికలు తీసుకోవడానికి మరియు తరగతిలో వారు చేయగలిగినదంతా నేర్చుకోవడానికి ఎలా ఆసక్తిగా ఉంటారనే దాని గురించి ఈ మీమ్ ఒక జోక్. ఈ చిత్రం స్పాంజ్బాబ్ స్క్వేర్ప్యాంట్స్ కార్టూన్ నుండి వచ్చింది, ఇక్కడ స్పాంజ్బాబ్ మరియు పాట్రిక్ కోపంగా గమనికలను వ్రాస్తున్నారు. కొత్తవాళ్ళు తెలుసుకోవడానికి చాలా ఆసక్తిగా ఉన్నారని, వారు ప్రొఫెసర్ యొక్క గ్రీటింగ్ను కూడా వ్రాస్తున్నారని శీర్షిక సూచిస్తుంది.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "ఈ చిత్రంలో తమాషా ఏమిటి?",
+        "answer": "ఇది ఒక చిత్రాన్ని చిత్రించే ఖడ్గమృగం యొక్క కార్టూన్ మరియు ప్రతి చిత్రంలో దాని ఖడ్గమృగం కొమ్ము ఉంటుంది ఎందుకంటే ఖడ్గమృగం కొమ్ము దాని కళ్ళ ముందు పెరుగుతుంది. శీర్షిక \"మీరు ఎలా ఉన్నారో అలాగే ప్రపంచాన్ని చూస్తారు!\" మన దృక్పథం ప్రపంచం గురించి మన అవగాహనను ఎలా రూపొందిస్తుందనే దానిపై సరదా వ్యాఖ్యానం.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "ఈ చిత్రంలో తమాషా ఏమిటి?",
+        "answer": "ఈ చిత్రం గురించి ప్రజలకు ఫన్నీగా అనిపించే కొన్ని విషయాలు ఉన్నాయిః \\n\\n1. రెండు చిత్రాల మధ్య వ్యత్యాసంః ఎడమ వైపున, చాలా భావోద్వేగంతో మరియు కోపంగా ఉన్న ఇద్దరు మహిళలను చూస్తాము, కుడి వైపున, డిన్నర్ టేబుల్ వద్ద ప్రశాంతంగా కూర్చున్న పిల్లిని చూస్తాము. \\n\\n2. పిల్లి పరిస్థితి యొక్క అసంబద్ధతః ఒక పిల్లి తన ముందు ఒక ప్లేట్ ఆహారంతో డిన్నర్ టేబుల్ వద్ద కూర్చోవడం సాధారణం కాదు, కాబట్టి ఈ చిత్రం ఊహించనిది మరియు హాస్యాస్పదంగా ఉంది. \\n\\n3. పిల్లి యొక్క వ్యక్తీకరణః మహిళల అరుపులతో పిల్లి భయపడినట్లుగా కనిపిస్తుంది, ఇది చిత్రం యొక్క హాస్యాన్ని పెంచుతుంది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "ఎవరైనా ఈ మీమ్ను ఏ సందర్భాలలో ఉపయోగిస్తారు?",
+        "answer": "నిద్రపోతున్న వ్యక్తితో మీమ్ మరియు చైనీస్ శీర్షిక \"నిద్రపోయే సమయంలో తప్ప, నిద్రపోయే సమయంలో తప్ప, నేను నిద్రపోవాలనుకోవడం లేదు. కానీ ఇతర సమయాల్లో, నేను నిద్రపోవాలనుకుంటున్నాను) నిద్రపోవడం లేదా విరుద్ధమైన కోరికలు కలిగి ఉండటం అనే ఇతివృత్తం సంబంధితమైన వివిధ సందర్భాల్లో ఉపయోగించవచ్చు. ఈ మీమ్ సరిపోయే కొన్ని దృశ్యాలు ఇక్కడ ఉన్నాయిః \n \n సంబంధిత నిద్రపోవడంః పగటిపూట అలసిపోయిన లేదా నిద్రపోతున్న సంబంధిత అనుభూతిని వ్యక్తం చేసేటప్పుడు మీమ్ను సోషల్ మీడియాలో లేదా సంభాషణలలో పంచుకోవచ్చు. ఆ సంబంధిత అనుభవాన్ని తెలియజేయడానికి మరియు సంబంధితంగా ఉండగల ఇతరుల నుండి హాస్యభరితమైన ప్రతిస్పందనను సృష్టించడానికి ఇది తేలికపాటి మార్గంగా ఉపయోగపడుతుంది. \n \n పని లేదా అధ్యయనం-సంబంధిత హాస్యంః శ్రద్ధ మరియు ఏకాగ్రత అవసరమయ్యే పనుల సమయంలో నిద్రపోవాలనే కోరికను లేదా మగత అనుభూతిని హాస్యభరితంగా వ్యక్తం చేయడానికి పని లేదా అధ్యయనం-సంబంధిత సందర్భాలలో ఈ మీమ్ను ఉపయోగించవచ్చు. మానసిక స్థితిని తేలికపరచడానికి మరియు మెలకువగా మరియు అప్రమత్తంగా ఉండటం వంటి సవాళ్లపై భాగస్వామ్య అవగాహనను సృష్టించడానికి దీనిని సహోద్యోగులు లేదా సహవిద్యార్థుల మధ్య పంచుకోవచ్చు. \n \n వాయిదా వేసే హాస్యంః ఉత్పాదక కార్యకలాపాలలో పాల్గొనే బదులు నిద్ర లేదా విశ్రాంతి కోరుకునే మధ్య అంతర్గత పోరాటాన్ని వర్ణించడానికి కూడా మీమ్ను ఉపయోగించవచ్చు. బాధ్యతలను నివారించడానికి మరియు సడలింపులో మునిగిపోవాలనే నిరంతర కోరికపై వాయిదా వేయడం లేదా హాస్యభరితమైన స్వీయ-ప్రతిబింబాలను చర్చించేటప్పుడు దీనిని పంచుకోవచ్చు. \n \n హాస్య వ్యంగ్యంః నిద్ర సమయం మరియు ఇతర సమయాల్లో నిద్రపోవాలనుకోవడం మధ్య మీమ్ యొక్క వైరుధ్యాన్ని వివిధ సందర్భాల్లో హాస్య వ్యంగ్య రూపంగా ఉపయోగించవచ్చు. మన కోరికలు లేదా ప్రవర్తనలు ఆశించిన లేదా తగిన వాటికి విరుద్ధంగా ఉన్న పరిస్థితులను చర్చించేటప్పుడు, సంభాషణకు హాస్యభరితమైన మలుపును జోడించేటప్పుడు దీనిని పంచుకోవచ్చు. \n \n అంతిమంగా, మీమ్ను వివిధ పరిస్థితులలో ఉపయోగించవచ్చు, ఇక్కడ దాని థీమ్ నిద్ర, విరుద్ధమైన కోరికలు లేదా విరుద్ధమైన పరిస్థితులు చర్చించబడుతున్న అంశం లేదా సెంటిమెంట్తో సర్దుబాటు అవుతాయి, సంభాషణ లేదా ఆన్లైన్ పరస్పర చర్యకు హాస్యం మరియు సాపేక్షతను జోడిస్తుంది.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "ఎవరైనా ఈ మీమ్ను ఏ సందర్భాలలో ఉపయోగిస్తారు?",
+        "answer": "సాధారణంగా \"స్క్రీమింగ్ పాండా\" అని పిలువబడే ఈ జ్ఞాపికను సాధారణంగా షాక్, ఆశ్చర్యం లేదా భయాన్ని వ్యక్తం చేయడానికి ఉపయోగిస్తారు. ఇది దిగ్భ్రాంతికరమైన లేదా ఊహించని సంఘటనకు ప్రతిస్పందనగా లేదా భయాందోళన లేదా అలారం యొక్క భావాన్ని తెలియజేయడానికి ఉపయోగించవచ్చు. ఎవరైనా ఈ మీమ్ను ఉపయోగించగల కొన్ని సందర్భాలలో ఇవి ఉంటాయిః \\n\\n-హర్రర్ మూవీలో జంప్ భయానికి ప్రతిస్పందించడం \\n-టీవీ షో లేదా పుస్తకంలో ఆశ్చర్యకరమైన కథాంశ మలుపుకు ప్రతిస్పందించడం \\n-వార్తల శీర్షిక లేదా ప్రస్తుత సంఘటనపై షాక్ను వ్యక్తం చేయడం \\n-రాబోయే గడువు లేదా పరీక్ష గురించి భయం లేదా ఆందోళనను తెలియజేయడం \\n-క్రీడా ఆట లేదా ఇతర పోటీలో ఊహించని ఫలితాన్ని చూసి ఆశ్చర్యాన్ని చూపడం.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "ఎవరైనా ఈ మీమ్ను ఏ సందర్భాలలో ఉపయోగిస్తారు?",
+        "answer": "\"ఏడుస్తున్న పిల్లి\" మీమ్ చైనీస్ శీర్షికతో \"అమ్మ!\" సాధారణంగా బాధ, నిస్సహాయత లేదా ఓదార్పుని కోరుతూ భావాన్ని వ్యక్తం చేయడానికి ఉపయోగిస్తారు. ఎవరైనా ఈ మీమ్ను ఉపయోగించే కొన్ని సందర్భాలు ఇక్కడ ఉన్నాయిః \n \n దుర్బలత్వాన్ని వ్యక్తం చేయడంః ఒక క్షణం దుర్బలత్వాన్ని వ్యక్తం చేయడానికి లేదా నిమగ్నమై ఉన్నట్లు భావించినప్పుడు మీమ్ను ఉపయోగించవచ్చు. ఇది ఒకరి తల్లిని పిలిచే ఆలోచనను హాస్యభరితంగా ప్రేరేపించడం ద్వారా ఇతరుల నుండి మద్దతు లేదా సానుభూతిని కోరుకునే భావాన్ని తెలియజేస్తుంది. \n \n ఓదార్పు లేదా సానుభూతి కోరుతూః స్నేహితులు లేదా ఆన్లైన్ సంఘాల నుండి సానుభూతి లేదా మద్దతును ప్రేరేపించడానికి ఈ జ్ఞాపికను పంచుకోవచ్చు. సాపేక్షమైన మరియు గుర్తించదగిన మీమ్ ఆకృతిని ఉపయోగించడం ద్వారా, ఇది విచారం, నిరాశ లేదా భావోద్వేగ మద్దతు అవసరమయ్యే భావాలను సమర్థవంతంగా తెలియజేస్తుంది. \n \n స్వీయ-నిరాశపరిచే హాస్యంః వ్యక్తిగత పరిస్థితులు లేదా చిన్న ప్రమాదాలను తేలికగా చేయడానికి మీమ్ను స్వీయ-నిరాశపరిచే పద్ధతిలో కూడా ఉపయోగించవచ్చు. ఇది ఇతరులను ఓదార్పునివ్వడానికి లేదా భరోసా ఇవ్వడానికి ఆహ్వానిస్తూ, వారి స్వంత \"నిస్సహాయత\" క్షణాలను హాస్యభరితంగా హైలైట్ చేయడానికి వ్యక్తులను అనుమతిస్తుంది. \n \n సరదా భావోద్వేగ అతిశయోక్తిః మీమ్ యొక్క నాటకీయ మరియు అతిశయోక్తి వ్యక్తీకరణను ఒక పరిస్థితి లేదా సంఘటనను నొక్కి చెప్పడానికి సరదా పద్ధతిలో ఉపయోగించవచ్చు, ఇది తప్పనిసరిగా బాధ కలిగించేది కాదు, కానీ శ్రద్ధ లేదా సంరక్షణ అవసరం కావచ్చు. చిన్న అసౌకర్యాలు లేదా హాస్యపూరిత అతిశయోక్తిని వ్యక్తం చేసేటప్పుడు ఇది హాస్యభరితమైన స్పర్శను జోడించవచ్చు. \n \n మీమ్ వాడకం మరియు వివరణ మారవచ్చని గమనించడం ముఖ్యం, మరియు వ్యక్తులు దానిని వివిధ సందర్భాలకు అనుగుణంగా మార్చడానికి సృజనాత్మక మార్గాలను కనుగొనవచ్చు. పైన సూచించిన సందర్భాలు ఈ మీమ్ను దాని సాధారణ ఇతివృత్తాలు మరియు భావోద్వేగ స్వరం ఆధారంగా ఎప్పుడు ఉపయోగించవచ్చనే దానిపై సాధారణ అవగాహనను అందిస్తాయి.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "ఈ వంటకాన్ని ఎలా వండాలి?",
+        "answer": "ఈ వంటకాన్ని \"హంగేరియన్ మష్రూమ్ సూప్\" అని పిలుస్తారు. ఈ హంగేరియన్ పుట్టగొడుగు సూప్ చాలా రుచిని కలిగి ఉంటుంది మరియు చాలా త్వరగా తయారు చేయబడుతుంది. ఇది ప్రధానంగా పుట్టగొడుగు సూప్, కానీ దాని రుచిని చాలా వరకు ఇతర పదార్ధాల నుండి పొందుతుంది. నా కుటుంబం సూప్ను ఇష్టపడుతుంది మరియు ఇది వారికి ఇష్టమైన వాటిలో ఒకటి. \n \n \n తయారీ సమయంః \n 15 నిమిషాలు \n వంట సమయంః \n 35 నిమిషాలు \n మొత్తం సమయంః \n 50 నిమిషాలు \n సేర్విన్గ్స్ః \n 6 \n \n \n పదార్థాలు \n \n 4 టేబుల్ స్పూన్లు ఉప్పు లేని వెన్న \n \n 2 కప్పులు తరిగిన ఉల్లిపాయలు \n \n 1 పౌండ్ తాజా పుట్టగొడుగులు, ముక్కలు \n \n \n 2 కప్పులు చికెన్ రసం \n \n 1 టేబుల్ స్పూన్ సోయా సాస్ \n \n \n 1 టేబుల్ స్పూన్ పేపరికా \n \n \n 2 టేబుల్ స్పూన్లు ఎండిన మెంతులు \n \n ఉల్లిపాయలు జోడించండి; సుమారు 5 నిమిషాలు మెత్తబడే వరకు ఉడికించి, కదిలించండి. పుట్టగొడుగులను వేసి మరో 5 నిమిషాలు వేయించండి. రసం, సోయా సాస్, మిరపకాయ మరియు మెంతులను కలపండి; వేడిని తగ్గించి, కవర్ చేసి, 15 నిమిషాలు ఉడకనివ్వండి. \n \n దశ 2 \n పాలు మరియు పిండిని ఒక ప్రత్యేక గిన్నెలో కలపండి; మిశ్రమం అయ్యే వరకు సూప్లో కలపండి. అప్పుడప్పుడు కదిలిస్తూ, మరో 15 నిమిషాలు కవర్ చేసి ఉడికించండి. \n \n దశ 3 \n పుల్లని క్రీమ్, పార్స్లీ, నిమ్మరసం, ఉప్పు మరియు నల్ల మిరియాలు జోడించండి; సుమారు 3 నుండి 5 నిమిషాలు వేడెక్కేంత వరకు తక్కువ వేడి మీద కదిలించండి. వెంటనే సర్వ్ చేయండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "దీన్ని ఎలా తయారు చేయాలి?",
+        "answer": "దీనిని \"స్పార్క్లింగ్ కాంటాలూప్ అగువా ఫ్రెస్కా\" అని పిలుస్తారు. ఈ రిఫ్రెష్ అగ్వా ఫ్రెస్కా క్యాంటలౌప్ మరియు క్లబ్ సోడాతో అగ్రస్థానంలో ఉన్న నిమ్మరసం వేడి రోజున సరైనది. \n \n తయారీ సమయంః \n 15 నిమిషాలు \n మొత్తం సమయంః \n 15 నిమిషాలు \n సేర్విన్గ్స్ః \n \n \n పదార్థాలు \n \n 2 పౌండ్ల తాజా కాంటాలూప్ క్యూబ్స్ (6 కప్పులు) \n \n 2 కప్పులు నీరు \n \n 6 టేబుల్ స్పూన్లు తాజాగా పిండిన నిమ్మరసం (2 లైమ్స్ నుండి) \n \n 3 టేబుల్ స్పూన్లు తేనె \n \n 1/4 టేబుల్ స్పూన్లు ఉప్పు \n \n \n 2 కప్పులు క్లబ్ సోడా, చల్లని \n \n \n కాంటాలూప్ పుచ్చకాయ బంతులు లేదా ఘనాలు, అలంకరించడానికి \n జల్లెడ ద్వారా నొక్కండి; ఘనపదార్థాలను పారవేయండి. ఒక గిన్నెలో ఉడకబెట్టిన రసాన్ని కలపండి. \n \n దశ 2 \n సర్వ్ చేయడానికి సిద్ధంగా ఉన్నంత వరకు చల్లబరచండి. వడ్డించే ముందు క్లబ్ సోడాను జోడించండి. మంచు మీద సర్వ్ చేయండి, మరియు పుచ్చకాయ బంతులు మరియు సున్నం జెస్ట్ ట్విస్ట్లతో అద్దాలను అలంకరించండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "ఈ వంటకాన్ని ఎలా వండాలి?",
+        "answer": "ఈ వంటకాన్ని \"జింజర్ గ్లేజ్డ్ మహి మహి\" అని పిలుస్తారు. మహి మహి కోసం ఈ అల్లం సాస్ రుచితో పగిలిపోతుంది మరియు తీపి మరియు పుల్లని రుచి అనుభూతులను మిళితం చేస్తుంది. ఈ వంటకం త్వరితంగా మరియు చాలా రుచికరంగా ఉంటుంది. మీరు దీన్ని ఇష్టపడతారు! \n \n \n తయారీ సమయంః \n 5 నిమిషాలు \n వంట సమయంః \n 10 నిమిషాలు \n అదనపు సమయంః \n 20 నిమిషాలు \n మొత్తం సమయంః \n 35 నిమిషాలు \n సేర్విన్గ్స్ః \n 4 \n \n పదార్థాలు \n \n 3 టేబుల్ స్పూన్లు తేనె \n \n 3 టేబుల్ స్పూన్లు సోయా సాస్ \n \n 3 టేబుల్ స్పూన్లు బాల్సామిక్ వెనిగర్ \n \n 2 టేబుల్ స్పూన్లు ఆలివ్ నూనె \n \n 1 టేబుల్ స్పూన్ తురిమిన తాజా అల్లం రూట్ \n \n 1 లవంగం వెల్లుల్లి, లేదా రుచికి పిండి ఉప్పు మరియు మిరియాలు తో సీజన్ చేప ఫిల్లెట్లు; వాటిని మెరినేడ్ తో డిష్ లో చర్మం వైపు ఉంచండి. కవర్ చేసి, 20 నిమిషాలు చల్లబరచండి. \n \n దశ 2 \n మీడియం-హై వేడి మీద పెద్ద స్కిల్లెట్లో కూరగాయల నూనెను వేడి చేయండి. చేపల ఫిల్లెట్లను తీసివేసి, మెరినేడ్ను రిజర్వ్ చేయండి. ప్రతి వైపు 4 నుండి 6 నిమిషాలు చేపలను వేయించండి, ఒకసారి మాత్రమే తిరగండి, ఒక ఫోర్క్ తో చేపల పొరలు సులభంగా వచ్చే వరకు. ఫిల్లెట్లను సర్వింగ్ పళ్ళెంలోకి తీసి వేడిగా ఉంచండి. \n \n దశ 3 \n రిజర్వు చేసిన మెరినేడ్ను స్కిల్లెట్లోకి పోయండి; గ్లేజ్కు తగ్గించబడే వరకు మీడియం వేడి మీద ఉడికించండి. చేపల మీద చెంచా కరిగించి సర్వ్ చేయండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "ఈ వంటకాన్ని ఎలా వండాలి?",
+        "answer": "ఈ వంటకాన్ని \"స్ట్రాబెర్రీ రుబార్బ్ పై\" అని పిలుస్తారు. ఈ స్ట్రాబెర్రీ రబర్బ్ పై మా ఇంట్లో ఇష్టమైన వసంతకాలపు మిఠాయి. ఫిల్లింగ్ తీపి-తియ్యటి రుచిని కలిగి ఉంటుంది; మీకు ఇష్టమైన పై క్రస్ట్లో కాల్చండి మరియు వనిల్లా ఐస్క్రీమ్తో సర్వ్ చేయండి. \n \n తయారీ సమయంః \n 20 నిమిషాలు \n వంట సమయంః \n 35 నిమిషాలు \n అదనపు సమయంః \n 30 నిమిషాలు \n మొత్తం సమయంః \n 1 గంట 25 నిమిషాలు \n సేర్విన్గ్స్ః \n 8 \n దిగుబడిః \n 1 9 అంగుళాల పై \n \n పదార్థాలు \n \n 1 కప్పు తెల్ల చక్కెర \n \n 1⁄2 కప్పు ఆల్-పర్పస్ పిండి \n \n 1 పౌండ్ రబర్బ్, 1⁄2 అంగుళాల ముక్కలుగా కత్తిరించండి \n \n 2 పింట్స్ స్ట్రాబెర్రీలు, హల్డ్ మరియు క్వార్టర్స్డ్ \n \n 1 రెసిపీ \n \n దశ 2 \n ఒక పెద్ద గిన్నెలో, పిండి మరియు చక్కెర కలపండి. \n \n దశ 3 \n స్ట్రాబెర్రీలు మరియు తరిగిన రబర్బ్ జోడించండి. చక్కెర మరియు పిండితో కలపండి మరియు 30 నిమిషాలు నిలబడనివ్వండి. \n \n దశ 4 \n తయారుచేసిన పై క్రస్ట్లో నింపి పోయండి. వెన్న తో డాట్ టాప్, మరియు టాప్ క్రస్ట్ తో కవర్. ఎగువ మరియు దిగువ క్రస్ట్ అంచులను నీటితో మూసివేయండి. \n \n దశ 5 \n పేస్ట్రీ బ్రష్ ఉపయోగించి పై పైన పచ్చసొనను పూయండి. \n \n దశ 6 \n చక్కెరతో చల్లండి. \n \n దశ 7 \n ఆవిరి తప్పించుకోవడానికి పైన చిన్న రంధ్రాలను కత్తిరించండి. \n \n దశ 8 \n 400 డిగ్రీల ఎఫ్ (200 డిగ్రీల సి) వద్ద, 35 నుండి 40 నిమిషాలు లేదా బుడగలు మరియు గోధుమ రంగు వచ్చే వరకు కాల్చండి. రాక్ మీద చల్లబరచండి. \n \n దశ 9 \n ఆనందించండి!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "ఈ వంటకాన్ని ఎలా వండాలి?",
+        "answer": "ఈ వంటకాన్ని \"ప్రామాణిక చైనీస్ ఎగ్ రోల్స్\" అని పిలుస్తారు. ఈ చైనీస్ గుడ్డు రోల్స్ నా తల్లి నుండి వచ్చాయి, ఆమె ఎప్పుడూ ఉత్తమ వంటమనిషి-మరియు నేను మంచిగా తినేవాడిని. నాకు ఇది నచ్చితే, మీరు చేస్తారు. ఇది చాలా ప్రామాణికమైనది ఎందుకంటే నా కుటుంబం చైనీయులు మరియు నేను కూడా. ఈ వంటకం లింగ్ కుటుంబంలో కనీసం 300 సంవత్సరాల నాటిది. \n \n \n తయారీ సమయంః \n 1 గంట \n వంట సమయంః \n 30 నిమిషాలు \n అదనపు సమయంః \n 1 గంట \n మొత్తం సమయంః \n 2 గంటలు 30 నిమిషాలు \n సేకరణలుః \n 20 \n దిగుబడిః \n 20 గుడ్డు రోల్స్ \n \n \n పదార్థాలు \n \n 4 టేబుల్ స్పూన్ల కూరగాయల నూనె, విభజించబడింది \n \n 3 పెద్ద గుడ్లు, కొట్టిన \n \n 1 మీడియం హెడ్ క్యాబేజీ, మెత్తగా తురిమిన \n \n \n 1⁄2 క్యారెట్, జూలియడ్ \n \n 1 పౌండ్ చైనీస్ బార్బే పిండిచేసిన గుడ్లను వేసి, గందరగోళానికి గురికాకుండా, గట్టి అయ్యే వరకు ఉడికించండి. గుడ్లను తిప్పండి మరియు మరొక వైపు దృఢంగా ఉండటానికి అదనంగా 20 సెకన్ల పాటు ఉడికించండి. గుడ్డు పాన్కేక్ను చల్లబరచడానికి పక్కన ఉంచి, ఆపై సన్నని ముక్కలుగా కట్ చేయండి. \n \n దశ 2 \n మిగిలిన కూరగాయల నూనెను పొయ్యి లేదా పెద్ద స్కిల్లెట్లో అధిక వేడి మీద వేడి చేయండి. క్యాబేజీ మరియు క్యారెట్లను కలపండి; మెత్తబడే వరకు 2 నిమిషాలు ఉడికించండి. పంది మాంసం, వెదురు రెమ్మలు, పుట్టగొడుగులు, ఆకుపచ్చ ఉల్లిపాయలు, సోయా సాస్, ఉప్పు, చక్కెర మరియు ఎంఎస్జీని జోడించండి; కూరగాయలు మెత్తబడే వరకు ఉడికించడం కొనసాగించండి, సుమారు 6 నిమిషాలు. ముక్కలు చేసిన గుడ్డును కదిలించి, ఆపై మిశ్రమాన్ని ఒక పాన్లో వ్యాప్తి చేసి, సుమారు 1 గంట చల్లబడే వరకు చల్లబరచండి. \n \n గుడ్డు రోల్స్ను సమీకరించడానికి దశ 3 \n: మీ పని ఉపరితలంపై ఒక చుట్టను ఉంచండి, ఒక మూల మీ వైపు ఉంటుంది. సుమారు 3 టేబుల్ స్పూన్ల చల్లబడిన ఫిల్లింగ్ను ఒక కుప్పలో రేపర్ దిగువ మూడవ భాగంలో ఉంచండి. గుడ్డు తెల్లసొనను రేపర్ యొక్క ఎగువ రెండు అంచులపై బ్రష్ చేయండి, తరువాత దిగువ మూలను ఫిల్లింగ్ మీద మడవండి మరియు సగం వరకు గట్టిగా చుట్టండి. గుడ్డు రోల్ మీద ఎడమ మరియు కుడి వైపులా మెత్తగా మడవండి, ఆపై పై మూలలు గుడ్డు రోల్ను గుడ్డు తెల్లసొనతో మూసివేసే వరకు చుట్టడం కొనసాగించండి. మిగిలిన గుడ్డు రోల్ రేపర్లతో పునరావృతం చేయండి, ఎండిపోకుండా ఉండటానికి పూర్తయిన గుడ్డు రోల్స్ను ప్లాస్టిక్ రాప్తో కప్పండి. \n \n దశ 4 \n ఒక కడాయి లేదా డీప్ ఫ్రైయర్లో సుమారు 6 అంగుళాల నూనెను 350 డిగ్రీల ఫారెన్హీట్ (175 డిగ్రీల సెల్సియస్) వరకు వేడి చేయండి. \n \n దశ 5 \n ఫ్రై గుడ్డు బంగారు గోధుమ రంగు వచ్చే వరకు ఒక సమయంలో 3 లేదా 4 రోల్స్, 5 నుండి 7 నిమిషాలు. కాగితపు తువ్వాళ్లపై వడకట్టండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "ఈ వంటకాన్ని ఎలా వండాలి?",
+        "answer": "ఈ వంటకాన్ని \"చాక్లెట్ కోటెడ్ పీనట్ బటర్ క్రాకర్స్\" అని పిలుస్తారు. \n \n తయారీ సమయంః \n 30 నిమిషాలు \n వంట సమయంః \n 5 నిమిషాలు \n అదనపు సమయంః \n 15 నిమిషాలు \n మొత్తం సమయంః \n 50 నిమిషాలు \n సర్వింగ్లుః \n 40 \n దిగుబడిః \n 40 శాండ్విచ్ కుకీలు \n \n \n పదార్థాలు \n 3⁄4 కప్పు క్రీమీ లేదా చంకీ వేరుశెనగ వెన్న \n \n 2 పౌండ్ల చాక్లెట్ బాదం బెరడు, ముక్కలుగా విరిగిన \n \n 80 బటర్ రౌండ్ క్రాకర్లు (రిట్జ్® వంటివి) \n \n 2 1⁄4 ఔన్సుల రంగు మిఠాయి స్ప్రింక్లెస్ వేరుశెనగ వెన్నతో నిండిన 40 శాండ్విచ్ కుకీలను రూపొందించడానికి వేరుశెనగ వెన్న వైపులా నొక్కండి. \n \n దశ 2 \n డబుల్ బాయిలర్ పైన బాదం బెరడును వేడి మీద కరిగించండి, కానీ మరిగే నీరు కాదు. వేడిని తగ్గించి, కరిగించిన చాక్లెట్ను డబుల్ బాయిలర్ పైన మరిగే నీటిలో ఉంచండి. \n \n దశ 3 \n ప్రతి శాండ్విచ్ కుకీని కరిగించిన చాక్లెట్లో ముంచి, అదనపు మొత్తాన్ని తిరిగి కుండలోకి ప్రవహించేలా చేయండి. \n \n దశ 4 \n పూత పూసిన కుకీలను మైనపు కాగితంపై ఉంచండి మరియు వెంటనే మిఠాయి చిలకరింపులతో చల్లండి, తద్వారా అవి కరిగిన చాక్లెట్కు కట్టుబడి ఉంటాయి. \n \n దశ 5 \n చాక్లెట్ సెట్ అయ్యే వరకు రిఫ్రిజిరేటర్లో కుకీలను ఉంచండి, సుమారు 15 నిమిషాలు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "ఈ వంటకాన్ని ఎలా వండాలి?",
+        "answer": "ఈ వంటకాన్ని \"బ్రోకలీ అండ్ క్యారెట్ స్టిర్ ఫ్రై\" అని పిలుస్తారు. \n \n తయారీ సమయంః \n 10 నిమిషాలు \n వంట సమయంః \n 16 నిమిషాలు \n మొత్తం సమయంః \n 26 నిమిషాలు \n దిగుబడిః \n 5 కప్పులు \n \n పదార్థాలు \n 5 1⁄2 కప్పులు బ్రోకలీ పువ్వులు \n \n 1 క్యారెట్, సన్నగా కోసిన \n \n 2 టేబుల్ స్పూన్లు నీరు \n \n 1 టీ స్పూన్ కార్న్ స్టార్చ్ \n \n \n 1 టీ స్పూన్ చికెన్ బాయిల్లాన్ గ్రాన్యుల్స్, లేదా రుచి చూడటానికి \n \n ఉప్పు \n \n 2 టేబుల్ స్పూన్లు బ్రోకలీని జోడించి, ప్రకాశవంతమైన ఆకుపచ్చ రంగు వచ్చే వరకు, సుమారు 2 నిమిషాలు ఉడికించాలి. బ్రోకలీని స్లాట్ చేసిన చెంచాను ఉపయోగించి ఒక గిన్నె మంచు నీటికి బదిలీ చేసి, వంట ప్రక్రియను ఆపడానికి చాలా నిమిషాలు ముంచండి. పారుదల చేయండి. \n \n దశ 2 \n అదే పెద్ద కుండలో నీటిని తిరిగి మరిగించండి; తరిగిన క్యారెట్ వేసి 1 నిమిషం ఉడికించండి. పారుదల చేయండి. \n \n దశ 3 \n నీరు మరియు మొక్కజొన్న పిండిని ఒక గిన్నెలో మెత్తగా అయ్యే వరకు కలపండి. చికెన్ ముక్కలు, ఉప్పు వేసి బాగా కలపాలి. \n \n దశ 4 \n అధిక వేడి మీద ఒక కడాయి లేదా పెద్ద స్కిల్లెట్లో వేరుశెనగ నూనెను వేడి చేయండి; బ్రోకలీ మరియు క్యారెట్లను 2 నిమిషాలు వేయించండి. మొక్కజొన్న పిండి మిశ్రమాన్ని జోడించండి; కూరగాయలు సమానంగా పూయబడే వరకు ఉడికించి, కదిలించండి, 1 నుండి 2 నిమిషాలు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "ఈ వంటకాన్ని ఎలా వండాలి?",
+        "answer": "ఈ వంటకాన్ని \"క్రీమ్ చీజ్ అండ్ క్రాబ్ సుషీ రోల్స్\" అని పిలుస్తారు. \n \n తయారీ సమయంః \n 20 నిమిషాలు \n వంట సమయంః \n 20 నిమిషాలు \n మొత్తం సమయంః \n 40 నిమిషాలు \n దిగుబడిః \n 2 సుషీ రోల్స్ \n \n \n పదార్థాలు \n 1 కప్పు ఉడికించని తెల్ల బియ్యం \n \n 2 కప్పులు నీరు \n \n 2 టేబుల్ స్పూన్లు బియ్యం వెనిగర్ \n \n 1 టీ స్పూన్ ఉప్పు \n \n \n 2 షీట్లు నోరి సీవీడ్ షీట్లు \n \n \n దోసకాయ, తొక్క మరియు పొడవు వారీగా ముక్కలు \n దశ 2 \n అధిక వేడి మీద ఒక సాస్పాన్లో బియ్యం మరియు నీటిని మరిగించండి. వేడిని మధ్యస్థంగా తగ్గించి, కవర్ చేసి, బియ్యం మృదువైనంత వరకు, మరియు ద్రవం గ్రహించబడే వరకు, 20 నుండి 25 నిమిషాలు ఉడకబెట్టండి. బియ్యం వెనిగర్ మరియు ఉప్పు కలపండి. పూర్తిగా చల్లబరచడానికి అనుమతించండి. \n దశ 3 \n సముద్రపు పాచి షీట్లను వేయండి. చేతులను నీటితో తేమగా చేసి, ఆపై చల్లబడిన బియ్యాన్ని ప్రతి షీట్ మీద సమానంగా వ్యాప్తి చేసి, ఒక అంచు వెంట, పొడవు వారీగా ఒకటిన్నర అంగుళాల అంతరాన్ని వదిలివేయండి. దోసకాయ ముక్కలు, అనుకరణ పీత మాంసం మరియు క్రీమ్ చీజ్ను బియ్యం పైన ఖాళీకి ఎదురుగా ఒక సరళ రేఖలో అమర్చండి. సుషీని టాపింగ్స్ నుండి సీవీడ్ షీట్ యొక్క బహిర్గత ముగింపు వరకు చుట్టండి. \n దశ 4 \n పదునైన తడి కత్తిని ఉపయోగించి, ప్రతి రోల్ను 5 లేదా 6 ముక్కలుగా ముక్కలు చేయండి. పక్కకి తరిగిన అల్లంతో సర్వ్ చేయండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "ఈ వంటకాన్ని ఎలా వండాలి?",
+        "answer": "ఈ వంటకాన్ని \"వేగన్ స్వీట్ పొటాటో చిక్పీ కర్రీ\" అని పిలుస్తారు. \n \n తయారీ సమయంః \n 10 నిమిషాలు \n వంట సమయంః \n 20 నిమిషాలు \n మొత్తం సమయంః \n 30 నిమిషాలు \n పదార్థాలు \n 3 టేబుల్ స్పూన్లు ఆలివ్ నూనె \n \n 1 ఉల్లిపాయ, తరిగిన \n \n 2 లవంగాల వెల్లుల్లి, ముక్కలు చేసిన \n \n 2 టేబుల్ స్పూన్లు తురిమిన తాజా అల్లం రూట్ \n \n 1 (15 ఔన్సులు) చిక్పీస్, పారుదల చేయబడిన \n \n 1 (14.5 ఔన్సులు) ముక్కలు చేసిన టమోటాలు \n \n 1 (14 ఔన్సులు) ఉల్లిపాయలు, వెల్లుల్లి మరియు అల్లంను వేడి నూనెలో మెత్తబడే వరకు ఉడికించండి, సుమారు 5 నిమిషాలు. ఉల్లిపాయలు, వెల్లుల్లి, ఆకుకూరలు మరియు క్యారట్లను జోడించండి. మరిగించి, వేడిని తగ్గించి, సుమారు 15 నిమిషాలు మెత్తబడే వరకు ఉడకబెట్టండి. \n దశ 2 \n గరం మసాలా, జీలకర్ర, పసుపు, ఉప్పు మరియు చిల్లీ రేకులు తో సీజన్. వడ్డించే ముందు తురిమిన అల్లం జోడించండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "ఈ వంటకాన్ని ఎలా వండాలి?",
+        "answer": "ఈ వంటకాన్ని \"లైమ్ చికెన్ సాఫ్ట్ టాకోస్\" అని పిలుస్తారు. \n \n తయారీ సమయంః \n 20 నిమిషాలు \n వంట సమయంః \n 30 నిమిషాలు \n మొత్తం సమయంః \n 50 నిమిషాలు \n దిగుబడిః \n 10 సేర్విన్గ్స్ \n \n పదార్థాలు \n 1⁄2 పౌండ్ల చర్మం లేని, ఎముకలు లేని చికెన్ రొమ్ము మాంసం-క్యూబ్స్డ్ \n \n 2 ఆకుపచ్చ ఉల్లిపాయలు, తరిగిన \n \n 1⁄2 కప్పు రెడ్ వైన్ వెనిగర్ \n \n 1⁄2 సున్నం, రసం \n \n 2 లవంగాలు వెల్లుల్లి, ముక్కలు చేసిన \n \n 1 టీ స్పూన్ ఎండిన ఒరేగానో \n \n 1 టీ స్పూన్ తెల్ల చక్కెర \n \n \n ఆకుపచ్చ ఉల్లిపాయలు, వెనిగర్, నిమ్మ రసం, వెల్లుల్లి, ఒరేగానో, చక్కెర, ఉప్పు మరియు మిరియాలు జోడించండి. తక్కువ మంట మీద 10 నిమిషాలు ఉడకబెట్టండి. \n దశ 2 \n ఒక ఇనుప బాణలిని మీడియం వేడి మీద వేడి చేయండి. పాన్లో ఒక టోర్టిల్లాను ఉంచండి, వేడి చేసి, మరొక వైపు వేడి చేయడానికి తిరగండి. మిగిలిన టోర్టిల్లాలతో పునరావృతం చేయండి. టొమాటో, పాలకూర, జున్ను మరియు సల్సా పైన వెచ్చని టోర్టిల్లాస్లో సున్నం చికెన్ మిశ్రమాన్ని సర్వ్ చేయండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ది షావ్షాంక్ రిడంప్షన్ అనేది ఫ్రాంక్ డారాబోంట్ రచించి దర్శకత్వం వహించిన 1994 అమెరికన్ డ్రామా చిత్రం, ఇది 1982 స్టీఫెన్ కింగ్ నవల రీటా హేవర్త్ మరియు షావ్షాంక్ రిడంప్షన్ ఆధారంగా రూపొందించబడింది. ఈ చిత్రం బ్యాంకర్ ఆండీ డుఫ్రెస్నే (టిమ్ రాబిన్స్) కథను చెబుతుంది, అతను నిర్దోషి అని చెప్పుకున్నప్పటికీ, తన భార్య మరియు ఆమె ప్రేమికుడిని హత్య చేసినందుకు షావ్షాంక్ స్టేట్ జైలులో జీవిత ఖైదు విధించబడుతుంది. తరువాతి రెండు దశాబ్దాల్లో, అతను తోటి ఖైదీ, నిషేధిత అక్రమ రవాణాదారు ఎల్లిస్ \"రెడ్\" రెడ్డింగ్ (మోర్గాన్ ఫ్రీమాన్) తో స్నేహం చేస్తాడు మరియు జైలు వార్డెన్ శామ్యూల్ నార్టన్ (బాబ్ గున్టన్) నేతృత్వంలోని మనీలాండరింగ్ ఆపరేషన్లో కీలక పాత్ర పోషిస్తాడు. విలియం సాడ్లర్, క్లాన్సీ బ్రౌన్, గిల్ బెల్లోస్ మరియు జేమ్స్ విట్మోర్ సహాయక పాత్రలలో కనిపిస్తారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ది గాడ్ ఫాదర్ అనేది 1972లో ఫ్రాన్సిస్ ఫోర్డ్ కొప్పోలా దర్శకత్వం వహించిన అమెరికన్ క్రైమ్ చిత్రం, అదే పేరుతో 1969లో అత్యధికంగా అమ్ముడైన పుజో నవల ఆధారంగా మారియో పోజోతో కలిసి స్క్రీన్ ప్లే రాశారు. ఈ చిత్రంలో మార్లన్ బ్రాండో, అల్ పాసినో, జేమ్స్ కాన్, రిచర్డ్ కాస్టెల్లానో, రాబర్ట్ దువాల్, స్టెర్లింగ్ హేడెన్, జాన్ మార్లే, రిచర్డ్ కాంటే మరియు డయాన్ కీటన్ నటించారు. ఇది ది గాడ్ ఫాదర్ త్రయం లో మొదటి విడత, ఇది 1945 నుండి 1955 వరకు పితృస్వామ్య విటో కార్లియోన్ (బ్రాండో) ఆధ్వర్యంలో కార్లియోన్ కుటుంబాన్ని వివరిస్తుంది. ఇది అతని చిన్న కుమారుడు మైఖేల్ కార్లియోన్ (పాసినో) అయిష్టంగా ఉన్న కుటుంబ బయటి వ్యక్తి నుండి క్రూరమైన మాఫియా బాస్గా మారడంపై దృష్టి పెడుతుంది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "క్రిస్టోఫర్ నోలన్ తన సోదరుడు జోనాథన్తో కలిసి రాసిన స్క్రీన్ ప్లే నుండి దర్శకత్వం వహించిన 2008 సూపర్ హీరో చిత్రం ది డార్క్ నైట్. డిసి కామిక్స్ సూపర్ హీరో, బాట్మాన్ ఆధారంగా, ఇది బాట్మాన్ బిగిన్స్ (2005) కి కొనసాగింపు మరియు ది డార్క్ నైట్ త్రయం లో రెండవ విడత. గోథం నగరంలో వ్యవస్థీకృత నేరాలను నిర్మూలించడానికి కూటమిని ఏర్పాటు చేసిన విజిలెంట్ బాట్మాన్, పోలీసు లెఫ్టినెంట్ జేమ్స్ గోర్డాన్ మరియు జిల్లా న్యాయవాది హార్వే డెంట్ను ఈ కథాంశం అనుసరిస్తుంది. నగరాన్ని గందరగోళం నుండి రక్షించడానికి బాట్మాన్ ఎంత దూరం వెళ్తాడో పరీక్షించడానికి ప్రయత్నించే అరాచక సూత్రధారి అయిన జోకర్ వారి ప్రయత్నాలను పట్టాలు తప్పిస్తాడు. ఈ సమిష్టి తారాగణంలో క్రిస్టియన్ బేల్, మైఖేల్ కైన్, హీత్ లెడ్జర్, గ్యారీ ఓల్డ్మన్, ఆరోన్ ఎక్హార్ట్, మాగీ గిలెన్హాల్ మరియు మోర్గాన్ ఫ్రీమాన్ ఉన్నారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ట్వెల్వ్ యాంగ్రీ మెన్ అనేది రెజినాల్డ్ రోజ్ రాసిన ఒక అమెరికన్ కోర్టు డ్రామా, ఇది నరహత్య విచారణ యొక్క న్యాయనిర్ణేతలకు సంబంధించినది. ఇది మొదట్లో 1954లో టెలివిజన్ నాటకంగా ప్రసారం చేయబడింది. మరుసటి సంవత్సరం దీనిని వేదిక కోసం స్వీకరించారు. ఇది సిడ్నీ లుమెట్ దర్శకత్వం వహించిన అదే పేరుతో ఒక చిత్రం కోసం స్వీకరించబడింది మరియు 1957లో విడుదలైంది. అప్పటి నుండి దీనికి అనేక పునర్నిర్మాణాలు, అనుసరణలు మరియు నివాళులు ఇవ్వబడ్డాయి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "షిండ్లర్స్ లిస్ట్ అనేది స్టీవెన్ స్పీల్బర్గ్ దర్శకత్వం వహించిన మరియు నిర్మించిన మరియు స్టీవెన్ జైలియన్ రాసిన 1993 అమెరికన్ ఇతిహాస చారిత్రక డ్రామా చిత్రం. ఇది ఆస్ట్రేలియన్ నవలా రచయిత థామస్ కెనెలీ రాసిన 1982 నవల షిండ్లర్స్ ఆర్క్ ఆధారంగా రూపొందించబడింది. రెండవ ప్రపంచ యుద్ధంలో వెయ్యి మందికి పైగా ఎక్కువగా పోలిష్-యూదు శరణార్థులను తన కర్మాగారాల్లో నియమించడం ద్వారా హోలోకాస్ట్ నుండి రక్షించిన జర్మన్ పారిశ్రామికవేత్త ఆస్కార్ షిండ్లర్ ను ఈ చిత్రం అనుసరిస్తుంది. ఇందులో షిండ్లర్ గా లియామ్ నీసన్, ఎస్ఎస్ అధికారి అమోన్ గోత్ గా రాల్ఫ్ ఫియెన్నెస్, షిండ్లర్ యొక్క యూదు అకౌంటెంట్ ఇట్జాక్ స్టెర్న్ గా బెన్ కింగ్స్లీ నటించారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ది లార్డ్ ఆఫ్ ది రింగ్స్ః ది రిటర్న్ ఆఫ్ ది కింగ్ అనేది ఫ్రాం వాల్ష్, ఫిలిప్పా బోయెన్స్ మరియు జాక్సన్ స్క్రీన్ ప్లే నుండి పీటర్ జాక్సన్ దర్శకత్వం వహించిన 2003 ఎపిక్ ఫాంటసీ అడ్వెంచర్ చిత్రం. ఇది 1955లో జె. ఆర్. ఆర్. టోల్కీన్ రాసిన ది లార్డ్ ఆఫ్ ది రింగ్స్ నవల యొక్క మూడవ సంపుటి అయిన ది రిటర్న్ ఆఫ్ ది కింగ్ ఆధారంగా రూపొందించబడింది. 2002లో వచ్చిన ది లార్డ్ ఆఫ్ ది రింగ్స్ః ది టూ టవర్స్ కు కొనసాగింపుగా వచ్చిన ఈ చిత్రం ది లార్డ్ ఆఫ్ ది రింగ్స్ త్రయం లో చివరి భాగం. ఇందులో ఎలిజా వుడ్, ఇయాన్ మెక్కెల్లెన్, లివ్ టైలర్, విగ్గో మోర్టెన్సెన్, సీన్ ఆస్టిన్, కేట్ బ్లాంచెట్, జాన్ రైస్-డేవిస్, బెర్నార్డ్ హిల్, బిల్లీ బాయ్డ్, డొమినిక్ మోనాఘన్, ఓర్లాండో బ్లూమ్, హ్యూగో వీవింగ్, మిరాండా ఒట్టో, డేవిడ్ వెన్హామ్, కార్ల్ అర్బన్, జాన్ నోబెల్, ఆండీ సెర్కిస్, ఇయాన్ హోల్మ్ మరియు సీన్ బీన్ వంటి నటీనటులు ఉన్నారు. మునుపటి చిత్రం యొక్క కథాంశాన్ని కొనసాగిస్తూ, ఫ్రోడో, సామ్ మరియు గొల్లమ్, గొల్లమ్ యొక్క నిజమైన ఉద్దేశాల గురించి తెలియక, వన్ రింగ్ను నాశనం చేయడానికి మౌంట్ డూమ్ వైపు తమ చివరి మార్గాన్ని రూపొందిస్తున్నారు, అయితే మెర్రీ, పిప్పిన్, గండాల్ఫ్, అరగోర్న్, లెగోలాస్, గిమ్లీ మరియు ఇతరులు మినాస్ తిరిత్లో సౌరన్ మరియు అతని దళాలకు వ్యతిరేకంగా కలిసి పనిచేస్తున్నారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "రోజర్ అవేరీతో కలిసి తను రూపొందించిన కథ ఆధారంగా క్వెంటిన్ టరాన్టినో రచించి దర్శకత్వం వహించిన 1994 అమెరికన్ క్రైమ్ చిత్రం పల్ప్ ఫిక్షన్. [3] ఇది కాలిఫోర్నియాలోని లాస్ ఏంజిల్స్లో నేరాలు మరియు హింసకు సంబంధించిన నాలుగు పరస్పరం ముడిపడి ఉన్న కథలను చెబుతుంది. ఈ చిత్రంలో జాన్ ట్రవోల్టా, శామ్యూల్ ఎల్. జాక్సన్, బ్రూస్ విల్లిస్, టిమ్ రోత్, వింగ్ రేమ్స్ మరియు ఉమా థర్మాన్ నటించారు. ఈ శీర్షిక 20వ శతాబ్దం మధ్యకాలంలో ప్రాచుర్యం పొందిన పల్ప్ మ్యాగజైన్స్ మరియు హార్డ్ బాయిల్డ్ క్రైమ్ నవలలను సూచిస్తుంది, ఇవి గ్రాఫిక్ హింస మరియు పంచీ సంభాషణలకు ప్రసిద్ధి చెందాయి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ది లార్డ్ ఆఫ్ ది రింగ్స్ః ది ఫెలోషిప్ ఆఫ్ ది రింగ్ అనేది ఫ్రాం వాల్ష్, ఫిలిప్పా బోయెన్స్ మరియు జాక్సన్ స్క్రీన్ ప్లే నుండి పీటర్ జాక్సన్ దర్శకత్వం వహించిన 2001 ఎపిక్ ఫాంటసీ అడ్వెంచర్ చిత్రం, ఇది 1954 నాటి ది ఫెలోషిప్ ఆఫ్ ది రింగ్ ఆధారంగా రూపొందించబడింది, ఇది J. R. R. టోల్కీన్ రాసిన ది లార్డ్ ఆఫ్ ది రింగ్స్ నవల యొక్క మొదటి వాల్యూమ్. ఈ చిత్రం ది లార్డ్ ఆఫ్ ది రింగ్స్ త్రయం లో మొదటి భాగం. ఇందులో ఎలిజా వుడ్, ఇయాన్ మెక్కెల్లెన్, లివ్ టైలర్, విగ్గో మోర్టెన్సెన్, సీన్ ఆస్టిన్, కేట్ బ్లాంచెట్, జాన్ రైస్-డేవిస్, బిల్లీ బాయ్డ్, డొమినిక్ మోనాఘన్, ఓర్లాండో బ్లూమ్, క్రిస్టోఫర్ లీ, హ్యూగో వీవింగ్, సీన్ బీన్, ఇయాన్ హోల్మ్ మరియు ఆండీ సెర్కిస్ వంటి నటీనటులు ఉన్నారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ది గాడ్ ఫాదర్ పార్ట్ II అనేది ఫ్రాన్సిస్ ఫోర్డ్ కొప్పోలా నిర్మించి దర్శకత్వం వహించిన 1974 అమెరికన్ ఇతిహాస నేర చిత్రం. ఈ చిత్రం పాక్షికంగా కొప్పోలాతో స్క్రీన్ ప్లే సహ రచయిత అయిన మారియో పుజో రాసిన 1969 నవల ది గాడ్ ఫాదర్ ఆధారంగా రూపొందించబడింది, మరియు ఇది 1972 చిత్రం ది గాడ్ ఫాదర్కు సీక్వెల్ మరియు ప్రీక్వెల్ రెండూ, సమాంతర నాటకాలను ప్రదర్శిస్తుందిః ఒకరు 1958 కథను ఎంచుకుంటారు మైఖేల్ కార్లియోన్ (అల్ పాసినో), కార్లియోన్ కుటుంబానికి చెందిన కొత్త డాన్, అతని జీవితంపై ప్రయత్నం తరువాత కుటుంబ వ్యాపారాన్ని రక్షించడం; ప్రీక్వెల్ అతని తండ్రి విటో కార్లియోన్ (రాబర్ట్ డి నిరో) తన సిసిలియన్ బాల్యం నుండి న్యూయార్క్ నగరంలో తన కుటుంబ సంస్థను స్థాపించడం వరకు ప్రయాణాన్ని వివరిస్తుంది. ఈ సమిష్టి తారాగణంలో రాబర్ట్ దువాల్, డయాన్ కీటన్, తాలియా షైర్, మోర్గానా కింగ్, జాన్ కాజేల్, మరియానా హిల్ మరియు లీ స్ట్రాస్బర్గ్ కూడా ఉన్నారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "ఈ చిత్రానికి మీరు ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ఫేర్వెల్ మై ఉంపుడుగత్తె అనేది 1993లో చెన్ కైగే దర్శకత్వం వహించిన చైనీస్ చారిత్రక డ్రామా చిత్రం, ఇందులో లెస్లీ చెయుంగ్, గాంగ్ లి మరియు జాంగ్ ఫెంగ్యి నటించారు. లిలియన్ లీ రాసిన నవల ఆధారంగా లూ వీ స్క్రీన్ కోసం స్వీకరించిన ఈ చిత్రం రిపబ్లిక్ ఆఫ్ చైనా ప్రారంభ రోజుల నుండి సాంస్కృతిక విప్లవం పర్యవసానాల వరకు రాజకీయంగా గందరగోళంగా ఉన్న 20వ శతాబ్దపు చైనాలో చిత్రీకరించబడింది. ఇది ఇద్దరు పీకింగ్ ఒపెరా నటులు మరియు జీవితకాల స్నేహితులు చెంగ్ డియి (చెయుంగ్) మరియు డువాన్ జియావోలో (జాంగ్) మరియు జియావోలో భార్య జుక్సియాన్ (గాంగ్) మధ్య సమస్యాత్మక సంబంధాలను వివరిస్తుంది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "మోనాలిసా అనేది ఇటాలియన్ కళాకారుడు లియోనార్డో డా విన్సీ రూపొందించిన అర్ధ-నిడివి చిత్రం. \n \n ఇటాలియన్ పునరుజ్జీవనోద్యమంలో ఒక ఆదర్శవంతమైన కళాఖండంగా పరిగణించబడుతున్న దీనిని \"ప్రపంచంలోనే అత్యంత ప్రసిద్ధమైన, ఎక్కువగా సందర్శించే, ఎక్కువగా వ్రాయబడిన, ఎక్కువగా పాడిన, అత్యంత హాస్యానుకృతి కళాఖండం\" గా అభివర్ణించారు. పెయింటింగ్ యొక్క కొత్త లక్షణాలలో విషయం యొక్క రహస్యమైన వ్యక్తీకరణ, కూర్పు యొక్క స్మారకత్వం, రూపాల సూక్ష్మ నమూనా మరియు వాతావరణ భ్రాంతి ఉన్నాయి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "గర్ల్ విత్ ఎ పెర్ల్ ఇయర్ రింగ్ (డచ్ః మీస్జే మెట్ డి పరేల్) అనేది డచ్ స్వర్ణయుగం చిత్రకారుడు జోహన్నెస్ వెర్మీర్ 1665 నాటి ఆయిల్ పెయింటింగ్. శతాబ్దాలుగా వివిధ పేర్లతో, ఇది 20 వ శతాబ్దం చివరలో అక్కడ చిత్రీకరించిన అమ్మాయి ధరించిన చెవిపోగు తర్వాత దాని ప్రస్తుత పేరుతో ప్రసిద్ధి చెందింది. ఈ రచన 1902 నుండి ది హేగ్లోని మౌరిట్షూయిస్ సేకరణలో ఉంది మరియు వివిధ సాహిత్య మరియు సినిమా చికిత్సలకు సంబంధించిన అంశంగా ఉంది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ది స్టార్రీ నైట్ అనేది డచ్ పోస్ట్-ఇంప్రెషనిస్ట్ చిత్రకారుడు విన్సెంట్ వాన్ గోహ్ రూపొందించిన ఆయిల్-ఆన్-కాన్వాస్ పెయింటింగ్. జూన్ 1889లో పెయింట్ చేయబడిన, ఇది సూర్యోదయానికి ముందు సెయింట్-రెమీ-డి-ప్రోవెన్స్ వద్ద ఉన్న అతని ఆశ్రయం గది యొక్క తూర్పు ముఖంగా ఉన్న కిటికీ నుండి వీక్షణను వర్ణిస్తుంది, 1941 నుండి న్యూయార్క్ నగరంలోని మ్యూజియం ఆఫ్ మోడరన్ ఆర్ట్ యొక్క శాశ్వత సేకరణలో ఉన్న ఒక ఊహాత్మక village.It తో పాటు, లిల్లీ పి. బ్లిస్ బెక్వెస్ట్ ద్వారా పొందబడింది. వాన్ గోహ్ యొక్క గొప్ప రచనగా విస్తృతంగా పరిగణించబడుతున్న, ది స్టార్రీ నైట్ పాశ్చాత్య కళలో అత్యంత గుర్తించదగిన చిత్రాలలో ఒకటి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ది కిస్ (జర్మన్ భాషలో డెర్ కుస్) అనేది ఆస్ట్రియన్ సింబాలిస్ట్ చిత్రకారుడు గుస్తావ్ ద్వారా జోడించిన బంగారు ఆకు, వెండి మరియు ప్లాటినం తో ఆయిల్-ఆన్-కాన్వాస్ పెయింటింగ్, ఇది 1907 మరియు 1908 లో ఏదో ఒక సమయంలో చిత్రీకరించబడింది, దీనిని పండితులు అతని \"గోల్డెన్ పీరియడ్\" అని పిలుస్తారు. ఎగ్జిబిషన్ కేటలాగ్లో పేర్కొన్న విధంగా ఇది 1908లో లైబ్స్పార్ (ప్రేమికులు) పేరుతో ప్రదర్శించబడింది. ఈ పెయింటింగ్ ఒక జంట ఒకరినొకరు ఆలింగనం చేసుకోవడాన్ని, వారి శరీరాలు సమకాలీన ఆర్ట్ నోయువే శైలి మరియు మునుపటి ఆర్ట్స్ అండ్ క్రాఫ్ట్స్ ఉద్యమం యొక్క సేంద్రీయ రూపాలచే ప్రభావితమైన శైలిలో అలంకరించబడిన విస్తృతమైన అందమైన దుస్తులలో చిక్కుకున్నట్లు వర్ణిస్తుంది. \n \n ఈ పెయింటింగ్ ఇప్పుడు బెల్వెడెరే, వియన్నాలోని ఓస్టెర్రిచిస్చే గ్యాలరీ బెల్వెడెరే మ్యూజియంలో వేలాడుతోంది మరియు వియన్నా సెసెషన్ (ఆర్ట్ నోయువే యొక్క స్థానిక వైవిధ్యం) మరియు అడెలె బ్లోచ్-బాయర్ I యొక్క చిత్తరువు తర్వాత క్లిమ్ట్ యొక్క అత్యంత ప్రజాదరణ పొందిన రచనగా పరిగణించబడుతుంది. దీనిని చాలా మంది ప్రసిద్ధ కళాఖండంగా భావిస్తారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ది బర్త్ ఆఫ్ వీనస్ అనేది ఇటాలియన్ కళాకారుడు సాండ్రో బొటిసెల్లి చిత్రించిన చిత్రం, ఇది బహుశా 1480ల మధ్యలో చిత్రీకరించబడింది. ఇది వీనస్ దేవత తన పుట్టిన తరువాత తీరానికి చేరుకోవడాన్ని వర్ణిస్తుంది, ఆమె పూర్తిగా పెరిగిన సముద్రం నుండి ఉద్భవించినప్పుడు (వీనస్ అనాడియోమీన్ అని పిలుస్తారు మరియు తరచుగా కళలో చిత్రీకరించబడింది). ఈ పెయింటింగ్ ఇటలీలోని ఫ్లోరెన్స్లోని ఉఫిజీ గ్యాలరీలో ఉంది. \n \n ఈ రెండూ ఒక జత కానప్పటికీ, ఈ చిత్రలేఖనం అనివార్యంగా బొటిసెల్లి యొక్క ఇతర చాలా పెద్ద పౌరాణిక చిత్రలేఖనమైన ప్రైమావేరాతో చర్చించబడింది, ఇది కూడా ఉఫిజీలో ఉంది. అవి ప్రపంచంలోని అత్యంత ప్రసిద్ధ చిత్రాలలో ఒకటి, మరియు ఇటాలియన్ పునరుజ్జీవనానికి చిహ్నాలు; రెండింటిలో, ప్రైమావెరా కంటే బర్త్ బాగా ప్రసిద్ధి చెందింది. శాస్త్రీయ పురాణాల నుండి చాలా పెద్ద ఎత్తున విషయాల చిత్రణలుగా, అవి శాస్త్రీయ పురాతన కాలం నుండి పాశ్చాత్య కళలో వాస్తవంగా అపూర్వమైనవి, అలాగే పుట్టుకలో నగ్న మహిళా వ్యక్తి యొక్క పరిమాణం మరియు ప్రాముఖ్యత. వారిద్దరినీ మెడిసి కుటుంబానికి చెందిన ఒకే సభ్యుడు నియమించాడని భావించేవారు, కానీ ఇది ఇప్పుడు అనిశ్చితంగా ఉంది. \n \n కళా చరిత్రకారులు వాటిని అనంతంగా విశ్లేషించారు, ప్రధాన ఇతివృత్తాలుః పురాతన చిత్రకారుల అనుకరణ మరియు వివాహ వేడుకల సందర్భం (సాధారణంగా అంగీకరించబడింది), పునరుజ్జీవనోద్యమ నియో-ప్లాటోనిజం ప్రభావం (కొంత వివాదాస్పదంగా) మరియు కమిషనర్ల గుర్తింపు (అంగీకరించబడలేదు). అయితే, ప్రైమావేరా బహుశా చేసే విధంగా, జననానికి దాని అర్థాన్ని డీకోడ్ చేయడానికి సంక్లిష్ట విశ్లేషణ అవసరం లేదని చాలా మంది కళా చరిత్రకారులు అంగీకరిస్తున్నారు. పెయింటింగ్లో సూక్ష్మబేధాలు ఉన్నప్పటికీ, దాని ప్రధాన అర్ధం సూటిగా, వ్యక్తిగతంగా, గ్రీకు పురాణాల నుండి సాంప్రదాయ సన్నివేశం యొక్క చికిత్స, మరియు దాని ఆకర్షణ ఇంద్రియ మరియు చాలా అందుబాటులో ఉంటుంది, అందువల్ల దాని అపారమైన ప్రజాదరణ ఉంది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "బూడిద మరియు నలుపు రంగులలో నం. 1, విస్లెర్స్ మదర్ లేదా పోర్ట్రైట్ ఆఫ్ ఆర్టిస్ట్స్ మదర్ అనే వ్యవహారిక పేరుతో బాగా ప్రసిద్ధి చెందింది, ఇది 1871లో అమెరికాలో జన్మించిన చిత్రకారుడు జేమ్స్ అబోట్ మెక్నీల్ విస్లెర్ సృష్టించిన క్యాన్వాస్పై నూనెలలో చిత్రించిన చిత్రం. విస్లర్ తల్లి అన్నా మెక్నీల్ విస్లర్ ఈ చిత్రలేఖనం యొక్క అంశం. పెయింటింగ్ 56.81 బై 63.94 అంగుళాలు (1,443 మిమీ × 1,624 మిమీ), విస్లర్ స్వంత డిజైన్ ఫ్రేమ్లో ప్రదర్శించబడుతుంది. 1891లో ఫ్రెంచ్ రాష్ట్రం కొనుగోలు చేసిన దీనిని పారిస్లోని మ్యూసీ డి ఓర్సే నిర్వహిస్తోంది. యునైటెడ్ స్టేట్స్ వెలుపల ఒక అమెరికన్ కళాకారుడు చేసిన అత్యంత ప్రసిద్ధ రచనలలో ఇది ఒకటి. దీనిని అమెరికన్ ఐకాన్ మరియు విక్టోరియన్ మోనాలిసా అని వివిధ రకాలుగా వర్ణించారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ది ఆర్నోల్ఫిని పోర్ట్రైట్ (లేదా ది ఆర్నోల్ఫిని వెడ్డింగ్, ది ఆర్నోల్ఫిని మ్యారేజ్, ది పోర్ట్రైట్ ఆఫ్ జియోవన్నీ ఆర్నోల్ఫిని అండ్ హిజ్ వైఫ్, లేదా ఇతర శీర్షికలు) అనేది ప్రారంభ నెదర్లాండ్స్ చిత్రకారుడు జాన్ వాన్ ఐక్ ఓక్ ప్యానెల్పై గీసిన 1434 నాటి ఆయిల్ పెయింటింగ్. ఇది పూర్తి నిడివి గల ద్వంద్వ చిత్తరువును ఏర్పరుస్తుంది, ఇది ఇటాలియన్ వ్యాపారి గియోవన్నీ డి నికోలావ్ ఆర్నోల్ఫిని మరియు అతని భార్యను, బహుశా ఫ్లెమిష్ నగరమైన బ్రూగ్స్లోని వారి నివాసంలో చిత్రీకరించినట్లు నమ్ముతారు. \n \n ఇది పాశ్చాత్య కళలో అత్యంత అసలైన మరియు సంక్లిష్టమైన చిత్రాలలో ఒకటిగా పరిగణించబడుతుంది, ఎందుకంటే దాని అందం, సంక్లిష్టమైన విగ్రహారాధన, రేఖాగణిత ఆర్తోగోనల్ దృక్పథం మరియు అద్దం వాడకంతో చిత్ర స్థలాన్ని విస్తరించడం. ఎర్నెస్ట్ గోంబ్రిచ్ ప్రకారం, \"ఇది ఇటలీలో డొనాటెల్లో లేదా మసాక్సియో చేసిన పని వలె కొత్తది మరియు విప్లవాత్మకమైనది. వాస్తవ ప్రపంచంలోని ఒక సాధారణ మూల అకస్మాత్తుగా ఒక ప్యానెల్పై మేజిక్ లాగా అమర్చబడింది. చరిత్రలో మొట్టమొదటిసారిగా కళాకారుడు ఆ పదం యొక్క నిజమైన అర్థంలో పరిపూర్ణ కంటి సాక్షి అయ్యాడు. ఈ చిత్తరువును ఎర్విన్ పనోఫ్స్కీ మరియు కొంతమంది ఇతర కళా చరిత్రకారులు వివాహ ఒప్పందం యొక్క ప్రత్యేకమైన రూపంగా భావించారు, దీనిని చిత్రంగా నమోదు చేశారు. 1434లో వాన్ ఐక్ సంతకం చేసి, నాటిది, అదే కళాకారుడు మరియు అతని సోదరుడు హుబెర్ట్ రూపొందించిన ఘెంట్ ఆల్టర్పీస్తో, టెంపెరాలో కాకుండా నూనెలలో అమలు చేయబడిన అత్యంత పురాతనమైన ప్యానెల్ పెయింటింగ్ ఇది. ఈ పెయింటింగ్ను 1842లో లండన్లోని నేషనల్ గ్యాలరీ కొనుగోలు చేసింది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "క్వింగ్మింగ్ ఫెస్టివల్ సమయంలో నది వెంబడి (క్వింగ్మింగ్ షాంఘే తు) అనేది సాంగ్ రాజవంశం చిత్రకారుడు జాంగ్ జెడువాన్ (1085-1145) చేతితో గీసిన చిత్రలేఖనం మరియు తరువాతి శతాబ్దాలలో చాలాసార్లు కాపీ చేయబడింది. ఇది ఉత్తర సాంగ్ సమయంలో ప్రజల రోజువారీ జీవితాన్ని మరియు రాజధాని బియాంజింగ్ (ప్రస్తుత కైఫెంగ్) యొక్క ప్రకృతి దృశ్యాన్ని సంగ్రహిస్తుంది. ఈ థీమ్ తరచుగా కింగ్మింగ్ ఫెస్టివల్లో పండుగ స్ఫూర్తిని మరియు ప్రాపంచిక గందరగోళాన్ని జరుపుకుంటుందని చెబుతారు, సెలవుదినం యొక్క ఉత్సవ అంశాలు, సమాధి శుభ్రం చేయడం మరియు ప్రార్థనలు వంటివి కాదు. కుడివైపు నుండి ఎడమవైపుకు చదవండి, వీక్షకుడు దానిని విడుదల చేస్తున్నప్పుడు, వరుస దృశ్యాలు ధనవంతుల నుండి పేదల వరకు సమాజంలోని అన్ని స్థాయిల జీవనశైలిని అలాగే గ్రామీణ ప్రాంతాలు మరియు నగరంలోని ఆర్థిక కార్యకలాపాలను వెల్లడిస్తాయి మరియు కాలపు దుస్తులు మరియు వాస్తుశిల్పం యొక్క సంగ్రహావలోకనం అందిస్తాయి. ఈ పెయింటింగ్ అన్ని చైనీస్ పెయింటింగ్లలో అత్యంత ప్రసిద్ధ రచనగా పరిగణించబడుతుంది మరియు దీనిని \"చైనా యొక్క మోనాలిసా\" అని పిలుస్తారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "చైనీస్ చిత్రకారుడు హుయాంగ్ గోంగ్వాంగ్ (1269-1354) మనుగడలో ఉన్న కొన్ని రచనలలో ఫుచున్ పర్వతాలలో నివసించడం ఒకటి మరియు అతని గొప్ప రచనలలో ఒకటిగా పరిగణించబడుతుంది. 1348 మరియు 1350 మధ్య పెయింట్ చేయబడిన ఈ పెయింటింగ్ 1650లో రెండు ముక్కలుగా కాలిపోయింది. నేడు, ఒక ముక్కను హాంగ్జౌలోని జెజియాంగ్ ప్రావిన్షియల్ మ్యూజియంలో ఉంచగా, మరొక ముక్కను తైపీలోని నేషనల్ ప్యాలెస్ మ్యూజియంలో ఉంచారు. మొత్తం పెయింటింగ్ మొత్తం 691.3 సెంటీమీటర్ల పొడవు ఉంటుంది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "మీరు ఈ పెయింటింగ్ గురించి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "టాంగ్ రాజవంశం మరియు టిబెట్ మధ్య స్నేహపూర్వక ఎన్కౌంటర్ను చూపించడానికి యాన్ లిబెన్ రూపొందించిన పట్టుపై పెయింటింగ్ టైజోంగ్ చక్రవర్తి టిబెటన్ రాయబారిని స్వీకరించడం. ఈ పెయింటింగ్ 129 సెంటీమీటర్ల (51 అంగుళాలు) పొడవు, 38.5 సెంటీమీటర్ల (15.2 అంగుళాలు) వెడల్పు కలిగి ఉంది. బునియన్ తు బీజింగ్లోని ప్యాలెస్ మ్యూజియంలో ఉంది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "సెడార్ ఆపిల్ రస్ట్ (జిమ్నోస్పోరాంగియం జునిపెరి-వర్జినియానా) అనేది ఒక శిలీంధ్ర వ్యాధి, దీనికి జునిపర్ మొక్కలు దాని సంక్లిష్టమైన రెండు సంవత్సరాల జీవిత చక్రాన్ని పూర్తి చేయవలసి ఉంటుంది. వివిధ జునిపర్ జాతుల చిన్న కొమ్మలపై ఎర్రటి-గోధుమ రంగు పిత్తాశయంగా విత్తనాలు శీతాకాలంలో ఉంటాయి. వసంత ఋతువు ప్రారంభంలో, తడి వాతావరణంలో, ఈ గాల్లు ఉబ్బుతాయి మరియు ప్రకాశవంతమైన నారింజ రంగు బీజాంశాలు గాలి ద్వారా ఎగిరిపోతాయి, అక్కడ అవి ఆపిల్ మరియు పీత-ఆపిల్ చెట్లకు సోకుతాయి. ఈ చెట్లపై ఏర్పడే బీజాంశాలు మరుసటి సంవత్సరం జునిపర్లకు మాత్రమే సోకుతాయి. సంవత్సరానికి, ఈ వ్యాధి జునిపర్ల నుండి ఆపిల్ వరకు మళ్ళీ జునిపర్ల వరకు వ్యాపించాలి; ఇది ఆపిల్ చెట్ల మధ్య వ్యాపించదు. \n \n ఆపిల్ మరియు పీత-ఆపిల్ చెట్లపై, వికసించిన వెంటనే ఆకుల ఎగువ ఉపరితలంపై లేత పసుపు పిన్ హెడ్ పరిమాణపు మచ్చలు కోసం చూడండి. ఇవి క్రమంగా ప్రకాశవంతమైన నారింజ-పసుపు మచ్చలకు విస్తరిస్తాయి, ఇవి వ్యాధిని సులభంగా గుర్తించేలా చేస్తాయి. పండ్లపై నారింజ రంగు మచ్చలు కూడా ఏర్పడవచ్చు. భారీగా సోకిన ఆకులు ముందుగానే పడిపోవచ్చు. \n \n చికిత్స \n 1. అందుబాటులో ఉన్నప్పుడు నిరోధక సాగులను ఎంచుకోండి. \n 2. చెట్ల కింద నుండి పడిపోయిన ఆకులు మరియు ఇతర శిధిలాలను లేపి పారవేయండి. \n 3. వ్యాధి సోకిన జునిపర్ల నుండి గాల్లను తొలగించండి. కొన్ని సందర్భాల్లో, జునిపర్ మొక్కలను పూర్తిగా తొలగించాలి. \n 4. జునిపర్ హోస్ట్ విడుదల చేసే బీజాంశాల నుండి చెట్లను రక్షించడానికి, మొగ్గ విచ్ఛిన్నంతో ప్రారంభించి, వారానికొకసారి ఆపిల్ మీద ఉపయోగం కోసం లేబుల్ చేయబడిన నివారణ, వ్యాధితో పోరాడే శిలీంధ్రనాశకాలను వర్తించండి. ఇది సంవత్సరానికి ఒకసారి మాత్రమే జరుగుతుంది, కాబట్టి ఈ వసంతకాలం తర్వాత అదనపు దరఖాస్తులు అవసరం లేదు. \n 5. జునిపర్ మీద, ఆగస్టు చివరి నుండి అక్టోబర్ చివరి మధ్య కనీసం నాలుగు సార్లు రాగి ద్రావణంతో (0.5 నుండి 2.0 oz/గాలన్ నీరు) మొక్కలను చల్లడం ద్వారా తుప్పు పట్టడాన్ని నియంత్రించవచ్చు. సెరేనాడ్ గార్డెన్ తో చాలా ఫంగల్ మరియు బ్యాక్టీరియా వ్యాధులకు సురక్షితంగా చికిత్స చేయండి. ఈ విస్తృత వర్ణపట జీవ శిలీంధ్రనాశకం సేంద్రీయ ఉపయోగం కోసం నమోదు చేయబడిన బాసిల్లస్ సబ్టిలిస్ యొక్క పేటెంట్ జాతిని ఉపయోగిస్తుంది. అన్నింటికన్నా ఉత్తమమైనది, సెరేనాడ్ తేనెటీగలు మరియు ప్రయోజనకరమైన కీటకాలకు పూర్తిగా విషపూరితం కాదు. \n 7. సల్ఫర్ మరియు పైరెథ్రిన్లను కలిగి ఉన్న, బోనిడ్ ® ఆర్చర్డ్ స్ప్రే అనేది కీటకాల దాడులు మరియు శిలీంధ్ర సమస్యలకు సురక్షితమైన, ఒక-హిట్ కాన్సన్ట్రేట్. ఉత్తమ ఫలితాల కోసం, సీజన్ ప్రారంభంలో ప్రొటెక్టివ్ స్ప్రే (2.5 oz/gallon) గా వర్తించండి. వ్యాధి, కీటకాలు లేదా తడి వాతావరణం ఉంటే, ఒక గాలన్ నీటిలో 5 oz కలపండి. మొక్క యొక్క అన్ని భాగాలను, ముఖ్యంగా కొత్త రెమ్మలను పూర్తిగా చల్లండి. \n 8. మీ ప్రాంతంలో సాధ్యమయ్యే ఇతర పరిష్కారాల కోసం మీ స్థానిక వ్యవసాయ విస్తరణ కార్యాలయాన్ని సంప్రదించండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "ఆంత్రాక్నోస్. ఇది అనేక మొక్కల జాతులపై వ్యాధులకు కారణమయ్యే మొక్కల వ్యాధికారక సమూహమైన కొల్లెటోట్రిచమ్ జాతికి చెందిన శిలీంధ్రాల వల్ల సంభవిస్తుంది. వ్యాధి సోకిన మొక్కలు కాండం, ఆకులు లేదా పండ్లపై నల్లటి, నీటిలో నానబెట్టిన గాయాలను అభివృద్ధి చేస్తాయి. ఈ గాయాల కేంద్రాలు తరచుగా గులాబీ, జెలటినస్ బీజాంశాలతో కప్పబడి ఉంటాయి, ముఖ్యంగా తేమ, వెచ్చని వాతావరణంలో. ఆంత్రాక్నోస్ ఒక అందమైన పంటను కొన్ని రోజుల్లో కుళ్ళిన వ్యర్థాలుగా మార్చగలదు. \n \n శిలీంధ్ర వ్యాధి విత్తనాలు, మట్టి మరియు తోట శిధిలాల లోపల మరియు వాటిపై అతిగా ఉంటుంది. చల్లని తడి వాతావరణం దాని అభివృద్ధిని ప్రోత్సహిస్తుంది, మరియు బీజాంశాల నిరంతర పెరుగుదలకు వాంఛనీయ ఉష్ణోగ్రత 75-85 ఎఫ్ మధ్య ఉంటుంది. ఫంగస్ యొక్క అభివృద్ధి మరియు మొలకెత్తడానికి అలాగే మొక్క యొక్క సంక్రమణకు తేమ అవసరం. ఇది గాలి, వర్షం, కీటకాలు మరియు తోట పనిముట్ల ద్వారా వ్యాపిస్తుంది. \n \n చికిత్స \n 1. వీలైనప్పుడు నిరోధక మొక్కల రకాలను ఎంచుకోండి మరియు వ్యాధికి గురికాకుండా పాశ్చాత్య పండించిన విత్తనాలను ఉపయోగించండి. \n 2. ఈ శిలీంధ్ర సమస్య సాధారణమైతే, మీ సొంత విత్తనాలను నాటడం నుండి రక్షించవద్దు. \n 3. వ్యాధి వ్యాప్తి చెందకుండా ఉండటానికి, మొక్కలు తడిగా ఉన్నప్పుడు తోటలకు దూరంగా ఉండండి మరియు ఉపయోగించిన తర్వాత అన్ని తోట పనిముట్లను (ఒక భాగం బ్లీచ్ నుండి 4 భాగాల నీరు) క్రిమిసంహారక చేసేలా చూసుకోండి. వ్యాధి సోకిన ఆకులు, పండ్లు లేదా కాండంలను కంపోస్ట్ చేయవద్దు మరియు శీతాకాలంలో శిలీంధ్ర బీజాంశాలను తగ్గించడానికి, పంట కోసిన తరువాత, శరదృతువులో తోట ప్రాంతాలను పూర్తిగా శుభ్రం చేయవద్దు. \n 5. సెరేనాడ్ గార్డెన్ తో చాలా ఫంగల్ మరియు బ్యాక్టీరియా వ్యాధులకు సురక్షితంగా చికిత్స చేయండి. ఈ విస్తృత వర్ణపట జీవ శిలీంధ్రనాశకం సేంద్రీయ ఉపయోగం కోసం నమోదు చేయబడిన బాసిల్లస్ సబ్టిలిస్ యొక్క పేటెంట్ జాతిని ఉపయోగిస్తుంది. అన్నింటికన్నా ఉత్తమమైనది, సెరేనాడ్ తేనెటీగలు మరియు ప్రయోజనకరమైన కీటకాలకు పూర్తిగా విషపూరితం కాదు. \n 6. ద్రవ రాగి స్ప్రేలు మరియు సల్ఫర్ పొడిని వారానికొకసారి అప్లై చేయాలి, వసంత ఋతువు ప్రారంభంలో ఆకులు పెరగడం ప్రారంభమైనప్పుడు ప్రారంభించి, పెరుగుతున్న కాలం అంతటా కొనసాగుతుంది. తెల్లవారుజామున స్ప్రే చేయండి మరియు వేడి వాతావరణంలో అప్లికేషన్లను నివారించండి. నాటడానికి ముందు విత్తనాలను కూడా శుద్ధి చేయవచ్చు. \n 7. వేప నూనె పిచికారీ అనేది ఒక సేంద్రీయ, బహుళ ప్రయోజన శిలీంధ్రనాశకం/క్రిమిసంహారకం/ఉపశమనకారి, ఇది గుడ్లు, లార్వా మరియు కీటకాల వయోజన దశలను చంపడంతో పాటు మొక్కలపై శిలీంధ్రాల దాడిని నిరోధిస్తుంది. ప్రతి 7-14 రోజులను నివారణ చర్యగా లేదా ఇప్పటికే ఉన్న సమస్యలు తొలగించబడే వరకు 7 రోజుల షెడ్యూల్లో, స్ప్రింగ్ బడింగ్ యొక్క మొదటి సంకేతం వద్ద ముందుగానే వర్తించండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "ఇది బ్యాక్టీరియా క్యాన్సర్, ఇది చెర్రీలు మరియు రేగు పండ్లలో సర్వసాధారణం, కానీ ఆప్రికాట్లు, పీచెస్ మరియు అనేక ఇతర రకాల రాతి పండ్లను కూడా ప్రభావితం చేయవచ్చు. ట్రంక్ లేదా కొమ్మలపై మునిగిపోయిన, నీటిలో నానబెట్టిన లేదా \"జిమ్మీ\" గాయాలు ఏర్పడితే ఈ మొక్క వ్యాధిని అనుమానించండి. వసంత ఋతువులో చెట్లు చురుకుగా పెరగడం ప్రారంభించినప్పుడు, ఈ గాయపడిన ప్రాంతాల నుండి పుల్లని వాసనగల రసాన్ని స్రవించవచ్చు. క్యాన్సర్ చుట్టుపక్కల ఆరోగ్యకరమైన బెరడు కంటే ముదురు రంగులోకి మారుతుంది, మరియు అంతర్లీన కణజాలం ఎరుపు-గోధుమ నుండి నలుపు మరియు తేమగా ఉంటుంది. \n \n గమనికః కాకులు కొమ్మలు లేదా ట్రంక్ను చుట్టుముట్టినట్లయితే, వ్యాధి ఉన్న ప్రాంతానికి పైన ఉన్న ఆకులు వంకరగా మారి పసుపు రంగులోకి మారుతాయి. పెరుగుదల ఆగిపోతుంది మరియు కొమ్మ లేదా చెట్టు చివరికి చనిపోతాయి. \n \n క్యాన్సర్కు కారణమయ్యే బ్యాక్టీరియా, సూడోమోనాస్ సిరింగే, గాయపడిన బెరడు లేదా కొమ్మ లేదా కొమ్మపై కత్తిరింపు కోత వంటి ఇప్పటికే ఉన్న గాయం ద్వారా చెట్లలోకి ప్రవేశిస్తుంది. వసంతకాలంలో మంచు నష్టం అదనపు అంటువ్యాధులను ప్రోత్సహించవచ్చు. బ్యాక్టీరియల్ క్యాన్సర్ ఇన్ఫెక్షన్లు పతనం, శీతాకాలం మరియు వసంత ఋతువు ప్రారంభంలో (చల్లని, తడి వాతావరణంలో) సంభవిస్తాయి మరియు వర్షం లేదా నీరు మరియు కత్తిరింపు సాధనాల ద్వారా వ్యాప్తి చెందుతాయి. క్రియాశీల క్యాన్సర్లలో, వ్యాధి సోకిన మొగ్గలలో మరియు వ్యాధి సోకిన మరియు ఆరోగ్యకరమైన చెట్లు మరియు కలుపు మొక్కల ఉపరితలంపై బ్యాక్టీరియా అతి శీతాకాలం. \n \n చికిత్స \n 1. గాయాలు త్వరగా నయం అయినప్పుడు వికసించే సమయంలో పుష్పించే చెట్లను కత్తిరించండి. \n 2. వ్యాధి సోకిన ప్రాంతాల క్రింద బాగా ఎండిపోయిన లేదా చనిపోయిన అవయవాలను తొలగించండి. \n 3. వసంత ఋతువు ప్రారంభంలో కత్తిరింపును నివారించండి మరియు బ్యాక్టీరియా అత్యంత చురుకుగా ఉన్నప్పుడు పతనం. \n 4. అన్ని కత్తిరింపు కోతలు వెంటనే టాంగిల్ఫుట్ ట్రీ ప్రూనింగ్ సీలర్తో చికిత్స చేయండి మరియు మీ కత్తిరింపు పరికరాలను క్రిమిసంహారక చేయండి-ఒక భాగం బ్లీచ్ నుండి 4 భాగాల నీరు-ప్రతి కోత తర్వాత. \n 5. చెట్ల అడుగుభాగం చుట్టూ స్ట్రింగ్ ట్రిమ్మర్లను ఉపయోగించినట్లయితే, సంక్రమణను నివారించడానికి ఊపిరి పీల్చుకోగలిగే ట్రీ రాప్తో బెరడును దెబ్బతీయకుండా నివారించండి. \n 6. బెరడును దెబ్బతీసే ఉష్ణోగ్రత హెచ్చుతగ్గులను తగ్గించడానికి నీటితో పలుచన చేసిన తెల్లని రబ్బరు పెయింట్తో బెరడును బ్రష్ చేయండి. \n 7. రాగి శిలీంధ్రనాశకాలు ఈ రాతి పండ్ల సమస్యకు వ్యతిరేకంగా కొంత విజయాన్ని సాధిస్తాయని పరిశోధనలో తేలింది. అయితే, ఫలితాలు అస్థిరంగా ఉన్నాయి. దీనిని మొత్తం నిర్వహణ కార్యక్రమంలో ఒక భాగంగా ఉపయోగించాలని మేము సిఫార్సు చేస్తున్నాము. \n 8. గాలి ప్రసరణను మెరుగుపరచడానికి మరియు ట్రంక్ మరియు కిరీటం పొడిగా ఉంచడానికి చిన్న చెట్ల అడుగుభాగం నుండి కలుపు మొక్కలు మరియు గడ్డిని తొలగించండి. \n 9. ఆర్గానోసైడ్® ప్లాంట్ డాక్టర్ అనేది భూమికి అనుకూలమైన దైహిక శిలీంధ్రనాశకం, ఇది అలంకార వస్తువులు, మట్టిగడ్డ, పండ్లు మరియు మరిన్నింటిపై పెద్ద సంఖ్యలో వ్యాధులను ఎదుర్కోవటానికి మొత్తం మొక్క ద్వారా పనిచేస్తుంది. గాలన్ నీటికి 1/3 నుండి 3/4 oz కలపండి మరియు కత్తిరింపు గాయాలు మరియు చుట్టుపక్కల ప్రాంతాలపై పెయింట్ లేదా స్ప్రే చేయండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "ఇది బ్లాసమ్ ఎండ్ రాట్. టమోటా, మిరియాలు, దోసకాయ మరియు వంకాయ యొక్క తీవ్రమైన రుగ్మత, వికసించిన చివరి కుళ్ళిపోవడం అనేది పర్యావరణ సమస్య (శిలీంధ్రం కాదు), ఇది తరచుగా అసమాన నీరు త్రాగుట లేదా కాల్షియం లోపం వల్ల సంభవిస్తుంది. (ఇవి సంబంధం కలిగి ఉండవచ్చు; అసమాన నీరు త్రాగుట అనేది కాల్షియం తీసుకోవడంలో జోక్యం చేసుకోవచ్చు.) ఈ సాధారణ తోట \"వ్యాధి\" తరచుగా అధిక ఎరువులు, అధిక ఉప్పు స్థాయిలు లేదా కరువు నుండి వేగంగా పెరగడం వల్ల వస్తుంది. \n \n ఆకుపచ్చ మరియు పండిన పండ్లు రెండింటిలోనూ వికసించే ఎండ్ రాట్ లక్షణాలు సంభవిస్తాయి మరియు నీటిలో నానబెట్టిన ప్రాంతాల ద్వారా గుర్తించబడతాయి, ఇవి క్రమంగా విస్తరించి, దిగువ చివరలో మునిగిపోయిన, గోధుమ, తోలు మచ్చలుగా పరిపక్వం చెందుతాయి. అనేక సందర్భాల్లో, నలుపు, అస్పష్టమైన పెరుగుదలుగా కనిపించే ద్వితీయ వ్యాధికారకాలు, ప్రభావిత ప్రాంతంపై దాడి చేసి, పండ్లు పూర్తిగా కుళ్ళిపోవడానికి కారణమవుతాయి. పువ్వుల చివరి తెగులు మొక్క నుండి మొక్కకు వ్యాపించదు. \n \n చికిత్స \n ఈ మొక్కల సమస్య శారీరక స్వభావం కలిగి ఉన్నందున, శిలీంధ్రనాశకాలు నియంత్రణ చర్యగా పనిచేయవు. మేము ఈ క్రింది వాటిని సిఫార్సు చేస్తున్నాముః \n \n 1. వీలైనప్పుడల్లా నిరోధక కూరగాయల రకాలను ఎంచుకోండి. \n 2. మట్టిని సమానంగా తేమగా ఉంచడం ద్వారా మరియు ఆకులను కెల్ప్ లేదా కాల్షియం ద్రావణంతో మొక్కలను చల్లడం ద్వారా సమస్యలను నివారించండి. \n 3. నాటడం సమయంలో మట్టికి అధిక స్థాయిలో కాల్షియం-ఎముక భోజనం, ఓస్టెర్ షెల్ లేదా జిప్సం జోడించడం సాధారణంగా ఈ సమస్య అభివృద్ధి చెందకుండా నిరోధిస్తుంది. \n 4. గడ్డి పొర (గడ్డి, కంపోస్ట్, గడ్డి) జూలై మరియు ఆగస్టు వేడి, పొడి రోజులలో మట్టి తేమను సంరక్షించడానికి సహాయపడుతుంది. ఈ ముఖ్యమైన పోషకం యొక్క లోపాలను సరిచేయడానికి లేదా నివారించడానికి ద్రవ కాల్షియం 5 శాతం (1-2 టేబుల్ స్పూన్లు/గాలన్ నీరు) యొక్క ఆకుల అనువర్తనాలను ఉపయోగించవచ్చు. ఉత్తమ ఫలితాల కోసం, సంశ్లేషణను పెంచడానికి సహజ సర్ఫక్టాంట్ తో కలపండి మరియు ఆకులను రన్-ఆఫ్ అయ్యే వరకు స్ప్రే చేయండి. \n 6. మల్చింగ్ మొక్కలు తేమను సంరక్షించడానికి మరియు మరింత ఏకరీతి నీటి సరఫరాను అందించడానికి సహాయపడతాయి. \n 7. అధిక నత్రజని ఎరువులను ఉపయోగించడం మానుకోండి, ఇవి వృక్షసంపద పెరుగుదలను వేగవంతం చేస్తాయి మరియు మొక్కలు కాల్షియం తీసుకోవడాన్ని తగ్గిస్తాయి. ప్లానెట్ నేచురల్ వద్ద సమతుల్య సేంద్రీయ ఎరువుల పెద్ద ఎంపిక అందుబాటులో ఉంది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "ఇది బ్రౌన్ రాట్ (మోనిలినియా ఫ్రుక్టికోలా), బాదం, ఆప్రికాట్లు, చెర్రీస్, పీచెస్ మరియు రేగు పండ్ల పువ్వులు మరియు పండ్లను ప్రభావితం చేసే అత్యంత సాధారణ శిలీంధ్ర వ్యాధి. ఇది మమ్మిఫైడ్ పండ్లలో (చెట్టు మీద మరియు నేలపై) మరియు వ్యాధి సోకిన కొమ్మలలో అతిగా ఉంటుంది. \n \n ఈ వ్యాధి మొదట వసంతకాలంలో పువ్వులకు సోకుతుంది మరియు కాండంను చంపగల క్యాన్సర్లకి కారణమయ్యే చిన్న కొమ్మలుగా తిరిగి పెరుగుతుంది. వ్యాధి తీవ్రంగా ఉన్నప్పుడు పెద్ద సంఖ్యలో పుష్పించే కాండం చనిపోతుంది. చనిపోయిన పువ్వులు తరచుగా వేసవిలో ముడిపడి ఉంటాయి. అభివృద్ధి చెందుతున్న లేదా పరిణతి చెందిన పండ్లు ఉపరితలంపై వేగంగా వ్యాపించే వృత్తాకార లేదా గోధుమ రంగు మచ్చలను చూపుతాయి మరియు కుళ్ళిన ప్రాంతాలపై లేత బూడిద రంగు బీజాంశాలు ఉత్పత్తి అవుతాయి. కుళ్ళిన కణజాలం సాపేక్షంగా దృఢంగా మరియు పొడిగా ఉంటుంది. \n \n గోధుమ తెగులు బీజాంశాలు గాలి, వర్షం మరియు కీటకాల ద్వారా బహిరంగ లేదా తెరవని పువ్వులు మరియు చిన్న రెమ్మలకు తీసుకువెళతాయి. పువ్వు ఉపరితలంపై వర్షం, మంచు లేదా నీటి నుండి నీరు ఉంటే, బీజాంశాలు మొలకెత్తుతాయి మరియు మొక్కలోకి చొచ్చుకుపోతాయి. వ్యాధి అభివృద్ధి విస్తృత ఉష్ణోగ్రత పరిధిలో జరుగుతుంది మరియు మొగ్గలు తెరిచిన సమయం నుండి రేకులు పడే వరకు పువ్వులు సోకవచ్చు. అనుకూలమైన పరిస్థితులలో, గోధుమ రంగు తెగులు త్వరగా వ్యాపిస్తుంది మరియు చెట్టు మీద మొత్తం పంటను పూర్తిగా నాశనం చేయవచ్చు. \n \n చికిత్స \n 1. సాధ్యమైనప్పుడల్లా నిరోధక రకాలను ఎంచుకోండి. \n 2. వ్యాధి సోకిన మొక్కల భాగాలను వెంటనే తొలగించడం మరియు నాశనం చేయడం వ్యక్తిగత చెట్లు మరియు చిన్న పండ్ల తోటలలో వ్యాధి యొక్క జీవిత చక్రాన్ని విచ్ఛిన్నం చేయడానికి సహాయపడుతుంది మరియు గోధుమ రంగు తెగులు దెబ్బతినే స్థాయిల కంటే తక్కువగా ఉంచడానికి సరిపోతుంది. \n 3. చెట్ల కింద పడిపోయిన పండ్లు లేదా శిధిలాలను సేకరించి తొలగించడం చాలా ముఖ్యం. \n 4. గాలి ప్రసరణను మెరుగుపరచడానికి అప్పుడప్పుడు చెట్లను కత్తిరించండి. అలాగే, పువ్వులు, ఆకులు మరియు పండ్లను తడవకుండా ఉండటానికి దిగువ నుండి నీరు. \n 5. అన్ని కోతలు మరియు గాయాలను మూసివేయడానికి మరియు కీటకాలు మరియు వ్యాధి జీవుల నుండి రక్షించడానికి టాంగిల్ఫుట్ కత్తిరింపు సీలర్ను ఉపయోగించండి. \n 6. ఉపయోగించడానికి సిద్ధంగా ఉన్న రాగి శిలీంధ్రనాశకాలు లేదా సల్ఫర్ పొడులను వ్యాధి సోకిన చెట్లకు వారానికొకసారి పూయాలి, పువ్వులు తెరుచుకోవడం ప్రారంభించినప్పటి నుండి మరియు పెరుగుతున్న సీజన్ అంతటా కొనసాగాలి. వీలైతే, అనువర్తనం తరువాత 12 గంటల పొడి వాతావరణం ఉండేలా సమయ అనువర్తనాలు. \n 7. ఆర్గానోసైడ్® ప్లాంట్ డాక్టర్ అనేది భూమికి అనుకూలమైన దైహిక శిలీంధ్రనాశకం, ఇది అలంకార వస్తువులు, మట్టిగడ్డ, పండ్లు మరియు మరిన్నింటిపై పెద్ద సంఖ్యలో వ్యాధులను ఎదుర్కోవడానికి మొత్తం మొక్క ద్వారా పనిచేస్తుంది. ఈ విధ్వంసక రాతి పండ్ల సమస్యను ఎదుర్కోవడానికి ఆకు స్ప్రే (1 టీ స్పూన్/గాలన్ నీరు) గా అప్లై చేయండి. \n 8. సల్ఫర్ మరియు పైరెథ్రిన్లను కలిగి ఉన్న, బోనిడ్ ® ఆర్చర్డ్ స్ప్రే అనేది కీటకాల దాడులు మరియు శిలీంధ్ర సమస్యలకు సురక్షితమైన, ఒక-హిట్ కాన్సన్ట్రేట్. ఉత్తమ ఫలితాల కోసం, సీజన్ ప్రారంభంలో ప్రొటెక్టివ్ స్ప్రే (2.5 oz/gallon) గా వర్తించండి. వ్యాధి, కీటకాలు లేదా తడి వాతావరణం ఉంటే, ఒక గాలన్ నీటిలో 5 oz కలపండి. మొక్క యొక్క అన్ని భాగాలను, ముఖ్యంగా కొత్త రెమ్మలను పూర్తిగా చల్లండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "ఇది క్లబ్ రూట్. చాలా వరకు బ్రాసికా పంటలను (క్యాబేజీ, బ్రోకలీ, కాలీఫ్లవర్ మొదలైనవి) ప్రభావితం చేస్తుంది.), క్లబ్ రూట్ అనేది ఉత్తర అమెరికా ఇంటి తోటలలో తీవ్రమైన మొక్కల వ్యాధి. ఇది నేల ద్వారా సంక్రమించే ఫంగస్ ప్లాస్మోడియోఫోరా బ్రాసికా వల్ల సంభవిస్తుంది, ఇది వేర్ల వెంట్రుకల ద్వారా హాని కలిగించే మొక్కలకు సోకుతుంది. వ్యాధి మూలాలు వాపుగా, తప్పుగా ఆకారంలో మరియు వైకల్యంతో (కలిపిన) తరచుగా పగిలిపోతాయి మరియు కుళ్ళిపోతాయి. ఫలితంగా, మొక్కలు నీరు మరియు పోషకాలను సరిగ్గా గ్రహించడంలో ఇబ్బంది పడతాయి. \n \n మొక్కలు తరచుగా పేలవంగా పెరుగుతాయి మరియు పగటి వేడి సమయంలో ఎండిపోతాయి; మొక్కలు తరచుగా చల్లని రాత్రులలో పునరుద్ధరించబడతాయి. బయటి ఆకులు పసుపు, ఊదా లేదా గోధుమ రంగులోకి మారవచ్చు. క్లబ్ రూట్ దిగుబడిని తగ్గిస్తుంది మరియు మొత్తం పంట వైఫల్యానికి కారణమవుతుంది. \n \n శిలీంధ్ర బీజాంశాలు గాలి, నీరు మరియు తోట పనిముట్ల ద్వారా వ్యాప్తి చెందుతాయి. వ్యాధి అభివృద్ధి విస్తృతమైన పరిస్థితులలో సంభవించవచ్చు, కానీ అధిక తేమ, తక్కువ మట్టి పిహెచ్ మరియు 64 మరియు 77 ఎఫ్ మధ్య మట్టి ఉష్ణోగ్రతలు అనుకూలంగా ఉంటాయి. విత్తనాలు మట్టిలో 10 సంవత్సరాల వరకు జీవించగలవు. \n \n చికిత్స \n 1. శిలీంధ్రనాశకాలు ఈ మట్టిలో నివసించే సూక్ష్మజీవికి చికిత్స చేయవు. \n 2. సాధ్యమైనప్పుడు నిరోధక సాగులను ఎంచుకోండి. \n 3. తోటను శుభ్రంగా ఉంచడం మరియు పంటలను తిప్పడం ద్వారా ఈ వ్యాధి సంభవించకుండా నిరోధించడానికి ప్రయత్నించండి. \n 4. వ్యాధి బీజాంశాలు మట్టిలో 20 సంవత్సరాల వరకు కొనసాగవచ్చని గుర్తుంచుకోండి. క్లబ్ రూట్ ఉంటే మీరు మట్టిని సౌరశక్తి చేయాలనుకోవచ్చు. * \n 5. వ్యాధి యొక్క సంభావ్య పెరుగుదలను తగ్గించడానికి సోకిన కలుపు మొక్కలు-ఆవాలు, ముల్లంగి, గొర్రెల కాపరి పర్స్-నియంత్రించండి. \n 6. వ్యాధి సోకిన మొక్కలను జాగ్రత్తగా తొలగించి, ఉపయోగించిన తర్వాత తోట పనిముట్లను (ఒక భాగాన్ని 4 భాగాల నీటికి బ్లీచ్ చేయండి) క్రిమిరహితం చేయండి. శరదృతువులో మీ తోటలో ఓస్టెర్ షెల్ లేదా డోలోమైట్ సున్నం కలపడం ద్వారా మీ మట్టి పిహెచ్ను మరింత ఆల్కలీన్ 7.2కి పెంచండి. తరచుగా పిహెచ్ ని తనిఖీ చేయడానికి సాధారణ మరియు సరసమైన మట్టి పరీక్ష వస్తు సామగ్రి అందుబాటులో ఉన్నాయి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "ఇది మొక్కజొన్న స్మట్. పెరటి తోటలు మరియు చిన్న పొలాలలో తరచుగా కనిపించే మొక్కజొన్న స్మట్ ఉస్టిలాగో జీ అనే ఫంగస్ వల్ల వస్తుంది మరియు కాండాలు, ఆకులు, టాసెల్స్ లేదా చెవులలో కనిపించవచ్చు. చెవులు పుట్టగొడుగు లాంటి కణితులు లేదా గాల్లను ఉత్పత్తి చేసినప్పుడు లక్షణాలు సాధారణంగా గమనించబడతాయి. ఈ \"వాపులు\" చిన్న, తెల్లటి-బూడిద రంగు అక్రమాలుగా ప్రారంభమవుతాయి, ఇవి బీజాంశాలతో నిండినప్పుడు విస్తరిస్తాయి మరియు నల్లగా మారుతాయి. చెవి గాల్లు 4 నుండి 5 అంగుళాల వ్యాసం వరకు పెరుగుతాయి మరియు అవి పగిలినప్పుడు వేలాది బీజాంశాలను విడుదల చేస్తాయి. ఈ శిలీంధ్ర బీజాంశాలు కొత్త మొక్కలకు సోకడానికి గాలి ద్వారా గణనీయమైన దూరం వరకు ఎగిరిపోతాయి. ఆకులపై ఉండే గల్లు చిన్నవిగా ఉండి, చివరికి కఠినంగా మరియు పొడిగా మారుతాయి. \n \n మొక్కజొన్న స్మట్ తోట శిధిలాలపై మరియు మట్టిలో అతిగా ఉంటుంది. ఇది గాలి, వర్షం మరియు నీటిపారుదల ద్వారా తీసుకువెళుతుంది మరియు వేడి, పొడి వాతావరణంలో ఉత్తమంగా పనిచేస్తుంది. బీజాంశాలు 5 నుండి 7 సంవత్సరాల వరకు ఆచరణీయంగా ఉండవచ్చు. సాగు మరియు నేల ఊదడం వల్ల రాపిడి వంటి వివిధ గాయాల వల్ల కలిగే గాయాలు, ఫంగస్ మొక్కలోకి ప్రవేశించడానికి పాయింట్లను అందిస్తాయి. \n \n చికిత్స \n 1. అందుబాటులో ఉన్నప్పుడు సిల్వర్ కింగ్, ఫాంటాసియా, బ్రిలియంట్ మరియు సెనెకా సెన్సేషన్ వంటి ఉత్తమ నిరోధక రకాలను ఎంచుకోండి. పెరటి తోటలలో, ముదురు శిలీంధ్ర బీజాంశాలు విడుదల కావడానికి ముందే గాల్లను సేకరించి నాశనం చేయాలని సూచించబడింది. ఇది అందుబాటులో ఉన్న శిలీంధ్ర బీజాంశాల సంఖ్యను పరిమితం చేస్తుంది మరియు వ్యాధి-చక్రాన్ని విచ్ఛిన్నం చేయడానికి సహాయపడుతుంది. \n 3. సాగు చేసేటప్పుడు వేర్లు, కాండాలు మరియు ఆకులు దెబ్బతినకుండా నివారించడం ద్వారా సంక్రమణ పాయింట్లను తగ్గించండి. \n 4. మోంటెరీ గార్డెన్ కీటక స్ప్రే లేదా ఇతర సేంద్రీయ క్రిమిసంహారక మందులతో మొక్కజొన్న బోరర్స్ వంటి కీటకాల నుండి నష్టాన్ని నివారించండి. \n 5. శిలీంధ్రనాశకాలు సమర్థవంతమైన నియంత్రణ ఎంపిక కాదు, ఎందుకంటే ఈ వ్యాధి చాలా విస్తృతంగా ఉంది మరియు నేలలో సంవత్సరాలు కొనసాగవచ్చు. \n 6. అధిక నత్రజని ఎరువులు వ్యాధి తీవ్రతను పెంచవచ్చు-కూరగాయల తోటలో సమతుల్య సేంద్రీయ ఎరువులను ఉపయోగించండి. \n 7. పంట కోసిన తర్వాత అన్ని తోట శిధిలాలను తొలగించి నాశనం చేసి, మరుసటి సంవత్సరం పంట మార్పిడి సాధన చేయండి. \n 8. బ్యాగ్ లేదా వ్యాధి సోకిన మొక్కల భాగాలను కాల్చండి-కంపోస్ట్ చేయవద్దు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "ఇది క్రౌన్ గాల్, ఇది మట్టి ద్వారా సంక్రమించే బాక్టీరియం అగ్రోబాక్టీరియం టుమేఫాసియన్స్ వల్ల కలిగే సాధారణ మొక్కల వ్యాధి. ఇది ప్రపంచవ్యాప్తంగా కనిపిస్తుంది మరియు ద్రాక్ష, రాస్ప్బెర్రీస్, బ్లాక్బెర్రీస్ మరియు గులాబీలతో సహా కలప పొదలు మరియు గుల్మ మొక్కల మీద కనిపిస్తుంది. \n \n క్రౌన్ గాల్ లక్షణాలు గుండ్రంగా, మొటిమల వంటి పెరుగుదలలు-2 అంగుళాలు లేదా అంతకంటే ఎక్కువ వ్యాసం-మట్టి రేఖ వద్ద లేదా దాని పైన లేదా దిగువ కొమ్మలు మరియు కాండం మీద కనిపిస్తాయి. అనేక గల్స్ ఉన్న మొక్కలు నీరు మరియు పోషకాలను ట్రంక్ పైకి తరలించలేకపోవచ్చు మరియు బలహీనపడతాయి, కుంగిపోతాయి మరియు అనుత్పాదకంగా మారవచ్చు. పిత్త కణజాలం అభివృద్ధి చెందడం ద్వారా యువ మొక్కలను చంపవచ్చు. \n \n క్రౌన్ గాల్కు కారణమయ్యే బ్యాక్టీరియా చాలా సంవత్సరాలు మట్టిలో కొనసాగవచ్చు మరియు గాల్లు తేమతో సంతృప్తమైనప్పుడు లేదా పాత గాల్లు కుళ్ళినప్పుడు విడుదలవుతాయి. సున్నితమైన మొక్కలు తాజా గాయాలు లేదా రాపిడి ద్వారా సోకుతాయి, వీటిలో చాలా వరకు కత్తిరింపు, స్తంభింపజేసే గాయం, మట్టి కీటకాలు, సాగు మరియు మొక్కలను దెబ్బతీసే ఇతర కారకాల ఫలితంగా ఉంటాయి. నర్సరీ స్టాక్ తరచుగా అంటుకట్టుట మరియు మొగ్గ మచ్చలు ద్వారా సంక్రమిస్తుంది. \n \n చికిత్స \n 1. సాధ్యమైనప్పుడు నిరోధక సాగులను ఎంచుకోండి మరియు పేరున్న నర్సరీ నుండి మొక్కలను కొనుగోలు చేయండి. \n 2. వాపు లేదా వాపు సంకేతాలను చూపించే మొక్కలను కొనుగోలు చేయవద్దు. \n 3. హాని కలిగించే మొక్కలను చూసుకున్నప్పుడు, మట్టిని తాకినప్పుడు వచ్చే గాయం లేదా కత్తిరింపు గాయాలను నివారించండి. \n 4. స్ట్రింగ్ ట్రిమ్మర్ దెబ్బతినకుండా రక్షించడానికి మరియు మీ తోట పనిముట్లను శుభ్రంగా ఉంచడానికి ట్రీ రాప్ ఉపయోగించండి. \n 5. బెరడు పగలకుండా ఉండటానికి సహజమైన బర్లాప్తో శీతాకాలపు రక్షణను అందించండి. \n 6. అనేక సందర్భాల్లో, ఇప్పటికే ఉన్న గాల్లను పదునైన కత్తిరింపు కత్తితో తొలగించవచ్చు. వ్యాధి సోకిన మొక్కల కణజాలాన్ని నాశనం చేసి, కత్తిరింపు సీలర్తో గాయానికి చికిత్స చేయండి. మొక్క కోలుకోకపోతే, దానిని తీసివేసి నాశనం చేయండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "ఇది బూడిద రంగు అచ్చు (బోట్రిటిస్ సినేరియా). విస్తృత శ్రేణి మొక్కలలో కనిపించే బూడిద రంగు అచ్చు అనేది ఒక శిలీంధ్ర వ్యాధి, ఇది తోటల గుండా వేగంగా ప్రయాణిస్తుంది, ముఖ్యంగా తడిగా, చల్లని నుండి తేలికపాటి వాతావరణం సమయంలో. వ్యాధి లక్షణాలు ఆకులు, కాండం, పువ్వులు మరియు ఉత్పత్తులపై బూడిద రంగు మృదువైన, మెత్తటి మచ్చలుగా కనిపిస్తాయి. ముఖ్యంగా తేమ ఎక్కువగా ఉంటే, మచ్చలు బూడిద రంగు ఫంగస్ బీజాంశాల పూతతో కప్పబడి ఉండవచ్చు. పండ్లు లేదా మొక్కలు కుళ్ళిపోతాయి మరియు కుళ్ళిపోతాయి మరియు తరచుగా నలుపు, రాయి లాంటి స్క్లెరోటియాను అభివృద్ధి చేస్తాయి-గట్టిపడిన శిలీంధ్ర తంతువుల యొక్క కాంపాక్ట్ మాస్-కుళ్ళిన భాగాల క్రింద. \n \n బూడిద రంగు అచ్చు తరచుగా మట్టి ఉపరితలం సమీపంలో లేదా మొక్కల పందిరి యొక్క దట్టమైన ప్రాంతాలలో కనిపిస్తుంది. ఇది మొదట ఎండిపోయిన పువ్వులపై అభివృద్ధి చెందుతుంది, తరువాత మొక్క యొక్క ఇతర భాగాలకు త్వరగా వ్యాపిస్తుంది. ఈ వ్యాధి నిల్వ ప్రదేశాలలో కూడా సంభవించవచ్చు, దీనివల్ల పండించిన పండ్లు మరియు కూరగాయలు కుళ్ళిపోతాయి. \n \n బొట్రిటిస్ బ్లైట్ మొక్కలపై, మట్టిలో లేదా నేలపై, మరియు స్క్లెరోటియాగా అతిశీతలంగా ఉంటుంది. పరిస్థితులు అనుకూలమైనప్పుడు బీజాంశాలు అభివృద్ధి చెందుతాయి, మరియు గాలి ద్వారా లేదా పువ్వులు లేదా చిన్న ఆకులపై నీరు చల్లడం ద్వారా కదిలించబడతాయి, అక్కడ అవి మొలకెత్తుతాయి మరియు మొక్కలోకి ప్రవేశిస్తాయి. బీజాంశాలు మొలకెత్తడానికి చల్లని ఉష్ణోగ్రతలు (45-60 F.) మరియు అధిక తేమ (93 శాతం మరియు అంతకంటే ఎక్కువ) అవసరం. మొలకెత్తే బీజాంశాలు అరుదుగా ఆకుపచ్చ, ఆరోగ్యకరమైన కణజాలంలోకి నేరుగా చొచ్చుకుపోతాయి, కానీ పెరుగుతున్న మొక్కల మీద గాయాల ద్వారా ప్రవేశించవచ్చు. కోతలు ముఖ్యంగా సంక్రమణకు గురయ్యే అవకాశం ఉంది. \n \n చికిత్స \n 1. మొక్కల మధ్య గాలి ప్రసరణను మెరుగుపరచడానికి మొక్కలను కత్తిరించండి లేదా కొట్టుకోండి. ప్రతి కోత తర్వాత మీ కత్తిరింపు పరికరాలను (ఒక భాగం బ్లీచ్ నుండి 4 భాగాల నీరు) క్రిమిసంహారక చేయండి. \n 2. ఇంటి లోపల పెరుగుతున్నట్లయితే గాలి ప్రవాహాన్ని మెరుగుపరచడానికి చిన్న క్లిప్-ఆన్ ఫ్యాన్ను ఉపయోగించండి. \n 3. మొక్కల క్రింద ఉన్న మట్టిని శుభ్రంగా ఉంచండి మరియు పడిపోయిన శిధిలాలను తొలగించండి. \n 4. మొక్కల కింద మంచి మొత్తంలో సేంద్రీయ కంపోస్ట్ లేదా గడ్డి కలపండి. మల్చ్లు శిలీంధ్ర బీజాంశాలు పువ్వులు మరియు ఆకులపై తిరిగి చిమ్మకుండా నిరోధిస్తాయి. \n 5. రోజులో మొక్కలు ఎండిపోవడానికి సమయం ఇవ్వడానికి తెల్లవారుజామున నీరు త్రాగండి లేదా నానబెట్టిన గొట్టాన్ని ఉపయోగించండి. \n 6. వ్యాధి సోకిన మొక్కల ఆకులు లేదా కాండంలను కంపోస్ట్ చేయవద్దు, శిలీంధ్ర బీజాంశాల కోసం శీతాకాలపు ప్రదేశాలను తగ్గించడానికి శరదృతువులో తోట ప్రాంతాలను పూర్తిగా శుభ్రం చేయండి. \n 7. రాగి-సోప్ శిలీంధ్రనాశకాలు మొక్కలను వ్యాధి బీజాంశాల నుండి రక్షించడంలో సహాయపడతాయి. పుష్పించే ప్రారంభంలో వర్తించండి మరియు పంటకోత వరకు ప్రతి 7-10 రోజులకు కొనసాగించండి. వాతావరణ అంచనాలు సుదీర్ఘకాలం చల్లని, తడి వాతావరణాన్ని అంచనా వేసినప్పుడు శిలీంధ్రనాశక స్ప్రేలు ప్రత్యేకంగా హామీ ఇవ్వబడతాయి. \n 8. సెరేనాడ్ గార్డెన్తో బొట్రిటిస్ బ్లైట్తో సహా చాలా శిలీంధ్ర వ్యాధులకు సురక్షితంగా చికిత్స చేయండి. ఈ విస్తృత వర్ణపట జీవ శిలీంధ్రనాశకం సేంద్రీయ ఉపయోగం కోసం నమోదు చేయబడిన బాసిల్లస్ సబ్టిలిస్ యొక్క పేటెంట్ జాతిని ఉపయోగిస్తుంది. అన్నింటికన్నా ఉత్తమమైనది, సెరేనాడ్ తేనెటీగలు మరియు ప్రయోజనకరమైన కీటకాలకు పూర్తిగా విషపూరితం కాదు. \n 9. సేంద్రీయ ఉపయోగం కోసం ఆమోదించబడిన జీవ శిలీంధ్రనాశకమైన మైకోస్టాప్ వ్యాధిని అణచివేసినట్లు చూపించింది. ప్రవహించే అవకాశం ఉన్న ఆకులు, పువ్వులు మరియు పండ్లకు నేరుగా స్ప్రే (5 గ్రాములు/50 లీటర్ల నీరు) చేయండి. ప్రతి 2 నుండి 3 వారాలకు ఒకసారి లేదా వ్యాధి ఒత్తిడిని బట్టి అవసరమైతే వర్తించండి. \n 10. గ్రీన్ క్యూర్ శిలీంధ్రనాశకం పొటాషియం బైకార్బోనేట్ యొక్క పేటెంట్ సూత్రాన్ని కలిగి ఉంటుంది-సాధారణంగా ఆహార ఉత్పత్తులలో ఉపయోగించబడుతుంది-ఇది స్పర్శలో అనేక మొక్కల వ్యాధులను చంపుతుంది మరియు 2 వారాల వరకు అవశేష రక్షణను అందిస్తుంది. వ్యాధి యొక్క మొదటి సంకేతం వద్ద, 1-2 టేబుల్ స్పూన్లు/గాలన్ నీటిని కలపండి మరియు మొక్క యొక్క అన్ని బహిర్గత ఉపరితలాలకు వర్తించండి. ఉత్తమ రక్షణ కోసం, వ్యాధి అభివృద్ధికి పరిస్థితులు అనుకూలంగా లేనంత వరకు 1 నుండి 2 వారాల వ్యవధిలో పునరావృతం చేయండి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "ఈ వ్యాధి ఏమిటి (చిన్న పరిచయం ఇవ్వండి) మరియు ఎలా చికిత్స చేయాలి?",
+        "answer": "ఇది ప్రారంభ వ్యాధి. టమోటా మరియు బంగాళాదుంప మొక్కలలో సాధారణం, ఆల్టర్నారియా సోలాని అనే ఫంగస్ వల్ల ప్రారంభ వ్యాధి సంభవిస్తుంది మరియు యునైటెడ్ స్టేట్స్ అంతటా సంభవిస్తుంది. లక్షణాలు మొదట దిగువ, పాత ఆకులపై \"ఎద్దుల కన్ను\" నమూనాను ఏర్పరుచుకునే కేంద్రీకృత వలయాలతో చిన్న గోధుమ రంగు మచ్చలుగా కనిపిస్తాయి. వ్యాధి పరిపక్వం చెందుతున్న కొద్దీ, ఇది ఆకు ఉపరితలంపై బయటికి వ్యాపించి, పసుపు రంగులోకి మారి, ఎండిపోయి, చనిపోతుంది. చివరికి మొక్క యొక్క కాండం, పండు మరియు ఎగువ భాగం వ్యాధి బారిన పడతాయి. పంటలు తీవ్రంగా దెబ్బతినే అవకాశం ఉంది. \n \n వ్యాధి సోకిన మొక్కల కణజాలంపై ప్రారంభ బ్లైట్ ఓవర్ వింటర్స్ మరియు వర్షం, నీటిపారుదల, కీటకాలు మరియు తోట పనిముట్లను చల్లడం ద్వారా వ్యాపిస్తుంది. ఈ వ్యాధి టమోటా విత్తనాలు మరియు బంగాళాదుంప దుంపలలో కూడా వ్యాపిస్తుంది. దాని పేరు ఉన్నప్పటికీ, ప్రారంభ బ్లైట్ పెరుగుతున్న సీజన్లో ఎప్పుడైనా సంభవించవచ్చు. అధిక ఉష్ణోగ్రతలు (80-85 °F.) మరియు తడి, తేమతో కూడిన పరిస్థితులు దాని వేగవంతమైన వ్యాప్తిని ప్రోత్సహిస్తాయి. అనేక సందర్భాల్లో, పేలవమైన పోషణ లేదా ఒత్తిడికి గురైన మొక్కలు దాడి చేయబడతాయి. \n \n చికిత్స \n గాలి ప్రసరణను మెరుగుపరచడానికి మరియు శిలీంధ్ర సమస్యలను తగ్గించడానికి మొక్కలను కత్తిరించండి లేదా కత్తిరించండి. \n ప్రతి కట్ తర్వాత మీ కత్తిరింపు కత్తిరింపులను (ఒక భాగం బ్లీచ్ నుండి 4 భాగాల నీరు) క్రిమిసంహారక చేయాలని నిర్ధారించుకోండి. \n మొక్కల క్రింద ఉన్న మట్టిని శుభ్రంగా మరియు తోట శిధిలాలు లేకుండా ఉంచండి. విత్తనాలు వృక్షసంపదపై తిరిగి చిమ్మకుండా నిరోధించడానికి సేంద్రీయ కంపోస్ట్ పొరను జోడించండి. \n ఆకులను పొడిగా ఉంచడంలో సహాయపడటానికి బిందు సేద్యం మరియు నానబెట్టిన గొట్టాలను ఉపయోగించవచ్చు. \n ఉత్తమ నియంత్రణ కోసం, వ్యాధి సాధారణంగా కనిపించడానికి రెండు వారాల ముందు లేదా వాతావరణ అంచనాలు సుదీర్ఘకాలం తడి వాతావరణాన్ని అంచనా వేసినప్పుడు రాగి ఆధారిత శిలీంధ్రనాశకాలను ముందుగానే వర్తించండి. ప్రత్యామ్నాయంగా, వ్యాధి మొదట కనిపించినప్పుడు చికిత్స ప్రారంభించండి మరియు అవసరమైనంత కాలం ప్రతి 7-10 రోజులకు పునరావృతం చేయండి. \n రాగి మరియు పైరెథ్రిన్లను కలిగి ఉన్న బోనిడ్ గార్డెన్ డస్ట్ అనేక కీటకాల దాడులు మరియు శిలీంధ్ర సమస్యలకు సురక్షితమైన, ఒక-దశ నియంత్రణ. ఉత్తమ ఫలితాల కోసం, ఆకుల పైభాగాన్ని మరియు దిగువ భాగాన్ని సన్నని ఏకరీతి పొర లేదా ధూళితో కప్పండి. ఆకుల సాంద్రతను బట్టి, 10 oz 625 చదరపు అడుగుల విస్తీర్ణంలో ఉంటుంది. అవసరమైతే ప్రతి 7-10 రోజులకు అనువర్తనాలను పునరావృతం చేయండి. \n సెరెనేడ్ గార్డెన్ అనేది అనేక ముఖ్యమైన మొక్కల వ్యాధుల నియంత్రణ లేదా అణచివేత కోసం సిఫార్సు చేయబడిన విస్తృత వర్ణపట, నివారణ బయో-ఫంగిసైడ్. ఉత్తమ ఫలితాల కోసం, ఆకు వ్యాధి అభివృద్ధి చెందడానికి ముందు లేదా సంక్రమణ యొక్క మొదటి సంకేతం వద్ద చికిత్స చేయండి. 7 రోజుల వ్యవధిలో లేదా అవసరమైతే పునరావృతం చేయండి. \n పంట కోసిన తర్వాత అన్ని తోట శిధిలాలను తొలగించి నాశనం చేసి, మరుసటి సంవత్సరం పంట మార్పిడిని సాధన చేయండి. \n వ్యాధి సోకిన మొక్కల భాగాలను కాల్చండి లేదా సంచి పెట్టండి. కంపోస్ట్ చేయవద్దు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "సర్ ఐజాక్ న్యూటన్ ఎఫ్ఆర్ఎస్ (డిసెంబర్ 25,1642-మార్చి 20) ఒక ఆంగ్ల గణిత శాస్త్రవేత్త, భౌతిక శాస్త్రవేత్త, ఖగోళ శాస్త్రవేత్త, రసవాది, వేదాంతి మరియు రచయిత, ఆయన తన కాలంలో సహజ తత్వవేత్తగా వర్ణించబడ్డారు. శాస్త్రీయ విప్లవం మరియు ఆ తరువాత జరిగిన జ్ఞానోదయంలో ఆయన కీలక వ్యక్తి. 1687లో మొదటిసారిగా ప్రచురించబడిన ఆయన మార్గదర్శక పుస్తకం ఫిలాసఫీ నాచురలిస్ ప్రిన్సిపియా మ్యాథమెటిక (మ్యాథమెటికల్ ప్రిన్సిపల్స్ ఆఫ్ నేచురల్ ఫిలాసఫీ), మునుపటి అనేక ఫలితాలను ఏకీకృతం చేసి శాస్త్రీయ యంత్రశాస్త్రాన్ని స్థాపించింది. న్యూటన్ ఆప్టిక్స్కు కూడా ప్రాథమిక రచనలు చేశాడు మరియు అనంతమైన కాలిక్యులస్ను అభివృద్ధి చేసినందుకు జర్మన్ గణిత శాస్త్రవేత్త గాట్ఫ్రైడ్ విల్హెల్మ్ లెబ్నిజ్తో ఘనతను పంచుకున్నాడు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "కన్ఫ్యూషియస్ (కన్ఫ్యూషియస్) (చైనీస్ః కన్ఫ్యూషియస్; పిన్యిన్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూషియస్; చైనీస్ః కన్ఫ్యూష కన్ఫ్యూషియస్ బోధనలు మరియు తత్వశాస్త్రం తూర్పు ఆసియా సంస్కృతి మరియు సమాజాన్ని బలపరుస్తాయి, ఈ రోజు వరకు చైనా మరియు తూర్పు ఆసియా అంతటా ప్రభావవంతంగా ఉన్నాయి.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "కై లున్ (చైనీయులుః; మర్యాదపూర్వకమైన పేరుః జింగ్జాంగ్ (); c. 50-62-121 CE), గతంలో త్సాయ్ లున్ గా రోమనీకరించబడింది, తూర్పు హాన్ రాజవంశం యొక్క చైనీస్ నపుంసకుడు కోర్టు అధికారి. అతను సాంప్రదాయకంగా కాగితం మరియు ఆధునిక కాగితం తయారీ ప్రక్రియ యొక్క ఆవిష్కర్తగా పరిగణించబడ్డాడు. క్రీస్తుపూర్వం 3 వ శతాబ్దం నుండి కాగితం యొక్క ప్రారంభ రూపాలు ఉనికిలో ఉన్నప్పటికీ, చెట్టు బెరడు మరియు జనపనార చివరల ద్వారా గుజ్జును జోడించడం వల్ల అతను కాగితం చరిత్రలో కీలక స్థానాన్ని ఆక్రమించాడు, దీని ఫలితంగా పెద్ద ఎత్తున తయారీ మరియు ప్రపంచవ్యాప్తంగా కాగితం వ్యాప్తి చెందింది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "క్రిస్టోఫర్ కొలంబస్ (25 ఆగస్టు మరియు 31 అక్టోబర్ 1451 మధ్య-20 మే 1506) రిపబ్లిక్ ఆఫ్ జెనోవాకు చెందిన ఇటాలియన్ అన్వేషకుడు మరియు నావికుడు, అతను కాథలిక్ చక్రవర్తులచే స్పాన్సర్ చేయబడిన అట్లాంటిక్ మహాసముద్రం మీదుగా నాలుగు స్పానిష్ ఆధారిత ప్రయాణాలను పూర్తి చేశాడు, విస్తృతమైన యూరోపియన్ అన్వేషణకు మరియు అమెరికాలలో యూరోపియన్ వలసరాజ్యాలకు మార్గం తెరిచాడు. అతని దండయాత్రలు కరేబియన్ మరియు మధ్య మరియు దక్షిణ అమెరికాతో మొట్టమొదటి యూరోపియన్ పరిచయం.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "ఆల్బర్ట్ ఐన్స్టీన్ (14 మార్చి 1879-18 ఏప్రిల్ 1955) జర్మనీలో జన్మించిన సైద్ధాంతిక భౌతిక శాస్త్రవేత్త. సాపేక్షత సిద్ధాంతాన్ని అభివృద్ధి చేసినందుకు ప్రసిద్ధి చెందిన ఆయన, క్వాంటం మెకానిక్స్ సిద్ధాంతం అభివృద్ధికి, తద్వారా ఆధునిక భౌతిక శాస్త్రానికి కూడా ముఖ్యమైన కృషి చేశారు. సాపేక్షత సిద్ధాంతం నుండి ఉద్భవించిన అతని ద్రవ్యరాశి-శక్తి సమానత్వ సూత్రం E = mc2, \"ప్రపంచంలోని అత్యంత ప్రసిద్ధ సమీకరణం\" గా పిలువబడింది. ఆయన రచనలు విజ్ఞానశాస్త్ర తత్వశాస్త్రంపై దాని ప్రభావానికి కూడా ప్రసిద్ధి చెందాయి. క్వాంటం సిద్ధాంతం అభివృద్ధిలో కీలకమైన దశ అయిన \"సైద్ధాంతిక భౌతిక శాస్త్రానికి ఆయన చేసిన సేవలకు, ముఖ్యంగా ఫోటోఎలెక్ట్రిక్ ప్రభావం యొక్క నియమాన్ని కనుగొన్నందుకు\" 1921 లో భౌతిక శాస్త్రంలో నోబెల్ బహుమతిని అందుకున్నారు. ఆవర్తన పట్టికలోని సింథటిక్ మూలకాలలో ఒకటైన ఐన్స్టీనియం, అతని గౌరవార్థం పేరు పెట్టబడింది.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "లూయిస్ పాశ్చర్ ఫోర్మేర్స్ (27 డిసెంబర్ 1822-28 సెప్టెంబర్ 1895) ఒక ఫ్రెంచ్ రసాయన శాస్త్రవేత్త మరియు సూక్ష్మజీవశాస్త్రవేత్త, టీకాలు వేయడం, సూక్ష్మజీవుల కిణ్వ ప్రక్రియ మరియు పాశ్చరైజేషన్ సూత్రాల ఆవిష్కరణలకు ప్రసిద్ధి చెందారు, వీటిలో చివరిదానికి అతని పేరు పెట్టారు. రసాయన శాస్త్రంలో ఆయన చేసిన పరిశోధన వ్యాధుల కారణాలు మరియు నివారణల అవగాహనలో చెప్పుకోదగిన పురోగతికి దారితీసింది, ఇది పరిశుభ్రత, ప్రజారోగ్యం మరియు చాలా ఆధునిక వైద్యానికి పునాదులు వేసింది. రాబిస్ మరియు ఆంత్రాక్స్ కోసం టీకాల అభివృద్ధి ద్వారా లక్షలాది మంది ప్రాణాలను కాపాడిన ఘనత పాశ్చర్ రచనలకు దక్కుతుంది. అతను ఆధునిక బ్యాక్టీరియాలజీ వ్యవస్థాపకులలో ఒకరిగా పరిగణించబడ్డాడు మరియు \"బ్యాక్టీరియాలజీ పితామహుడు\" మరియు \"మైక్రోబయాలజీ పితామహుడు\" గా గౌరవించబడ్డాడు (రాబర్ట్ కోచ్తో కలిసి; తరువాతి బిరుదు కూడా ఆంటోనీ వాన్ లీవెన్హోక్ కు ఆపాదించబడింది).",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "గెలీలియో డి విన్సెంజో బోనాయుటి డి 'గెలీలి (15 ఫిబ్రవరి 1564-8 జనవరి 1642) ఒక ఇటాలియన్ ఖగోళ శాస్త్రవేత్త, భౌతిక శాస్త్రవేత్త మరియు ఇంజనీర్, కొన్నిసార్లు బహుశాస్త్రవేత్తగా వర్ణించబడ్డాడు. సాధారణంగా గెలీలియో అని పిలువబడే అతని పేరు ఉచ్ఛరిస్తారు (GAL-ih-LAY-oh GAL-ih-LAY-ee, ఇటాలియన్ః [gaaliːlːo gaaliːi]). అతను అప్పుడు డచీ ఆఫ్ ఫ్లోరెన్స్లో భాగమైన పిసా నగరంలో జన్మించాడు. గెలీలియో పరిశీలనాత్మక ఖగోళ శాస్త్రం, ఆధునిక యుగం శాస్త్రీయ భౌతిక శాస్త్రం, శాస్త్రీయ పద్ధతి మరియు ఆధునిక విజ్ఞాన శాస్త్రానికి పితామహుడిగా పిలువబడ్డాడు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "నార్టన్ చక్రవర్తిగా పిలువబడే జాషువా అబ్రహం నార్టన్ (ఫిబ్రవరి 4,1818-జనవరి 8,1880) కాలిఫోర్నియాలోని శాన్ ఫ్రాన్సిస్కోలో నివసించేవాడు, అతను 1859లో తనను తాను \"నార్టన్ I, యునైటెడ్ స్టేట్స్ చక్రవర్తి\" గా ప్రకటించుకున్నాడు. 1863లో, నెపోలియన్ III మెక్సికోపై దాడి చేసిన తరువాత, అతను \"ప్రొటెక్టర్ ఆఫ్ మెక్సికో\" అనే ద్వితీయ బిరుదును పొందాడు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "లియో మెస్సీ అని కూడా పిలువబడే లియోనెల్ ఆండ్రెస్ మెస్సీ (స్పానిష్ ఉచ్ఛారణః [ljo ˈnel an ˈdɾes ˈmesi] (వినండి); జననం 24 జూన్ 1987) అర్జెంటీనా ప్రొఫెషనల్ ఫుట్బాల్ క్రీడాకారుడు, అతను లిగ్ 1 క్లబ్ పారిస్ సెయింట్-జర్మైన్ కోసం ఫార్వర్డ్గా ఆడతాడు మరియు అర్జెంటీనా జాతీయ జట్టుకు కెప్టెన్గా ఉంటాడు. అన్ని కాలాలలోనూ గొప్ప ఆటగాళ్ళలో ఒకరిగా విస్తృతంగా పరిగణించబడుతున్న మెస్సీ రికార్డు స్థాయిలో ఏడు బాలన్ డి ఓర్ అవార్డులు మరియు రికార్డు స్థాయిలో ఆరు యూరోపియన్ గోల్డెన్ షూస్ గెలుచుకున్నాడు మరియు 2020లో బాలన్ డి ఓర్ డ్రీమ్ జట్టుకు ఎంపికయ్యాడు. 2021లో క్లబ్ను విడిచిపెట్టేంత వరకు, అతను తన మొత్తం వృత్తిపరమైన వృత్తి జీవితాన్ని బార్సిలోనాతో గడిపాడు, అక్కడ అతను పది లా లిగా టైటిల్స్, ఏడు కోపా డెల్ రే టైటిల్స్ మరియు నాలుగు సార్లు UEFA ఛాంపియన్స్ లీగ్తో సహా క్లబ్-రికార్డు 34 ట్రోఫీలను గెలుచుకున్నాడు. తన దేశంతో కలిసి, అతను 2021 కోపా అమెరికా మరియు 2022 ఫిఫా ప్రపంచ కప్ను గెలుచుకున్నాడు. ఫలవంతమైన గోల్ స్కోరర్ మరియు సృజనాత్మక ప్లేమేకర్ అయిన మెస్సీ, లా లిగాలో అత్యధిక గోల్స్ (474), లా లిగా (36) మరియు UEFA ఛాంపియన్స్ లీగ్లో అత్యధిక హ్యాట్రిక్లు (ఎనిమిది), మరియు లా లిగా (192) మరియు కోపా అమెరికాలో అత్యధిక అసిస్ట్లు (17) రికార్డులను కలిగి ఉన్నాడు. అతను దక్షిణ అమెరికా పురుషులచే అత్యధిక అంతర్జాతీయ గోల్స్ (102) కూడా కలిగి ఉన్నాడు. మెస్సీ క్లబ్ మరియు దేశం కోసం 800 సీనియర్ కెరీర్ గోల్స్ సాధించాడు మరియు ఒకే క్లబ్ కోసం ఒక ఆటగాడు చేసిన అత్యధిక గోల్స్ (672) కలిగి ఉన్నాడు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "మీరు ఈ వ్యక్తికి ఒక చిన్న పరిచయం ఇవ్వగలరా?",
+        "answer": "అలాన్ మాథిసన్ ట్యూరింగ్ (OBE FRS) (23 జూన్ 1912-7 జూన్ 1954) ఒక ఆంగ్ల గణిత శాస్త్రవేత్త, కంప్యూటర్ శాస్త్రవేత్త, తర్కశాస్త్రవేత్త, గూఢ లిపి విశ్లేషకుడు, తత్వవేత్త మరియు సైద్ధాంతిక జీవశాస్త్రవేత్త. సైద్ధాంతిక కంప్యూటర్ శాస్త్రం అభివృద్ధిలో ట్యూరింగ్ అత్యంత ప్రభావవంతమైనది, ఇది ట్యూరింగ్ యంత్రంతో అల్గోరిథం మరియు గణన భావనలను లాంఛనప్రాయంగా అందించింది, దీనిని సాధారణ-ప్రయోజన కంప్యూటర్ యొక్క నమూనాగా పరిగణించవచ్చు. ఆయన సైద్ధాంతిక కంప్యూటర్ సైన్స్ మరియు కృత్రిమ మేధస్సుకు పితామహుడిగా విస్తృతంగా పరిగణించబడ్డారు.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "దిగువ గ్రాఫ్ దీర్ఘకాలిక అంతర్జాతీయ వలసలను చూపుతుంది, UK, 1999-2008. \n \n ప్రధాన లక్షణాలను ఎంచుకోవడం మరియు నివేదించడం ద్వారా సమాచారాన్ని సంగ్రహించండి మరియు సంబంధితమైన చోట పోలికలు చేయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "ఈ చార్ట్ 1999 మరియు 2008 మధ్య UK వలసలు, వలసలు మరియు నికర వలసల గురించి సమాచారాన్ని అందిస్తుంది. \n \n చూపిన కాలంలో వలసలు మరియు వలసల రేట్లు రెండూ పెరిగాయి, కానీ వలసల గణాంకాలు గణనీయంగా ఎక్కువగా ఉన్నాయి. నికర వలసలు 2004 మరియు 2007లో గరిష్ట స్థాయికి చేరుకున్నాయి. \n \n 1999లో, 450,000 మందికి పైగా ప్రజలు UKలో నివసించడానికి వచ్చారు, అయితే వలస వచ్చిన వారి సంఖ్య కేవలం 300,000 కంటే తక్కువగా ఉంది. నికర వలసల సంఖ్య సుమారు 160,000, మరియు ఇది 2003 వరకు ఇదే స్థాయిలో కొనసాగింది. 1999 నుండి 2004 వరకు, వలసల రేటు దాదాపు 150,000 మంది పెరిగింది, కానీ వలసలలో చాలా తక్కువ పెరుగుదల ఉంది. 2004లో నికర వలసలు దాదాపు 2,50,000 మందికి చేరుకున్నాయి. \n \n 2004 తరువాత, వలసల రేటు ఎక్కువగా ఉండిపోయింది, కానీ వలస వెళ్ళే ప్రజల సంఖ్య హెచ్చుతగ్గులకు గురైంది. 2007లో వలస అకస్మాత్తుగా పడిపోయింది, 2008లో 4,20,000 మందికి చేరుకుంది. ఫలితంగా, 2007లో నికర వలసల సంఖ్య 240,000 కు పెరిగింది, కానీ 2008లో 160,000 కు పడిపోయింది.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "దిగువ గ్రాఫ్ మరియు పట్టిక ప్రపంచవ్యాప్తంగా నీటి వినియోగం మరియు రెండు వేర్వేరు దేశాలలో నీటి వినియోగం గురించి సమాచారాన్ని అందిస్తాయి. \n \n ప్రధాన లక్షణాలను ఎంచుకోవడం మరియు నివేదించడం ద్వారా సమాచారాన్ని సంగ్రహించండి మరియు సంబంధితమైన చోట పోలికలు చేయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "ఈ పటాలు ప్రపంచవ్యాప్తంగా వ్యవసాయం, పరిశ్రమలు మరియు గృహాలకు ఉపయోగించే నీటి పరిమాణాన్ని మరియు బ్రెజిల్ మరియు డెమొక్రాటిక్ రిపబ్లిక్ ఆఫ్ కాంగోలో నీటి వినియోగాన్ని పోల్చాయి. \n \n 1900 మరియు 2000 మధ్య ప్రపంచ నీటి అవసరాలు గణనీయంగా పెరిగాయని మరియు ఉపయోగించిన నీటిలో వ్యవసాయం అత్యధిక నిష్పత్తిని కలిగి ఉందని స్పష్టమవుతుంది. కాంగో కంటే బ్రెజిల్లో నీటి వినియోగం గణనీయంగా ఎక్కువగా ఉందని కూడా మనం చూడవచ్చు. \n \n 1900లో, ప్రపంచవ్యాప్తంగా వ్యవసాయ రంగం సుమారు 500 చదరపు కిలోమీటర్ల నీటిని ఉపయోగించింది. పారిశ్రామిక మరియు దేశీయ నీటి వినియోగం గణాంకాలు ఆ మొత్తంలో ఐదవ వంతుగా ఉన్నాయి. 2000 నాటికి, వ్యవసాయం కోసం ప్రపంచ నీటి వినియోగం సుమారు 3000 చదరపు కిలోమీటర్లకు పెరిగింది, పారిశ్రామిక నీటి వినియోగం ఆ మొత్తంలో సగం కంటే తక్కువగా పెరిగింది మరియు దేశీయ వినియోగం సుమారు 500 చదరపు కిలోమీటర్లకు చేరుకుంది. \n \n 2000 సంవత్సరంలో, బ్రెజిల్ మరియు కాంగోల జనాభా వరుసగా 176 మిలియన్లు మరియు 5.2 మిలియన్లు. బ్రెజిల్లో ప్రతి వ్యక్తికి నీటి వినియోగం, 359 మీ3 వద్ద, కాంగోలో కంటే చాలా ఎక్కువగా ఉంది, కేవలం 8 మీ3 వద్ద, మరియు బ్రెజిల్లో 265 రెట్లు ఎక్కువ నీటిపారుదల భూమి ఉందనే వాస్తవం ద్వారా దీనిని వివరించవచ్చు.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "దిగువ పట్టికలు 1970 మరియు 2000 మధ్య యుఎస్ఎ వివాహం మరియు విడాకుల రేట్లు మరియు రెండు సంవత్సరాలలో వయోజన అమెరికన్ల వైవాహిక స్థితి గురించి సమాచారాన్ని అందిస్తాయి. \n \n ప్రధాన లక్షణాలను ఎంచుకోవడం మరియు నివేదించడం ద్వారా సమాచారాన్ని సంగ్రహించండి మరియు సంబంధితమైన చోట పోలికలు చేయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "మొదటి బార్ చార్ట్ USAలో వివాహాలు మరియు విడాకుల సంఖ్యలో మార్పులను చూపుతుంది మరియు రెండవ చార్ట్ 1970 మరియు 2000లో అమెరికన్ పెద్దల వైవాహిక స్థితికి సంబంధించిన గణాంకాలను చూపిస్తుంది. \n \n 1970 మరియు 2000 మధ్య అమెరికాలో వివాహాల సంఖ్య తగ్గిందని స్పష్టంగా తెలుస్తుంది. వయోజన అమెరికన్లలో ఎక్కువ మంది రెండు సంవత్సరాలలో వివాహం చేసుకున్నారు, కానీ 2000లో ఒంటరి వయోజనుల నిష్పత్తి ఎక్కువగా ఉంది. \n \n 1970లో, USAలో 25 లక్షల వివాహాలు మరియు 1 మిలియన్ విడాకులు జరిగాయి. 1980లో వివాహాల రేటు స్థిరంగా ఉండింది, కానీ 2000 నాటికి 2 మిలియన్లకు పడిపోయింది. దీనికి విరుద్ధంగా, విడాకుల రేటు 1980లో గరిష్ట స్థాయికి చేరుకుంది, దాదాపు 15 లక్షల విడాకులు, ఆ కాలం చివరిలో \n 1 మిలియన్కు పడిపోయే ముందు. \n \n అమెరికన్ పెద్దలలో 70 శాతం మంది 1970లో వివాహం చేసుకున్నారు, కానీ 2000 నాటికి ఈ సంఖ్య కేవలం 60 శాతానికి పడిపోయింది. అదే సమయంలో, అవివాహితులు మరియు విడాకులు తీసుకున్న వారి నిష్పత్తి మొత్తం 10 శాతం పెరిగింది. 2000లో వితంతువులైన అమెరికన్ల నిష్పత్తి కొంచెం తక్కువగా ఉంది.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "దిగువ పట్టిక నాలుగు యూరోపియన్ దేశాలలో ఆరు వినియోగ వస్తువుల కోసం ఖర్చు చేసిన మొత్తాన్ని చూపిస్తుంది. \n \n క్రింద చూపిన సమాచారాన్ని వివరిస్తూ విశ్వవిద్యాలయ లెక్చరర్కు ఒక నివేదిక రాయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "బార్ చార్ట్ జర్మనీ, ఇటలీ, ఫ్రాన్స్ మరియు బ్రిటన్లోని ఆరు వేర్వేరు వస్తువులపై వినియోగదారుల ఖర్చును పోల్చి చూస్తుంది. \n \n మొత్తం ఆరు వస్తువుల కోసం ఇతర మూడు దేశాల ప్రజల కంటే బ్రిటిష్ ప్రజలు గణనీయంగా ఎక్కువ డబ్బు ఖర్చు చేశారని స్పష్టమవుతుంది. ఆరు వస్తువులలో, వినియోగదారులు ఫోటోగ్రాఫిక్ ఫిల్మ్ కోసం ఎక్కువ డబ్బు ఖర్చు చేశారు. \n \n బ్రిటన్లోని ప్రజలు ఫోటోగ్రాఫిక్ ఫిల్మ్ కోసం కేవలం £170,000 కంటే ఎక్కువ ఖర్చు చేశారు, ఇది చార్ట్లో చూపిన అత్యధిక సంఖ్య. దీనికి విరుద్ధంగా, జర్మన్లు మొత్తం మీద అతి తక్కువ ఖర్చు చేసేవారు, ఆరు ఉత్పత్తులలో ప్రతిదానికి దాదాపు ఒకే గణాంకాలు (కేవలం 150,000 పౌండ్ల కంటే తక్కువ) ఉన్నాయి. \n \n బొమ్మల కోసం ఖర్చు చేసే గణాంకాలు ఫ్రాన్స్ మరియు ఇటలీ రెండింటిలోనూ ఒకే విధంగా ఉన్నాయి, దాదాపు £160,000. ఏదేమైనా, ఫ్రెంచ్ ప్రజలు ఫోటోగ్రాఫిక్ ఫిల్మ్ మరియు సిడిల కోసం ఇటాలియన్ల కంటే ఎక్కువ ఖర్చు చేయగా, ఇటాలియన్లు వ్యక్తిగత స్టీరియోలు, టెన్నిస్ రాకెట్లు మరియు పరిమళ ద్రవ్యాల కోసం ఎక్కువ చెల్లించారు. ఫ్రెంచ్ ప్రజలు టెన్నిస్ రాకెట్ల కోసం ఖర్చు చేసిన మొత్తం, సుమారు £145,000, చార్టులో చూపిన అతి తక్కువ సంఖ్య.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "దిగువ పట్టిక ఆరు నగరాల్లో భూగర్భ రైల్వే వ్యవస్థల గురించి సమాచారాన్ని అందిస్తుంది. \n \n ప్రధాన లక్షణాలను ఎంచుకోవడం మరియు నివేదించడం ద్వారా సమాచారాన్ని సంగ్రహించండి మరియు సంబంధితమైన చోట పోలికలు చేయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "ఈ పట్టిక ఆరు ప్రధాన నగరాల్లో భూగర్భ రైలు నెట్వర్క్ల గురించి సమాచారాన్ని చూపుతుంది. \n \n పట్టిక ఆరు నెట్వర్క్లను వాటి వయస్సు, పరిమాణం మరియు ప్రతి సంవత్సరం వాటిని ఉపయోగించే వ్యక్తుల సంఖ్య పరంగా పోల్చి చూస్తుంది. మూడు పురాతన భూగర్భ వ్యవస్థలు పెద్దవిగా ఉన్నాయని, కొత్త వ్యవస్థల కంటే గణనీయంగా ఎక్కువ మంది ప్రయాణీకులకు సేవలు అందిస్తున్నాయని స్పష్టమవుతుంది. \n \n లండన్ భూగర్భ వ్యవస్థ అత్యంత పురాతనమైనది, ఇది 1863లో ప్రారంభించబడింది. ఇది 394 కిలోమీటర్ల మార్గంతో అతిపెద్ద వ్యవస్థ కూడా. పారిస్లోని రెండవ అతిపెద్ద వ్యవస్థ, 199 కిలోమీటర్ల మార్గంతో లండన్ భూగర్భంలో సగం పరిమాణంలో మాత్రమే ఉంది. అయితే, ఇది సంవత్సరానికి ఎక్కువ మందికి సేవలు అందిస్తుంది. పరిమాణం పరంగా మూడవ స్థానంలో ఉన్నప్పటికీ, టోక్యో వ్యవస్థ సంవత్సరానికి 1927 మిలియన్ల మంది ప్రయాణికులతో సులభంగా ఎక్కువగా ఉపయోగించబడుతుంది. \n \n మూడు కొత్త నెట్వర్క్లలో, క్యోటో మరియు లాస్ ఏంజిల్స్ వ్యవస్థలకు కేవలం 11 కిలోమీటర్లు మరియు 28 కిలోమీటర్లతో పోలిస్తే, 126 కిలోమీటర్ల మార్గంతో వాషింగ్టన్ డిసి భూగర్భ అత్యంత విస్తృతమైనది. లాస్ ఏంజిల్స్ నెట్వర్క్ సరికొత్తది, ఇది 2001లో ప్రారంభించబడింది, అయితే క్యోటో నెట్వర్క్ అతి చిన్నది మరియు సంవత్సరానికి 45 మిలియన్ల మంది ప్రయాణీకులకు మాత్రమే సేవలు అందిస్తుంది.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "దిగువ పట్టిక 2002లో ఐదు వేర్వేరు దేశాలలో వేర్వేరు వస్తువులపై వినియోగదారుల వ్యయంపై సమాచారాన్ని అందిస్తుంది. \n \n ప్రధాన లక్షణాలను ఎంచుకోవడం మరియు నివేదించడం ద్వారా సమాచారాన్ని సంగ్రహించండి మరియు సంబంధితమైన చోట పోలికలు చేయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "ఈ పట్టిక 2002లో ఐదు దేశాలలో మూడు వర్గాల ఉత్పత్తులు మరియు సేవలకు వినియోగదారు వ్యయం శాతాలను చూపుతుంది. \n \n ప్రతి దేశంలో వినియోగదారుల ఖర్చులో అత్యధిక నిష్పత్తి ఆహారం, పానీయాలు మరియు పొగాకుపై ఖర్చయిందని స్పష్టమవుతుంది. మరోవైపు, విశ్రాంతి/విద్య విభాగంలో పట్టికలో అతి తక్కువ శాతాలు ఉన్నాయి. \n \n ఐదు దేశాలలో, ఆహారం, పానీయాలు మరియు పొగాకుపై వినియోగదారుల వ్యయం టర్కీలో 32.14% వద్ద మరియు ఐర్లాండ్లో దాదాపు 29% వద్ద గమనించదగ్గ స్థాయిలో ఎక్కువగా ఉంది. విశ్రాంతి మరియు విద్య కోసం ఖర్చు చేసే నిష్పత్తి కూడా టర్కీలో అత్యధికంగా ఉంది, 4.35%, అయితే దుస్తులు మరియు పాదరక్షల కోసం ఖర్చు ఇటలీలో ఇతర దేశాల కంటే 9 శాతం గణనీయంగా ఎక్కువగా ఉంది. \n \n స్వీడన్ ఆహారం/పానీయాలు/పొగాకు మరియు దుస్తులు/పాదరక్షల కోసం జాతీయ వినియోగదారుల వ్యయంలో అతి తక్కువ శాతాన్ని వరుసగా దాదాపు 16 శాతం మరియు కేవలం 5 శాతానికి పైగా కలిగి ఉందని చూడవచ్చు. స్పెయిన్ ఈ వర్గాలకు కొంచెం ఎక్కువ సంఖ్యలను కలిగి ఉంది, కానీ విశ్రాంతి/విద్యకు అత్యల్ప సంఖ్య, 1.98% మాత్రమే.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "దిగువ పై పటాలు 1980 మరియు 2000లలో ఆస్ట్రేలియా మరియు ఫ్రాన్స్లలో ఇంధన మూలం ద్వారా విద్యుత్ ఉత్పత్తి యూనిట్లను చూపుతాయి. \n \n ప్రధాన లక్షణాలను ఎంచుకోవడం మరియు నివేదించడం ద్వారా సమాచారాన్ని సంగ్రహించండి మరియు సంబంధితమైన చోట పోలికలు చేయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "పై పటాలు రెండు వేర్వేరు సంవత్సరాలలో రెండు దేశాలలో ఐదు వేర్వేరు ఇంధన వనరులను ఉపయోగించి ఉత్పత్తి చేయబడిన విద్యుత్ మొత్తాన్ని పోల్చాయి. \n \n ఆస్ట్రేలియా మరియు ఫ్రాన్స్ రెండింటిలోనూ 1980 నుండి 2000 వరకు మొత్తం విద్యుత్ ఉత్పత్తి నాటకీయంగా పెరిగింది. రెండు దేశాల మొత్తాలు ఒకేలా ఉన్నప్పటికీ, ఉపయోగించిన ఇంధన వనరులలో పెద్ద తేడాలు ఉన్నాయి. \n \n 1980లో ఆస్ట్రేలియాలో మొత్తం 100 యూనిట్ల విద్యుత్తులో 50 యూనిట్లను ఉత్పత్తి చేయడానికి బొగ్గును ఉపయోగించారు, 2000లో 170 యూనిట్లకు 130 యూనిట్లకు పెరిగింది. దీనికి విరుద్ధంగా, 2000 లో ఫ్రాన్స్లో అణుశక్తి అత్యంత ముఖ్యమైన ఇంధన వనరుగా మారింది, ఇది దేశంలోని విద్యుత్తులో దాదాపు 75 శాతం ఉత్పత్తి చేస్తుంది. \n \n ఆస్ట్రేలియా రెండు సంవత్సరాలలో దాని విద్యుత్తులో కేవలం 25 శాతం కంటే తక్కువ జలవిద్యుత్ మీద ఆధారపడింది, కానీ ఈ రకమైన విద్యుత్తును ఉపయోగించి ఉత్పత్తి చేయబడిన విద్యుత్ మొత్తం ఫ్రాన్స్లో 5 నుండి కేవలం 2 యూనిట్లకు పడిపోయింది. మరోవైపు, ఫ్రాన్స్లో చమురు సాపేక్షంగా ముఖ్యమైన ఇంధన వనరుగా మిగిలిపోయింది, కానీ ఆస్ట్రేలియాలో దాని ఉపయోగం తగ్గింది. రెండు దేశాలు విద్యుత్ ఉత్పత్తి కోసం సహజ వాయువుపై 2000తో పోలిస్తే 1980లో గణనీయంగా ఎక్కువగా ఆధారపడ్డాయి.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "చోర్లీవుడ్ అనేది లండన్ సమీపంలోని ఒక గ్రామం, దీని జనాభా పంతొమ్మిదవ శతాబ్దం మధ్యకాలం నుండి క్రమంగా పెరిగింది. దిగువ మ్యాప్ గ్రామం యొక్క అభివృద్ధిని చూపుతుంది. \n \n గ్రామ అభివృద్ధిని వివరిస్తూ విశ్వవిద్యాలయ లెక్చరర్కు ఒక నివేదిక రాయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "ఈ పటం 1868 మరియు 1994 మధ్య చోర్లీవుడ్ అనే గ్రామం యొక్క పెరుగుదలను చూపుతుంది. \n \n రవాణా మౌలిక సదుపాయాలు మెరుగుపడినందున గ్రామం వృద్ధి చెందిందని స్పష్టమవుతుంది. నాలుగు అభివృద్ధి కాలాలు మ్యాప్లో చూపించబడ్డాయి, మరియు ప్రతి జనాభా ప్రాంతాలు ప్రధాన రహదారులు, రైల్వే లేదా మోటారు మార్గానికి సమీపంలో ఉన్నాయి. \n \n 1868 నుండి 1883 వరకు, చోర్లీవుడ్ ప్రధాన రహదారులలో ఒకదాని పక్కన ఉన్న ఒక చిన్న ప్రాంతాన్ని కవర్ చేసింది. చోర్లీవుడ్ పార్క్ మరియు గోల్ఫ్ కోర్స్ ఇప్పుడు ఈ అసలు గ్రామ ప్రాంతం పక్కన ఉన్నాయి. ఈ గ్రామం 1883 మరియు 1922 మధ్య దక్షిణాన ప్రధాన రహదారి వెంట పెరిగింది, 1909లో ఈ ప్రాంతాన్ని పశ్చిమం నుండి తూర్పుకు దాటుతూ రైల్వే లైన్ నిర్మించబడింది. చోర్లీవుడ్ స్టేషన్ గ్రామం యొక్క ఈ భాగంలో ఉంది. \n \n చోర్లీవుడ్ విస్తరణ 1970 వరకు రైల్వే లైన్ వెంట తూర్పు మరియు పడమర వరకు కొనసాగింది. ఆ సమయంలో, గ్రామానికి తూర్పున ఒక మోటారు మార్గం నిర్మించబడింది, 1970 నుండి 1994 వరకు, రైల్వే మరియు ప్రధాన రహదారులతో కూడిన మోటారు మార్గం కూడళ్ల చుట్టూ గ్రామం మరింత అభివృద్ధి చెందింది.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "దిగువ పటం గార్ల్స్డన్ పట్టణానికి చెందినది. పట్టణం కోసం కొత్త సూపర్మార్కెట్ (ఎస్) ప్రణాళిక చేయబడింది. ఈ పటం సూపర్మార్కెట్ కోసం రెండు సాధ్యమయ్యే ప్రదేశాలను చూపుతుంది. \n \n ప్రధాన లక్షణాలను ఎంచుకోవడం మరియు నివేదించడం ద్వారా సమాచారాన్ని సంగ్రహించండి మరియు సంబంధితమైన చోట పోలికలు చేయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "ఈ పటం గార్ల్స్డాన్ అనే పట్టణంలో కొత్త సూపర్మార్కెట్ కోసం రెండు సంభావ్య ప్రదేశాలను (ఎస్1 మరియు ఎస్2) చూపిస్తుంది. \n \n రెండు సైట్ల మధ్య ప్రధాన వ్యత్యాసం ఏమిటంటే, S1 పట్టణం వెలుపల ఉండగా, S2 పట్టణ కేంద్రంలో ఉంది. ఈ ప్రదేశాలను రోడ్డు లేదా రైలు ద్వారా చేరుకునే మార్గాల పరంగా మరియు వాటి స్థానాలను మూడు చిన్న పట్టణాలతో పోల్చవచ్చు. \n \n సమాచారాన్ని మరింత వివరంగా చూస్తే, S1 గార్ల్స్డన్కు వాయువ్య దిశలో గ్రామీణ ప్రాంతంలో ఉంది, కానీ ఇది పట్టణంలోని నివాస ప్రాంతానికి దగ్గరగా ఉంది. ఎస్2 కూడా పట్టణ కేంద్రం చుట్టూ ఉన్న హౌసింగ్ ప్రాంతానికి దగ్గరగా ఉంది. \n \n హిండన్, బ్రాన్స్డన్ మరియు క్రాన్స్డన్ నుండి గార్ల్స్డన్ టౌన్ సెంటర్ వరకు ప్రధాన రహదారులు ఉన్నాయి, కానీ ఇది నో ట్రాఫిక్ జోన్, కాబట్టి కారు ద్వారా ఎస్ 2 కి ప్రవేశం ఉండదు. దీనికి విరుద్ధంగా, ఎస్1 హిండన్కు వెళ్లే ప్రధాన రహదారిపై ఉంది, కానీ బ్రాన్స్డన్ మరియు క్రాన్స్డన్ నుండి చేరుకోవడం మరింత కష్టం. రెండు సూపర్మార్కెట్ సైట్లు హిండన్ నుండి క్రాన్స్డన్ వరకు గార్ల్స్డన్ గుండా వెళ్ళే రైల్వేకి దగ్గరగా ఉన్నాయి.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "విశ్వసనీయమైన అంచనాలను రూపొందించడానికి ఆస్ట్రేలియన్ బ్యూరో ఆఫ్ మెటియోరాలజీ వాతావరణంపై నిమిషం వరకు సమాచారాన్ని ఎలా సేకరిస్తుందో ఈ క్రింది రేఖాచిత్రం చూపిస్తుంది. \n \n క్రింద చూపిన సమాచారాన్ని వివరిస్తూ విశ్వవిద్యాలయ లెక్చరర్కు ఒక నివేదిక రాయండి. \n \n మీరు కనీసం 150 పదాలు రాయాలి.",
+        "answer": "వాతావరణాన్ని అంచనా వేయడానికి ఆస్ట్రేలియన్ బ్యూరో ఆఫ్ మెటియోరాలజీ ఉపయోగించే ప్రక్రియను ఈ చిత్రం వివరిస్తుంది. \n \n ఈ ప్రక్రియలో నాలుగు దశలు ఉన్నాయి, ఇది వాతావరణానికి సంబంధించిన సమాచార సేకరణతో ప్రారంభమవుతుంది. ఈ సమాచారం అప్పుడు విశ్లేషించబడుతుంది, ప్రదర్శన కోసం సిద్ధం చేయబడుతుంది మరియు చివరకు ప్రజలకు ప్రసారం చేయబడుతుంది. \n \n ప్రక్రియ యొక్క మొదటి మరియు రెండవ దశలను చూస్తే, వాతావరణ డేటాను సేకరించడానికి మూడు మార్గాలు మరియు దానిని విశ్లేషించడానికి మూడు మార్గాలు ఉన్నాయి. మొదట, ఇన్కమింగ్ సమాచారాన్ని ఉపగ్రహం ద్వారా పొందవచ్చు మరియు ఉపగ్రహ చిత్రంగా విశ్లేషణ కోసం సమర్పించవచ్చు. అదే డేటాను రాడార్ స్టేషన్కు కూడా పంపవచ్చు మరియు రాడార్ స్క్రీన్ లేదా సైనోప్టిక్ చార్ట్లో ప్రదర్శించవచ్చు. రెండవది, ఇన్కమింగ్ సమాచారాన్ని నేరుగా రాడార్ ద్వారా సేకరించి రాడార్ స్క్రీన్ లేదా సైనోప్టిక్ చార్ట్లో విశ్లేషించవచ్చు. చివరగా, డ్రిఫ్టింగ్ బాయ్స్ కూడా సైనోప్టిక్ చార్ట్లో చూపించగల డేటాను అందుకుంటాయి. \n \n ప్రక్రియ యొక్క మూడవ దశలో, వాతావరణ ప్రసారం కంప్యూటర్లలో తయారు చేయబడుతుంది. చివరగా, ఇది టెలివిజన్లో, రేడియోలో లేదా రికార్డ్ చేసిన టెలిఫోన్ ప్రకటనగా ప్రజలకు పంపిణీ చేయబడుతుంది.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

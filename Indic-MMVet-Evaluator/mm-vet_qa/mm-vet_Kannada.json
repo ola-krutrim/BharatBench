@@ -1,0 +1,2257 @@
+{
+    "v1_0": {
+        "imagename": "v1_0.png",
+        "question": "ಸಮೀಕರಣದಲ್ಲಿ x ಎಂದರೇನು?",
+        "answer": "- 1 <AND>-5",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_1": {
+        "imagename": "v1_1.png",
+        "question": "ಕೊನೆಯ ಸಮೀಕರಣದಲ್ಲಿ ಡಿ ಎಂದರೇನು?",
+        "answer": "1. 25 <OR> = 1.25 <OR> 5/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_2": {
+        "imagename": "v1_1.png",
+        "question": "ಸಮೀಕರಣದಲ್ಲಿ x ಎಂದರೇನು?",
+        "answer": "0. 75 <OR> = 0.75 <OR> 3/4",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_3": {
+        "imagename": "v1_3.png",
+        "question": "ಕೆಳಗಿನ ಎಡ ಸಮೀಕರಣಕ್ಕೆ ಉತ್ತರವೇನು?",
+        "answer": "12 <OR> = 12",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_4": {
+        "imagename": "v1_3.png",
+        "question": "ಬಲಭಾಗದಲ್ಲಿರುವ ಎರಡನೇ ಸಮೀಕರಣಕ್ಕೆ ಉತ್ತರವೇನು?",
+        "answer": "7 <OR> = 7",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_5": {
+        "imagename": "v1_5.png",
+        "question": "ಬಲಭಾಗದಲ್ಲಿರುವ ಎರಡನೇ ಕೊನೆಯ ಸಮೀಕರಣಕ್ಕೆ ಉತ್ತರವೇನು?",
+        "answer": "2 <OR> = 2",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_6": {
+        "imagename": "v1_5.png",
+        "question": "ಕೊನೆಯ ಸಮೀಕರಣದಲ್ಲಿ y ಎಂದರೇನು?",
+        "answer": "5 <OR> = 5",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_7": {
+        "imagename": "v1_7.png",
+        "question": "\"X\" ಆಪರೇಟರ್ ಅನ್ನು ಹೇಗೆ ಮರು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿದೆ ಎಂಬುದರ ಮಾದರಿಯನ್ನು ಕಂಡುಕೊಳ್ಳಿ ಮತ್ತು ಚಿತ್ರದಲ್ಲಿ ನೀಡಲಾದ ಸಮೀಕರಣಕ್ಕೆ ಉತ್ತರಿಸಿ.",
+        "answer": "13 <OR> = 13",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_8": {
+        "imagename": "v1_8.png",
+        "question": "ಬಲಭಾಗದಲ್ಲಿರುವ ಹುಡುಗಿ ಫಲಕದಲ್ಲಿ ಏನು ಬರೆಯುತ್ತಾಳೆ?",
+        "answer": "14 <OR> = 14",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_9": {
+        "imagename": "v1_9.png",
+        "question": "50 ಡಾಲರ್ನೊಂದಿಗೆ ನಾನು ಎಷ್ಟು ಗ್ಯಾಲನ್ ಗರಿಷ್ಠ ಗ್ಯಾಸೋಲಿನ್ ಪಡೆಯಬಹುದು?",
+        "answer": "13. 6 <ಅಥವಾ> 13.7",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_10": {
+        "imagename": "v1_9.png",
+        "question": "ಸಾಮಾನ್ಯ ಪೆಟ್ರೋಲ್ ಮತ್ತು ಸಾಮಾನ್ಯ ಪೆಟ್ರೋಲ್ ನಡುವಿನ ಬೆಲೆ ವ್ಯತ್ಯಾಸವೇನು?",
+        "answer": "0. 11",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_11": {
+        "imagename": "v1_11.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವ ಮೆರ್ಲೋಟ್ ಬಾಟಲಿ ಮತ್ತು ಕ್ಯಾಬರ್ನೆಟ್ ಬಾಟಲಿಗೆ ಒಟ್ಟು ಬೆಲೆ ಎಷ್ಟು?",
+        "answer": "249.98",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_12": {
+        "imagename": "v1_11.jpg",
+        "question": "ಮೋಯೆಟ್ ಷಾಂಪೇನ್ ನ ಮೂರು ಬಾಟಲಿಗಳ ಬೆಲೆ ಎಷ್ಟು?",
+        "answer": "344.97",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_13": {
+        "imagename": "v1_13.jpg",
+        "question": "ನಾನು ಒಂದು ಶಿಲೀಂಧ್ರ ಪಿಜ್ಜಾ ಮತ್ತು ಒಂದು ಪ್ರೋಸಿಯುಟೊ ಪಿಜ್ಜಾವನ್ನು ಪಡೆಯುತ್ತಿದ್ದೇನೆ. ನಾನು ಒಟ್ಟು ಎಷ್ಟು ಪಾವತಿಸಬೇಕು?",
+        "answer": "14. 8 <ಅಥವಾ> 14,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_14": {
+        "imagename": "v1_13.jpg",
+        "question": "ನನಗೆ ಎರಡು ಮಾರ್ಗರಿಟಾ ಪಿಜ್ಜಾ ಮತ್ತು ಒಂದು ಕ್ಯಾಲ್ಜೋನ್ ಸಿಗುತ್ತಿದೆ. ನಾನು ಒಟ್ಟು ಎಷ್ಟು ಪಾವತಿಸಬೇಕು?",
+        "answer": "25. 8 <ಅಥವಾ> 25,8",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_15": {
+        "imagename": "v1_15.png",
+        "question": "ರಿಯಾಯಿತಿ ನೀಡುವ ಮೊದಲು ಹಂದಿಮಾಂಸದ ಹೊಟ್ಟೆಯ ಮೂಲ ಬೆಲೆ ಎಷ್ಟು?",
+        "answer": "14.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_16": {
+        "imagename": "v1_16.jpg",
+        "question": "ಪೆಟ್ರೋಲ್ ಬೆಲೆ ಎಷ್ಟು?",
+        "answer": "4.299 <OR> 4.3",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_17": {
+        "imagename": "v1_17.jpg",
+        "question": "ಮುಂಭಾಗದ ಎಡಭಾಗದಲ್ಲಿರುವ ವ್ಯಕ್ತಿಯು ಧರಿಸುವ ಟೋಪಿಯ ಬಣ್ಣ ಯಾವುದು?",
+        "answer": "ನೀಲಿ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_18": {
+        "imagename": "v1_18.jpg",
+        "question": "ಶಾಂಪೂ ಬಲಭಾಗದಲ್ಲಿ ಏನಿದೆ?",
+        "answer": "ಕಂಡಿಷನರ್",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_19": {
+        "imagename": "v1_18.jpg",
+        "question": "ಅತ್ಯಂತ ಸರಿಯಾದ ಬಾಟಲಿಯಲ್ಲಿ ಏನಿದೆ?",
+        "answer": "ಮೌಸ್",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_20": {
+        "imagename": "v1_20.jpg",
+        "question": "ಫ್ರಿಸ್ಬೀ ಮತ್ತು ಮನುಷ್ಯನ ನಡುವಿನ ಪ್ರಾದೇಶಿಕ ಸಂಬಂಧವೇನು?",
+        "answer": "ಮನುಷ್ಯನ ಮೇಲೆ <ಅಥವಾ> ಮೇಲಿನ ಎಡಕ್ಕೆ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_21": {
+        "imagename": "v1_21.jpg",
+        "question": "ಪಾರ್ಕಿಂಗ್ ಸ್ಥಳ 33ರಲ್ಲಿ ಯಾವ ಕಾರು ಇದೆ?",
+        "answer": "ಇಲ್ಲ <ಅಥವಾ> ಖಾಲಿಯಾಗಿದೆ",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_22": {
+        "imagename": "v1_21.jpg",
+        "question": "ಕೆಂಪು ಬಣ್ಣದ ಕಾರು ನಿಲುಗಡೆ ಸ್ಥಳವು ಯಾವ ಸ್ಥಳದಲ್ಲಿದೆ?",
+        "answer": "31.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_23": {
+        "imagename": "v1_23.png",
+        "question": "ಟೊಮೆಟೊ ಬೆಲೆ ಎಷ್ಟು?",
+        "answer": "ಎಂಟು <OR> 8",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_24": {
+        "imagename": "v1_23.png",
+        "question": "ದ್ರಾಕ್ಷಿಹಣ್ಣಿನ ಯಾವ ಹಣ್ಣಿನ ಹಕ್ಕು?",
+        "answer": "ಕಿತ್ತಳೆ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_25": {
+        "imagename": "v1_25.png",
+        "question": "ಚಿತ್ರದ ಆಧಾರದ ಮೇಲೆ, ಟೀನಾ ಫೇ ಅವರ ಒಟ್ಟು ಅಂತರರಾಷ್ಟ್ರೀಯ ಅರಿವು ಎಷ್ಟು?",
+        "answer": "35ರಷ್ಟು",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_26": {
+        "imagename": "v1_25.png",
+        "question": "ಚಿತ್ರದ ಆಧಾರದ ಮೇಲೆ, ಟೀನಾ ಫೇ ಯಾವ ದೇಶದಲ್ಲಿ ಅತ್ಯುನ್ನತ ಮಟ್ಟದ ಒಟ್ಟು ಜಾಗೃತಿಯನ್ನು ಹೊಂದಿದ್ದಾರೆ?",
+        "answer": "ಆಸ್ಟ್ರೇಲಿಯಾ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_27": {
+        "imagename": "v1_27.png",
+        "question": "2ನೇ ಸಂಖ್ಯೆಯು ಭೂಮಿಯ ಯಾವ ಆಂತರಿಕ ರಚನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+        "answer": "ಹೊದಿಕೆ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_28": {
+        "imagename": "v1_28.jpg",
+        "question": "ಹಳದಿ ಸೂಟ್ ಧರಿಸಿದ ಮೋಟಾರ್ಸೈಕಲ್ ಸವಾರನು ಸವಾರಿ ಮಾಡುವ ಮೋಟಾರ್ಸೈಕಲ್ನಲ್ಲಿ ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ?",
+        "answer": "16.",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_29": {
+        "imagename": "v1_28.jpg",
+        "question": "ಮೋಟಾರ್ಸೈಕಲ್ನ ಬಲಭಾಗದಲ್ಲಿ ಯಾವ ಸಂಖ್ಯೆಯನ್ನು ತೋರಿಸಲಾಗಿದೆ?",
+        "answer": "4.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_30": {
+        "imagename": "v1_30.jpg",
+        "question": "ಈ ಎರಡು ಜೆಟ್ಗಳಲ್ಲಿ ಯಾವುದು ಗಾತ್ರದಲ್ಲಿ ದೊಡ್ಡದಾಗಿದೆ?",
+        "answer": "ಅದೇ ರೀತಿ",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_31": {
+        "imagename": "v1_31.png",
+        "question": "ವ್ಯಕ್ತಿಯು ಕಾರಿಗಿಂತ ದೊಡ್ಡವನಾ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_32": {
+        "imagename": "v1_32.png",
+        "question": "ಹಿಟ್ಟನ್ನು ತುಂಡುಗಳಾಗಿ ವಿಭಜಿಸುವ ಮೊದಲು ಅದನ್ನು ಬೆರೆಸಿದ ನಂತರ ನಾನು ಏನು ಮಾಡಬೇಕು?",
+        "answer": "ಬೆಚ್ಚಗಿನ ಸ್ಥಳ <AND> 1 ಗಂಟೆ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_33": {
+        "imagename": "v1_33.png",
+        "question": "ಮೊಟ್ಟೆ ಮತ್ತು ಹಾಲನ್ನು ಬೆರೆಸುವಾಗ ನಾನು ಸಕ್ಕರೆ ಸೇರಿಸಬೇಕೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_34": {
+        "imagename": "v1_34.jpg",
+        "question": "ಗಿಡಮೂಲಿಕೆಗಳು, ಸಾಸೇಜ್ ಮತ್ತು ಅಣಬೆಗಳನ್ನು ಕತ್ತರಿಸುವ ಮೊದಲು ನಾನು ಏನು ಮಾಡಬೇಕು?",
+        "answer": "ಪ್ಯಾನ್ ಅನ್ನು ಸ್ವಲ್ಪ ತಿರುಗಿಸಿ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_35": {
+        "imagename": "v1_35.png",
+        "question": "ನಾವು ಎಲ್ಲಾ ಉದ್ದೇಶದ ಹಿಟ್ಟನ್ನು ಸೇರಿಸಬೇಕಾದಾಗ ಹಂತದ ಸೂಚ್ಯಂಕ ಯಾವುದು?",
+        "answer": "ಮೂರನೇ <OR> 3",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_36": {
+        "imagename": "v1_36.jpg",
+        "question": "ಮೂರನೇ ಹಂತದಲ್ಲಿ ನಾವು ಏನನ್ನು ಸೇರಿಸಬೇಕು?",
+        "answer": "ಹಾಲು.",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_37": {
+        "imagename": "v1_37.jpg",
+        "question": "ಬೆರಳುಗಳನ್ನು ಒರೆಸಿದ ನಂತರ ಮಕ್ಕಳು ಏನು ಮಾಡಬೇಕು?",
+        "answer": "ಒಂದು ಪಾದದ ಮೇಲೆ ಹಾರಿ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_38": {
+        "imagename": "v1_38.jpg",
+        "question": "ನಾಲ್ಕನೇ ಹಂತದಲ್ಲಿ ಏನನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು?",
+        "answer": "ಮೂಗು.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_39": {
+        "imagename": "v1_39.jpg",
+        "question": "ಟೈರ್ ಪಂಕ್ಚರ್ ಹರಡಲು ಪ್ರೋಬ್ ಅನ್ನು ಬಳಸಿದ ನಂತರ ಏನು ಕ್ರಮ?",
+        "answer": "ದುರಸ್ತಿಯನ್ನು ತೆಗೆದುಹಾಕಿ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_40": {
+        "imagename": "v1_40.png",
+        "question": "ಸೂಚಿಸಲಾದ ಎರಡನೇ ಹಂತ ಯಾವುದು?",
+        "answer": "ನಿಮ್ಮ ಪ್ರೇಕ್ಷಕರನ್ನು ಗುರುತಿಸಿ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_41": {
+        "imagename": "v1_41.png",
+        "question": "ಚಿತ್ರದಲ್ಲಿ ನೀಡಲಾದ ಕೊನೆಯ ಕಾರ್ಯತಂತ್ರ ಯಾವುದು?",
+        "answer": "ಒಂದು ಹಾಡನ್ನು ಮಾಡಿ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_42": {
+        "imagename": "v1_42.png",
+        "question": "ಫೋರ್ಡ್ ಎಫ್150 ಅನ್ನು ಹೊರತುಪಡಿಸಿ ಸರಾಸರಿ ಒಟ್ಟು ಇಂಧನ ವೆಚ್ಚ ಎಷ್ಟು?",
+        "answer": "76.55 <OR> 76.56",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_43": {
+        "imagename": "v1_42.png",
+        "question": "ಅತಿ ಹೆಚ್ಚು ಇಂಧನ ವೆಚ್ಚ ಎಷ್ಟು?",
+        "answer": "130.96",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_44": {
+        "imagename": "v1_44.png",
+        "question": "ಪ್ಲಾಸ್ಟಿಕ್ ಅನ್ನು ತಯಾರಿಸಿ ಹೊರಹಾಕುವ ಪ್ರಮಾಣವನ್ನು ಪರಿಗಣಿಸಿ, ಪ್ಲಾಸ್ಟಿಕ್ ಮರುಬಳಕೆಯಲ್ಲಿ ಯಾವ ವರ್ಗವು ಅತ್ಯಂತ ಕೆಟ್ಟ ಕೆಲಸವನ್ನು ಮಾಡಿದೆ?",
+        "answer": "ಪ್ಯಾಕೇಜಿಂಗ್",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_45": {
+        "imagename": "v1_44.png",
+        "question": "ಉತ್ಪಾದಿಸಿದ ಪ್ಲಾಸ್ಟಿಕ್ ಪ್ರಮಾಣ ಮತ್ತು ತಿರಸ್ಕರಿಸಿದ ಪ್ರಮಾಣದ ನಡುವೆ ಮೆಟ್ರಿಕ್ ಟನ್ಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+        "answer": "105",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_46": {
+        "imagename": "v1_46.png",
+        "question": "2023ರ ಅಂದಾಜು ಸರಾಸರಿ ಸ್ಥಾಯಿ ಶುಲ್ಕ ಎಷ್ಟು?",
+        "answer": "271",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_47": {
+        "imagename": "v1_46.png",
+        "question": "2023ರ ಅಂದಾಜು ಒಟ್ಟು ವೆಚ್ಚ ಎಷ್ಟು?",
+        "answer": "23800",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_48": {
+        "imagename": "v1_48.jpg",
+        "question": "ಲಿವಿಂಗ್ ರೂಮ್ ಕಿಟಕಿ ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿದೆ?",
+        "answer": "ಉತ್ತರ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_49": {
+        "imagename": "v1_49.jpg",
+        "question": "ಈ ನೆಲಮಹಡಿಯಲ್ಲಿ ಅಡುಗೆಮನೆಯಲ್ಲಿರುವ ಉಪಕರಣಗಳು ಯಾವುವು?",
+        "answer": "ಒವನ್ <AND> ಪಾತ್ರೆ ತೊಳೆಯುವ ಯಂತ್ರ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_50": {
+        "imagename": "v1_50.jpg",
+        "question": "ಯಾವ ಕೋಣೆಯು ದೊಡ್ಡದಾಗಿದೆ, ಡಬಲ್ ಗ್ಯಾರೇಜ್ ಅಥವಾ ಲಿವಿಂಗ್ ರೂಮ್?",
+        "answer": "ಡಬಲ್ ಗ್ಯಾರೇಜ್",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_51": {
+        "imagename": "v1_50.jpg",
+        "question": "ಯಾವ ಕೋಣೆಯು ದೊಡ್ಡದಾಗಿದೆ, ಮಾಸ್ಟರ್ ಮಲಗುವ ಕೋಣೆ ಅಥವಾ ಒಳಾಂಗಣ?",
+        "answer": "ಮಾಸ್ಟರ್ ಬೆಡ್ ರೂಮ್",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_52": {
+        "imagename": "v1_52.png",
+        "question": "ದೀಪವನ್ನು ಅಳವಡಿಸಿ ಬಲ್ಬ್ ಸುಟ್ಟು ಹೋಗಿದ್ದರೆ ಪರಿಹಾರವೇನು?",
+        "answer": "ಬ್ಲಬ್ ಅನ್ನು ಬದಲಾಯಿಸಿ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_53": {
+        "imagename": "v1_53.png",
+        "question": "ಫ್ಲೋಚಾರ್ಟ್ನ ಯಾವ ಹಂತವನ್ನು ವಜ್ರದ ಆಕಾರದಲ್ಲಿ ಚಿತ್ರಿಸಲಾಗುತ್ತದೆ?",
+        "answer": "ನೀರು ಕುದಿಯುತ್ತಿದೆಯೇ?",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_54": {
+        "imagename": "v1_54.png",
+        "question": "ಹಾಸಿಗೆಯಿಂದ ಏಳಲು ಸರಾಸರಿ ಕಾಯುವ ಸಮಯ ಎಷ್ಟು?",
+        "answer": "15 ನಿಮಿಷ",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_55": {
+        "imagename": "v1_55.png",
+        "question": "ಯಾವ ವರ್ಷ ಮಧ್ಯಮ ಮನೆ ಬೆಲೆಯ ಅತಿ ಹೆಚ್ಚು ಬೆಳವಣಿಗೆಯ ದರವನ್ನು ಹೊಂದಿದೆ?",
+        "answer": "2008",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_56": {
+        "imagename": "v1_56.png",
+        "question": "2012ರಲ್ಲಿ ಜಪಾನ್ನ ಜಿ. ಡಿ. ಪಿ ಏನು?",
+        "answer": "6, 233.15 ಶತಕೋಟಿ ಯು. ಎಸ್. ಡಾಲರ್ಗಳು",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_57": {
+        "imagename": "v1_57.jpg",
+        "question": "ಯಾವ ವರ್ಷಗಳಲ್ಲಿ ರೋಯಿಂಗ್ ಮತ್ತು ಅಥ್ಲೆಟಿಕ್ಸ್ ಒಂದೇ ಸಂಖ್ಯೆಯ ಚಿನ್ನದ ಪದಕಗಳನ್ನು ಪಡೆದಿವೆ?",
+        "answer": "2000 <AND> 2012",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_58": {
+        "imagename": "v1_58.png",
+        "question": "ಯಾವ ಇಲಾಖೆಯಿಂದ ಅತಿ ಹೆಚ್ಚು ಸಂಬಳ ಪಡೆಯುವ ವ್ಯಕ್ತಿ?",
+        "answer": "ಆಡಳಿತ.",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_59": {
+        "imagename": "v1_58.png",
+        "question": "ಮೇಜಿನ ಆಧಾರದ ಮೇಲೆ, ವಿಲ್ಕಿನ್ಸ್ ಎಷ್ಟು ಗಳಿಸುತ್ತಿದ್ದಾರೆ?",
+        "answer": "2500 <ಅಥವಾ> 2,500",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_60": {
+        "imagename": "v1_60.png",
+        "question": "ಯಾವ ದೇಶವು ಸರಾಸರಿಗಿಂತ ಕಡಿಮೆ ಲಾಭಾಂಶವನ್ನು ಹೊಂದಿದೆ?",
+        "answer": "ಭಾರತ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_61": {
+        "imagename": "v1_60.png",
+        "question": "ಯಾವ ದೇಶವು ಅತಿ ಹೆಚ್ಚು ಲಾಭಾಂಶವನ್ನು ಹೊಂದಿದೆ?",
+        "answer": "ಆಸ್ಟ್ರೇಲಿಯಾ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_62": {
+        "imagename": "v1_62.png",
+        "question": "ಯಾವ ತಿಂಗಳಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಆದಾಯ ಬರುತ್ತದೆ?",
+        "answer": "ಫೆಬ್ರವರಿ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_63": {
+        "imagename": "v1_62.png",
+        "question": "ಒಟ್ಟು ಆದಾಯಕ್ಕೆ ಸಂಬಳವು ಎಷ್ಟು ಶೇಕಡಾವಾರು ಕೊಡುಗೆ ನೀಡುತ್ತದೆ?",
+        "answer": "56. 2 <OR> 0.562",
+        "capability": [
+            "ocr",
+            "spat",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_64": {
+        "imagename": "v1_64.png",
+        "question": "ಎಡಭಾಗದಲ್ಲಿರುವ ವ್ಯಕ್ತಿ ಯಾರು?",
+        "answer": "ಕೀರಾ ನೈಟ್ಲಿ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_65": {
+        "imagename": "v1_65.png",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ವ್ಯಕ್ತಿ ಯಾರು?",
+        "answer": "ಮಿಚೆಲ್ ಯೋಹ್",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_66": {
+        "imagename": "v1_66.jpg",
+        "question": "ಕೆಳಗಿನ ಬಲಭಾಗದಲ್ಲಿರುವ ವ್ಯಕ್ತಿ ಯಾರು?",
+        "answer": "ಜೇಮೀ ಡೋರ್ನನ್",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_67": {
+        "imagename": "v1_67.png",
+        "question": "ಯಾವುದು ಸಿಹಿಯಾಗಿಲ್ಲ?",
+        "answer": "ಓಟ್.",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_68": {
+        "imagename": "v1_68.png",
+        "question": "ಈ ಸೇಬು ಸಾವಯವವೇ?",
+        "answer": "ಹೌದು",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_69": {
+        "imagename": "v1_69.jpg",
+        "question": "ಇಡೀ ಚೀಲದ ಕ್ಯಾಲೋರಿಗಳು ಎಷ್ಟು?",
+        "answer": "275.",
+        "capability": [
+            "ocr",
+            "math"
+        ],
+        "imagesource": "web"
+    },
+    "v1_70": {
+        "imagename": "v1_70.png",
+        "question": "ಈ ಖಾದ್ಯದ ಹೆಸರೇನು?",
+        "answer": "ಮ್ಯಾಪೋ ಟೋಫು",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_71": {
+        "imagename": "v1_71.jpg",
+        "question": "ಈ ಖಾದ್ಯದ ಹೆಸರೇನು?",
+        "answer": "ಕ್ಯಾಪ್ರೆಸ್ ಸಲಾಡ್",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_72": {
+        "imagename": "v1_72.png",
+        "question": "ಈ ಖಾದ್ಯದ ಹೆಸರೇನು?",
+        "answer": "ಪ್ಯಾಡ್ ಥಾಯ್",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_73": {
+        "imagename": "v1_73.jpg",
+        "question": "ಎಡಭಾಗದಲ್ಲಿರುವ ಕಾರಿನ ವಿನ್ಯಾಸವೇನು?",
+        "answer": "ವೋಲ್ಕ್ಸ್ವ್ಯಾಗನ್",
+        "capability": [
+            "rec",
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_74": {
+        "imagename": "v1_74.jpg",
+        "question": "ಈ ಕಾರ್ಖಾನೆಯು ಏನು ಮಾಡುತ್ತದೆ?",
+        "answer": "ಕ್ಯಾಮರಾ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_75": {
+        "imagename": "v1_75.jpg",
+        "question": "ಕಾರಿನ ಮೇಲಿನ ಹಸಿರು ಲಾಂಛನ ಯಾವುದು?",
+        "answer": "ರಾಕ್ಷಸ.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_76": {
+        "imagename": "v1_76.png",
+        "question": "ಈ ಹೆಗ್ಗುರುತಿನ ಹೆಸರೇನು?",
+        "answer": "ಟ್ರೆವಿ ಕಾರಂಜಿ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_77": {
+        "imagename": "v1_77.jpg",
+        "question": "ಈ ಹೆಗ್ಗುರುತಿನ ಹೆಸರೇನು?",
+        "answer": "ಅನ್ಬರಿಯಾ ಮಸೀದಿ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_78": {
+        "imagename": "v1_78.jpg",
+        "question": "ಈ ಹೆಗ್ಗುರುತಿನ ಹೆಸರೇನು?",
+        "answer": "ಬಾವೊಚು ಪಗೋಡಾ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_79": {
+        "imagename": "v1_79.jpg",
+        "question": "ಈ ನೋಟುಗಳ ಮುಖಬೆಲೆಯ ಮೌಲ್ಯವೇನು?",
+        "answer": "ಐದು <OR> 5",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_80": {
+        "imagename": "v1_80.jpg",
+        "question": "ಈ ನೋಟು ಯಾವುದು?",
+        "answer": "ಹತ್ತು ಪೌಂಡ್ <ಅಥವಾ> 10 ಪೌಂಡ್ <ಅಥವಾ> ಬ್ರಿಟಿಷ್ ಪೌಂಡ್",
+        "capability": [
+            "rec",
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_81": {
+        "imagename": "v1_81.jpg",
+        "question": "ಈ ನೋಟು ಯಾವ ರೀತಿಯ ಕರೆನ್ಸಿಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?",
+        "answer": "ಸ್ವೀಡಿಷ್ <OR> ಕ್ರೋನರ್",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_82": {
+        "imagename": "v1_82.png",
+        "question": "ಯಾವ ಎದೆಯ ಕ್ಷ-ಕಿರಣ ರೋಗವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು? (ಆಯ್ಕೆಗಳು ಸೇರಿವೆಃ ಅಟೆಲೆಕ್ಟಾಸಿಸ್; ಕಾರ್ಡಿಯೋಮೆಗಲಿ; ಎಫ್ಯೂಷನ್; ಒಳನುಸುಳುವಿಕೆ; ಮಾಸ್; ನೋಡ್ಯೂಲ್; ನ್ಯುಮೋನಿಯಾ; ನ್ಯೂಮೋಥೊರಾಕ್ಸ್; ಕನ್ಸಾಲಿಡೇಷನ್; ಎಡಿಮಾ; ಎಂಫಿಸೆಮಾ; ಫೈಬ್ರೋಸಿಸ್; ಪ್ಲುರಲ್ ದಪ್ಪವಾಗುವುದು; ಹೆರ್ನಿಯಾ.)",
+        "answer": "ಕಾರ್ಡಿಯೋಮೆಗಲಿ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_83": {
+        "imagename": "v1_83.png",
+        "question": "ಯಾವ ಎದೆಯ ಕ್ಷ-ಕಿರಣ ರೋಗವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು? (ಆಯ್ಕೆಗಳು ಸೇರಿವೆಃ ಅಟೆಲೆಕ್ಟಾಸಿಸ್; ಕಾರ್ಡಿಯೋಮೆಗಲಿ; ಎಫ್ಯೂಷನ್; ಒಳನುಸುಳುವಿಕೆ; ಮಾಸ್; ನೋಡ್ಯೂಲ್; ನ್ಯುಮೋನಿಯಾ; ನ್ಯೂಮೋಥೊರಾಕ್ಸ್; ಕನ್ಸಾಲಿಡೇಷನ್; ಎಡಿಮಾ; ಎಂಫಿಸೆಮಾ; ಫೈಬ್ರೋಸಿಸ್; ಪ್ಲುರಲ್ ದಪ್ಪವಾಗುವುದು; ಹೆರ್ನಿಯಾ.)",
+        "answer": "ಹೆರ್ನಿಯಾ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_84": {
+        "imagename": "v1_84.png",
+        "question": "ಯಾವ ಎದೆಯ ಕ್ಷ-ಕಿರಣ ರೋಗವನ್ನು ಕಂಡುಹಿಡಿಯಬಹುದು? (ಆಯ್ಕೆಗಳು ಸೇರಿವೆಃ ಅಟೆಲೆಕ್ಟಾಸಿಸ್; ಕಾರ್ಡಿಯೋಮೆಗಲಿ; ಎಫ್ಯೂಷನ್; ಒಳನುಸುಳುವಿಕೆ; ಮಾಸ್; ನೋಡ್ಯೂಲ್; ನ್ಯುಮೋನಿಯಾ; ನ್ಯೂಮೋಥೊರಾಕ್ಸ್; ಕನ್ಸಾಲಿಡೇಷನ್; ಎಡಿಮಾ; ಎಂಫಿಸೆಮಾ; ಫೈಬ್ರೋಸಿಸ್; ಪ್ಲುರಲ್ ದಪ್ಪವಾಗುವುದು; ಹೆರ್ನಿಯಾ.)",
+        "answer": "ಒಳನುಸುಳುವಿಕೆ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "ChestX-ray14"
+    },
+    "v1_85": {
+        "imagename": "v1_85.jpg",
+        "question": "ಎಷ್ಟು ಪಕ್ಷಿಗಳಿವೆ?",
+        "answer": "6.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_86": {
+        "imagename": "v1_86.jpg",
+        "question": "ಎಷ್ಟು ಟೊಮೆಟೊಗಳಿವೆ?",
+        "answer": "5.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_87": {
+        "imagename": "v1_87.jpg",
+        "question": "ಎಷ್ಟು ಪುಸ್ತಕಗಳಿವೆ?",
+        "answer": "63",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_88": {
+        "imagename": "v1_88.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಎಲ್ಲಾ ದೃಶ್ಯ ಪಠ್ಯಗಳು ಯಾವುವು?",
+        "answer": "S3302CD",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_89": {
+        "imagename": "v1_89.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಎಲ್ಲಾ ದೃಶ್ಯ ಪಠ್ಯಗಳು ಯಾವುವು?",
+        "answer": "ಲಕ್ಷ್ಮಿ ಜ್ಯುವೆಲ್ಲರ್ಸ್",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_90": {
+        "imagename": "v1_90.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಎಲ್ಲಾ ದೃಶ್ಯ ಪಠ್ಯಗಳು ಯಾವುವು?",
+        "answer": "ನೀವೇ ಒಂದು ಮೆರ್ರಿ ಲಿಟಲ್ ಕ್ರಿಸ್ಮಸ್ ಅನ್ನು ಹೊಂದಿರಿ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_91": {
+        "imagename": "v1_91.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಎಲ್ಲಾ ದೃಶ್ಯ ಪಠ್ಯಗಳು ಯಾವುವು?",
+        "answer": "5: 30 PM <ಮತ್ತು> 88% <ಮತ್ತು> ಮಾರಿಯೋ ಕಾರ್ಟ್ 8 ಡಿಲಕ್ಸ್ <ಮತ್ತು> ಮಾರಿಯೋ ಕಾರ್ಟ್ 8 ಡೆಲಕ್ಸ್ <ಮತ್ತು> ಸೂಪರ್ ಮಾರಿಯೋ ಒಡಿಸ್ಸಿ <ಮತ್ತು> ದಿ ಲೆಜೆಂಡ್ ಆಫ್ ಜೆಲ್ಡಾ <ಮತ್ತು> ಬ್ರೀತ್ ಆಫ್ ವಿಲ್ಡ್ <ಮತ್ತು> ಆಯ್ಕೆಗಳು <ಮತ್ತು> ಪ್ರಾರಂಭ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_92": {
+        "imagename": "v1_92.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಎಲ್ಲಾ ದೃಶ್ಯ ಪಠ್ಯಗಳು ಯಾವುವು?",
+        "answer": "ಮಿಸ್ಟರ್ ವಿಲಿಯಂ ಶೇಕ್ಸ್ಪಿಯರ್ಸ್ <ಮತ್ತು> ಕಾಮಿಡಿಗಳು, ಇತಿಹಾಸಗಳು ಮತ್ತು ಟ್ರ್ಯಾಜೆಡಿಗಳು. <ಮತ್ತು> ನಿಜವಾದ ಮೂಲ ಪ್ರತಿಗಳ ಪ್ರಕಾರ ಪ್ರಕಟಿಸಲಾಗಿದೆ.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_93": {
+        "imagename": "v1_93.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಎಲ್ಲಾ ದೃಶ್ಯ ಪಠ್ಯಗಳು ಯಾವುವು?",
+        "answer": "1642 ರ ಕನೆಕ್ಟಿಕಟ್ನ ಕಾನೂನು ಯಾವುದೇ ಪುರುಷ ಅಥವಾ ಮಹಿಳೆ ಮಾಟಗಾತಿಯಾಗಿದ್ದರೆ-ಅಂದರೆ, ಪರಿಚಿತ ಆತ್ಮವನ್ನು ಹೊಂದಿದ್ದರೆ ಅಥವಾ ಅವರೊಂದಿಗೆ ಸಮಾಲೋಚಿಸಿದರೆ-ಅವರನ್ನು ಕೊಲ್ಲಬೇಕು.",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_94": {
+        "imagename": "v1_94.jpg",
+        "question": "ಈ ಸಾಧನದ ಬ್ರಾಂಡ್ ಯಾವುದು?",
+        "answer": "ಮೋಟೋರೋಲಾ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_95": {
+        "imagename": "v1_95.jpg",
+        "question": "ಪರವಾನಗಿ ಫಲಕದ ಸಂಖ್ಯೆ ಏನು?",
+        "answer": "ಎಇಡಿ-632",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_96": {
+        "imagename": "v1_96.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಎಲ್ಲಾ ಫ್ರೆಂಚ್ ದೃಶ್ಯ ಪಠ್ಯಗಳು ಯಾವುವು?",
+        "answer": "ಫ್ರೆಂಚ್ ಇತಿಹಾಸದ ಇತಿಹಾಸದ ಇತಿಹಾಸದ ಇತಿಹಾಸದ ಇತಿಹಾಸದ ಇತಿಹಾಸದ ಇತಿಹಾಸದ ಇತಿಹಾಸ",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_97": {
+        "imagename": "v1_97.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಎಲ್ಲಾ ಚೀನೀ ದೃಶ್ಯ ಪಠ್ಯಗಳು ಯಾವುವು?",
+        "answer": "ಮ್ಯಾಕ್ <AND> ಮ್ಯಾಕ್ <AND> ಮ್ಯಾಕ್ <AND> ಮ್ಯಾಕ್ <AND> ಮ್ಯಾಕ್ <AND> ಮ್ಯಾಕ್ <AND> ಮ್ಯಾಕ್",
+        "capability": [
+            "ocr"
+        ],
+        "imagesource": "web"
+    },
+    "v1_98": {
+        "imagename": "v1_98.jpg",
+        "question": "ಯಾವ ಖಂಡವನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ?",
+        "answer": "ಏಷ್ಯಾ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_99": {
+        "imagename": "v1_99.png",
+        "question": "ಈ ಆಹಾರ ಜಾಲದಲ್ಲಿ ನಿರ್ಮಾಪಕರು ಯಾರು?",
+        "answer": "ಫೈಟೊಪ್ಲಾಂಕ್ಟನ್ <AND> ಕಡಲಕಳೆ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_100": {
+        "imagename": "v1_100.png",
+        "question": "ಪ್ರತಿ ಮಾದರಿಯಲ್ಲಿನ ಕಣಗಳ ಸರಾಸರಿ ಚಲನ ಶಕ್ತಿಗಳನ್ನು ಹೋಲಿಸಿ. ಕೆಳಗಿನ ರೇಖಾಚಿತ್ರಗಳು ಒಂದೇ ರೀತಿಯ ಮುಚ್ಚಿದ, ಕಟ್ಟುನಿಟ್ಟಾದ ಧಾರಕಗಳಲ್ಲಿ ಅನಿಲದ ಎರಡು ಶುದ್ಧ ಮಾದರಿಗಳನ್ನು ತೋರಿಸುತ್ತವೆ. ಪ್ರತಿಯೊಂದು ಬಣ್ಣದ ಚೆಂಡು ಒಂದು ಅನಿಲ ಕಣವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಎರಡೂ ಮಾದರಿಗಳು ಒಂದೇ ಸಂಖ್ಯೆಯ ಕಣಗಳನ್ನು ಹೊಂದಿವೆ. ಯಾವ ಮಾದರಿಯು ಹೆಚ್ಚಿನ ತಾಪಮಾನವನ್ನು ಹೊಂದಿದೆ? ಮಾದರಿ ಎ ಅಥವಾ ಮಾದರಿ ಬಿ?",
+        "answer": "ಮಾದರಿ ಎ",
+        "capability": [
+            "ocr",
+            "know",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_101": {
+        "imagename": "v1_101.png",
+        "question": "ಈ ಹೈಲೈಟ್ ಮಾಡಲಾದ ನಗರಗಳಲ್ಲಿ ಯಾವುದು ಉತ್ತರಕ್ಕೆ ಅತ್ಯಂತ ದೂರದಲ್ಲಿದೆ?",
+        "answer": "ಚಿಕಾಗೋ",
+        "capability": [
+            "ocr",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_102": {
+        "imagename": "v1_102.png",
+        "question": "ಈ ಫೋಟೋ ಎಲ್ಲಿ ತೆಗೆದದ್ದು?",
+        "answer": "ಟರ್ಕಿ <OR> ಸಿರಿಯಾ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_103": {
+        "imagename": "v1_103.png",
+        "question": "ಈ ಫೋಟೋ ಎಲ್ಲಿ ತೆಗೆದದ್ದು?",
+        "answer": "ಆಸ್ಕರ್ <AND> 2023",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_104": {
+        "imagename": "v1_104.png",
+        "question": "ಈ ಫೋಟೋ ಎಲ್ಲಿ ತೆಗೆದದ್ದು?",
+        "answer": "ಕತಾರ್",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_105": {
+        "imagename": "v1_105.png",
+        "question": "ಈ ಫೋಟೋವನ್ನು ಯಾವ ದೇಶದಲ್ಲಿ ತೆಗೆಯಲಾಗಿದೆ?",
+        "answer": "ಆಸ್ಟ್ರೇಲಿಯಾ",
+        "capability": [
+            "rec",
+            "know"
+        ],
+        "imagesource": "web"
+    },
+    "v1_106": {
+        "imagename": "v1_106.jpg",
+        "question": "ಮರಗಳು ಜಿರಾಫೆಗಳಿಗಿಂತ ಎತ್ತರವಾಗಿವೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_107": {
+        "imagename": "v1_107.jpg",
+        "question": "ಈ ವಿಮಾನವು ಟೇಕಾಫ್ ಆಗುತ್ತಿದೆಯೇ ಅಥವಾ ಲ್ಯಾಂಡಿಂಗ್ ಆಗುತ್ತಿದೆಯೇ?",
+        "answer": "ತೆಗೆಯುವುದು.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_108": {
+        "imagename": "v1_108.jpg",
+        "question": "ಎಷ್ಟು ಜನರು ಕುಳಿತಿದ್ದಾರೆ?",
+        "answer": "ಒಂದು.",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_109": {
+        "imagename": "v1_109.jpg",
+        "question": "ಕಸ ಖಾಲಿಯಾಗಿದೆಯೇ ಅಥವಾ ತುಂಬಿದೆಯೇ?",
+        "answer": "ಖಾಲಿ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_110": {
+        "imagename": "v1_110.jpg",
+        "question": "ಜಿರಾಫೆಯು ಅಪಾಯಕಾರಿಯಾಗಿ ಕಾಣಿಸುತ್ತದೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_111": {
+        "imagename": "v1_111.jpg",
+        "question": "ನೀರಿನಲ್ಲಿ ಜೀಬ್ರಾದ ಪ್ರತಿಫಲನವಿದೆಯೇ?",
+        "answer": "ಹೌದು",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_112": {
+        "imagename": "v1_112.jpg",
+        "question": "ಮನುಷ್ಯ ಸಂತೋಷವಾಗಿರುತ್ತಾನೆಯೇ?",
+        "answer": "ಹೌದು",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_113": {
+        "imagename": "v1_113.jpg",
+        "question": "ಎಲ್ಲಾ ಬೆಕ್ಕುಗಳು ಒಂದೇ ಬಣ್ಣದ್ದಾಗಿವೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_114": {
+        "imagename": "v1_114.jpg",
+        "question": "ಆ ವೈನ್ ಹಿನ್ನೆಲೆಯಲ್ಲಿದೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_115": {
+        "imagename": "v1_115.jpg",
+        "question": "ಆ ವ್ಯಕ್ತಿ ಕೆಳಗೆ ಬೀಳುತ್ತಾನೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_116": {
+        "imagename": "v1_116.jpg",
+        "question": "ಯಾವ ಸ್ಥಳವನ್ನು ಚಿತ್ರಿಸಲಾಗಿದೆ?",
+        "answer": "ಕಡಲತೀರ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_117": {
+        "imagename": "v1_117.jpg",
+        "question": "ಇದು ಹೊರಾಂಗಣದಲ್ಲಿದೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_118": {
+        "imagename": "v1_118.jpg",
+        "question": "ಹವಾಮಾನ ಹೇಗಿದೆ?",
+        "answer": "<ಅಥವಾ> ಬಿಸಿಲನ್ನು ತೆರವುಗೊಳಿಸಿ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_119": {
+        "imagename": "v1_119.jpg",
+        "question": "ಲೋಹದಿಂದ ಮಾಡಿದ ಬೇಲಿಯ ಬಣ್ಣ ಯಾವುದು?",
+        "answer": "ಹಸಿರು",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_120": {
+        "imagename": "v1_120.jpg",
+        "question": "ಮನುಷ್ಯನ ಎಡಭಾಗದಲ್ಲಿರುವ ವ್ಯಕ್ತಿಯು ಕುಳಿತಿರುವಂತೆ ತೋರುತ್ತದೆಯೇ?",
+        "answer": "ಹೌದು",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_121": {
+        "imagename": "v1_121.jpg",
+        "question": "ಮೇಜಿನ ತಟ್ಟೆಯು ಕೊಳಕು ಮತ್ತು ಬೆಳ್ಳಿ ಎರಡೂ ಆಗಿದೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_122": {
+        "imagename": "v1_122.jpg",
+        "question": "ಪರದೆಯು ಚಿತ್ರದ ಬಲಭಾಗದಲ್ಲಿದೆಯೇ ಅಥವಾ ಎಡಭಾಗದಲ್ಲಿದೆಯೇ?",
+        "answer": "ಎಡಕ್ಕೆ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_123": {
+        "imagename": "v1_123.jpg",
+        "question": "ಈ ಫೋಟೋದಲ್ಲಿ ಕಂಪ್ಯೂಟರ್ ಇದೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_124": {
+        "imagename": "v1_124.jpg",
+        "question": "ಅಕ್ಕಿಯ ಎಡಭಾಗದಲ್ಲಿರುವ ಪಾತ್ರೆಯ ಕೆಳಗೆ ಕರವಸ್ತ್ರವಿದೆಯೇ?",
+        "answer": "ಹೌದು",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_125": {
+        "imagename": "v1_125.jpg",
+        "question": "ಬೀಜಗಳು ಅಥವಾ ತರಕಾರಿಗಳು ಇದೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_126": {
+        "imagename": "v1_126.jpg",
+        "question": "ಈ ಚಿತ್ರದಲ್ಲಿ ಫಲಕಗಳು ಮತ್ತು ಫೋರ್ಕ್ಗಳು ಇವೆರಡೂ ಇವೆಯೇ?",
+        "answer": "ಹೌದು",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_127": {
+        "imagename": "v1_127.jpg",
+        "question": "ಈ ಪಕ್ಷಿಯ ಹೆಸರೇನು?",
+        "answer": "ಗಿಳಿ <OR> ಕೋನೂರ್",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_128": {
+        "imagename": "v1_128.jpg",
+        "question": "ಚಿತ್ರದಲ್ಲಿರುವ ಯಾವ ಪ್ರಾಣಿಯು ದೊಡ್ಡದಾಗಿದೆ, ಬೆಕ್ಕು ಅಥವಾ ನಾಯಿ?",
+        "answer": "ಬೆಕ್ಕು",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_129": {
+        "imagename": "v1_129.jpg",
+        "question": "ಬಲ ಮೇಜಿನ ಮೇಲೆ, ಲ್ಯಾಪ್ಟಾಪ್ನ ಎಡಭಾಗದಲ್ಲಿ ಏನಿದೆ?",
+        "answer": "ಟೇಬಲ್ ಲ್ಯಾಂಪ್ <ಅಥವಾ> ಡೆಸ್ಕ್ ಲ್ಯಾಂಪ್",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_130": {
+        "imagename": "v1_130.jpg",
+        "question": "ಮನುಷ್ಯನು ಕುದುರೆಯ ಮೇಲೆ ಸವಾರಿ ಮಾಡುತ್ತಾನೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_131": {
+        "imagename": "v1_131.jpg",
+        "question": "ಸರ್ಫರ್ ಸರ್ಫ್ಬೋರ್ಡ್ನ ಎಡಕ್ಕೆ ಅಥವಾ ಬಲಕ್ಕೆ ಇದೆಯೇ?",
+        "answer": "ಎಡಕ್ಕೆ",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_132": {
+        "imagename": "v1_132.jpg",
+        "question": "ದೀಪವು ಏನು, ಸೈಡ್ ಟೇಬಲ್ ಅಥವಾ ನೈಟ್ಸ್ಟ್ಯಾಂಡ್?",
+        "answer": "ಪಕ್ಕದ ಮೇಜು",
+        "capability": [
+            "rec",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_133": {
+        "imagename": "v1_133.jpg",
+        "question": "ಸ್ಟಂಪ್ ಮತ್ತು ಬೇಲಿ ಎರಡಕ್ಕೂ ಏನು ಸಾಮ್ಯತೆ ಇದೆ?",
+        "answer": "ಪದಾರ್ಥಗಳು",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_134": {
+        "imagename": "v1_134.jpg",
+        "question": "ಚಮಚವನ್ನು ಚಾಪ್ಸ್ಟಿಕ್ಗಳಂತೆಯೇ ಅದೇ ವಸ್ತುಗಳಿಂದ ಮಾಡಲಾಗಿದೆಯೇ?",
+        "answer": "ಹೌದು",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_135": {
+        "imagename": "v1_135.jpg",
+        "question": "ಶರ್ಟ್ಗೆ ಗಾಳಿಪಟಕ್ಕಿಂತ ಬೇರೆ ಬಣ್ಣವಿದೆಯೇ?",
+        "answer": "ಹೌದು",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_136": {
+        "imagename": "v1_136.jpg",
+        "question": "ಈ ಎಲ್ಲಾ ಜನರು ಒಂದೇ ಲಿಂಗವನ್ನು ಹೊಂದಿದ್ದಾರೆಯೇ?",
+        "answer": "ಇಲ್ಲ",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_137": {
+        "imagename": "v1_137.jpg",
+        "question": "ಈ ಎರಡು ಪ್ರಾಣಿಗಳು ಬೇರೆ ಬೇರೆಯೇ?",
+        "answer": "ಹೌದು",
+        "capability": [
+            "rec"
+        ],
+        "imagesource": "web"
+    },
+    "v1_138": {
+        "imagename": "v1_138.jpg",
+        "question": "ವ್ಯಕ್ತಿಗಳು ಎಲ್ಲಿದ್ದಾರೆ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಅವರು ಕಾಲೇಜು ತರಗತಿಯಲ್ಲಿದ್ದಾರೆ. ನಾನು ಹಾಗೆ ಭಾವಿಸುತ್ತೇನೆ ಏಕೆಂದರೆ ಅವರು ಕಾಲೇಜು ವಯಸ್ಸಿನವರಂತೆ ಕಾಣುತ್ತಾರೆ, ಮತ್ತು ಅವರು ಮೇಜುಗಳು ಮತ್ತು ಕುರ್ಚಿಗಳಿಂದ ಸುತ್ತುವರಿದಿದ್ದಾರೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2542"
+    },
+    "v1_139": {
+        "imagename": "v1_139.jpg",
+        "question": "ಜನರು ಕಪ್ಪು ಬಟ್ಟೆಗಳನ್ನು ಏಕೆ ಧರಿಸುತ್ತಾರೆ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಅವರು ಅಂತ್ಯಕ್ರಿಯೆಗೆ ಹೋಗುತ್ತಿದ್ದಾರೆ. ಅಂತ್ಯಕ್ರಿಯೆಯಲ್ಲಿ ಜನರು ಕಪ್ಪು ಬಟ್ಟೆ ಧರಿಸುವುದು ಸಾಂಪ್ರದಾಯಿಕವಾದುದರಿಂದ ನಾನು ಹಾಗೆ ಭಾವಿಸುತ್ತೇನೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2557"
+    },
+    "v1_140": {
+        "imagename": "v1_140.jpg",
+        "question": "ಮಹಿಳೆ ಏಕೆ ಉಡುಪನ್ನು ಧರಿಸುತ್ತಾಳೆ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಅವಳು ಮಲಗಲು ಸಿದ್ಧಳಾಗುತ್ತಿದ್ದಾಳೆ. ನಾನು ಹಾಗೆ ಭಾವಿಸುತ್ತೇನೆ ಏಕೆಂದರೆ ಕೋಣೆಯು ಮಲಗುವ ಕೋಣೆಯಂತೆ ತೋರುತ್ತದೆ ಮತ್ತು ಮಹಿಳೆ ತನ್ನ ಹಾಸಿಗೆಯ ಸಾಮಾನ್ಯ ದಿಕ್ಕಿನಲ್ಲಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr2590"
+    },
+    "v1_141": {
+        "imagename": "v1_141.jpg",
+        "question": "ಇದು ಎಲ್ಲಿ ನಡೆಯುತ್ತಿದೆ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಇದು ಒಂದು ಅಲಂಕಾರಿಕ ರೆಸ್ಟೋರೆಂಟ್ನಲ್ಲಿ ನಡೆಯುತ್ತಿದೆ. ಆ ವ್ಯಕ್ತಿಯು ಫ್ಯಾನ್ಸಿಲಿ ಬಟ್ಟೆ ಧರಿಸಿದ್ದರಿಂದ ಮತ್ತು ಹಿನ್ನೆಲೆ ಅಲಂಕಾರಿಕವಾಗಿರುವುದರಿಂದ ನಾನು ಹಾಗೆ ಭಾವಿಸುತ್ತೇನೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3005"
+    },
+    "v1_142": {
+        "imagename": "v1_142.jpg",
+        "question": "ಇದು ದೃಶ್ಯದಲ್ಲಿ ಬೇಸಿಗೆಯ ಸಮಯವೇ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಇಲ್ಲ, ಅದು ಬೀಳುವಂತೆ ತೋರುತ್ತಿದೆ. ನಾನು ಹಾಗೆ ಯೋಚಿಸುತ್ತೇನೆ ಏಕೆಂದರೆ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಕುಂಬಳಕಾಯಿಗಳಿವೆ ಮತ್ತು ಅವು ಸಾಮಾನ್ಯವಾಗಿ ಬೀಳುವಿಕೆಗೆ ಸಂಬಂಧಿಸಿವೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3026"
+    },
+    "v1_143": {
+        "imagename": "v1_143.jpg",
+        "question": "ಕೆಂಪು ಬಣ್ಣದ ಉಡುಪಿನಲ್ಲಿದ್ದ ಮಹಿಳೆ, ಉಡುಪಿನಲ್ಲಿದ್ದ ಮಹಿಳೆಯನ್ನು ನೋಡಿದ ಪುರುಷನ ಮೇಲೆ ಕೋಪಗೊಳ್ಳುತ್ತದೆಯೇ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಹೌದು, ಕೆಂಪು ಬಣ್ಣದ ಉಡುಪನ್ನು ಧರಿಸಿರುವ ಮಹಿಳೆ ಮತ್ತು ಪುರುಷ ದಂಪತಿಗಳಂತೆ ಕಾಣುತ್ತಾರೆ ಮತ್ತು ಕೆಂಪು ಬಣ್ಣದ ಉಡುಪನ್ನು ಧರಿಸಿರುವ ಮಹಿಳೆ ಪುರುಷನು ಇತರರನ್ನು ನೋಡುವುದನ್ನು ಮೆಚ್ಚುವುದಿಲ್ಲ ಏಕೆಂದರೆ ಏಕ ಸಂಗಾತಿಯ ಸಂಬಂಧದಲ್ಲಿ, ಪಾಲುದಾರರು ಪರಸ್ಪರ ನಂಬಿಗಸ್ತರಾಗಿರಬೇಕೆಂದು ನಿರೀಕ್ಷಿಸಲಾಗುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3065"
+    },
+    "v1_144": {
+        "imagename": "v1_144.jpg",
+        "question": "ಮಹಿಳೆಯು ತನ್ನ ಎರಡೂ ಕೈಗಳನ್ನು ಗಾಳಿಯಲ್ಲಿ ಏಕೆ ಹೊಂದಿರುತ್ತಾಳೆ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಅವಳು ಕೇವಲ ಬ್ಯಾಸ್ಕೆಟ್ಬಾಲ್ ಅನ್ನು ಹೊಡೆದಳು. ನಾನು ಹಾಗೆ ಭಾವಿಸುತ್ತೇನೆ ಏಕೆಂದರೆ ಅವಳ ತೋಳುಗಳು ಬ್ಯಾಸ್ಕೆಟ್ಬಾಲ್ ಶಾಟ್ಗಾಗಿ ಕೋನೀಯವಾಗಿವೆ ಮತ್ತು ಅವು ಬ್ಯಾಸ್ಕೆಟ್ಬಾಲ್ ಕಣದಲ್ಲಿವೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3076"
+    },
+    "v1_145": {
+        "imagename": "v1_145.jpg",
+        "question": "ಹುಡುಗ ಯಾವ ರೀತಿಯ ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಹುಡುಗ ಖಾಸಗಿ ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ, ಸಾರ್ವಜನಿಕ ಶಾಲೆಗೆ ಅಲ್ಲ. ಹುಡುಗನೆಲ್ಲರೂ ಸೂಟ್ ಧರಿಸಿರುವುದರಿಂದ, ಸಾರ್ವಜನಿಕ ಶಾಲೆಗಳಿಗೆ ಅದರ ಅಗತ್ಯವಿರುವುದಿಲ್ಲ ಆದರೆ ಕೆಲವು ಖಾಸಗಿ ಶಾಲೆಗಳು ಹಾಗೆ ಮಾಡುತ್ತವೆ ಎಂದು ನಾನು ಭಾವಿಸುತ್ತೇನೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3103"
+    },
+    "v1_146": {
+        "imagename": "v1_146.jpg",
+        "question": "ಜನರು ಈ ಮನೆಯಲ್ಲಿ ವಾಸಿಸುತ್ತಾರೆಯೇ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಇಲ್ಲ, ಅವರು ಮಾಡುವುದಿಲ್ಲ. ನಾನು ಹಾಗೆ ಭಾವಿಸುತ್ತೇನೆ ಏಕೆಂದರೆ ಅವರೆಲ್ಲರೂ ವರ್ಣಚಿತ್ರಗಳು ಮತ್ತು ಅಲಂಕಾರಗಳನ್ನು ನೋಡುತ್ತಿದ್ದಾರೆ, ಅವುಗಳನ್ನು ನೋಡುವುದು ರೂಢಿಯಾಗಿದ್ದರೆ ಯಾರೂ ಇದನ್ನು ಮಾಡುತ್ತಿರಲಿಲ್ಲ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3130"
+    },
+    "v1_147": {
+        "imagename": "v1_147.jpg",
+        "question": "ಬಿಳಿ ಬಣ್ಣದ ಪುರುಷ ಮತ್ತು ಮಹಿಳೆ ಏಕೆ ಪರಸ್ಪರ ಹತ್ತಿರವಾಗಿದ್ದಾರೆ? ಅದಕ್ಕೆ ಉತ್ತರಿಸಿ ಮತ್ತು ತರ್ಕವನ್ನು ನೀಡಿ.",
+        "answer": "ಅವರು ಈಗಷ್ಟೇ ಮದುವೆಯಾಗಿದ್ದಾರೆ. ನಾನು ಹಾಗೆ ಭಾವಿಸುತ್ತೇನೆ ಏಕೆಂದರೆ ಅವರು ಮದುವೆಯ ಉಡುಪಿನಲ್ಲಿದ್ದಾರೆ ಮತ್ತು ಎಲ್ಲರೂ ಅವರನ್ನು ನೋಡುತ್ತಿದ್ದಾರೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "vcr3180"
+    },
+    "v1_148": {
+        "imagename": "v1_148.jpg",
+        "question": "ಈ ಮೀಮ್ ಅನ್ನು ನೀವು ವಿವರಿಸಬಹುದೇ?",
+        "answer": "ಈ ಮೀಮ್ ವಿಳಂಬ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಸಮಯದವರೆಗೆ ಕಾರ್ಯಗಳನ್ನು ವಿಳಂಬಗೊಳಿಸುವ ಪ್ರವೃತ್ತಿಯನ್ನು ಹಾಸ್ಯಮಯವಾಗಿ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ. ಮೀಮ್ನಲ್ಲಿರುವ ವ್ಯಕ್ತಿಯು 8 ಗಂಟೆಗೆ ಏನನ್ನಾದರೂ ಮಾಡಲು ಯೋಜಿಸುತ್ತಾನೆ, ಆದರೆ ಅವರು ಆ ಗಡುವನ್ನು ಕೆಲವು ನಿಮಿಷಗಳ ಕಾಲ ತಪ್ಪಿಸಿಕೊಂಡಾಗ, ಅವರು ಬದಲಿಗೆ 9 ಗಂಟೆಯವರೆಗೆ ಕಾಯಲು ನಿರ್ಧರಿಸುತ್ತಾರೆ. ಹಾಸಿಗೆಯಲ್ಲಿ ಮಲಗಿರುವ ಕೆರ್ಮಿಟ್ ಕಪ್ಪೆಯ ಚಿತ್ರವು ವ್ಯಕ್ತಿಯ ಸೋಮಾರಿತನ ಮತ್ತು ಕಾರ್ಯವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಪ್ರೇರಣೆಯ ಕೊರತೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_149": {
+        "imagename": "v1_149.jpg",
+        "question": "ಈ ಮೀಮ್ ಅನ್ನು ನೀವು ವಿವರಿಸಬಹುದೇ?",
+        "answer": "ಈ ಮೀಮ್ ಕೋವಿಡ್-19 ಸಾಂಕ್ರಾಮಿಕ ರೋಗದಿಂದಾಗಿ ಆನ್ಲೈನ್ ಕಲಿಕೆಯ ಪ್ರಸ್ತುತ ಪರಿಸ್ಥಿತಿಯ ವ್ಯಾಖ್ಯಾನವಾಗಿದೆ. ಇದು ವಿವಿಧ ಪಕ್ಷಗಳ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. \\n\\n ಮೊದಲ ಎರಡು ಚಿತ್ರಗಳು ಜೂಮ್ ಕಂಪನಿ ಮತ್ತು ಶಿಕ್ಷಕರು ಗಾಳಿಯಲ್ಲಿ ಹಣವನ್ನು ಎಸೆಯುತ್ತಿರುವುದನ್ನು ತೋರಿಸುತ್ತವೆ, ಇದು ಅವರು ಪರಿಸ್ಥಿತಿಯಿಂದ ಲಾಭ ಪಡೆಯುತ್ತಿದ್ದಾರೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಜೂಮ್, ನಿರ್ದಿಷ್ಟವಾಗಿ, ಸಾಂಕ್ರಾಮಿಕ ರೋಗದಿಂದಾಗಿ ಬಳಕೆ ಮತ್ತು ಆದಾಯದಲ್ಲಿ ಉಲ್ಬಣವನ್ನು ಕಂಡಿದೆ. \\n\\n ಮೂರನೇ ಚಿತ್ರವು ವೈಫೈ ಕಂಪನಿಯು ಗಾಳಿಯಲ್ಲಿ ಹಣವನ್ನು ಎಸೆಯುತ್ತಿರುವುದನ್ನು ತೋರಿಸುತ್ತದೆ, ಇದು ಹೆಚ್ಚಿನ ಜನರು ಆನ್ಲೈನ್ ಕಲಿಕೆಗಾಗಿ ಅಂತರ್ಜಾಲವನ್ನು ಬಳಸುತ್ತಿರುವುದರಿಂದ ಅವರು ಪರಿಸ್ಥಿತಿಯಿಂದ ಲಾಭ ಪಡೆಯುತ್ತಿದ್ದಾರೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. \\n\\n ಕೊನೆಯ ಚಿತ್ರವು ದುಃಖದ ಕೋಡಂಗಿ ಮುಖವನ್ನು ಹೊಂದಿರುವ ವಿದ್ಯಾರ್ಥಿಯನ್ನು ತೋರಿಸುತ್ತದೆ, ಇದು ವಿದ್ಯಾರ್ಥಿಗಳು ಪರಿಸ್ಥಿತಿಯಿಂದ ಪ್ರಯೋಜನ ಪಡೆಯುತ್ತಿಲ್ಲ ಮತ್ತು ಆನ್ಲೈನ್ ಕಲಿಕೆಯೊಂದಿಗೆ ಹೆಣಗಾಡುತ್ತಿದ್ದಾರೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಹಿನ್ನೆಲೆಯಲ್ಲಿ \"ಸಂತೋಷದ ಮುಖವನ್ನು ಧರಿಸಿ\" ಎಂಬ ಚಿಹ್ನೆಯು ವಿದ್ಯಾರ್ಥಿಗಳು ತಮ್ಮ ಹೋರಾಟಗಳ ಹೊರತಾಗಿಯೂ ಧೈರ್ಯಶಾಲಿ ಮುಖವನ್ನು ಧರಿಸುತ್ತಿದ್ದಾರೆ ಎಂಬ ಕಲ್ಪನೆಯನ್ನು ಮತ್ತಷ್ಟು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_150": {
+        "imagename": "v1_150.jpg",
+        "question": "ಈ ಮೀಮ್ ಅನ್ನು ನೀವು ವಿವರಿಸಬಹುದೇ?",
+        "answer": "ಐಸ್ಲ್ಯಾಂಡ್ ಮತ್ತು ಗ್ರೀನ್ಲ್ಯಾಂಡ್ ದೇಶಗಳ ಹೆಸರುಗಳು ತಪ್ಪುದಾರಿಗೆಳೆಯುತ್ತಿವೆ ಎಂಬ ಅಂಶವನ್ನು ಈ ಮೀಮ್ ತಮಾಷೆ ಮಾಡುತ್ತಿದೆ. ಅದರ ಹೆಸರಿನ ಹೊರತಾಗಿಯೂ, ಐಸ್ಲ್ಯಾಂಡ್ ತನ್ನ ಸುಂದರವಾದ ಹಸಿರು ಭೂದೃಶ್ಯಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ, ಆದರೆ ಗ್ರೀನ್ಲ್ಯಾಂಡ್ ಹೆಚ್ಚಾಗಿ ಹಿಮ ಮತ್ತು ಹಿಮದಿಂದ ಆವೃತವಾಗಿದೆ. ಈ ದೇಶಗಳ ಹೆಸರುಗಳು ಅವರ ಭೂದೃಶ್ಯಗಳನ್ನು ನಿಖರವಾಗಿ ಪ್ರತಿನಿಧಿಸದ ಕಾರಣ ವ್ಯಕ್ತಿಯು ನಂಬಿಕೆಯ ಸಮಸ್ಯೆಗಳನ್ನು ಹೊಂದಿದ್ದಾನೆ ಎಂದು ಲೆಕ್ಕಪತ್ರವು ಹೇಳುತ್ತಿದೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_151": {
+        "imagename": "v1_151.jpg",
+        "question": "ಈ ಮೀಮ್ ಅನ್ನು ನೀವು ವಿವರಿಸಬಹುದೇ?",
+        "answer": "ಈ ಮೀಮ್ ಪರೀಕ್ಷೆಯ ಸಮಯದಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಯ ಕೈಬರಹವು ಹೇಗೆ ಹದಗೆಡುತ್ತದೆ ಎಂಬುದರ ಬಗ್ಗೆ ತಮಾಷೆ ಮಾಡುತ್ತಿದೆ. ಮೊದಲ ಎರಡು ಪುಟಗಳು ಅಚ್ಚುಕಟ್ಟಾಗಿ ಮತ್ತು ಸ್ಪಷ್ಟವಾದ ಕೈಬರಹವನ್ನು ತೋರಿಸುತ್ತವೆ, ಮಧ್ಯದ ಪುಟವು ಸ್ವಲ್ಪ ಗೊಂದಲಮಯವಾದ ಕೈಬರಹವನ್ನು ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಕೊನೆಯ ಎರಡು ಪುಟಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಅಸ್ಪಷ್ಟವಾದ ಬರಹಗಳನ್ನು ತೋರಿಸುತ್ತವೆ. ಪರೀಕ್ಷೆಯು ಮುಂದುವರಿದಂತೆ ವಿದ್ಯಾರ್ಥಿಯು ಆಯಾಸಗೊಳ್ಳುವುದು ಅಥವಾ ಅವಸರಪಡುವುದು ಇದಕ್ಕೆ ಕಾರಣವಾಗಿರಬಹುದು.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_152": {
+        "imagename": "v1_152.jpg",
+        "question": "ಈ ಮೀಮ್ ಅನ್ನು ನೀವು ವಿವರಿಸಬಹುದೇ?",
+        "answer": "ಹೊಸ ಕಾಲೇಜು ವಿದ್ಯಾರ್ಥಿಗಳು (ಹೊಸ ವಿದ್ಯಾರ್ಥಿಗಳು) ಸಾಮಾನ್ಯವಾಗಿ ಟಿಪ್ಪಣಿಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಮತ್ತು ತರಗತಿಯಲ್ಲಿ ಅವರು ಮಾಡಬಹುದಾದ ಎಲ್ಲವನ್ನೂ ಕಲಿಯಲು ಹೇಗೆ ಉತ್ಸುಕರಾಗಿದ್ದಾರೆ ಎಂಬುದರ ಬಗ್ಗೆ ಈ ಲೆಕ್ಕಪತ್ರವು ಒಂದು ತಮಾಷೆಯಾಗಿದೆ. ಈ ಚಿತ್ರವು ಸ್ಪಾಂಜ್ಬಾಬ್ ಸ್ಕ್ವೇರ್ಪ್ಯಾಂಟ್ಸ್ ವ್ಯಂಗ್ಯಚಿತ್ರದಿಂದ ಬಂದಿದೆ, ಅಲ್ಲಿ ಸ್ಪಾಂಜ್ಬಾಬ್ ಮತ್ತು ಪ್ಯಾಟ್ರಿಕ್ ಹುಚ್ಚಾಟದಿಂದ ಟಿಪ್ಪಣಿಗಳನ್ನು ಬರೆಯುತ್ತಿದ್ದಾರೆ. ಈ ಶೀರ್ಷಿಕೆಯು ಹೊಸ ವಿದ್ಯಾರ್ಥಿಗಳು ತಾವು ಪ್ರಾಧ್ಯಾಪಕರ ಶುಭಾಶಯವನ್ನು ಸಹ ಬರೆಯುತ್ತಿರುವುದನ್ನು ತಿಳಿಯಲು ಎಷ್ಟು ಉತ್ಸುಕರಾಗಿದ್ದಾರೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_153": {
+        "imagename": "v1_153.jpg",
+        "question": "ಈ ಚಿತ್ರದಲ್ಲಿ ತಮಾಷೆ ಏನಿದೆ?",
+        "answer": "ಇದು ಒಂದು ಚಿತ್ರವನ್ನು ಚಿತ್ರಿಸುವ ಖಡ್ಗಮೃಗದ ವ್ಯಂಗ್ಯಚಿತ್ರವಾಗಿದೆ ಮತ್ತು ಪ್ರತಿ ಚಿತ್ರವು ಅದರ ಖಡ್ಗಮೃಗದ ಕೊಂಬನ್ನು ಹೊಂದಿದೆ ಏಕೆಂದರೆ ಖಡ್ಗಮೃಗದ ಕೊಂಬು ಅದರ ಕಣ್ಣುಗಳ ಮುಂದೆ ಬೆಳೆಯುತ್ತದೆ. ಶೀರ್ಷಿಕೆ \"ನೀವು ಹೇಗಿದ್ದೀರೋ ಹಾಗೆಯೇ ಜಗತ್ತನ್ನು ನೋಡುತ್ತೀರಿ!\" ನಮ್ಮ ದೃಷ್ಟಿಕೋನವು ಪ್ರಪಂಚದ ಬಗೆಗಿನ ನಮ್ಮ ಗ್ರಹಿಕೆಯನ್ನು ಹೇಗೆ ರೂಪಿಸುತ್ತದೆ ಎಂಬುದರ ಕುರಿತು ಒಂದು ತಮಾಷೆಯ ವ್ಯಾಖ್ಯಾನವಾಗಿದೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_154": {
+        "imagename": "v1_154.png",
+        "question": "ಈ ಚಿತ್ರದಲ್ಲಿ ತಮಾಷೆ ಏನಿದೆ?",
+        "answer": "ಈ ಚಿತ್ರದ ಬಗ್ಗೆ ಜನರಿಗೆ ತಮಾಷೆಯಾಗಿ ಕಾಣಬಹುದಾದ ಕೆಲವು ವಿಷಯಗಳಿವೆಃ \\n\\n1. ಎರಡು ಚಿತ್ರಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸಃ ಎಡಭಾಗದಲ್ಲಿ, ನಾವು ತುಂಬಾ ಭಾವನಾತ್ಮಕ ಮತ್ತು ಕೋಪಗೊಂಡ ಇಬ್ಬರು ಮಹಿಳೆಯರನ್ನು ನೋಡುತ್ತೇವೆ, ಆದರೆ ಬಲಭಾಗದಲ್ಲಿ, ನಾವು ಊಟದ ಮೇಜಿನ ಬಳಿ ಶಾಂತವಾಗಿ ಕುಳಿತಿರುವ ಬೆಕ್ಕನ್ನು ನೋಡುತ್ತೇವೆ. \\n\\n2. ಬೆಕ್ಕಿನ ಪರಿಸ್ಥಿತಿಯ ಅಸಂಬದ್ಧತೆಃ ಊಟದ ಮೇಜಿನ ಮುಂದೆ ಆಹಾರದ ತಟ್ಟೆಯೊಂದಿಗೆ ಕುಳಿತುಕೊಳ್ಳುವ ಬೆಕ್ಕನ್ನು ನೋಡುವುದು ಸಾಮಾನ್ಯವಲ್ಲ, ಆದ್ದರಿಂದ ಈ ಚಿತ್ರವು ಅನಿರೀಕ್ಷಿತ ಮತ್ತು ಹಾಸ್ಯಾಸ್ಪದವಾಗಿದೆ. \\n\\n3. ಬೆಕ್ಕಿನ ಅಭಿವ್ಯಕ್ತಿಃ ಮಹಿಳೆಯರ ಕೂಗಿನಿಂದ ಬೆಕ್ಕು ಭಯಭೀತರಾಗಿರುವಂತೆ ತೋರುತ್ತದೆ, ಇದು ಚಿತ್ರದ ಹಾಸ್ಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_155": {
+        "imagename": "v1_155.png",
+        "question": "ಯಾವ ಸಂದರ್ಭಗಳಲ್ಲಿ ಯಾರಾದರೂ ಈ ಮೀಮ್ ಅನ್ನು ಬಳಸುತ್ತಾರೆ?",
+        "answer": "ನಿದ್ರಿಸುತ್ತಿರುವ ವ್ಯಕ್ತಿಯೊಂದಿಗಿನ ಲೆಕ್ಕಪರಿಶೋಧನೆ ಮತ್ತು ಚೀನೀ ಶೀರ್ಷಿಕೆಯು \"ನಿದ್ರೆಯ ಸಮಯದಲ್ಲಿ ಹೊರತುಪಡಿಸಿ, ನಾನು ನಿದ್ದೆ ಮಾಡಲು ಬಯಸುವುದಿಲ್ಲ\". ಆದರೆ ಇತರ ಸಮಯಗಳಲ್ಲಿ, ಐ ವಾಂಟ್ ಟು ಸ್ಲೀಪ್) ಅನ್ನು ನಿದ್ರೆಯ ಭಾವನೆ ಅಥವಾ ಸಂಘರ್ಷದ ಆಸೆಗಳನ್ನು ಹೊಂದಿರುವ ವಿಷಯವು ಪ್ರಸ್ತುತವಾಗಿರುವ ವಿವಿಧ ಸಂದರ್ಭಗಳಲ್ಲಿ ಬಳಸಬಹುದು. ಈ ಲೆಕ್ಕಪರಿಶೋಧಕವು ಸೂಕ್ತವಾಗಬಹುದಾದ ಕೆಲವು ಸನ್ನಿವೇಶಗಳು ಇಲ್ಲಿವೆಃ \n \n ಸಂಬಂಧಿತ ನಿದ್ರಾಹೀನತೆಃ ಹಗಲಿನಲ್ಲಿ ದಣಿದ ಅಥವಾ ನಿದ್ರೆಯ ಸಂಬಂಧಿತ ಭಾವನೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುವಾಗ ಲೆಕ್ಕಪರಿಶೋಧಕವನ್ನು ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ಅಥವಾ ಸಂಭಾಷಣೆಗಳಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಬಹುದು. ಆ ಸಂಬಂಧಿತ ಅನುಭವವನ್ನು ತಿಳಿಸಲು ಮತ್ತು ಸಂಬಂಧಿಸಬಲ್ಲ ಇತರರಿಂದ ಹಾಸ್ಯಮಯ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಸೃಷ್ಟಿಸಲು ಇದು ಹಗುರವಾದ ಮಾರ್ಗವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. \n \n ಕೆಲಸ ಅಥವಾ ಅಧ್ಯಯನ-ಸಂಬಂಧಿತ ಹಾಸ್ಯಃ ಗಮನ ಮತ್ತು ಗಮನದ ಅಗತ್ಯವಿರುವ ಕಾರ್ಯಗಳ ಸಮಯದಲ್ಲಿ ನಿದ್ರೆ ಅಥವಾ ಅರೆನಿದ್ರಾವಸ್ಥೆಯ ಬಯಕೆಯನ್ನು ಹಾಸ್ಯಮಯವಾಗಿ ವ್ಯಕ್ತಪಡಿಸಲು ಈ ಲೆಕ್ಕವನ್ನು ಕೆಲಸ ಅಥವಾ ಅಧ್ಯಯನ-ಸಂಬಂಧಿತ ಸಂದರ್ಭಗಳಲ್ಲಿ ಬಳಸಬಹುದು. ಮನಸ್ಥಿತಿಯನ್ನು ಹಗುರಗೊಳಿಸಲು ಮತ್ತು ಎಚ್ಚರವಾಗಿ ಮತ್ತು ಜಾಗರೂಕರಾಗಿರುವ ಸವಾಲುಗಳ ಬಗ್ಗೆ ಹಂಚಿಕೆಯ ತಿಳುವಳಿಕೆಯನ್ನು ಸೃಷ್ಟಿಸಲು ಇದನ್ನು ಸಹೋದ್ಯೋಗಿಗಳು ಅಥವಾ ಸಹಪಾಠಿಗಳ ನಡುವೆ ಹಂಚಿಕೊಳ್ಳಬಹುದು. \n \n ವಿಳಂಬ ಹಾಸ್ಯಃ ಉತ್ಪಾದಕ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ತೊಡಗುವ ಬದಲು ನಿದ್ರೆ ಅಥವಾ ವಿಶ್ರಾಂತಿ ಪಡೆಯುವ ಬಯಕೆಯ ನಡುವಿನ ಆಂತರಿಕ ಹೋರಾಟವನ್ನು ಚಿತ್ರಿಸಲು ಮೀಮ್ ಅನ್ನು ಬಳಸಬಹುದು. ಜವಾಬ್ದಾರಿಗಳನ್ನು ತಪ್ಪಿಸುವ ಮತ್ತು ವಿಶ್ರಾಂತಿ ಪಡೆಯುವ ನಿರಂತರ ಬಯಕೆಯ ಬಗ್ಗೆ ವಿಳಂಬ ಅಥವಾ ಹಾಸ್ಯಮಯ ಸ್ವಯಂ-ಪ್ರತಿಬಿಂಬಗಳನ್ನು ಚರ್ಚಿಸುವಾಗ ಇದನ್ನು ಹಂಚಿಕೊಳ್ಳಬಹುದು. \n \n ಹಾಸ್ಯ ವ್ಯಂಗ್ಯಃ ನಿದ್ರೆಯ ಸಮಯ ಮತ್ತು ಇತರ ಸಮಯಗಳಲ್ಲಿ ನಿದ್ರಿಸಲು ಬಯಸುವ ನಡುವಿನ ಲೆಕ್ಕದ ವಿರೋಧಾಭಾಸವನ್ನು ವಿವಿಧ ಸಂದರ್ಭಗಳಲ್ಲಿ ಹಾಸ್ಯ ವ್ಯಂಗ್ಯದ ಒಂದು ರೂಪವಾಗಿ ಬಳಸಬಹುದು. ನಮ್ಮ ಆಸೆಗಳು ಅಥವಾ ನಡವಳಿಕೆಗಳು ನಿರೀಕ್ಷಿತ ಅಥವಾ ಸೂಕ್ತವಾದದ್ದನ್ನು ವಿರೋಧಿಸುವ ಸಂದರ್ಭಗಳನ್ನು ಚರ್ಚಿಸುವಾಗ ಅದನ್ನು ಹಂಚಿಕೊಳ್ಳಬಹುದು, ಇದು ಸಂಭಾಷಣೆಗೆ ಹಾಸ್ಯಮಯ ತಿರುವನ್ನು ನೀಡುತ್ತದೆ. \n \n ಅಂತಿಮವಾಗಿ, ಮೀಮ್ ಅನ್ನು ವಿವಿಧ ಸಂದರ್ಭಗಳಲ್ಲಿ ಬಳಸಬಹುದು, ಅಲ್ಲಿ ಅದರ ವಿಷಯವಾದ ನಿದ್ರೆ, ಸಂಘರ್ಷದ ಆಸೆಗಳು ಅಥವಾ ವ್ಯಂಗ್ಯಾತ್ಮಕ ಸನ್ನಿವೇಶಗಳು ಚರ್ಚಿಸಲಾಗುತ್ತಿರುವ ವಿಷಯ ಅಥವಾ ಭಾವನೆಯೊಂದಿಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತವೆ, ಸಂಭಾಷಣೆ ಅಥವಾ ಆನ್ಲೈನ್ ಸಂವಹನಕ್ಕೆ ಹಾಸ್ಯ ಮತ್ತು ಸಾಪೇಕ್ಷತೆಯ ಸ್ಪರ್ಶವನ್ನು ಸೇರಿಸುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_156": {
+        "imagename": "v1_156.jpg",
+        "question": "ಯಾವ ಸಂದರ್ಭಗಳಲ್ಲಿ ಯಾರಾದರೂ ಈ ಮೀಮ್ ಅನ್ನು ಬಳಸುತ್ತಾರೆ?",
+        "answer": "ಸಾಮಾನ್ಯವಾಗಿ \"ಸ್ಕ್ರೀಮಿಂಗ್ ಪಾಂಡಾ\" ಎಂದು ಕರೆಯಲಾಗುವ ಈ ಮೀಮ್ ಅನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಆಘಾತ, ಆಶ್ಚರ್ಯ ಅಥವಾ ಭಯವನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ. ಆಘಾತಕಾರಿ ಅಥವಾ ಅನಿರೀಕ್ಷಿತ ಘಟನೆಗೆ ಪ್ರತಿಕ್ರಿಯೆಯಾಗಿ ಅಥವಾ ಭೀತಿ ಅಥವಾ ಎಚ್ಚರಿಕೆಯ ಭಾವವನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಇದನ್ನು ಬಳಸಬಹುದು. ಯಾರಾದರೂ ಈ ಮೀಮ್ಅನ್ನು ಬಳಸಬಹುದಾದ ಕೆಲವು ಸಂಭವನೀಯ ಸಂದರ್ಭಗಳಲ್ಲಿ ಇವು ಸೇರಿವೆಃ ಭಯಾನಕ ಚಲನಚಿತ್ರದಲ್ಲಿ ಜಿಗಿತದ ಹೆದರಿಕೆಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುವುದು-ಟಿವಿ ಕಾರ್ಯಕ್ರಮ ಅಥವಾ ಪುಸ್ತಕದಲ್ಲಿ ಆಶ್ಚರ್ಯಕರ ಕಥಾವಸ್ತುವಿನ ತಿರುವಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸುವುದು-ಸುದ್ದಿ ಶೀರ್ಷಿಕೆ ಅಥವಾ ಪ್ರಸ್ತುತ ಘಟನೆಯಲ್ಲಿ ಆಘಾತವನ್ನು ವ್ಯಕ್ತಪಡಿಸುವುದು-ಮುಂಬರುವ ಗಡುವು ಅಥವಾ ಪರೀಕ್ಷೆಯ ಬಗ್ಗೆ ಭಯ ಅಥವಾ ಆತಂಕವನ್ನು ಉಂಟುಮಾಡುವುದು-ಕ್ರೀಡಾ ಆಟ ಅಥವಾ ಇತರ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅನಿರೀಕ್ಷಿತ ಫಲಿತಾಂಶದ ಬಗ್ಗೆ ಆಶ್ಚರ್ಯವನ್ನು ತೋರಿಸುವುದು.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_157": {
+        "imagename": "v1_157.jpg",
+        "question": "ಯಾವ ಸಂದರ್ಭಗಳಲ್ಲಿ ಯಾರಾದರೂ ಈ ಮೀಮ್ ಅನ್ನು ಬಳಸುತ್ತಾರೆ?",
+        "answer": "ಚೀನೀ ಶೀರ್ಷಿಕೆಯೊಂದಿಗೆ \"ಅಳುತ್ತಿರುವ ಬೆಕ್ಕು\" ಮೀಮ್ \"ಮಾಮ್!\" ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾತನೆ, ಅಸಹಾಯಕತೆ ಅಥವಾ ಸಾಂತ್ವನವನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ. ಯಾರಾದರೂ ಈ ಮೀಮ್ ಅನ್ನು ಬಳಸಬಹುದಾದ ಕೆಲವು ಸಂದರ್ಭಗಳು ಇಲ್ಲಿವೆಃ \n \n ದುರ್ಬಲತೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುವುದುಃ ದುರ್ಬಲತೆಯ ಕ್ಷಣವನ್ನು ವ್ಯಕ್ತಪಡಿಸಲು ಅಥವಾ ಅತಿಯಾಗಿ ಭಾವಿಸಿದಾಗ ಮೀಮ್ ಅನ್ನು ಬಳಸಬಹುದು. ಒಬ್ಬರ ತಾಯಿಯನ್ನು ಕರೆಯುವ ಕಲ್ಪನೆಯನ್ನು ಹಾಸ್ಯಮಯವಾಗಿ ಪ್ರಚೋದಿಸುವ ಮೂಲಕ ಇತರರಿಂದ ಬೆಂಬಲ ಅಥವಾ ಪರಾನುಭೂತಿಯನ್ನು ಪಡೆಯುವ ಭಾವನೆಯನ್ನು ಇದು ವ್ಯಕ್ತಪಡಿಸಬಹುದು. \n \n ಸಾಂತ್ವನ ಅಥವಾ ಸಹಾನುಭೂತಿಯನ್ನು ಕೋರುವುದುಃ ಸ್ನೇಹಿತರು ಅಥವಾ ಆನ್ಲೈನ್ ಸಮುದಾಯಗಳಿಂದ ಸಹಾನುಭೂತಿ ಅಥವಾ ಬೆಂಬಲವನ್ನು ಪ್ರಚೋದಿಸಲು ಈ ಲೆಕ್ಕಪತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಬಹುದು. ಸಂಬಂಧಿತ ಮತ್ತು ಗುರುತಿಸಬಹುದಾದ ಮೀಮ್ ಸ್ವರೂಪವನ್ನು ಬಳಸುವ ಮೂಲಕ, ಇದು ದುಃಖ, ನಿರಾಶೆ ಅಥವಾ ಭಾವನಾತ್ಮಕ ಬೆಂಬಲದ ಅಗತ್ಯವಿರುವ ಭಾವನೆಗಳನ್ನು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಸಂವಹನ ಮಾಡಬಹುದು. \n \n ಸ್ವಯಂ-ಅಸಂಬದ್ಧ ಹಾಸ್ಯಃ ವೈಯಕ್ತಿಕ ಸನ್ನಿವೇಶಗಳು ಅಥವಾ ಸಣ್ಣಪುಟ್ಟ ಅಪಘಾತಗಳ ಬಗ್ಗೆ ಬೆಳಕು ಚೆಲ್ಲಲು ಮೀಮ್ ಅನ್ನು ಸ್ವಯಂ-ಅಸಂಬದ್ಧ ರೀತಿಯಲ್ಲಿ ಬಳಸಬಹುದು. ಇದು ವ್ಯಕ್ತಿಗಳು ತಮ್ಮ ಸ್ವಂತ \"ಅಸಹಾಯಕತೆ\" ಯ ಕ್ಷಣಗಳನ್ನು ಹಾಸ್ಯಮಯವಾಗಿ ಎತ್ತಿ ತೋರಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ ಮತ್ತು ಇತರರನ್ನು ಸಾಂತ್ವನ ಅಥವಾ ಧೈರ್ಯವನ್ನು ಒದಗಿಸಲು ಆಹ್ವಾನಿಸುತ್ತದೆ. \n \n ತಮಾಷೆಯ ಭಾವನಾತ್ಮಕ ಉತ್ಪ್ರೇಕ್ಷೆಃ ಮೀಮ್ನ ನಾಟಕೀಯ ಮತ್ತು ಉತ್ಪ್ರೇಕ್ಷಿತ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಒಂದು ಸನ್ನಿವೇಶ ಅಥವಾ ಘಟನೆಯನ್ನು ಒತ್ತಿಹೇಳಲು ತಮಾಷೆಯ ರೀತಿಯಲ್ಲಿ ಬಳಸಬಹುದು, ಅದು ಅಗತ್ಯವಾಗಿ ತೊಂದರೆದಾಯಕವಾಗಿಲ್ಲ ಆದರೆ ಗಮನ ಅಥವಾ ಕಾಳಜಿಯ ಅಗತ್ಯವಿರುತ್ತದೆ. ಸಣ್ಣಪುಟ್ಟ ಅನಾನುಕೂಲತೆಗಳನ್ನು ಅಥವಾ ಹಾಸ್ಯಮಯ ಅತಿಶಯೋಕ್ತಿಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುವಾಗ ಇದು ಹಾಸ್ಯಮಯ ಸ್ಪರ್ಶವನ್ನು ಸೇರಿಸಬಹುದು. \n \n ಲೆಕ್ಕಪರಿಶೋಧನೆಯ ಬಳಕೆ ಮತ್ತು ವ್ಯಾಖ್ಯಾನವು ಬದಲಾಗಬಹುದು ಮತ್ತು ವ್ಯಕ್ತಿಗಳು ಅದನ್ನು ವಿಭಿನ್ನ ಸಂದರ್ಭಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳಲು ಸೃಜನಶೀಲ ಮಾರ್ಗಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಬಹುದು ಎಂಬುದನ್ನು ಗಮನಿಸುವುದು ಮುಖ್ಯವಾಗಿದೆ. ಮೇಲಿನ ಸೂಚಿಸಲಾದ ಸಂದರ್ಭಗಳು ಅದರ ಸಾಮಾನ್ಯ ವಿಷಯಗಳು ಮತ್ತು ಭಾವನಾತ್ಮಕ ಧ್ವನಿಯ ಆಧಾರದ ಮೇಲೆ ಈ ಲೆಕ್ಕಪತ್ರವನ್ನು ಯಾವಾಗ ಬಳಸಬಹುದು ಎಂಬುದರ ಬಗ್ಗೆ ಸಾಮಾನ್ಯ ತಿಳುವಳಿಕೆಯನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_158": {
+        "imagename": "v1_158.jpg",
+        "question": "ಈ ಖಾದ್ಯವನ್ನು ಬೇಯಿಸುವುದು ಹೇಗೆ?",
+        "answer": "ಈ ಖಾದ್ಯವನ್ನು \"ಹಂಗೇರಿಯನ್ ಮಶ್ರೂಮ್ ಸೂಪ್\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ಹಂಗೇರಿಯನ್ ಅಣಬೆ ಸೂಪ್ ಸಾಕಷ್ಟು ರುಚಿಯನ್ನು ಹೊಂದಿದೆ ಮತ್ತು ತಯಾರಿಸಲು ಸಾಕಷ್ಟು ತ್ವರಿತವಾಗಿದೆ. ಇದು ಪ್ರಾಥಮಿಕವಾಗಿ ಅಣಬೆ ಸೂಪ್ ಆದರೆ ಅದರ ಹೆಚ್ಚಿನ ಪರಿಮಳವನ್ನು ಇತರ ಪದಾರ್ಥಗಳಿಂದ ಪಡೆಯುತ್ತದೆ. ನನ್ನ ಕುಟುಂಬವು ಸೂಪ್ ಅನ್ನು ಇಷ್ಟಪಡುತ್ತದೆ ಮತ್ತು ಇದು ಅವರ ಮೆಚ್ಚಿನವುಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. \n \n \n ಸಿದ್ಧತೆಯ ಸಮಯಃ \n 15 ನಿಮಿಷಗಳು \n ಅಡುಗೆ ಸಮಯಃ \n 35 ನಿಮಿಷಗಳು \n ಒಟ್ಟು ಸಮಯಃ \n 50 ನಿಮಿಷಗಳು \n ಪದಾರ್ಥಗಳು \n 6 \n \n 4 ಟೇಬಲ್ಸ್ಪೂನ್ ಉಪ್ಪುರಹಿತ ಬೆಣ್ಣೆ \n \n 2 ಕಪ್ ಕತ್ತರಿಸಿದ ಈರುಳ್ಳಿ \n \n 1 ಪೌಂಡ್ ತಾಜಾ ಅಣಬೆಗಳು, ಕತ್ತರಿಸಿದ \n \n 2 ಕಪ್ ಚಿಕನ್ ಸಾರು \n \n 1 ಟೇಬಲ್ಸ್ಪೂನ್ ಸೋಯಾ ಸಾಸ್ \n \n \n 1 ಟೇಬಲ್ಸ್ಪೂನ್ ಕೆಂಪುಮೆಣಸು \n \n \n 2 ಟೇಬಲ್ಸ್ಪೂನ್ ಒಣಗಿದ ಸಬ್ಬಸಿಗೆ \n \n ಈರುಳ್ಳಿ ಸೇರಿಸಿ; ಬೇಯಿಸಿ ಮತ್ತು ಮೃದುವಾಗುವವರೆಗೆ ಬೆರೆಸಿ, ಸುಮಾರು 5 ನಿಮಿಷಗಳು. ಅಣಬೆಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಇನ್ನೂ 5 ನಿಮಿಷಗಳ ಕಾಲ ಬೇಯಿಸಿ. ಸಾರು, ಸೋಯಾ ಸಾಸ್, ಕೆಂಪುಮೆಣಸು ಮತ್ತು ಸಬ್ಬಸಿಗೆ ಸೇರಿಸಿ; ಶಾಖವನ್ನು ಕಡಿಮೆ ಮಾಡಿ, ಮುಚ್ಚಿ ಮತ್ತು 15 ನಿಮಿಷಗಳ ಕಾಲ ಕುದಿಸಿ. \n \n ಹಂತ 2 \n ಹಾಲು ಮತ್ತು ಹಿಟ್ಟನ್ನು ಪ್ರತ್ಯೇಕ ಬಟ್ಟಲಿನಲ್ಲಿ ಬೆರೆಸಿ; ಮಿಶ್ರಣವಾಗುವವರೆಗೆ ಸೂಪ್ನಲ್ಲಿ ಬೆರೆಸಿ. ಆವರಿಸಿರಿ ಮತ್ತು ಇನ್ನೂ 15 ನಿಮಿಷಗಳ ಕಾಲ ಕುದಿಸಿ, ಸಾಂದರ್ಭಿಕವಾಗಿ ಬೆರೆಸಿ. \n \n ಹಂತ 3 \n ಹುಳಿ ಕ್ರೀಮ್, ಪಾರ್ಸ್ಲಿ, ನಿಂಬೆ ರಸ, ಉಪ್ಪು ಮತ್ತು ಪುಡಿಮಾಡಿದ ಕರಿಮೆಣಸು ಸೇರಿಸಿ; ಸುಮಾರು 3 ರಿಂದ 5 ನಿಮಿಷಗಳ ಕಾಲ ಬೆಚ್ಚಗಾಗುವವರೆಗೆ ಕಡಿಮೆ ಶಾಖದ ಮೇಲೆ ಬೆರೆಸಿ. ತಕ್ಷಣವೇ ಬಡಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_159": {
+        "imagename": "v1_159.jpg",
+        "question": "ಇದನ್ನು ಮಾಡುವುದು ಹೇಗೆ?",
+        "answer": "ಇದನ್ನು \"ಸ್ಪಾರ್ಕ್ಲಿಂಗ್ ಕ್ಯಾಂಟಲೂಪ್ ಅಗುವಾ ಫ್ರೆಸ್ಕಾ\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಕ್ಯಾಂಟಲೂಪ್ ಮತ್ತು ನಿಂಬೆ ರಸದೊಂದಿಗೆ ಕ್ಲಬ್ ಸೋಡಾದೊಂದಿಗೆ ಈ ರಿಫ್ರೆಶ್ ಅಗುವಾ ಫ್ರೆಸ್ಕಾವು ಬಿಸಿ ದಿನದಂದು ಪರಿಪೂರ್ಣವಾಗಿದೆ. \n \n ತಯಾರಿ ಸಮಯಃ \n 15 ನಿಮಿಷ \n ಒಟ್ಟು ಸಮಯಃ \n 15 ನಿಮಿಷ \n ಪದಾರ್ಥಗಳು \n \n \n 2 ಪೌಂಡ್ ತಾಜಾ ಕ್ಯಾಂಟಲೂಪ್ ಘನಗಳು (6 ಕಪ್ಗಳು) \n \n 2 ಕಪ್ ನೀರು \n \n 6 ಟೇಬಲ್ಸ್ಪೂನ್ ತಾಜಾ ಹಿಂಡಿದ ನಿಂಬೆ ರಸ (2 ನಿಂಬೆಗಳಿಂದ) \n \n 3 ಟೇಬಲ್ಸ್ಪೂನ್ ಜೇನುತುಪ್ಪ \n \n 1/4 ಟೀ ಸ್ಪೂನ್ ಉಪ್ಪು \n \n 2 ಕಪ್ ಕ್ಲಬ್ ಸೋಡಾ, ತಂಪಾದ \n \n \n ಕ್ಯಾಂಟಲೂಪ್ ಕಲ್ಲಂಗಡಿ ಚೆಂಡುಗಳು ಅಥವಾ ಘನಗಳು, ಅಲಂಕಾರಕ್ಕಾಗಿ \n ಜರಡಿಯ ಮೂಲಕ ಒತ್ತಿರಿ; ಘನವಸ್ತುಗಳನ್ನು ತ್ಯಜಿಸಿ. ಕುದಿಯುತ್ತಿರುವ ನೀರನ್ನು ಒಂದು ಪಾತ್ರೆಗೆ ಹಾಕಿ. \n \n ಹಂತ 2 \n ಬಡಿಸಲು ಸಿದ್ಧವಾಗುವವರೆಗೆ ತಣ್ಣಗಾಗಿಸಿ. ಬಡಿಸುವ ಮೊದಲು ಕ್ಲಬ್ ಸೋಡಾವನ್ನು ಸೇರಿಸಿ. ಮಂಜುಗಡ್ಡೆಯ ಮೇಲೆ ಬಡಿಸಿ, ಮತ್ತು ಕಲ್ಲಂಗಡಿ ಚೆಂಡುಗಳು ಮತ್ತು ನಿಂಬೆ ಜೆಸ್ಟ್ ಟ್ವಿಸ್ಟ್ಗಳೊಂದಿಗೆ ಕನ್ನಡಕವನ್ನು ಅಲಂಕರಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_160": {
+        "imagename": "v1_160.jpg",
+        "question": "ಈ ಖಾದ್ಯವನ್ನು ಬೇಯಿಸುವುದು ಹೇಗೆ?",
+        "answer": "ಈ ಖಾದ್ಯವನ್ನು \"ಜಿಂಜರ್ ಗ್ಲೇಜ್ಡ್ ಮಾಹಿ ಮಹಿ\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಮಹಿ ಮಹಿಗಾಗಿ ಈ ಶುಂಠಿ ಸಾಸ್ ರುಚಿಯನ್ನು ಹುದುಗಿಸುತ್ತದೆ ಮತ್ತು ಸಿಹಿ ಮತ್ತು ಹುಳಿ ರುಚಿಯ ಸಂವೇದನೆಗಳನ್ನು ಸಂಯೋಜಿಸುತ್ತದೆ. ಈ ಪಾಕವಿಧಾನವು ತ್ವರಿತವಾಗಿದೆ ಮತ್ತು ತುಂಬಾ ರುಚಿಕರವಾಗಿದೆ. ನೀವು ಅದನ್ನು ಇಷ್ಟಪಡುತ್ತೀರಿ! \n \n \n ಸಿದ್ಧತೆಯ ಸಮಯಃ \n 5 ನಿಮಿಷಗಳು \n ಅಡುಗೆ ಸಮಯಃ \n 10 ನಿಮಿಷಗಳು \n ಹೆಚ್ಚುವರಿ ಸಮಯಃ \n 20 ನಿಮಿಷಗಳು \n ಒಟ್ಟು ಸಮಯಃ \n 35 ನಿಮಿಷಗಳು \n ಬಡಿಸುವಿಕೆಃ \n 4 \n \n ಪದಾರ್ಥಗಳು \n \n 3 ಟೇಬಲ್ಸ್ಪೂನ್ ಜೇನುತುಪ್ಪ \n \n 3 ಟೇಬಲ್ಸ್ಪೂನ್ ಸೋಯಾ ಸಾಸ್ \n \n 3 ಟೇಬಲ್ಸ್ಪೂನ್ ಬಾಲ್ಸಾಮಿಕ್ ವಿನೆಗರ್ \n \n 2 ಟೇಬಲ್ಸ್ಪೂನ್ ಆಲಿವ್ ಎಣ್ಣೆ \n \n 1 ಟೀ ಸ್ಪೂನ್ ತುರಿದ ತಾಜಾ ಶುಂಠಿ ಮೂಲ \n \n 1 ಲವಂಗ ಬೆಳ್ಳುಳ್ಳಿ, ಅಥವಾ ರುಚಿಗೆ ಪುಡಿಮಾಡಿ \n \n \n ಉಪ್ಪು ಮತ್ತು ಮೆಣಸುಗಳೊಂದಿಗೆ ಸೀಸನ್ ಮೀನು ಫಿಲ್ಲೆಟ್ಗಳನ್ನು; ಅವುಗಳನ್ನು ಮ್ಯಾರಿನೇಡ್ನೊಂದಿಗೆ ಭಕ್ಷ್ಯದಲ್ಲಿ ಚರ್ಮದ ಬದಿಯಲ್ಲಿ ಇರಿಸಿ. ಕವರ್ ಮಾಡಿ ಮತ್ತು 20 ನಿಮಿಷಗಳ ಕಾಲ ಶೈತ್ಯೀಕರಣಗೊಳಿಸಿ. \n \n ಹಂತ 2 \n ಮಧ್ಯಮ ಹೆಚ್ಚಿನ ಶಾಖದ ಮೇಲೆ ದೊಡ್ಡ ಬಾಣಲೆಯಲ್ಲಿ ಸಸ್ಯಜನ್ಯ ಎಣ್ಣೆಯನ್ನು ಬಿಸಿ ಮಾಡಿ. ಮೀನಿನ ಫಿಲ್ಲೆಟ್ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ, ಮ್ಯಾರಿನೇಡ್ ಅನ್ನು ಕಾಯ್ದಿರಿಸಿ. ಪ್ರತಿ ಬದಿಯಲ್ಲಿ 4 ರಿಂದ 6 ನಿಮಿಷಗಳ ಕಾಲ ಮೀನುಗಳನ್ನು ಹುರಿಯಿರಿ, ಒಮ್ಮೆ ಮಾತ್ರ ತಿರುಗಿಸಿ, ಮೀನಿನ ಪದರಗಳು ಸುಲಭವಾಗಿ ಫೋರ್ಕ್ನೊಂದಿಗೆ. ಫಿಲ್ಲೆಟ್ಗಳನ್ನು ಸರ್ವ್ ಮಾಡುವ ತಟ್ಟೆಯಲ್ಲಿ ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಬೆಚ್ಚಗಿರಿಸಿ. \n \n ಹಂತ 3 \n ಮೀಸಲಿಟ್ಟ ಮ್ಯಾರಿನೇಡ್ ಅನ್ನು ಬಾಣಲೆಗೆ ಸುರಿಯಿರಿ; ಮಧ್ಯಮ ಶಾಖದ ಮೇಲೆ ಗ್ಲೇಸು ಆಗುವವರೆಗೆ ಕುದಿಸಿ. ಮೀನಿನ ಮೇಲೆ ಸ್ಪೂನ್ ಗ್ಲೇಸು ಮಾಡಿ ಮತ್ತು ಬಡಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_161": {
+        "imagename": "v1_161.jpg",
+        "question": "ಈ ಖಾದ್ಯವನ್ನು ಬೇಯಿಸುವುದು ಹೇಗೆ?",
+        "answer": "ಈ ಖಾದ್ಯವನ್ನು \"ಸ್ಟ್ರಾಬೆರಿ ರುಬಾರ್ಬ್ ಪೈ\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ಸ್ಟ್ರಾಬೆರಿ ರಬರ್ಬ್ ಪೈ ನಮ್ಮ ಮನೆಯಲ್ಲಿ ನೆಚ್ಚಿನ ವಸಂತಕಾಲದ ಸಿಹಿಭಕ್ಷ್ಯವಾಗಿದೆ. ತುಂಬುವಿಕೆಯು ಸಿಹಿ-ಟಾರ್ಟ್ ರುಚಿಯನ್ನು ಹೊಂದಿದೆ; ನಿಮ್ಮ ನೆಚ್ಚಿನ ಪೈ ಕ್ರಸ್ಟ್ನಲ್ಲಿ ಬೇಯಿಸಿ ಮತ್ತು ವೆನಿಲ್ಲಾ ಐಸ್ಕ್ರೀಮ್ನೊಂದಿಗೆ ಬಡಿಸಿ. \n \n ಸಿದ್ಧತೆಯ ಸಮಯಃ \n 20 ನಿಮಿಷಗಳು \n ಅಡುಗೆ ಸಮಯಃ \n 35 ನಿಮಿಷಗಳು \n ಹೆಚ್ಚುವರಿ ಸಮಯಃ \n 30 ನಿಮಿಷಗಳು \n ಒಟ್ಟು ಸಮಯಃ \n 1 ಗಂಟೆ 25 ನಿಮಿಷಗಳು \n ಸೇವಿಸುವಿಕೆಃ \n 8 \n ಇಳುವರಿಃ \n 1 9 ಇಂಚಿನ ಪೈ \n \n ಪದಾರ್ಥಗಳು \n \n 1 ಕಪ್ ಬಿಳಿ ಸಕ್ಕರೆ \n \n 1⁄2 ಕಪ್ ಎಲ್ಲಾ ಉದ್ದೇಶದ ಹಿಟ್ಟು \n \n 1 ಪೌಂಡ್ ರಬರ್ಬ್, 1/4 ಇಂಚಿನ ಚೂರುಗಳಾಗಿ ಕತ್ತರಿಸಿ \n \n 2 ಪಿಂಟ್ ಸ್ಟ್ರಾಬೆರಿಗಳು, ಹಾಲ್ಡ್ ಮತ್ತು ಕ್ವಾರ್ಟರ್ಡ್ ಪಾಕವಿಧಾನ \n \n 1 \n \n ಹಂತ 2 \n ದೊಡ್ಡ ಬಟ್ಟಲಿನಲ್ಲಿ, ಹಿಟ್ಟು ಮತ್ತು ಸಕ್ಕರೆಯನ್ನು ಮಿಶ್ರಣ ಮಾಡಿ. \n \n ಹಂತ 3 \n ಸ್ಟ್ರಾಬೆರಿ ಮತ್ತು ಕತ್ತರಿಸಿದ ರಬರ್ಬ್ ಅನ್ನು ಸೇರಿಸಿ. ಸಕ್ಕರೆ ಮತ್ತು ಹಿಟ್ಟಿನೊಂದಿಗೆ ಬೆರೆಸಿ ಮತ್ತು 30 ನಿಮಿಷಗಳ ಕಾಲ ನಿಲ್ಲಲು ಬಿಡಿ. \n \n ಹಂತ 4 \n ಸಿದ್ಧಪಡಿಸಿದ ಪೈ ಕ್ರಸ್ಟ್ನಲ್ಲಿ ಭರ್ತಿ ಮಾಡಿ. ಚುಕ್ಕೆಗಳ ಮೇಲೆ ಬೆಣ್ಣೆ ಹಾಕಿ, ಮೇಲ್ಭಾಗದ ಕ್ರಸ್ಟ್ನಿಂದ ಮುಚ್ಚಿ. ಮೇಲ್ಮೈ ಮತ್ತು ಕೆಳಭಾಗದ ಹೊರಪದರದ ಅಂಚುಗಳನ್ನು ನೀರಿನಿಂದ ಮುಚ್ಚಿಕೊಳ್ಳಿ. \n \n ಹಂತ 5 \n ಪೇಸ್ಟ್ರಿ ಬ್ರಷ್ ಬಳಸಿ, ಪೈ ಮೇಲೆ ಹಳದಿ ಲೋಳೆಯನ್ನು ಅನ್ವಯಿಸಿ. \n \n ಹಂತ 6 \n ಸಕ್ಕರೆಯೊಂದಿಗೆ ಸಿಂಪಡಿಸಿ. \n \n ಹಂತ 7 \n ಉಗಿ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಸಣ್ಣ ರಂಧ್ರಗಳನ್ನು ಕತ್ತರಿಸಿ. \n \n ಹಂತ 8 \n 400 ಡಿಗ್ರಿ ಎಫ್ (200 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್) ನಲ್ಲಿ, 35 ರಿಂದ 40 ನಿಮಿಷಗಳ ಕಾಲ, ಅಥವಾ ಬಬ್ಲಿ ಮತ್ತು ಕಂದು ಬಣ್ಣಕ್ಕೆ ಬೇಯಿಸಿ. ರ್ಯಾಕ್ನಲ್ಲಿ ತಂಪಾಗಿಸಿ. \n \n ಹಂತ 9 \n ಆನಂದಿಸಿ!",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_162": {
+        "imagename": "v1_162.jpg",
+        "question": "ಈ ಖಾದ್ಯವನ್ನು ಬೇಯಿಸುವುದು ಹೇಗೆ?",
+        "answer": "ಈ ಖಾದ್ಯವನ್ನು \"ಅಧಿಕೃತ ಚೀನೀ ಎಗ್ ರೋಲ್ಸ್\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಈ ಚೈನೀಸ್ ಎಗ್ ರೋಲ್ಗಳು ನನ್ನ ತಾಯಿಯಿಂದ ಬಂದಿವೆ, ಅವರು ಎಂದೆಂದಿಗೂ ಅತ್ಯುತ್ತಮ ಅಡುಗೆಯವರು-ಮತ್ತು ನಾನು ಅಚ್ಚುಕಟ್ಟಾದ ತಿನ್ನುವವಳು. ನನಗೆ ಇದು ಇಷ್ಟವಾದರೆ, ನೀವು ಮಾಡುತ್ತೀರಿ. ಇದು ತುಂಬಾ ಅಧಿಕೃತವಾಗಿದೆ ಏಕೆಂದರೆ ನನ್ನ ಕುಟುಂಬವು ಚೀನೀಯರು ಮತ್ತು ನಾನೂ ಸಹ. ಈ ಪಾಕವಿಧಾನವು ಲಿಂಗ್ ಕುಟುಂಬದಲ್ಲಿ ಕನಿಷ್ಠ 300 ವರ್ಷಗಳಷ್ಟು ಹಳೆಯದಾಗಿದೆ. \n \n \n ತಯಾರಿಕಾ ಸಮಯಃ \n 1 ಗಂಟೆ \n ಅಡುಗೆ ಸಮಯಃ \n 30 ನಿಮಿಷ \n ಹೆಚ್ಚುವರಿ ಸಮಯಃ \n 1 ಗಂಟೆ \n ಒಟ್ಟು ಸಮಯಃ \n 2 ಗಂಟೆಗಳು \n 20 \n ಇಳುವರಿಃ \n 20 ಮೊಟ್ಟೆಯ ಸುರುಳಿಗಳು \n \n \n ಪದಾರ್ಥಗಳು \n \n 4 ಟೀಚಮಚ ತರಕಾರಿ ಎಣ್ಣೆ, ವಿಂಗಡಿಸಲಾಗಿದೆ \n \n 3 ದೊಡ್ಡ ಮೊಟ್ಟೆಗಳು, ಹೊಡೆದ \n \n 1 ಮಧ್ಯಮ ತಲೆ ಎಲೆಕೋಸು, ನುಣ್ಣಗೆ ಚೂರುಚೂರು \n \n [00 1⁄2 ಕ್ಯಾರೆಟ್, ಜೂಲಿಯೆನ್ಡ್ \n \n 1 ಪೌಂಡ್ ಚೈನೀಸ್ ಬಾರ್ಬೆ ತುರಿದ ಮೊಟ್ಟೆಗಳನ್ನು ಸುರಿಯಿರಿ ಮತ್ತು ಗಟ್ಟಿಯಾಗುವವರೆಗೆ ಬೆರೆಸದೆಯೇ ಬೇಯಿಸಿ. ಮೊಟ್ಟೆಗಳನ್ನು ತಿರುಗಿಸಿ ಮತ್ತು ಇನ್ನೊಂದು ಬದಿಯನ್ನು ಗಟ್ಟಿಯಾಗಿಸಲು ಹೆಚ್ಚುವರಿ 20 ಸೆಕೆಂಡುಗಳ ಕಾಲ ಬೇಯಿಸಿ. ಎಗ್ ಪ್ಯಾನ್ಕೇಕ್ ಅನ್ನು ತಣ್ಣಗಾಗಲು ಪಕ್ಕಕ್ಕೆ ಇರಿಸಿ, ನಂತರ ತೆಳುವಾದ ಪಟ್ಟಿಗಳಾಗಿ ಕತ್ತರಿಸಿ. \n \n ಹಂತ 2 \n ಉಳಿದ ಸಸ್ಯಜನ್ಯ ಎಣ್ಣೆಯನ್ನು ದೊಡ್ಡ ಬಾಣಲೆ ಅಥವಾ ದೊಡ್ಡ ಬಾಣಲೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಶಾಖದ ಮೇಲೆ ಬಿಸಿ ಮಾಡಿ. ಎಲೆಕೋಸು ಮತ್ತು ಕ್ಯಾರೆಟ್ ಅನ್ನು ಬೆರೆಸಿ; 2 ನಿಮಿಷಗಳ ಕಾಲ ಬೇಯಿಸಿ. ಹಂದಿಮಾಂಸ, ಬಿದಿರಿನ ಚಿಗುರುಗಳು, ಅಣಬೆ, ಹಸಿರು ಈರುಳ್ಳಿ, ಸೋಯಾ ಸಾಸ್, ಉಪ್ಪು, ಸಕ್ಕರೆ ಮತ್ತು ಎಂಎಸ್ಜಿ ಸೇರಿಸಿ; ತರಕಾರಿಗಳು ಮೃದುವಾಗುವವರೆಗೆ ಬೇಯಿಸುವುದನ್ನು ಮುಂದುವರಿಸಿ, ಸುಮಾರು 6 ನಿಮಿಷಗಳು. ಕತ್ತರಿಸಿದ ಮೊಟ್ಟೆಯನ್ನು ಬೆರೆಸಿ, ನಂತರ ಮಿಶ್ರಣವನ್ನು ಪ್ಯಾನ್ನಲ್ಲಿ ಹರಡಿ, ಸುಮಾರು 1 ಗಂಟೆ ತಣ್ಣಗಾಗುವವರೆಗೆ ಶೈತ್ಯೀಕರಣಗೊಳಿಸಿ. \n \n ಹಂತ 3 \n ಮೊಟ್ಟೆಯ ಸುರುಳಿಗಳನ್ನು ಜೋಡಿಸಲುಃ ನಿಮ್ಮ ಕೆಲಸದ ಮೇಲ್ಮೈಯಲ್ಲಿ ಒಂದು ಹೊದಿಕೆಯನ್ನು ಇರಿಸಿ, ಒಂದು ಮೂಲೆಯು ನಿಮ್ಮ ಕಡೆಗೆ ತೋರಿಸುತ್ತದೆ. ಸುಮಾರು 3 ಟೇಬಲ್ಸ್ಪೂನ್ಗಳಷ್ಟು ತಂಪಾದ ತುಂಬುವಿಕೆಯನ್ನು ಹೊದಿಕೆಯ ಕೆಳಭಾಗದ ಮೂರನೇ ಭಾಗದಲ್ಲಿ ಇರಿಸಿ. ಸ್ವಲ್ಪ ಹೊಡೆದ ಮೊಟ್ಟೆಯ ಬಿಳಿ ಭಾಗವನ್ನು ಹೊದಿಕೆಯ ಮೇಲಿನ ಎರಡು ಅಂಚುಗಳ ಮೇಲೆ ಬ್ರಷ್ ಮಾಡಿ, ನಂತರ ಕೆಳಗಿನ ಮೂಲೆಯನ್ನು ತುಂಬುವಿಕೆಯ ಮೇಲೆ ಪದರ ಮಾಡಿ ಮತ್ತು ಅರ್ಧದಾರಿಯಲ್ಲೇ ದೃಢವಾಗಿ ಸುತ್ತಿಕೊಳ್ಳಿ. ಎಡ ಮತ್ತು ಬಲ ಬದಿಗಳನ್ನು ಮೊಟ್ಟೆಯ ಸುರುಳಿಯ ಮೇಲೆ ಮೃದುವಾಗಿ ಮಡಚಿ, ನಂತರ ಮೇಲಿನ ಮೂಲೆಗಳು ಮೊಟ್ಟೆಯ ಸುರುಳಿಯನ್ನು ಮೊಟ್ಟೆಯ ಬಿಳಿ ಬಣ್ಣದಿಂದ ಮುಚ್ಚುವವರೆಗೆ ಉರುಳಿಸುವುದನ್ನು ಮುಂದುವರಿಸಿ. ಉಳಿದ ಮೊಟ್ಟೆಯ ಸುರುಳಿ ಹೊದಿಕೆಗಳೊಂದಿಗೆ ಪುನರಾವರ್ತಿಸಿ, ಒಣಗುವುದನ್ನು ತಪ್ಪಿಸಲು ಸಿದ್ಧಪಡಿಸಿದ ಮೊಟ್ಟೆಯ ಸುರುಳಿಗಳನ್ನು ಪ್ಲಾಸ್ಟಿಕ್ ಹೊದಿಕೆಯಿಂದ ಮುಚ್ಚಿ. \n \n ಹಂತ 4 \n ಸುಮಾರು 6 ಇಂಚುಗಳಷ್ಟು ಎಣ್ಣೆಯನ್ನು ಬಾಣಲೆ ಅಥವಾ ಡೀಪ್ ಫ್ರೈಯರ್ನಲ್ಲಿ 350 ಡಿಗ್ರಿ ಎಫ್ (175 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್) ಗೆ ಬಿಸಿ ಮಾಡಿ. \n \n ಹಂತ 5 \n ಫ್ರೈ ಎಗ್ ಗೋಲ್ಡನ್ ಬ್ರೌನ್, 5 ರಿಂದ 7 ನಿಮಿಷಗಳವರೆಗೆ ಒಂದು ಸಮಯದಲ್ಲಿ 3 ಅಥವಾ 4 ರೋಲ್ಗಳನ್ನು ಸುತ್ತುತ್ತದೆ. ಕಾಗದದ ಟವೆಲ್ಗಳ ಮೇಲೆ ಹರಡಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_163": {
+        "imagename": "v1_163.jpg",
+        "question": "ಈ ಖಾದ್ಯವನ್ನು ಬೇಯಿಸುವುದು ಹೇಗೆ?",
+        "answer": "ಈ ಖಾದ್ಯವನ್ನು \"ಚಾಕೊಲೇಟ್ ಲೇಪಿತ ಕಡಲೆಕಾಯಿ ಬೆಣ್ಣೆ ಕ್ರ್ಯಾಕರ್ಸ್\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. \n \n ಸಿದ್ಧತೆಯ ಸಮಯಃ \n 30 ನಿಮಿಷಗಳು \n ಅಡುಗೆ ಸಮಯಃ \n 5 ನಿಮಿಷಗಳು \n ಹೆಚ್ಚುವರಿ ಸಮಯಃ \n 15 ನಿಮಿಷಗಳು \n ಒಟ್ಟು ಸಮಯಃ \n 50 ನಿಮಿಷಗಳು \n ಸೇವೆಃ \n 40 \n ಇಳುವರಿಃ \n 40 ಸ್ಯಾಂಡ್ವಿಚ್ ಕುಕೀಗಳು \n \n ಪದಾರ್ಥಗಳು \n 3⁄4 ಕಪ್ ಕೆನೆ ಅಥವಾ ಖಾರದ ಕಡಲೆಕಾಯಿ ಬೆಣ್ಣೆ \n \n 2 ಪೌಂಡ್ ಚಾಕೊಲೇಟ್ ಬಾದಾಮಿ ತೊಗಟೆಯನ್ನು ತುಂಡುಗಳಾಗಿ ಕತ್ತರಿಸಿ \n \n 80 ಬಟ್ಟರಿ ರೌಂಡ್ ಕ್ರ್ಯಾಕರ್ಗಳು (ರಿಟ್ಜ್ ® ನಂತಹವು) \n \n 2 1⁄4 ಔನ್ಸ್ ಬಣ್ಣದ ಕ್ಯಾಂಡಿ ಸಿಂಪಡಣೆಗಳು ಕಡಲೆಕಾಯಿ ಬೆಣ್ಣೆ ತುಂಬಿದ 40 ಸ್ಯಾಂಡ್ವಿಚ್ ಕುಕೀಗಳನ್ನು ರೂಪಿಸಲು ಕಡಲೆಕಾಯಿ ಬೆಣ್ಣೆಯ ಬದಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಒತ್ತಿರಿ. \n \n ಹಂತ 2 \n ಬಾದಾಮಿ ತೊಗಟೆಯನ್ನು ಡಬಲ್ ಬಾಯ್ಲರ್ನ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಬಿಸಿ, ಆದರೆ ಕುದಿಯುವ ನೀರಿನ ಮೇಲೆ ಕರಗಿಸಿ. ಶಾಖವನ್ನು ಕಡಿಮೆ ಮಾಡಿ ಮತ್ತು ಕರಗಿದ ಚಾಕೊಲೇಟ್ ಅನ್ನು ಕುದಿಯುವ ನೀರಿನ ಮೇಲೆ ಡಬಲ್ ಬಾಯ್ಲರ್ನ ಮೇಲೆ ಇರಿಸಿ. \n \n ಹಂತ 3 \n ಪ್ರತಿ ಸ್ಯಾಂಡ್ವಿಚ್ ಕುಕಿಯನ್ನು ಕರಗಿಸಿದ ಚಾಕೊಲೇಟ್ನಲ್ಲಿ ಮುಳುಗಿಸಿ, ಹೆಚ್ಚುವರಿ ಪದಾರ್ಥವನ್ನು ಮತ್ತೆ ಮಡಕೆಗೆ ಹರಿಯಲು ಅವಕಾಶ ಮಾಡಿಕೊಡಿ. \n \n ಹಂತ 4 \n ಮೇಣದ ಕಾಗದದ ಮೇಲೆ ಲೇಪಿತ ಕುಕೀಗಳನ್ನು ಇರಿಸಿ ಮತ್ತು ತಕ್ಷಣವೇ ಕ್ಯಾಂಡಿ ಸಿಂಪಡಣೆಯಿಂದ ಚಿಮುಕಿಸಿ ಅವು ಕರಗಿದ ಚಾಕೊಲೇಟ್ಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ. \n \n ಹಂತ 5 \n ಸುಮಾರು 15 ನಿಮಿಷಗಳ ಕಾಲ ಚಾಕೊಲೇಟ್ ಸೆಟ್ ಆಗುವವರೆಗೆ ಕುಕೀಗಳನ್ನು ರೆಫ್ರಿಜರೇಟರ್ನಲ್ಲಿ ಇರಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_164": {
+        "imagename": "v1_164.jpg",
+        "question": "ಈ ಖಾದ್ಯವನ್ನು ಬೇಯಿಸುವುದು ಹೇಗೆ?",
+        "answer": "ಈ ಖಾದ್ಯವನ್ನು \"ಬ್ರೊಕೊಲಿ ಮತ್ತು ಕ್ಯಾರೆಟ್ ಸ್ಟಿರ್ ಫ್ರೈ\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. \n \n ಸಿದ್ಧತೆಯ ಸಮಯಃ \n 10 ನಿಮಿಷಗಳು \n ಅಡುಗೆ ಸಮಯಃ \n 16 ನಿಮಿಷಗಳು \n ಒಟ್ಟು ಸಮಯಃ \n 26 ನಿಮಿಷಗಳು \n ಪದಾರ್ಥಗಳು \n \n 5 ಕಪ್ಗಳು \n \n ಪದಾರ್ಥಗಳು \n 5 1⁄2 ಕಪ್ಗಳು ಬ್ರೊಕೊಲಿ ಹೂವುಗಳು \n \n 1 ಕ್ಯಾರೆಟ್, ತೆಳುವಾಗಿ ಕತ್ತರಿಸಿದ \n \n 2 ಟೀಚಮಚ ನೀರು \n \n 1 ಟೀಚಮಚ ಕಾರ್ನ್ ಸ್ಟಾರ್ಚ್ \n \n \n 1 ಟೀಚಮಚ ಚಿಕನ್ ಬೌಲ್ಲನ್ ಕಣಗಳು, ಅಥವಾ ರುಚಿಗೆ \n \n ಉಪ್ಪು \n \n 2 ಟೇಬಲ್ಸ್ಪೂನ್ ಕೋಸುಗಡ್ಡೆಯನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಹೊಳೆಯುವ ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ಬರುವವರೆಗೆ ಬೇಯಿಸಿ, ಸುಮಾರು 2 ನಿಮಿಷಗಳು. ಬ್ರೊಕೊಲಿಯನ್ನು ಒಂದು ಬೌಲ್ ಐಸ್ ನೀರಿಗೆ ಸ್ಲಾಟ್ ಮಾಡಿದ ಚಮಚವನ್ನು ಬಳಸಿ ವರ್ಗಾಯಿಸಿ ಮತ್ತು ಅಡುಗೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಿಲ್ಲಿಸಲು ಹಲವಾರು ನಿಮಿಷಗಳ ಕಾಲ ಮುಳುಗಿಸಿ. ನೀರು ಹರಿಸಿ. \n \n ಹಂತ 2 \n ಅದೇ ದೊಡ್ಡ ಪಾತ್ರೆಯಲ್ಲಿ ನೀರನ್ನು ಕುದಿಸಿ; ಕತ್ತರಿಸಿದ ಕ್ಯಾರೆಟ್ ಸೇರಿಸಿ ಮತ್ತು 1 ನಿಮಿಷ ಬೇಯಿಸಿ. ನೀರು ಹರಿಸಿ. \n \n ಹಂತ 3 \n ನೀರು ಮತ್ತು ಕಾರ್ನ್ ಸ್ಟಾರ್ಚ್ ಅನ್ನು ಒಂದು ಬಟ್ಟಲಿನಲ್ಲಿ ನಯವಾಗುವವರೆಗೆ ಮಿಶ್ರಣ ಮಾಡಿ. ಚಿಕನ್ ತುಂಡುಗಳು ಮತ್ತು ಉಪ್ಪು ಸೇರಿಸಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ. \n \n ಹಂತ 4 \n ಕಡಲೆಕಾಯಿ ಎಣ್ಣೆಯನ್ನು ಕಡಾಯಿಯಲ್ಲಿ ಅಥವಾ ದೊಡ್ಡ ಬಾಣಲೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಉರಿಯಲ್ಲಿ ಬಿಸಿ ಮಾಡಿ; ಬ್ರೊಕೊಲಿ ಮತ್ತು ಕ್ಯಾರೆಟ್ಗಳನ್ನು 2 ನಿಮಿಷಗಳ ಕಾಲ ಹುರಿಯಿರಿ. ಕಾರ್ನ್ ಸ್ಟಾರ್ಚ್ ಮಿಶ್ರಣವನ್ನು ಸೇರಿಸಿ; ಬೇಯಿಸಿ ಮತ್ತು ತರಕಾರಿಗಳು ಸಮವಾಗಿ ಲೇಪಿತವಾಗುವವರೆಗೆ, 1 ರಿಂದ 2 ನಿಮಿಷಗಳ ಕಾಲ ಬೆರೆಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_165": {
+        "imagename": "v1_165.jpg",
+        "question": "ಈ ಖಾದ್ಯವನ್ನು ಬೇಯಿಸುವುದು ಹೇಗೆ?",
+        "answer": "ಈ ಖಾದ್ಯವನ್ನು \"ಕ್ರೀಮ್ ಚೀಸ್ ಮತ್ತು ಕ್ರ್ಯಾಬ್ ಸುಶಿ ರೋಲ್ಸ್\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. \n \n ಸಿದ್ಧತೆಯ ಸಮಯಃ \n 20 ನಿಮಿಷಗಳು \n ಅಡುಗೆ ಸಮಯಃ \n 20 ನಿಮಿಷಗಳು \n ಒಟ್ಟು ಸಮಯಃ \n 40 ನಿಮಿಷಗಳು \n ಸೇವಿಸುವಿಕೆಃ \n 2 \n ಇಳುವರಿಃ \n 2 ಸುಶಿ ರೋಲ್ಗಳು \n \n \n ಪದಾರ್ಥಗಳು \n 1 ಕಪ್ ಬೇಯಿಸದ ಬಿಳಿ ಅಕ್ಕಿ \n \n 2 ಕಪ್ ನೀರು \n \n 2 ಟೇಬಲ್ಸ್ಪೂನ್ ಅಕ್ಕಿ ವಿನೆಗರ್ \n \n 1 ಟೀಚಮಚ ಉಪ್ಪು \n \n \n 2 ಹಾಳೆಗಳ ನೊರಿ ಕಡಲಕಳೆ ಹಾಳೆಗಳು \n \n \n ಸೌತೆಕಾಯಿ, ಸಿಪ್ಪೆ ಸುಲಿದ ಮತ್ತು ಉದ್ದವಾಗಿ ಕತ್ತರಿಸಿದ \n \n 2 \n ಹಂತ 2 \n ಅಕ್ಕಿ ಮತ್ತು ನೀರನ್ನು ಹೆಚ್ಚಿನ ಶಾಖದ ಮೇಲೆ ಲೋಹದ ಬೋಗುಣಿಗೆ ಕುದಿಸಿ. ಶಾಖವನ್ನು ಮಧ್ಯಮ-ಕಡಿಮೆ ಮಾಡಿ, ಅಕ್ಕಿ ಮೃದುವಾಗುವವರೆಗೆ ಮುಚ್ಚಿ, ಮತ್ತು ದ್ರವವು ಹೀರಿಕೊಳ್ಳುವವರೆಗೆ, 20 ರಿಂದ 25 ನಿಮಿಷಗಳವರೆಗೆ ಕುದಿಸಿ. ಅಕ್ಕಿ ವಿನೆಗರ್ ಮತ್ತು ಉಪ್ಪನ್ನು ಬೆರೆಸಿ. ಸಂಪೂರ್ಣವಾಗಿ ತಂಪು ಮಾಡಲು ಅನುಮತಿಸಿ. \n ಹಂತ 3 \n ಕಡಲಕಳೆ ಹಾಳೆಗಳನ್ನು ಹಾಕಿ. ಕೈಗಳನ್ನು ನೀರಿನಿಂದ ತೇವಗೊಳಿಸಿ, ನಂತರ ತಂಪಾದ ಅಕ್ಕಿಯನ್ನು ಪ್ರತಿ ಹಾಳೆಯ ಮೇಲೆ ಸಮವಾಗಿ ಹರಡಿ, ಒಂದು ತುದಿಯಲ್ಲಿ ಅರ್ಧ ಇಂಚಿನ ಅಂತರವನ್ನು ಉದ್ದವಾಗಿ ಬಿಡಿ. ಸೌತೆಕಾಯಿ, ಅನುಕರಣೆ ಕ್ರ್ಯಾಬ್ಮೀಟ್ ಮತ್ತು ಕೆನೆ ಚೀಸ್ನ ಪಟ್ಟಿಗಳನ್ನು ಅಕ್ಕಿಯ ಮೇಲೆ ಅಂತರದ ಎದುರು ಬದಿಯಲ್ಲಿ ನೇರ ರೇಖೆಯಲ್ಲಿ ಜೋಡಿಸಿ. ಸುಷಿಯನ್ನು ಮೇಲಿನಿಂದ ಕಡಲಕಳೆ ಹಾಳೆಯ ತೆರೆದ ತುದಿಯವರೆಗೆ ಸುತ್ತಿಕೊಳ್ಳಿ. \n ಹಂತ 4 \n ತೀಕ್ಷ್ಣವಾದ ಒದ್ದೆಯಾದ ಚಾಕುವನ್ನು ಬಳಸಿ, ಪ್ರತಿ ರೋಲ್ ಅನ್ನು 5 ಅಥವಾ 6 ತುಂಡುಗಳಾಗಿ ಕತ್ತರಿಸಿ. ಪಕ್ಕದಲ್ಲಿ ತುರಿದ ಶುಂಠಿಯೊಂದಿಗೆ ಬಡಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_166": {
+        "imagename": "v1_166.jpg",
+        "question": "ಈ ಖಾದ್ಯವನ್ನು ಬೇಯಿಸುವುದು ಹೇಗೆ?",
+        "answer": "ಈ ಖಾದ್ಯವನ್ನು \"ಸಸ್ಯಾಹಾರಿ ಸಿಹಿ ಆಲೂಗಡ್ಡೆ ಕಡಲೆ ಕರಿ\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. \n \n ಸಿದ್ಧತೆಯ ಸಮಯಃ \n 10 ನಿಮಿಷ \n ಅಡುಗೆ ಸಮಯಃ \n 20 ನಿಮಿಷ \n ಒಟ್ಟು ಸಮಯಃ \n 30 ನಿಮಿಷ \n ಪದಾರ್ಥಗಳು \n 3 ಟೇಬಲ್ಸ್ಪೂನ್ ಆಲಿವ್ ಎಣ್ಣೆ \n \n 1 ಈರುಳ್ಳಿ, ಕತ್ತರಿಸಿದ \n \n 2 ಲವಂಗ ಬೆಳ್ಳುಳ್ಳಿ, ಕತ್ತರಿಸಿದ \n \n 2 ಟೀಚಮಚ ಕತ್ತರಿಸಿದ ತಾಜಾ ಶುಂಠಿ ಬೇರು \n \n 1 (15 ಔನ್ಸ್) ಕಡಲೆಕಾಯಿಗಳು, ಒಣಗಿದ \n \n 1 (14.5 ಔನ್ಸ್) ಕತ್ತರಿಸಿದ ಟೊಮೆಟೊ \n \n 1 (14 ಔನ್ಸ್) ಮಾಡಬಹುದು ಈರುಳ್ಳಿ, ಬೆಳ್ಳುಳ್ಳಿ ಮತ್ತು ಶುಂಠಿಯನ್ನು ಬಿಸಿ ಎಣ್ಣೆಯಲ್ಲಿ ಮೃದುವಾಗುವವರೆಗೆ, ಸುಮಾರು 5 ನಿಮಿಷಗಳ ಕಾಲ ಬೇಯಿಸಿ. ಆಲೂಗಡ್ಡೆ, ಕ್ಯಾರೆಟ್, ಟೊಮೆಟೊ ಚೂರುಗಳು ಮತ್ತು ಮರಿಗಳು ಸೇರಿಸಿ. ಕುದಿಸಿ, ಶಾಖವನ್ನು ಕಡಿಮೆ ಮಾಡಿ, ಮತ್ತು ಸುಮಾರು 15 ನಿಮಿಷಗಳ ಕಾಲ ಮೃದುವಾಗುವವರೆಗೆ ಕುದಿಸಿ. \n ಹಂತ 2 \n ಗರಂ ಮಸಾಲಾ, ಜೀರಿಗೆ, ಅರಿಶಿನ, ಉಪ್ಪು ಮತ್ತು ಮೆಣಸಿನ ಪದರಗಳೊಂದಿಗೆ ಸೀಸನ್ ಮಾಡಿ. ಬಡಿಸುವ ಮೊದಲು ಅದಕ್ಕೆ ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು ಸೇರಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_167": {
+        "imagename": "v1_167.jpg",
+        "question": "ಈ ಖಾದ್ಯವನ್ನು ಬೇಯಿಸುವುದು ಹೇಗೆ?",
+        "answer": "ಈ ಖಾದ್ಯವನ್ನು \"ಲೈಮ್ ಚಿಕನ್ ಸಾಫ್ಟ್ ಟಕೋಸ್\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. \n \n ಸಿದ್ಧತೆಯ ಸಮಯಃ \n 20 ನಿಮಿಷಗಳು \n ಅಡುಗೆ ಸಮಯಃ \n 30 ನಿಮಿಷಗಳು \n ಒಟ್ಟು ಸಮಯಃ \n 50 ನಿಮಿಷಗಳು \n ಇಳುವರಿಃ \n 10 ಭಾಗಗಳು \n \n ಪದಾರ್ಥಗಳು \n 1 1⁄2 ಪೌಂಡ್ ಚರ್ಮರಹಿತ, ಮೂಳೆಗಳಿಲ್ಲದ ಕೋಳಿ ಸ್ತನ ಮಾಂಸ-2 ಹಸಿರು ಈರುಳ್ಳಿ, ಕತ್ತರಿಸಿದ \n \n 1⁄8 ಕಪ್ ಕೆಂಪು ವೈನ್ ವಿನೆಗರ್ \n \n 1⁄2 ನಿಂಬೆ ರಸ, 2 ಲವಂಗ ಬೆಳ್ಳುಳ್ಳಿ, ಕತ್ತರಿಸಿದ \n \n 1 ಟೀಚಮಚ ಒಣಗಿದ ಓರೆಗಾನೊ \n \n 1 ಟೀಚಮಚ ಬಿಳಿ ಸಕ್ಕರೆ \n \n ಹಸಿರು ಈರುಳ್ಳಿ, ವಿನೆಗರ್, ನಿಂಬೆ ರಸ, ಬೆಳ್ಳುಳ್ಳಿ, ಓರೆಗಾನೊ, ಸಕ್ಕರೆ, ಉಪ್ಪು ಮತ್ತು ಮೆಣಸು ಸೇರಿಸಿ. ಕಡಿಮೆ ಉರಿಯಲ್ಲಿ 10 ನಿಮಿಷಗಳ ಕಾಲ ಕುದಿಸಿ. \n ಹಂತ 2 \n ಕಬ್ಬಿಣದ ಬಾಣಲೆಯನ್ನು ಮಧ್ಯಮ ಉರಿಯಲ್ಲಿ ಬಿಸಿ ಮಾಡಿ. ಪ್ಯಾನ್ನಲ್ಲಿ ಟೋರ್ಟಿಲ್ಲಾವನ್ನು ಇರಿಸಿ, ಬೆಚ್ಚಗಾಗಿಸಿ ಮತ್ತು ಇನ್ನೊಂದು ಬದಿಯನ್ನು ಬಿಸಿ ಮಾಡಲು ತಿರುಗಿಸಿ. ಉಳಿದಿರುವ ಟೋರ್ಟಿಲ್ಲಾಗಳೊಂದಿಗೆ ಪುನರಾವರ್ತಿಸಿ. ನಿಂಬೆ ಚಿಕನ್ ಮಿಶ್ರಣವನ್ನು ಟೊಮೆಟೊ, ಲೆಟಿಸ್, ಚೀಸ್ ಮತ್ತು ಸಾಲ್ಸಾದೊಂದಿಗೆ ಬೆಚ್ಚಗಿನ ಟೋರ್ಟಿಲ್ಲಾಗಳಲ್ಲಿ ಬಡಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_168": {
+        "imagename": "v1_168.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "1982ರ ಸ್ಟೀಫನ್ ಕಿಂಗ್ ಕಾದಂಬರಿ ರೀಟಾ ಹೇವರ್ತ್ ಮತ್ತು ಶಾಶಾಂಕ್ ರಿಡೆಂಪ್ಶನ್ ಅನ್ನು ಆಧರಿಸಿದ ಫ್ರಾಂಕ್ ಡಾರಾಬೊಂಟ್ ಬರೆದ ಮತ್ತು ನಿರ್ದೇಶಿಸಿದ 1994ರ ಅಮೇರಿಕನ್ ನಾಟಕ ಚಲನಚಿತ್ರ ದಿ ಶಾಶಾಂಕ್ ರಿಡೆಂಪ್ಶನ್. ಈ ಚಿತ್ರವು ಬ್ಯಾಂಕರ್ ಆಂಡಿ ಡುಫ್ರೆಸ್ನೆ (ಟಿಮ್ ರಾಬಿನ್ಸ್) ಅವರ ಕಥೆಯನ್ನು ಹೇಳುತ್ತದೆ, ಆತ ನಿರಪರಾಧಿಯೆಂದು ಹೇಳಿಕೊಂಡರೂ, ತನ್ನ ಪತ್ನಿ ಮತ್ತು ಆಕೆಯ ಪ್ರೇಮಿಯ ಕೊಲೆಗಳಿಗಾಗಿ ಶಾಶಾಂಕ್ ರಾಜ್ಯ ಸೆರೆಮನೆಯಲ್ಲಿ ಜೀವಾವಧಿ ಶಿಕ್ಷೆಗೆ ಗುರಿಯಾಗುತ್ತಾನೆ. ಮುಂದಿನ ಎರಡು ದಶಕಗಳಲ್ಲಿ, ಅವನು ಸಹ ಖೈದಿ, ನಿಷೇಧಿತ ಕಳ್ಳಸಾಗಣೆದಾರ ಎಲ್ಲಿಸ್ \"ರೆಡ್\" ರೆಡ್ಡಿಂಗ್ (ಮೋರ್ಗನ್ ಫ್ರೀಮನ್) ನೊಂದಿಗೆ ಸ್ನೇಹ ಬೆಳೆಸುತ್ತಾನೆ ಮತ್ತು ಜೈಲು ವಾರ್ಡನ್ ಸ್ಯಾಮ್ಯುಯೆಲ್ ನಾರ್ಟನ್ (ಬಾಬ್ ಗುಂಟನ್) ನೇತೃತ್ವದ ಮನಿ ಲಾಂಡರಿಂಗ್ ಕಾರ್ಯಾಚರಣೆಯಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತಾನೆ. ವಿಲಿಯಂ ಸ್ಯಾಡ್ಲರ್, ಕ್ಲಾನ್ಸಿ ಬ್ರೌನ್, ಗಿಲ್ ಬೆಲ್ಲೋಸ್ ಮತ್ತು ಜೇಮ್ಸ್ ವಿಟ್ಮೋರ್ ಪೋಷಕ ಪಾತ್ರಗಳಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_169": {
+        "imagename": "v1_169.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ದಿ ಗಾಡ್ಫಾದರ್ ಎಂಬುದು ಫ್ರಾನ್ಸಿಸ್ ಫೋರ್ಡ್ ಕೊಪ್ಪೊಲಾ ನಿರ್ದೇಶಿಸಿದ 1972ರ ಅಮೇರಿಕನ್ ಅಪರಾಧ ಚಲನಚಿತ್ರವಾಗಿದ್ದು, ಅದೇ ಶೀರ್ಷಿಕೆಯ 1969ರಲ್ಲಿ ಹೆಚ್ಚು ಮಾರಾಟವಾದ ಪುಜೋ ಅವರ ಕಾದಂಬರಿಯನ್ನು ಆಧರಿಸಿದ ಚಿತ್ರಕಥೆಯನ್ನು ಮಾರಿಯೋ ಪುಜೋ ಅವರೊಂದಿಗೆ ಸಹ-ಬರೆದಿದ್ದಾರೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ಮರ್ಲಾನ್ ಬ್ರಾಂಡೊ, ಅಲ್ ಪಸಿನೊ, ಜೇಮ್ಸ್ ಕಾನ್, ರಿಚರ್ಡ್ ಕ್ಯಾಸ್ಟೆಲ್ಲಾನೊ, ರಾಬರ್ಟ್ ದುವಾಲ್, ಸ್ಟರ್ಲಿಂಗ್ ಹೇಡನ್, ಜಾನ್ ಮಾರ್ಲೆ, ರಿಚರ್ಡ್ ಕಾಂಟೆ ಮತ್ತು ಡಯೇನ್ ಕೀಟನ್ ನಟಿಸಿದ್ದಾರೆ. ಇದು ದಿ ಗಾಡ್ಫಾದರ್ ಟ್ರೈಲಾಜಿಯ ಮೊದಲ ಕಂತು, ಇದು 1945 ರಿಂದ 1955 ರವರೆಗೆ ಪಿತೃಪ್ರಭುತ್ವದ ವಿಟೊ ಕಾರ್ಲಿಯೋನ್ (ಬ್ರಾಂಡೊ) ಅಡಿಯಲ್ಲಿ ಕಾರ್ಲಿಯೋನ್ ಕುಟುಂಬವನ್ನು ನಿರೂಪಿಸುತ್ತದೆ. ಇದು ಅವನ ಕಿರಿಯ ಮಗ ಮೈಕೆಲ್ ಕಾರ್ಲಿಯೋನ್ (ಪಸಿನೊ), ಇಷ್ಟವಿಲ್ಲದ ಕುಟುಂಬದ ಹೊರಗಿನವನಿಂದ ನಿರ್ದಯ ಮಾಫಿಯಾ ಮುಖ್ಯಸ್ಥನಾಗಿ ಪರಿವರ್ತನೆಯಾಗುವುದರ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_170": {
+        "imagename": "v1_170.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ದಿ ಡಾರ್ಕ್ ನೈಟ್ ಕ್ರಿಸ್ಟೋಫರ್ ನೋಲನ್ ಅವರು ತಮ್ಮ ಸಹೋದರ ಜೊನಾಥನ್ ಅವರೊಂದಿಗೆ ಸಹ-ಬರೆದ ಚಿತ್ರಕಥೆಯಿಂದ ನಿರ್ದೇಶಿಸಿದ 2008ರ ಸೂಪರ್ಹೀರೋ ಚಲನಚಿತ್ರವಾಗಿದೆ. ಡಿಸಿ ಕಾಮಿಕ್ಸ್ ಸೂಪರ್ ಹೀರೋ ಬ್ಯಾಟ್ಮ್ಯಾನ್ನನ್ನು ಆಧರಿಸಿದ ಇದು ಬ್ಯಾಟ್ಮ್ಯಾನ್ ಬಿಗಿನ್ಸ್ (2005) ನ ಉತ್ತರಭಾಗ ಮತ್ತು ದಿ ಡಾರ್ಕ್ ನೈಟ್ ಟ್ರೈಲಾಜಿಯ ಎರಡನೇ ಕಂತು. ಕಥಾವಸ್ತುವು ಜಾಗೃತ ಬ್ಯಾಟ್ಮ್ಯಾನ್, ಪೊಲೀಸ್ ಲೆಫ್ಟಿನೆಂಟ್ ಜೇಮ್ಸ್ ಗಾರ್ಡನ್ ಮತ್ತು ಜಿಲ್ಲಾ ವಕೀಲ ಹಾರ್ವೆ ಡೆಂಟ್ ಅವರನ್ನು ಅನುಸರಿಸುತ್ತದೆ, ಅವರು ಗೊಥಮ್ ಸಿಟಿಯಲ್ಲಿ ಸಂಘಟಿತ ಅಪರಾಧವನ್ನು ನಿರ್ಮೂಲನೆ ಮಾಡಲು ಮೈತ್ರಿ ಮಾಡಿಕೊಳ್ಳುತ್ತಾರೆ. ನಗರವನ್ನು ಅವ್ಯವಸ್ಥೆಯಿಂದ ರಕ್ಷಿಸಲು ಬ್ಯಾಟ್ಮ್ಯಾನ್ ಎಷ್ಟು ದೂರ ಹೋಗುತ್ತಾನೆ ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಲು ಪ್ರಯತ್ನಿಸುವ ಅರಾಜಕತಾವಾದಿ ಮಾಸ್ಟರ್ ಮೈಂಡ್ ಜೋಕರ್ ಅವರ ಪ್ರಯತ್ನಗಳನ್ನು ಹಳಿ ತಪ್ಪಿಸುತ್ತಾನೆ. ಈ ತಂಡದ ಪಾತ್ರವರ್ಗದಲ್ಲಿ ಕ್ರಿಶ್ಚಿಯನ್ ಬೇಲ್, ಮೈಕೆಲ್ ಕೇನ್, ಹೀತ್ ಲೆಡ್ಜರ್, ಗ್ಯಾರಿ ಓಲ್ಡ್ಮನ್, ಆರನ್ ಎಕ್ಹಾರ್ಟ್, ಮ್ಯಾಗಿ ಗಿಲೆನ್ಹಾಲ್ ಮತ್ತು ಮಾರ್ಗನ್ ಫ್ರೀಮನ್ ಸೇರಿದ್ದಾರೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_171": {
+        "imagename": "v1_171.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಹನ್ನೆರಡು ಆಂಗ್ರಿ ಮೆನ್ ಎಂಬುದು ನರಹತ್ಯೆಯ ವಿಚಾರಣೆಯ ತೀರ್ಪುಗಾರರ ಬಗ್ಗೆ ರೆಜಿನಾಲ್ಡ್ ರೋಸ್ ಬರೆದ ಅಮೆರಿಕಾದ ನ್ಯಾಯಾಲಯದ ನಾಟಕವಾಗಿದೆ. ಇದನ್ನು ಆರಂಭದಲ್ಲಿ 1954 ರಲ್ಲಿ ದೂರದರ್ಶನ ನಾಟಕವಾಗಿ ಪ್ರಸಾರ ಮಾಡಲಾಯಿತು. ಮುಂದಿನ ವರ್ಷ ಇದನ್ನು ವೇದಿಕೆಗೆ ಅಳವಡಿಸಲಾಯಿತು. ಇದನ್ನು ಸಿಡ್ನಿ ಲ್ಯೂಮೆಟ್ ನಿರ್ದೇಶಿಸಿದ ಅದೇ ಹೆಸರಿನ ಚಲನಚಿತ್ರವೊಂದಕ್ಕೆ ಅಳವಡಿಸಲಾಯಿತು ಮತ್ತು 1957ರಲ್ಲಿ ಬಿಡುಗಡೆಯಾಯಿತು. ಅಂದಿನಿಂದ ಇದಕ್ಕೆ ಹಲವಾರು ರಿಮೇಕ್ಗಳು, ರೂಪಾಂತರಗಳು ಮತ್ತು ಗೌರವಗಳನ್ನು ನೀಡಲಾಗಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_172": {
+        "imagename": "v1_172.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಷಿಂಡ್ಲರ್ಸ್ ಲಿಸ್ಟ್ 1993ರ ಅಮೇರಿಕಾದ ಮಹಾಕಾವ್ಯದ ಐತಿಹಾಸಿಕ ನಾಟಕೀಯ ಚಲನಚಿತ್ರವಾಗಿದ್ದು, ಇದನ್ನು ಸ್ಟೀವನ್ ಸ್ಪೀಲ್ಬರ್ಗ್ ನಿರ್ದೇಶಿಸಿದ್ದಾರೆ ಮತ್ತು ನಿರ್ಮಿಸಿದ್ದಾರೆ ಮತ್ತು ಸ್ಟೀವನ್ ಜೈಲಿಯನ್ ಬರೆದಿದ್ದಾರೆ. ಇದು ಆಸ್ಟ್ರೇಲಿಯಾದ ಕಾದಂಬರಿಕಾರ ಥಾಮಸ್ ಕೆನೆಲಿ ಅವರ 1982ರ ಕಾದಂಬರಿ ಷಿಂಡ್ಲರ್ಸ್ ಆರ್ಕ್ ಅನ್ನು ಆಧರಿಸಿದೆ. ಎರಡನೇ ಮಹಾಯುದ್ಧದ ಸಮಯದಲ್ಲಿ ತನ್ನ ಕಾರ್ಖಾನೆಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡುವ ಮೂಲಕ ಹತ್ಯಾಕಾಂಡದಿಂದ ಸಾವಿರಕ್ಕೂ ಹೆಚ್ಚು ಪೋಲಿಷ್-ಯಹೂದಿ ನಿರಾಶ್ರಿತರನ್ನು ರಕ್ಷಿಸಿದ ಜರ್ಮನ್ ಕೈಗಾರಿಕೋದ್ಯಮಿ ಆಸ್ಕರ್ ಷಿಂಡ್ಲರ್ ಅವರನ್ನು ಈ ಚಿತ್ರವು ಅನುಸರಿಸುತ್ತದೆ. ಇದರಲ್ಲಿ ಷಿಂಡ್ಲರ್ ಪಾತ್ರದಲ್ಲಿ ಲಿಯಾಮ್ ನೀಸನ್, ಎಸ್ಎಸ್ ಅಧಿಕಾರಿ ಅಮೋನ್ ಗೋಥ್ ಪಾತ್ರದಲ್ಲಿ ರಾಲ್ಫ್ ಫಿಯೆನ್ನೆಸ್ ಮತ್ತು ಷಿಂಡ್ಲರ್ನ ಯಹೂದಿ ಅಕೌಂಟೆಂಟ್ ಇಟ್ಜಾಕ್ ಸ್ಟರ್ನ್ ಪಾತ್ರದಲ್ಲಿ ಬೆನ್ ಕಿಂಗ್ಸ್ಲೆ ನಟಿಸಿದ್ದಾರೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_173": {
+        "imagename": "v1_173.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ದಿ ಲಾರ್ಡ್ ಆಫ್ ದಿ ರಿಂಗ್ಸ್ಃ ದಿ ರಿಟರ್ನ್ ಆಫ್ ದಿ ಕಿಂಗ್ 2003ರಲ್ಲಿ ಪೀಟರ್ ಜಾಕ್ಸನ್ ನಿರ್ದೇಶಿಸಿದ ಮಹಾಕಾವ್ಯದ ಫ್ಯಾಂಟಸಿ ಸಾಹಸ ಚಲನಚಿತ್ರವಾಗಿದ್ದು, ಫ್ರ್ಯಾನ್ ವಾಲ್ಷ್, ಫಿಲಿಪ್ಪಾ ಬೋಯೆನ್ಸ್ ಮತ್ತು ಜಾಕ್ಸನ್ ಚಿತ್ರಕಥೆಯನ್ನು ಬರೆದಿದ್ದಾರೆ. ಇದು 1955ರ ಜೆ. ಆರ್. ಆರ್. ಟೋಲ್ಕಿನ್ ಅವರ ದಿ ಲಾರ್ಡ್ ಆಫ್ ದಿ ರಿಂಗ್ಸ್ ಕಾದಂಬರಿಯ ಮೂರನೇ ಸಂಪುಟವಾದ ದಿ ರಿಟರ್ನ್ ಆಫ್ ದಿ ಕಿಂಗ್ ಅನ್ನು ಆಧರಿಸಿದೆ. 2002ರ ದಿ ಲಾರ್ಡ್ ಆಫ್ ದಿ ರಿಂಗ್ಸ್ಃ ದಿ ಟು ಟವರ್ಸ್ನ ಉತ್ತರಭಾಗವಾದ ಈ ಚಿತ್ರವು ದಿ ಲಾರ್ಡ್ ಆಫ್ ದಿ ರಿಂಗ್ಸ್ ಟ್ರೈಲಾಜಿಯ ಕೊನೆಯ ಭಾಗವಾಗಿದೆ. ಇದು ಎಲಿಜಾ ವುಡ್, ಇಯಾನ್ ಮೆಕ್ಕೆಲ್ಲೆನ್, ಲಿವ್ ಟೈಲರ್, ವಿಗ್ಗೊ ಮಾರ್ಟೆನ್ಸನ್, ಸೀನ್ ಆಸ್ಟಿನ್, ಕೇಟ್ ಬ್ಲ್ಯಾಂಚೆಟ್, ಜಾನ್ ರೈಸ್-ಡೇವಿಸ್, ಬರ್ನಾರ್ಡ್ ಹಿಲ್, ಬಿಲ್ಲಿ ಬಾಯ್ಡ್, ಡೊಮಿನಿಕ್ ಮೊನಾಘನ್, ಒರ್ಲ್ಯಾಂಡೊ ಬ್ಲೂಮ್, ಹ್ಯೂಗೋ ವೀವಿಂಗ್, ಮಿರಾಂಡಾ ಒಟ್ಟೊ, ಡೇವಿಡ್ ವೆನ್ಹ್ಯಾಮ್, ಕಾರ್ಲ್ ಅರ್ಬನ್, ಜಾನ್ ನೋಬಲ್, ಆಂಡಿ ಸೆರ್ಕಿಸ್, ಇಯಾನ್ ಹೋಲ್ಮ್ ಮತ್ತು ಸೀನ್ ಬೀನ್ ಸೇರಿದಂತೆ ಸಮಗ್ರ ಪಾತ್ರವರ್ಗವನ್ನು ಒಳಗೊಂಡಿದೆ. ಹಿಂದಿನ ಚಿತ್ರದ ಕಥಾವಸ್ತುವನ್ನು ಮುಂದುವರಿಸುತ್ತಾ, ಫ್ರೊಡೊ, ಸ್ಯಾಮ್ ಮತ್ತು ಗೊಲ್ಲಮ್ ಅವರು ಗೊಲ್ಲಮ್ನ ನಿಜವಾದ ಉದ್ದೇಶಗಳ ಅರಿವಿಲ್ಲದೆ, ಒನ್ ರಿಂಗ್ ಅನ್ನು ನಾಶಮಾಡಲು ಮೌಂಟ್ ಡೂಮ್ ಕಡೆಗೆ ತಮ್ಮ ಅಂತಿಮ ಮಾರ್ಗವನ್ನು ಮಾಡುತ್ತಿದ್ದಾರೆ, ಆದರೆ ಮೆರ್ರಿ, ಪಿಪ್ಪಿನ್, ಗಂಡಾಲ್ಫ್, ಅರಾಗಾರ್ನ್, ಲೆಗೋಲಾಸ್, ಗಿಮ್ಲಿ ಮತ್ತು ಇತರರು ಮಿನಾಸ್ ತಿರಿತ್ನಲ್ಲಿ ಸೌರಾನ್ ಮತ್ತು ಅವನ ಸೈನ್ಯದ ವಿರುದ್ಧ ಒಗ್ಗೂಡುತ್ತಾರೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_174": {
+        "imagename": "v1_174.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಪಲ್ಪ್ ಫಿಕ್ಷನ್ 1994ರ ಅಮೇರಿಕನ್ ಅಪರಾಧ ಚಲನಚಿತ್ರವಾಗಿದ್ದು, ರೋಜರ್ ಅವರಿಯೊಂದಿಗೆ ಅವರು ಕಲ್ಪಿಸಿಕೊಂಡ ಕಥೆಯಿಂದ ಕ್ವೆಂಟಿನ್ ಟ್ಯಾರಂಟಿನೊ ಬರೆದು ನಿರ್ದೇಶಿಸಿದ್ದಾರೆ. ಇದು ಕ್ಯಾಲಿಫೋರ್ನಿಯಾದ ಲಾಸ್ ಏಂಜಲೀಸ್ನಲ್ಲಿ ನಡೆದ ಅಪರಾಧ ಮತ್ತು ಹಿಂಸಾಚಾರದ ನಾಲ್ಕು ಹೆಣೆದುಕೊಂಡಿರುವ ಕಥೆಗಳನ್ನು ಹೇಳುತ್ತದೆ. ಈ ಚಿತ್ರದಲ್ಲಿ ಜಾನ್ ಟ್ರಾವಲ್ಟಾ, ಸ್ಯಾಮ್ಯುಯೆಲ್ ಎಲ್. ಜಾಕ್ಸನ್, ಬ್ರೂಸ್ ವಿಲ್ಲೀಸ್, ಟಿಮ್ ರೋತ್, ವಿಂಗ್ ರೇಮ್ಸ್ ಮತ್ತು ಉಮಾ ಥರ್ಮನ್ ನಟಿಸಿದ್ದಾರೆ. ಶೀರ್ಷಿಕೆಯು 20ನೇ ಶತಮಾನದ ಮಧ್ಯಭಾಗದಲ್ಲಿ ಜನಪ್ರಿಯವಾಗಿದ್ದ ಪಲ್ಪ್ ನಿಯತಕಾಲಿಕೆಗಳು ಮತ್ತು ಕಠಿಣವಾಗಿ ಬೇಯಿಸಿದ ಅಪರಾಧ ಕಾದಂಬರಿಗಳನ್ನು ಉಲ್ಲೇಖಿಸುತ್ತದೆ, ಅವು ಚಿತ್ರಾತ್ಮಕ ಹಿಂಸಾಚಾರ ಮತ್ತು ಚುಚ್ಚುಮದ್ದಿನ ಸಂಭಾಷಣೆಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿವೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_175": {
+        "imagename": "v1_175.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ದಿ ಲಾರ್ಡ್ ಆಫ್ ದಿ ರಿಂಗ್ಸ್ಃ ದಿ ಫೆಲೋಶಿಪ್ ಆಫ್ ದಿ ರಿಂಗ್ ಎಂಬುದು 2001ರ ಮಹಾಕಾವ್ಯದ ಫ್ಯಾಂಟಸಿ ಸಾಹಸ ಚಲನಚಿತ್ರವಾಗಿದ್ದು, ಫ್ರಾಂ ವಾಲ್ಷ್, ಫಿಲಿಪ್ಪಾ ಬೋಯೆನ್ಸ್ ಮತ್ತು ಜಾಕ್ಸನ್ ಅವರ ಚಿತ್ರಕಥೆಯಿಂದ ನಿರ್ದೇಶಿಸಲ್ಪಟ್ಟಿದೆ, ಇದು 1954ರ ದಿ ಫೆಲೋಶಿಪ್ ಆಫ್ ದಿ ರಿಂಗ್ ಅನ್ನು ಆಧರಿಸಿದೆ, ಇದು ಜೆ. ಆರ್. ಆರ್. ಟೋಲ್ಕಿನ್ ಅವರ ದಿ ಲಾರ್ಡ್ ಆಫ್ ದಿ ರಿಂಗ್ಸ್ ಕಾದಂಬರಿಯ ಮೊದಲ ಸಂಪುಟವಾಗಿದೆ. ಈ ಚಿತ್ರವು ದಿ ಲಾರ್ಡ್ ಆಫ್ ದಿ ರಿಂಗ್ಸ್ ಟ್ರೈಲಾಜಿಯ ಮೊದಲ ಕಂತು. ಇದು ಎಲಿಜಾ ವುಡ್, ಇಯಾನ್ ಮೆಕ್ಕೆಲ್ಲೆನ್, ಲಿವ್ ಟೈಲರ್, ವಿಗ್ಗೊ ಮಾರ್ಟೆನ್ಸನ್, ಸೀನ್ ಆಸ್ಟಿನ್, ಕೇಟ್ ಬ್ಲ್ಯಾಂಚೆಟ್, ಜಾನ್ ರೈಸ್-ಡೇವಿಸ್, ಬಿಲ್ಲಿ ಬಾಯ್ಡ್, ಡೊಮಿನಿಕ್ ಮೊನಾಘನ್, ಒರ್ಲ್ಯಾಂಡೊ ಬ್ಲೂಮ್, ಕ್ರಿಸ್ಟೋಫರ್ ಲೀ, ಹ್ಯೂಗೋ ವೀವಿಂಗ್, ಸೀನ್ ಬೀನ್, ಇಯಾನ್ ಹೋಲ್ಮ್ ಮತ್ತು ಆಂಡಿ ಸೆರ್ಕಿಸ್ ಸೇರಿದಂತೆ ಸಮಗ್ರ ಪಾತ್ರವರ್ಗವನ್ನು ಒಳಗೊಂಡಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_176": {
+        "imagename": "v1_176.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ದಿ ಗಾಡ್ಫಾದರ್ ಪಾರ್ಟ್ II 1974ರ ಅಮೇರಿಕಾದ ಮಹಾಕಾವ್ಯದ ಅಪರಾಧ ಚಲನಚಿತ್ರವಾಗಿದ್ದು, ಇದನ್ನು ಫ್ರಾನ್ಸಿಸ್ ಫೋರ್ಡ್ ಕೊಪ್ಪೊಲಾ ನಿರ್ಮಿಸಿ ನಿರ್ದೇಶಿಸಿದ್ದಾರೆ. ಈ ಚಲನಚಿತ್ರವು ಕೊಪ್ಪೊಲಾ ಅವರೊಂದಿಗೆ ಚಿತ್ರಕಥೆಯನ್ನು ಸಹ-ಬರೆದ ಮಾರಿಯೋ ಪುಜೊ ಅವರ 1969 ರ ಕಾದಂಬರಿ ದಿ ಗಾಡ್ಫಾದರ್ ಅನ್ನು ಭಾಗಶಃ ಆಧರಿಸಿದೆ ಮತ್ತು ಇದು 1972 ರ ಚಲನಚಿತ್ರ ದಿ ಗಾಡ್ಫಾದರ್ನ ಉತ್ತರಭಾಗ ಮತ್ತು ಪೂರ್ವಭಾವಿಯಾಗಿದೆ, ಇದು ಸಮಾನಾಂತರ ನಾಟಕಗಳನ್ನು ಪ್ರಸ್ತುತಪಡಿಸುತ್ತದೆಃ ಒಬ್ಬರು 1958 ರ ಕಥೆಯನ್ನು ಎತ್ತಿಕೊಳ್ಳುತ್ತಾರೆ ಮೈಕೆಲ್ ಕಾರ್ಲಿಯೋನ್ (ಅಲ್ ಪಸಿನೊ), ಕಾರ್ಲಿಯೋನ್ ಕುಟುಂಬದ ಹೊಸ ಡಾನ್, ತನ್ನ ಜೀವನದ ಮೇಲಿನ ಪ್ರಯತ್ನದ ನಂತರ ಕುಟುಂಬ ವ್ಯವಹಾರವನ್ನು ರಕ್ಷಿಸುತ್ತಾನೆ; ಪ್ರಿಕ್ವೆಲ್ ತನ್ನ ತಂದೆ ವಿಟೊ ಕಾರ್ಲಿಯೋನ್ (ರಾಬರ್ಟ್ ಡಿ ನಿರೋ) ಅವರ ಸಿಸಿಲಿಯನ್ ಬಾಲ್ಯದಿಂದ ನ್ಯೂಯಾರ್ಕ್ ನಗರದಲ್ಲಿ ತನ್ನ ಕುಟುಂಬ ಉದ್ಯಮವನ್ನು ಸ್ಥಾಪಿಸುವವರೆಗೆ ಪ್ರಯಾಣವನ್ನು ಒಳಗೊಂಡಿದೆ. ರಾಬರ್ಟ್ ದುವಾಲ್, ಡಯೇನ್ ಕೀಟನ್, ತಾಲಿಯಾ ಶೈರ್, ಮೊರ್ಗಾನಾ ಕಿಂಗ್, ಜಾನ್ ಕಝೇಲ್, ಮರಿಯಾನಾ ಹಿಲ್ ಮತ್ತು ಲೀ ಸ್ಟ್ರಾಸ್ಬರ್ಗ್ ಸಹ ಈ ತಂಡದ ಪಾತ್ರವರ್ಗದಲ್ಲಿದ್ದಾರೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_177": {
+        "imagename": "v1_177.jpg",
+        "question": "ನೀವು ಈ ಚಲನಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಫೇರ್ವೆಲ್ ಮೈ ಉಪಪತ್ನಿಯು 1993ರ ಚೀನೀ ಐತಿಹಾಸಿಕ ನಾಟಕೀಯ ಚಲನಚಿತ್ರವಾಗಿದ್ದು, ಇದನ್ನು ಚೆನ್ ಕೈಗೆ ನಿರ್ದೇಶಿಸಿದ್ದಾರೆ, ಇದರಲ್ಲಿ ಲೆಸ್ಲಿ ಚೆಯುಂಗ್, ಗಾಂಗ್ ಲಿ ಮತ್ತು ಜಾಂಗ್ ಫೆಂಗ್ಯಿ ನಟಿಸಿದ್ದಾರೆ. ಲಿಲಿಯನ್ ಲೀ ಅವರ ಕಾದಂಬರಿಯನ್ನು ಆಧರಿಸಿದ ಲು ವೀ ಅವರು ಪರದೆಯ ಮೇಲೆ ಅಳವಡಿಸಿಕೊಂಡ ಈ ಚಲನಚಿತ್ರವು 20 ನೇ ಶತಮಾನದ ಚೀನಾದಲ್ಲಿ ರಾಜಕೀಯವಾಗಿ ಪ್ರಕ್ಷುಬ್ಧವಾಗಿದ್ದು, ರಿಪಬ್ಲಿಕ್ ಆಫ್ ಚೀನಾದ ಆರಂಭಿಕ ದಿನಗಳಿಂದ ಸಾಂಸ್ಕೃತಿಕ ಕ್ರಾಂತಿಯ ನಂತರದವರೆಗೆ ಇದೆ. ಇದು ಇಬ್ಬರು ಪೀಕಿಂಗ್ ಒಪೆರಾ ನಟರು ಮತ್ತು ಜೀವಮಾನದ ಸ್ನೇಹಿತರಾದ ಚೆಂಗ್ ಡಿಯಿ (ಚೆಯುಂಗ್) ಮತ್ತು ಡುವಾನ್ ಕ್ಸಿಯಾವೋಲೋ (ಜಾಂಗ್) ಮತ್ತು ಕ್ಸಿಯಾವೋಲೋ ಅವರ ಪತ್ನಿ ಜುಕ್ಸಿಯಾನ್ (ಗಾಂಗ್) ನಡುವಿನ ತೊಂದರೆಗೊಳಗಾದ ಸಂಬಂಧಗಳನ್ನು ನಿರೂಪಿಸುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_178": {
+        "imagename": "v1_178.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಮೋನಾ ಲಿಸಾ ಎಂಬುದು ಇಟಾಲಿಯನ್ ಕಲಾವಿದ ಲಿಯೊನಾರ್ಡೊ ಡಾ ವಿಂಚಿಯ ಅರ್ಧ-ಉದ್ದದ ಭಾವಚಿತ್ರವಾಗಿದೆ. \n \n ಇಟಾಲಿಯನ್ ಪುನರುಜ್ಜೀವನದ ಮೂಲರೂಪದ ಮೇರುಕೃತಿಯೆಂದು ಪರಿಗಣಿಸಲಾಗಿರುವ ಇದನ್ನು \"ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧವಾದ, ಹೆಚ್ಚು ಭೇಟಿ ನೀಡಿದ, ಹೆಚ್ಚು ಬರೆಯಲ್ಪಟ್ಟ, ಹೆಚ್ಚು ಹಾಡಲಾದ, ವಿಶ್ವದ ಅತ್ಯಂತ ವಿಡಂಬನಾತ್ಮಕ ಕಲಾಕೃತಿ\" ಎಂದು ವಿವರಿಸಲಾಗಿದೆ. ವರ್ಣಚಿತ್ರದ ನವೀನ ಗುಣಗಳಲ್ಲಿ ವಿಷಯದ ನಿಗೂಢ ಅಭಿವ್ಯಕ್ತಿ, ಸಂಯೋಜನೆಯ ಸ್ಮಾರಕತೆ, ರೂಪಗಳ ಸೂಕ್ಷ್ಮ ಮಾದರಿ ಮತ್ತು ವಾತಾವರಣದ ಭ್ರಮಾತ್ಮಕತೆ ಸೇರಿವೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_179": {
+        "imagename": "v1_179.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಗರ್ಲ್ ವಿತ್ ಎ ಪರ್ಲ್ ಕಿವಿಯೋಲೆ (ಡಚ್ಃ ಮೀಸ್ಜೆ ಮೆಟ್ ಡಿ ಪರೇಲ್) ಡಚ್ ಸುವರ್ಣ ಯುಗದ ವರ್ಣಚಿತ್ರಕಾರ ಜೋಹಾನ್ಸ್ ವರ್ಮೀರ್ ಅವರ ತೈಲ ವರ್ಣಚಿತ್ರವಾಗಿದ್ದು, ಇದು ಸುಮಾರು 1665ರ ಕಾಲಮಾನದ್ದಾಗಿದೆ. ಶತಮಾನಗಳಿಂದ ವಿವಿಧ ಹೆಸರುಗಳಿಂದ ನೋಡಿದಾಗ, 20 ನೇ ಶತಮಾನದ ಅಂತ್ಯದ ವೇಳೆಗೆ ಅಲ್ಲಿ ಚಿತ್ರಿಸಲಾದ ಹುಡುಗಿ ಧರಿಸಿದ್ದ ಕಿವಿಯೋಲೆಯ ನಂತರ ಇದು ಅದರ ಪ್ರಸ್ತುತ ಶೀರ್ಷಿಕೆಯಿಂದ ಪ್ರಸಿದ್ಧವಾಯಿತು. ಈ ಕೃತಿಯು 1902ರಿಂದ ದಿ ಹೇಗ್ನಲ್ಲಿರುವ ಮಾರಿಟ್ಶುಯಿಸ್ನ ಸಂಗ್ರಹದಲ್ಲಿದೆ ಮತ್ತು ಇದು ವಿವಿಧ ಸಾಹಿತ್ಯಿಕ ಮತ್ತು ಸಿನಿಮೀಯ ವಿಮರ್ಶೆಗಳ ವಿಷಯವಾಗಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_180": {
+        "imagename": "v1_180.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ದಿ ಸ್ಟಾರಿ ನೈಟ್ ಎಂಬುದು ಡಚ್ ಪೋಸ್ಟ್-ಇಂಪ್ರೆಷನಿಸ್ಟ್ ವರ್ಣಚಿತ್ರಕಾರ ವಿನ್ಸೆಂಟ್ ವ್ಯಾನ್ ಗಾಗ್ ಅವರ ತೈಲ-ಮೇಲೆ-ಕ್ಯಾನ್ವಾಸ್ ವರ್ಣಚಿತ್ರವಾಗಿದೆ. ಜೂನ್ 1889 ರಲ್ಲಿ ಚಿತ್ರಿಸಿದ, ಇದು ಸೂರ್ಯೋದಯದ ಸ್ವಲ್ಪ ಮೊದಲು, ಸೇಂಟ್-ರೆಮಿ-ಡಿ-ಪ್ರೊವೆನ್ಸ್ನಲ್ಲಿರುವ ಅವರ ಆಶ್ರಯ ಕೋಣೆಯ ಪೂರ್ವ-ಮುಖದ ಕಿಟಕಿಯಿಂದ ನೋಟವನ್ನು ಚಿತ್ರಿಸುತ್ತದೆ, ಕಾಲ್ಪನಿಕ village.It ಅನ್ನು ಸೇರಿಸುವ ಮೂಲಕ 1941 ರಿಂದ ನ್ಯೂಯಾರ್ಕ್ ನಗರದ ಮ್ಯೂಸಿಯಂ ಆಫ್ ಮಾಡರ್ನ್ ಆರ್ಟ್ನ ಶಾಶ್ವತ ಸಂಗ್ರಹದಲ್ಲಿದೆ, ಇದನ್ನು ಲಿಲ್ಲಿ ಪಿ. ಬ್ಲಿಸ್ ಬೆಕ್ವೆಸ್ಟ್ ಮೂಲಕ ಸ್ವಾಧೀನಪಡಿಸಿಕೊಳ್ಳಲಾಗಿದೆ. ವ್ಯಾಪಕವಾಗಿ ವ್ಯಾನ್ ಗಾಗ್ ಅವರ ಶ್ರೇಷ್ಠ ಕೃತಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿರುವ ದಿ ಸ್ಟಾರಿ ನೈಟ್ ಪಾಶ್ಚಾತ್ಯ ಕಲೆಯಲ್ಲಿ ಅತ್ಯಂತ ಗುರುತಿಸಬಹುದಾದ ವರ್ಣಚಿತ್ರಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_181": {
+        "imagename": "v1_181.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಕಿಸ್ (ಜರ್ಮನ್ ಭಾಷೆಯಲ್ಲಿ ಡೆರ್ ಕುಸ್) ಎಂಬುದು ಆಸ್ಟ್ರಿಯಾದ ಸಾಂಕೇತಿಕ ವರ್ಣಚಿತ್ರಕಾರ ಗುಸ್ಟಾವ್ ಅವರ ಚಿನ್ನದ ಎಲೆ, ಬೆಳ್ಳಿ ಮತ್ತು ಪ್ಲಾಟಿನಂ ಅನ್ನು ಸೇರಿಸಿದ ತೈಲ-ಆನ್-ಕ್ಯಾನ್ವಾಸ್ ವರ್ಣಚಿತ್ರವಾಗಿದ್ದು, ಇದನ್ನು 1907 ಮತ್ತು 1908 ರಲ್ಲಿ ವಿದ್ವಾಂಸರು ಅವರ \"ಸುವರ್ಣ ಅವಧಿ\" ಎಂದು ಕರೆಯುವ ಉತ್ತುಂಗದಲ್ಲಿ ಚಿತ್ರಿಸಲಾಗಿದೆ. ಪ್ರದರ್ಶನದ ಕ್ಯಾಟಲಾಗ್ನಲ್ಲಿ ಹೇಳಿರುವಂತೆ ಇದನ್ನು 1908ರಲ್ಲಿ ಲೈಬ್ಸ್ಪಾರ್ (ಪ್ರೇಮಿಗಳು) ಎಂಬ ಶೀರ್ಷಿಕೆಯಡಿಯಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲಾಯಿತು. ಈ ವರ್ಣಚಿತ್ರವು ಸಮಕಾಲೀನ ಆರ್ಟ್ ನೌವೀ ಶೈಲಿ ಮತ್ತು ಹಿಂದಿನ ಕಲೆ ಮತ್ತು ಕರಕುಶಲ ಚಳವಳಿಯ ಸಾವಯವ ರೂಪಗಳಿಂದ ಪ್ರಭಾವಿತವಾದ ಶೈಲಿಯಲ್ಲಿ ಅಲಂಕರಿಸಲಾದ ವಿಸ್ತಾರವಾದ ಸುಂದರವಾದ ನಿಲುವಂಗಿಗಳಲ್ಲಿ ದಂಪತಿಗಳು ಪರಸ್ಪರ ಅಪ್ಪಿಕೊಳ್ಳುವುದನ್ನು ಚಿತ್ರಿಸುತ್ತದೆ. \n \n ಈ ವರ್ಣಚಿತ್ರವು ಈಗ ವಿಯೆನ್ನಾದ ಬೆಲ್ವೆಡೆರೆನಲ್ಲಿರುವ ಓಸ್ಟೆರ್ರಿಚಿಸ್ಚೆ ಗ್ಯಾಲರಿ ಬೆಲ್ವೆಡೆರೆ ವಸ್ತುಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ಸ್ಥಗಿತಗೊಂಡಿದೆ ಮತ್ತು ಇದನ್ನು ವಿಯೆನ್ನಾ ಸೆಸೆಷನ್ (ಆರ್ಟ್ ನೌವಿಯ ಸ್ಥಳೀಯ ರೂಪಾಂತರ) ಮತ್ತು ಅಡೆಲೆ ಬ್ಲೋಚ್-ಬಾಯರ್ Iನ ಭಾವಚಿತ್ರದ ನಂತರ ಕ್ಲಿಮ್ಟ್ನ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ಕೃತಿಯೆಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ. ಇದನ್ನು ಅನೇಕರು ಪ್ರಸಿದ್ಧ ಕಲಾಕೃತಿಯೆಂದು ಪರಿಗಣಿಸಿದ್ದಾರೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_182": {
+        "imagename": "v1_182.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ದಿ ಬರ್ತ್ ಆಫ್ ವೀನಸ್ ಎಂಬುದು ಇಟಾಲಿಯನ್ ಕಲಾವಿದ ಸ್ಯಾಂಡ್ರೊ ಬೊಟಿಸೆಲ್ಲಿಯವರ ವರ್ಣಚಿತ್ರವಾಗಿದ್ದು, ಬಹುಶಃ 1480ರ ದಶಕದ ಮಧ್ಯಭಾಗದಲ್ಲಿ ಇದನ್ನು ರಚಿಸಲಾಗಿದೆ. ಇದು ಶುಕ್ರ ದೇವಿಯು ತನ್ನ ಜನನದ ನಂತರ ತೀರಕ್ಕೆ ಆಗಮಿಸುವುದನ್ನು ಚಿತ್ರಿಸುತ್ತದೆ, ಅವಳು ಸಂಪೂರ್ಣವಾಗಿ ಬೆಳೆದ ಸಮುದ್ರದಿಂದ ಹೊರಬಂದಾಗ (ವೀನಸ್ ಅನಾಡಿಯೋಮೀನ್ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ ಮತ್ತು ಆಗಾಗ್ಗೆ ಕಲೆಯಲ್ಲಿ ಚಿತ್ರಿಸಲಾಗಿದೆ). ಈ ವರ್ಣಚಿತ್ರವು ಇಟಲಿಯ ಫ್ಲಾರೆನ್ಸ್ನಲ್ಲಿರುವ ಉಫಿಜಿ ಗ್ಯಾಲರಿಯಲ್ಲಿದೆ. \n \n ಇವೆರಡೂ ಜೋಡಿಯಲ್ಲದಿದ್ದರೂ, ಈ ವರ್ಣಚಿತ್ರವನ್ನು ಅನಿವಾರ್ಯವಾಗಿ ಬೊಟಿಸೆಲ್ಲಿಯ ಇತರ ದೊಡ್ಡ ಪೌರಾಣಿಕ ವರ್ಣಚಿತ್ರವಾದ ಪ್ರೈಮಾವೆರಾದೊಂದಿಗೆ ಚರ್ಚಿಸಲಾಗಿದೆ. ಅವು ವಿಶ್ವದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ವರ್ಣಚಿತ್ರಗಳಲ್ಲಿ ಸೇರಿವೆ ಮತ್ತು ಇಟಾಲಿಯನ್ ಪುನರುಜ್ಜೀವನದ ಪ್ರತಿಮೆಗಳಾಗಿವೆ; ಎರಡರಲ್ಲಿ, ಜನ್ಮವು ಪ್ರೈಮಾವೆರಾಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರಸಿದ್ಧವಾಗಿದೆ. ಶಾಸ್ತ್ರೀಯ ಪುರಾಣದ ವಿಷಯಗಳ ಚಿತ್ರಣಗಳು ಬಹಳ ದೊಡ್ಡ ಪ್ರಮಾಣದಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಪ್ರಾಚೀನ ಕಾಲದಿಂದಲೂ ಪಾಶ್ಚಿಮಾತ್ಯ ಕಲೆಯಲ್ಲಿ ವಾಸ್ತವಿಕವಾಗಿ ಅಭೂತಪೂರ್ವವಾಗಿದ್ದವು, ಹಾಗೆಯೇ ಜನನದಲ್ಲಿ ನಗ್ನ ಸ್ತ್ರೀ ಆಕೃತಿಯ ಗಾತ್ರ ಮತ್ತು ಪ್ರಾಮುಖ್ಯತೆ ಇತ್ತು. ಅವರಿಬ್ಬರೂ ಮೆಡಿಸಿ ಕುಟುಂಬದ ಒಂದೇ ಸದಸ್ಯರಿಂದ ನಿಯೋಜಿಸಲ್ಪಟ್ಟರು ಎಂದು ಭಾವಿಸಲಾಗಿತ್ತು, ಆದರೆ ಇದು ಈಗ ಅನಿಶ್ಚಿತವಾಗಿದೆ. \n \n ಕಲಾ ಇತಿಹಾಸಕಾರರು ಅವುಗಳನ್ನು ಅಂತ್ಯವಿಲ್ಲದೆ ವಿಶ್ಲೇಷಿಸಿದ್ದಾರೆ, ಮುಖ್ಯ ವಿಷಯಗಳು ಹೀಗಿವೆಃ ಪ್ರಾಚೀನ ವರ್ಣಚಿತ್ರಕಾರರ ಅನುಕರಣೆ ಮತ್ತು ವಿವಾಹ ಆಚರಣೆಗಳ ಸಂದರ್ಭ (ಸಾಮಾನ್ಯವಾಗಿ ಒಪ್ಪಲಾಗಿದೆ), ನವೋದಯದ ನಿಯೋ-ಪ್ಲಾಟೋನಿಸಂನ ಪ್ರಭಾವ (ಸ್ವಲ್ಪ ವಿವಾದಾತ್ಮಕ), ಮತ್ತು ಆಯುಕ್ತರ ಗುರುತು (ಒಪ್ಪಿಕೊಳ್ಳದ). ಆದಾಗ್ಯೂ, ಬಹುಪಾಲು ಕಲಾ ಇತಿಹಾಸಕಾರರು, ಜನನಕ್ಕೆ ಅದರ ಅರ್ಥವನ್ನು ಡಿಕೋಡ್ ಮಾಡಲು ಸಂಕೀರ್ಣ ವಿಶ್ಲೇಷಣೆಯ ಅಗತ್ಯವಿಲ್ಲ ಎಂದು ಒಪ್ಪುತ್ತಾರೆ, ಬಹುಶಃ ಪ್ರೈಮಾವೆರಾ ಮಾಡುವ ರೀತಿಯಲ್ಲಿ. ವರ್ಣಚಿತ್ರದಲ್ಲಿ ಸೂಕ್ಷ್ಮತೆಗಳಿದ್ದರೂ, ಅದರ ಮುಖ್ಯ ಅರ್ಥವು ಗ್ರೀಕ್ ಪುರಾಣದ ಸಾಂಪ್ರದಾಯಿಕ ದೃಶ್ಯದ ನೇರವಾದ, ವೈಯಕ್ತಿಕವಾದ ಚಿಕಿತ್ಸೆಯಾಗಿದೆ, ಮತ್ತು ಅದರ ಆಕರ್ಷಣೆಯು ಸಂವೇದನಾತ್ಮಕವಾಗಿದೆ ಮತ್ತು ಸುಲಭವಾಗಿ ಲಭ್ಯವಿರುತ್ತದೆ, ಆದ್ದರಿಂದ ಅದರ ಅಗಾಧ ಜನಪ್ರಿಯತೆ ಇದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_183": {
+        "imagename": "v1_183.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಬೂದು ಮತ್ತು ಕಪ್ಪು ನಂ. 1, ವಿಸ್ಲರ್ಸ್ ಮದರ್ ಅಥವಾ ಪೋರ್ಟ್ರೇಟ್ ಆಫ್ ಆರ್ಟಿಸ್ಟ್ಸ್ ಮದರ್ ಎಂಬ ಆಡುಮಾತಿನ ಹೆಸರಿನಲ್ಲಿ ಪ್ರಸಿದ್ಧವಾಗಿದೆ, ಇದು 1871 ರಲ್ಲಿ ಅಮೆರಿಕಾದಲ್ಲಿ ಜನಿಸಿದ ವರ್ಣಚಿತ್ರಕಾರ ಜೇಮ್ಸ್ ಅಬ್ಬೋಟ್ ಮೆಕ್ನೀಲ್ ವಿಸ್ಲರ್ ರಚಿಸಿದ ಕ್ಯಾನ್ವಾಸ್ ಮೇಲಿನ ತೈಲ ವರ್ಣಚಿತ್ರವಾಗಿದೆ. ಈ ವರ್ಣಚಿತ್ರದ ವಿಷಯವು ವಿಸ್ಲರ್ನ ತಾಯಿ, ಅನ್ನಾ ಮ್ಯಾಕ್ನೀಲ್ ವಿಸ್ಲರ್. ಈ ವರ್ಣಚಿತ್ರವು 56.81 ಬೈ 63.94 ಇಂಚುಗಳು (1,443 ಮಿಮೀ × 1,624 ಮಿಮೀ) ಆಗಿದ್ದು, ಇದನ್ನು ವಿಸ್ಲರ್ನ ಸ್ವಂತ ವಿನ್ಯಾಸದ ಚೌಕಟ್ಟಿನಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲಾಗಿದೆ. ಇದನ್ನು 1891ರಲ್ಲಿ ಫ್ರೆಂಚ್ ರಾಜ್ಯವು ಖರೀದಿಸಿದ ನಂತರ, ಪ್ಯಾರಿಸ್ನಲ್ಲಿರುವ ಮ್ಯೂಸಿ ಡಿ 'ಒರ್ಸೆ ಇದನ್ನು ಹೊಂದಿದೆ. ಇದು ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ನ ಹೊರಗಿನ ಅಮೇರಿಕನ್ ಕಲಾವಿದರ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಕೃತಿಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಇದನ್ನು ಅಮೆರಿಕಾದ ಐಕಾನ್ ಮತ್ತು ವಿಕ್ಟೋರಿಯನ್ ಮೋನಾಲಿಸಾ ಎಂದು ವಿವಿಧ ರೀತಿಯಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_184": {
+        "imagename": "v1_184.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಅರ್ನೋಲ್ಫಿನಿ ಭಾವಚಿತ್ರವು (ಅಥವಾ ದಿ ಅರ್ನೋಲ್ಫಿನಿ ವೆಡ್ಡಿಂಗ್, ದಿ ಅರ್ನೋಲ್ಫಿನಿ ಮ್ಯಾರೇಜ್, ದಿ ಪೋರ್ಟ್ರೇಟ್ ಆಫ್ ಜಿಯೋವನ್ನಿ ಅರ್ನೋಲ್ಫಿನಿ ಅಂಡ್ ಹಿಸ್ ವೈಫ್, ಅಥವಾ ಇತರ ಶೀರ್ಷಿಕೆಗಳು) ಆರಂಭಿಕ ನೆದರ್ಲ್ಯಾಂಡಿಷ್ ವರ್ಣಚಿತ್ರಕಾರ ಜಾನ್ ವ್ಯಾನ್ ಐಕ್ ಅವರು ಓಕ್ ಫಲಕದ ಮೇಲೆ ರಚಿಸಿದ 1434ರ ತೈಲ ವರ್ಣಚಿತ್ರವಾಗಿದೆ. ಇದು ಪೂರ್ಣ-ಉದ್ದದ ಎರಡು ಭಾವಚಿತ್ರವನ್ನು ರೂಪಿಸುತ್ತದೆ, ಇದು ಇಟಾಲಿಯನ್ ವ್ಯಾಪಾರಿ ಗಿಯೋವನ್ನಿ ಡಿ ನಿಕೋಲೊ ಅರ್ನೋಲ್ಫಿನಿ ಮತ್ತು ಅವನ ಹೆಂಡತಿಯನ್ನು ಚಿತ್ರಿಸುತ್ತದೆ ಎಂದು ನಂಬಲಾಗಿದೆ, ಬಹುಶಃ ಫ್ಲೆಮಿಶ್ ನಗರವಾದ ಬ್ರುಗ್ಸ್ನಲ್ಲಿರುವ ಅವರ ನಿವಾಸದಲ್ಲಿ. \n \n ಅದರ ಸೌಂದರ್ಯ, ಸಂಕೀರ್ಣ ಪ್ರತಿಮಾಶಾಸ್ತ್ರ, ಜ್ಯಾಮಿತೀಯ ಆರ್ಥೋಗೋನಲ್ ದೃಷ್ಟಿಕೋನ ಮತ್ತು ಕನ್ನಡಿಯ ಬಳಕೆಯೊಂದಿಗೆ ಚಿತ್ರ ಜಾಗದ ವಿಸ್ತರಣೆಯಿಂದಾಗಿ ಇದನ್ನು ಪಾಶ್ಚಿಮಾತ್ಯ ಕಲೆಯ ಅತ್ಯಂತ ಮೂಲ ಮತ್ತು ಸಂಕೀರ್ಣ ವರ್ಣಚಿತ್ರಗಳಲ್ಲಿ ಒಂದೆಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ. ಅರ್ನ್ಸ್ಟ್ ಗೊಂಬ್ರಿಚ್ ಅವರ ಪ್ರಕಾರ, \"ತನ್ನದೇ ಆದ ರೀತಿಯಲ್ಲಿ ಇದು ಇಟಲಿಯಲ್ಲಿ ಡೊನಾಟೆಲ್ಲೊ ಅಥವಾ ಮಾಸಾಸಿಯೊ ಅವರ ಕೃತಿಯಷ್ಟೇ ಹೊಸದು ಮತ್ತು ಕ್ರಾಂತಿಕಾರಿಯಾಗಿತ್ತು. ನೈಜ ಪ್ರಪಂಚದ ಒಂದು ಸರಳ ಮೂಲೆಯನ್ನು ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಮ್ಯಾಜಿಕ್ನಂತೆ ಫಲಕದ ಮೇಲೆ ಜೋಡಿಸಲಾಗಿತ್ತು. ಇತಿಹಾಸದಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ಕಲಾವಿದನು ಆ ಪದದ ನಿಜವಾದ ಅರ್ಥದಲ್ಲಿ ಪರಿಪೂರ್ಣ ಕಣ್ಣಿನ ಸಾಕ್ಷಿಯಾದನು \". ಈ ಭಾವಚಿತ್ರವನ್ನು ಎರ್ವಿನ್ ಪನೋಫ್ಸ್ಕಿ ಮತ್ತು ಇತರ ಕೆಲವು ಕಲಾ ಇತಿಹಾಸಕಾರರು ಮದುವೆಯ ಒಪ್ಪಂದದ ವಿಶಿಷ್ಟ ರೂಪವೆಂದು ಪರಿಗಣಿಸಿದ್ದಾರೆ, ಇದನ್ನು ವರ್ಣಚಿತ್ರವೆಂದು ದಾಖಲಿಸಲಾಗಿದೆ. 1434ರಲ್ಲಿ ವ್ಯಾನ್ ಐಕ್ ಸಹಿ ಮಾಡಿದ ಮತ್ತು ದಿನಾಂಕವನ್ನು ನಿಗದಿಪಡಿಸಿದ ಇದು, ಅದೇ ಕಲಾವಿದ ಮತ್ತು ಅವನ ಸಹೋದರ ಹಬರ್ಟ್ ಅವರ ಘೆಂಟ್ ಅಲ್ಟಾರ್ಪೀಸ್ನೊಂದಿಗೆ, ಟೆಂಪೆರಾದ ಬದಲು ತೈಲಗಳಲ್ಲಿ ಕಾರ್ಯಗತಗೊಳಿಸಲಾದ ಅತ್ಯಂತ ಹಳೆಯ ಪ್ಯಾನೆಲ್ ವರ್ಣಚಿತ್ರವಾಗಿದೆ. ಈ ವರ್ಣಚಿತ್ರವನ್ನು ಲಂಡನ್ನ ನ್ಯಾಷನಲ್ ಗ್ಯಾಲರಿಯು 1842ರಲ್ಲಿ ಖರೀದಿಸಿತು.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_185": {
+        "imagename": "v1_185.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಕ್ವಿಂಗ್ಮಿಂಗ್ ಉತ್ಸವದ ಸಮಯದಲ್ಲಿ ನದಿಯ ಉದ್ದಕ್ಕೂ (ಕ್ವಿಂಗ್ಮಿಂಗ್ ಶಾಂಗ್ಹೆ ತು) ಸಾಂಗ್ ರಾಜವಂಶದ ವರ್ಣಚಿತ್ರಕಾರ ಜಾಂಗ್ ಝೆಡುವಾನ್ (1085-1145) ಅವರ ಕೈಬರಹದ ವರ್ಣಚಿತ್ರವಾಗಿದೆ ಮತ್ತು ನಂತರದ ಶತಮಾನಗಳಲ್ಲಿ ಇದನ್ನು ಅನೇಕ ಬಾರಿ ನಕಲಿಸಲಾಗಿದೆ. ಇದು ಉತ್ತರ ಸಾಂಗ್ ಸಮಯದಲ್ಲಿ ಜನರ ದೈನಂದಿನ ಜೀವನ ಮತ್ತು ರಾಜಧಾನಿ ಬಿಯಾಂಜಿಂಗ್ನ (ಇಂದಿನ ಕೈಫೆಂಗ್) ಭೂದೃಶ್ಯವನ್ನು ಸೆರೆಹಿಡಿಯುತ್ತದೆ. ಈ ಥೀಮ್ ಸಾಮಾನ್ಯವಾಗಿ ರಜಾದಿನದ ವಿಧ್ಯುಕ್ತ ಅಂಶಗಳಾದ ಸಮಾಧಿ ಗುಡಿಸುವಿಕೆ ಮತ್ತು ಪ್ರಾರ್ಥನೆಗಳಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಕ್ವಿಂಗ್ಮಿಂಗ್ ಉತ್ಸವದಲ್ಲಿ ಹಬ್ಬದ ಉತ್ಸಾಹ ಮತ್ತು ಪ್ರಾಪಂಚಿಕ ಗದ್ದಲವನ್ನು ಆಚರಿಸುತ್ತದೆ ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ. ಬಲದಿಂದ ಎಡಕ್ಕೆ ಓದಿ, ವೀಕ್ಷಕರು ಅದನ್ನು ತೆರೆದಾಗ, ಸತತ ದೃಶ್ಯಗಳು ಶ್ರೀಮಂತರಿಂದ ಬಡವರವರೆಗಿನ ಸಮಾಜದ ಎಲ್ಲಾ ಹಂತಗಳ ಜೀವನಶೈಲಿಯನ್ನು ಮತ್ತು ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳು ಮತ್ತು ನಗರದ ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತವೆ ಮತ್ತು ಅವಧಿಯ ಉಡುಪು ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪದ ನೋಟವನ್ನು ನೀಡುತ್ತವೆ. ಈ ವರ್ಣಚಿತ್ರವನ್ನು ಎಲ್ಲಾ ಚೀನೀ ವರ್ಣಚಿತ್ರಗಳಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಕೃತಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ ಮತ್ತು ಇದನ್ನು \"ಚೀನಾದ ಮೋನಾಲಿಸಾ\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_186": {
+        "imagename": "v1_186.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಫುಚುನ್ ಪರ್ವತಗಳಲ್ಲಿ ವಾಸಿಸುವುದು ಚೀನೀ ವರ್ಣಚಿತ್ರಕಾರ ಹುವಾಂಗ್ ಗೊಂಗ್ವಾಂಗ್ (1269-1354) ಅವರ ಉಳಿದಿರುವ ಕೆಲವೇ ಕೃತಿಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ ಮತ್ತು ಇದು ಅವರ ಶ್ರೇಷ್ಠ ಕೃತಿಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. 1348 ಮತ್ತು 1350ರ ನಡುವೆ ಚಿತ್ರಿಸಿದ ಈ ವರ್ಣಚಿತ್ರವನ್ನು 1650ರಲ್ಲಿ ಎರಡು ತುಂಡುಗಳಾಗಿ ಸುಡಲಾಯಿತು. ಇಂದು, ಒಂದು ತುಣುಕನ್ನು ಹ್ಯಾಂಗ್ಝೌವಿನ ಝೆಜಿಯಾಂಗ್ ಪ್ರಾಂತೀಯ ವಸ್ತುಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ಇರಿಸಲಾಗಿದ್ದು, ಇನ್ನೊಂದು ತುಣುಕನ್ನು ತೈಪೆಯ ರಾಷ್ಟ್ರೀಯ ಅರಮನೆ ವಸ್ತುಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ಇರಿಸಲಾಗಿದೆ. ಒಟ್ಟಾರೆಯಾಗಿ, ಇಡೀ ವರ್ಣಚಿತ್ರವು 691.3 ಸೆಂಟಿಮೀಟರ್ ಉದ್ದವನ್ನು ಅಳೆಯುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_187": {
+        "imagename": "v1_187.jpg",
+        "question": "ನೀವು ಈ ವರ್ಣಚಿತ್ರದ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಟಾಂಗ್ ರಾಜವಂಶ ಮತ್ತು ಟಿಬೆಟ್ ನಡುವಿನ ಸ್ನೇಹಪರ ಮುಖಾಮುಖಿಯನ್ನು ತೋರಿಸಲು ಯಾನ್ ಲಿಬೆನ್ ಅವರು ರಚಿಸಿದ ರೇಷ್ಮೆ ವರ್ಣಚಿತ್ರವು ಚಕ್ರವರ್ತಿ ತೈಜಾಂಗ್ ಅವರು ಟಿಬೆಟಿಯನ್ ರಾಯಭಾರಿಯನ್ನು ಸ್ವೀಕರಿಸುತ್ತಿರುವುದು (ಇದನ್ನು ಪೂರ್ವಭಾವಿ, ಬೂನಿಯಾನ್ ತು ಎಂದೂ ಕರೆಯಲಾಗುತ್ತದೆ). ಈ ವರ್ಣಚಿತ್ರವು 129 ಸೆಂಟಿಮೀಟರ್ (51 ಇಂಚು) ಉದ್ದ ಮತ್ತು 38.5 ಸೆಂಟಿಮೀಟರ್ (15.2 ಇಂಚು) ಅಗಲವಿದೆ. ಬುನಿಯನ್ ತು ಬೀಜಿಂಗ್ನ ಅರಮನೆ ವಸ್ತುಸಂಗ್ರಹಾಲಯದಲ್ಲಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_188": {
+        "imagename": "v1_188.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಸೀಡರ್ ಸೇಬು ತುಕ್ಕು (ಜಿಮ್ನೋಸ್ಪೊರಾಂಜಿಯಂ ಜುನಿಪೆರಿ-ವರ್ಜಿನಿಯಾನಾ) ಒಂದು ಶಿಲೀಂಧ್ರ ರೋಗವಾಗಿದ್ದು, ಜುನಿಪರ್ ಸಸ್ಯಗಳು ಅದರ ಸಂಕೀರ್ಣವಾದ ಎರಡು ವರ್ಷಗಳ ಜೀವನ ಚಕ್ರವನ್ನು ಪೂರ್ಣಗೊಳಿಸಬೇಕಾಗುತ್ತದೆ. ವಿವಿಧ ಜುನಿಪರ್ ಪ್ರಭೇದಗಳ ಯುವ ಕೊಂಬೆಗಳ ಮೇಲೆ ಕೆಂಪು-ಕಂದು ಬಣ್ಣದ ಪಿತ್ತಕೋಶವಾಗಿ ಬೀಜಕಗಳು ಚಳಿಗಾಲದಲ್ಲಿ ಹರಡುತ್ತವೆ. ವಸಂತ ಋತುವಿನ ಆರಂಭದಲ್ಲಿ, ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ, ಈ ಗುಲ್ಮಗಳು ಉಬ್ಬುತ್ತವೆ ಮತ್ತು ಪ್ರಕಾಶಮಾನವಾದ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಬೀಜಕಗಳನ್ನು ಗಾಳಿಯಿಂದ ಬೀಸುತ್ತವೆ, ಅಲ್ಲಿ ಅವು ಸೇಬು ಮತ್ತು ಏಡಿ-ಸೇಬು ಮರಗಳಿಗೆ ಸೋಂಕು ತರುತ್ತವೆ. ಈ ಮರಗಳ ಮೇಲೆ ಬೆಳೆಯುವ ಬೀಜಕಗಳು ಮುಂದಿನ ವರ್ಷ ಜುನಿಪರ್ಗಳಿಗೆ ಮಾತ್ರ ಸೋಂಕು ತರುತ್ತವೆ. ವರ್ಷದಿಂದ ವರ್ಷಕ್ಕೆ, ಈ ರೋಗವು ಜುನಿಪರ್ಗಳಿಂದ ಸೇಬುಗಳಿಗೆ ಮತ್ತೆ ಜುನಿಪರ್ಗಳಿಗೆ ಹರಡಬೇಕು; ಇದು ಸೇಬು ಮರಗಳ ನಡುವೆ ಹರಡುವುದಿಲ್ಲ. \n \n ಸೇಬು ಮತ್ತು ಏಡಿ-ಸೇಬು ಮರಗಳ ಮೇಲೆ, ಹೂಬಿಟ್ಟ ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಎಲೆಗಳ ಮೇಲಿನ ಮೇಲ್ಮೈಯಲ್ಲಿ ಮಸುಕಾದ ಹಳದಿ ಪಿನ್ ಹೆಡ್ ಗಾತ್ರದ ಕಲೆಗಳನ್ನು ನೋಡಿ. ಇವು ಕ್ರಮೇಣ ಪ್ರಕಾಶಮಾನವಾದ ಕಿತ್ತಳೆ-ಹಳದಿ ಕಲೆಗಳಾಗಿ ಬೆಳೆಯುತ್ತವೆ, ಇದು ರೋಗವನ್ನು ಗುರುತಿಸಲು ಸುಲಭವಾಗಿಸುತ್ತದೆ. ಹಣ್ಣಿನ ಮೇಲೆ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಕಲೆಗಳು ಸಹ ಬೆಳೆಯಬಹುದು. ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಎಲೆಗಳು ಅಕಾಲಿಕವಾಗಿ ಬೀಳಬಹುದು. \n \n ಚಿಕಿತ್ಸೆ \n 1. ಲಭ್ಯವಿದ್ದಾಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ. \n 2. ಮರಗಳ ಕೆಳಗೆ ಬಿದ್ದ ಎಲೆಗಳು ಮತ್ತು ಇತರ ಅವಶೇಷಗಳನ್ನು ಎಬ್ಬಿಸಿ ವಿಲೇವಾರಿ ಮಾಡಿ. \n 3. ಸೋಂಕಿತ ಜುನಿಪರ್ಗಳಿಂದ ಗಾಲ್ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ, ಜುನಿಪರ್ ಸಸ್ಯಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತೆಗೆದುಹಾಕಬೇಕು. \n 4. ಜುನಿಪರ್ ಹೋಸ್ಟ್ನಿಂದ ಬಿಡುಗಡೆಯಾಗುವ ಬೀಜಕಗಳಿಂದ ಮರಗಳನ್ನು ರಕ್ಷಿಸಲು ಮೊಗ್ಗು ಒಡೆಯುವಿಕೆಯಿಂದ ಪ್ರಾರಂಭಿಸಿ, ವಾರಕ್ಕೊಮ್ಮೆ ಸೇಬುಗಳ ಮೇಲೆ ಬಳಸಲು ಲೇಬಲ್ ಮಾಡಲಾದ ತಡೆಗಟ್ಟುವ, ರೋಗ-ನಿರೋಧಕ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಅನ್ವಯಿಸಿ. ಇದು ವರ್ಷಕ್ಕೆ ಒಮ್ಮೆ ಮಾತ್ರ ಸಂಭವಿಸುತ್ತದೆ, ಆದ್ದರಿಂದ ಈ ವಸಂತಕಾಲದ ಹರಡುವಿಕೆಯ ನಂತರ ಹೆಚ್ಚುವರಿ ಅರ್ಜಿಗಳು ಅಗತ್ಯವಿಲ್ಲ. ಜುನಿಪರ್ನಲ್ಲಿ, ಆಗಸ್ಟ್ ಅಂತ್ಯ ಮತ್ತು ಅಕ್ಟೋಬರ್ ಅಂತ್ಯದ ನಡುವೆ ಕನಿಷ್ಠ ನಾಲ್ಕು ಬಾರಿ ತಾಮ್ರದ ದ್ರಾವಣವನ್ನು (0.5 ರಿಂದ 2.0 ಔನ್ಸ್/ಗ್ಯಾಲನ್ ನೀರು) ಸಸ್ಯಗಳಿಗೆ ಸಿಂಪಡಿಸುವ ಮೂಲಕ ತುಕ್ಕು ನಿಯಂತ್ರಿಸಬಹುದು. ಸೆರೆನೇಡ್ ಗಾರ್ಡನ್ನೊಂದಿಗೆ ಹೆಚ್ಚಿನ ಶಿಲೀಂಧ್ರ ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಕಾಯಿಲೆಗಳಿಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಚಿಕಿತ್ಸೆ ನೀಡಿ. ಈ ವಿಶಾಲ ವರ್ಣಪಟಲದ ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕವು ಸಾವಯವ ಬಳಕೆಗಾಗಿ ನೋಂದಾಯಿಸಲಾದ ಬ್ಯಾಸಿಲಸ್ ಸಬ್ಟಿಲಿಸ್ನ ಪೇಟೆಂಟ್ ಪಡೆದ ತಳಿಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಎಲ್ಲಕ್ಕಿಂತ ಮುಖ್ಯವಾಗಿ, ಸೆರೇನೇಡ್ ಜೇನುನೊಣಗಳು ಮತ್ತು ಪ್ರಯೋಜನಕಾರಿ ಕೀಟಗಳಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ವಿಷಕಾರಿಯಲ್ಲ. \n 7. ಗಂಧಕ ಮತ್ತು ಪೈರೆಥ್ರಿನ್ಗಳನ್ನು ಒಳಗೊಂಡಿರುವ, ಬೋನೈಡ್ ® ಆರ್ಚರ್ಡ್ ಸ್ಪ್ರೇ ಕೀಟಗಳ ದಾಳಿ ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳ ಸಮಸ್ಯೆಗಳಿಗೆ ಸುರಕ್ಷಿತ, ಒನ್-ಹಿಟ್ ಕಾನ್ಸನ್ಟ್ರೇಟ್ ಆಗಿದೆ. ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ, ಋತುವಿನ ಆರಂಭದಲ್ಲಿ ರಕ್ಷಣಾತ್ಮಕ ಸಿಂಪಡಣೆಯಾಗಿ (2.5 ಔನ್ಸ್/ಗ್ಯಾಲನ್) ಅನ್ವಯಿಸಿ. ರೋಗ, ಕೀಟಗಳು ಅಥವಾ ಆರ್ದ್ರ ಹವಾಮಾನ ಇದ್ದರೆ, ಒಂದು ಗ್ಯಾಲನ್ ನೀರಿನಲ್ಲಿ 5 ಔನ್ಸ್ ಅನ್ನು ಬೆರೆಸಿ. ಸಸ್ಯದ ಎಲ್ಲಾ ಭಾಗಗಳನ್ನು, ವಿಶೇಷವಾಗಿ ಹೊಸ ಚಿಗುರುಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸಿಂಪಡಿಸಿ. \n 8. ನಿಮ್ಮ ಪ್ರದೇಶದಲ್ಲಿ ಇತರ ಸಂಭಾವ್ಯ ಪರಿಹಾರಗಳಿಗಾಗಿ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಕೃಷಿ ವಿಸ್ತರಣಾ ಕಚೇರಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_189": {
+        "imagename": "v1_189.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಆಂತ್ರಾಕ್ನೋಸ್. ಇದು ಅನೇಕ ಸಸ್ಯ ಪ್ರಭೇದಗಳ ರೋಗಗಳಿಗೆ ಕಾರಣವಾಗುವ ಸಸ್ಯ ರೋಗಕಾರಕಗಳ ಸಾಮಾನ್ಯ ಗುಂಪಾದ ಕೊಲೆಟೋಟ್ರಿಚಮ್ ಕುಲದ ಶಿಲೀಂಧ್ರಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಸೋಂಕಿತ ಸಸ್ಯಗಳು ಕಾಂಡಗಳು, ಎಲೆಗಳು ಅಥವಾ ಹಣ್ಣುಗಳ ಮೇಲೆ ಕಪ್ಪು, ನೀರಿನಲ್ಲಿ ನೆನೆಸಿದ ಗಾಯಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಈ ಗಾಯಗಳ ಕೇಂದ್ರಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಗುಲಾಬಿ, ಜೆಲಾಟಿನಸ್ ಬೀಜಕಗಳಿಂದ ಮುಚ್ಚಲ್ಪಡುತ್ತವೆ, ವಿಶೇಷವಾಗಿ ತೇವಾಂಶ, ಬೆಚ್ಚಗಿನ ವಾತಾವರಣದಲ್ಲಿ. ಆಂಥ್ರಾಕ್ನೋಸ್ ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಸುಂದರವಾದ ಸುಗ್ಗಿಯನ್ನು ಕೊಳೆತ ತ್ಯಾಜ್ಯವಾಗಿ ಪರಿವರ್ತಿಸಬಹುದು. \n \n ಶಿಲೀಂಧ್ರ ರೋಗವು ಬೀಜಗಳು, ಮಣ್ಣು ಮತ್ತು ತೋಟದ ಅವಶೇಷಗಳ ಮೇಲೆ ಅತಿಯಾಗಿ ಹರಡುತ್ತದೆ. ತಂಪಾದ ಆರ್ದ್ರ ಹವಾಮಾನವು ಅದರ ಬೆಳವಣಿಗೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ ಮತ್ತು ಬೀಜಕಗಳ ಮುಂದುವರಿದ ಬೆಳವಣಿಗೆಗೆ ಗರಿಷ್ಠ ತಾಪಮಾನವು 75-85 °F ನಡುವೆ ಇರುತ್ತದೆ. ಶಿಲೀಂಧ್ರದ ಬೆಳವಣಿಗೆ ಮತ್ತು ಮೊಳಕೆಯೊಡೆಯಲು ಮತ್ತು ಸಸ್ಯದ ಸೋಂಕಿಗೆ ತೇವಾಂಶವು ಅಗತ್ಯವಾಗಿರುತ್ತದೆ. ಇದು ಗಾಳಿ, ಮಳೆ, ಕೀಟಗಳು ಮತ್ತು ತೋಟದ ಉಪಕರಣಗಳಿಂದ ಹರಡುತ್ತದೆ. \n \n ಚಿಕಿತ್ಸೆ \n 1. ಸಾಧ್ಯವಾದಾಗ ನಿರೋಧಕ ಸಸ್ಯ ಪ್ರಭೇದಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ರೋಗಕ್ಕೆ ಒಡ್ಡಿಕೊಳ್ಳದ ಪಾಶ್ಚಿಮಾತ್ಯ ಬೆಳೆದ ಬೀಜಗಳನ್ನು ಬಳಸಿ. \n 2. ಈ ಶಿಲೀಂಧ್ರದ ಸಮಸ್ಯೆಯು ಸಾಮಾನ್ಯವಾಗಿದ್ದರೆ, ನಿಮ್ಮ ಸ್ವಂತ ಬೀಜವನ್ನು ನೆಡುವುದರಿಂದ ರಕ್ಷಿಸಬೇಡಿ. \n 3. ರೋಗ ಹರಡುವುದನ್ನು ತಪ್ಪಿಸಲು, ಸಸ್ಯಗಳು ಒದ್ದೆಯಾದಾಗ ತೋಟಗಳಿಂದ ದೂರವಿರಿ ಮತ್ತು ಬಳಕೆಯ ನಂತರ ಎಲ್ಲಾ ತೋಟದ ಉಪಕರಣಗಳನ್ನು (ಒಂದು ಭಾಗ ಬ್ಲೀಚ್ನಿಂದ 4 ಭಾಗ ನೀರು) ಸೋಂಕುನಿವಾರಕಗೊಳಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಶಿಲೀಂಧ್ರ ಬೀಜಕಗಳಿಗೆ ಚಳಿಗಾಲದ ತಾಣಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಲು, ಸೋಂಕಿತ ಎಲೆಗಳು, ಹಣ್ಣುಗಳು ಅಥವಾ ಕಾಂಡಗಳನ್ನು ಮಿಶ್ರಗೊಬ್ಬರ ಮಾಡಬೇಡಿ ಮತ್ತು ಶರತ್ಕಾಲದಲ್ಲಿ, ಸುಗ್ಗಿಯ ನಂತರ, ಉದ್ಯಾನ ಪ್ರದೇಶಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸ್ವಚ್ಛಗೊಳಿಸಿ. \n 5. ಸೆರೆನೇಡ್ ಗಾರ್ಡನ್ನೊಂದಿಗೆ ಹೆಚ್ಚಿನ ಶಿಲೀಂಧ್ರ ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಕಾಯಿಲೆಗಳಿಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಚಿಕಿತ್ಸೆ ನೀಡಿ. ಈ ವಿಶಾಲ ವರ್ಣಪಟಲದ ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕವು ಸಾವಯವ ಬಳಕೆಗಾಗಿ ನೋಂದಾಯಿಸಲಾದ ಬ್ಯಾಸಿಲಸ್ ಸಬ್ಟಿಲಿಸ್ನ ಪೇಟೆಂಟ್ ಪಡೆದ ತಳಿಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಎಲ್ಲಕ್ಕಿಂತ ಮುಖ್ಯವಾಗಿ, ಸೆರೇನೇಡ್ ಜೇನುನೊಣಗಳು ಮತ್ತು ಪ್ರಯೋಜನಕಾರಿ ಕೀಟಗಳಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ವಿಷಕಾರಿಯಲ್ಲ. \n 6. ದ್ರವ ತಾಮ್ರದ ದ್ರವೌಷಧಗಳು ಮತ್ತು ಗಂಧಕದ ಪುಡಿಗಳನ್ನು ವಾರಕ್ಕೊಮ್ಮೆ ಅನ್ವಯಿಸಬೇಕು, ವಸಂತಕಾಲದ ಆರಂಭದಲ್ಲಿ ಎಲೆಗಳು ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸಿದಾಗ ಪ್ರಾರಂಭವಾಗಿ ಬೆಳೆಯುವ ಋತುವಿನ ಉದ್ದಕ್ಕೂ ಮುಂದುವರಿಯುತ್ತದೆ. ಮುಂಜಾನೆ ಸಿಂಪಡಿಸಿ, ಮತ್ತು ಬಿಸಿ ವಾತಾವರಣದಲ್ಲಿ ಅನ್ವಯಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ. ಬೀಜಗಳನ್ನು ನೆಡುವ ಮೊದಲು ಸಂಸ್ಕರಿಸಬಹುದು. \n 7. ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸುವಿಕೆಯು ಒಂದು ಸಾವಯವ, ಬಹು-ಉದ್ದೇಶದ ಶಿಲೀಂಧ್ರನಾಶಕ/ಕೀಟನಾಶಕ/ಮಿಟೈಸೈಡ್ ಆಗಿದ್ದು, ಇದು ಮೊಟ್ಟೆಗಳು, ಲಾರ್ವಾಗಳು ಮತ್ತು ವಯಸ್ಕ ಕೀಟಗಳ ಹಂತಗಳನ್ನು ಕೊಲ್ಲುತ್ತದೆ ಮತ್ತು ಸಸ್ಯಗಳ ಮೇಲೆ ಶಿಲೀಂಧ್ರಗಳ ದಾಳಿಯನ್ನು ತಡೆಯುತ್ತದೆ. ವಸಂತಕಾಲದ ಮೊಳಕೆಯೊಡೆಯುವಿಕೆಯ ಮೊದಲ ಚಿಹ್ನೆಯಲ್ಲಿ, ಪ್ರತಿ 7-14 ದಿನಗಳಿಗೊಮ್ಮೆ ತಡೆಗಟ್ಟುವ ಕ್ರಮವಾಗಿ ಅಥವಾ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಸಮಸ್ಯೆಗಳನ್ನು ನಿವಾರಿಸುವವರೆಗೆ 7 ದಿನಗಳ ವೇಳಾಪಟ್ಟಿಯಲ್ಲಿ ಮುಂಚಿತವಾಗಿ ಅನ್ವಯಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_190": {
+        "imagename": "v1_190.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಇದು ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಕ್ಯಾನ್ಸರ್ ಆಗಿದ್ದು, ಚೆರ್ರಿಗಳು ಮತ್ತು ಪ್ಲಮ್ಗಳಲ್ಲಿ ಹೆಚ್ಚು ಸಾಮಾನ್ಯವಾಗಿದೆ, ಆದರೆ ಏಪ್ರಿಕಾಟ್, ಪೀಚ್ ಮತ್ತು ಇತರ ಅನೇಕ ರೀತಿಯ ಕಲ್ಲಿನ ಹಣ್ಣುಗಳ ಮೇಲೂ ಪರಿಣಾಮ ಬೀರಬಹುದು. ಕಾಂಡ ಅಥವಾ ಕೊಂಬೆಗಳ ಮೇಲೆ ಮುಳುಗಿದ, ನೀರಿನಲ್ಲಿ ನೆನೆದ ಅಥವಾ \"ಜಿಮ್ಮಿ\" ಗಾಯಗಳು ಉಂಟಾದರೆ ಈ ಸಸ್ಯದ ರೋಗವನ್ನು ಶಂಕಿಸಿ. ವಸಂತ ಋತುವಿನಲ್ಲಿ ಮರಗಳು ಸಕ್ರಿಯವಾಗಿ ಬೆಳೆಯಲು ಪ್ರಾರಂಭಿಸಿದಾಗ, ಈ ಗಾಯಗೊಂಡ ಪ್ರದೇಶಗಳಿಂದ ಹುಳಿ ವಾಸನೆಯ ರಸವು ಹೊರಹೊಮ್ಮಬಹುದು. ಕೆಂಗಣ್ಣುಗಳು ಸುತ್ತಮುತ್ತಲಿನ ಆರೋಗ್ಯಕರ ತೊಗಟೆಯ ಬಣ್ಣಕ್ಕಿಂತ ಗಾಢವಾಗುತ್ತವೆ ಮತ್ತು ಒಳಗಿನ ಅಂಗಾಂಶವು ಕೆಂಪು-ಕಂದು ಬಣ್ಣದಿಂದ ಕಪ್ಪು ಮತ್ತು ತೇವಾಂಶದಿಂದ ಕೂಡಿರುತ್ತದೆ. \n \n ಗಮನಿಸಿಃ ಕ್ಯಾಂಕರ್ಗಳು ಕೊಂಬೆಗಳನ್ನು ಅಥವಾ ಕಾಂಡವನ್ನು ಸುತ್ತುವರೆದರೆ, ರೋಗಪೀಡಿತ ಪ್ರದೇಶದ ಮೇಲಿನ ಎಲೆಗಳು ಸುರುಳಿಯಾಗುತ್ತವೆ ಮತ್ತು ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ. ಬೆಳವಣಿಗೆಯು ನಿಲ್ಲುತ್ತದೆ ಮತ್ತು ಕೊಂಬೆಯು ಅಥವಾ ಮರವು ಅಂತಿಮವಾಗಿ ಸಾಯುತ್ತದೆ. \n \n ಕ್ಯಾನ್ಸರ್ಗೆ ಕಾರಣವಾಗುವ ಬ್ಯಾಕ್ಟೀರಿಯಂ, ಸ್ಯೂಡೋಮೊನಸ್ ಸಿರಿಂಜಿ, ಗಾಯಗೊಂಡ ತೊಗಟೆಯ ಮೂಲಕ ಅಥವಾ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಗಾಯದ ಮೂಲಕ ಮರಗಳನ್ನು ಪ್ರವೇಶಿಸುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ಕೊಂಬೆಯ ಅಥವಾ ಕೊಂಬೆಯ ಮೇಲೆ ಕತ್ತರಿಸಿದ ಸಮರುವಿಕೆಯನ್ನು. ವಸಂತ ಋತುವಿನಲ್ಲಿ ಫ್ರಾಸ್ಟ್ ಹಾನಿಯು ಹೆಚ್ಚುವರಿ ಸೋಂಕುಗಳನ್ನು ಪ್ರಚೋದಿಸಬಹುದು. ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಕ್ಯಾನ್ಸರ್ ಸೋಂಕುಗಳು ಶರತ್ಕಾಲ, ಚಳಿಗಾಲ ಮತ್ತು ವಸಂತಕಾಲದ ಆರಂಭದಲ್ಲಿ (ತಂಪಾದ, ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ) ಸಂಭವಿಸುತ್ತವೆ ಮತ್ತು ಮಳೆ ಅಥವಾ ನೀರು ಮತ್ತು ಸಮರುವಿಕೆಯ ಉಪಕರಣಗಳಿಂದ ಹರಡುತ್ತವೆ. ಸಕ್ರಿಯ ಕ್ಯಾನ್ಸರ್ಗಳಲ್ಲಿ, ಸೋಂಕಿತ ಮೊಗ್ಗುಗಳಲ್ಲಿ ಮತ್ತು ಸೋಂಕಿತ ಮತ್ತು ಆರೋಗ್ಯಕರ ಮರಗಳು ಮತ್ತು ಕಳೆಗಳ ಮೇಲ್ಮೈಯಲ್ಲಿ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಚಳಿಗಾಲವನ್ನು ಮೀರಿಸುತ್ತವೆ. \n \n ಚಿಕಿತ್ಸೆ \n 1. ಹೂಬಿಡುವಾಗ ಹೂಬಿಡುವ ಮರಗಳನ್ನು ಕತ್ತರಿಸಿಕೊಳ್ಳಿ, ಗಾಯಗಳು ವೇಗವಾಗಿ ಗುಣವಾಗುತ್ತವೆ. \n 2. ಸೋಂಕಿತ ಪ್ರದೇಶಗಳ ಕೆಳಗಿರುವ ಒಣಗಿದ ಅಥವಾ ಸತ್ತ ಅಂಗಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. \n 3. ವಸಂತಕಾಲದ ಆರಂಭದಲ್ಲಿ ಸಮರುವಿಕೆಯನ್ನು ತಪ್ಪಿಸಿ ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಹೆಚ್ಚು ಸಕ್ರಿಯವಾಗಿದ್ದಾಗ ಬೀಳುತ್ತವೆ. \n 4. ಎಲ್ಲಾ ಕತ್ತರಿಸಿದ ಸಮರುವಿಕೆಯನ್ನು ತಕ್ಷಣವೇ ಟ್ಯಾಂಗಲ್ಫೂಟ್ ಟ್ರೀ ಪ್ರೂನಿಂಗ್ ಸೀಲರ್ನಿಂದ ಚಿಕಿತ್ಸೆ ಮಾಡಿ ಮತ್ತು ಪ್ರತಿ ಕತ್ತರಿಸಿದ ನಂತರ ನಿಮ್ಮ ಸಮರುವಿಕೆಯ ಉಪಕರಣವನ್ನು-ಒಂದು ಭಾಗ ಬ್ಲೀಚ್ ಅನ್ನು 4 ಭಾಗಗಳ ನೀರಿಗೆ-ಸೋಂಕುರಹಿತಗೊಳಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. \n 5. ಮರಗಳ ತಳದ ಸುತ್ತಲೂ ಸ್ಟ್ರಿಂಗ್ ಟ್ರಿಮ್ಮರ್ಗಳನ್ನು ಬಳಸಿದರೆ, ಸೋಂಕನ್ನು ತಡೆಗಟ್ಟಲು ಉಸಿರಾಡುವ ಮರದಿಂದ ತೊಗಟೆಯನ್ನು ಹಾನಿಗೊಳಗಾಗುವುದನ್ನು ತಪ್ಪಿಸಿ. \n 6. ತೊಗಟೆಯನ್ನು ಹಾನಿಗೊಳಗಾಗುವ ತಾಪಮಾನದ ಏರಿಳಿತಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನೀರಿನಿಂದ ದುರ್ಬಲಗೊಳಿಸಿದ ಬಿಳಿ ಲ್ಯಾಟೆಕ್ಸ್ ಬಣ್ಣದಿಂದ ತೊಗಟೆಯನ್ನು ಬ್ರಷ್ ಮಾಡಿ. \n 7. ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಈ ಕಲ್ಲಿನ ಹಣ್ಣಿನ ಸಮಸ್ಯೆಯ ವಿರುದ್ಧ ಸ್ವಲ್ಪ ಯಶಸ್ಸನ್ನು ಹೊಂದಿವೆ ಎಂದು ಸಂಶೋಧನೆ ತೋರಿಸಿದೆ. ಆದಾಗ್ಯೂ, ಫಲಿತಾಂಶಗಳು ಅಸಮಂಜಸವಾಗಿವೆ. ಇದನ್ನು ಒಟ್ಟು ನಿರ್ವಹಣಾ ಕಾರ್ಯಕ್ರಮದ ಒಂದು ಭಾಗವಾಗಿ ಬಳಸಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ. \n 8. ಗಾಳಿಯ ಪ್ರಸರಣವನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ಕಾಂಡ ಮತ್ತು ಕಿರೀಟವನ್ನು ಒಣಗಿಸಲು ಚಿಕ್ಕ ಮರಗಳ ತಳದಿಂದ ಕಳೆ ಮತ್ತು ಹುಲ್ಲುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. \n 9. ಆರ್ಗನೋಸೈಡ್® ಪ್ಲಾಂಟ್ ಡಾಕ್ಟರ್ ಒಂದು ಭೂ-ಸ್ನೇಹಿ ವ್ಯವಸ್ಥಿತ ಶಿಲೀಂಧ್ರನಾಶಕವಾಗಿದ್ದು, ಇದು ಅಲಂಕಾರಿಕ ವಸ್ತುಗಳು, ಟರ್ಫ್, ಹಣ್ಣು ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳ ಮೇಲೆ ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯ ರೋಗಗಳನ್ನು ಎದುರಿಸಲು ಇಡೀ ಸಸ್ಯದ ಮೂಲಕ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಪ್ರತಿ ಗ್ಯಾಲನ್ ನೀರಿಗೆ 1/3 ರಿಂದ 3/4 ಔನ್ಸ್ ಮಿಶ್ರಣ ಮಾಡಿ ಮತ್ತು ಕತ್ತರಿಸುವ ಗಾಯಗಳು ಮತ್ತು ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರದೇಶಗಳ ಮೇಲೆ ಬಣ್ಣ ಅಥವಾ ಸಿಂಪಡಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_191": {
+        "imagename": "v1_191.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಇದು ಹೂವಿನ ಕೊನೆಯ ಕೊಳೆತವಾಗಿದೆ. ಟೊಮೆಟೊ, ಮೆಣಸು, ಸೌತೆಕಾಯಿ ಮತ್ತು ಬದನೆಕಾಯಿಯ ಗಂಭೀರ ಅಸ್ವಸ್ಥತೆಯಾದ ಬ್ಲಾಸಮ್ ಎಂಡ್ ಕೊಳೆಯುವಿಕೆಯು ಪರಿಸರದ ಸಮಸ್ಯೆಯಾಗಿದೆ (ಶಿಲೀಂಧ್ರವಲ್ಲ) ಇದು ಹೆಚ್ಚಾಗಿ ಅಸಮವಾದ ನೀರು ಅಥವಾ ಕ್ಯಾಲ್ಸಿಯಂ ಕೊರತೆಯಿಂದ ಉಂಟಾಗುತ್ತದೆ. (ಇವುಗಳು ಸಂಬಂಧಿಸಿರಬಹುದು; ಅಸಮವಾದ ನೀರುಣಿಸುವಿಕೆಯು ಕ್ಯಾಲ್ಸಿಯಂನ ಹೀರಿಕೊಳ್ಳುವಿಕೆಗೆ ಅಡ್ಡಿಯಾಗಬಹುದು.) ಈ ಸಾಮಾನ್ಯ ಉದ್ಯಾನ \"ರೋಗ\" ವು ಹೆಚ್ಚಾಗಿ ಅತಿಯಾದ ರಸಗೊಬ್ಬರ, ಹೆಚ್ಚಿನ ಉಪ್ಪಿನ ಮಟ್ಟ ಅಥವಾ ಬರಗಾಲದಿಂದ ತ್ವರಿತ ಬೆಳವಣಿಗೆಯಿಂದ ಉಂಟಾಗುತ್ತದೆ. \n \n ಹಸಿರು ಮತ್ತು ಮಾಗಿದ ಹಣ್ಣುಗಳೆರಡರಲ್ಲೂ ಬ್ಲಾಸಮ್ ಎಂಡ್ ಕೊಳೆತ ರೋಗಲಕ್ಷಣಗಳು ಕಂಡುಬರುತ್ತವೆ ಮತ್ತು ನೀರಿನಲ್ಲಿ ನೆನೆದ ಪ್ರದೇಶಗಳಿಂದ ಗುರುತಿಸಲ್ಪಡುತ್ತವೆ, ಅದು ಕ್ರಮೇಣ ಅಗಲಗೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಕೆಳ ತುದಿಯಲ್ಲಿ ಮುಳುಗಿದ, ಕಂದು, ಚರ್ಮದ ತಾಣಗಳಾಗಿ ಪಕ್ವವಾಗುತ್ತದೆ. ಅನೇಕ ಸಂದರ್ಭಗಳಲ್ಲಿ, ಕಪ್ಪು, ಅಸ್ಪಷ್ಟ-ರೀತಿಯ ಬೆಳವಣಿಗೆಯಂತೆ ಕಾಣಿಸಿಕೊಳ್ಳುವ ದ್ವಿತೀಯಕ ರೋಗಕಾರಕಗಳು, ಪೀಡಿತ ಪ್ರದೇಶದ ಮೇಲೆ ದಾಳಿ ಮಾಡುತ್ತವೆ ಮತ್ತು ಹಣ್ಣಿನ ಸಂಪೂರ್ಣ ಕೊಳೆಯುವಿಕೆಗೆ ಕಾರಣವಾಗುತ್ತವೆ. ಹೂವಿನ ಕೊನೆಯ ಕೊಳೆತವು ಸಸ್ಯದಿಂದ ಸಸ್ಯಕ್ಕೆ ಹರಡುವುದಿಲ್ಲ. \n \n ಚಿಕಿತ್ಸೆ \n ಈ ಸಸ್ಯದ ಸಮಸ್ಯೆಯು ದೈಹಿಕ ಸ್ವರೂಪದಲ್ಲಿರುವುದರಿಂದ, ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ನಿಯಂತ್ರಣದ ಅಳತೆಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ. ನಾವು ಈ ಕೆಳಗಿನವುಗಳನ್ನು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆಃ \n \n 1. ಸಾಧ್ಯವಾದಾಗಲೆಲ್ಲಾ ನಿರೋಧಕ ತರಕಾರಿ ಪ್ರಭೇದಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ. \n 2. ಮಣ್ಣನ್ನು ಸಮಾನವಾಗಿ ತೇವಾಂಶದಿಂದ ಇಟ್ಟುಕೊಳ್ಳುವ ಮೂಲಕ ಮತ್ತು ಎಲೆಗಳನ್ನು ಕೆಲ್ಪ್ ಅಥವಾ ಕ್ಯಾಲ್ಸಿಯಂ ದ್ರಾವಣದಿಂದ ಸಸ್ಯಗಳಿಗೆ ಸಿಂಪಡಿಸುವ ಮೂಲಕ ಸಮಸ್ಯೆಗಳನ್ನು ತಡೆಯಿರಿ. \n 3. ಹೆಚ್ಚಿನ ಮಟ್ಟದ ಕ್ಯಾಲ್ಸಿಯಂ-ಮೂಳೆಗಳ ಆಹಾರ, ಸಿಂಪಿ ಚಿಪ್ಪು ಅಥವಾ ಜಿಪ್ಸಮ್-ಅನ್ನು ನಾಟಿ ಮಾಡುವ ಸಮಯದಲ್ಲಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಈ ಸಮಸ್ಯೆಯು ಬೆಳೆಯುವುದನ್ನು ತಡೆಯುತ್ತದೆ. ಮಲ್ಚ್ನ ಒಂದು ಪದರವು (ಹುಲ್ಲು, ಕಾಂಪೋಸ್ಟ್, ಹುಲ್ಲು) ಜುಲೈ ಮತ್ತು ಆಗಸ್ಟ್ನ ಬಿಸಿ, ಒಣ ದಿನಗಳಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶವನ್ನು ಸಂರಕ್ಷಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಈ ಅಗತ್ಯ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯನ್ನು ಸರಿಪಡಿಸಲು ಅಥವಾ ತಡೆಯಲು ದ್ರವ ಕ್ಯಾಲ್ಸಿಯಂನ 5 ಪ್ರತಿಶತ (1-2 ಟೇಬಲ್ಸ್ಪೂನ್/ಗ್ಯಾಲನ್ ನೀರು) ಎಲೆಗಳ ಅನ್ವಯಗಳನ್ನು ಬಳಸಬಹುದು. ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ, ಅಂಟಿಕೊಳ್ಳುವಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ನೈಸರ್ಗಿಕ ಸರ್ಫ್ಯಾಕ್ಟಂಟ್ನೊಂದಿಗೆ ಸಂಯೋಜಿಸಿ ಮತ್ತು ಎಲೆಗಳನ್ನು ಹರಿಯುವ ಹಂತಕ್ಕೆ ಸಿಂಪಡಿಸಿ. \n 6. ಮಲ್ಚಿಂಗ್ ಸಸ್ಯಗಳು ತೇವಾಂಶವನ್ನು ಸಂರಕ್ಷಿಸಲು ಮತ್ತು ಹೆಚ್ಚು ಏಕರೂಪದ ನೀರಿನ ಪೂರೈಕೆಯನ್ನು ಒದಗಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. \n 7. ಸಸ್ಯಗಳ ಬೆಳವಣಿಗೆಯನ್ನು ವೇಗಗೊಳಿಸುವ ಮತ್ತು ಸಸ್ಯಗಳು ಕ್ಯಾಲ್ಸಿಯಂ ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಹೆಚ್ಚಿನ ಸಾರಜನಕ ರಸಗೊಬ್ಬರಗಳನ್ನು ಬಳಸುವುದನ್ನು ತಪ್ಪಿಸಿ. ಪ್ಲಾನೆಟ್ ನ್ಯಾಚುರಲ್ನಲ್ಲಿ ಸಮತೋಲಿತ ಸಾವಯವ ರಸಗೊಬ್ಬರಗಳ ದೊಡ್ಡ ಆಯ್ಕೆ ಲಭ್ಯವಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_192": {
+        "imagename": "v1_192.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಇದು ಬಾದಾಮಿ, ಏಪ್ರಿಕಾಟ್, ಚೆರ್ರಿ, ಪೀಚ್ ಮತ್ತು ಪ್ಲಮ್ಗಳ ಹೂವುಗಳು ಮತ್ತು ಹಣ್ಣುಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವ ಅತ್ಯಂತ ಸಾಮಾನ್ಯ ಶಿಲೀಂಧ್ರ ರೋಗವಾದ ಬ್ರೌನ್ ರಾಟ್ (ಮೊನಿಲಿನಿಯಾ ಫ್ರುಕ್ಟಿಕೋಲಾ) ಆಗಿದೆ. ಇದು ಮಮ್ಮಿ ಮಾಡಲಾದ ಹಣ್ಣುಗಳಲ್ಲಿ (ಮರದ ಮೇಲೆ ಮತ್ತು ನೆಲದ ಮೇಲೆ) ಮತ್ತು ಸೋಂಕಿತ ಕೊಂಬೆಗಳಲ್ಲಿ ಅತಿಯಾಗಿ ಚಳಿಗಾಲವನ್ನು ಅನುಭವಿಸುತ್ತದೆ. \n \n ಈ ರೋಗವು ಮೊದಲು ವಸಂತ ಋತುವಿನಲ್ಲಿ ಹೂವುಗಳಿಗೆ ಸೋಂಕು ತರುತ್ತದೆ ಮತ್ತು ಕಾಂಡಗಳನ್ನು ಕೊಲ್ಲುವ ಕ್ಯಾನ್ಸರ್ಗಳನ್ನು ಉಂಟುಮಾಡುವ ಸಣ್ಣ ಕೊಂಬೆಗಳಾಗಿ ಮತ್ತೆ ಬೆಳೆಯುತ್ತದೆ. ರೋಗವು ತೀವ್ರವಾಗಿದ್ದಾಗ ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯ ಹೂವಿನ ಕಾಂಡಗಳು ಸಾಯುತ್ತವೆ. ಸತ್ತ ಹೂವುಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಬೇಸಿಗೆಯಲ್ಲಿ ಅಂಟಿಕೊಂಡಿರುತ್ತವೆ. ಬೆಳೆಯುತ್ತಿರುವ ಅಥವಾ ಪ್ರೌಢ ಹಣ್ಣುಗಳು ಮೇಲ್ಮೈಯಲ್ಲಿ ವೇಗವಾಗಿ ಹರಡುವ ವೃತ್ತಾಕಾರದ ಅಥವಾ ಕಂದು ಬಣ್ಣದ ಕಲೆಗಳನ್ನು ತೋರಿಸುತ್ತವೆ ಮತ್ತು ಕೊಳೆತ ಪ್ರದೇಶಗಳಲ್ಲಿ ತಿಳಿ ಬೂದು ಬಣ್ಣದ ಬೀಜಕಗಳು ಉತ್ಪತ್ತಿಯಾಗುತ್ತವೆ. ಕೊಳೆತ ಅಂಗಾಂಶವು ತುಲನಾತ್ಮಕವಾಗಿ ಗಟ್ಟಿಯಾಗಿ ಮತ್ತು ಒಣಗಿರುತ್ತದೆ. \n \n ಕಂದು ಕೊಳೆತ ಬೀಜಕಗಳನ್ನು ಗಾಳಿ, ಮಳೆ ಮತ್ತು ಕೀಟಗಳು ತೆರೆದ ಅಥವಾ ತೆರೆಯದ ಹೂವುಗಳು ಮತ್ತು ಚಿಕ್ಕ ಚಿಗುರುಗಳಿಗೆ ಸಾಗಿಸುತ್ತವೆ. ನೀರು ಇದ್ದರೆ-ಮಳೆ, ಇಬ್ಬನಿ ಅಥವಾ ನೀರಿನಿಂದ-ಹೂವಿನ ಮೇಲ್ಮೈಯಲ್ಲಿ ಬೀಜಕಗಳು ಮೊಳಕೆಯೊಡೆಯುತ್ತವೆ ಮತ್ತು ಸಸ್ಯವನ್ನು ಭೇದಿಸುತ್ತವೆ. ರೋಗದ ಬೆಳವಣಿಗೆಯು ವ್ಯಾಪಕ ತಾಪಮಾನದ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ನಡೆಯುತ್ತದೆ ಮತ್ತು ಮೊಗ್ಗುಗಳು ತೆರೆದ ಸಮಯದಿಂದ ದಳಗಳು ಬೀಳುವವರೆಗೆ ಹೂವುಗಳು ಸೋಂಕಿಗೆ ಒಳಗಾಗಬಹುದು. ಅನುಕೂಲಕರ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ, ಕಂದು ಕೊಳೆತವು ತ್ವರಿತವಾಗಿ ಹರಡುತ್ತದೆ ಮತ್ತು ಮರದ ಮೇಲೆ ಇಡೀ ಬೆಳೆ ಸಂಪೂರ್ಣವಾಗಿ ನಾಶವಾಗಬಹುದು. \n \n ಚಿಕಿತ್ಸೆ \n 1. ಸಾಧ್ಯವಾದಾಗಲೆಲ್ಲಾ ನಿರೋಧಕ ಪ್ರಭೇದಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ. \n 2. ಸೋಂಕಿತ ಸಸ್ಯದ ಭಾಗಗಳನ್ನು ತಕ್ಷಣವೇ ತೆಗೆದುಹಾಕುವುದು ಮತ್ತು ನಾಶಪಡಿಸುವುದು ಪ್ರತ್ಯೇಕ ಮರಗಳು ಮತ್ತು ಸಣ್ಣ ತೋಟಗಳಲ್ಲಿ ರೋಗದ ಜೀವನ ಚಕ್ರವನ್ನು ಮುರಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ ಮತ್ತು ಕಂದು ಕೊಳೆಯುವಿಕೆಯನ್ನು ಹಾನಿಕಾರಕ ಮಟ್ಟಕ್ಕಿಂತ ಕಡಿಮೆ ಇಡಲು ಸಾಕಾಗಬಹುದು. ಮರಗಳ ಕೆಳಗೆ ಬಿದ್ದ ಯಾವುದೇ ಹಣ್ಣು ಅಥವಾ ಅವಶೇಷಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ತೆಗೆದುಹಾಕುವುದು ಮುಖ್ಯವಾಗಿದೆ. \n 4. ಗಾಳಿಯ ಪ್ರಸರಣವನ್ನು ಸುಧಾರಿಸಲು ಮರಗಳನ್ನು ಸಾಂದರ್ಭಿಕವಾಗಿ ಕತ್ತರಿಸಿಕೊಳ್ಳಿ. ಅಲ್ಲದೆ, ಹೂವುಗಳು, ಎಲೆಗಳು ಮತ್ತು ಹಣ್ಣುಗಳು ಒದ್ದೆಯಾಗದಂತೆ ತಡೆಯಲು ಕೆಳಗಿನಿಂದ ನೀರು. \n 5. ಎಲ್ಲಾ ಕಡಿತಗಳು ಮತ್ತು ಗಾಯಗಳನ್ನು ಮುಚ್ಚಲು ಮತ್ತು ಕೀಟಗಳು ಮತ್ತು ರೋಗ ಜೀವಿಗಳಿಂದ ರಕ್ಷಿಸಲು ಟ್ಯಾಂಗಲ್ಫೂಟ್ ® ಕತ್ತರಿಸುವ ಮುದ್ರಕವನ್ನು ಬಳಸಿ. \n 6. ಬಳಸಲು ಸಿದ್ಧವಾದ ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಅಥವಾ ಗಂಧಕದ ಪುಡಿಗಳನ್ನು ಸೋಂಕಿತ ಮರಗಳಿಗೆ ವಾರಕ್ಕೊಮ್ಮೆ ಹಚ್ಚಬೇಕು, ಹೂವುಗಳು ತೆರೆಯಲು ಪ್ರಾರಂಭಿಸಿದಾಗ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ ಮತ್ತು ಬೆಳೆಯುವ ಋತುವಿನ ಉದ್ದಕ್ಕೂ ಮುಂದುವರಿಯುತ್ತದೆ. ಸಾಧ್ಯವಾದರೆ, 12 ಗಂಟೆಗಳ ಒಣ ಹವಾಮಾನವು ಅನ್ವಯವನ್ನು ಅನುಸರಿಸುವಂತೆ ಸಮಯದ ಅನ್ವಯಗಳು. \n 7. ಆರ್ಗನೋಸೈಡ್® ಪ್ಲಾಂಟ್ ಡಾಕ್ಟರ್ ಒಂದು ಭೂ-ಸ್ನೇಹಿ ವ್ಯವಸ್ಥಿತ ಶಿಲೀಂಧ್ರನಾಶಕವಾಗಿದ್ದು, ಇದು ಅಲಂಕಾರಿಕ ವಸ್ತುಗಳು, ಟರ್ಫ್, ಹಣ್ಣು ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳ ಮೇಲೆ ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯ ರೋಗಗಳನ್ನು ಎದುರಿಸಲು ಇಡೀ ಸಸ್ಯದ ಮೂಲಕ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಈ ವಿನಾಶಕಾರಿ ಕಲ್ಲಿನ ಹಣ್ಣಿನ ಸಮಸ್ಯೆಯನ್ನು ಎದುರಿಸಲು ಎಲೆಗಳ ಸಿಂಪಡಣೆಯಾಗಿ (1 ಟೀ ಸ್ಪೂನ್/ಗ್ಯಾಲನ್ ನೀರು) ಅನ್ವಯಿಸಿ. ಗಂಧಕ ಮತ್ತು ಪೈರೆಥ್ರಿನ್ಗಳನ್ನು ಒಳಗೊಂಡಿರುವ, ಬೋನೈಡ್ ® ಆರ್ಚರ್ಡ್ ಸ್ಪ್ರೇ ಕೀಟಗಳ ದಾಳಿ ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳ ಸಮಸ್ಯೆಗಳಿಗೆ ಸುರಕ್ಷಿತ, ಒನ್-ಹಿಟ್ ಕಾನ್ಸನ್ಟ್ರೇಟ್ ಆಗಿದೆ. ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ, ಋತುವಿನ ಆರಂಭದಲ್ಲಿ ರಕ್ಷಣಾತ್ಮಕ ಸಿಂಪಡಣೆಯಾಗಿ (2.5 ಔನ್ಸ್/ಗ್ಯಾಲನ್) ಅನ್ವಯಿಸಿ. ರೋಗ, ಕೀಟಗಳು ಅಥವಾ ಆರ್ದ್ರ ಹವಾಮಾನ ಇದ್ದರೆ, ಒಂದು ಗ್ಯಾಲನ್ ನೀರಿನಲ್ಲಿ 5 ಔನ್ಸ್ ಅನ್ನು ಬೆರೆಸಿ. ಸಸ್ಯದ ಎಲ್ಲಾ ಭಾಗಗಳನ್ನು, ವಿಶೇಷವಾಗಿ ಹೊಸ ಚಿಗುರುಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸಿಂಪಡಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_193": {
+        "imagename": "v1_193.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಇದು ಕ್ಲಬ್ ರೂಟ್ ಆಗಿದೆ. ಹೆಚ್ಚಿನ ಬ್ರಾಸಿಕಾ ಬೆಳೆಗಳ (ಎಲೆಕೋಸು, ಕೋಸುಗಡ್ಡೆ, ಹೂಕೋಸು, ಇತ್ಯಾದಿ) ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ.), ಕ್ಲಬ್ ರೂಟ್ ಉತ್ತರ ಅಮೆರಿಕಾದ ಮನೆ ತೋಟಗಳಲ್ಲಿ ಗಂಭೀರವಾದ ಸಸ್ಯ ರೋಗವಾಗಿದೆ. ಇದು ಮಣ್ಣಿನಿಂದ ಹರಡುವ ಶಿಲೀಂಧ್ರ ಪ್ಲಾಸ್ಮೋಡಿಯೋಫೋರಾ ಬ್ರಾಸ್ಸಿಕಾದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ಬೇರಿನ ಕೂದಲಿನ ಮೂಲಕ ಒಳಗಾಗುವ ಸಸ್ಯಗಳಿಗೆ ಸೋಂಕು ತರುತ್ತದೆ. ರೋಗಪೀಡಿತ ಬೇರುಗಳು ಊದಿಕೊಳ್ಳುತ್ತವೆ, ತಪ್ಪಾಗಿ ರೂಪುಗೊಳ್ಳುತ್ತವೆ ಮತ್ತು ವಿರೂಪಗೊಳ್ಳುತ್ತವೆ (ಗುಂಡಿಯಾಗಿ) ಆಗಾಗ್ಗೆ ಬಿರುಕು ಬಿಡುತ್ತವೆ ಮತ್ತು ಕೊಳೆಯುತ್ತವೆ. ಇದರ ಪರಿಣಾಮವಾಗಿ, ಸಸ್ಯಗಳು ನೀರು ಮತ್ತು ಪೋಷಕಾಂಶಗಳನ್ನು ಸರಿಯಾಗಿ ಹೀರಿಕೊಳ್ಳಲು ಕಷ್ಟಪಡುತ್ತವೆ. \n \n ಸಸ್ಯಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಕಳಪೆಯಾಗಿ ಬೆಳೆಯುತ್ತವೆ ಮತ್ತು ಹಗಲಿನ ಬಿಸಿಲಿನಲ್ಲಿ ಮರೆಯಾಗುತ್ತವೆ; ಸಸ್ಯಗಳು ಸಾಮಾನ್ಯವಾಗಿ ತಂಪಾದ ರಾತ್ರಿಗಳಲ್ಲಿ ಪುನರುಜ್ಜೀವನಗೊಳ್ಳುತ್ತವೆ. ಹೊರಗಿನ ಎಲೆಗಳು ಹಳದಿ, ನೇರಳೆ ಅಥವಾ ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಬಹುದು. ಕ್ಲಬ್ ರೂಟ್ ಇಳುವರಿಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಒಟ್ಟು ಬೆಳೆ ವೈಫಲ್ಯಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು. \n \n ಶಿಲೀಂಧ್ರ ಬೀಜಕಗಳನ್ನು ಗಾಳಿ, ನೀರು ಮತ್ತು ತೋಟದ ಉಪಕರಣಗಳಿಂದ ಹರಡಬಹುದು. ರೋಗದ ಬೆಳವಣಿಗೆಯು ವ್ಯಾಪಕ ಶ್ರೇಣಿಯ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ಸಂಭವಿಸಬಹುದು, ಆದರೆ ಅತಿಯಾದ ತೇವಾಂಶ, ಕಡಿಮೆ ಮಣ್ಣಿನ ಪಿಹೆಚ್ ಮತ್ತು 64 ಮತ್ತು 77 ಡಿಗ್ರಿ ಎಫ್ ನಡುವಿನ ಮಣ್ಣಿನ ತಾಪಮಾನದಿಂದ ಒಲವು ತೋರುತ್ತದೆ. ಬೀಜಕಗಳು ಮಣ್ಣಿನಲ್ಲಿ 10 ವರ್ಷಗಳವರೆಗೆ ಬದುಕಬಲ್ಲವು. \n \n ಚಿಕಿತ್ಸೆ \n 1. ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಮಣ್ಣಿನಲ್ಲಿ ವಾಸಿಸುವ ಈ ಸೂಕ್ಷ್ಮಜೀವಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡುವುದಿಲ್ಲ. \n 2. ಸಾಧ್ಯವಾದಾಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ. \n 3. ತೋಟವನ್ನು ಸ್ವಚ್ಛವಾಗಿಟ್ಟುಕೊಳ್ಳುವ ಮತ್ತು ಬೆಳೆಗಳನ್ನು ತಿರುಗಿಸುವ ಮೂಲಕ ಈ ರೋಗವು ಸಂಭವಿಸುವುದನ್ನು ತಡೆಯಲು ಪ್ರಯತ್ನಿಸಿ. \n 4. ರೋಗದ ಬೀಜಕಗಳು ಮಣ್ಣಿನಲ್ಲಿ 20 ವರ್ಷಗಳವರೆಗೆ ಉಳಿಯಬಹುದು ಎಂಬುದನ್ನು ನೆನಪಿನಲ್ಲಿಡಿ. ಕ್ಲಬ್ ರೂಟ್ ಇದ್ದರೆ ನೀವು ಮಣ್ಣನ್ನು ಸೌರಶಕ್ತಿಗೊಳಿಸಲು ಬಯಸಬಹುದು. * \n 5. ರೋಗದ ಸಂಭಾವ್ಯ ಸಂಗ್ರಹವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಸೋಂಕಿಗೆ ಒಳಗಾಗುವಂತಹ-ಸಾಸಿವೆ, ಮೂಲಂಗಿ, ಕುರುಬನ ಪರ್ಸ್ಗಳನ್ನು ನಿಯಂತ್ರಿಸಿ. \n 6. ಬಳಸಿದ ನಂತರ ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ತೆಗೆದುಹಾಕಿ ಮತ್ತು ತೋಟದ ಉಪಕರಣಗಳನ್ನು (ಒಂದು ಭಾಗ ಬ್ಲೀಚ್ ಅನ್ನು 4 ಭಾಗಗಳ ನೀರಿಗೆ) ಕ್ರಿಮಿನಾಶಕಗೊಳಿಸಿ. ಶರತ್ಕಾಲದಲ್ಲಿ ನಿಮ್ಮ ತೋಟದಲ್ಲಿ ಸಿಂಪಿ ಚಿಪ್ಪು ಅಥವಾ ಡೊಲೊಮೈಟ್ ಸುಣ್ಣವನ್ನು ಬೆರೆಸುವ ಮೂಲಕ ನಿಮ್ಮ ಮಣ್ಣಿನ ಪಿಎಚ್ ಅನ್ನು ಹೆಚ್ಚು ಕ್ಷಾರೀಯ 7.2ಕ್ಕೆ ಹೆಚ್ಚಿಸಿ. ಪಿಹೆಚ್ ಅನ್ನು ಆಗಾಗ್ಗೆ ಪರಿಶೀಲಿಸಲು ಸರಳ ಮತ್ತು ಕೈಗೆಟುಕುವ ಮಣ್ಣಿನ ಪರೀಕ್ಷಾ ಕಿಟ್ಗಳು ಲಭ್ಯವಿವೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_194": {
+        "imagename": "v1_194.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಇದು ಕಾರ್ನ್ ಸ್ಮಟ್ ಆಗಿದೆ. ಆಗಾಗ್ಗೆ ಹಿತ್ತಲಿನಲ್ಲಿದ್ದ ತೋಟಗಳಲ್ಲಿ ಮತ್ತು ಸಣ್ಣ ತೋಟಗಳಲ್ಲಿ ಕಂಡುಬರುವ ಕಾರ್ನ್ ಸ್ಮಟ್, ಉಸ್ಟಿಲಾಗೊ ಝೀ ಎಂಬ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ ಮತ್ತು ಕಾಂಡಗಳು, ಎಲೆಗಳು, ಟಸ್ಸೆಲ್ಗಳು ಅಥವಾ ಕಿವಿಗಳಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳಬಹುದು. ಕಿವಿಗಳು ಅಣಬೆಯಂತಹ ಗೆಡ್ಡೆಗಳನ್ನು ಅಥವಾ ಗಂಟುಗಳನ್ನು ಉಂಟುಮಾಡಿದಾಗ ರೋಗಲಕ್ಷಣಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುತ್ತವೆ. ಈ \"ಊತಗಳು\" ಸಣ್ಣ, ಬಿಳಿ-ಬೂದು ಅಕ್ರಮಗಳಾಗಿ ಪ್ರಾರಂಭವಾಗುತ್ತವೆ, ಅವು ಬೀಜಕಗಳಿಂದ ತುಂಬಿದಂತೆ ವಿಸ್ತರಿಸುತ್ತವೆ ಮತ್ತು ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ. ಕಿವಿಯ ಗಂಟುಗಳು 4 ರಿಂದ 5 ಇಂಚು ವ್ಯಾಸದವರೆಗೆ ಬೆಳೆಯುತ್ತವೆ ಮತ್ತು ಅವು ಛಿದ್ರವಾಗುತ್ತಿದ್ದಂತೆ ಸಾವಿರಾರು ಬೀಜಕಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತವೆ. ಈ ಶಿಲೀಂಧ್ರ ಬೀಜಕಗಳು ಹೊಸ ಸಸ್ಯಗಳಿಗೆ ಸೋಂಕು ತಗಲಲು ಗಾಳಿಯಿಂದ ಸಾಕಷ್ಟು ದೂರದವರೆಗೆ ಬೀಸುತ್ತವೆ. ಎಲೆಗಳ ಮೇಲಿನ ಗುಳ್ಳೆಗಳು ಚಿಕ್ಕದಾಗಿ ಉಳಿಯುತ್ತವೆ ಮತ್ತು ಅಂತಿಮವಾಗಿ ಗಟ್ಟಿಯಾಗಿ ಮತ್ತು ಒಣಗುತ್ತವೆ. \n \n ಉದ್ಯಾನದ ಅವಶೇಷಗಳ ಮೇಲೆ ಮತ್ತು ಮಣ್ಣಿನಲ್ಲಿ ಕಾರ್ನ್ ಸ್ಮಟ್ ಚಳಿಗಾಲವನ್ನು ಮೀರಿಸುತ್ತದೆ. ಇದು ಗಾಳಿ, ಮಳೆ ಮತ್ತು ನೀರಾವರಿಯಿಂದ ಸಾಗಿಸಲ್ಪಡುತ್ತದೆ ಮತ್ತು ಬಿಸಿ, ಶುಷ್ಕ ವಾತಾವರಣದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಬೀಜಕಗಳು 5ರಿಂದ 7 ವರ್ಷಗಳವರೆಗೆ ಕಾರ್ಯಸಾಧ್ಯವಾಗಿ ಉಳಿಯಬಹುದು. ಕೃಷಿ ಮತ್ತು ಬೀಸುವ ಮಣ್ಣಿನಿಂದ ಸವೆತ ಸೇರಿದಂತೆ ವಿವಿಧ ಗಾಯಗಳಿಂದಾದ ಗಾಯಗಳು, ಶಿಲೀಂಧ್ರವು ಸಸ್ಯವನ್ನು ಪ್ರವೇಶಿಸಲು ಬಿಂದುಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ. \n \n ಚಿಕಿತ್ಸೆ \n 1. ಲಭ್ಯವಿದ್ದಾಗ ಸಿಲ್ವರ್ ಕಿಂಗ್, ಫ್ಯಾಂಟಸಿಯಾ, ಬ್ರಿಲಿಯಂಟ್ ಮತ್ತು ಸೆನೆಕಾ ಸೆನ್ಸೇಷನ್ಗಳಂತಹ ಅತ್ಯುತ್ತಮ ನಿರೋಧಕ ಪ್ರಭೇದಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ. ಹಿತ್ತಲಿನಲ್ಲಿದ್ದ ತೋಟಗಳಲ್ಲಿ, ಕಪ್ಪು ಶಿಲೀಂಧ್ರಗಳ ಬೀಜಕಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವ ಮೊದಲು ಚಿಪ್ಪುಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ನಾಶಪಡಿಸಲು ಸೂಚಿಸಲಾಗುತ್ತದೆ. ಇದು ಲಭ್ಯವಿರುವ ಶಿಲೀಂಧ್ರ ಬೀಜಕಗಳ ಸಂಖ್ಯೆಯನ್ನು ಸೀಮಿತಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ರೋಗ-ಚಕ್ರವನ್ನು ಮುರಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. \n 3. ಕೃಷಿಯ ಸಮಯದಲ್ಲಿ ಬೇರುಗಳು, ಕಾಂಡಗಳು ಮತ್ತು ಎಲೆಗಳ ಗಾಯವನ್ನು ತಪ್ಪಿಸುವ ಮೂಲಕ ಸೋಂಕಿನ ಬಿಂದುಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಿ. \n 4. ಮಾಂಟೆರಿ ಗಾರ್ಡನ್ ಕೀಟ ಸ್ಪ್ರೇ ಅಥವಾ ಇತರ ಸಾವಯವ ಕೀಟನಾಶಕದಿಂದ ಕಾರ್ನ್ ಬೋರರ್ಗಳಂತಹ ಕೀಟಗಳಿಂದ ಹಾನಿಯಾಗುವುದನ್ನು ತಡೆಯಿರಿ. \n 5. ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಪರಿಣಾಮಕಾರಿ ನಿಯಂತ್ರಣದ ಆಯ್ಕೆಯಾಗಿಲ್ಲ ಏಕೆಂದರೆ ರೋಗವು ತುಂಬಾ ವ್ಯಾಪಕವಾಗಿದೆ ಮತ್ತು ಮಣ್ಣಿನಲ್ಲಿ ವರ್ಷಗಳವರೆಗೆ ಉಳಿಯಬಹುದು. \n 6. ಹೆಚ್ಚಿನ ಸಾರಜನಕ ರಸಗೊಬ್ಬರಗಳು ರೋಗದ ತೀವ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಬಹುದು-ತರಕಾರಿ ತೋಟದಲ್ಲಿ ಸಮತೋಲಿತ ಸಾವಯವ ರಸಗೊಬ್ಬರವನ್ನು ಬಳಸಿ. ಸುಗ್ಗಿಯ ನಂತರ ಎಲ್ಲಾ ತೋಟದ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಪಡಿಸಿ ಮತ್ತು ಮುಂದಿನ ವರ್ಷ ಬೆಳೆ ಆವರ್ತನವನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ. \n 8. ಸೋಂಕಿತ ಸಸ್ಯದ ಭಾಗಗಳನ್ನು ಚೀಲದಲ್ಲಿ ಹಾಕಿ ಅಥವಾ ಸುಟ್ಟು ಹಾಕಿ-ಕಾಂಪೋಸ್ಟ್ ಮಾಡಬೇಡಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_195": {
+        "imagename": "v1_195.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಇದು ಕ್ರೌನ್ ಗಾಲ್ ಆಗಿದೆ, ಇದು ಮಣ್ಣಿನಿಂದ ಹರಡುವ ಬ್ಯಾಕ್ಟೀರಿಯಂ ಆಗ್ರೋಬ್ಯಾಕ್ಟೀರಿಯಂ ಟ್ಯೂಮೆಫಾಸಿಯನ್ಸ್ನಿಂದ ಉಂಟಾಗುವ ಸಾಮಾನ್ಯ ಸಸ್ಯ ರೋಗವಾಗಿದೆ. ಇದು ಪ್ರಪಂಚದಾದ್ಯಂತ ಕಂಡುಬರುತ್ತದೆ ಮತ್ತು ದ್ರಾಕ್ಷಿ, ರಾಸ್್ಬೆರ್ರಿಸ್, ಬ್ಲ್ಯಾಕ್ಬೆರಿ ಮತ್ತು ಗುಲಾಬಿಗಳು ಸೇರಿದಂತೆ ಮರದ ಪೊದೆಗಳು ಮತ್ತು ಗಿಡಮೂಲಿಕೆಗಳ ಸಸ್ಯಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ. \n \n ಕ್ರೌನ್ ಗಾಲ್ ರೋಗಲಕ್ಷಣಗಳು ದುಂಡಾದ, ನರಹುಲಿಗಳಂತಹ ಬೆಳವಣಿಗೆಗಳನ್ನು ಒಳಗೊಂಡಿವೆ-2 ಇಂಚು ಅಥವಾ ದೊಡ್ಡ ವ್ಯಾಸ-ಇದು ಮಣ್ಣಿನ ರೇಖೆಯ ಮೇಲೆ ಅಥವಾ ಅದರ ಮೇಲೆ ಅಥವಾ ಕೆಳಗಿನ ಕೊಂಬೆಗಳು ಮತ್ತು ಕಾಂಡಗಳ ಮೇಲೆ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಹಲವಾರು ಗುಳ್ಳೆಗಳನ್ನು ಹೊಂದಿರುವ ಸಸ್ಯಗಳು ನೀರು ಮತ್ತು ಪೋಷಕಾಂಶಗಳನ್ನು ಕಾಂಡದ ಮೇಲೆ ಚಲಿಸಲು ಸಾಧ್ಯವಾಗದೆ ದುರ್ಬಲಗೊಳ್ಳಬಹುದು, ಕುಂಠಿತಗೊಳ್ಳಬಹುದು ಮತ್ತು ಅನುತ್ಪಾದಕವಾಗಬಹುದು. ಪಿತ್ತಕೋಶದ ಅಂಗಾಂಶವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುವ ಮೂಲಕ ಯುವ ಸಸ್ಯಗಳನ್ನು ಕೊಲ್ಲಬಹುದು. \n \n ಕ್ರೌನ್ ಗಾಲ್ಗೆ ಕಾರಣವಾದ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಮಣ್ಣಿನಲ್ಲಿ ಹಲವು ವರ್ಷಗಳವರೆಗೆ ಉಳಿಯಬಹುದು ಮತ್ತು ಗಾಲ್ಗಳು ತೇವಾಂಶದಿಂದ ಸ್ಯಾಚುರೇಟೆಡ್ ಆದಾಗ ಅಥವಾ ಹಳೆಯ ಗಾಲ್ಗಳು ಕೊಳೆಯುವಾಗ ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ. ಗ್ರಹಿಸಬಹುದಾದ ಸಸ್ಯಗಳು ತಾಜಾ ಗಾಯಗಳು ಅಥವಾ ಸವೆತಗಳಿಂದ ಸೋಂಕಿಗೆ ಒಳಗಾಗುತ್ತವೆ, ಅವುಗಳಲ್ಲಿ ಹಲವು ಸಮರುವಿಕೆಯನ್ನು, ಫ್ರೀಜ್ ಗಾಯ, ಮಣ್ಣಿನ ಕೀಟಗಳು, ಕೃಷಿ ಮತ್ತು ಸಸ್ಯಗಳಿಗೆ ಹಾನಿಯಾಗುವ ಇತರ ಅಂಶಗಳ ಪರಿಣಾಮವಾಗಿದೆ. ನರ್ಸರಿ ಸ್ಟಾಕ್ ಸಾಮಾನ್ಯವಾಗಿ ಕಸಿ ಮತ್ತು ಮೊಳಕೆಯ ಗುರುತುಗಳ ಮೂಲಕ ಸೋಂಕಿಗೆ ಒಳಗಾಗುತ್ತದೆ. \n \n ಚಿಕಿತ್ಸೆ \n 1. ಸಾಧ್ಯವಾದಾಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಪ್ರತಿಷ್ಠಿತ ನರ್ಸರಿಯಿಂದ ಸಸ್ಯಗಳನ್ನು ಖರೀದಿಸಿ. ಊತ ಅಥವಾ ಉರಿಯೂತದ ಲಕ್ಷಣಗಳನ್ನು ತೋರಿಸುವ ಸಸ್ಯಗಳನ್ನು ಖರೀದಿಸಬೇಡಿ. \n 3. ಹಾನಿಗೊಳಗಾಗುವ ಸಸ್ಯಗಳನ್ನು ನೋಡಿಕೊಳ್ಳುವಾಗ, ಮಣ್ಣಿನ ಸಂಪರ್ಕಕ್ಕೆ ಬರಬಹುದಾದ ಗಾಯ ಅಥವಾ ಕತ್ತರಿಸುವ ಗಾಯಗಳನ್ನು ತಪ್ಪಿಸಿ. \n 4. ಸ್ಟ್ರಿಂಗ್ ಟ್ರಿಮ್ಮರ್ ಹಾನಿಯಾಗದಂತೆ ರಕ್ಷಿಸಲು ಮತ್ತು ನಿಮ್ಮ ತೋಟದ ಉಪಕರಣಗಳನ್ನು ಸ್ವಚ್ಛವಾಗಿಡಲು ಟ್ರೀ ರಾಪ್ ಅನ್ನು ಬಳಸಿ. ತೊಗಟೆಯು ಬಿರುಕು ಬಿಡದಂತೆ ನೈಸರ್ಗಿಕ ಬರ್ಲ್ಯಾಪ್ನೊಂದಿಗೆ ಚಳಿಗಾಲದ ರಕ್ಷಣೆಯನ್ನು ಒದಗಿಸಿ. \n 6. ಅನೇಕ ಸಂದರ್ಭಗಳಲ್ಲಿ, ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಗಲ್ಸ್ ಅನ್ನು ತೀಕ್ಷ್ಣವಾದ ಸಮರುವಿಕೆಯ ಚಾಕುವಿನಿಂದ ತೆಗೆದುಹಾಕಬಹುದು. ಸೋಂಕಿತ ಸಸ್ಯದ ಅಂಗಾಂಶವನ್ನು ನಾಶಪಡಿಸಿ ಮತ್ತು ಗಾಯವನ್ನು ಸಮರುವಿಕೆಯ ಮುದ್ರಕದಿಂದ ಚಿಕಿತ್ಸೆ ಮಾಡಿ. ಸಸ್ಯವು ಚೇತರಿಸಿಕೊಳ್ಳದಿದ್ದರೆ, ಅದನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಪಡಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_196": {
+        "imagename": "v1_196.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಇದು ಬೂದು ಬಣ್ಣದ ಅಚ್ಚು (ಬೊಟ್ರಿಟಿಸ್ ಸಿನೆರಿಯಾ). ಬೂದುಬಣ್ಣದ ಅಚ್ಚು ವ್ಯಾಪಕ ಶ್ರೇಣಿಯ ಸಸ್ಯಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ (ಉಲ್ಲೇಖಿಸಲು ತುಂಬಾ ಹೆಚ್ಚು), ಇದು ಶಿಲೀಂಧ್ರ ರೋಗವಾಗಿದ್ದು, ಇದು ತೋಟಗಳ ಮೂಲಕ ತ್ವರಿತವಾಗಿ ಚಲಿಸುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ಒದ್ದೆಯಾದ, ತಂಪಾದ ಮತ್ತು ಸೌಮ್ಯ ಹವಾಮಾನದ ಸಮಯದಲ್ಲಿ. ರೋಗದ ರೋಗಲಕ್ಷಣಗಳು ಎಲೆಗಳು, ಕಾಂಡಗಳು, ಹೂವುಗಳು ಮತ್ತು ಉತ್ಪನ್ನಗಳ ಮೇಲೆ ಬೂದು ಬಣ್ಣದ ಮೃದು, ನಯವಾದ ಕಲೆಗಳಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ವಿಶೇಷವಾಗಿ ತೇವಾಂಶವು ಅಧಿಕವಾಗಿದ್ದರೆ, ಸ್ಥಳಗಳು ಬೂದು ಶಿಲೀಂಧ್ರ ಬೀಜಕಗಳ ಲೇಪನದಿಂದ ಮುಚ್ಚಲ್ಪಡಬಹುದು. ಹಣ್ಣು ಅಥವಾ ಸಸ್ಯಗಳು ಕೊಳೆಯುತ್ತವೆ ಮತ್ತು ಕೊಳೆಯುತ್ತವೆ ಮತ್ತು ಸಾಮಾನ್ಯವಾಗಿ ಕಪ್ಪು, ಕಲ್ಲಿನಂತಹ ಸ್ಕ್ಲೆರೋಟಿಯಾವನ್ನು-ಗಟ್ಟಿಯಾದ ಶಿಲೀಂಧ್ರ ತಂತುಗಳ ಸಾಂದ್ರ ದ್ರವ್ಯರಾಶಿಯನ್ನು-ಕೊಳೆತ ಭಾಗಗಳ ಅಡಿಯಲ್ಲಿ ಬೆಳೆಯುತ್ತವೆ. \n \n ಬೂದುಬಣ್ಣದ ಅಚ್ಚು ಸಾಮಾನ್ಯವಾಗಿ ಮಣ್ಣಿನ ಮೇಲ್ಮೈ ಬಳಿ ಅಥವಾ ಸಸ್ಯದ ಮೇಲಾವರಣದ ದಟ್ಟವಾದ ಪ್ರದೇಶಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ. ಇದು ಮೊದಲು ಒಣಗಿದ ಹೂವುಗಳ ಮೇಲೆ ಬೆಳೆಯುತ್ತದೆ, ನಂತರ ಸಸ್ಯದ ಇತರ ಭಾಗಗಳಿಗೆ ತ್ವರಿತವಾಗಿ ಹರಡುತ್ತದೆ. ಕೊಯ್ಲು ಮಾಡಿದ ಹಣ್ಣುಗಳು ಮತ್ತು ತರಕಾರಿಗಳು ಕೊಳೆಯಲು ಕಾರಣವಾಗುವ ಶೇಖರಣಾ ಪ್ರದೇಶಗಳಲ್ಲಿಯೂ ಈ ರೋಗವು ಸಂಭವಿಸಬಹುದು. \n \n ಬೊಟ್ರಿಟಿಸ್ ರೋಗವು ಸಸ್ಯಗಳ ಮೇಲೆ, ಮಣ್ಣಿನಲ್ಲಿ ಅಥವಾ ಅದರ ಮೇಲೆ, ಮತ್ತು ಸ್ಕ್ಲೆರೋಟಿಯಾದಂತೆ ಅತಿಯಾಗಿ ಚಳಿಗಾಲವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಪರಿಸ್ಥಿತಿಗಳು ಸೂಕ್ತವಾದಾಗ ಬೀಜಕಗಳು ಬೆಳೆಯುತ್ತವೆ ಮತ್ತು ಗಾಳಿಯಿಂದ ಅಥವಾ ಚಿಮ್ಮುವ ನೀರಿನಿಂದ ಹೂವುಗಳು ಅಥವಾ ಯುವ ಎಲೆಗಳ ಮೇಲೆ ಚಲಿಸುತ್ತವೆ, ಅಲ್ಲಿ ಅವು ಮೊಳಕೆಯೊಡೆಯುತ್ತವೆ ಮತ್ತು ಸಸ್ಯವನ್ನು ಪ್ರವೇಶಿಸುತ್ತವೆ. ಬೀಜಕಗಳು ಮೊಳಕೆಯೊಡೆಯಲು ತಂಪಾದ ತಾಪಮಾನ (45-60 F.) ಮತ್ತು ಹೆಚ್ಚಿನ ತೇವಾಂಶ (93 ಪ್ರತಿಶತ ಮತ್ತು ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು) ಬೇಕಾಗುತ್ತದೆ. ಮೊಳಕೆಯೊಡೆಯುವ ಬೀಜಕಗಳು ಅಪರೂಪವಾಗಿ ಹಸಿರು, ಆರೋಗ್ಯಕರ ಅಂಗಾಂಶವನ್ನು ನೇರವಾಗಿ ಭೇದಿಸುತ್ತವೆ, ಆದರೆ ಬೆಳೆಯುತ್ತಿರುವ ಸಸ್ಯಗಳ ಗಾಯಗಳ ಮೂಲಕ ಪ್ರವೇಶಿಸಬಹುದು. ಕತ್ತರಿಸುವಿಕೆಯು ವಿಶೇಷವಾಗಿ ಸೋಂಕಿಗೆ ಒಳಗಾಗುತ್ತದೆ. \n \n ಚಿಕಿತ್ಸೆ \n 1. ಸಸ್ಯಗಳ ನಡುವೆ ಗಾಳಿಯ ಪ್ರಸರಣವನ್ನು ಸುಧಾರಿಸಲು ಸಸ್ಯಗಳನ್ನು ಕತ್ತರಿಸಿಕೊಳ್ಳಿ ಅಥವಾ ಜೋಡಿಸಿ. ಪ್ರತಿ ಕತ್ತರಿಸಿದ ನಂತರ ನಿಮ್ಮ ಸಮರುವಿಕೆಯ ಉಪಕರಣವನ್ನು (ಒಂದು ಭಾಗದ ಬ್ಲೀಚ್ ಅನ್ನು 4 ಭಾಗಗಳ ನೀರಿಗೆ ಬೆರೆಸಿ) ಸೋಂಕುನಿವಾರಕಗೊಳಿಸಿ. ಒಳಾಂಗಣದಲ್ಲಿ ಬೆಳೆಯುತ್ತಿದ್ದರೆ ಗಾಳಿಯ ಹರಿವನ್ನು ಸುಧಾರಿಸಲು ಸಣ್ಣ ಕ್ಲಿಪ್-ಆನ್ ಫ್ಯಾನ್ ಅನ್ನು ಬಳಸಿ. \n 3. ಸಸ್ಯಗಳ ಕೆಳಗಿರುವ ಮಣ್ಣನ್ನು ಸ್ವಚ್ಛವಾಗಿಡಿ ಮತ್ತು ಬಿದ್ದ ಯಾವುದೇ ಅವಶೇಷಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ. \n 4. ಸಸ್ಯಗಳ ಅಡಿಯಲ್ಲಿ ಉತ್ತಮ ಪ್ರಮಾಣದ ಸಾವಯವ ಕಾಂಪೋಸ್ಟ್ ಅಥವಾ ಮಲ್ಚ್ ಅನ್ನು ಸೇರಿಸಿ. ಮಲ್ಚ್ಗಳು ಶಿಲೀಂಧ್ರ ಬೀಜಕಗಳು ಹೂವುಗಳು ಮತ್ತು ಎಲೆಗಳ ಮೇಲೆ ಮತ್ತೆ ಚಿಮ್ಮುವುದನ್ನು ತಡೆಯುತ್ತವೆ. \n 5. ಹಗಲಿನಲ್ಲಿ ಸಸ್ಯಗಳು ಒಣಗಲು ಸಮಯವನ್ನು ನೀಡಲು ಮುಂಜಾನೆಯ ಸಮಯದಲ್ಲಿ ನೀರು, ಅಥವಾ ನೆನೆಸಿದ ಮೆದುಗೊಳವೆ ಬಳಸಿ. \n 6. ಸೋಂಕಿತ ಸಸ್ಯದ ಎಲೆಗಳು ಅಥವಾ ಕಾಂಡಗಳನ್ನು ಕಾಂಪೋಸ್ಟ್ ಮಾಡಬೇಡಿ ಮತ್ತು ಶಿಲೀಂಧ್ರ ಬೀಜಕಗಳಿಗೆ ಚಳಿಗಾಲದ ತಾಣಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಶರತ್ಕಾಲದಲ್ಲಿ ಉದ್ಯಾನ ಪ್ರದೇಶಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸ್ವಚ್ಛಗೊಳಿಸಿ. \n 7. ತಾಮ್ರ-ಸೋಪ್ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಸಸ್ಯಗಳನ್ನು ರೋಗ ಬೀಜಕಗಳಿಂದ ರಕ್ಷಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ. ಹೂಬಿಡುವ ಪ್ರಾರಂಭದಲ್ಲಿ ಅನ್ವಯಿಸಿ ಮತ್ತು ಸುಗ್ಗಿಯವರೆಗೆ ಪ್ರತಿ 7-10 ದಿನಗಳಿಗೊಮ್ಮೆ ಮುಂದುವರಿಸಿ. ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಗಳು ದೀರ್ಘಾವಧಿಯ ತಂಪಾದ, ಆರ್ದ್ರ ಹವಾಮಾನವನ್ನು ಊಹಿಸಿದಾಗ ಶಿಲೀಂಧ್ರನಾಶಕ ಸ್ಪ್ರೇಗಳನ್ನು ವಿಶೇಷವಾಗಿ ಸಮರ್ಥಿಸಲಾಗುತ್ತದೆ. \n 8. ಬೊಟ್ರಿಟಿಸ್ ಬ್ಲೈಟ್ ಸೇರಿದಂತೆ ಹೆಚ್ಚಿನ ಶಿಲೀಂಧ್ರ ರೋಗಗಳಿಗೆ ಸೆರೆನೇಡ್ ಗಾರ್ಡನ್ನೊಂದಿಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಚಿಕಿತ್ಸೆ ನೀಡಿ. ಈ ವಿಶಾಲ ವರ್ಣಪಟಲದ ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕವು ಸಾವಯವ ಬಳಕೆಗಾಗಿ ನೋಂದಾಯಿಸಲಾದ ಬ್ಯಾಸಿಲಸ್ ಸಬ್ಟಿಲಿಸ್ನ ಪೇಟೆಂಟ್ ಪಡೆದ ತಳಿಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಎಲ್ಲಕ್ಕಿಂತ ಮುಖ್ಯವಾಗಿ, ಸೆರೇನೇಡ್ ಜೇನುನೊಣಗಳು ಮತ್ತು ಪ್ರಯೋಜನಕಾರಿ ಕೀಟಗಳಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ವಿಷಕಾರಿಯಲ್ಲ. \n 9. ಸಾವಯವ ಬಳಕೆಗಾಗಿ ಅನುಮೋದಿಸಲಾದ ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕವಾದ ಮೈಕೋಸ್ಟಾಪ್, ರೋಗದ ನಿಗ್ರಹವನ್ನು ತೋರಿಸಿದೆ. ಹರಿಯುವ ಎಲೆಗಳು, ಹೂವುಗಳು ಮತ್ತು ಹಣ್ಣುಗಳಿಗೆ ನೇರ ಸಿಂಪಡಣೆ (5 ಗ್ರಾಂ/50 ಲೀಟರ್ ನೀರು). ಪ್ರತಿ 2ರಿಂದ 3 ವಾರಗಳಿಗೊಮ್ಮೆ ಅಥವಾ ರೋಗದ ಒತ್ತಡವನ್ನು ಅವಲಂಬಿಸಿ ಅಗತ್ಯವಿರುವಂತೆ ಅನ್ವಯಿಸಿ. ಗ್ರೀನ್ ಕ್ಯೂರ್ ಶಿಲೀಂಧ್ರನಾಶಕವು ಪೊಟ್ಯಾಸಿಯಮ್ ಬೈಕಾರ್ಬನೇಟ್ನ ಪೇಟೆಂಟ್ ಪಡೆದ ಸೂತ್ರವನ್ನು ಹೊಂದಿದೆ-ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಆಹಾರ ಉತ್ಪನ್ನಗಳಲ್ಲಿ ಬಳಸಲಾಗುತ್ತದೆ-ಇದು ಸಂಪರ್ಕದಲ್ಲಿದ್ದಾಗ ಅನೇಕ ಸಸ್ಯ ರೋಗಗಳನ್ನು ಕೊಲ್ಲುತ್ತದೆ ಮತ್ತು 2 ವಾರಗಳವರೆಗೆ ಉಳಿದ ರಕ್ಷಣೆಯನ್ನು ಒದಗಿಸುತ್ತದೆ. ರೋಗದ ಮೊದಲ ಚಿಹ್ನೆಯಲ್ಲಿ, 1-2 ಟೇಬಲ್ಸ್ಪೂನ್/ಗ್ಯಾಲನ್ ನೀರನ್ನು ಬೆರೆಸಿ ಸಸ್ಯದ ಎಲ್ಲಾ ಒಡ್ಡಿದ ಮೇಲ್ಮೈಗಳಿಗೆ ಅನ್ವಯಿಸಿ. ಉತ್ತಮ ರಕ್ಷಣೆಗಾಗಿ, ರೋಗದ ಬೆಳವಣಿಗೆಗೆ ಪರಿಸ್ಥಿತಿಗಳು ಅನುಕೂಲಕರವಾಗಿರದವರೆಗೂ 1ರಿಂದ 2 ವಾರಗಳ ಮಧ್ಯಂತರದಲ್ಲಿ ಪುನರಾವರ್ತಿಸಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_197": {
+        "imagename": "v1_197.jpg",
+        "question": "ಈ ರೋಗ ಏನು (ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯವನ್ನು ನೀಡಿ) ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಗುಣಪಡಿಸುವುದು?",
+        "answer": "ಇದು ಮುಂಚಿನ ರೋಗ. ಟೊಮೆಟೊ ಮತ್ತು ಆಲೂಗೆಡ್ಡೆ ಸಸ್ಯಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುವ ಆರಂಭಿಕ ರೋಗವು ಆಲ್ಟರ್ನೇರಿಯಾ ಸೋಲಾನಿ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ ಮತ್ತು ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ನಾದ್ಯಂತ ಕಂಡುಬರುತ್ತದೆ. ರೋಗಲಕ್ಷಣಗಳು ಮೊದಲು ಕೆಳಗಿನ, ಹಳೆಯ ಎಲೆಗಳ ಮೇಲೆ \"ಬುಲ್ಸ್ ಐ\" ಮಾದರಿಯನ್ನು ರೂಪಿಸುವ ಕೇಂದ್ರೀಕೃತ ಉಂಗುರಗಳನ್ನು ಹೊಂದಿರುವ ಸಣ್ಣ ಕಂದು ಬಣ್ಣದ ಚುಕ್ಕೆಗಳಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ರೋಗವು ಬೆಳೆದಂತೆ, ಇದು ಎಲೆಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ಹೊರಕ್ಕೆ ಹರಡುತ್ತದೆ, ಇದು ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ, ಒಣಗಿ ಸಾಯುತ್ತದೆ. ಅಂತಿಮವಾಗಿ ಕಾಂಡ, ಹಣ್ಣು ಮತ್ತು ಸಸ್ಯದ ಮೇಲಿನ ಭಾಗವು ಸೋಂಕಿಗೆ ಒಳಗಾಗುತ್ತದೆ. ಬೆಳೆಗಳು ತೀವ್ರವಾಗಿ ಹಾನಿಗೊಳಗಾಗಬಹುದು. \n \n ಮುಂಚಿನ ರೋಗವು ಸೋಂಕಿತ ಸಸ್ಯದ ಅಂಗಾಂಶಗಳ ಮೇಲೆ ಅತಿಯಾಗಿ ಬೀಳುತ್ತದೆ ಮತ್ತು ಮಳೆ, ನೀರಾವರಿ, ಕೀಟಗಳು ಮತ್ತು ತೋಟದ ಉಪಕರಣಗಳನ್ನು ಸಿಂಪಡಿಸುವ ಮೂಲಕ ಹರಡುತ್ತದೆ. ಈ ರೋಗವು ಟೊಮೆಟೊ ಬೀಜಗಳು ಮತ್ತು ಆಲೂಗೆಡ್ಡೆ ಗೆಡ್ಡೆಗಳಲ್ಲಿಯೂ ಸಹ ಹರಡುತ್ತದೆ. ಅದರ ಹೆಸರಿನ ಹೊರತಾಗಿಯೂ, ಆರಂಭಿಕ ರೋಗವು ಬೆಳೆಯುವ ಋತುವಿನ ಉದ್ದಕ್ಕೂ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಸಂಭವಿಸಬಹುದು. ಹೆಚ್ಚಿನ ತಾಪಮಾನಗಳು (80-85 °F.) ಮತ್ತು ಆರ್ದ್ರ, ತೇವಾಂಶದ ಪರಿಸ್ಥಿತಿಗಳು ಅದರ ತ್ವರಿತ ಹರಡುವಿಕೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತವೆ. ಅನೇಕ ಸಂದರ್ಭಗಳಲ್ಲಿ, ಕಳಪೆ ಪೋಷಣೆ ಅಥವಾ ಒತ್ತಡಕ್ಕೊಳಗಾದ ಸಸ್ಯಗಳ ಮೇಲೆ ದಾಳಿ ಮಾಡಲಾಗುತ್ತದೆ. \n \n ಟ್ರೀಟ್ಮೆಂಟ್ \n ಗಾಳಿಯ ಪ್ರಸರಣವನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳ ಸಮಸ್ಯೆಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಸಸ್ಯಗಳನ್ನು ಕತ್ತರಿಸಿಕೊಳ್ಳಿ. \n ಪ್ರತಿ ಕತ್ತರಿಸಿದ ನಂತರ ನಿಮ್ಮ ಸಮರುವಿಕೆಯ ಕತ್ತರಿಗಳನ್ನು (4 ಭಾಗಗಳ ನೀರಿಗೆ ಒಂದು ಭಾಗ ಬ್ಲೀಚ್) ಸೋಂಕುನಿವಾರಕಗೊಳಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. \n ಸಸ್ಯಗಳ ಕೆಳಗಿರುವ ಮಣ್ಣನ್ನು ಸ್ವಚ್ಛವಾಗಿ ಮತ್ತು ಉದ್ಯಾನದ ಅವಶೇಷಗಳಿಂದ ಮುಕ್ತವಾಗಿರಿಸಿಕೊಳ್ಳಿ. ಬೀಜಕಗಳು ಸಸ್ಯವರ್ಗದ ಮೇಲೆ ಮತ್ತೆ ಚಿಮ್ಮುವುದನ್ನು ತಡೆಯಲು ಸಾವಯವ ಮಿಶ್ರಗೊಬ್ಬರದ ಪದರವನ್ನು ಸೇರಿಸಿ. \n ಎಲೆಗಳನ್ನು ಒಣಗಿಸಲು ಸಹಾಯ ಮಾಡಲು ಹನಿ ನೀರಾವರಿ ಮತ್ತು ಸೋಕರ್ ಮೆತುನೀರ್ನಾಳಗಳನ್ನು ಬಳಸಬಹುದು. \n ಉತ್ತಮ ನಿಯಂತ್ರಣಕ್ಕಾಗಿ, ರೋಗವು ಸಾಮಾನ್ಯವಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಎರಡು ವಾರಗಳ ಮೊದಲು ಅಥವಾ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆಗಳು ದೀರ್ಘಾವಧಿಯ ಆರ್ದ್ರ ಹವಾಮಾನವನ್ನು ಊಹಿಸಿದಾಗ, ತಾಮ್ರ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಮೊದಲೇ ಅನ್ವಯಿಸಿ. ಪರ್ಯಾಯವಾಗಿ, ರೋಗವು ಮೊದಲು ಕಾಣಿಸಿಕೊಂಡಾಗ ಚಿಕಿತ್ಸೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ, ಮತ್ತು ಅಗತ್ಯವಿರುವಷ್ಟು ಕಾಲ ಪ್ರತಿ 7-10 ದಿನಗಳಿಗೊಮ್ಮೆ ಪುನರಾವರ್ತಿಸಿ. \n ತಾಮ್ರ ಮತ್ತು ಪೈರೆಥ್ರಿನ್ಗಳನ್ನು ಹೊಂದಿರುವ ಬೋನೈಡ್ ಗಾರ್ಡನ್ ಡಸ್ಟ್ ಅನೇಕ ಕೀಟಗಳ ದಾಳಿಗಳು ಮತ್ತು ಶಿಲೀಂಧ್ರಗಳ ಸಮಸ್ಯೆಗಳಿಗೆ ಸುರಕ್ಷಿತ, ಒಂದು ಹಂತದ ನಿಯಂತ್ರಣವಾಗಿದೆ. ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ, ಎಲೆಗಳ ಮೇಲ್ಭಾಗ ಮತ್ತು ಕೆಳಭಾಗಗಳೆರಡನ್ನೂ ತೆಳುವಾದ ಏಕರೂಪದ ಪದರ ಅಥವಾ ಧೂಳಿನಿಂದ ಮುಚ್ಚಿ. ಎಲೆಗಳ ಸಾಂದ್ರತೆಯನ್ನು ಅವಲಂಬಿಸಿ, 10 ಔನ್ಸ್ 625 ಚದರ ಅಡಿ ವ್ಯಾಪ್ತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಅಗತ್ಯವಿರುವಂತೆ ಪ್ರತಿ 7-10 ದಿನಗಳಿಗೊಮ್ಮೆ ಅನ್ವಯಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ. \n ಸೆರೆನೇಡ್ ಗಾರ್ಡನ್ ಒಂದು ವಿಶಾಲವಾದ ವರ್ಣಪಟಲವಾಗಿದ್ದು, ಅನೇಕ ಪ್ರಮುಖ ಸಸ್ಯ ರೋಗಗಳ ನಿಯಂತ್ರಣ ಅಥವಾ ನಿಗ್ರಹಕ್ಕಾಗಿ ಶಿಫಾರಸು ಮಾಡಲಾದ ತಡೆಗಟ್ಟುವ ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕವಾಗಿದೆ. ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ, ಎಲೆಗಳ ರೋಗವು ಬೆಳೆಯುವ ಮೊದಲು ಅಥವಾ ಸೋಂಕಿನ ಮೊದಲ ಚಿಹ್ನೆಯಲ್ಲಿ ಚಿಕಿತ್ಸೆ ನೀಡಿ. 7 ದಿನಗಳ ಅಂತರದಲ್ಲಿ ಅಥವಾ ಅಗತ್ಯವಿರುವಂತೆ ಪುನರಾವರ್ತಿಸಿ. \n ಸುಗ್ಗಿಯ ನಂತರ ಎಲ್ಲಾ ತೋಟದ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಪಡಿಸಿ ಮತ್ತು ಮುಂದಿನ ವರ್ಷ ಬೆಳೆ ಆವರ್ತನವನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ. \n ಸೋಂಕಿತ ಸಸ್ಯದ ಭಾಗಗಳನ್ನು ಸುಟ್ಟು ಅಥವಾ ಚೀಲದಲ್ಲಿ ಹಾಕಿ. ಕಾಂಪೋಸ್ಟ್ ಮಾಡಬೇಡಿ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_198": {
+        "imagename": "v1_198.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಸರ್ ಐಸಾಕ್ ನ್ಯೂಟನ್ ಎಫ್ಆರ್ಎಸ್ (25 ಡಿಸೆಂಬರ್ 1642-20 ಮಾರ್ಚ್) ಒಬ್ಬ ಇಂಗ್ಲಿಷ್ ಗಣಿತಶಾಸ್ತ್ರಜ್ಞ, ಭೌತಶಾಸ್ತ್ರಜ್ಞ, ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ, ರಸವಾದಿ, ದೇವತಾಶಾಸ್ತ್ರಜ್ಞ ಮತ್ತು ಲೇಖಕರಾಗಿದ್ದರು, ಅವರನ್ನು ಅವರ ಕಾಲದಲ್ಲಿ ನೈಸರ್ಗಿಕ ತತ್ವಜ್ಞಾನಿ ಎಂದು ವಿವರಿಸಲಾಗಿದೆ. ಅವರು ವೈಜ್ಞಾನಿಕ ಕ್ರಾಂತಿ ಮತ್ತು ನಂತರದ ಜ್ಞಾನೋದಯದಲ್ಲಿ ಪ್ರಮುಖ ವ್ಯಕ್ತಿಯಾಗಿದ್ದರು. 1687ರಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ಪ್ರಕಟವಾದ ಅವರ ಪ್ರವರ್ತಕ ಪುಸ್ತಕ ಫಿಲಾಸಫಿ ನ್ಯಾಚುರಲಿಸ್ ಪ್ರಿನ್ಸಿಪಿಯಾ ಮ್ಯಾಥಮೆಟಿಕ (ಮ್ಯಾಥಮೆಟಿಕಲ್ ಪ್ರಿನ್ಸಿಪಲ್ಸ್ ಆಫ್ ನ್ಯಾಚುರಲ್ ಫಿಲಾಸಫಿ), ಹಿಂದಿನ ಅನೇಕ ಫಲಿತಾಂಶಗಳನ್ನು ಏಕೀಕರಿಸಿತು ಮತ್ತು ಶಾಸ್ತ್ರೀಯ ಯಂತ್ರಶಾಸ್ತ್ರವನ್ನು ಸ್ಥಾಪಿಸಿತು. ನ್ಯೂಟನ್ ದೃಗ್ವಿಜ್ಞಾನಕ್ಕೆ ಮೂಲಭೂತ ಕೊಡುಗೆಗಳನ್ನು ನೀಡಿದರು ಮತ್ತು ಅನಂತ ಕಲನಶಾಸ್ತ್ರವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ್ದಕ್ಕಾಗಿ ಜರ್ಮನ್ ಗಣಿತಶಾಸ್ತ್ರಜ್ಞ ಗಾಟ್ಫ್ರೈಡ್ ವಿಲ್ಹೆಲ್ಮ್ ಲೆಬ್ನಿಜ್ ಅವರೊಂದಿಗೆ ಮನ್ನಣೆಯನ್ನು ಹಂಚಿಕೊಂಡರು.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_199": {
+        "imagename": "v1_199.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಕನ್ಫ್ಯೂಷಿಯಸ್ (ಚೀನೀಃ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ಕನ್ಫ್ಯೂಷಿಯಸ್ನ ಬೋಧನೆಗಳು ಮತ್ತು ತತ್ವಶಾಸ್ತ್ರವು ಪೂರ್ವ ಏಷ್ಯಾದ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಮಾಜಕ್ಕೆ ಆಧಾರವಾಗಿದ್ದು, ಚೀನಾ ಮತ್ತು ಪೂರ್ವ ಏಷ್ಯಾದಾದ್ಯಂತ ಇಂದಿಗೂ ಪ್ರಭಾವಶಾಲಿಯಾಗಿ ಉಳಿದಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_200": {
+        "imagename": "v1_200.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಕೈ ಲುನ್ (ಚೀನೀಃ ಚೀನಿ; ಸೌಜನ್ಯದ ಹೆಸರುಃ ಜಿಂಗ್ಝಾಂಗ್ (ಚಿ); c. 50-62-ಸಾ. ಶ. 121), ಹಿಂದೆ ತ್ಸೈ ಲುನ್ ಎಂದು ರೋಮನೀಕರಿಸಲ್ಪಟ್ಟಿದ್ದ, ಪೂರ್ವ ಹಾನ್ ರಾಜವಂಶದ ಚೀನೀ ನಪುಂಸಕ ಆಸ್ಥಾನದ ಅಧಿಕಾರಿಯಾಗಿದ್ದರು. ಅವರನ್ನು ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಕಾಗದದ ಆವಿಷ್ಕಾರಕ ಮತ್ತು ಆಧುನಿಕ ಕಾಗದ ತಯಾರಿಕಾ ಪ್ರಕ್ರಿಯೆಯ ಆವಿಷ್ಕಾರಕ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಕಾಗದದ ಆರಂಭಿಕ ರೂಪಗಳು ಸಾ. ಶ. ಪೂ. 3ನೇ ಶತಮಾನದಿಂದಲೂ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದರೂ, ಮರದ ತೊಗಟೆ ಮತ್ತು ಸೆಣಬಿನ ತುದಿಗಳ ಮೂಲಕ ತಿರುಳನ್ನು ಸೇರಿಸಿದ್ದರಿಂದ ಅವರು ಕಾಗದದ ಇತಿಹಾಸದಲ್ಲಿ ಪ್ರಮುಖ ಸ್ಥಾನವನ್ನು ಪಡೆದುಕೊಂಡಿದ್ದಾರೆ, ಇದು ದೊಡ್ಡ ಪ್ರಮಾಣದ ಉತ್ಪಾದನೆ ಮತ್ತು ವಿಶ್ವದಾದ್ಯಂತ ಕಾಗದದ ಹರಡುವಿಕೆಗೆ ಕಾರಣವಾಯಿತು.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_201": {
+        "imagename": "v1_201.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಕ್ರಿಸ್ಟೋಫರ್ ಕೊಲಂಬಸ್ (25 ಆಗಸ್ಟ್ ಮತ್ತು 31 ಅಕ್ಟೋಬರ್ 1451-20 ಮೇ 1506ರ ನಡುವೆ) ಜಿನೋವಾ ಗಣರಾಜ್ಯದ ಇಟಾಲಿಯನ್ ಪರಿಶೋಧಕ ಮತ್ತು ನಾವಿಕನಾಗಿದ್ದನು, ಆತ ಕ್ಯಾಥೋಲಿಕ್ ರಾಜರು ಪ್ರಾಯೋಜಿಸಿದ ಅಟ್ಲಾಂಟಿಕ್ ಮಹಾಸಾಗರದಾದ್ಯಂತ ನಾಲ್ಕು ಸ್ಪ್ಯಾನಿಷ್-ಮೂಲದ ಸಮುದ್ರಯಾನಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದನು, ಇದು ವ್ಯಾಪಕವಾದ ಯುರೋಪಿಯನ್ ಪರಿಶೋಧನೆ ಮತ್ತು ಅಮೆರಿಕಾದ ಯುರೋಪಿಯನ್ ವಸಾಹತುಶಾಹಿಗೆ ದಾರಿ ಮಾಡಿಕೊಟ್ಟಿತು. ಅವನ ದಂಡಯಾತ್ರೆಗಳು ಕೆರಿಬಿಯನ್ ಮತ್ತು ಮಧ್ಯ ಮತ್ತು ದಕ್ಷಿಣ ಅಮೆರಿಕಾದೊಂದಿಗಿನ ಮೊದಲ ಯುರೋಪಿಯನ್ ಸಂಪರ್ಕವಾಗಿತ್ತು.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_202": {
+        "imagename": "v1_202.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಆಲ್ಬರ್ಟ್ ಐನ್ಸ್ಟೈನ್ (14 ಮಾರ್ಚ್ 1879-18 ಏಪ್ರಿಲ್ 1955) ಜರ್ಮನ್ ಮೂಲದ ಸೈದ್ಧಾಂತಿಕ ಭೌತಶಾಸ್ತ್ರಜ್ಞರಾಗಿದ್ದರು. ಸಾಪೇಕ್ಷತಾ ಸಿದ್ಧಾಂತವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲು ಹೆಸರುವಾಸಿಯಾದ ಅವರು, ಕ್ವಾಂಟಮ್ ಮೆಕ್ಯಾನಿಕ್ಸ್ ಸಿದ್ಧಾಂತದ ಅಭಿವೃದ್ಧಿಗೆ ಮತ್ತು ಆಧುನಿಕ ಭೌತಶಾಸ್ತ್ರಕ್ಕೆ ಪ್ರಮುಖ ಕೊಡುಗೆಗಳನ್ನು ನೀಡಿದರು. ಸಾಪೇಕ್ಷತಾ ಸಿದ್ಧಾಂತದಿಂದ ಉದ್ಭವಿಸುವ ಆತನ ದ್ರವ್ಯರಾಶಿ-ಶಕ್ತಿಯ ಸಮಾನ ಸೂತ್ರ E = mc2 ಅನ್ನು \"ವಿಶ್ವದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಸಮೀಕರಣ\" ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಅವರ ಕೃತಿಯು ವಿಜ್ಞಾನದ ತತ್ವಶಾಸ್ತ್ರದ ಮೇಲಿನ ಪ್ರಭಾವಕ್ಕೂ ಹೆಸರುವಾಸಿಯಾಗಿದೆ. ಅವರು 1921 ರ ಭೌತಶಾಸ್ತ್ರದ ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿಯನ್ನು \"ಸೈದ್ಧಾಂತಿಕ ಭೌತಶಾಸ್ತ್ರಕ್ಕೆ ನೀಡಿದ ಸೇವೆಗಳಿಗಾಗಿ, ಮತ್ತು ವಿಶೇಷವಾಗಿ ದ್ಯುತಿವಿದ್ಯುತ್ ಪರಿಣಾಮದ ನಿಯಮವನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದಕ್ಕಾಗಿ\" ಪಡೆದರು, ಇದು ಕ್ವಾಂಟಮ್ ಸಿದ್ಧಾಂತದ ಅಭಿವೃದ್ಧಿಯಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಹೆಜ್ಜೆಯಾಗಿದೆ. ಆವರ್ತಕ ಕೋಷ್ಟಕದಲ್ಲಿನ ಸಂಶ್ಲೇಷಿತ ಅಂಶಗಳಲ್ಲಿ ಒಂದಾದ ಐನ್ಸ್ಟೈನಿಯಂ ಅನ್ನು ಅವರ ಗೌರವಾರ್ಥವಾಗಿ ಹೆಸರಿಸಲಾಯಿತು.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_203": {
+        "imagename": "v1_203.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಲೂಯಿಸ್ ಪಾಶ್ಚರ್ ಫಾರ್ಮೆಮರ್ಸ್ (27 ಡಿಸೆಂಬರ್ 1822-28 ಸೆಪ್ಟೆಂಬರ್ 1895) ಒಬ್ಬ ಫ್ರೆಂಚ್ ರಸಾಯನಶಾಸ್ತ್ರಜ್ಞ ಮತ್ತು ಸೂಕ್ಷ್ಮ ಜೀವಶಾಸ್ತ್ರಜ್ಞರಾಗಿದ್ದು, ಲಸಿಕೆ, ಸೂಕ್ಷ್ಮಜೀವಿಯ ಹುದುಗುವಿಕೆ ಮತ್ತು ಪಾಶ್ಚರೀಕರಣದ ತತ್ವಗಳ ಆವಿಷ್ಕಾರಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದ್ದರು, ಅದರಲ್ಲಿ ಕೊನೆಯದಕ್ಕೆ ಅವರ ಹೆಸರನ್ನು ಇಡಲಾಯಿತು. ರಸಾಯನಶಾಸ್ತ್ರದಲ್ಲಿ ಅವರ ಸಂಶೋಧನೆಯು ರೋಗಗಳ ಕಾರಣಗಳು ಮತ್ತು ತಡೆಗಟ್ಟುವಿಕೆಯ ತಿಳುವಳಿಕೆಯಲ್ಲಿ ಗಮನಾರ್ಹ ಪ್ರಗತಿಗೆ ಕಾರಣವಾಯಿತು, ಇದು ನೈರ್ಮಲ್ಯ, ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಮತ್ತು ಹೆಚ್ಚಿನ ಆಧುನಿಕ ಔಷಧದ ಅಡಿಪಾಯವನ್ನು ಹಾಕಿತು. ರೇಬೀಸ್ ಮತ್ತು ಆಂಥ್ರಾಕ್ಸ್ಗೆ ಲಸಿಕೆಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುವ ಮೂಲಕ ಲಕ್ಷಾಂತರ ಜೀವಗಳನ್ನು ಉಳಿಸಿದ ಕೀರ್ತಿ ಪಾಶ್ಚರ್ ಅವರ ಕೃತಿಗಳಿಗೆ ಸಲ್ಲುತ್ತದೆ. ಅವರನ್ನು ಆಧುನಿಕ ಬ್ಯಾಕ್ಟೀರಿಯಾಲಜಿಯ ಸಂಸ್ಥಾಪಕರಲ್ಲಿ ಒಬ್ಬರೆಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ ಮತ್ತು \"ಬ್ಯಾಕ್ಟೀರಿಯಾಲಜಿಯ ಪಿತಾಮಹ\" ಮತ್ತು \"ಸೂಕ್ಷ್ಮ ಜೀವಶಾಸ್ತ್ರದ ಪಿತಾಮಹ\" ಎಂದು ಗೌರವಿಸಲಾಗಿದೆ (ರಾಬರ್ಟ್ ಕೋಚ್ ಅವರೊಂದಿಗೆ; ನಂತರದ ವಿಶೇಷಣವು ಆಂಟೊನಿ ವ್ಯಾನ್ ಲೀವೆನ್ಹೋಕ್ಗೆ ಕಾರಣವಾಗಿದೆ).",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_204": {
+        "imagename": "v1_204.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಗೆಲಿಲಿಯೋ ಡಿ ವಿನ್ಸೆಂಜೊ ಬೋನಾಯುಟಿ ಡಿ 'ಗೆಲಿಲಿ (15 ಫೆಬ್ರವರಿ 1564-8 ಜನವರಿ 1642) ಒಬ್ಬ ಇಟಾಲಿಯನ್ ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ, ಭೌತಶಾಸ್ತ್ರಜ್ಞ ಮತ್ತು ಎಂಜಿನಿಯರ್ ಆಗಿದ್ದರು, ಅವರನ್ನು ಕೆಲವೊಮ್ಮೆ ಬಹುಶ್ರುತ ಎಂದು ವರ್ಣಿಸಲಾಗುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ ಗೆಲಿಲಿಯೋ ಎಂದು ಉಲ್ಲೇಖಿಸಲಾಗುವ ಅವನ ಹೆಸರನ್ನು/ತ್ತನ್ನೆಲ್ಗಾಲ್ಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆಇಹ್ಲೆ) ಎಂದು ಉಚ್ಚರಿಸಲಾಗುತ್ತದೆ. ಅವರು ಆಗ ಫ್ಲಾರೆನ್ಸ್ನ ಡಚಿಯ ಭಾಗವಾಗಿದ್ದ ಪಿಸಾ ನಗರದಲ್ಲಿ ಜನಿಸಿದರು. ಗೆಲಿಲಿಯೋ ಅವರನ್ನು ವೀಕ್ಷಣಾ ಖಗೋಳಶಾಸ್ತ್ರ, ಆಧುನಿಕ ಯುಗದ ಶಾಸ್ತ್ರೀಯ ಭೌತಶಾಸ್ತ್ರ, ವೈಜ್ಞಾನಿಕ ವಿಧಾನ ಮತ್ತು ಆಧುನಿಕ ವಿಜ್ಞಾನದ ಪಿತಾಮಹ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_205": {
+        "imagename": "v1_205.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಚಕ್ರವರ್ತಿ ನಾರ್ಟನ್ ಎಂದು ಕರೆಯಲ್ಪಡುವ ಜೋಶುವಾ ಅಬ್ರಹಾಂ ನಾರ್ಟನ್ (ಫೆಬ್ರವರಿ 4,1818-ಜನವರಿ 8,1880), ಕ್ಯಾಲಿಫೋರ್ನಿಯಾದ ಸ್ಯಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೋದ ನಿವಾಸಿಯಾಗಿದ್ದು, 1859 ರಲ್ಲಿ ತನ್ನನ್ನು ತಾನು \"ನಾರ್ಟನ್ I, ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ನ ಚಕ್ರವರ್ತಿ\" ಎಂದು ಘೋಷಿಸಿಕೊಂಡನು. 1863ರಲ್ಲಿ, ಮೂರನೇ ನೆಪೋಲಿಯನ್ ಮೆಕ್ಸಿಕೋದ ಮೇಲೆ ಆಕ್ರಮಣ ಮಾಡಿದ ನಂತರ, ಆತ \"ಪ್ರೊಟೆಕ್ಟರ್ ಆಫ್ ಮೆಕ್ಸಿಕೋ\" ಎಂಬ ದ್ವಿತೀಯ ಬಿರುದನ್ನು ಪಡೆದರು.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_206": {
+        "imagename": "v1_206.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಲಿಯೋ ಮೆಸ್ಸಿ ಎಂದೂ ಕರೆಯಲ್ಪಡುವ ಲಿಯೋನೆಲ್ ಆಂಡ್ರೆಸ್ ಮೆಸ್ಸಿ (ಸ್ಪ್ಯಾನಿಷ್ ಉಚ್ಚಾರಣೆಃ [ljo ˈnel an ˈdɾes ˈmesi] (ಕೇಳಿ); ಜನನ 24 ಜೂನ್ 1987) ಅರ್ಜೆಂಟೀನಾದ ವೃತ್ತಿಪರ ಫುಟ್ಬಾಲ್ ಆಟಗಾರರಾಗಿದ್ದು, ಅವರು ಲೀಗ್ 1 ಕ್ಲಬ್ ಪ್ಯಾರಿಸ್ ಸೇಂಟ್-ಜರ್ಮೈನ್ಗೆ ಫಾರ್ವರ್ಡ್ ಆಗಿ ಆಡುತ್ತಾರೆ ಮತ್ತು ಅರ್ಜೆಂಟೀನಾ ರಾಷ್ಟ್ರೀಯ ತಂಡದ ನಾಯಕರಾಗಿದ್ದಾರೆ. ಸಾರ್ವಕಾಲಿಕ ಶ್ರೇಷ್ಠ ಆಟಗಾರರಲ್ಲಿ ಒಬ್ಬರೆಂದು ವ್ಯಾಪಕವಾಗಿ ಪರಿಗಣಿಸಲ್ಪಟ್ಟಿರುವ ಮೆಸ್ಸಿ, ದಾಖಲೆಯ ಏಳು ಬ್ಯಾಲನ್ ಡಿ 'ಓರ್ ಪ್ರಶಸ್ತಿಗಳು ಮತ್ತು ದಾಖಲೆಯ ಆರು ಯುರೋಪಿಯನ್ ಗೋಲ್ಡನ್ ಶೂಗಳನ್ನು ಗೆದ್ದಿದ್ದಾರೆ ಮತ್ತು 2020 ರಲ್ಲಿ ಅವರನ್ನು ಬ್ಯಾಲನ್ ಡಿ' ಓರ್ ಡ್ರೀಮ್ ತಂಡಕ್ಕೆ ಹೆಸರಿಸಲಾಯಿತು. 2021 ರಲ್ಲಿ ಕ್ಲಬ್ ಅನ್ನು ತೊರೆಯುವವರೆಗೂ, ಅವರು ತಮ್ಮ ಸಂಪೂರ್ಣ ವೃತ್ತಿಪರ ವೃತ್ತಿಜೀವನವನ್ನು ಬಾರ್ಸಿಲೋನಾದಲ್ಲಿ ಕಳೆದಿದ್ದರು, ಅಲ್ಲಿ ಅವರು ಹತ್ತು ಲಾ ಲಿಗಾ ಪ್ರಶಸ್ತಿಗಳು, ಏಳು ಕೋಪಾ ಡೆಲ್ ರೇ ಪ್ರಶಸ್ತಿಗಳು ಮತ್ತು ನಾಲ್ಕು ಬಾರಿ ಯುಇಎಫ್ಎ ಚಾಂಪಿಯನ್ಸ್ ಲೀಗ್ ಸೇರಿದಂತೆ ಕ್ಲಬ್-ದಾಖಲೆಯ 34 ಟ್ರೋಫಿಗಳನ್ನು ಗೆದ್ದಿದ್ದಾರೆ. ತಮ್ಮ ದೇಶದೊಂದಿಗೆ, ಅವರು 2021ರ ಕೋಪಾ ಅಮೆರಿಕಾ ಮತ್ತು 2022ರ ಫಿಫಾ ವಿಶ್ವಕಪ್ ಅನ್ನು ಗೆದ್ದರು. ಲಾ ಲಿಗಾದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಗೋಲುಗಳನ್ನು (474), ಲಾ ಲಿಗಾ (36) ಮತ್ತು ಯುಇಎಫ್ಎ ಚಾಂಪಿಯನ್ಸ್ ಲೀಗ್ನಲ್ಲಿ (ಎಂಟು) ಅತಿ ಹೆಚ್ಚು ಹ್ಯಾಟ್ರಿಕ್ಗಳನ್ನು ಮತ್ತು ಲಾ ಲಿಗಾ (192) ಮತ್ತು ಕೋಪಾ ಅಮೆರಿಕಾದಲ್ಲಿ (17) ಅತಿ ಹೆಚ್ಚು ಅಸಿಸ್ಟ್ಗಳನ್ನು ಗಳಿಸಿದ ದಾಖಲೆಯನ್ನು ಮೆಸ್ಸಿ ಹೊಂದಿದ್ದಾರೆ. ಅವರು ದಕ್ಷಿಣ ಅಮೆರಿಕಾದ ಪುರುಷರಿಂದ (102) ಅತಿ ಹೆಚ್ಚು ಅಂತರರಾಷ್ಟ್ರೀಯ ಗೋಲುಗಳನ್ನು ಹೊಂದಿದ್ದಾರೆ. ಮೆಸ್ಸಿ ಕ್ಲಬ್ ಮತ್ತು ದೇಶಕ್ಕಾಗಿ 800ಕ್ಕೂ ಹೆಚ್ಚು ಹಿರಿಯ ವೃತ್ತಿಜೀವನದ ಗೋಲುಗಳನ್ನು ಗಳಿಸಿದ್ದಾರೆ ಮತ್ತು ಒಂದೇ ಕ್ಲಬ್ಗಾಗಿ (672) ಒಬ್ಬ ಆಟಗಾರನಿಂದ ಅತಿ ಹೆಚ್ಚು ಗೋಲುಗಳನ್ನು ಗಳಿಸಿದ್ದಾರೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_207": {
+        "imagename": "v1_207.jpg",
+        "question": "ನೀವು ಈ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಒಂದು ಸಣ್ಣ ಪರಿಚಯವನ್ನು ನೀಡಬಹುದೇ?",
+        "answer": "ಅಲನ್ ಮ್ಯಾಥಿಸನ್ ಟ್ಯೂರಿಂಗ್ ಒಬಿಇ ಎಫ್. ಆರ್. ಎಸ್. (23 ಜೂನ್ 1912-7 ಜೂನ್ 1954) ಒಬ್ಬ ಇಂಗ್ಲಿಷ್ ಗಣಿತಶಾಸ್ತ್ರಜ್ಞ, ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನಿ, ತರ್ಕಶಾಸ್ತ್ರಜ್ಞ, ಗುಪ್ತ ಲಿಪಿ ವಿಶ್ಲೇಷಕ, ತತ್ವಜ್ಞಾನಿ ಮತ್ತು ಸೈದ್ಧಾಂತಿಕ ಜೀವಶಾಸ್ತ್ರಜ್ಞರಾಗಿದ್ದರು. ಸೈದ್ಧಾಂತಿಕ ಗಣಕಯಂತ್ರ ವಿಜ್ಞಾನದ ಅಭಿವೃದ್ಧಿಯಲ್ಲಿ ಟ್ಯೂರಿಂಗ್ ಅತ್ಯಂತ ಪ್ರಭಾವಶಾಲಿಯಾಗಿದ್ದು, ಸಾಮಾನ್ಯ-ಉದ್ದೇಶದ ಗಣಕಯಂತ್ರದ ಮಾದರಿ ಎಂದು ಪರಿಗಣಿಸಬಹುದಾದ ಟ್ಯೂರಿಂಗ್ ಯಂತ್ರದೊಂದಿಗೆ ಕ್ರಮಾವಳಿ ಮತ್ತು ಗಣನೆಯ ಪರಿಕಲ್ಪನೆಗಳ ಔಪಚಾರಿಕತೆಯನ್ನು ಒದಗಿಸಿದರು. ಅವರನ್ನು ಸೈದ್ಧಾಂತಿಕ ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ ಮತ್ತು ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯ ಪಿತಾಮಹ ಎಂದು ವ್ಯಾಪಕವಾಗಿ ಪರಿಗಣಿಸಲಾಗಿದೆ.",
+        "capability": [
+            "rec",
+            "know",
+            "gen"
+        ],
+        "imagesource": "web"
+    },
+    "v1_208": {
+        "imagename": "v1_208.png",
+        "question": "ಕೆಳಗಿನ ರೇಖಾಚಿತ್ರವು ದೀರ್ಘಾವಧಿಯ ಅಂತಾರಾಷ್ಟ್ರೀಯ ವಲಸೆಯನ್ನು ತೋರಿಸುತ್ತದೆ, UK, 1999-2008. \n \n ಮುಖ್ಯ ಲಕ್ಷಣಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ವರದಿ ಮಾಡುವ ಮೂಲಕ ಮಾಹಿತಿಯನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಿ ಮತ್ತು ಸೂಕ್ತವಾದಲ್ಲಿ ಹೋಲಿಕೆಗಳನ್ನು ಮಾಡಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ಈ ಚಾರ್ಟ್ 1999 ಮತ್ತು 2008ರ ನಡುವಿನ ಯುಕೆ ವಲಸೆ, ವಲಸೆ ಮತ್ತು ನಿವ್ವಳ ವಲಸೆಯ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ನೀಡುತ್ತದೆ. \n \n ವಲಸೆ ಮತ್ತು ವಲಸೆ ಪ್ರಮಾಣಗಳೆರಡೂ ತೋರಿಸಿದ ಅವಧಿಯಲ್ಲಿ ಏರಿದವು, ಆದರೆ ವಲಸೆಯ ಅಂಕಿಅಂಶಗಳು ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಾಗಿದ್ದವು. 2004 ಮತ್ತು 2007ರಲ್ಲಿ ನಿವ್ವಳ ವಲಸೆಯು ಉತ್ತುಂಗಕ್ಕೇರಿತು. \n \n 1999 ರಲ್ಲಿ, 450,000 ಕ್ಕೂ ಹೆಚ್ಚು ಜನರು ಯುಕೆಯಲ್ಲಿ ವಾಸಿಸಲು ಬಂದರು, ಆದರೆ ವಲಸೆ ಬಂದ ಜನರ ಸಂಖ್ಯೆ ಕೇವಲ 300,000 ಕ್ಕಿಂತ ಕಡಿಮೆಯಿತ್ತು. ನಿವ್ವಳ ವಲಸೆಯ ಅಂಕಿ ಅಂಶವು ಸುಮಾರು 160,000 ಆಗಿತ್ತು, ಮತ್ತು ಇದು 2003 ರವರೆಗೆ ಇದೇ ಮಟ್ಟದಲ್ಲಿತ್ತು. 1999ರಿಂದ 2004ರವರೆಗೆ, ವಲಸೆ ಪ್ರಮಾಣವು ಸುಮಾರು 150,000 ಜನರಷ್ಟು ಹೆಚ್ಚಾಯಿತು, ಆದರೆ ವಲಸೆಯಲ್ಲಿ ಬಹಳ ಕಡಿಮೆ ಏರಿಕೆಯಾಯಿತು. ನಿವ್ವಳ ವಲಸೆಯು 2004ರಲ್ಲಿ ಸುಮಾರು 2,50,000 ಜನರ ಗರಿಷ್ಠ ಮಟ್ಟವನ್ನು ತಲುಪಿತು. \n \n 2004ರ ನಂತರ, ವಲಸೆಯ ಪ್ರಮಾಣವು ಹೆಚ್ಚಾಗಿಯೇ ಉಳಿಯಿತು, ಆದರೆ ವಲಸೆ ಹೋಗುವ ಜನರ ಸಂಖ್ಯೆಯು ಏರಿಳಿತಗೊಂಡಿತು. 2008ರಲ್ಲಿ ಸುಮಾರು 4,20,000 ಜನರ ಗರಿಷ್ಠ ಮಟ್ಟಕ್ಕೆ ತಲುಪುವ ಮೊದಲು 2007ರಲ್ಲಿ ವಲಸೆ ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಕುಸಿಯಿತು. ಇದರ ಪರಿಣಾಮವಾಗಿ, 2007ರಲ್ಲಿ ನಿವ್ವಳ ವಲಸೆಯ ಅಂಕಿ ಅಂಶವು ಸುಮಾರು 240,000ಕ್ಕೆ ಏರಿತು, ಆದರೆ 2008ರಲ್ಲಿ ಅದು ಸುಮಾರು 160,000ಕ್ಕೆ ಕುಸಿಯಿತು.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_209": {
+        "imagename": "v1_209.png",
+        "question": "ಕೆಳಗಿನ ರೇಖಾಚಿತ್ರ ಮತ್ತು ಕೋಷ್ಟಕವು ವಿಶ್ವಾದ್ಯಂತ ನೀರಿನ ಬಳಕೆ ಮತ್ತು ಎರಡು ವಿಭಿನ್ನ ದೇಶಗಳಲ್ಲಿನ ನೀರಿನ ಬಳಕೆಯ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ನೀಡುತ್ತದೆ. \n \n ಮುಖ್ಯ ಲಕ್ಷಣಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ವರದಿ ಮಾಡುವ ಮೂಲಕ ಮಾಹಿತಿಯನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಿ ಮತ್ತು ಸೂಕ್ತವಾದಲ್ಲಿ ಹೋಲಿಕೆಗಳನ್ನು ಮಾಡಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ವಿಶ್ವದಾದ್ಯಂತ ಕೃಷಿ, ಕೈಗಾರಿಕೆ ಮತ್ತು ಮನೆಗಳಿಗೆ ಬಳಸುವ ನೀರಿನ ಪ್ರಮಾಣ ಮತ್ತು ಬ್ರೆಜಿಲ್ ಮತ್ತು ಕಾಂಗೋ ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಗಣರಾಜ್ಯದಲ್ಲಿ ನೀರಿನ ಬಳಕೆಯನ್ನು ಈ ನಕ್ಷೆಗಳು ಹೋಲಿಸುತ್ತವೆ. \n \n 1900 ಮತ್ತು 2000 ರ ನಡುವೆ ಜಾಗತಿಕ ನೀರಿನ ಅಗತ್ಯಗಳು ಗಮನಾರ್ಹವಾಗಿ ಏರಿವೆ ಮತ್ತು ಕೃಷಿಯು ಅತಿ ಹೆಚ್ಚು ಪ್ರಮಾಣದ ನೀರನ್ನು ಬಳಸುತ್ತದೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗಿದೆ. ಕಾಂಗೋಗಿಂತ ಬ್ರೆಜಿಲ್ನಲ್ಲಿ ನೀರಿನ ಬಳಕೆಯು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಾಗಿದೆ ಎಂದು ನಾವು ನೋಡಬಹುದು. \n \n 1900ರಲ್ಲಿ, ವಿಶ್ವದಾದ್ಯಂತ ಕೃಷಿ ವಲಯವು ಸುಮಾರು 500 ಚದರ ಕಿ. ಮೀ. ನೀರನ್ನು ಬಳಸುತ್ತಿತ್ತು. ಕೈಗಾರಿಕಾ ಮತ್ತು ದೇಶೀಯ ನೀರಿನ ಬಳಕೆಯ ಅಂಕಿಅಂಶಗಳು ಆ ಮೊತ್ತದ ಸುಮಾರು ಐದನೇ ಒಂದು ಭಾಗವಾಗಿವೆ. 2000 ರ ಹೊತ್ತಿಗೆ, ಕೃಷಿಗಾಗಿ ಜಾಗತಿಕ ನೀರಿನ ಬಳಕೆಯು ಸುಮಾರು 3000 ಚದರ ಕಿ. ಮೀ. ಗೆ ಏರಿತು, ಕೈಗಾರಿಕಾ ನೀರಿನ ಬಳಕೆಯು ಆ ಮೊತ್ತದ ಅರ್ಧಕ್ಕಿಂತ ಕಡಿಮೆ ಮಟ್ಟಕ್ಕೆ ಏರಿತು ಮತ್ತು ದೇಶೀಯ ಬಳಕೆಯು ಸುಮಾರು 500 ಚದರ ಕಿ. ಮೀ. ಗೆ ತಲುಪಿತ್ತು. \n \n 2000ನೇ ಇಸವಿಯಲ್ಲಿ, ಬ್ರೆಜಿಲ್ ಮತ್ತು ಕಾಂಗೋಗಳ ಜನಸಂಖ್ಯೆಯು ಕ್ರಮವಾಗಿ 176 ಮಿಲಿಯನ್ ಮತ್ತು 5.2 ಮಿಲಿಯನ್ ಆಗಿತ್ತು. ಬ್ರೆಜಿಲ್ನಲ್ಲಿ ಪ್ರತಿ ವ್ಯಕ್ತಿಗೆ ನೀರಿನ ಬಳಕೆ, 359 ಮೀ3, ಕಾಂಗೋಗಿಂತ ತುಂಬಾ ಹೆಚ್ಚಾಗಿದೆ, ಕೇವಲ 8 ಮೀ3, ಮತ್ತು ಬ್ರೆಜಿಲ್ 265 ಪಟ್ಟು ಹೆಚ್ಚು ನೀರಾವರಿ ಭೂಮಿಯನ್ನು ಹೊಂದಿದೆ ಎಂಬ ಅಂಶದಿಂದ ಇದನ್ನು ವಿವರಿಸಬಹುದು.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_210": {
+        "imagename": "v1_210.png",
+        "question": "ಕೆಳಗಿನ ಚಾರ್ಟ್ಗಳು 1970 ಮತ್ತು 2000 ರ ನಡುವಿನ ಯು. ಎಸ್. ವಿವಾಹ ಮತ್ತು ವಿಚ್ಛೇದನ ದರಗಳ ಬಗ್ಗೆ ಮತ್ತು ಎರಡು ವರ್ಷಗಳಲ್ಲಿ ವಯಸ್ಕ ಅಮೆರಿಕನ್ನರ ವೈವಾಹಿಕ ಸ್ಥಿತಿಯ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ನೀಡುತ್ತವೆ. \n \n ಮುಖ್ಯ ಲಕ್ಷಣಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ವರದಿ ಮಾಡುವ ಮೂಲಕ ಮಾಹಿತಿಯನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಿ ಮತ್ತು ಸೂಕ್ತವಾದಲ್ಲಿ ಹೋಲಿಕೆಗಳನ್ನು ಮಾಡಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ಮೊದಲ ಬಾರ್ ಚಾರ್ಟ್ ಯುಎಸ್ಎಯಲ್ಲಿ ಮದುವೆಗಳು ಮತ್ತು ವಿಚ್ಛೇದನಗಳ ಸಂಖ್ಯೆಯಲ್ಲಿನ ಬದಲಾವಣೆಗಳನ್ನು ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಎರಡನೇ ಚಾರ್ಟ್ 1970 ಮತ್ತು 2000 ರಲ್ಲಿ ಅಮೇರಿಕನ್ ವಯಸ್ಕರ ವೈವಾಹಿಕ ಸ್ಥಿತಿಯ ಅಂಕಿಅಂಶಗಳನ್ನು ತೋರಿಸುತ್ತದೆ. \n \n 1970 ಮತ್ತು 2000 ರ ನಡುವೆ ಯು. ಎಸ್. ಎ. ಯಲ್ಲಿ ಮದುವೆಗಳ ಸಂಖ್ಯೆಯಲ್ಲಿ ಕುಸಿತ ಕಂಡುಬಂದಿದೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗಿದೆ. ಬಹುಪಾಲು ವಯಸ್ಕ ಅಮೆರಿಕನ್ನರು ಎರಡೂ ವರ್ಷಗಳಲ್ಲಿ ವಿವಾಹವಾದರು, ಆದರೆ ಒಂಟಿ ವಯಸ್ಕರ ಪ್ರಮಾಣವು 2000ರಲ್ಲಿ ಹೆಚ್ಚಾಗಿತ್ತು. \n \n 1970ರಲ್ಲಿ, ಯು. ಎಸ್. ಎ. ಯಲ್ಲಿ 25 ಲಕ್ಷ ಮದುವೆಗಳು ಮತ್ತು 1 ದಶಲಕ್ಷ ವಿಚ್ಛೇದನಗಳಿದ್ದವು. 1980ರಲ್ಲಿ ಮದುವೆಯ ಪ್ರಮಾಣವು ಸ್ಥಿರವಾಗಿತ್ತು, ಆದರೆ 2000ನೇ ಇಸವಿಯ ವೇಳೆಗೆ 2 ದಶಲಕ್ಷಕ್ಕೆ ಕುಸಿಯಿತು. ಇದಕ್ಕೆ ವ್ಯತಿರಿಕ್ತವಾಗಿ, ವಿಚ್ಛೇದನದ ಪ್ರಮಾಣವು 1980ರಲ್ಲಿ ಗರಿಷ್ಠ ಮಟ್ಟವನ್ನು ತಲುಪಿತು, ಸುಮಾರು 15 ಲಕ್ಷ ವಿಚ್ಛೇದನಗಳು, ಆ ಅವಧಿಯ ಕೊನೆಯಲ್ಲಿ \n 1 ದಶಲಕ್ಷಕ್ಕೆ ಇಳಿಯುವ ಮೊದಲು. \n \n ಅಮೆರಿಕಾದ ವಯಸ್ಕರಲ್ಲಿ ಸುಮಾರು 70 ಪ್ರತಿಶತದಷ್ಟು ಜನರು 1970 ರಲ್ಲಿ ವಿವಾಹವಾದರು, ಆದರೆ ಈ ಅಂಕಿ ಅಂಶವು 2000 ರ ವೇಳೆಗೆ ಕೇವಲ 60 ಪ್ರತಿಶತದಷ್ಟು ಕಡಿಮೆಯಾಯಿತು. ಅದೇ ಸಮಯದಲ್ಲಿ, ಅವಿವಾಹಿತರು ಮತ್ತು ವಿಚ್ಛೇದನ ಪಡೆದವರ ಪ್ರಮಾಣವು ಒಟ್ಟು ಶೇಕಡಾ 10ರಷ್ಟು ಹೆಚ್ಚಾಗಿದೆ. 2000ರಲ್ಲಿ ವಿಧವೆಯಾದ ಅಮೆರಿಕನ್ನರ ಪ್ರಮಾಣವು ಸ್ವಲ್ಪ ಕಡಿಮೆಯಾಗಿತ್ತು.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_211": {
+        "imagename": "v1_211.png",
+        "question": "ಕೆಳಗಿನ ಚಾರ್ಟ್ ನಾಲ್ಕು ಯುರೋಪಿಯನ್ ದೇಶಗಳಲ್ಲಿ ಆರು ಗ್ರಾಹಕ ಸರಕುಗಳಿಗೆ ಖರ್ಚು ಮಾಡಿದ ಮೊತ್ತವನ್ನು ತೋರಿಸುತ್ತದೆ. \n \n ಕೆಳಗೆ ತೋರಿಸಿರುವ ಮಾಹಿತಿಯನ್ನು ವಿವರಿಸುವ ವರದಿಯನ್ನು ವಿಶ್ವವಿದ್ಯಾಲಯದ ಉಪನ್ಯಾಸಕರಿಗೆ ಬರೆಯಿರಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ಬಾರ್ ಚಾರ್ಟ್ ಜರ್ಮನಿ, ಇಟಲಿ, ಫ್ರಾನ್ಸ್ ಮತ್ತು ಬ್ರಿಟನ್ನ ಆರು ವಿಭಿನ್ನ ವಸ್ತುಗಳ ಮೇಲಿನ ಗ್ರಾಹಕ ವೆಚ್ಚವನ್ನು ಹೋಲಿಸುತ್ತದೆ. \n \n ಬ್ರಿಟಿಷ್ ಜನರು ಎಲ್ಲಾ ಆರು ಸರಕುಗಳ ಮೇಲೆ ಇತರ ಮೂರು ದೇಶಗಳ ಜನರಿಗಿಂತ ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚು ಹಣವನ್ನು ಖರ್ಚು ಮಾಡಿದ್ದಾರೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗಿದೆ. ಆರು ವಸ್ತುಗಳ ಪೈಕಿ, ಗ್ರಾಹಕರು ಛಾಯಾಗ್ರಹಣದ ಚಲನಚಿತ್ರಕ್ಕಾಗಿ ಹೆಚ್ಚಿನ ಹಣವನ್ನು ಖರ್ಚು ಮಾಡಿದರು. \n \n ಬ್ರಿಟನ್ನ ಜನರು ಛಾಯಾಗ್ರಹಣದ ಚಲನಚಿತ್ರಕ್ಕಾಗಿ ಕೇವಲ 170,000 ಪೌಂಡ್ಗಳನ್ನು ಖರ್ಚು ಮಾಡಿದರು, ಇದು ಪಟ್ಟಿಯಲ್ಲಿ ತೋರಿಸಲಾದ ಅತಿ ಹೆಚ್ಚು ಮೊತ್ತವಾಗಿದೆ. ಇದಕ್ಕೆ ತದ್ವಿರುದ್ಧವಾಗಿ, ಆರು ಉತ್ಪನ್ನಗಳಲ್ಲಿ ಪ್ರತಿಯೊಂದಕ್ಕೂ ಸರಿಸುಮಾರು ಒಂದೇ ಅಂಕಿ ಅಂಶಗಳೊಂದಿಗೆ (ಕೇವಲ 150,000 ಪೌಂಡ್ಗಳಿಗಿಂತ ಕಡಿಮೆ) ಜರ್ಮನರು ಒಟ್ಟಾರೆ ಕಡಿಮೆ ಖರ್ಚು ಮಾಡುವವರಾಗಿದ್ದರು. \n \n ಆಟಿಕೆಗಳ ವೆಚ್ಚದ ಅಂಕಿ ಅಂಶಗಳು ಫ್ರಾನ್ಸ್ ಮತ್ತು ಇಟಲಿ ಎರಡರಲ್ಲೂ ಒಂದೇ ಆಗಿವೆ, ಸುಮಾರು £160,000. ಆದಾಗ್ಯೂ, ಫ್ರೆಂಚ್ ಜನರು ಫೋಟೊಗ್ರಾಫಿಕ್ ಫಿಲ್ಮ್ ಮತ್ತು ಸಿಡಿಗಳಿಗಾಗಿ ಇಟಾಲಿಯನ್ನರಿಗಿಂತ ಹೆಚ್ಚು ಖರ್ಚು ಮಾಡಿದರೆ, ಇಟಾಲಿಯನ್ನರು ವೈಯಕ್ತಿಕ ಸ್ಟಿರಿಯೊಗಳು, ಟೆನಿಸ್ ರಾಕೆಟ್ಗಳು ಮತ್ತು ಸುಗಂಧ ದ್ರವ್ಯಗಳಿಗೆ ಹೆಚ್ಚು ಹಣ ಖರ್ಚು ಮಾಡಿದರು. ಫ್ರೆಂಚ್ ಜನರು ಟೆನಿಸ್ ರಾಕೆಟ್ಗಳಿಗಾಗಿ ಖರ್ಚು ಮಾಡಿದ ಮೊತ್ತ, ಸುಮಾರು £145,000, ಇದು ಪಟ್ಟಿಯಲ್ಲಿ ತೋರಿಸಲಾದ ಅತ್ಯಂತ ಕಡಿಮೆ ಮೊತ್ತವಾಗಿದೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_212": {
+        "imagename": "v1_212.png",
+        "question": "ಕೆಳಗಿನ ಕೋಷ್ಟಕವು ಆರು ನಗರಗಳಲ್ಲಿನ ಭೂಗತ ರೈಲ್ವೆ ವ್ಯವಸ್ಥೆಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ನೀಡುತ್ತದೆ. \n \n ಮುಖ್ಯ ಲಕ್ಷಣಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ವರದಿ ಮಾಡುವ ಮೂಲಕ ಮಾಹಿತಿಯನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಿ ಮತ್ತು ಸೂಕ್ತವಾದಲ್ಲಿ ಹೋಲಿಕೆಗಳನ್ನು ಮಾಡಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ಕೋಷ್ಟಕವು ಆರು ಪ್ರಮುಖ ನಗರಗಳಲ್ಲಿನ ಭೂಗತ ರೈಲು ಜಾಲಗಳ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸುತ್ತದೆ. \n \n ಕೋಷ್ಟಕವು ಆರು ಜಾಲಗಳನ್ನು ಅವುಗಳ ವಯಸ್ಸು, ಗಾತ್ರ ಮತ್ತು ಪ್ರತಿ ವರ್ಷ ಅವುಗಳನ್ನು ಬಳಸುವ ಜನರ ಸಂಖ್ಯೆಯ ದೃಷ್ಟಿಯಿಂದ ಹೋಲಿಸುತ್ತದೆ. ಮೂರು ಅತ್ಯಂತ ಹಳೆಯ ಭೂಗತ ವ್ಯವಸ್ಥೆಗಳು ದೊಡ್ಡದಾಗಿವೆ ಮತ್ತು ಹೊಸ ವ್ಯವಸ್ಥೆಗಳಿಗಿಂತ ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಿನ ಪ್ರಯಾಣಿಕರಿಗೆ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತವೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗಿದೆ. \n \n ಲಂಡನ್ ಭೂಗತ ವ್ಯವಸ್ಥೆಯು ಅತ್ಯಂತ ಹಳೆಯ ವ್ಯವಸ್ಥೆಯಾಗಿದ್ದು, ಇದನ್ನು 1863ರಲ್ಲಿ ತೆರೆಯಲಾಯಿತು. ಇದು 394 ಕಿಲೋಮೀಟರ್ ಮಾರ್ಗವನ್ನು ಹೊಂದಿರುವ ಅತಿದೊಡ್ಡ ವ್ಯವಸ್ಥೆಯಾಗಿದೆ. ಪ್ಯಾರಿಸ್ನಲ್ಲಿರುವ ಎರಡನೇ ಅತಿದೊಡ್ಡ ವ್ಯವಸ್ಥೆಯು, 199 ಕಿಲೋಮೀಟರ್ ಮಾರ್ಗದೊಂದಿಗೆ, ಲಂಡನ್ ಭೂಗತದ ಅರ್ಧದಷ್ಟು ಗಾತ್ರವನ್ನು ಹೊಂದಿದೆ. ಆದಾಗ್ಯೂ, ಇದು ವರ್ಷಕ್ಕೆ ಹೆಚ್ಚಿನ ಜನರಿಗೆ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತದೆ. ಗಾತ್ರದ ದೃಷ್ಟಿಯಿಂದ ಮೂರನೇ ಸ್ಥಾನದಲ್ಲಿದ್ದರೂ, ಟೋಕಿಯೊ ವ್ಯವಸ್ಥೆಯನ್ನು ಸುಲಭವಾಗಿ ಹೆಚ್ಚು ಬಳಸಲಾಗುತ್ತದೆ, ವರ್ಷಕ್ಕೆ 1927 ದಶಲಕ್ಷ ಪ್ರಯಾಣಿಕರು. \n \n ಮೂರು ಹೊಸ ಜಾಲಗಳಲ್ಲಿ, ಕ್ಯೋಟೋ ಮತ್ತು ಲಾಸ್ ಏಂಜಲೀಸ್ ವ್ಯವಸ್ಥೆಗಳಿಗೆ ಕೇವಲ 11 ಕಿಲೋಮೀಟರ್ ಮತ್ತು 28 ಕಿಲೋಮೀಟರ್ಗಳಿಗೆ ಹೋಲಿಸಿದರೆ, 126 ಕಿಲೋಮೀಟರ್ ಮಾರ್ಗವನ್ನು ಹೊಂದಿರುವ ವಾಷಿಂಗ್ಟನ್ ಡಿಸಿ ಭೂಗತವು ಅತ್ಯಂತ ವಿಸ್ತಾರವಾಗಿದೆ. 2001ರಲ್ಲಿ ಪ್ರಾರಂಭವಾದ ಲಾಸ್ ಏಂಜಲೀಸ್ ಜಾಲವು ಅತ್ಯಂತ ಹೊಸದು, ಆದರೆ ಕ್ಯೋಟೋ ಜಾಲವು ಅತ್ಯಂತ ಚಿಕ್ಕದಾಗಿದೆ ಮತ್ತು ವರ್ಷಕ್ಕೆ ಕೇವಲ 45 ದಶಲಕ್ಷ ಪ್ರಯಾಣಿಕರಿಗೆ ಮಾತ್ರ ಸೇವೆ ಒದಗಿಸುತ್ತದೆ.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_213": {
+        "imagename": "v1_213.jpg",
+        "question": "ಕೆಳಗಿನ ಕೋಷ್ಟಕವು 2002ರಲ್ಲಿ ಐದು ವಿಭಿನ್ನ ದೇಶಗಳಲ್ಲಿ ವಿವಿಧ ವಸ್ತುಗಳ ಮೇಲೆ ಗ್ರಾಹಕರು ಮಾಡಿದ ವೆಚ್ಚದ ಮಾಹಿತಿಯನ್ನು ನೀಡುತ್ತದೆ. \n \n ಮುಖ್ಯ ಲಕ್ಷಣಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ವರದಿ ಮಾಡುವ ಮೂಲಕ ಮಾಹಿತಿಯನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಿ ಮತ್ತು ಸೂಕ್ತವಾದಲ್ಲಿ ಹೋಲಿಕೆಗಳನ್ನು ಮಾಡಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ಈ ಕೋಷ್ಟಕವು 2002ರಲ್ಲಿ ಐದು ದೇಶಗಳಲ್ಲಿ ಮೂರು ವರ್ಗದ ಉತ್ಪನ್ನಗಳು ಮತ್ತು ಸೇವೆಗಳ ಗ್ರಾಹಕ ವೆಚ್ಚದ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣವನ್ನು ತೋರಿಸುತ್ತದೆ. \n \n ಪ್ರತಿ ದೇಶದಲ್ಲೂ ಗ್ರಾಹಕ ವೆಚ್ಚದ ಅತಿದೊಡ್ಡ ಪ್ರಮಾಣವು ಆಹಾರ, ಪಾನೀಯಗಳು ಮತ್ತು ತಂಬಾಕುಗಳಿಗೆ ಹೋಗಿದೆ ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗಿದೆ. ಮತ್ತೊಂದೆಡೆ, ವಿರಾಮ/ಶಿಕ್ಷಣ ವಿಭಾಗವು ಟೇಬಲ್ನಲ್ಲಿ ಅತ್ಯಂತ ಕಡಿಮೆ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣವನ್ನು ಹೊಂದಿದೆ. \n \n ಐದು ದೇಶಗಳಲ್ಲಿ, ಆಹಾರ, ಪಾನೀಯಗಳು ಮತ್ತು ತಂಬಾಕುಗಳ ಮೇಲೆ ಗ್ರಾಹಕ ವೆಚ್ಚವು ಟರ್ಕಿಯಲ್ಲಿ ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಾಗಿದೆ, 32.14%, ಮತ್ತು ಐರ್ಲೆಂಡ್, ಸುಮಾರು 29%. ವಿರಾಮ ಮತ್ತು ಶಿಕ್ಷಣದ ಮೇಲಿನ ವೆಚ್ಚದ ಪ್ರಮಾಣವು ಟರ್ಕಿಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಅಂದರೆ 4.35% ಆಗಿದ್ದರೆ, ಬಟ್ಟೆ ಮತ್ತು ಪಾದರಕ್ಷೆಗಳ ಮೇಲಿನ ವೆಚ್ಚವು ಇಟಲಿಯಲ್ಲಿ ಇತರ ಯಾವುದೇ ದೇಶಗಳಿಗಿಂತ ಗಮನಾರ್ಹವಾಗಿ ಶೇಕಡಾ 9ರಷ್ಟು ಹೆಚ್ಚಾಗಿದೆ. \n \n ಸ್ವೀಡನ್ ಆಹಾರ/ಪಾನೀಯಗಳು/ತಂಬಾಕು ಮತ್ತು ಬಟ್ಟೆ/ಪಾದರಕ್ಷೆಗಳ ರಾಷ್ಟ್ರೀಯ ಗ್ರಾಹಕ ವೆಚ್ಚದ ಅತ್ಯಂತ ಕಡಿಮೆ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣವನ್ನು ಹೊಂದಿದ್ದು, ಕ್ರಮವಾಗಿ ಸುಮಾರು ಶೇಕಡ 16 ಮತ್ತು ಕೇವಲ ಶೇಕಡ 5ಕ್ಕಿಂತಲೂ ಕಡಿಮೆ ಎಂದು ಕಾಣಬಹುದು. ಸ್ಪೇನ್ ಈ ವರ್ಗಗಳಿಗೆ ಸ್ವಲ್ಪ ಹೆಚ್ಚಿನ ಅಂಕಿಅಂಶಗಳನ್ನು ಹೊಂದಿತ್ತು, ಆದರೆ ವಿರಾಮ/ಶಿಕ್ಷಣಕ್ಕೆ ಅತಿ ಕಡಿಮೆ ಅಂಕಿ ಅಂಶವು ಕೇವಲ 1.98% ಆಗಿತ್ತು.",
+        "capability": [
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_214": {
+        "imagename": "v1_214.png",
+        "question": "ಕೆಳಗಿನ ಪೈ ಚಾರ್ಟ್ಗಳು 1980 ಮತ್ತು 2000 ರಲ್ಲಿ ಆಸ್ಟ್ರೇಲಿಯಾ ಮತ್ತು ಫ್ರಾನ್ಸ್ನಲ್ಲಿ ಇಂಧನ ಮೂಲದಿಂದ ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆಯ ಘಟಕಗಳನ್ನು ತೋರಿಸುತ್ತವೆ. \n \n ಮುಖ್ಯ ಲಕ್ಷಣಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ವರದಿ ಮಾಡುವ ಮೂಲಕ ಮಾಹಿತಿಯನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಿ ಮತ್ತು ಸೂಕ್ತವಾದಲ್ಲಿ ಹೋಲಿಕೆಗಳನ್ನು ಮಾಡಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ಪೈ ಚಾರ್ಟ್ಗಳು ಎರಡು ಪ್ರತ್ಯೇಕ ವರ್ಷಗಳಲ್ಲಿ ಎರಡು ದೇಶಗಳಲ್ಲಿ ಐದು ವಿಭಿನ್ನ ಇಂಧನ ಮೂಲಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಉತ್ಪಾದಿಸಲಾದ ವಿದ್ಯುತ್ ಪ್ರಮಾಣವನ್ನು ಹೋಲಿಸುತ್ತವೆ. \n \n ಆಸ್ಟ್ರೇಲಿಯಾ ಮತ್ತು ಫ್ರಾನ್ಸ್ ಎರಡರಲ್ಲೂ 1980ರಿಂದ 2000ರವರೆಗೆ ಒಟ್ಟು ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆಯು ನಾಟಕೀಯವಾಗಿ ಹೆಚ್ಚಾಯಿತು. ಎರಡೂ ದೇಶಗಳ ಒಟ್ಟು ಮೊತ್ತವು ಒಂದೇ ಆಗಿದ್ದರೂ, ಬಳಸಿದ ಇಂಧನ ಮೂಲಗಳಲ್ಲಿ ದೊಡ್ಡ ವ್ಯತ್ಯಾಸಗಳಿದ್ದವು. \n \n 1980ರಲ್ಲಿ ಆಸ್ಟ್ರೇಲಿಯಾದಲ್ಲಿ ಒಟ್ಟು 100 ವಿದ್ಯುತ್ ಘಟಕಗಳಲ್ಲಿ 50ನ್ನು ಉತ್ಪಾದಿಸಲು ಕಲ್ಲಿದ್ದಲನ್ನು ಬಳಸಲಾಯಿತು, 2000ರಲ್ಲಿ 170 ವಿದ್ಯುತ್ ಘಟಕಗಳಲ್ಲಿ 130ಕ್ಕೆ ಏರಿತು. ಇದಕ್ಕೆ ವ್ಯತಿರಿಕ್ತವಾಗಿ, 2000ರಲ್ಲಿ ಫ್ರಾನ್ಸ್ನಲ್ಲಿ ಪರಮಾಣು ಶಕ್ತಿಯು ಅತ್ಯಂತ ಪ್ರಮುಖ ಇಂಧನ ಮೂಲವಾಯಿತು, ಇದು ದೇಶದ ಸುಮಾರು ಶೇಕಡಾ 75ರಷ್ಟು ವಿದ್ಯುಚ್ಛಕ್ತಿಯನ್ನು ಉತ್ಪಾದಿಸಿತು. \n \n ಎರಡೂ ವರ್ಷಗಳಲ್ಲಿ ಆಸ್ಟ್ರೇಲಿಯಾ ತನ್ನ ವಿದ್ಯುಚ್ಛಕ್ತಿಯ ಕೇವಲ ಶೇಕಡಾ 25ಕ್ಕಿಂತ ಕಡಿಮೆ ಭಾಗಕ್ಕೆ ಜಲವಿದ್ಯುತ್ ಅನ್ನು ಅವಲಂಬಿಸಿತ್ತು, ಆದರೆ ಈ ರೀತಿಯ ವಿದ್ಯುಚ್ಛಕ್ತಿಯನ್ನು ಬಳಸಿಕೊಂಡು ಉತ್ಪತ್ತಿಯಾಗುವ ವಿದ್ಯುಚ್ಛಕ್ತಿಯ ಪ್ರಮಾಣವು ಫ್ರಾನ್ಸ್ನಲ್ಲಿ 5ರಿಂದ ಕೇವಲ 2 ಘಟಕಗಳಿಗೆ ಇಳಿದಿದೆ. ಮತ್ತೊಂದೆಡೆ, ತೈಲವು ಫ್ರಾನ್ಸ್ನಲ್ಲಿ ತುಲನಾತ್ಮಕವಾಗಿ ಪ್ರಮುಖ ಇಂಧನ ಮೂಲವಾಗಿ ಉಳಿಯಿತು, ಆದರೆ ಆಸ್ಟ್ರೇಲಿಯಾದಲ್ಲಿ ಅದರ ಬಳಕೆಯು ಕುಸಿಯಿತು. ಎರಡೂ ದೇಶಗಳು ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆಗಾಗಿ ನೈಸರ್ಗಿಕ ಅನಿಲವನ್ನು 2000ಕ್ಕಿಂತ ಗಮನಾರ್ಹವಾಗಿ 1980ರಲ್ಲಿ ಹೆಚ್ಚು ಅವಲಂಬಿಸಿವೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_215": {
+        "imagename": "v1_215.jpg",
+        "question": "ಚಾರ್ಲಿವುಡ್ ಲಂಡನ್ ಬಳಿಯ ಒಂದು ಹಳ್ಳಿಯಾಗಿದ್ದು, ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದ ಮಧ್ಯಭಾಗದಿಂದ ಅದರ ಜನಸಂಖ್ಯೆಯು ಸ್ಥಿರವಾಗಿ ಹೆಚ್ಚಾಗಿದೆ. ಕೆಳಗಿನ ನಕ್ಷೆಯು ಗ್ರಾಮದ ಅಭಿವೃದ್ಧಿಯನ್ನು ತೋರಿಸುತ್ತದೆ. \n \n ಗ್ರಾಮದ ಅಭಿವೃದ್ಧಿಯನ್ನು ವಿವರಿಸುವ ವರದಿಯನ್ನು ವಿಶ್ವವಿದ್ಯಾಲಯದ ಉಪನ್ಯಾಸಕರಿಗೆ ಬರೆಯಿರಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ಈ ನಕ್ಷೆಯು 1868 ಮತ್ತು 1994ರ ನಡುವೆ ಚಾರ್ಲಿವುಡ್ ಎಂಬ ಹಳ್ಳಿಯ ಬೆಳವಣಿಗೆಯನ್ನು ತೋರಿಸುತ್ತದೆ. \n \n ಸಾರಿಗೆ ಮೂಲಸೌಕರ್ಯವನ್ನು ಸುಧಾರಿಸಿದಂತೆ ಗ್ರಾಮವು ಬೆಳೆಯಿತು ಎಂಬುದು ಸ್ಪಷ್ಟವಾಗಿದೆ. ಅಭಿವೃದ್ಧಿಯ ನಾಲ್ಕು ಅವಧಿಗಳನ್ನು ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಲಾಗಿದೆ, ಮತ್ತು ಪ್ರತಿಯೊಂದು ಜನನಿಬಿಡ ಪ್ರದೇಶಗಳು ಮುಖ್ಯ ರಸ್ತೆಗಳು, ರೈಲ್ವೆ ಅಥವಾ ಮೋಟಾರು ಮಾರ್ಗಕ್ಕೆ ಹತ್ತಿರದಲ್ಲಿವೆ. \n \n 1868ರಿಂದ 1883ರವರೆಗೆ, ಚಾರ್ಲೀವುಡ್ ಮುಖ್ಯ ರಸ್ತೆಗಳ ಪಕ್ಕದಲ್ಲಿರುವ ಒಂದು ಸಣ್ಣ ಪ್ರದೇಶವನ್ನು ಆವರಿಸಿಕೊಂಡಿತ್ತು. ಚಾರ್ಲೀವುಡ್ ಪಾರ್ಕ್ ಮತ್ತು ಗಾಲ್ಫ್ ಕೋರ್ಸ್ ಈಗ ಈ ಮೂಲ ಹಳ್ಳಿಯ ಪ್ರದೇಶದ ಪಕ್ಕದಲ್ಲಿದೆ. ಈ ಗ್ರಾಮವು 1883 ಮತ್ತು 1922ರ ನಡುವೆ ದಕ್ಷಿಣದ ಮುಖ್ಯ ರಸ್ತೆಯ ಉದ್ದಕ್ಕೂ ಬೆಳೆಯಿತು ಮತ್ತು 1909ರಲ್ಲಿ ಈ ಪ್ರದೇಶವನ್ನು ಪಶ್ಚಿಮದಿಂದ ಪೂರ್ವಕ್ಕೆ ದಾಟುವ ರೈಲ್ವೆ ಮಾರ್ಗವನ್ನು ನಿರ್ಮಿಸಲಾಯಿತು. ಚಾರ್ಲೀವುಡ್ ನಿಲ್ದಾಣವು ಗ್ರಾಮದ ಈ ಭಾಗದಲ್ಲಿದೆ. \n \n ಚೋರ್ಲೀವುಡ್ನ ವಿಸ್ತರಣೆಯು 1970ರವರೆಗೆ ರೈಲ್ವೆ ಮಾರ್ಗದ ಉದ್ದಕ್ಕೂ ಪೂರ್ವ ಮತ್ತು ಪಶ್ಚಿಮಕ್ಕೆ ಮುಂದುವರಿಯಿತು. ಆ ಸಮಯದಲ್ಲಿ, ಗ್ರಾಮದ ಪೂರ್ವಕ್ಕೆ ಮೋಟಾರು ಮಾರ್ಗವನ್ನು ನಿರ್ಮಿಸಲಾಯಿತು, ಮತ್ತು 1970 ರಿಂದ 1994 ರವರೆಗೆ, ರೈಲ್ವೆ ಮತ್ತು ಮುಖ್ಯ ರಸ್ತೆಗಳಲ್ಲಿ ಒಂದಾದ ಮೋಟಾರು ಮಾರ್ಗದ ಛೇದಕಗಳ ಸುತ್ತ ಗ್ರಾಮದ ಹೆಚ್ಚಿನ ಅಭಿವೃದ್ಧಿ ನಡೆಯಿತು.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_216": {
+        "imagename": "v1_216.png",
+        "question": "ಕೆಳಗಿನ ನಕ್ಷೆಯು ಗಾರ್ಲ್ಸ್ಡನ್ ಪಟ್ಟಣದದ್ದಾಗಿದೆ. ಪಟ್ಟಣಕ್ಕೆ ಹೊಸ ಸೂಪರ್ಮಾರ್ಕೆಟ್ (ಎಸ್) ಅನ್ನು ಯೋಜಿಸಲಾಗಿದೆ. ನಕ್ಷೆಯು ಸೂಪರ್ಮಾರ್ಕೆಟ್ಗಾಗಿ ಎರಡು ಸಂಭವನೀಯ ತಾಣಗಳನ್ನು ತೋರಿಸುತ್ತದೆ. \n \n ಮುಖ್ಯ ಲಕ್ಷಣಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ವರದಿ ಮಾಡುವ ಮೂಲಕ ಮಾಹಿತಿಯನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಿ ಮತ್ತು ಸೂಕ್ತವಾದಲ್ಲಿ ಹೋಲಿಕೆಗಳನ್ನು ಮಾಡಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ಈ ನಕ್ಷೆಯು ಗಾರ್ಲ್ಸ್ಡನ್ ಎಂಬ ಪಟ್ಟಣದಲ್ಲಿ ಹೊಸ ಸೂಪರ್ಮಾರ್ಕೆಟ್ಗಾಗಿ ಎರಡು ಸಂಭಾವ್ಯ ಸ್ಥಳಗಳನ್ನು (ಎಸ್1 ಮತ್ತು ಎಸ್2) ತೋರಿಸುತ್ತದೆ. \n \n ಎರಡು ತಾಣಗಳ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೆಂದರೆ ಎಸ್1 ಪಟ್ಟಣದಿಂದ ಹೊರಗಿದೆ, ಆದರೆ ಎಸ್2 ಪಟ್ಟಣ ಕೇಂದ್ರದಲ್ಲಿದೆ. ಈ ತಾಣಗಳನ್ನು ರಸ್ತೆ ಅಥವಾ ರೈಲು ಮೂಲಕ ಪ್ರವೇಶದ ದೃಷ್ಟಿಯಿಂದಲೂ ಹೋಲಿಸಬಹುದು ಮತ್ತು ಅವುಗಳ ಸ್ಥಾನಗಳನ್ನು ಮೂರು ಸಣ್ಣ ಪಟ್ಟಣಗಳಿಗೆ ಹೋಲಿಸಬಹುದು. \n \n ಮಾಹಿತಿಯನ್ನು ಹೆಚ್ಚು ವಿವರವಾಗಿ ನೋಡಿದರೆ, ಎಸ್1 ಗಾರ್ಲ್ಸ್ಡನ್ನ ವಾಯುವ್ಯದಲ್ಲಿರುವ ಗ್ರಾಮೀಣ ಪ್ರದೇಶದಲ್ಲಿದೆ, ಆದರೆ ಇದು ಪಟ್ಟಣದ ವಸತಿ ಪ್ರದೇಶಕ್ಕೆ ಹತ್ತಿರದಲ್ಲಿದೆ. ಎಸ್2 ನಗರ ಕೇಂದ್ರವನ್ನು ಸುತ್ತುವರೆದಿರುವ ವಸತಿ ಪ್ರದೇಶಕ್ಕೂ ಹತ್ತಿರದಲ್ಲಿದೆ. \n \n ಹಿಂಡನ್, ಬ್ರಾನ್ಸ್ಡನ್ ಮತ್ತು ಕ್ರಾನ್ಸ್ಡನ್ನಿಂದ ಗಾರ್ಲ್ಸ್ಡನ್ ಪಟ್ಟಣ ಕೇಂದ್ರಕ್ಕೆ ಮುಖ್ಯ ರಸ್ತೆಗಳಿವೆ, ಆದರೆ ಇದು ನೋ ಟ್ರಾಫಿಕ್ ವಲಯವಾಗಿದೆ, ಆದ್ದರಿಂದ ಕಾರಿನ ಮೂಲಕ ಎಸ್ 2 ಗೆ ಪ್ರವೇಶವಿರುವುದಿಲ್ಲ. ಇದಕ್ಕೆ ವ್ಯತಿರಿಕ್ತವಾಗಿ, ಎಸ್1 ಹಿಂಡನ್ಗೆ ಹೋಗುವ ಮುಖ್ಯ ರಸ್ತೆಯಲ್ಲಿದೆ, ಆದರೆ ಬ್ರಾನ್ಸ್ಡನ್ ಮತ್ತು ಕ್ರಾನ್ಸ್ಡನ್ನಿಂದ ತಲುಪುವುದು ಹೆಚ್ಚು ಕಷ್ಟಕರವಾಗಿದೆ. ಎರಡೂ ಸೂಪರ್ಮಾರ್ಕೆಟ್ ತಾಣಗಳು ಹಿನ್ಡಾನ್ನಿಂದ ಕ್ರಾನ್ಸ್ಡನ್ಗೆ ಹೋಗುವ ಗಾರ್ಲ್ಸ್ಡನ್ ಮೂಲಕ ಹಾದುಹೋಗುವ ರೈಲ್ವೆಗೆ ಹತ್ತಿರದಲ್ಲಿವೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    },
+    "v1_217": {
+        "imagename": "v1_217.png",
+        "question": "ಕೆಳಗಿನ ರೇಖಾಚಿತ್ರವು ಆಸ್ಟ್ರೇಲಿಯನ್ ಬ್ಯೂರೋ ಆಫ್ ಮೆಟಿಯೊರಾಲಜಿ ವಿಶ್ವಾಸಾರ್ಹ ಮುನ್ಸೂಚನೆಗಳನ್ನು ನೀಡುವ ಸಲುವಾಗಿ ಹವಾಮಾನದ ಬಗ್ಗೆ ಕ್ಷಣಾರ್ಧದ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ. \n \n ಕೆಳಗೆ ತೋರಿಸಿರುವ ಮಾಹಿತಿಯನ್ನು ವಿವರಿಸುವ ವರದಿಯನ್ನು ವಿಶ್ವವಿದ್ಯಾಲಯದ ಉಪನ್ಯಾಸಕರಿಗೆ ಬರೆಯಿರಿ. \n \n ನೀವು ಕನಿಷ್ಠ 150 ಪದಗಳನ್ನು ಬರೆಯಬೇಕು.",
+        "answer": "ಹವಾಮಾನವನ್ನು ಮುನ್ಸೂಚಿಸಲು ಆಸ್ಟ್ರೇಲಿಯನ್ ಬ್ಯೂರೋ ಆಫ್ ಮೆಟಿಯೊರಾಲಜಿ ಬಳಸಿದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಈ ಅಂಕಿ-ಅಂಶವು ವಿವರಿಸುತ್ತದೆ. \n \n ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ನಾಲ್ಕು ಹಂತಗಳಿವೆ, ಹವಾಮಾನದ ಬಗೆಗಿನ ಮಾಹಿತಿಯ ಸಂಗ್ರಹದಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಈ ಮಾಹಿತಿಯನ್ನು ನಂತರ ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತದೆ, ಪ್ರಸ್ತುತಿಗಾಗಿ ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಅಂತಿಮವಾಗಿ ಸಾರ್ವಜನಿಕರಿಗೆ ಪ್ರಸಾರ ಮಾಡಲಾಗುತ್ತದೆ. \n \n ಪ್ರಕ್ರಿಯೆಯ ಮೊದಲ ಮತ್ತು ಎರಡನೇ ಹಂತಗಳನ್ನು ನೋಡಿದಾಗ, ಹವಾಮಾನ ದತ್ತಾಂಶವನ್ನು ಸಂಗ್ರಹಿಸಲು ಮೂರು ಮಾರ್ಗಗಳಿವೆ ಮತ್ತು ಅದನ್ನು ವಿಶ್ಲೇಷಿಸಲು ಮೂರು ಮಾರ್ಗಗಳಿವೆ. ಮೊದಲನೆಯದಾಗಿ, ಒಳಬರುವ ಮಾಹಿತಿಯನ್ನು ಉಪಗ್ರಹದ ಮೂಲಕ ಸ್ವೀಕರಿಸಬಹುದು ಮತ್ತು ಉಪಗ್ರಹ ಛಾಯಾಚಿತ್ರವಾಗಿ ವಿಶ್ಲೇಷಣೆಗಾಗಿ ಪ್ರಸ್ತುತಪಡಿಸಬಹುದು. ಅದೇ ಡೇಟಾವನ್ನು ರಾಡಾರ್ ಸ್ಟೇಷನ್ಗೆ ರವಾನಿಸಬಹುದು ಮತ್ತು ರಾಡಾರ್ ಪರದೆಯ ಮೇಲೆ ಅಥವಾ ಸಿನೋಪ್ಟಿಕ್ ಚಾರ್ಟ್ನಲ್ಲಿ ಪ್ರಸ್ತುತಪಡಿಸಬಹುದು. ಎರಡನೆಯದಾಗಿ, ಒಳಬರುವ ಮಾಹಿತಿಯನ್ನು ರಾಡಾರ್ನಿಂದ ನೇರವಾಗಿ ಸಂಗ್ರಹಿಸಬಹುದು ಮತ್ತು ರಾಡಾರ್ ಪರದೆಯ ಮೇಲೆ ಅಥವಾ ಸಿನೋಪ್ಟಿಕ್ ಚಾರ್ಟ್ನಲ್ಲಿ ವಿಶ್ಲೇಷಿಸಬಹುದು. ಅಂತಿಮವಾಗಿ, ಚಲಿಸುವ ದೋಣಿಗಳು ಸಹ ಸಿನೋಪ್ಟಿಕ್ ಚಾರ್ಟ್ನಲ್ಲಿ ತೋರಿಸಬಹುದಾದ ದತ್ತಾಂಶವನ್ನು ಸ್ವೀಕರಿಸುತ್ತವೆ. \n \n ಪ್ರಕ್ರಿಯೆಯ ಮೂರನೇ ಹಂತದಲ್ಲಿ, ಹವಾಮಾನ ಪ್ರಸಾರವನ್ನು ಕಂಪ್ಯೂಟರ್ಗಳಲ್ಲಿ ತಯಾರಿಸಲಾಗುತ್ತದೆ. ಅಂತಿಮವಾಗಿ, ಇದನ್ನು ದೂರದರ್ಶನದಲ್ಲಿ, ರೇಡಿಯೋದಲ್ಲಿ ಅಥವಾ ಧ್ವನಿಮುದ್ರಿತ ದೂರವಾಣಿ ಪ್ರಕಟಣೆಯಾಗಿ ಸಾರ್ವಜನಿಕರಿಗೆ ತಲುಪಿಸಲಾಗುತ್ತದೆ.",
+        "capability": [
+            "rec",
+            "ocr",
+            "gen",
+            "spat"
+        ],
+        "imagesource": "web"
+    }
+}

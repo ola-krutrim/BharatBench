@@ -1,0 +1,14 @@
+nltk
+numpy==1.24.2
+openai==0.28.0
+pycocoevalcap
+sacrebleu
+indic-nlp-library
+tqdm
+pandas
+torch
+scikit-learn
+sentence-transformers
+langdetect
+transformers
+torch

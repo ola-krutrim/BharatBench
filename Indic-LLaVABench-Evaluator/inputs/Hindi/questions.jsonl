@@ -1,0 +1,60 @@
+{"image": "001.jpg", "text": "तस्वीर में इस प्रसिद्ध दृश्य का नाम क्या है?", "category": "conv", "question_id": 0}
+{"image": "001.jpg", "text": "इस तस्वीर का विस्तार से वर्णन करें।", "category": "detail", "question_id": 1}
+{"image": "001.jpg", "text": "इस दृष्टि के बनने के संभावित कारण क्या हैं?", "category": "complex", "question_id": 2}
+{"image": "001.jpg", "text": "इस स्थान की हाल की यात्रा के बारे में एक आकर्षक यात्रा ब्लॉग पोस्ट लिखें, जिसमें सांस्कृतिक अनुभवों और देखने योग्य आकर्षणों पर प्रकाश डाला गया है, जिसमें फोटो में देखे गए आकर्षण और अन्य आकर्षण भी शामिल हैं जिन्हें आपको देखना चाहिए।", "category": "complex", "question_id": 3}
+{"image": "002.jpg", "text": "यह किस तरह का फल है?", "category": "conv", "question_id": 4}
+{"image": "002.jpg", "text": "छवि में कितने बिना कटे हुए फल हैं?", "category": "conv", "question_id": 5}
+{"image": "002.jpg", "text": "इस तस्वीर का विस्तार से वर्णन करें।", "category": "detail", "question_id": 6}
+{"image": "002.jpg", "text": "छवि में फलों की सुगंध की कल्पना करें। आप किसी ऐसे व्यक्ति को इसका वर्णन कैसे करेंगे जिसने पहले कभी यह फल नहीं खाया है?", "category": "complex", "question_id": 7}
+{"image": "003.jpg", "text": "इस तस्वीर का विस्तार से वर्णन करें।", "category": "detail", "question_id": 8}
+{"image": "003.jpg", "text": "इस चित्र का इच्छित प्रभाव क्या हो सकता है?", "category": "complex", "question_id": 9}
+{"image": "003.jpg", "text": "चर्चा करें कि कैसे कला के एक उत्कृष्ट काम पर इस रचनात्मक मोड़ की विभिन्न दर्शकों द्वारा अलग-अलग व्याख्या की जा सकती है।", "category": "complex", "question_id": 10}
+{"image": "004.jpg", "text": "तस्वीर में दिख रहे व्यक्ति का नाम क्या है?", "category": "conv", "question_id": 11}
+{"image": "004.jpg", "text": "मीम में किस प्रतिष्ठित फिल्म दृश्य की पैरोडी की जा रही है?", "category": "conv", "question_id": 12}
+{"image": "004.jpg", "text": "यह मीम एलोन मस्क की सार्वजनिक छवि, व्यक्तित्व या कार्यों को कैसे दर्शाता है या टिप्पणी करता है?", "category": "complex", "question_id": 13}
+{"image": "005.jpg", "text": "कृपया मीम को विस्तार से समझाइए।", "category": "detail", "question_id": 14}
+{"image": "005.jpg", "text": "अन्य किन तरीकों से कोई वही भावना व्यक्त कर सकता है जो यह मीम व्यक्त कर रहा है?", "category": "complex", "question_id": 15}
+{"image": "006.jpg", "text": "क्या आप जानते हैं कि इसे कौन पेंट करता है?", "category": "conv", "question_id": 16}
+{"image": "006.jpg", "text": "इस चित्र का विस्तार से वर्णन करें।", "category": "detail", "question_id": 17}
+{"image": "006.jpg", "text": "कला जगत में इस चित्रकला के ऐतिहासिक प्रभाव और महत्व पर चर्चा करें।", "category": "complex", "question_id": 18}
+{"image": "007.jpg", "text": "इस तस्वीर का विस्तार से वर्णन करें।", "category": "detail", "question_id": 19}
+{"image": "007.jpg", "text": "इस जगह की यात्रा करने के लिए सबसे अच्छा मौसम, मौसम, दिन का समय क्या है? क्या वह समय है जब यह तस्वीर ली गई थी इस जगह की यात्रा करने के लिए एक अच्छा समय है?", "category": "complex", "question_id": 20}
+{"image": "008.jpg", "text": "छवि में चरित्र का नाम क्या है?", "category": "conv", "question_id": 21}
+{"image": "008.jpg", "text": "इस चरित्र का व्यक्तित्व क्या है? समझाएँ कि चरित्र की रचना के किन तत्वों या पहलुओं ने इसकी लोकप्रियता में योगदान दिया होगा।", "category": "complex", "question_id": 22}
+{"image": "009.jpg", "text": "जब मैं यहाँ आता हूँ तो मुझे किन बातों का ध्यान रखना चाहिए?", "category": "complex", "question_id": 23}
+{"image": "009.jpg", "text": "यदि आप एक फोटोग्राफर हैं जो इस स्थान के सार को कैद करना चाहते हैं, तो आप दिन का कौन सा समय और मौसम की स्थिति चुनेंगे? अपनी पसंद के पीछे के कारणों का वर्णन करें।", "category": "complex", "question_id": 24}
+{"image": "010.jpg", "text": "इस तस्वीर का विस्तार से वर्णन करें।", "category": "detail", "question_id": 25}
+{"image": "010.jpg", "text": "इस छवि में क्या असामान्य है?", "category": "complex", "question_id": 26}
+{"image": "011.jpg", "text": "फ्रिज के बाएँ हिस्से में कौन सा फल होता है?", "category": "conv", "question_id": 27}
+{"image": "011.jpg", "text": "ब्लूबेरी के साथ स्वाद वाले दही का ब्रांड क्या है?", "category": "conv", "question_id": 28}
+{"image": "011.jpg", "text": "क्या फ्रिज में स्ट्रॉबेरी के स्वाद वाला दही है?", "category": "conv", "question_id": 29}
+{"image": "011.jpg", "text": "इस तस्वीर का विस्तार से वर्णन करें।", "category": "detail", "question_id": 30}
+{"image": "011.jpg", "text": "इनसे मैं कौन-सा भोजन बना सकता हूँ?", "category": "complex", "question_id": 31}
+{"image": "012.jpg", "text": "सेट में कितने कॉफी मग हैं?", "category": "conv", "question_id": 32}
+{"image": "012.jpg", "text": "इसके लिए एक आकर्षक उत्पाद विवरण लिखें।", "category": "complex", "question_id": 33}
+{"image": "013.jpg", "text": "इस व्यंजन की विस्तृत विधि दिखाएँ।", "category": "complex", "question_id": 34}
+{"image": "014.jpg", "text": "क्या आप इस मीम को विस्तार से समझा सकते हैं?", "category": "complex", "question_id": 35}
+{"image": "015.jpg", "text": "मीम में उल्लिखित दो मशीन लर्निंग अवधारणाएँ क्या हैं?", "category": "conv", "question_id": 36}
+{"image": "015.jpg", "text": "इस मीम का विस्तृत विवरण दें।", "category": "detail", "question_id": 37}
+{"image": "015.jpg", "text": "क्या आप समझा सकते हैं कि यह मज़ेदार क्यों है। इसके बारे में चरण-दर-चरण सोचें।", "category": "complex", "question_id": 38}
+{"image": "016.jpg", "text": "इस छवि का विस्तृत विवरण दें। पैनल-दर-पैनल इसका वर्णन करें।", "category": "detail", "question_id": 39}
+{"image": "016.jpg", "text": "इस छवि में मज़ेदार क्या है? पैनल दर पैनल इसका वर्णन करें।", "category": "complex", "question_id": 40}
+{"image": "017.jpg", "text": "प्राणी को बनाने के लिए कौन सी सामग्री दिखाई देती है?", "category": "conv", "question_id": 41}
+{"image": "017.jpg", "text": "यह एल. एल. ए. एम. ए. वास्तुकला पर आधारित एल. एल. ए. वी. ए., बड़ी भाषा और दृष्टि सहायक का लोगो है। कृपया इस लोगो को विस्तार से समझाइए, और आप इसके डिजाइन के बारे में क्या सोचते हैं।", "category": "complex", "question_id": 42}
+{"image": "018.jpg", "text": "पेंटिंग में जानवर क्या हैं और वे क्या कर रहे हैं?", "category": "conv", "question_id": 43}
+{"image": "018.jpg", "text": "इस चित्र के आधार पर एक परी कथा लिखें।", "category": "complex", "question_id": 44}
+{"image": "019.jpg", "text": "इस रेखाचित्र का विस्तार से वर्णन करें।", "category": "detail", "question_id": 45}
+{"image": "019.jpg", "text": "इस नकली वेबसाइट को एक रंगीन वेबसाइट में बदलने के लिए संक्षिप्त एच. टी. एम. एल./जे. एस. लिखें, जहाँ चुटकुलों को दो वास्तविक चुटकुलों से बदल दिया जाता है।", "category": "complex", "question_id": 46}
+{"image": "020.jpg", "text": "इस रेखाचित्र का विस्तार से वर्णन करें।", "category": "detail", "question_id": 47}
+{"image": "020.jpg", "text": "इस मॉक-अप को एक रंगीन और इंटरैक्टिव वेबसाइट में बदलने के लिए संक्षिप्त एच. टी. एम. एल./जे. एस. लिखें, जहाँ मजाक को एक वास्तविक मजाक से बदल दिया जाता है।", "category": "complex", "question_id": 48}
+{"image": "021.jpg", "text": "इस फिल्म का अंत क्या है?", "category": "conv", "question_id": 49}
+{"image": "021.jpg", "text": "फिल्म के संदर्भ में इस दृश्य का क्या महत्व है?", "category": "complex", "question_id": 50}
+{"image": "022.jpg", "text": "इन व्यंजनों को परोसने वाले रेस्तरां का नाम क्या है?", "category": "conv", "question_id": 51}
+{"image": "022.jpg", "text": "इस तस्वीर का विस्तार से वर्णन करें।", "category": "detail", "question_id": 52}
+{"image": "022.jpg", "text": "यदि कोई व्यंजन के लिए एक नया स्वाद या टॉपिंग की सिफारिश करता है, तो इस परिवर्तन का कारण बताएँ और बताएँ कि यह समग्र स्वाद को कैसे बदल सकता है।", "category": "complex", "question_id": 53}
+{"image": "023.jpg", "text": "इस विज्ञापन में कौन सा ब्रांड दिखाया गया है?", "category": "conv", "question_id": 54}
+{"image": "023.jpg", "text": "इस तस्वीर का विस्तार से वर्णन करें।", "category": "detail", "question_id": 55}
+{"image": "023.jpg", "text": "मुझे इसे घर पर पकाने की विस्तृत विधि दिखाएँ।", "category": "complex", "question_id": 56}
+{"image": "024.jpg", "text": "इस तस्वीर का विस्तार से वर्णन करें।", "category": "detail", "question_id": 57}
+{"image": "024.jpg", "text": "इस शहर को किस समस्या का सामना करना पड़ सकता है? कुछ संभावित समाधान क्या हैं?", "category": "complex", "question_id": 58}
+{"image": "024.jpg", "text": "उन सभी संकेतों की व्याख्या करें जो वर्तमान यातायात की स्थिति को इंगित करते हैं।", "category": "complex", "question_id": 59}
